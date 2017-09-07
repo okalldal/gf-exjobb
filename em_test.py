@@ -10,10 +10,10 @@ coin_biases = np.array([0.3, 0.7])
 number_of_sets = 5
 set_size = 10
 
-coin_choices = [1, 0, 0, 1, 0] #np.random.randint(2, size=number_of_sets)
-data_set = [5, 9, 8, 4, 7] #np.zeros([number_of_sets])
+coin_choices = [1, 0, 0, 1, 0]  # np.random.randint(2, size=number_of_sets)
+data_set = [5, 9, 8, 4, 7]  # np.zeros([number_of_sets])
 
-#for i in range(number_of_sets):
+# for i in range(number_of_sets):
 #    coin_choice = coin_choices[i]
 #    data_set[i] = np.random.binomial(set_size, coin_biases[coin_choice])
 
@@ -23,7 +23,7 @@ print(coin_choices)
 bias_estimate = np.array([0.6, 0.5])
 
 iterations = 10
-for i in range(iterations):
+for _ in range(iterations):
     coin_likelihoods = np.zeros([number_of_sets, 2])
     coin_prob = np.zeros([number_of_sets, 2])
     for i in range(number_of_sets):
@@ -47,8 +47,5 @@ for i in range(iterations):
 
     print(coin_prob)
     print(bias_estimate)
-
-
-
 
 print("Finished.")
