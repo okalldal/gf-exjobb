@@ -29,14 +29,9 @@ for _ in range(iterations):
     for i in range(number_of_sets):
         k = data_set[i]
         n = set_size
-        coin_likelihoods[i, 0] = comb(n, k)\
-                                 * np.power(bias_estimate[0], k)\
-                                 * np.power(1-bias_estimate[0], n-k)
-        coin_likelihoods[i, 1] = comb(n, k) \
-                                 * np.power(bias_estimate[1], k) \
-                                 * np.power(1 - bias_estimate[1], n - k)
-        coin_prob[i, :] = coin_likelihoods[i, :]\
-                          / (coin_likelihoods[i, 0]+coin_likelihoods[i, 1])
+        coin_likelihoods[i, 0] = np.power(bias_estimate[0], k) * np.power(1-bias_estimate[0], n-k)
+        coin_likelihoods[i, 1] = np.power(bias_estimate[1], k) * np.power(1 - bias_estimate[1], n - k)
+        coin_prob[i, :] = coin_likelihoods[i, :] / (coin_likelihoods[i, 0]+coin_likelihoods[i, 1])
     tot_A = np.sum(coin_prob[:, 0])*10
     tot_B = np.sum(coin_prob[:, 1])*10
     head_A = np.sum(coin_prob[:, 0]*data_set)
