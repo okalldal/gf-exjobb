@@ -63,7 +63,7 @@ class ParameterSet:
         current_type_id = 0
         for feature_type in feature_types:
             if feature_type not in self.feature_type_map.keys():
-                self.feature_type_map[feature_type] = current_id
+                self.feature_type_map[feature_type] = current_type_id
                 current_type_id = current_type_id + 1
             self.feature_val_map[feature_type] = dict()
             current_val_id = 0
@@ -143,10 +143,7 @@ def estimate_parameters_EM(file_path, tag_keys, feature_keys, tags_to_senses, it
 
 UD_FILE = 'en-ud-dev.conllu.txt'
 tag_keys = ['lemma', 'ctag']
-feature_keys = ['rel', 'head_lemma', 'head_ctag']
+feature_keys = ['rel', 'head_ctag']
 tags_to_senses = {'come_VERB' : ['come_1', 'come_2']}
-estimated_params = estimate_parameters_EM(UD_FILE, tag_keys, feature_keys, tags_to_senses)
-
-
-
-
+estimated_params = estimate_parameters_EM(UD_FILE, tag_keys, feature_keys, tags_to_senses, iterations=100)
+print(estimated_params['come_VERB'].params)
