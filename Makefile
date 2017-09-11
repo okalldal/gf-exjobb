@@ -1,16 +1,27 @@
+IMG_NAME = exjobb
+
 build:
-	docker build -t exjobb .
+	docker build -t $(IMG_NAME) .
 
 notebook:
-	docker run -d -p 8888:8888 -v $(PWD)/work:/home/jovyan/work exjobb
+	docker run -d -p 8888:8888 \
+	-v $(PWD)/work:/home/jovyan/work \
+	-v $(PWD)/data:/home/jovyan/data \
+	$(IMG_NAME)
 	sleep 2
+	make logs
+
+logs:
 	docker logs `docker ps -q`
 
 stop:
 	docker stop `docker ps -q`; docker rm `docker ps -aq`
 
 console:
-	docker run -it --rm -v $(PWD)/work:/home/jovyan/work -w /home/jovyan/work exjobb bash
+	docker run -it --rm -w /home/jovyan/work \
+	-v $(PWD)/work:/home/jovyan/work \
+	-v $(PWD)/data:/home/jovyan/data \
+	$(IMG_NAME) bash
 
 data:
 	mkdir -p data && cd data && \
