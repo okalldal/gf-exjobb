@@ -7,11 +7,13 @@ USER root
 
 # nltk
 RUN conda install --quiet --yes \
-    'nltk'
+    'nltk' \
+    'graphviz'
 
-# java
+# grejer
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends default-jre curl && \
+    apt-get install -y --no-install-recommends \ 
+    default-jre curl graphviz tk tcl && \
     rm -rf /var/lib/apt/lists/*
 
 # stanford parser
