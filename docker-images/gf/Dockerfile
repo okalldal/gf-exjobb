@@ -47,3 +47,4 @@ WORKDIR /ud-treebanks
 RUN curl -SL https://github.com/UniversalDependencies/UD_English/archive/r1.3.tar.gz | tar xz
 
 WORKDIR /GF
+RUN cabal install -fserver -fc-runtime
