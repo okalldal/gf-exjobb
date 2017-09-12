@@ -1,3 +1,4 @@
+import GHC.IO.Encoding
 import PGF2
 import qualified Data.Map.Strict as Map
 import qualified Data.Set as Set
@@ -7,19 +8,20 @@ import Data.Maybe(fromMaybe)
 import Debug.Trace
 
 main = do
+  setLocaleEncoding utf8
   gr <- readPGF "Dictionary.pgf"
   let Just eng = Map.lookup "DictionaryEng" (languages gr)
-  lss <- fmap (splitSentences eng . lines) $ readFile "UD_English/en-ud-train.conllu"
+  lss <- fmap (splitSentences eng . lines) $ readFile "UD_English/en-ud-dev.conllu"
   let en_unigrams = summarize (concat [concatMap toUnigram ls | ls <- lss])
   let en_bigrams  = summarize (concat [concatMap (toBigram ls) ls | ls <- lss])
 
   let Just bul = Map.lookup "DictionaryBul" (languages gr)
-  lss <- fmap (splitSentences bul . lines) $ readFile "UD_Bulgarian/bg-ud-train.conllu"
+  lss <- fmap (splitSentences bul . lines) $ readFile "UD_Bulgarian/bg-ud-dev.conllu"
   let bg_unigrams = summarize (concat [concatMap toUnigram ls | ls <- lss])
   let bg_bigrams  = summarize (concat [concatMap (toBigram ls) ls | ls <- lss])
 
   let Just swe = Map.lookup "DictionarySwe" (languages gr)
-  lss <- fmap (splitSentences swe . lines) $ readFile "UD_Swedish/sv-ud-train.conllu"
+  lss <- fmap (splitSentences swe . lines) $ readFile "UD_Swedish/sv-ud-dev.conllu"
   let sv_unigrams = summarize (concat [concatMap toUnigram ls | ls <- lss])
   let sv_bigrams  = summarize (concat [concatMap (toBigram ls) ls | ls <- lss])
 
