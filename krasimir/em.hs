@@ -38,11 +38,11 @@ mkProbs gr f_ps =
      map (toCatProb total) (Map.toList c_ps)
   where
     addCount c_ps (f,p) =
-      let DTyp _ cat _ = functionType gr f
+      let (_, cat, _) = unType $ functionType gr f
       in Map.insertWith (+) cat p c_ps
       
     toFunProb c_ps (f,p) =
-      let DTyp _ cat _ = functionType gr f
+      let (_, cat, _) = unType $ functionType gr f
           total        = fromMaybe 0 (Map.lookup cat c_ps)
       in (f,p/total)
 
