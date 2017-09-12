@@ -24,6 +24,7 @@ bias_estimate = np.array([0.6, 0.5])
 
 iterations = 10
 for _ in range(iterations):
+    #Estimation
     coin_likelihoods = np.zeros([number_of_sets, 2])
     coin_prob = np.zeros([number_of_sets, 2])
     for i in range(number_of_sets):
@@ -32,6 +33,8 @@ for _ in range(iterations):
         coin_likelihoods[i, 0] = np.power(bias_estimate[0], k) * np.power(1-bias_estimate[0], n-k)
         coin_likelihoods[i, 1] = np.power(bias_estimate[1], k) * np.power(1 - bias_estimate[1], n - k)
         coin_prob[i, :] = coin_likelihoods[i, :] / (coin_likelihoods[i, 0]+coin_likelihoods[i, 1])
+
+    #Maximization
     tot_A = np.sum(coin_prob[:, 0])*10
     tot_B = np.sum(coin_prob[:, 1])*10
     head_A = np.sum(coin_prob[:, 0]*data_set)

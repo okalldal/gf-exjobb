@@ -99,14 +99,15 @@ def estimate_sense_probabilities(feature_vector, parameter_set):
 
 
 def update_parameter_set(feature_vector_list, sense_probabilities_list, parameter_set):
-    new_parameters = np.zeros(np.shape(parameter_set.params))
+    sense_counts = np.zeros(np.shape(parameter_set.params))
     for feature_vector, sense_probabilities in zip(feature_vector_list, sense_probabilities_list):
         for feature_type, feature_val in feature_vector.items():
             feature_type_id = parameter_set.feature_type_map[feature_type]
             feature_val_id = parameter_set.feature_val_map[feature_type][feature_val]
-            new_parameters[:, feature_type_id, feature_val_id] =\
-                new_parameters[:, feature_type_id, feature_val_id] + sense_probabilities
-    parameter_set.params = new_parameters / np.sum(new_parameters, axis=2)[:, :, np.newaxis]
+            sense_counts[:, feature_type_id, feature_val_id] = \
+                sense_counts[:, feature_type_id, feature_val_id] + sense_probabilities
+    total_sense_occurences = np.sum(np.stack(sense_probabilities_list),axis=0)
+    parameter_set.params = sense_counts / total_sense_occurences[:, np.newaxis, np.newaxis]#np.sum(new_parameters, axis=2)[:, :, np.newaxis]
 
 
 def randomize_parameter_set(parameter_set):
