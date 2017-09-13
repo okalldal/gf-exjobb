@@ -1,7 +1,7 @@
-IMG_NAME = exjobb
+IMG_NAME = gf
 
 build:
-	docker build -t $(IMG_NAME) .
+	docker build -t $(IMG_NAME) docker-images/gf
 
 notebook:
 	docker run -d -p 8888:8888 \
