@@ -61,25 +61,25 @@ splitSentences cnc (l:ls)
     fst3 (x,y,z) = x
 
 tsv :: String -> [String]
-tsv "" = []
+tsv "" = [] --tab separated values
 tsv cs =
   let (x,cs1) = break (=='\t') cs
   in x : if null cs1 then [] else tsv (tail cs1)
 
 toUnigram :: ([Fun], Int) -> [([Fun], Double)]
-toUnigram (ax,root)
+toUnigram (ax,root) --take the fun directly and set its count to one, is done for summarize to work, se below
   | null ax   = []
   | otherwise = [(ax, 1.0)]
 
 toBigram :: [([Fun], Int)] -> ([Fun], Int) -> [([(Fun, Fun)], Double)]
 toBigram ls (ax,root)
   | null ax || null ay = []
-  | otherwise          = [(liftM2 (,) ax ay, 1.0)]
+  | otherwise          = [(liftM2 (,) ax ay, 1.0)] --tuples with all possible combinations of elements from the two lists, using list as monad
   where
-    ay = if root == 0 then [] else fst (ls !! (root - 1))
+    ay = if root == 0 then [] else fst (ls !! (root - 1)) --extracting head
 
 summarize :: Ord k => [(k,Double)] -> [(k,Double)]
-summarize = Map.toList . Map.fromListWith (+)
+summarize = Map.toList . Map.fromListWith (+) --make elements unique and add counts for each identical element
 
 compareProb ps0 cs = divergency 1 ps ps'
   where
@@ -98,21 +98,21 @@ compareProb ps0 cs = divergency 1 ps ps'
 -- and computes the probabilities P(f | C) and P(C).
 -- In the process it also does Laplace smoothing
 
-mkUnigramProbs gr f_ps0 =
-  let f_ps  = [(f,fromMaybe 0 (Map.lookup f f_ps0) + 1) | f <- functions gr]
-      c_ps  = foldl' addCount Map.empty f_ps
-      total = Map.foldl (+) 0 c_ps
-  in map (toFunProb c_ps) f_ps ++
-     map (toCatProb total) (Map.toList c_ps)
+mkUnigramProbs gr f_ps0 = -- grammar and map from fun to its estimated prob (count?)
+  let f_ps = [(f,fromMaybe 0 (Map.lookup f f_ps0) + 1) | f <- functions gr] :: [(Fun, Double)] --for each fun in grammar lookup if prob is estimated else set to 0, also do laplace smoothing
+      c_ps  = foldl' addCount Map.empty f_ps --do total probability count for each fun category (eg. Noun, verb, adj...)
+      total = Map.foldl (+) 0 c_ps -- get total probability, (might not be 1 b/c of ps actually being counts?)
+  in map (toFunProb c_ps) f_ps ++ -- conditional probabilities P(function | Category)
+     map (toCatProb total) (Map.toList c_ps) --category probabilities P(Category)
   where
-    addCount c_ps (f,p) =
-      let (_, cat, _) = unType $ functionType gr f
+    addCount c_ps (f,p) = --see c_ps above, only used there
+      let Just (_, cat, _) = fmap unType $ functionType gr f
       in Map.insertWith (+) cat p c_ps
 
     toFunProb c_ps (f,p) =
-      let (_, cat, _) = unType $ functionType gr f
-          total        = fromMaybe 0 (Map.lookup cat c_ps)
-      in (f,p/total)
+      let Just (_, cat, _) = fmap unType $ functionType gr f
+          total        = fromMaybe 0 (Map.lookup cat c_ps) :: Double --shadows the total above
+      in (f,p/total) --this total is the total probability of the category
 
     toCatProb total (cat,p) = (cat,p/total)
 
@@ -125,7 +125,7 @@ mkUnigramProbs gr f_ps0 =
 -- artefacts from the roundings.
 
 mkBigramProbs :: Map.Map k Double -> [(k,Double)]
-mkBigramProbs cs =
+mkBigramProbs cs = 
   let (total,ps) = (clip total 0 . sortBy count) (Map.toList cs)
   in ps
   where
@@ -150,13 +150,11 @@ mkBigramProbs cs =
 -- of the keys. The estimation continues until convergency, i.e.
 -- until the KL divergency is less than kl_limit.
 
-em :: Ord k => [([k],Double)] -> IO (Map.Map k Double)
 em xs = loop 1 Map.empty xs
   where
     total = sum (map snd xs)
 
     -- k is [Fun] or [(Fun,Fun)], ps is map of probabilities, xs is data
-    loop :: Int -> Map k Double -> [([k],Double)] -> IO (Map.Map k Double)
     loop n ps xs
       | abs kl < kl_limit = print (n,kl) >> return cs
       | otherwise         = print (n,kl) >> loop (n+1) cs xs
