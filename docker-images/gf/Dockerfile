@@ -57,7 +57,10 @@ ENV CLASSPATH=/usr/lib/stanford-parser-full-2017-06-09:$CLASSPATH
 #WORKDIR /ud-treebanks
 #RUN curl -SL https://github.com/UniversalDependencies/UD_English/archive/r1.3.tar.gz | tar xz
 
-ENV PATH=$PATH:$HOME/.cabal/bin
+ENV PATH=$PATH:$HOME/.cabal/bin \
+    LC_ALL=en_US.UTF-8 \
+    LANG=en_US.UTF-8 \
+    LANGUAGE=en_US.UTF-8
 WORKDIR $HOME
 
 # change back to notebook user
