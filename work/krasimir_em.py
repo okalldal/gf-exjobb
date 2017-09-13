@@ -1,7 +1,8 @@
 import numpy as np
 
-#  occurrence_tuples : [([int],int)], init_probs : np.[double], convergence_threshold : double
+
 def krasimir_em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
+    """occurrence_tuples : [([int],int)], init_probs : np.[double], convergence_threshold : double"""
     convergence_diff = convergence_threshold
     current_probs = init_probs
     total_counts = sum([count for _, count in occurrence_tuples])
@@ -16,6 +17,7 @@ def krasimir_em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
                                                                 # caused by numerical imprecision
         convergence_diff = np.sum(new_probs[threshold_mask]*np.log(prob_quotients[threshold_mask]))/total_counts
         current_probs = new_probs
+        print(convergence_diff)
     return current_probs/total_counts
 
 
@@ -23,7 +25,7 @@ if __name__ == '__main__':
     max_possibilities = 100
     max_simul_possibilities = 10
     max_count = 100
-    unique_occurences = 10000
+    unique_occurences = 21000
     convergence_threshold = 1e-10
     occurence_tuples = [([np.random.randint(max_possibilities)
                           for _ in range(np.random.randint(1,max_simul_possibilities))]
