@@ -64,10 +64,12 @@ tsv cs =
   let (x,cs1) = break (=='\t') cs
   in x : if null cs1 then [] else tsv (tail cs1)
 
+toUnigram :: ([Fun], Int) -> [([Fun], Double)]
 toUnigram (ax,root)
   | null ax   = []
   | otherwise = [(ax, 1.0)]
 
+toBigram :: [([Fun], Int)] -> ([Fun], Int) -> [([(Fun, Fun)], Double)]
 toBigram ls (ax,root)
   | null ax || null ay = []
   | otherwise          = [(liftM2 (,) ax ay, 1.0)]
@@ -151,13 +153,18 @@ em xs = loop 1 Map.empty xs
   where
     total = sum (map snd xs)
 
+    -- k is [Fun] or [(Fun,Fun)], ps is map of probabilities, xs is data
+    loop :: Int -> Map k Double -> [([k],Double)] -> IO (Map.Map k Double)
     loop n ps xs
       | abs kl < kl_limit = print (n,kl) >> return cs
       | otherwise         = print (n,kl) >> loop (n+1) cs xs
       where
         kl = divergency total cs ps
+        --cs is new probabilities, here we iterate through all data points to update parameters
         cs = foldl' iter Map.empty xs
 
+        --update count for all possible 'real' values of a data point
+        --weighted by the probability of that being the real value, note that cs shadows the cs above
         iter cs (fs,c) = foldl' addCount cs f_ps
           where
             f_ps  = [(f,getProb f) | f <- fs]
