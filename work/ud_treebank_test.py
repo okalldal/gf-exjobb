@@ -137,11 +137,13 @@ def estimate_parameters_EM(file_path, tag_keys, feature_keys, tags_to_senses, it
             update_parameter_set(feature_vector_list, sense_probabilities_list, parameter_set)
         params_dict[tag] = parameter_set
 
-UD_FILE = '../data/UD_English-r1.3/en-ud-dev.conllu'
-tag_keys = ['lemma', 'ctag']
-feature_keys = ['rel', 'head_lemma', 'head_ctag']
-tags_to_senses = {'come_VERB' : ['come_1', ]}
-estimated_params = estimate_parameters_EM(UD_FILE, tag_keys, feature_keys, tags_to_senses)
+
+if __name__ == "__main__":
+    UD_FILE = '../data/UD_English-r1.3/en-ud-dev.conllu'
+    tag_keys = ['lemma', 'ctag']
+    feature_keys = ['rel', 'head_lemma', 'head_ctag']
+    tags_to_senses = {'come_VERB' : ['come_1', ]}
+    estimated_params = estimate_parameters_EM(UD_FILE, tag_keys, feature_keys, tags_to_senses)
 
 
 
