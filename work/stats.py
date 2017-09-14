@@ -1,4 +1,3 @@
-from ud_treebank_test import parse_connlu_file
 from collections import Counter
 import numpy as np
 import itertools
@@ -119,14 +118,10 @@ def em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
 UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 
 def run():
-    gr = pgf.readPGF('Dictionary.pgf')
-    eng = gr.languages['DictionaryEng']
-    graphs = parse_connlu_file(UD_FILE)
-    parse_graphs = (to_bigram(abstract_functions(gr,eng, g, filter_cats=False)) for g in graphs)
-    occurences = Counter(itertools.chain.from_iterable(parse_graphs))
-    del parse_graphs, graphs, gr, eng 
+    occurences = Counter(l for l in open('en-bigram-count.data'))
+    print('Finished reading file')
     occurency_tuples, occurency2id = convert_possibilities_to_ids(occurences)
-    del occurences
+    print(len(occurency_tuples))
     em_algorithm(occurency_tuples, np.ones([len(occurency2id)])/1e10, 1e-2)
 
 if __name__ == "__main__":
