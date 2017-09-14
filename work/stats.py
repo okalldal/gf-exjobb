@@ -4,7 +4,33 @@ from collections import Counter
 import numpy as np
 import itertools
 
-def abstract_functions(cnc, graph):
+GF2UD_CATS = {
+    "N":       "NOUN",
+    "N":      "PROPN",
+    "PN":      "PROPN",
+    "A":       "ADJ",
+    "V":       "VERB",
+    "V2":      "VERB",
+    "V3":      "VERB",
+    "VV":      "VERB",
+    "VA":      "VERB",
+    "VV":      "AUX",
+    "VS":     "VERB",
+    "VQ":      "VERB",
+    "V2V":     "VERB",
+    "V2A":     "VERB",
+    "V2S":     "VERB",
+    "V2Q":     "VERB",
+    "VP":      "VERB",
+    "AdA":     "ADV",
+    "AdN":     "ADV",
+    "AdV":     "ADV",
+    "Adv":     "ADV",
+    "CAdv":    "ADV",
+    "IAdv":    "ADV"
+}
+
+def abstract_functions(gr, cnc, graph, filter_cats=True):
     """Traverses a graph and gives the abstract functions and the head for each node.
     
     Example output: 
@@ -19,14 +45,15 @@ def abstract_functions(cnc, graph):
         7: {'funs': [], 'head': 4}
     }
     """
-    def funs(string):
-        if string is None: return []
+    def funs(word, cat):
+        if word is None: return []
         return frozenset(
-            [word for (word,_,_) in cnc.lookupMorpho(string.lower())]
+            [fun for (fun,_,_) in cnc.lookupMorpho(word.lower()) if not filter_cats or GF2UD_CATS[gr.functionType(fun)] == cat]
+
         )
 
     def funs_dict(node):
-        return dict(funs=funs(node['word']), head=node['head'])
+        return dict(funs=funs(node['word'], node['ctag']), head=node['head'])
 
     return {address: funs_dict(node) for address, node in graph.nodes.items()}
 
@@ -96,7 +123,7 @@ def run():
     gr = pgf.readPGF('Dictionary.pgf')
     eng = gr.languages['DictionaryEng']
     graphs = parse_connlu_file(UD_FILE)
-    parse_graphs = (to_bigram(abstract_functions(eng, g)) for g in graphs)
+    parse_graphs = (to_bigram(abstract_functions(gr,eng, g, filter_cats=False)) for g in graphs)
     occurences = Counter(itertools.chain.from_iterable(parse_graphs))
     del parse_graphs, graphs, gr, eng 
     occurency_tuples, occurency2id = convert_possibilities_to_ids(occurences)
