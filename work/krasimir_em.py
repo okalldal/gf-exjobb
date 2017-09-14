@@ -13,7 +13,7 @@ def krasimir_em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
             total_probability = np.sum(possibility_probabilities)
             new_probs[possibilities] = new_probs[possibilities] + possibility_probabilities*count/total_probability
         prob_quotients = new_probs / current_probs
-        threshold_mask = prob_quotients > 1e-50*total_counts    # used for numpy advanced indexing to remove differences
+        threshold_mask = np.abs(prob_quotients) > 1e-50*total_counts    # used for numpy advanced indexing to remove differences
                                                                 # caused by numerical imprecision
         convergence_diff = np.sum(new_probs[threshold_mask]*np.log(prob_quotients[threshold_mask]))/total_counts
         current_probs = new_probs

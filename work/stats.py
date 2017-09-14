@@ -1,7 +1,8 @@
 import pgf
-from typing import List
 from ud_treebank_test import parse_connlu_file
 from collections import Counter
+import numpy as np
+import itertools
 
 def abstract_functions(cnc, graph):
     """Traverses a graph and gives the abstract functions and the head for each node.
@@ -50,10 +51,52 @@ def to_bigram(abstr_func_dicts):
             bigrams.append(frozenset(combinations))
     return bigrams
 
+
+def convert_possibilities_to_ids(occurences):
+    occurency_tuples = []
+    possibility2id = dict()
+    current_id = 0
+    for occurency, count in dict(occurences).items():
+        possibility_ids = []
+        for possibility in occurency:
+            if possibility not in possibility2id.keys():
+                possibility2id[possibility] = current_id
+                possibility_ids.append(current_id)
+                current_id = current_id + 1
+            else:
+                possibility_ids.append(possibility2id[possibility])
+        if len(possibility_ids) > 0:
+            occurency_tuples.append((possibility_ids, count))
+    return occurency_tuples, possibility2id
+
+
+def em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
+    """occurrence_tuples : [([int],int)], init_probs : np.[double], convergence_threshold : double"""
+    convergence_diff = convergence_threshold
+    current_probs = init_probs
+    total_counts = sum([count for _, count in occurrence_tuples])
+    while convergence_diff >= convergence_threshold:
+        new_probs = np.zeros(current_probs.shape)
+        for possibilities, count in occurrence_tuples:
+            possibility_probabilities = current_probs[possibilities]  # numpy advanced indexing
+            total_probability = np.sum(possibility_probabilities)
+            new_probs[possibilities] = new_probs[possibilities] + possibility_probabilities*count/total_probability
+        prob_quotients = new_probs / current_probs
+        threshold_mask = np.abs(prob_quotients) > 1e-50*total_counts    # used for numpy advanced indexing to remove differences
+                                                                # caused by numerical imprecision
+        convergence_diff = np.sum(new_probs[threshold_mask]*np.log(prob_quotients[threshold_mask]))/total_counts
+        current_probs = new_probs
+        print(convergence_diff)
+    return current_probs/total_counts
+
+
 UD_FILE = 'en-ud-dev.conllu'
+
 if __name__ == "__main__":
     gr = pgf.readPGF('Dictionary.pgf')
     eng = gr.languages['DictionaryEng']
     graphs = parse_connlu_file(UD_FILE)
-    g = graphs.__next__()
-    print(Counter(to_bigram(abstract_functions(eng, g))))
+
+    occurences = Counter(itertools.chain(*[to_unigram(abstract_functions(eng, g)) for g in graphs]))
+    occurency_tuples, occurency2id = convert_possibilities_to_ids(occurences)
+    em_algorithm(occurency_tuples, np.ones([len(occurency2id)])/1e10, 1e-5)
