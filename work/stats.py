@@ -90,13 +90,18 @@ def em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
     return current_probs/total_counts
 
 
-UD_FILE = 'en-ud-dev.conllu'
+UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 
-if __name__ == "__main__":
+def run():
     gr = pgf.readPGF('Dictionary.pgf')
     eng = gr.languages['DictionaryEng']
     graphs = parse_connlu_file(UD_FILE)
-
-    occurences = Counter(itertools.chain(*[to_unigram(abstract_functions(eng, g)) for g in graphs]))
+    parse_graphs = (to_bigram(abstract_functions(eng, g)) for g in graphs)
+    occurences = Counter(itertools.chain.from_iterable(parse_graphs))
+    del parse_graphs, graphs, gr, eng 
     occurency_tuples, occurency2id = convert_possibilities_to_ids(occurences)
-    em_algorithm(occurency_tuples, np.ones([len(occurency2id)])/1e10, 1e-5)
+    del occurences
+    em_algorithm(occurency_tuples, np.ones([len(occurency2id)])/1e10, 1e-2)
+
+if __name__ == "__main__":
+    run()
