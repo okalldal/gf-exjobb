@@ -1,4 +1,3 @@
-import pgf
 from ud_treebank_test import parse_connlu_file
 from collections import Counter
 import numpy as np
