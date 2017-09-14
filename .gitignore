@@ -3,3 +3,4 @@ data/*
 work/.ipynb_checkpoints/*
 .vscode/
 work/__pycache__/
+*.data
