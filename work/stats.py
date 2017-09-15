@@ -140,6 +140,11 @@ def make_unigram_probabilities(all_functions_with_categories, function_counts, f
         yield (category, count)
 
 
+def make_bigram_probabilities(bigram_counts, id2bigram):
+    total_counts = np.sum(bigram_counts)
+    for bigram, count in zip(id2bigram, list(bigram_counts)):
+        yield (bigram, count/total_counts)
+
 
 UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 
