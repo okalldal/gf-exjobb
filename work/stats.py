@@ -143,8 +143,10 @@ def make_unigram_probabilities(all_functions_with_categories, function_counts, f
 
 UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 
+from ast import literal_eval
 def run():
-    occurences = Counter(l for l in open('en-bigram-count.data'))
+    to_set = lambda x: frozenset(literal_eval(x.strip()))
+    occurences = Counter(to_set(l) for l in open('en-unigram-count.data'))
     print('Finished reading file')
     occurency_tuples, id2possibility = convert_possibilities_to_ids(occurences)
     with open('ids.txt', 'w+') as f:
