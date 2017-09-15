@@ -80,19 +80,21 @@ def to_bigram(abstr_func_dicts):
 def convert_possibilities_to_ids(occurences):
     occurency_tuples = []
     possibility2id = dict()
+    id2possibility = []
     current_id = 0
     for occurency, count in dict(occurences).items():
         possibility_ids = []
         for possibility in occurency:
             if possibility not in possibility2id.keys():
                 possibility2id[possibility] = current_id
+                id2possibility.append(possibility)
                 possibility_ids.append(current_id)
                 current_id = current_id + 1
             else:
                 possibility_ids.append(possibility2id[possibility])
         if len(possibility_ids) > 0:
             occurency_tuples.append((possibility_ids, count))
-    return occurency_tuples, possibility2id
+    return occurency_tuples, id2possibility
 
 
 def em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
@@ -112,7 +114,31 @@ def em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
         convergence_diff = np.sum(new_probs[threshold_mask]*np.log(prob_quotients[threshold_mask]))/total_counts
         current_probs = new_probs
         print(convergence_diff)
-    return current_probs/total_counts
+    return current_probs
+
+
+def make_unigram_probabilities(all_functions_with_categories, function_counts, function2id):
+    category_counts = dict()
+    smoothed_counts = np.array(len(all_functions_with_categories))
+    i = -1
+    for function_name, category in all_functions_with_categories:
+        i = i + 1
+        if function_name in function2id.keys():
+            smoothed_counts[i] = function_counts[function2id[function_name]] + 1
+        else:
+            smoothed_counts[i] = 1
+
+        if category not in category_counts.keys():
+            category_counts[category] = 1
+        else:
+            category_counts[category] = category_counts[category] + 1
+    i = -1
+    total_smoothed_count = np.sum(smoothed_counts)
+    for function_name, _ in all_functions_with_categories:
+        yield (function_name, smoothed_counts[i]/total_smoothed_count)
+    for category, count in category_counts.items():
+        yield (category, count)
+
 
 
 UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
@@ -120,9 +146,25 @@ UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 def run():
     occurences = Counter(l for l in open('en-bigram-count.data'))
     print('Finished reading file')
-    occurency_tuples, occurency2id = convert_possibilities_to_ids(occurences)
+    occurency_tuples, id2possibility = convert_possibilities_to_ids(occurences)
+    with open('ids.txt', 'w+') as f:
+        for poss in id2possibility:
+            f.write(str(poss) + '\n')
+    print("Converted possibilities to id.")
+    del occurences
+    #id2possibility = dict(zip(possibility2id.values(), possibility2id.keys()))
+    #possibilities = [id2possibility[i] for i in range(len(id2possibility))]
+    #del possibility2id
+    #del id2possibility
+    #"Compiled possibility list"
+
     print(len(occurency_tuples))
-    em_algorithm(occurency_tuples, np.ones([len(occurency2id)])/1e10, 1e-2)
+    probabilities = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-5)
+    print("Finished EM.")
+    with open('probabilities.txt', 'w+') as f:
+        for poss, prob in zip(id2possibility, probabilities):
+            f.write(str(poss) + '\t' + str(prob) + '\n')
+    print("Finished printing.")
 
 if __name__ == "__main__":
     run()
