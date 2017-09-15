@@ -117,12 +117,14 @@ def em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
 
 UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 
+from ast import literal_eval
 def run():
-    occurences = Counter(l for l in open('en-bigram-count.data'))
+    to_set = lambda x: frozenset(literal_eval(x.strip()))
+    occurences = Counter(to_set(l) for l in open('en-unigram-count.data'))
     print('Finished reading file')
     occurency_tuples, occurency2id = convert_possibilities_to_ids(occurences)
     print(len(occurency_tuples))
-    em_algorithm(occurency_tuples, np.ones([len(occurency2id)])/1e10, 1e-2)
+    em_algorithm(occurency_tuples, np.ones([len(occurency2id)])/1e10, 1e-5)
 
 if __name__ == "__main__":
     run()
