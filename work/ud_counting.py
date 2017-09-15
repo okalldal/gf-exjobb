@@ -59,7 +59,7 @@ def create_data_for_fun(parse_fun, gf_lang, ud_path, out_path):
     occurences = itertools.chain.from_iterable(parse_graphs)
     with open(out_path, 'w+') as f:
         for occ in occurences:
-            f.write(str(occ) + '\n')
+            f.write(str(list(occ)) + '\n')
 
 def create_bigram_data(*args):
     create_data_for_fun(to_bigram, *args)
