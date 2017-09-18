@@ -28,7 +28,7 @@ GF2UD_CATS = {
     "IAdv":    "ADV"
 }
 
-def abstract_functions(gr, cnc, graph, filter_cats=True):
+def abstract_functions(gr, cnc, graph, filter_cats=False, ud_categories=None, gf_categories=None):
     """Traverses a graph and gives the abstract functions and the head for each node.
     
     Example output: 
@@ -43,17 +43,23 @@ def abstract_functions(gr, cnc, graph, filter_cats=True):
         7: {'funs': [], 'head': 4}
     }
     """
-    def funs(word, cat):
+    def get_gf_functions(word, ud_category):
         if word is None: return []
-        return frozenset(
-            [fun for (fun,_,_) in cnc.lookupMorpho(word.lower()) if not filter_cats or GF2UD_CATS[gr.functionType(fun)] == cat]
+        if ud_categories is not None and ud_category not in ud_categories: return []
+        gf_functions = set()
+        for gf_function in cnc.lookupMorpho(word.lower()):
+            gf_category = gr.functionType(gf_function)
+            if filter_cats and GF2UD_CATS[gf_category] != ud_category:
+                continue
+            if gf_categories is not None and gf_category not in gf_categories:
+                continue
+            gf_functions.add(gf_function)
+        return frozenset(gf_functions)
 
-        )
+    def get_node_data(node):
+        return dict(funs=get_gf_functions(node['word'], node['ctag']), head=node['head'])
 
-    def funs_dict(node):
-        return dict(funs=funs(node['word'], node['ctag']), head=node['head'])
-
-    return {address: funs_dict(node) for address, node in graph.nodes.items()}
+    return {address: get_node_data(node) for address, node in graph.nodes.items()}
 
 
 def to_unigram(abstr_func_dicts):
