@@ -80,11 +80,11 @@ import gf_funs
 def run():
     
     to_set = lambda x: frozenset(literal_eval(x.strip()))
-    occurencesEng = Counter(to_set(l) for l in open('en-unigram-count.data'))
-    #occurencesSwe = Counter(to_set(l) for l in open('sv-unigram-count.data'))
-    #occurencesBul = Counter(to_set(l) for l in open('bg-unigram-count.data'))
-    #occurences = occurencesBul + occurencesSwe + occurencesEng
-    occurences = occurencesEng
+    occurencesEng = Counter(to_set(l) for l in open('en-unigram-nouns.data'))
+    occurencesSwe = Counter(to_set(l) for l in open('sv-unigram-nouns.data'))
+    occurencesBul = Counter(to_set(l) for l in open('bg-unigram-nouns.data'))
+    occurences = occurencesBul + occurencesSwe + occurencesEng
+    #occurences = occurencesEng
 
     print('Finished reading file')
     occurency_tuples, id2possibility, poss2id = convert_possibilities_to_ids(occurences)

@@ -123,11 +123,11 @@ def create_unigram_data(*args):
 if __name__ == "__main__":
     gr = pgf.readPGF('Dictionary.pgf')
 
-    for lang, short in [('English', 'en')]: #[('English', 'en'), ('Swedish', 'sv'), ('Bulgarian', 'bg')]:
+    for lang, short in [('English', 'en'), ('Swedish', 'sv'), ('Bulgarian', 'bg')]:
         print(lang)
         gf_lang = gr.languages['Dictionary' + lang[:3]]
         ud_path = "UD_{}/{}-ud-train.conllu".format(lang, short)
-        out_path = "{}-unigram-count.data".format(short)
+        out_path = "{}-unigram-nouns.data".format(short)
         print('creating unigram data')
         print('reading file {}'.format(ud_path))
         create_unigram_data(gr, gf_lang, ud_path, out_path, {"NOUN"}, {"N"})
@@ -135,7 +135,7 @@ if __name__ == "__main__":
 
         print('')
         print('creating bigram data')
-        out_path = "{}-bigram-count.data".format(short)
+        out_path = "{}-bigram-nouns.data".format(short)
         print('reading file {}'.format(ud_path))
         create_bigram_data(gr, gf_lang, ud_path, out_path, {"NOUN"}, {"N"})
         print('wrote to file {}'.format(out_path))
