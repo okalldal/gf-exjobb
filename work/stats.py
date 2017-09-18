@@ -78,35 +78,62 @@ UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 from ast import literal_eval
 import gf_funs
 def run():
+    runUnigram = False
+    runBigram = True
+    if runUnigram:
+        print('Counting unigrams')
+        to_set = lambda x: frozenset(literal_eval(x.strip()))
+        occurencesEng = Counter(to_set(l) for l in open('en-unigram-nouns.data'))
+        occurencesSwe = Counter(to_set(l) for l in open('sv-unigram-nouns.data'))
+        occurencesBul = Counter(to_set(l) for l in open('bg-unigram-nouns.data'))
+        occurences = occurencesBul + occurencesSwe + occurencesEng
+        #occurences = occurencesEng
+
+        print('Finished reading file')
+        occurency_tuples, id2possibility, poss2id = convert_possibilities_to_ids(occurences)
+        with open('ids.txt', 'w+') as f:
+            for poss in id2possibility:
+                f.write(str(poss) + '\n')
+        print("Converted possibilities to id.")
+        del occurences
+        #id2possibility = dict(zip(possibility2id.values(), possibility2id.keys()))
+        #possibilities = [id2possibility[i] for i in range(len(id2possibility))]
+        #del possibility2id
+        #del id2possibility
+        #"Compiled possibility list"
+
+        print(len(occurency_tuples))
+        em_vals = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-5)
+        probabilities = make_unigram_probabilities(gf_funs.functions, em_vals, poss2id)
+        print("Finished EM.")
+        with open('probabilities.txt', 'w+', encoding='utf8') as f:
+            for poss, prob in probabilities:
+                f.write(str(poss) + '\t' + str(prob) + '\n')
+        print("Finished printing.")
     
-    to_set = lambda x: frozenset(literal_eval(x.strip()))
-    occurencesEng = Counter(to_set(l) for l in open('en-unigram-nouns.data'))
-    occurencesSwe = Counter(to_set(l) for l in open('sv-unigram-nouns.data'))
-    occurencesBul = Counter(to_set(l) for l in open('bg-unigram-nouns.data'))
-    occurences = occurencesBul + occurencesSwe + occurencesEng
-    #occurences = occurencesEng
+    if runBigram:
+        print('Counting bigrams')
+        to_set = lambda x: frozenset(literal_eval(x.strip()))
+        occurencesEng = Counter(to_set(l) for l in open('en-bigram-nouns.data'))
+        occurencesSwe = Counter(to_set(l) for l in open('sv-bigram-nouns.data'))
+        occurencesBul = Counter(to_set(l) for l in open('bg-bigram-nouns.data'))
+        occurences = occurencesBul + occurencesSwe + occurencesEng
+        #occurences = occurencesEng
 
-    print('Finished reading file')
-    occurency_tuples, id2possibility, poss2id = convert_possibilities_to_ids(occurences)
-    with open('ids.txt', 'w+') as f:
-        for poss in id2possibility:
-            f.write(str(poss) + '\n')
-    print("Converted possibilities to id.")
-    del occurences
-    #id2possibility = dict(zip(possibility2id.values(), possibility2id.keys()))
-    #possibilities = [id2possibility[i] for i in range(len(id2possibility))]
-    #del possibility2id
-    #del id2possibility
-    #"Compiled possibility list"
+        print('Finished reading file')
+        occurency_tuples, id2possibility, poss2id = convert_possibilities_to_ids(occurences)
+        print("Converted possibilities to id.")
+        del occurences
 
-    print(len(occurency_tuples))
-    em_vals = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-5)
-    probabilities = make_unigram_probabilities(gf_funs.functions, em_vals, poss2id)
-    print("Finished EM.")
-    with open('probabilities.txt', 'w+', encoding='utf8') as f:
-        for poss, prob in probabilities:
-            f.write(str(poss) + '\t' + str(prob) + '\n')
-    print("Finished printing.")
+        print('Number of occurencies: ' + str(len(occurency_tuples)))
+
+        em_vals = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-5)
+        probabilities = make_bigram_probabilities(em_vals, poss2id)
+        print("Finished EM.")
+        with open('probabilities.txt', 'w+', encoding='utf8') as f:
+            for poss, prob in probabilities:
+                f.write(str(poss) + '\t' + str(prob) + '\n')
+        print("Finished printing.")
 
 if __name__ == "__main__":
     run()
