@@ -13,7 +13,7 @@ def functions_to_file(out_path, funs_tuples):
 
 
 def functions_from_file(file_path):
-	for line in open(file_path):
+	for line in open(file_path, encoding='utf8'):
 		fun, cat = line.strip().split('\t')
 		yield (fun, cat)
 
