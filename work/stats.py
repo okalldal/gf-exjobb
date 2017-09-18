@@ -100,7 +100,7 @@ def convert_possibilities_to_ids(occurences):
                 possibility_ids.append(possibility2id[possibility])
         if len(possibility_ids) > 0:
             occurency_tuples.append((possibility_ids, count))
-    return occurency_tuples, id2possibility
+    return occurency_tuples, id2possibility, possibility2id
 
 
 def em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
@@ -125,10 +125,12 @@ def em_algorithm(occurrence_tuples, init_probs, convergence_threshold):
 
 def make_unigram_probabilities(all_functions_with_categories, function_counts, function2id):
     category_counts = dict()
-    smoothed_counts = np.array(len(all_functions_with_categories))
+    smoothed_counts = np.zeros([len(all_functions_with_categories)])
     i = -1
     for function_name, category in all_functions_with_categories:
         i = i + 1
+        #print(len(all_functions_with_categories))
+        #print(i)
         if function_name in function2id.keys():
             smoothed_counts[i] = function_counts[function2id[function_name]] + 1
         else:
@@ -155,11 +157,12 @@ def make_bigram_probabilities(bigram_counts, id2bigram):
 UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 
 from ast import literal_eval
+import gf_funs
 def run():
     to_set = lambda x: frozenset(literal_eval(x.strip()))
     occurences = Counter(to_set(l) for l in open('en-unigram-count.data'))
     print('Finished reading file')
-    occurency_tuples, id2possibility = convert_possibilities_to_ids(occurences)
+    occurency_tuples, id2possibility, poss2id = convert_possibilities_to_ids(occurences)
     with open('ids.txt', 'w+') as f:
         for poss in id2possibility:
             f.write(str(poss) + '\n')
@@ -173,9 +176,10 @@ def run():
 
     print(len(occurency_tuples))
     probabilities = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-5)
+    probabilities = make_unigram_probabilities(gf_funs.functions, probabilities, poss2id)
     print("Finished EM.")
     with open('probabilities.txt', 'w+') as f:
-        for poss, prob in zip(id2possibility, probabilities):
+        for poss, prob in probabilities:
             f.write(str(poss) + '\t' + str(prob) + '\n')
     print("Finished printing.")
 

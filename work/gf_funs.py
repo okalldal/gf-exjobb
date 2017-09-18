@@ -17,10 +17,11 @@ def functions_from_file(file_path):
 		fun, cat = line.strip().split('\t')
 		yield (fun, cat)
 
+FILE = 'UD_functions'
+functions = list(functions_from_file(FILE))
 
 if __name__ == "__main__":
 	import pgf
 	gr = pgf.readPGF('Dictionary.pgf')
-	file = 'UD_functions'
-	print('Writing to file: ' + file)
-	functions_to_file(file, functions_from_grammar(gr))
+	print('Writing to file: ' + FILE)
+	functions_to_file(FILE, functions_from_grammar(gr))
