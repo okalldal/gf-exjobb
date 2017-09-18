@@ -24,8 +24,12 @@ def parse_connlu_file(file_path):
         for line in f:
             if line == "\n":
                 connlu_string = ''.join(current)
-                yield nltk.parse.DependencyGraph(
+                try:
+                    yield nltk.parse.DependencyGraph(
                     tree_str=connlu_string, top_relation_label='root')
+                except:
+                    print('Error in parsing tree:')
+                    #print(connlu_string)
                 current = []
             elif not line.startswith('#'):
                 current.append(line)

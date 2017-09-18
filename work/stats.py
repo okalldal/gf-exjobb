@@ -122,9 +122,8 @@ def make_unigram_probabilities(all_functions_with_categories, function_counts, f
     smoothed_counts = np.zeros([len(all_functions_with_categories)])
     i = -1
     for function_name, category in all_functions_with_categories:
+
         i = i + 1
-        #print(len(all_functions_with_categories))
-        #print(i)
         if function_name in function2id.keys():
             smoothed_counts[i] = function_counts[function2id[function_name]] + 1
         else:
@@ -134,9 +133,11 @@ def make_unigram_probabilities(all_functions_with_categories, function_counts, f
             category_counts[category] = 1
         else:
             category_counts[category] = category_counts[category] + 1
+
     i = -1
     total_smoothed_count = np.sum(smoothed_counts)
     for function_name, _ in all_functions_with_categories:
+        i = i + 1
         yield (function_name, smoothed_counts[i]/total_smoothed_count)
     for category, count in category_counts.items():
         yield (category, count)
@@ -169,8 +170,8 @@ def run():
     #"Compiled possibility list"
 
     print(len(occurency_tuples))
-    probabilities = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-5)
-    probabilities = make_unigram_probabilities(gf_funs.functions, probabilities, poss2id)
+    em_vals = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-2)
+    probabilities = make_unigram_probabilities(gf_funs.functions, em_vals, poss2id)
     print("Finished EM.")
     with open('probabilities.txt', 'w+') as f:
         for poss, prob in probabilities:
