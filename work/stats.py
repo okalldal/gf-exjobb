@@ -78,8 +78,14 @@ UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 from ast import literal_eval
 import gf_funs
 def run():
+    
     to_set = lambda x: frozenset(literal_eval(x.strip()))
-    occurences = Counter(to_set(l) for l in open('en-unigram-count.data'))
+    occurencesEng = Counter(to_set(l) for l in open('en-unigram-count.data'))
+    #occurencesSwe = Counter(to_set(l) for l in open('sv-unigram-count.data'))
+    #occurencesBul = Counter(to_set(l) for l in open('bg-unigram-count.data'))
+    #occurences = occurencesBul + occurencesSwe + occurencesEng
+    occurences = occurencesEng
+
     print('Finished reading file')
     occurency_tuples, id2possibility, poss2id = convert_possibilities_to_ids(occurences)
     with open('ids.txt', 'w+') as f:
@@ -94,7 +100,7 @@ def run():
     #"Compiled possibility list"
 
     print(len(occurency_tuples))
-    em_vals = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-2)
+    em_vals = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-5)
     probabilities = make_unigram_probabilities(gf_funs.functions, em_vals, poss2id)
     print("Finished EM.")
     with open('probabilities.txt', 'w+') as f:
