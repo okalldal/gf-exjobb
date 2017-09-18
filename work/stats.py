@@ -78,8 +78,14 @@ UD_FILE = '../data/UD_English-r1.3/en-ud-train.conllu'
 from ast import literal_eval
 import gf_funs
 def run():
+    
     to_set = lambda x: frozenset(literal_eval(x.strip()))
-    occurences = Counter(to_set(l) for l in open('en-unigram-count.data'))
+    occurencesEng = Counter(to_set(l) for l in open('en-unigram-count.data'))
+    #occurencesSwe = Counter(to_set(l) for l in open('sv-unigram-count.data'))
+    #occurencesBul = Counter(to_set(l) for l in open('bg-unigram-count.data'))
+    #occurences = occurencesBul + occurencesSwe + occurencesEng
+    occurences = occurencesEng
+
     print('Finished reading file')
     occurency_tuples, id2possibility, poss2id = convert_possibilities_to_ids(occurences)
     with open('ids.txt', 'w+') as f:
