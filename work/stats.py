@@ -94,10 +94,10 @@ def run():
     #"Compiled possibility list"
 
     print(len(occurency_tuples))
-    em_vals = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-2)
+    em_vals = em_algorithm(occurency_tuples, np.ones([len(id2possibility)])/1e10, 1e-5)
     probabilities = make_unigram_probabilities(gf_funs.functions, em_vals, poss2id)
     print("Finished EM.")
-    with open('probabilities.txt', 'w+') as f:
+    with open('probabilities.txt', 'w+', encoding='utf8') as f:
         for poss, prob in probabilities:
             f.write(str(poss) + '\t' + str(prob) + '\n')
     print("Finished printing.")
