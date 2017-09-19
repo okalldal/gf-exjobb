@@ -45,12 +45,7 @@ ENV CLASSPATH=/usr/lib/stanford-parser-full-2017-06-09:$CLASSPATH
 
 
 # Install ud2gf
-#WORKDIR /
-#RUN git clone --depth 1 --single-branch https://github.com/GrammaticalFramework/gf-contrib.git
-#WORKDIR /gf-contrib/ud2gf
-#RUN ln -s /GF/lib/src/ gflibsrc
-#RUN mkdir /ud-treebanks
-#RUN ln -s /ud-treebanks treebanks
+
 
 # Download english UD-treebank v1.3
 #RUN apt-get install -y curl
@@ -62,6 +57,13 @@ ENV PATH=$PATH:$HOME/.cabal/bin \
     LANG=en_US.UTF-8 \
     LANGUAGE=en_US.UTF-8
 WORKDIR $HOME
+
+#WORKDIR /
+RUN git clone --depth 1 --single-branch https://github.com/GrammaticalFramework/gf-contrib.git
+WORKDIR $HOME/gf-contrib/ud2gf
+RUN ln -s $HOME/GF/lib/src/ gflibsrc
+#RUN mkdir /ud-treebanks
+#RUN ln -s /ud-treebanks treebanks
 
 # change back to notebook user
 # USER $NB_USER
