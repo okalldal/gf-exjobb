@@ -1,7 +1,7 @@
 import numpy as np
+from collections import defaultdict
 
-
-def run(occurences, max_length=None):
+def run(occurences, max_length=0):
     """ Run the EM algoritm
     
     The max_length arguments is the theoretical maximum length of the list 
@@ -18,8 +18,16 @@ def run(occurences, max_length=None):
     occurency_tuples, id2poss, poss2id = to_ids(occurences)
     starting_probs = np.ones([len(id2poss)]) / 1e10
     em_vals = em_algorithm(occurency_tuples,starting_probs, 1e-5)
-    probabilities = make_probabilities(em_vals, id2poss)
-    return probabilities
+
+    # add max_length to the counts to get laplace smoothing
+    total_counts = max_length + np.sum(em_vals)
+    
+    probabilities = []
+    for poss, count in zip(id2poss, np.nditer(em_vals, order='C')):
+        probabilities.append((poss, count/total_counts))
+
+    default_prob = 0 if max_length == 0 else 1/total_counts
+    return defaultdict(lambda: default, probabilities)
 
 
 def to_ids(occurences):
@@ -48,15 +56,7 @@ def to_ids(occurences):
         if len(possibility_ids) > 0:
             occurency_tuples.append((possibility_ids, count))
     return occurency_tuples, id2possibility, possibility2id
-
-
-def make_probabilities(poss_counts, id2poss, max_length=0):
-    """Divides by the total to get the probabilities"""
-    # If max_length is given, use laplace smoothing
-    total_counts = max_length + np.sum(poss_counts)
-    for poss, count in zip(id2poss, np.nditer(poss_counts, order='C')):
-        yield (poss, count/total_counts)
-
+    
 
 def em_algorithm(occurrence_tuples, 
                  init_probs,

@@ -12,11 +12,11 @@ if __name__ == "__main__":
     occurences = occurencesBul + occurencesSwe + occurencesEng
     print('Finished reading file')
     
-    probabilities = em.run(occurences)
+    probDict = em.run(occurences)
 
     print("Finished EM.")
     with open('probabilities.txt', 'w+', encoding='utf8') as f:
-        for poss, prob in probabilities:
+        for poss, prob in probDict.items():
             f.write(str(poss) + '\t' + str(prob) + '\n')
     print("Finished printing probabilities.txt")
 
@@ -28,10 +28,10 @@ if __name__ == "__main__":
     occurences = occurencesBul + occurencesSwe + occurencesEng
 
     print('Finished reading file')
-    probabilities = em.run(occurences)
+    probDict = em.run(occurences)
 
     print("Finished EM.")
     with open('bigrams.txt', 'w+', encoding='utf8') as f:
-        for poss, prob in probabilities:
+        for poss, prob in probDict.items():
             f.write(str(poss) + '\t' + str(prob) + '\n')
     print("Finished printing bigrams.txt")
