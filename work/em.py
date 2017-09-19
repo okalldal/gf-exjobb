@@ -27,7 +27,7 @@ def run(occurences, max_length=0):
         probabilities.append((poss, count/total_counts))
 
     default_prob = 0 if max_length == 0 else 1/total_counts
-    return defaultdict(lambda: default, probabilities)
+    return defaultdict(lambda: default_prob, probabilities)
 
 
 def to_ids(occurences):
@@ -84,5 +84,5 @@ def em_algorithm(occurrence_tuples,
                                                                 # caused by numerical imprecision
         convergence_diff = np.sum(new_probs[threshold_mask]*np.log(prob_quotients[threshold_mask]))/total_counts
         current_probs = new_probs
-        print(convergence_diff)
+        #print(convergence_diff)
     return current_probs

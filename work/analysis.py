@@ -1,19 +1,20 @@
 import numpy as np
-import scipy
+import scipy.stats
 import itertools
 
 
-def run_analysis(**distributions):
-    print("Calculating statistics for: {}".format(list(distributions.keys())))
-    print("\tEntropies:")
+def run_analysis(language_distributions, combined_distribution):
+    print("Calculating statistics for: {}".format(list(language_distributions.keys())))
+    print("\tEntropies and KL-divergencies from combined distribution:")
 
-    all_keys = list(set(itertools.chain(*distributions.values())))
+    all_keys = list(combined_distribution.keys())
     dist_arrays = dict()
-    for name, dist in distributions:
+    combined_dist_array = np.array([combined_distribution[key] for key in all_keys])
+    for name, dist in language_distributions.items():
         dist_array = np.array([dist[key] for key in all_keys])
         dist_arrays[name] = dist_array
-        print("\t\t{}: {}".format(name, scipy.stats.entropy(dist_array)))
-    print("\tKL-divergencies:")
-    for distribution_names, distributions in itertools.permutations(dist_arrays.items()):
-        print("\t\t{}: {}".format(distribution_names, scipy.stats.entropy(*distributions)))
+        entropy = scipy.stats.entropy(dist_array)
+        kl_dist = scipy.stats.entropy(dist_array, combined_dist_array)
+        print("\t\t{}: {}, {}".format(name, entropy, kl_dist))
+    #print("\tKL-divergencies:")
 
