@@ -1,6 +1,7 @@
 import numpy as np
 import scipy.stats
 import itertools
+from collections import defaultdict
 
 
 def run_analysis(language_distributions, combined_distribution):
@@ -17,4 +18,23 @@ def run_analysis(language_distributions, combined_distribution):
         kl_dist = scipy.stats.entropy(dist_array, combined_dist_array)
         print("\t\t{}: {}, {}".format(name, entropy, kl_dist))
     #print("\tKL-divergencies:")
+
+
+def bigram_marginal_distributions(bigram_probability_dictionary):
+    headword_probabilities = defaultdict(lambda: 0)
+    dependent_word_probabilities = defaultdict(lambda: 0)
+    for key, probability in bigram_probability_dictionary:
+        head = key[0]
+        dependent = key[1]
+        headword_probabilities[head] = headword_probabilities[head] + probability
+        dependent_word_probabilities[dependent] = dependent_word_probabilities[dependent] + probability
+    return dependent_word_probabilities, headword_probabilities
+
+
+def bigram_conditional_probabilities(bigram_probability_dictionary, marginal_probability_dictionary):
+    conditional_probabilities = dict()
+    for key, probability in bigram_probability_dictionary:
+        head = key[0]
+        conditional_probabilities[key] = probability / marginal_probability_dictionary[head]
+
 

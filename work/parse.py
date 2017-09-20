@@ -71,7 +71,7 @@ def check_compatibility_categories(ud_category, gf_category):
     return GF2UD_CATS[gf_category] != ud_category
 
 
-def abstract_functions(gr, cnc, graph, only_matching_ud_gf_cats=False, ud_categories=None, gf_categories=None):
+def abstract_functions(gr, cnc, graph, ud_categories=None, gf_categories=None, use_OOV_fallback = True):
     """Traverses a graph and gives the abstract functions and the head for each node.
 
     Example output:
@@ -92,13 +92,14 @@ def abstract_functions(gr, cnc, graph, only_matching_ud_gf_cats=False, ud_catego
 
         gf_functions = set()
         unfiltered_gf_functions = set()
-        for gf_function, _ , _ in cnc.lookupMorpho(word.lower()):
+        possible_functions = cnc.lookupMorpho(word.lower())
+        if len(possible_functions) == 0 and use_OOV_fallback: return [], ['OOV_'+ud_category]
+        for gf_function, _ , _ in possible_functions:
             gf_category = gr.functionType(gf_function).cat
 
+
             # perform filtering to get only matching categories
-            if only_matching_ud_gf_cats and check_compatibility_categories(ud_category, gf_category):
-                pass
-            elif gf_categories is not None and gf_category not in gf_categories:
+            if gf_categories is not None and gf_category not in gf_categories:
                 unfiltered_gf_functions.add(gf_function)
             else:
                 unfiltered_gf_functions.add(gf_function)
