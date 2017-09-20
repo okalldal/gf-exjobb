@@ -20,7 +20,13 @@ def run_analysis(language_distributions, combined_distribution):
     #print("\tKL-divergencies:")
 
 
+
 def bigram_marginal_distributions(bigram_probability_dictionary):
+    '''
+    Doesn't handle smoothed distributions if given with defaultdict.
+    :param bigram_probability_dictionary:
+    :return:
+    '''
     headword_probabilities = defaultdict(lambda: 0)
     dependent_word_probabilities = defaultdict(lambda: 0)
     for key, probability in bigram_probability_dictionary:
@@ -38,3 +44,10 @@ def bigram_conditional_probabilities(bigram_probability_dictionary, marginal_pro
         conditional_probabilities[key] = probability / marginal_probability_dictionary[head]
 
 
+def calculate_tree_probability(tree_tuple_list, bigram_probabilities, unigram_probabilities, interpolation_constant = 0.5):
+    probability = 1
+    for node, head in tree_tuple_list:
+        c = interpolation_constant
+        node_cond_prob = c*bigram_probabilities[(node, head)]+(1-c)*unigram_probabilities(node)
+        probability = probability * node_cond_prob
+    return probability
