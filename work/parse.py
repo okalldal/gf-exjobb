@@ -118,16 +118,22 @@ def lookupmorpho_possible_functions(node, gf_language, oov_fallback=True):
     return possible_functions
 
 
-def lookupmorpho_unigram_feature_generator(graph, gf_language):
+def lookupmorpho_unigram_feature_generator(graph, gf_language, use_deprel=False):
     for node in graph:
-        yield frozenset(lookupmorpho_possible_functions(node, gf_language))
+        if use_deprel:
+            yield frozenset((fun, node.deprel) for fun in lookupmorpho_possible_functions(node, gf_language))
+        else:
+            yield frozenset(lookupmorpho_possible_functions(node, gf_language))
 
 
-def lookupmorpho_bigram_feature_generator(graph, gf_language):
+def lookupmorpho_bigram_feature_generator(graph, gf_language, use_deprel=False):
     for node, head in generate_bigrams(graph):
         node_possible_functions = lookupmorpho_possible_functions(node, gf_language)
         head_possible_functions = lookupmorpho_possible_functions(head, gf_language) if head else ['ROOT']
-        combinations = [(x, y) for x in node_possible_functions for y in head_possible_functions]
+        if use_deprel:
+            combinations = [(x, y, node.deprel) for x in node_possible_functions for y in head_possible_functions]
+        else:
+            combinations = [(x, y) for x in node_possible_functions for y in head_possible_functions]
         yield frozenset(combinations)
 
 
