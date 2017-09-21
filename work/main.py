@@ -2,6 +2,8 @@ from collections import Counter
 from ast import literal_eval
 import em
 import analysis
+import parse
+import pgf
 
 def count_occurences_from_file(file_name):
     with open(file_name+'.data', encoding='utf8') as file:
@@ -12,33 +14,54 @@ def print_probabilities(file_name, probabilities):
         for possibility, probability in probabilities.items():
             file.write(str(possibility) + '\t' + str(probability) + '\n')
 
-def run_pipeline(series_name, languages):
-    language_file_names = [language +'-'+ series_name for language in languages]
+def run_pipeline(languages, conllu_file_paths, grammar_files, output_path):
+    language_unigram_features = []
+    language_bigram_features = []
+    for lang, conllu_file, grammar_file in zip(languages, conllu_file_paths, grammar_files):
+        print("Parsing {}.".format(lang))
+        grammar = pgf.readPGF(grammar_file)
+        language_grammar = grammar.languages['Dictionary'+lang]
+        unigram_feature_gen = lambda g: parse.lookupmorpho_unigram_feature_generator(g, language_grammar)
+        bigram_feature_gen = lambda g: parse.lookupmorpho_bigram_feature_generator(g,language_grammar)
+        graphs = parse.parse_conllu_file(conllu_file)
+        unigram_features, bigram_features = parse.count_features(graphs, unigram_feature_gen, bigram_feature_gen)
+        language_unigram_features.append(unigram_features)
+        language_bigram_features.append(bigram_features)
+    total_unigram_features = sum(language_unigram_features, Counter())
+    total_bigram_features = sum(language_bigram_features, Counter())
 
-    language_occurences = [count_occurences_from_file(file) for file in language_file_names]
-    combined_occurences = sum(language_occurences, Counter())
-    print('Finished reading files and counting')
+    print("Finished parsing")
 
-    probDict = [em.run(occurences) for occurences in language_occurences]
-    combined_probDict = em.run(combined_occurences)
+    print("Running unigram EM for each language.")
+    language_unigram_probDicts = dict(zip(languages, [em.run(occurences) for occurences in language_unigram_features]))
+    print("Running unigram EM for all languages.")
+    total_unigram_probDict = em.run(total_unigram_features)
+    print("Running bigram EM for each language.")
+    language_bigram_probDicts = dict(zip(languages, [em.run(occurences) for occurences in language_bigram_features]))
+    print("Running bigram EM for all languages.")
+    total_bigram_probDict = em.run(total_bigram_features)
 
     print("Finished EM.")
 
-    probability_dictionary = dict(zip(language_file_names, probDict))
-    for file_name, probabilities in probability_dictionary.items():
-        print_probabilities(file_name, probabilities)
-    print_probabilities(series_name, combined_probDict)
+    for lang in languages:
+        print_probabilities(output_path + "unigram_"+lang, language_unigram_probDicts[lang])
+        print_probabilities(output_path + "bigram_" + lang, language_bigram_probDicts[lang])
+    print_probabilities(output_path + "unigram_total", total_unigram_probDict)
+    print_probabilities(output_path + "bigram_total", total_bigram_probDict)
 
     print("Finished printing probabilities.")
 
-    analysis.run_analysis(probability_dictionary, combined_probDict)
+    print("Analysing unigram distributions")
+    analysis.run_analysis(language_unigram_probDicts, total_unigram_probDict)
+    print("Analysing bigram distributions")
+    analysis.run_analysis(language_bigram_probDicts, total_bigram_probDict)
 
 if __name__ == "__main__":
-    unigram_series_name = 'unigram-nouns'
-    bigram_series_name = 'bigram-nouns'
-    languages = ['en', 'sv', 'bg']
+    languages = ['Eng', 'Swe', 'Bul']
+    conllu_files = ['../data/UD_English/en-ud-dev.conllu',
+                    '../data/UD_Swedish/sv-ud-dev.conllu',
+                    '../data/UD_Bulgarian/bg-ud-dev.conllu']
+    grammar_files = ['../data/Dictionary.pgf']*3
+    output_path = '../results/'
 
-    print('Running unigram series')
-    run_pipeline(unigram_series_name, languages)
-    print('Running bigram series')
-    run_pipeline(bigram_series_name, languages)
+    run_pipeline(languages, conllu_files,grammar_files,output_path)
