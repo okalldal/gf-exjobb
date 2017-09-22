@@ -74,6 +74,12 @@ class UDNode:
         self.deps = field_values[8]
         self.misc = field_values[9]
 
+    def __str__(self):
+        return 'UDNode ' + self.form + ' (' + str(self.head) + ')'
+
+    def __repr__(self):
+        return self.__str__()
+
 
 def parse_conllu_file(file_path: str):
     '''
