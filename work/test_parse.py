@@ -13,5 +13,5 @@ if __name__ == '__main__':
     grammar = pgf.readPGF('Dictionary.pgf')
     eng_lang = grammar.languages['DictionaryEng']
     graphs = parse.parse_conllu_file(ud_path)
-    uni_counter = parse.count_features(graphs, uni_generator2)
-    print(uni_counter.most_common(5))
+    bi_counter = parse.count_features(graphs, lambda g: parse.lookupmorpho_bigram_feature_generator(g,eng_lang))
+    print(bi_counter.most_common(5))
