@@ -53,6 +53,12 @@ class UDNode:
         self.deps = field_values[8]
         self.misc = field_values[9]
 
+    def __str__(self):
+        return 'UDNode ' + self.form + ' (' + str(self.head) + ')'
+
+    def __repr__(self):
+        return self.__str__()
+
 
 class FeatureGenerator:
     def __init__(self, gf_language, gf_grammar, use_bigrams=False, use_deprel=False, filter_possible_functions=True,
