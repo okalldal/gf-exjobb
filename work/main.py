@@ -21,8 +21,8 @@ def run_pipeline(languages, conllu_file_paths, grammar_files, output_path):
         print("Parsing {}.".format(lang))
         grammar = pgf.readPGF(grammar_file)
         language_grammar = grammar.languages['Dictionary'+lang]
-        unigram_feature_gen = lambda g: parse.lookupmorpho_unigram_feature_generator(g, language_grammar)
-        bigram_feature_gen = lambda g: parse.lookupmorpho_bigram_feature_generator(g,language_grammar)
+        unigram_feature_gen = parse.FeatureGenerator(language_grammar, grammar, use_bigrams=False)
+        bigram_feature_gen = parse.FeatureGenerator(language_grammar, grammar, use_bigrams=True)
         graphs = parse.parse_conllu_file(conllu_file)
         unigram_features, bigram_features = parse.count_features(graphs, unigram_feature_gen, bigram_feature_gen)
         language_unigram_features.append(unigram_features)
