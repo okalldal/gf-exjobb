@@ -4,7 +4,7 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends autoconf automake libtool make vim haskell-platform git libghc-haskeline-dev python3 python3-dev
 
 # Clone gf repo
-RUN git clone --depth 1 --single-branch https://github.com/GrammaticalFramework/GF.git
+RUN git clone --depth 1 --single-branch git@github.com:GrammaticalFramework/GF.git
 
 
 # Install C runtime
