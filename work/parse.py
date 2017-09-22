@@ -1,5 +1,3 @@
-import itertools
-#import pgf
 from collections import Counter
 
 def write_function_list(grammar, out_path):
@@ -50,6 +48,7 @@ GF2UD_CATS = {
 
 field_names = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
 
+
 def parse_conllu_node(conllu_node_line):
     node_dict = dict(zip(field_names, conllu_node_line.split('\t')))
     node_dict['ID'] = int(node_dict['ID']) - 1
@@ -57,8 +56,10 @@ def parse_conllu_node(conllu_node_line):
     node_dict['FEATS'] = node_dict['FEATS'].split('|')
     return node_dict
 
+
 def parse_conllu_graph(conllu_graph_lines):
     return [parse_conllu_node(node_line) for node_line in conllu_graph_lines]
+
 
 def parse_conllu_file(file_path):
     with open(file_path, encoding='utf-8') as f:
@@ -71,13 +72,10 @@ def parse_conllu_file(file_path):
                 current.append(line)
 
 
-def graph_to_unigram_features(graph, unigram_feature_generator, node_filter=lambda _: True):
-    return [unigram_feature_generator(node) for node in graph if node_filter(node)]
-
-
-def graph_to_bigram_features(graph, bigram_feature_generator, node_filter=lambda _: True):
-    return [bigram_feature_generator(node, graph[node['HEAD']] if node['HEAD'] != -1 else None)
-            for node in graph if node_filter(node)]
+def generate_bigrams(graph):
+    for node in graph:
+        head = graph[node['HEAD']] if node['HEAD'] != -1 else None
+        yield node, head
 
 
 def lookupmorpho_possible_functions(node, gf_language, oov_fallback=True):
@@ -88,25 +86,33 @@ def lookupmorpho_possible_functions(node, gf_language, oov_fallback=True):
 
 
 def test_unigram_feature_generator(graph):
-    return graph_to_unigram_features(graph, lambda x: x['LEMMA'])
+    for node in graph:
+        yield node['LEMMA']
+
 
 def test_bigram_feature_generator(graph):
-    return graph_to_bigram_features(graph, lambda x, y: (x['LEMMA'], y['LEMMA'] if y else "ROOT"))
+    for node, head in generate_bigrams(graph):
+        node_lemma = node["LEMMA"]
+        head_lemma = head['LEMMA'] if head else "ROOT"
+        yield node_lemma, head_lemma
 
 
-def lookupmorpho_unigram_feature_generator(node, gf_language):
-    return frozenset(lookupmorpho_possible_functions(node, gf_language))
+def lookupmorpho_unigram_feature_generator(graph, gf_language):
+    for node in graph:
+        yield frozenset(lookupmorpho_possible_functions(node, gf_language))
 
 
-def lookupmorpho_bigram_feature_generator(node, head, gf_language):
-    node_possible_functions = lookupmorpho_possible_functions(node, gf_language)
-    head_possible_functions = lookupmorpho_possible_functions(head, gf_language)
-    combinations = [(x, y) for x in node_possible_functions for y in head_possible_functions]
-    return frozenset(combinations)
+def lookupmorpho_bigram_feature_generator(graph, gf_language):
+    for node, head in generate_bigrams(graph):
+        node_possible_functions = lookupmorpho_possible_functions(node, gf_language)
+        head_possible_functions = lookupmorpho_possible_functions(head, gf_language) if head else ['ROOT']
+        combinations = [(x, y) for x in node_possible_functions for y in head_possible_functions]
+        yield frozenset(combinations)
+
 
 def count_features(graphs, *graph2features):
     counters = [Counter() for _ in graph2features]
     for graph in graphs:
-        for counter, graph2feature in zip(counters,graph2features):
+        for counter, graph2feature in zip(counters, graph2features):
             counter.update(graph2feature(graph))
-    return counters if len(counters)>0 else counters[0]
+    return counters if len(counters)>1 else counters[0]
