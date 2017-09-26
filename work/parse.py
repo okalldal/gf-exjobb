@@ -104,11 +104,12 @@ class UDNode:
 
 
 class FeatureGenerator:
-    def __init__(self, gf_language, gf_grammar, use_bigrams=False, use_deprel=False, filter_possible_functions=True,
+    def __init__(self, gf_language, gf_grammar, use_bigrams=False, use_trigrams=False, use_deprel=False, filter_possible_functions=True,
                  oov_fallback=True, use_gf_cats_for_fallback=False, filter_node_categories=None):
         self.gf_language = gf_language
         self.gf_grammar = gf_grammar
         self.use_bigrams = use_bigrams
+        self.use_trigrams = use_trigrams
         self.use_deprel = use_deprel
         self.filter_possible_functions = filter_possible_functions
         self.oov_fallback = oov_fallback
@@ -116,8 +117,10 @@ class FeatureGenerator:
         self.filter_node_categories = filter_node_categories
 
         self._features = [self._node_functions]
-        if self.use_bigrams:
+        if self.use_bigrams or self.use_trigrams:
             self._features.append(self._head_functions)
+        if self.use_trigrams:
+            self._features.append(self._grandparent_functions)
         if use_deprel:
             self._features.append(self._deprel)
 
@@ -156,6 +159,13 @@ class FeatureGenerator:
 
     def _deprel(self, node, graph):
         return [node.deprel]
+
+    def _grandparent_functions(self, node, graph):
+        if node.head != -1:
+            head = graph[node.head]
+            if head.head != -1:
+                return self._possible_functions(graph[head.head])
+        return ['ROOT']
 
     def generate_features(self, graph):
         for node in graph:
