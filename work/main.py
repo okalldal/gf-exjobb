@@ -47,10 +47,13 @@ if __name__ == "__main__":
                                'Bul' : 'DictionaryBul'}
     output_path = '../results/'
 
-    series = ['unigram', 'bigram']
-    generators = {'unigram' : parse.FeatureGenerator(None, None, use_bigrams=False),
-                  'bigram': parse.FeatureGenerator(None, None, use_bigrams=True)}
+    series = ['unigram_filter', 'bigram_filter']
+    generators = {'unigram' : parse.FeatureGenerator(None, None, use_bigrams=False, filter_possible_functions=False),
+                  'bigram': parse.FeatureGenerator(None, None, use_bigrams=True, filter_possible_functions=False),
+                  'unigram_filter': parse.FeatureGenerator(None, None, use_bigrams=False, filter_possible_functions=True),
+                  'bigram_filter': parse.FeatureGenerator(None, None, use_bigrams=True, filter_possible_functions=True)}
 
     features = parse.parse_languages_with_generators(languages, series, conllu_files, grammar_files,
                                                      grammar_language_names, generators)
+
     run_pipeline(languages, series, features)
