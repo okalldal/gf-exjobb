@@ -32,7 +32,7 @@ def parse_conllu_file(file_path: str):
                 current.append(line)
 
 
-def count_features(graphs, *feature_generators):
+def count_features(graphs, **feature_generators):
     '''
     This function takes an iterable of UD-graphs and a set of occurrence generators. An occurrence generator is a
     function accepting one graph and returning a list of occurrences for this graph. One occurrence typically consist of
@@ -44,12 +44,42 @@ def count_features(graphs, *feature_generators):
     :param graph2features: a function taking a graph and returning a list of hashable objects
     :return:
     '''
-    counters = [Counter() for _ in feature_generators]
+    generator_names = feature_generators.keys()
+    counters = [Counter() for _ in generator_names]
     for graph in graphs:
-        for counter, feature_generator in zip(counters, feature_generators):
-            counter.update(feature_generator.generate_features(graph))
-    return counters if len(counters) > 1 else counters[0]
+        for counter, generator_name in zip(counters, generator_names):
+            counter.update(feature_generators[generator_name].generate_features(graph))
+    return dict(zip(generator_names, counters))
 
+
+def parse_languages_with_generators(languages, series_names, conllu_file_paths, grammar_files, grammar_language_names, generators):
+    features = defaultdict(dict)
+    current_loaded_grammar = None
+
+    for lang in languages:
+        print("Parsing {}.".format(lang))
+
+        #Load grammar if not same as previous
+        if current_loaded_grammar != grammar_files[lang]:
+            grammar = pgf.readPGF(grammar_files[lang])
+            current_loaded_grammar = grammar_files[lang]
+        language_grammar = grammar.languages[grammar_language_names[lang]]
+
+        #Parse graphs
+        graphs = parse_conllu_file(conllu_file_paths[lang])
+
+        # Set correct GF grammar and language to feature generators
+        for series in series_names:
+            generators[series].gf_grammar = grammar
+            generators[series].gf_language = language_grammar
+
+        #Count features
+        feature_counts = count_features(graphs, **generators)
+
+        #Add results to dictionary
+        for series in series_names:
+            features[series][lang] = feature_counts[series]
+    return features
 
 #CONLLU_FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
 class UDNode:
