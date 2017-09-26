@@ -32,7 +32,7 @@ def parse_conllu_file(file_path: str):
                 current.append(line)
 
 
-def count_features(graphs, **feature_generators):
+def count_features(graphs, feature_generators):
     '''
     This function takes an iterable of UD-graphs and a set of occurrence generators. An occurrence generator is a
     function accepting one graph and returning a list of occurrences for this graph. One occurrence typically consist of
@@ -44,12 +44,11 @@ def count_features(graphs, **feature_generators):
     :param graph2features: a function taking a graph and returning a list of hashable objects
     :return:
     '''
-    generator_names = feature_generators.keys()
-    counters = [Counter() for _ in generator_names]
+    counters = [Counter() for _ in feature_generators]
     for graph in graphs:
-        for counter, generator_name in zip(counters, generator_names):
-            counter.update(feature_generators[generator_name].generate_features(graph))
-    return dict(zip(generator_names, counters))
+        for counter, generator in zip(counters, feature_generators):
+            counter.update(generator.generate_features(graph))
+    return counters
 
 
 def parse_languages_with_generators(languages, series_names, conllu_file_paths, grammar_files, grammar_language_names, generators):
@@ -60,7 +59,7 @@ def parse_languages_with_generators(languages, series_names, conllu_file_paths, 
         print("Parsing {}.".format(lang))
 
         #Load grammar if not same as previous
-        if current_loaded_grammar != grammar_files[lang]:
+        if current_loaded_grammar is None or current_loaded_grammar != grammar_files[lang]:
             grammar = pgf.readPGF(grammar_files[lang])
             current_loaded_grammar = grammar_files[lang]
         language_grammar = grammar.languages[grammar_language_names[lang]]
@@ -74,11 +73,11 @@ def parse_languages_with_generators(languages, series_names, conllu_file_paths, 
             generators[series].gf_language = language_grammar
 
         #Count features
-        feature_counts = count_features(graphs, **generators)
+        feature_counts = count_features(graphs, [generators[series] for series in series_names])
 
         #Add results to dictionary
-        for series in series_names:
-            features[series][lang] = feature_counts[series]
+        for series, feature in zip(series_names, feature_counts):
+            features[series][lang] = feature
     return features
 
 #CONLLU_FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
