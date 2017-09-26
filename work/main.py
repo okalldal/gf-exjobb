@@ -39,12 +39,10 @@ if __name__ == "__main__":
     conllu_files = {'Eng': '../data/UD_English/en-ud-dev.conllu',
                     'Swe': '../data/UD_Swedish/sv-ud-dev.conllu',
                     'Bul': '../data/UD_Bulgarian/bg-ud-dev.conllu'}
-    grammar_files = {'Eng' : '../data/Dictionary.pgf',
-                      'Swe': '../data/Dictionary.pgf',
-                      'Bul': '../data/Dictionary.pgf',}
-    grammar_language_names = {'Eng' : 'DictionaryEng',
-                               'Swe' : 'DictionarySwe',
-                               'Bul' : 'DictionaryBul'}
+    grammar_files = defaultdict(lambda: '../data/Dictionary.pgf')
+    grammar_language_names = {'Eng': 'DictionaryEng',
+                               'Swe': 'DictionarySwe',
+                               'Bul': 'DictionaryBul'}
     output_path = '../results/'
 
     series = ['unigram_filter', 'bigram_filter']
