@@ -1,4 +1,5 @@
 import pgf
+import sys
 from itertools import takewhile
 from collections import defaultdict
 from ast import literal_eval
@@ -89,16 +90,13 @@ if __name__ == "__main__":
     eng = gr.languages['TranslateEng']
     swe = gr.languages['TranslateSwe']
     
-    sentence = 'it remains a struggle'
+    sentence = sys.argv[1] if len(sys.argv) == 2 else "the horse likes to eat hay" 
 
-    rerank = []
-
+    print('GF\t\t\tUs')
     for i, (p, ex) in enumerate(eng.parse(sentence)):
         tuples, _ = gen_bigrams(ex, 'root', 'root')
         bigrams = [(a, b) for a, b, c in tuples]
-        rerank.append(tree_prob(bigrams, bigram_probs))
-        print(i)
-        if i > 200:
+        rerank = tree_prob(bigrams, bigram_probs)
+        print(str(p) + '\t\t\t' + str(rerank))
+        if i > 100:
             break
-
-    print(rerank)
