@@ -29,7 +29,7 @@ def read_probs(path):
 def gen_bigrams(expression, prev_head, label):
     """Generate bigrams with labels from a gf expression."""
     fun, args = expression.unpack()
-    #logging.debug('fun: ' + str(fun))
+    logging.debug('fun: ' + str(fun))
     headi = labels[fun].index('head')
     if (len(args) <= headi):
         return [(fun, prev_head, label)], fun
@@ -39,7 +39,7 @@ def gen_bigrams(expression, prev_head, label):
             if i != headi:
                 tuples, _ = gen_bigrams(arg, head, labels[fun][i])
                 out.extend(tuples)
-        #logging.debug('out: ' + str(out))
+        logging.debug('out: ' + str(out))
         return out, head
 
 
@@ -61,18 +61,18 @@ def tree_prob(tree_tuples, probs):
 
     for node, head in tree_tuples:
 
-        logging.debug((node, head))
         bigram_prob = probs[(node, head)]
         unigram_prob = marginal_child(node)
 
         if bigram_prob != 0:
+            logging.debug((node, head))
             logging.debug('bigram / marginal ' + str(bigram_prob / marginal_head(head)))
             prob = log(bigram_prob) - log(marginal_head(head))
         elif unigram_prob != 0:
-            logging.debug('unigram ' + str(unigram_prob))
+            #logging.debug('unigram ' + str(unigram_prob))
             prob = log(unigram_prob)
         else:
-            logging.debug('ignored')
+            #logging.debug('ignored')
             prob = 0
 
         total = total-prob
@@ -82,21 +82,23 @@ def tree_prob(tree_tuples, probs):
 
 if __name__ == "__main__":
     
-    logging.basicConfig(level=logging.INFO)
+    logging.basicConfig(level=logging.DEBUG)
     
-    bigram_probs = read_probs('../results/bigram_Eng.probs')
+    en_probs = read_probs('../results/bigram_Eng.probs')
+    total_probs = read_probs('../results/bigram_total.probs')
 
     gr = pgf.readPGF('../data/TranslateEngSwe.pgf')
     eng = gr.languages['TranslateEng']
     swe = gr.languages['TranslateSwe']
     
-    sentence = sys.argv[1] if len(sys.argv) == 2 else "the horse likes to eat hay" 
+    sentence = sys.argv[1] if len(sys.argv) == 2 else "the horse likes to eat the hay which we all had selected" 
 
-    print('GF\t\t\tUs')
+    print('GF\t\tEnglish\t\tTotal')
     for i, (p, ex) in enumerate(eng.parse(sentence)):
         tuples, _ = gen_bigrams(ex, 'root', 'root')
         bigrams = [(a, b) for a, b, c in tuples]
-        rerank = tree_prob(bigrams, bigram_probs)
-        print(str(p) + '\t\t\t' + str(rerank))
-        if i > 100:
+        rerank_en = tree_prob(bigrams, en_probs)
+        rerank_total = tree_prob(bigrams, total_probs)
+        print(str(p) + '\t\t' + str(rerank_en) + '\t\t' + str(rerank_total))
+        if i > 20:
             break

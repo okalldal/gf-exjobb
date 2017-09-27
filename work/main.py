@@ -36,9 +36,9 @@ def run_pipeline(languages, series_names, features):
 
 if __name__ == "__main__":
     languages = ['Eng', 'Swe', 'Bul']
-    conllu_files = {'Eng': '../data/UD_English/en-ud-dev.conllu',
-                    'Swe': '../data/UD_Swedish/sv-ud-dev.conllu',
-                    'Bul': '../data/UD_Bulgarian/bg-ud-dev.conllu'}
+    conllu_files = {'Eng': '../data/UD_English/en-ud-train.conllu',
+                    'Swe': '../data/UD_Swedish/sv-ud-train.conllu',
+                    'Bul': '../data/UD_Bulgarian/bg-ud-train.conllu'}
     grammar_files = defaultdict(lambda: '../data/Dictionary.pgf')
     grammar_language_names = {'Eng': 'DictionaryEng',
                                'Swe': 'DictionarySwe',
