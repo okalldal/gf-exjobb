@@ -26,15 +26,22 @@ def parse_conllu_file(file_path: str):
     '''
     with open(file_path, encoding='utf-8') as f:
         current = []
+        failed_parses = 0
+        successful_parses = 0
         for line in f:
             if line == "\n":
                 try:
                     yield [UDNode(node_line) for node_line in current]
-                except Exception:
-                    logging.warn('Error with parsing graph')
+                    successful_parses = successful_parses + 1
+                except Exception as ex:
+                    logging.debug(ex)
+                    failed_parses = failed_parses+1
                 current = []
             elif not line.startswith('#'):
                 current.append(line)
+        logging.info('Parsed {} graphs successfully.'.format(successful_parses))
+        if failed_parses > 0:
+            logging.warning('Error with parsing {} of {} graphs.'.format(failed_parses, failed_parses+successful_parses))
 
 
 def count_features(graphs, feature_generators):
@@ -61,7 +68,7 @@ def parse_languages_with_generators(languages, series_names, conllu_file_paths, 
     current_loaded_grammar = None
 
     for lang in languages:
-        print("Parsing {}.".format(lang))
+        logging.info("Parsing {}.".format(lang))
 
         #Load grammar if not same as previous
         if current_loaded_grammar is None or current_loaded_grammar != grammar_files[lang]:
@@ -109,7 +116,7 @@ class UDNode:
 
 class FeatureGenerator:
     def __init__(self, gf_language, gf_grammar, use_bigrams=False, use_trigrams=False, use_deprel=False, filter_possible_functions=True,
-                 oov_fallback=True, use_gf_cats_for_fallback=False, filter_node_categories=None):
+                 oov_fallback=True, use_gf_cats_for_fallback=False, filter_node_categories=None, filter_feature_categories=None):
         self.gf_language = gf_language
         self.gf_grammar = gf_grammar
         self.use_bigrams = use_bigrams
@@ -119,6 +126,7 @@ class FeatureGenerator:
         self.oov_fallback = oov_fallback
         self.use_gf_cats_for_fallback = use_gf_cats_for_fallback
         self.filter_node_categories = filter_node_categories
+        self.filter_feature_categories = filter_feature_categories
 
         self._features = [self._node_functions]
         if self.use_bigrams or self.use_trigrams:
@@ -144,6 +152,9 @@ class FeatureGenerator:
         if self.filter_possible_functions:
             possible_functions = [gf_function for gf_function in possible_functions
                                   if self.gf_grammar.functionType(gf_function).cat in possible_categories]
+        if self.filter_feature_categories:
+            possible_functions = [gf_function for gf_function in possible_functions
+                                  if self.gf_grammar.functionType(gf_function).cat in self.filter_feature_categories]
         if len(possible_functions) == 0 and self.oov_fallback:
             if self.use_gf_cats_for_fallback:
                 return ['OOV_' + gf_cat for gf_cat in possible_categories]

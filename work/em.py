@@ -1,6 +1,6 @@
 import numpy as np
 from collections import defaultdict
-
+import logging
 def run(occurences, max_length=0):
     """ Run the EM algoritm
     
@@ -14,9 +14,11 @@ def run(occurences, max_length=0):
     :param int max_length: Used for smoothing. 
     :returns:
     """
-
+    logging.info('Running to_ids')
     occurency_tuples, id2poss, poss2id = to_ids(occurences)
+    logging.info('Total possibilities = {}.'.format(len(id2poss)))
     starting_probs = np.ones([len(id2poss)]) / 1e10
+    logging.info('Running em_algorithm.')
     em_vals = em_algorithm(occurency_tuples,starting_probs, 1e-5)
 
     # add max_length to the counts to get laplace smoothing
