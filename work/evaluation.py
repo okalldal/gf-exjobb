@@ -5,7 +5,7 @@ from tree_probs import Memoize, read_probs
 from nltk.corpus import wordnet as wn
 from collections import defaultdict
 
-spacy_en = spacy.load('en')
+spacy_en = spacy.load('en_depent_web_md')
 probs = defaultdict(lambda: 0, read_probs('../results/bigram_filter_train_total.probs'))
 uniprobs = defaultdict(lambda: 0, read_probs('../results/unigram_filter_total.probs'))
 lgr = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
@@ -110,6 +110,7 @@ if __name__ == '__main__':
     total_loss = 0
     total_success = 0
     total_tests = 0
+    lemmas = {}
     for fun, wnid in read_funs2wordnetid('../data/Dictionary.gf'):
         if wnid == 0:
             continue
@@ -132,14 +133,18 @@ if __name__ == '__main__':
                 total_loss = total_loss + loss
                 total_success = total_success+success
                 total_tests = total_tests + tests
-                if success>=len(pred):
-                    print(fun)
-                    print(example)
-                    print(pred)
+                if not lemma in lemmas:
+                    lemmas[lemma] = {'count': 0, 'success': 0, 'preds': [], 'sentences': []}
+                lemmas[lemma]['count'] += len(pred)
+                lemmas[lemma]['success'] += success
+                lemmas[lemma]['preds'] += [pred]
+                #lemmas[lemma]['sentences'] += [example]
 
 
 
+    rate = [(lemma, obj['success']/obj['count'], obj) for lemma, obj in lemmas.items() if obj['count'] != 0]
+    rate.sort(key=lambda t: t[1], reverse=True)
 
-
+    print([fun for fun, rate, obj in rate][0:10])
     print(total_funs,fun_not_possible,unambiguous, total_examples,example_count)
     print(total_loss,total_success,total_tests)
