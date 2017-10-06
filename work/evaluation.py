@@ -1,4 +1,3 @@
-from parse import UDNode
 import spacy
 import pgf
 import trainomatic

@@ -1,11 +1,11 @@
-import parse
+import conllu_parser
 import analysis
 from itertools import chain
 
 def matching_probs(node):
     lemma = node.lemma
     c = node.upostag
-    cats = parse.POSSIBLE_GF_CATS_BY_UD_CAT[c]
+    cats = conllu_parser.POSSIBLE_GF_CATS_BY_UD_CAT[c]
     pattern = re.compile("%s.*(%s)" % (lemma, "|".join(cats)))
     matches = [f for f, p in probs if pattern.match(f)]
     if len(matches) == 0: 
@@ -24,7 +24,7 @@ if __name__ == '__main__':
     bigram_probs = analysis.read_probs('../results/bigram_Eng.probs')
     unigram_probs = analysis.read_probs('../results/unigram_Eng.probs')
 
-    gs = parse.parse_conllu_file("../data/UD_English/en-ud-dev.conllu")
+    gs = conllu_parser.parse_conllu_file("../data/UD_English/en-ud-dev.conllu")
     g = next(gs)
     gf_funs = ['from_Prep', 'OOV_DET', 'OOV_NOUN', 'come_V', 'this_Quant', 'story_N', 'OOV_PUNCT']
 

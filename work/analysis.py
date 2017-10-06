@@ -5,8 +5,8 @@ import itertools
 from collections import defaultdict
 
 
-def run_analysis(series_name, language_distributions, combined_distribution):
-    print("Calculating {} statistics for: {}".format(series_name, list(language_distributions.keys())))
+def run_analysis(language_distributions, combined_distribution):
+    print("Calculating statistics for: {}".format(list(language_distributions.keys())))
     print("\tEntropies and KL-divergencies from combined distribution:")
 
     all_keys = list(combined_distribution.keys())
