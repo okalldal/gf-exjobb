@@ -18,8 +18,8 @@ def read_funs2wordnetid(path):
                 continue
 
 if __name__ == '__main__':
-    import nltk
-    with open('../results/example_sentences_wordnet.txt', mode='w+') as f:
+    wsd = dict([(s.offset(), s) for s in wn.all_synsets()])
+    with open('../data/example_sentences_wordnet.txt', mode='w+') as f:
         for fun, wnid in read_funs2wordnetid('../data/Dictionary.gf'):
             if wnid == 0:
                 continue

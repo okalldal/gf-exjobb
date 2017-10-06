@@ -37,13 +37,13 @@ if __name__ == "__main__":
     languages = ['Eng', 'Swe', 'Bul']
 
     output_path = '../results/'
-    feature_count_files = {'Eng' : '../results/feature_counts/Eng_train_features.txt',
-                           'Swe': '../results/feature_counts/Swe_train_features.txt',
-                           'Bul': '../results/feature_counts/Bul_train_features.txt'}
+    feature_count_files = {'Eng' : '../data/feature_counts/Eng_train_features.txt',
+                           'Swe': '../data/feature_counts/Swe_train_features.txt',
+                           'Bul': '../data/feature_counts/Bul_train_features.txt'}
 
-    poss_dict_files = {'Eng': '../results/poss_dict_TranslateEng.pd',
-                        'Swe': '../results/poss_dict_TranslateSwe.pd',
-                        'Bul': '../results/poss_dict_TranslateBul.pd'}
+    poss_dict_files = {'Eng': '../data/possibility_dictionaries/poss_dict_TranslateEng.pd',
+                        'Swe': '../data/possibility_dictionaries/poss_dict_TranslateSwe.pd',
+                        'Bul': '../data/possibility_dictionaries/poss_dict_TranslateBul.pd'}
 
     features = parse_counts.parse_languages(languages, feature_count_files, poss_dict_files)
     run_pipeline(languages, features)

@@ -24,7 +24,7 @@ def generate_possibility_dictionary(grammar, dict_file):
 
 def write_possibility_dictionary(lang2lemma_cat2fun):
     for lang in lang2lemma_cat2fun.keys():
-        with open('../results/poss_dict_{}.pd'.format(lang), mode='w+', encoding='utf-8') as f:
+        with open('../data/possibility_dictionaries/poss_dict_{}.pd'.format(lang), mode='w+', encoding='utf-8') as f:
             for val, funs in lang2lemma_cat2fun[lang].items():
                 print((val, funs), file=f)
 

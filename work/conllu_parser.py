@@ -97,4 +97,4 @@ if __name__ == '__main__':
     for lang, conllu_file in conllu_files_train.items():
         graphs = parse_conllu_file(conllu_file)
         feature_counts = count_features(graphs)
-        print_feature_counts(feature_counts, '../results/feature_counts/{}_train_features.txt'.format(lang))
+        print_feature_counts(feature_counts, '../data/feature_counts/{}_train_features.txt'.format(lang))
