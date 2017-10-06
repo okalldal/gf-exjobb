@@ -4,16 +4,9 @@ from itertools import takewhile, repeat
 from collections import defaultdict
 from ast import literal_eval
 from scipy import log
+from utils import Memoize, read_probs
 import logging
 
-class Memoize:
-    def __init__(self, f):
-        self.f = f
-        self.memo = {}
-    def __call__(self, *args):
-        if not args in self.memo:
-            self.memo[args] = self.f(*args)
-        return self.memo[args]
 
 @Memoize
 def gf_labels():
@@ -26,12 +19,6 @@ def gf_labels():
         labels[fun] = list(args)
     return labels
 
-def read_probs(path):
-    with open(path) as f:
-        probs = [tuple(line.strip().split('\t')) for line in f]
-        parse_line = lambda line: (literal_eval(line[0]), float(line[1]))
-        probs = dict(map(parse_line, probs))
-    return probs
 
 def find_heads(expression, prev_heads = [], label='root'):
     labels = gf_labels()
