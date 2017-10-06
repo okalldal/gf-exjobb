@@ -1,14 +1,12 @@
 from parse import UDNode
 import spacy
 import pgf
-from tree_probs import Memoize, read_probs
+import trainomatic
+from utils import Memoize, read_probs
 from nltk.corpus import wordnet as wn
 from collections import defaultdict
-
-spacy_en = spacy.load('en_depent_web_md')
-probs = defaultdict(lambda: 0, read_probs('../results/bigram_filter_train_total.probs'))
-uniprobs = defaultdict(lambda: 0, read_probs('../results/unigram_filter_total.probs'))
-lgr = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
+from itertools import chain
+import logging
 
 
 def evaluate_example_tree(true_fun, lemma, sentence):
@@ -28,7 +26,7 @@ def evaluate_example_tree(true_fun, lemma, sentence):
         if dep!=lemma:
             _, pred = get_bigram_prediction(dep, lemma)
             if pred is not None:
-                predictions.append(('DEP_'+head, pred))
+                predictions.append(('DEP_'+dep, pred))
 
     total_tests = len(lemma_as_dep_bigrams) + len(lemma_as_head_bigrams)
     total_success = 0
@@ -61,8 +59,8 @@ def evaluate_example_tree(true_fun, lemma, sentence):
 
 
 def get_bigram_prediction(dep, head):
-    possible_funs_dep = [func for func, _, _ in lgr.lookupMorpho(dep)]
-    possible_funs_head = [func for func, _, _ in lgr.lookupMorpho(head)]
+    possible_funs_dep = [func for func, _, _ in lgr.lookupMorpho(dep) if gr.functionType(func).cat == 'N']
+    possible_funs_head = [func for func, _, _ in lgr.lookupMorpho(head) if gr.functionType(func).cat == 'N']
     if len(possible_funs_head)==0 or len(possible_funs_dep)==0:
         return None, None
 
@@ -80,7 +78,7 @@ def get_bigram_prediction(dep, head):
         return list(zip(possible_funs_dep, total_prob_dep)), list(zip(possible_funs_head, total_prob_head))
 
 
-def read_funs2wordnetid(path):
+def read_wnid2fun(path):
     with open(path, encoding='utf-8') as f:
         for l in f:
             l_split = l.split()
@@ -92,59 +90,75 @@ def read_funs2wordnetid(path):
                 continue
             try:
                 wnid = int(l_splitbar[1].split()[0])
-                yield fun, wnid
+                yield wnid, fun
             except ValueError:
                 continue
 
-
+def wordnet_examples():
+    for s in wn.all_synsets():
+        for ex in s.examples():
+            yield (s.offset(), ex)
 
 if __name__ == '__main__':
-    wsd = dict([(s.offset(), s) for s in wn.all_synsets()])
-    print('imported synsets')
+    logging.basicConfig(level=logging.INFO)
+    logging.info('Loading Spacy')
+    spacy_en = spacy.load('en_depent_web_md')
+    logging.info('Loading Probabilities')
+    probs = defaultdict(lambda: 0, read_probs('../results/bigram_filter_train_total.probs'))
+    logging.info('Loading GF')
+    gr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf')
+    lgr = gr.languages['TranslateEng']
+    logging.info('Loading GF to wordnet')
+    wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
+    logging.info('Initialization finished')
+
     unambiguous = 0
     fun_not_possible = 0
-    total_funs = 0
     total_examples = 0
-    example_count = 0
 
     total_loss = 0
     total_success = 0
     total_tests = 0
     lemmas = {}
-    for fun, wnid in read_funs2wordnetid('../data/Dictionary.gf'):
-        if wnid == 0:
+
+    sources = chain(wordnet_examples(), trainomatic.parse_dir())
+
+    for wnid, sentence in sources:
+        fun = wn2fun[wnid]
+        if not fun:
             continue
-        synset = wsd[wnid]
+        
+        total_examples += 1
         lemma = lgr.linearize(pgf.readExpr(fun))
-        total_funs = total_funs+1
         possible_funs = [func for func, _, _ in lgr.lookupMorpho(lemma)]
+
         if fun not in possible_funs:
-            fun_not_possible = fun_not_possible+1
+            fun_not_possible += 1
             continue
         elif len(possible_funs)==1:
-            unambiguous = unambiguous+1
+            unambiguous += 1
             continue
-        if len(synset.examples()) != 0:
-            example_count = example_count+1
-        for example in synset.examples():
-            total_examples = total_examples +1
-            loss, success, tests, pred = evaluate_example_tree(fun, lemma, example)
-            if tests>0:
-                total_loss = total_loss + loss
-                total_success = total_success+success
-                total_tests = total_tests + tests
-                if not lemma in lemmas:
-                    lemmas[lemma] = {'count': 0, 'success': 0, 'preds': [], 'sentences': []}
-                lemmas[lemma]['count'] += len(pred)
-                lemmas[lemma]['success'] += success
-                lemmas[lemma]['preds'] += [pred]
-                #lemmas[lemma]['sentences'] += [example]
+        
+        loss, success, tests, pred = evaluate_example_tree(fun, lemma, sentence)
+
+        if tests>0:
+            total_loss = total_loss + loss
+            total_success = total_success+success
+            total_tests = total_tests + tests
+            if not lemma in lemmas:
+                lemmas[lemma] = {'count': 0, 'success': 0, 'preds': []}
+            lemmas[lemma]['count'] += len(pred)
+            lemmas[lemma]['success'] += success
+            lemmas[lemma]['preds'] += [pred]
 
 
 
     rate = [(lemma, obj['success']/obj['count'], obj) for lemma, obj in lemmas.items() if obj['count'] != 0]
     rate.sort(key=lambda t: t[1], reverse=True)
+    non_zero = lambda item: [p for p in item['preds'] if sum(sum(p for _, p in x) for _, x in p)]
 
-    print([fun for fun, rate, obj in rate][0:10])
-    print(total_funs,fun_not_possible,unambiguous, total_examples,example_count)
-    print(total_loss,total_success,total_tests)
+    logging.info('Total tests: %s', total_examples)
+    logging.info('Total success: %s', total_success)
+
+    from IPython import embed
+    embed()
