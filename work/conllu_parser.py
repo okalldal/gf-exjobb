@@ -57,6 +57,12 @@ def print_feature_counts(feature_counts, path):
         for feature, count in dict(feature_counts).items():
             print('\t'.join(list(feature)+[str(count)]), file=file)
 
+def read_feature_counts(path):
+    with open(path, mode='r', encoding='utf-8') as file:
+        for l in file:
+            l_split = l.split('\t')
+            yield (tuple(l_split[:-1]), int(l_split[-1]))
+
 
 #CONLLU_FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
 class UDNode:
@@ -81,7 +87,14 @@ class UDNode:
 
 
 if __name__ == '__main__':
-    conllu_file = '../data/UD_English/en-ud-train.conllu'
-    graphs = parse_conllu_file(conllu_file)
-    feature_counts = count_features(graphs)
-    print_feature_counts(feature_counts, '../results/feature_counts/english_train_features.txt')
+    conllu_files_train = {'Eng': '../data/UD_English/en-ud-train.conllu',
+                          'Swe': '../data/UD_Swedish/sv-ud-train.conllu',
+                          'Bul': '../data/UD_Bulgarian/bg-ud-train.conllu',
+                          'Chi': '../data/UD_Chinese/zh-ud-train.conllu',
+                          'Fin': '../data/UD_Finnish/fi-ud-train.conllu',
+                          'Hin': '../data/UD_Hindi/hi-ud-train.conllu',
+                          }
+    for lang, conllu_file in conllu_files_train.items():
+        graphs = parse_conllu_file(conllu_file)
+        feature_counts = count_features(graphs)
+        print_feature_counts(feature_counts, '../results/feature_counts/{}_train_features.txt'.format(lang))
