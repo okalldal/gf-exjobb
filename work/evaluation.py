@@ -18,20 +18,21 @@ def evaluate_example_tree(true_fun, lemma, sentence):
             pred, _ = get_bigram_prediction(lemma, 'ROOT')
         else:
             pred, _ = get_bigram_prediction(lemma, head)
-        if pred is not None:
+        if pred is not None and len(pred) > 0 :
             predictions.append(('HEAD_'+head, pred))
 
     for dep in lemma_as_head_bigrams:
         if dep!=lemma:
             _, pred = get_bigram_prediction(dep, lemma)
-            if pred is not None:
+            if pred is not None and len(pred) > 0:
                 predictions.append(('DEP_'+dep, pred))
 
     total_tests = len(lemma_as_dep_bigrams) + len(lemma_as_head_bigrams)
     total_success = 0
     total_loss = 0
     for _, pred in predictions:
-        assert(len(pred)!=0)
+        if (len(pred) == 0):
+            continue
         true_fun_prob = 0.0
         total_prob = 0.0
         number_of_maxes = 0
@@ -70,11 +71,15 @@ def get_bigram_prediction(dep, head):
         total_prob_head = [sum(
                                 [probs[(dep, head)] for dep in possible_funs_dep]
                                 ) for head in possible_funs_head]
-        assert(len(possible_funs_head)!=0)
+
+        assert (len(possible_funs_head)!=0)
         assert (len(possible_funs_dep) != 0)
         assert (len(total_prob_dep) != 0)
         assert (len(total_prob_head) != 0)
-        return list(zip(possible_funs_dep, total_prob_dep)), list(zip(possible_funs_head, total_prob_head))
+
+        dep = list((fun, prob) for fun, prob in zip(possible_funs_dep, total_prob_dep) if prob > 0)
+        head = list((fun, prob) for fun, prob in zip(possible_funs_head, total_prob_head) if prob > 0)
+        return dep, head
 
 
 def read_wnid2fun(path):
@@ -149,8 +154,6 @@ if __name__ == '__main__':
             lemmas[lemma]['count'] += len(pred)
             lemmas[lemma]['success'] += success
             lemmas[lemma]['preds'] += [pred]
-
-
 
     rate = [(lemma, obj['success']/obj['count'], obj) for lemma, obj in lemmas.items() if obj['count'] != 0]
     rate.sort(key=lambda t: t[1], reverse=True)
