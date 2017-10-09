@@ -1,33 +1,35 @@
 from collections import Counter
 import logging
+import argparse
+import sys
+from tqdm import tqdm
 
 
 # Parse graps from a connlu file, a graph is a list of UDNode objects in order of UD id
-def parse_conllu_file(file_path):
+def parse_conllu_file(f):
     '''
     Reads a conllu_file and gives an iterator of all graphs in the file, each graph is
     given as a list of its nodes sorted by id.
     :param file_path:
     :return:
     '''
-    with open(file_path, encoding='utf-8') as f:
-        current = []
-        failed_parses = 0
-        successful_parses = 0
-        for line in f:
-            if line == "\n":
-                try:
-                    yield parse_graph(current)
-                    successful_parses = successful_parses + 1
-                except Exception as ex:
-                    logging.debug(ex)
-                    failed_parses = failed_parses+1
-                current = []
-            elif not line.startswith('#'):
-                current.append(line)
-        logging.info('Parsed {} graphs successfully.'.format(successful_parses))
-        if failed_parses > 0:
-            logging.warning('Error with parsing {} of {} graphs.'.format(failed_parses, failed_parses+successful_parses))
+    current = []
+    failed_parses = 0
+    successful_parses = 0
+    for line in tqdm(f):
+        if line == "\n":
+            try:
+                yield parse_graph(current)
+                successful_parses = successful_parses + 1
+            except Exception as ex:
+                logging.debug(ex)
+                failed_parses = failed_parses+1
+            current = []
+        elif not line.startswith('#'):
+            current.append(line)
+    logging.info('Parsed {} graphs successfully.'.format(successful_parses))
+    if failed_parses > 0:
+        logging.warning('Error with parsing {} of {} graphs.'.format(failed_parses, failed_parses+successful_parses))
 
 
 def parse_graph(node_lines):
@@ -52,16 +54,14 @@ def bigram_features(graph):
             yield (node.lemma, node.form, node.upostag, node.deprel, head.lemma, head.form, head.upostag)
 
 
-def print_feature_counts(feature_counts, path):
-    with open(path, mode='w+', encoding='utf-8') as file:
-        for feature, count in dict(feature_counts).items():
-            print('\t'.join(list(feature)+[str(count)]), file=file)
+def print_feature_counts(feature_counts, file):
+    for feature, count in dict(feature_counts).items():
+        print('\t'.join(list(feature)+[str(count)]), file=file)
 
-def read_feature_counts(path):
-    with open(path, mode='r', encoding='utf-8') as file:
-        for l in file:
-            l_split = l.split('\t')
-            yield (tuple(l_split[:-1]), int(l_split[-1]))
+def read_feature_counts(file):
+    for l in file:
+        l_split = l.split('\t')
+        yield (tuple(l_split[:-1]), int(l_split[-1]))
 
 
 #CONLLU_FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
@@ -87,14 +87,10 @@ class UDNode:
 
 
 if __name__ == '__main__':
-    conllu_files_train = {'Eng': '../data/UD_English/en-ud-train.conllu',
-                          'Swe': '../data/UD_Swedish/sv-ud-train.conllu',
-                          'Bul': '../data/UD_Bulgarian/bg-ud-train.conllu',
-                          'Chi': '../data/UD_Chinese/zh-ud-train.conllu',
-                          'Fin': '../data/UD_Finnish/fi-ud-train.conllu',
-                          'Hin': '../data/UD_Hindi/hi-ud-train.conllu',
-                          }
-    for lang, conllu_file in conllu_files_train.items():
-        graphs = parse_conllu_file(conllu_file)
-        feature_counts = count_features(graphs)
-        print_feature_counts(feature_counts, '../data/feature_counts/{}_train_features.txt'.format(lang))
+    parser = argparse.ArgumentParser()
+    parser.add_argument('infile', nargs='?', type=argparse.FileType(mode='r', encoding='utf-8'), default=sys.stdin)
+    parser.add_argument('outfile', nargs='?', type=argparse.FileType(mode='w', encoding='utf-8'), default=sys.stdout)
+    args = parser.parse_args()
+    graphs = parse_conllu_file(args.infile)
+    feature_counts = count_features(graphs)
+    print_feature_counts(feature_counts, args.outfile)
