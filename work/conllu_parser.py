@@ -58,10 +58,11 @@ def print_feature_counts(feature_counts, file):
     for feature, count in dict(feature_counts).items():
         print('\t'.join(list(feature)+[str(count)]), file=file)
 
-def read_feature_counts(file):
-    for l in file:
-        l_split = l.split('\t')
-        yield (tuple(l_split[:-1]), int(l_split[-1]))
+def read_feature_counts(path):
+    with open(path, mode='r', encoding='utf-8') as file:
+        for l in file:
+            l_split = l.split('\t')
+            yield (tuple(l_split[:-1]), int(l_split[-1]))
 
 
 #CONLLU_FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
