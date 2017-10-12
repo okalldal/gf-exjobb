@@ -108,7 +108,8 @@ def em_algorithm(word_counts,
                     expected_fun_counts[s][word_possibilities[s][i]]+expected_counts[s][i]
             expected_fun_counts_tot = expected_fun_counts_tot + expected_fun_counts[s]
         #Maximization
-        new_probs = expected_fun_counts_tot / total_counts
+        new_probs = expected_fun_counts_tot
+
         for s in langs:
             for i in range(len(word_counts[s])):
                 word_probs[s][i] = expected_counts[s][i]/expected_fun_counts[s][word_possibilities[s][i]]
@@ -120,4 +121,4 @@ def em_algorithm(word_counts,
         convergence_diff = np.sum(new_probs[threshold_mask]*np.log(prob_quotients[threshold_mask]))/total_counts
         probs = new_probs
         #print(convergence_diff)
-    return probs, word_probs
+    return probs/total_counts, word_probs

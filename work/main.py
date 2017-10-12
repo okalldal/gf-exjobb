@@ -36,21 +36,20 @@ def run_pipeline(languages, features):
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-    languages = ['Eng', 'Swe', 'Bul']
+    languages = ['Eng', 'Swe', 'Bul', 'Cmn', 'Fin', 'Ita']
 
     output_path = '../results/'
-    feature_count_files = {'Eng' : '../data/feature_counts/Eng_train_features.txt',
-                           'Swe': '../data/feature_counts/Swe_train_features.txt',
-                           'Bul': '../data/feature_counts/Bul_train_features.txt'}
-
-    poss_dict_files = {'Eng': '../data/possibility_dictionaries/poss_dict_TranslateEng.pd',
-                        'Swe': '../data/possibility_dictionaries/poss_dict_TranslateSwe.pd',
-                        'Bul': '../data/possibility_dictionaries/poss_dict_TranslateBul.pd'}
+    feature_count_files = {lang : '../data/feature_counts/{}_train_features.txt'.format(lang) for lang in languages}
+    feature_count_files['Cmn'] = '../data/feature_counts/Chi_train_features.txt'
+    poss_dict_files = {lang: '../data/possibility_dictionaries/poss_dict_Translate{}.pd'.format(lang) for lang in languages}
 
     poss_dicts, funs = generate_possibility_dictionary(languages)
     word_counts = parse_counts(languages, feature_count_files, poss_dicts)
+    #poss_dicts = {'Eng' : {'bank' : ['bank.n.1', 'bank.n.2']}, 'Swe':{'bank':['bank.n.1', 'bank.n.2'], 'hypotek':['bank.n.1'], 'flodkant':['bank.n.2']}}
+    #funs = ['bank.n.1', 'bank.n.2']
+    #word_counts={'Eng' : [('bank', 4)], 'Swe':[('bank',3), ('hypotek',1),('flodkant',2)]}
 
     probs = wn_em.run(word_counts, funs, poss_dicts)
     print('done')
-    print_probabilities('test.probs', probs)
+    print_probabilities('test', probs)
 

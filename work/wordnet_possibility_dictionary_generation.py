@@ -1,18 +1,21 @@
 from nltk.corpus import wordnet as wn
 from tqdm import tqdm
+
 cat_len = {'n':82115, 'v':13767, 'a':18156, 's':18156, 'r':3621}
+
+
 def generate_possibility_dictionary(languages):
-    from collections import defaultdict
-    lang2lemma2fun = defaultdict(lambda: defaultdict(lambda: []))
+    lang2lemma2fun = dict([(lang, dict()) for lang in languages])
     funs = []
     for cat in ['n', 'v', 'a', 's', 'r']:
-        for synset in tqdm(wn.all_synsets(cat),total=cat_len[cat]):
+        for synset in tqdm(wn.all_synsets(cat), total=cat_len[cat]):
             funs.append(synset.name())
             for lang in languages:
-                lemmas = synset.lemma_names(lang.lower())
-                lemmas.sort()
-                for lemma in lemmas:
-                    lang2lemma2fun[lang][lemma].append(synset.name())
+                for lemma in synset.lemma_names(lang.lower()):
+                    if lemma in lang2lemma2fun[lang].keys():
+                        lang2lemma2fun[lang][lemma].append(synset.name())
+                    else:
+                        lang2lemma2fun[lang][lemma] = [synset.name()]
     return lang2lemma2fun, funs
 
 def write_possibility_dictionary(lang2cat2lemma2fun):
