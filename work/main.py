@@ -1,9 +1,11 @@
 from collections import Counter, defaultdict
 from ast import literal_eval
-import em
+import wn_em
 import analysis
 import parse_counts
 import logging
+from wordnet_possibility_dictionary_generation import generate_possibility_dictionary
+from parse_counts import parse_counts
 
 def count_occurences_from_file(file_name):
     with open(file_name+'.data', encoding='utf8') as file:
@@ -45,5 +47,10 @@ if __name__ == "__main__":
                         'Swe': '../data/possibility_dictionaries/poss_dict_TranslateSwe.pd',
                         'Bul': '../data/possibility_dictionaries/poss_dict_TranslateBul.pd'}
 
-    features = parse_counts.parse_languages(languages, feature_count_files, poss_dict_files)
-    run_pipeline(languages, features)
+    poss_dicts, funs = generate_possibility_dictionary(languages)
+    word_counts = parse_counts(languages, feature_count_files, poss_dicts)
+
+    probs = wn_em.run(word_counts, funs, poss_dicts)
+    print('done')
+    print_probabilities('test.probs', probs)
+
