@@ -7,3 +7,4 @@ work/__pycache__/
 *.probs
 work/*.ipynb
 results/**/*.pickle
+parsed_data/counts/
