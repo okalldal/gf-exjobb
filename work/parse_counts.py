@@ -18,18 +18,16 @@ POSSIBLE_GF_CATS_BY_UD_CAT = defaultdict(list, {'NOUN': ['N'],
 
 
 
-def parse_counts(languages, feature_count_files, poss_dicts):
-    features = dict()
-    for lang in languages:
-        logging.info("Parsing {}.".format(lang))
-        counts = dict()
-        feature_counts = read_feature_counts(feature_count_files[lang])
-        for full_feature, count in feature_counts:
-            feature = unigram_features(full_feature)
-            if feature in poss_dicts[lang].keys():
-                counts[feature]=counts[feature]+count if feature in counts.keys() else count
-        features[lang] = list(counts.items())
-    return features
+def parse_counts(feature_count_file, poss_dict, count_col, feature_cols, delimiter='\t'):
+    counts = dict()
+    with open(feature_count_file, mode='r', encoding='utf-8') as file:
+        for l in file:
+            l_split = l.split(delimiter)
+            count = int(l_split[count_col])
+            feature = tuple([l_split[i] for i in feature_cols])
+            if feature in poss_dict.keys():
+                counts[feature] = counts[feature] + count if feature in counts.keys() else count
+    return list(counts.items())
 
 def read_feature_counts(path):
     with open(path, mode='r', encoding='utf-8') as file:

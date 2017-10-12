@@ -4,7 +4,7 @@ from tqdm import tqdm
 cat_len = {'n':82115, 'v':13767, 'a':18156, 's':18156, 'r':3621}
 
 
-def generate_possibility_dictionary(languages):
+def generate_possibility_dictionary(languages, usecat=False):
     lang2lemma2fun = dict([(lang, dict()) for lang in languages])
     funs = []
     for cat in ['n', 'v', 'a', 's', 'r']:
@@ -12,18 +12,17 @@ def generate_possibility_dictionary(languages):
             funs.append(synset.name())
             for lang in languages:
                 for lemma in synset.lemma_names(lang.lower()):
-                    if lemma in lang2lemma2fun[lang].keys():
-                        lang2lemma2fun[lang][lemma].append(synset.name())
+                    key = (lemma, cat) if usecat else (lemma,)
+                    if key in lang2lemma2fun[lang].keys():
+                        lang2lemma2fun[lang][key].append(synset.name())
                     else:
-                        lang2lemma2fun[lang][lemma] = [synset.name()]
+                        lang2lemma2fun[lang][key] = [synset.name()]
     return lang2lemma2fun, funs
 
-def write_possibility_dictionary(lang2cat2lemma2fun):
-    for lang in wn.langs():
-        for cat in ['n', 'v', 'a', 's', 'r']:
-         with open('../data/possibility_dictionaries/wn_poss_dict_{}_{}.pd'.format(lang, cat), mode='w+', encoding='utf-8') as f:
-            for lemma, synsets in lang2cat2lemma2fun[lang][cat].items():
-                print((lemma, synsets), file=f)
+def write_possibility_dictionary(path, lemma2fun):
+    with open(path, mode='w+', encoding='utf-8') as f:
+        for key, synsets in lemma2fun.items():
+            print('\t'.join(list(key)+synsets), file=f)
 
 def read_possibility_dictionary(path):
     from ast import literal_eval
@@ -37,8 +36,15 @@ def read_possibility_dictionary(path):
 
 
 if __name__ == '__main__':
-    lang2cat2lemma2fun = generate_possibility_dictionary()
+    lang2lemma2fun, _ = generate_possibility_dictionary(wn.langs())
+    print(type(lang2lemma2fun))
+    lang2lemmacat2fun, _ = generate_possibility_dictionary(wn.langs(), usecat=True)
+    print(type(lang2lemmacat2fun))
     print('Created dict')
-    write_possibility_dictionary(lang2cat2lemma2fun)
+    for lang in wn.langs():
+        write_possibility_dictionary('../data/possibility_dictionaries/wn_poss_dict_{}.pd'.format(lang), lang2lemma2fun[lang])
+    for lang in wn.langs():
+        write_possibility_dictionary('../data/possibility_dictionaries/wn_poss_dict_cat_{}.pd'.format(lang), lang2lemmacat2fun[lang])
     print('Printed dict')
     print('Done.')
+'../data/possibility_dictionaries/wn_poss_dict_{}_{}.pd'

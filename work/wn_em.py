@@ -18,7 +18,7 @@ def run(word_counts, funs, possibility_dicts):
     logging.info('Running to_ids')
     wc_by_id, pd_by_id, id2word, word2id, id2fun, fun2id = to_ids(word_counts, possibility_dicts, funs)
     logging.info('Total functions = {}.'.format(len(id2fun)))
-    starting_probs = np.ones([len(id2fun)]) / 1e10
+    starting_probs = np.ones([len(id2fun)]) / len(id2fun)
     starting_word_probs = dict()
     for lang in word_counts.keys():
         logging.info('Total words in {} = {}.'.format(lang, len(id2word[lang])))
@@ -89,36 +89,37 @@ def em_algorithm(word_counts,
     """
     langs = word_counts.keys()
     convergence_diff = convergence_threshold
-    total_counts = 0
     total_counts = sum([count for counts in word_counts.values() for count in counts])
     expected_counts = dict()
     expected_fun_counts = dict()
     for lang in langs:
         expected_counts[lang] = [np.zeros([len(poss)]) for poss in word_possibilities[lang]]
     while convergence_diff >= convergence_threshold:
-        #Expectation
-        expected_fun_counts_tot = np.zeros([probs.size])
+        ##  Expectation
+        expected_fun_counts_tot = np.zeros([probs.size]) #\sum_{si} c_{si.}, initialize here, calculate in loop
         for s in langs:
-            expected_fun_counts[s] = np.zeros([probs.size])
+            expected_fun_counts[s] = np.zeros([probs.size]) #\sum_i c_{si.}, initialize here, calculate in loop
             for i in range(len(word_counts[s])):
-                joint_probs = word_probs[s][i]*probs[word_possibilities[s][i]]
-                fun_probs = joint_probs/np.sum(joint_probs)
-                expected_counts[s][i]=word_counts[s][i]*fun_probs
+                joint_probs = word_probs[s][i]*probs[word_possibilities[s][i]] #=P(Y,X) = \phi_{si.}*\pi_.
+                fun_probs = joint_probs/np.sum(joint_probs) #=P(Y|X) = \phi_{si.}*\pi / (\sum_k \phi_{sik}*\pi_k
+                expected_counts[s][i]=word_counts[s][i]*fun_probs #=\hat c_{si.}
                 expected_fun_counts[s][word_possibilities[s][i]]=\
-                    expected_fun_counts[s][word_possibilities[s][i]]+expected_counts[s][i]
-            expected_fun_counts_tot = expected_fun_counts_tot + expected_fun_counts[s]
-        #Maximization
-        new_probs = expected_fun_counts_tot
+                    expected_fun_counts[s][word_possibilities[s][i]]+expected_counts[s][i] #\sum_i c_{si.}
+            expected_fun_counts_tot = expected_fun_counts_tot + expected_fun_counts[s] #\sum_{si} c_{si.}
+        ##  Maximization
+        new_probs = expected_fun_counts_tot # this is not the real probs since we don't normalize, but doesnt matter
+                                            # b/c we have normalization constant in numerator denumerator in the
+                                            # expression for fun_probs above
 
         for s in langs:
             for i in range(len(word_counts[s])):
                 word_probs[s][i] = expected_counts[s][i]/expected_fun_counts[s][word_possibilities[s][i]]
 
-        #Termination criteria
+        ##  Termination criteria
         prob_quotients = new_probs / probs
         threshold_mask = np.abs(prob_quotients) > 1e-50*total_counts    # used for numpy advanced indexing to remove differences
                                                                 # caused by numerical imprecision
         convergence_diff = np.sum(new_probs[threshold_mask]*np.log(prob_quotients[threshold_mask]))/total_counts
         probs = new_probs
         #print(convergence_diff)
-    return probs/total_counts, word_probs
+    return probs/total_counts, word_probs #note normalization of probs here, see comment above

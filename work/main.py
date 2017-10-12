@@ -1,38 +1,31 @@
-from collections import Counter, defaultdict
-from ast import literal_eval
 import wn_em
-import analysis
-import parse_counts
 import logging
-from wordnet_possibility_dictionary_generation import generate_possibility_dictionary
-from parse_counts import parse_counts
+import argparse
 
-def count_occurences_from_file(file_name):
-    with open(file_name+'.data', encoding='utf8') as file:
-        return Counter(frozenset(literal_eval(line.strip())) for line in file)
+def print_probabilities(file, probabilities):
+    for possibility, probability in probabilities.items():
+        file.write(str(possibility) + '\t' + str(probability) + '\n')
 
-def print_probabilities(file_name, probabilities):
-    with open(file_name+'.probs', 'w+', encoding='utf8') as file:
-        for possibility, probability in probabilities.items():
-            file.write(str(possibility) + '\t' + str(probability) + '\n')
+def parse_counts(feature_count_file, poss_dict, count_col, feature_cols, delimiter='\t'):
+    counts = dict()
+    for l in feature_count_file:
+        l_split = l.split(delimiter)
+        count = int(l_split[count_col])
+        feature = tuple([l_split[i] for i in feature_cols])
+        if feature in poss_dict.keys():
+            counts[feature] = counts[feature] + count if feature in counts.keys() else count
+    return list(counts.items())
 
-
-def run_pipeline(languages, features):
-
-    language_prob_dicts = dict()
-
-    total_features = sum(list(features.values()), Counter())
-    for lang in languages:
-        logging.info("Running EM for {}.".format(lang))
-        language_prob_dicts[lang] = em.run(features[lang])
-        print_probabilities(output_path + "_" + lang, language_prob_dicts[lang])
-    logging.info("Running EM for all languages.")
-    total_prob_dicts = em.run(total_features)
-    print_probabilities(output_path + "_total", total_prob_dicts)
-    logging.info("Analysing distributions.")
-    analysis.run_analysis(language_prob_dicts, total_prob_dicts)
-    logging.info("Finished pipeline.")
-    return language_prob_dicts, total_prob_dicts
+def read_possibility_dictionary(possibility_dictionary_file, key_cols=1, delimiter='\t'):
+    possibilities = dict()
+    all_funs = set()
+    for l in possibility_dictionary_file:
+        l_split = l.split(delimiter)
+        word = tuple(l_split[:key_cols])
+        funs = l_split[key_cols:]
+        all_funs.update(funs)
+        possibilities[word] = funs
+    return possibilities, all_funs
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
@@ -43,7 +36,7 @@ if __name__ == "__main__":
     feature_count_files['Cmn'] = '../data/feature_counts/Chi_train_features.txt'
     poss_dict_files = {lang: '../data/possibility_dictionaries/poss_dict_Translate{}.pd'.format(lang) for lang in languages}
 
-    poss_dicts, funs = generate_possibility_dictionary(languages)
+    poss_dicts, funs = read_possibility_dictionary(languages)
     word_counts = parse_counts(languages, feature_count_files, poss_dicts)
     #poss_dicts = {'Eng' : {'bank' : ['bank.n.1', 'bank.n.2']}, 'Swe':{'bank':['bank.n.1', 'bank.n.2'], 'hypotek':['bank.n.1'], 'flodkant':['bank.n.2']}}
     #funs = ['bank.n.1', 'bank.n.2']
