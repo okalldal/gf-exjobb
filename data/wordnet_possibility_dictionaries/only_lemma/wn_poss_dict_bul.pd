@@ -1,0 +1,6566 @@
+вещ	object.n.01
+обект	object.n.01	aim.n.02
+предмет	object.n.01	subject.n.02	discipline.n.01	subject.n.01
+живот	life.n.10	life.n.13	life.n.08	life.n.11	life.n.03	life.n.01
+клетка	cell.n.02	cage.n.01
+причина	causal_agent.n.01	evidence.n.01	reason.n.02
+индивид	person.n.01	individual.n.02
+лице	person.n.01	front.n.04	face.n.01	side.n.04
+личност	person.n.01
+особа	person.n.01
+животно	animal.n.01
+растение	plant.n.02
+вещество	matter.n.03	material.n.01
+материя	matter.n.03	texture.n.01	material.n.01
+субстанция	matter.n.03
+храна	food.n.01
+ядене	food.n.01	meal.n.01
+знание	cognition.n.01	acquaintance.n.01
+мотив	motivation.n.01	design.n.04	motif.n.01	theme.n.02	theme.n.03
+мотивация	motivation.n.01
+подбуда	motivation.n.01	drive.n.05	incentive.n.01
+подтик	motivation.n.01	drive.n.05	incentive.n.01
+стимул	motivation.n.01	incentive.n.01
+място	location.n.01	seat.n.01	site.n.01	topographic_point.n.01
+акт	act.n.02	act.n.03
+действие	act.n.02	action.n.05	act.n.03
+дело	act.n.02	legal_action.n.01	lawsuit.n.01	oeuvre.n.01
+деяние	act.n.02
+постъпка	act.n.02
+проява	act.n.02
+комуникация	communication.n.02
+съобщение	communication.n.02	message.n.01	note.n.02	news.n.01
+феномен	phenomenon.n.01
+явление	phenomenon.n.01
+достижение	accomplishment.n.01
+постижение	accomplishment.n.01
+успех	accomplishment.n.01	success.n.01
+курс	course.n.04	course.n.01	quotation.n.03
+насока	course.n.04	guidepost.n.01
+посока	course.n.04	direction.n.03
+взаимодействие	interaction.n.01
+връзка	contact.n.01	connection.n.08	bundle.n.02	link.n.02	telephone_line.n.02	contact.n.08	connection.n.04	alliance.n.02	relationship.n.02	affiliation.n.01	connection.n.02
+раждане	delivery.n.07
+заминаване	departure.n.01
+отпътуване	departure.n.01
+възвръщане	recovery.n.03
+възстановяване	recovery.n.03	revival.n.01	convalescence.n.01	renovation.n.02
+записване	registration.n.01
+регистрация	registration.n.01
+връщане	return.n.02	restitution.n.03	return.n.05
+завръщане	return.n.02	return.n.05
+прибиране	return.n.02
+прощаване	farewell.n.02
+сбогуване	farewell.n.02
+имиграция	immigration.n.01
+преселване	immigration.n.01	move.n.02	migration.n.01
+бягство	escape.n.01
+рекорд	record.n.06	record.n.03
+минаване	passing.n.07
+справяне	passing.n.07
+кредит	credit.n.06	credit.n.05	credit.n.02
+грешка	mistake.n.01	error.n.03
+неточност	mistake.n.01
+объркване	confusion.n.05	embarrassment.n.01
+изопачаване	distortion.n.06
+пропуск	omission.n.01	pass.n.06
+гаф	faux_pas.n.01
+пазаруване	shopping.n.01
+шопинг	shopping.n.01
+търг	auction.n.02
+дейност	performance.n.03
+трик	magic_trick.n.01	trick.n.01
+фокус	magic_trick.n.01	trick.n.01
+стрелба	shooting.n.01
+круше	punch.n.01
+удар_с_юмрук	punch.n.01
+диагноза	diagnosis.n.01
+потвърждение	documentation.n.03
+корупция	corruption.n.06
+подкупничество	corruption.n.06
+изкушение	enticement.n.03
+съблазън	enticement.n.03
+намерение	intention.n.03	purpose.n.01
+номинация	nomination.n.01
+ред	move.n.05	line.n.05	row.n.01	sequence.n.01	orderliness.n.02
+ход	move.n.05
+шах	check.n.13
+изнасяне	move.n.02
+изселване	move.n.02
+преместване	move.n.02	transportation.n.02
+пренасяне	move.n.02	transportation.n.02
+хитрост	trick.n.01	craft.n.05
+метод	means.n.01	method.n.01
+начин	means.n.01	method.n.01
+способ	means.n.01	method.n.01
+средство	means.n.01	means.n.02
+мярка	measure.n.01
+решение	resolution.n.11	solution.n.05	settlement.n.05
+одобрение	adoption.n.01	blessing.n.01
+приемане	adoption.n.01
+избор	election.n.01	option.n.02	selection.n.02
+първични_избори	primary.n.01
+глас	vote.n.01	right_to_vote.n.01	voice.n.09
+гол	goal.n.04	bare.a.04	bare.a.04
+промяна	switch.n.07	change.n.01
+смяна	switch.n.07	shift.n.03
+повишаване	promotion.n.02
+повишение	promotion.n.02	raise.n.01
+отпор	resistance.n.01
+противодействие	resistance.n.01
+противопоставяне	resistance.n.01	confrontation.n.02
+съпротива	resistance.n.01
+съпротивление	resistance.n.01
+отказ	rejection.n.01	refusal.n.01
+отхвърляне	rejection.n.01
+изгнание	exile.n.03
+напускане	retirement.n.02	withdrawal.n.01
+оттегляне	retirement.n.02	withdrawal.n.01	withdrawal.n.04
+официален_писмен_документ_за_отказ	release.n.11
+имунитет	exemption.n.03
+неприкосновеност	exemption.n.03
+предумишлено_убийство	murder.n.01
+кръвопролитие	bloodshed.n.01
+самоубийство	suicide.n.01
+жертвоприношение	sacrifice.n.04
+аборт	abortion.n.01	spontaneous_abortion.n.01
+помятане	abortion.n.01	spontaneous_abortion.n.01
+инициатива	first_step.n.01
+начинание	first_step.n.01	undertaking.n.01
+почин	first_step.n.01
+прогрес	advancement.n.03
+корекция	correction.n.01
+коригиране	correction.n.01
+поправка	correction.n.01	amendment.n.02
+компенсация	recompense.n.02
+обезщетение	recompense.n.02
+преустройство	reform.n.01
+реорганизация	reform.n.01
+реформа	reform.n.01
+поддръжка	care.n.06	overhaul.n.01
+ремонт	overhaul.n.01
+замърсяване	contamination.n.03
+туризъм	tourism.n.01
+полет	flight.n.09
+пътуване	drive.n.08
+возене	lift.n.11
+сафари	campaign.n.04
+изследване	exploration.n.01	research.n.01	report.n.01
+изучаване	exploration.n.01
+пътешествие	voyage.n.02
+круиз	cruise.n.01
+инжекция	injection.n.01	injection.n.03
+люлеене	swing.n.04
+движение	motion.n.03	traffic.n.01	movement.n.04
+жест	gesture.n.01
+жестикулация	gesture.n.01
+въртеж	rotation.n.01
+въртене	rotation.n.01	rotation.n.03
+ротация	rotation.n.01
+обрат	reversion.n.04
+отклонение	diversion.n.02	drift.n.02
+намаление	decrease.n.04	cut.n.19	discount.n.01
+понижение	decrease.n.04	decrease.n.01
+съкращение	cut.n.19
+отстъпка	discount.n.01
+увеличение	expansion.n.01	increase.n.04	raise.n.01
+контракция	contraction.n.01
+свиване	contraction.n.01
+депозиране	repositing.n.01
+складиране	repositing.n.01
+съхранение	repositing.n.01
+коалиция	coalescence.n.01
+обединение	coalescence.n.01
+разделяне	schism.n.01
+раздяла	schism.n.01
+разединение	schism.n.01
+разкол	schism.n.01
+цензура	censoring.n.02
+отмора	refreshment.n.02	easiness.n.01	respite.n.04
+почивка	refreshment.n.02	vacation.n.01	respite.n.04
+навик	practice.n.01	habit.n.02	habit.n.01	rule.n.01
+практика	practice.n.01
+привичка	practice.n.01	habit.n.02
+съдействие	cooperation.n.02	aid.n.02
+сътрудничество	cooperation.n.02
+битие	way.n.05
+жизнен_път	way.n.05
+занемаряване	disregard.n.02
+изоставяне	disregard.n.02
+пренебрегване	disregard.n.02
+малтретиране	maltreatment.n.01
+изтезание	torture.n.05
+мъка	torture.n.05	pain.n.02	suffering.n.04	agony.n.01	misery.n.01
+мъчение	torture.n.05
+празненство	celebration.n.02	party.n.02
+празник	celebration.n.02	party.n.02
+тържество	celebration.n.02	affair.n.03	victory.n.01	party.n.02
+забава	entertainment.n.01	fun.n.01	party.n.02
+забавление	entertainment.n.01
+веселие	fun.n.01
+игра	game.n.03	play.n.08	game.n.01	plot.n.01
+занимавка	pastime.n.01
+развлечение	pastime.n.01
+хоби	avocation.n.01
+лов	hunt.n.08
+състезание	game.n.01	competition.n.03	contest.n.01	match.n.02
+голф	golf.n.01
+футбол	football.n.01	soccer.n.01
+ръгби	rugby.n.01
+бейзбол	baseball.n.01
+баскетбол	basketball.n.01
+тенис	tennis.n.01
+залагане	bet.n.02
+лотария	lottery.n.02
+оргия	orgy.n.03
+фестивал	festival.n.02
+карнавал	carnival.n.03
+изложба	display.n.02	exhibition.n.02
+атлетика	sport.n.01
+спорт	sport.n.01
+балет	ballet.n.01
+изпълнение	performance.n.02
+представление	performance.n.02	show.n.03
+безредица	agitation.n.04
+вълнение	agitation.n.04	emotion.n.01	unrest.n.02	excitement.n.02
+размирица	agitation.n.04	riot.n.01
+врява	bustle.n.01
+бързане	haste.n.02
+бързина	haste.n.02
+поминък	occupation.n.01	job.n.03
+работа	occupation.n.01	employment.n.02	appointment.n.05	labor.n.02	job.n.03	employment.n.01
+занимание	career.n.01
+занятие	career.n.01	job.n.03
+кариера	career.n.01
+поприще	career.n.01
+длъжност	appointment.n.05
+пост	appointment.n.05	post.n.01
+служба	appointment.n.05	service.n.03	conscription.n.01	employment.n.01
+президентство	presidency.n.02
+професура	professorship.n.01
+занаят	trade.n.02
+професия	profession.n.02
+медицина	medicine.n.03
+труд	labor.n.02	oeuvre.n.01
+борба	struggle.n.03	contest.n.02
+затруднение	trouble.n.04	trouble.n.01	adversity.n.01
+трудност	trouble.n.04	difficulty.n.04	adversity.n.01
+упражнение	exercise.n.01	exercise.n.03
+изпит	examination.n.05	examination.n.02
+обиск	search.n.02
+разследване	inquest.n.01	probe.n.01
+експериментиране	experiment.n.01
+преброяване	census.n.01
+преброяване_на_населението	census.n.01
+броене_на_гласовете	poll.n.05
+преброяване_на_гласовете	poll.n.05
+почукам	wiretap.n.01
+почуквам	wiretap.n.01
+грижа	care.n.01	concern.n.01	preoccupation.n.01	trouble.n.03	worry.n.02	concern.n.02
+терапия	therapy.n.01
+операция	operation.n.06	operation.n.05	operation.n.02
+рехабилитация	rehabilitation.n.04
+психоанализа	psychoanalysis.n.01
+дълг	duty.n.02	duty.n.01	debt.n.02
+задача	job.n.02	problem.n.02
+роля	role.n.04	character.n.04
+пиянство	drink.n.02
+измама	fraud.n.03	lie.n.01
+грях	sin.n.02
+прегрешение	sin.n.02
+закононарушение	crime.n.01
+престъпление	crime.n.01
+нападение	assault.n.02	attack.n.01	offense.n.05
+побой	battery.n.07
+нарушаване	violation.n.02
+нарушение	violation.n.02
+изнасилване	rape.n.03
+кражба	larceny.n.01	robbery.n.01
+грабеж	robbery.n.01	looting.n.01
+обир	robbery.n.01
+ограбване	robbery.n.01
+изнудване	blackmail.n.01
+шантаж	blackmail.n.01
+старание	attempt.n.01	diligence.n.02
+усилие	attempt.n.01
+авантюра	adventure.n.01	affair.n.02
+лудория	adventure.n.01
+приключение	adventure.n.01
+домашно	assignment.n.05
+акция	campaign.n.02	stock.n.01	share.n.02
+кампания	campaign.n.02	campaign.n.03	political_campaign.n.01
+опасност	risk.n.02	danger.n.01
+риск	risk.n.02	venture.n.03
+владеене	possession.n.01
+притежаване	possession.n.01
+закрила	protection.n.01
+защита	protection.n.01
+охрана	protection.n.01	guard.n.06	guard.n.01
+опазване	conservation.n.02	preservation.n.02
+поглъщане	consumption.n.01
+електрошок	electric_shock.n.03
+зачатие	conception.n.02
+зачеване	conception.n.02
+деление	division.n.11
+събиране	summation.n.04
+оценка	judgment.n.02	appraisal.n.01	mark.n.01	estimate.n.01	estimate.n.05	estimate.n.04
+поглед	glance.n.01	gaze.n.01	position.n.03
+взиране	gaze.n.01
+взор	gaze.n.01
+образование	education.n.01	education.n.02
+обучение	education.n.01	teaching.n.01
+урок	lesson.n.01
+семинар	seminar.n.02
+симпозиум	workshop.n.02
+лекция	lecture.n.03	lecture.n.01
+подготовка	training.n.01	readiness.n.01
+строева_подготовка	drill.n.04
+тренировка	exercise.n.03
+репетиция	rehearsal.n.01
+преговор	review.n.09
+фотография	photography.n.01	photograph.n.01
+създаване	creation.n.01
+сътворяване	creation.n.01
+монтаж	fabrication.n.04
+продукция	production.n.01	end_product.n.01	production.n.02	output.n.04
+произвеждане	production.n.01
+земеделие	farming.n.01
+култура	culture.n.04	culture.n.06	culture.n.01
+жътва	harvest.n.04
+индустрия	industry.n.02
+промишленост	industry.n.02
+изработка	fabrication.n.03
+производство	fabrication.n.03	produce.n.01	output.n.04	produce.v.02
+изкуство	art.n.02
+търсене	quest.n.02	demand.n.02
+приложение	application.n.01	appendix.n.01
+сражение	military_action.n.01	battle.n.01
+битка	battle.n.01
+бой	battle.n.01	fight.n.02
+бунт	rebellion.n.02	riot.n.01
+въстание	rebellion.n.02
+революция	revolution.n.02
+агресия	aggression.n.03
+враждебност	aggression.n.03	hostility.n.02
+насилие	violence.n.01
+мародерство	looting.n.01
+поход	campaign.n.03
+атака	attack.n.01	offense.n.05	attack.n.09	fire.n.09
+набег	foray.n.01
+нахлуване	foray.n.01	invasion.n.02
+удар	strike.n.02	blow.n.01	rap.n.02	daze.n.01	stroke.n.03
+офанзива	offense.n.05
+процедура	procedure.n.04
+процес	procedure.n.01	legal_action.n.01
+рутина	routine.n.01
+обред	ritual.n.01
+ритуал	ritual.n.01
+бдение	wake.n.04
+брак	marriage.n.03	lemon.n.05	wedding.n.01	marriage.n.01
+женитба	marriage.n.03	wedding.n.01	marriage.n.01
+молитва	prayer.n.01
+възраждане	revival.n.01
+позициониране	placement.n.03
+поставяне	placement.n.03
+разполагане	placement.n.03
+визита	call.n.06
+посещение	call.n.06	visit.n.01
+престой	stop.n.03
+спирка	stop.n.03
+набавяне	provision.n.02
+снабдяване	provision.n.02
+изискване	claim.n.03	regulation.n.01	demand.n.01
+искане	claim.n.03	demand.n.01
+претенция	claim.n.03
+пауза	pause.n.02	pause.n.01
+прекъсване	pause.n.02	freeze.n.03	breakdown.n.03	pause.n.01
+спиране	freeze.n.03
+свободно_време	leisure.n.02
+отлагане	delay.n.02
+диета	diet.n.04
+инхибиране	inhibition.n.01
+сдържаност	inhibition.n.01	reserve.n.07
+милост	clemency.n.02	grace.n.04	compassion.n.02
+пощада	clemency.n.02
+снизхождение	clemency.n.02
+обсада	siege.n.01
+дял	parcel.n.02	piece.n.01	section.n.04	cut.n.01	allotment.n.01	quota.n.02	part.n.01
+раздаване	deal.n.08
+помощ	social_welfare.n.01	aid.n.02	hand.n.14	aid.n.03
+социална_помощ	social_welfare.n.01
+дарение	charity.n.03	contribution.n.03	grant.n.01
+стокообмен	commerce.n.01
+търговия	commerce.n.01	traffic.n.02
+бизнес	commercial_enterprise.n.02
+издаване	issue.n.11
+публикация	issue.n.11	publication.n.01
+публикуване	issue.n.11
+превоз	transportation.n.05
+транспорт	transportation.n.05
+транспортиране	transportation.n.05
+фрахт	freight.n.02
+сделка	transaction.n.01	deal.n.01	bargain.n.01
+бартер	barter.n.01
+размяна	barter.n.01	exchange.n.03
+маркетинг	marketing.n.02
+трафик	traffic.n.02	traffic.n.01
+продажба	sale.n.02
+разпродажба	sale.n.03
+плащане	payment.n.02
+миграция	migration.n.01
+преселение	migration.n.01
+законодателство	legislation.n.02
+отговорност	duty.n.01	concern.n.01	liability.n.01
+окупация	occupation.n.02
+ръководство	management.n.01	treatment.n.02	dominion.n.01
+управление	management.n.01	treatment.n.02	government.n.01	dominion.n.01	presidency.n.01	rule.n.06
+финанси	finance.n.03
+държавен_преврат	coup_d'etat.n.01
+преврат	coup_d'etat.n.01
+арест	custody.n.02	detention.n.01
+дискриминация	discrimination.n.01
+възмездие	punishment.n.01
+наказание	punishment.n.01	discipline.n.05
+екзекуция	execution.n.01
+обмен	exchange.n.03
+обмяна	exchange.n.03
+съревнование	competition.n.03	contest.n.02	contest.n.01
+конкуренция	contest.n.02
+метеж	riot.n.01
+сбиване	fight.n.02
+протест	protest.n.02	objection.n.02
+демонстрация	demonstration.n.03	demonstration.n.05
+манифестация	demonstration.n.03
+осиновяване	adoption.n.02
+банкрут	bankruptcy.n.03	bankruptcy.n.02
+несъстоятелност	bankruptcy.n.03
+фалиране	bankruptcy.n.03
+фалит	bankruptcy.n.03	crash.n.03	bankruptcy.n.02
+съдебен_процес	litigation.n.01
+съдебно_дело	litigation.n.01
+присъда	judgment.n.03	conviction.n.02	verdict.n.01	opinion.n.04
+обвинение	prosecution.n.01	accusation.n.02
+отделяне	separation.n.05
+развод	divorce.n.01
+интеграция	integration.n.01
+интегриране	integration.n.01
+съгласие	conformity.n.02	harmony.n.01	agreement.n.03	consensus.n.01
+вярност	commitment.n.02	loyalty.n.01
+лоялност	commitment.n.02	loyalty.n.01
+преданост	commitment.n.02	loyalty.n.01
+подаване_на_ръка_на_някого	hand.n.14
+услуга	service.n.02	favor.n.01
+успокоение	consolation.n.02	relief.n.02
+утеха	consolation.n.02
+утешение	consolation.n.02
+подкрепа	support.n.02
+подпомагане	support.n.02	aid.n.03
+настойчивост	insistence.n.03	imperativeness.n.01
+благословия	blessing.n.01
+нападки	attack.n.09
+държание	behavior.n.01
+поведение	behavior.n.01
+неучтивост	discourtesy.n.03
+обида	discourtesy.n.03	abuse.n.02	impudence.n.01
+презрение	snub.n.02	contempt.n.01
+благоразположение	favor.n.01	morale.n.01
+благосклонност	favor.n.01
+доброжелателство	favor.n.01
+благовъзпитаност	courtesy.n.01
+вежливост	courtesy.n.01
+любезност	courtesy.n.01
+учтивост	courtesy.n.01
+сбор	assembly.n.06	sum.n.03
+събрание	assembly.n.06	meeting.n.04	convention.n.01
+среща	meeting.n.04	meeting.n.03	date.n.03
+заседание	session.n.03	conference.n.01
+гостуване	visit.n.01
+липса	absence.n.02	lack.n.01
+отсъствие	absence.n.02
+мъст	retaliation.n.01
+отмъщение	retaliation.n.01
+война	war.n.03
+реабилитация	rehabilitation.n.03
+стачка	strike.n.01
+водачество	leadership.n.01	lead.n.04
+лидерство	leadership.n.01
+водителство	lead.n.04
+соло	solo.n.01
+възбуждане	stimulation.n.01
+подбуждане	stimulation.n.01
+стимулиране	stimulation.n.01
+домашен_любимец	pet.n.01
+малко	young.n.01
+рожба	young.n.01
+рог	horn.n.02
+кръстоска	hybrid.n.03
+хибрид	hybrid.n.03
+вирус	virus.n.01
+ембрион	embryo.n.02
+зародиш	embryo.n.02
+акула	shark.n.01
+птица	bird.n.01
+орел	eagle.n.01	eagle.n.04
+бухал	owl.n.01
+жаба	frog.n.01
+влечуго	reptile.n.01
+змия	snake.n.01
+клюн	beak.n.02
+човка	beak.n.02
+паяк	spider.n.01
+пиле	chicken.n.02
+кокошка	hen.n.01
+пуйка	turkey.n.01
+пуяк	turkey.n.01
+гълъб	pigeon.n.01
+патица	duck.n.01
+патка	duck.n.01
+добитък	livestock.n.01	cattle.n.01
+стока	livestock.n.01	commodity.n.01	merchandise.n.01
+теле	calf.n.01
+къртица	mole.n.06	counterspy.n.01
+кожа	hide.n.02	skin.n.01	peel.n.02	leather.n.01
+перушина	feather.n.01
+люспа	scale.n.10
+черупка	shell.n.10	shell.n.05	shell.n.04
+червей	worm.n.01
+охлюв	snail.n.01
+кит	whale.n.02
+делфин	dolphin.n.02
+тюлен	seal.n.09
+кучка	bitch.n.04	cunt.n.01
+куче	dog.n.01
+вълк	wolf.n.01
+лисица	fox.n.01
+котка	cat.n.01
+лъв	lion.n.01
+тигър	tiger.n.02
+мечка	bear.n.01
+прилеп	bat.n.01
+крило	wing.n.01	annex.n.01	wing.n.02
+хищник	predator.n.02
+плячка	prey.n.02	loot.n.01
+опашка	tail.n.01	line.n.03	queue.n.01
+насекомо	insect.n.01
+муха	fly.n.01
+комар	mosquito.n.01
+пчела	bee.n.01
+мравка	ant.n.01
+щурец	cricket.n.01
+пеперуда	butterfly.n.01
+заек	rabbit.n.01
+мишка	mouse.n.01	mouse.n.04
+плъх	rat.n.01
+кон	horse.n.01	knight.n.02
+пони	pony.n.05
+прасе	hog.n.03	slob.n.01
+свиня	hog.n.03	slob.n.01
+крава	cow.n.01
+овца	sheep.n.01
+агне	lamb.n.01
+коза	goat.n.01
+козле	kid.n.05
+яре	kid.n.05
+елен	deer.n.01
+човек	homo.n.02
+шимпанзе	pan.n.04
+маймуна	monkey.n.01
+слон	elephant.n.01
+риба	fish.n.01	fish.n.02
+сьомга	salmon.n.01
+абатство	abbey.n.03
+академия	academy.n.04
+газ	accelerator.n.01	gas.n.01
+добавка	addition.n.01
+допълнение	addition.n.01
+самолет	aircraft.n.01	airplane.n.01
+авиокомпания	airline.n.02
+аерогара	airport.n.01
+летище	airport.n.01
+странично_крило	aisle.n.03
+аларма	alarm.n.02	security_system.n.02
+алармена_система	alarm.n.02
+будилник	alarm_clock.n.01
+албум	album.n.02	album.n.01
+олтар	altar.n.02
+линейка	ambulance.n.01
+амфетамин	amphetamine.n.01
+фоайе	anteroom.n.01	lounge.n.02
+апартамент	apartment.n.01	suite.n.02
+апарат	apparatus.n.01
+прибор	apparatus.n.01
+уред	apparatus.n.01
+дреха	apparel.n.01
+облекло	apparel.n.01
+принадлежност	appliance.n.01
+приспособление	appliance.n.01	facility.n.01
+аквариум	aquarium.n.01
+арка	arch.n.03
+архив	archive.n.01
+кресло	armchair.n.01
+фотьойл	armchair.n.01
+стрела	arrow.n.02
+приставка	attachment.n.02
+автомат	automaton.n.02
+робот	automaton.n.02
+клаксон	automobile_horn.n.01
+авеню	avenue.n.02
+булевард	avenue.n.02
+ос	axis.n.06
+детска_количка	baby_buggy.n.01
+куфар	bag.n.06
+чанта	bag.n.04
+балкон	balcony.n.02	patio.n.01
+топка	ball.n.01	ball.n.03
+балон	balloon.n.02
+балонче	balloon.n.02
+райе	band.n.04
+марля	bandage.n.01
+пластир	bandage.n.01	plaster.n.05
+плакат	banner.n.01
+бариера	bar.n.03	barrier.n.03
+преграда	bar.n.03	barrier.n.03
+греда	bar.n.13	beam.n.02
+буре	barrel.n.02
+бъчва	barrel.n.02
+цев	barrel.n.01
+бар	barroom.n.01	public_house.n.01
+основа	base.n.08	basis.n.02	foundation.n.01	base.n.11	form.v.01
+поставка	base.n.08
+долна_част	base.n.19
+дъно	base.n.19	bottom.n.01
+зимник	basement.n.01
+мазе	basement.n.01
+кошница	basket.n.01
+баня	bathroom.n.01
+вана	bathtub.n.01
+батерия	battery.n.02
+креват	bed.n.01
+легло	bed.n.01
+одър	bed.n.01
+леха	bed.n.02
+спалня	bedroom.n.01
+колан	belt.n.02
+пояс	belt.n.02
+пейка	bench.n.01
+скамейка	bench.n.01
+завой	bend.n.03	bend.n.01
+велосипед	bicycle.n.01
+колело	bicycle.n.01	wheel.n.01
+кофа	bin.n.01	bucket.n.01
+кошче	bin.n.01
+острие	blade.n.09
+завивка	blanket.n.01
+дъска	board.n.09	board.n.02
+лодка	boat.n.01
+болт	bolt.n.06
+бомба	bomb.n.01
+бомбардировач	bomber.n.01
+издание	book.n.02	edition.n.01
+книга	book.n.02	book.n.01
+том	book.n.02	volume.n.04
+ботуш	boot.n.01
+отделение	booth.n.02	compartment.n.01	ward.n.03
+бутилка	bottle.n.01
+шише	bottle.n.01
+товарен_кораб	bottom.n.07
+лък	bow.n.04
+панделка	bow.n.08	ribbon.n.04
+купа	bowl.n.01	heart.n.10
+паница	bowl.n.01
+кутия	box.n.01	can.n.01
+спирачка	brake.n.01
+пивоварна	brewery.n.01
+тухла	brick.n.01
+мост	bridge.n.01
+ръб	brim.n.01	edge.n.03
+бронзова_скулптура	bronze.n.02
+скулптура_от_бронз	bronze.n.02
+четка	brush.n.02
+постройка	building.n.01
+сграда	building.n.01
+куршум	bullet.n.01
+вързоп	bundle.n.02
+сноп	bundle.n.02
+бунгало	bungalow.n.01
+автобус	bus.n.01
+копче	button.n.01	push_button.n.01
+такси	cab.n.03
+кабаре	cabaret.n.01
+нощен_клуб	cabaret.n.01
+каюта	cabin.n.03
+хижа	cabin.n.02
+шкаф	cabinet.n.01
+кабел	cable.n.03
+кафене	cafe.n.01
+кафез	cage.n.01
+камера	camera.n.01
+фотоапарат	camera.n.01
+концлагер	camp.n.05
+лагер	camp.n.05	camp.n.08	camp.n.07
+бежански_лагер	camp.n.07
+консерва	can.n.01
+свещ	candle.n.01
+бастун	cane.n.01	staff.n.05
+платно	canvas.n.01	sail.n.01
+каскет	cap.n.01
+кепе	cap.n.01
+фуражка	cap.n.01
+капачка	cap.n.02
+автомобил	car.n.01
+кола	car.n.01
+вагон	car.n.02
+мотриса	car.n.02
+карта	card.n.01	chart.n.02	map.n.01
+витрина	case.n.20
+каса	cash_register.n.01
+касета	cassette.n.01
+гипсова_превръзка	cast.n.05
+замък	castle.n.02
+катедрала	cathedral.n.01
+таван	ceiling.n.01	loft.n.02	ceiling.n.03	limit.n.06
+килия	cell.n.07	cell.n.06
+GSM	cellular_telephone.n.01
+джиесем	cellular_telephone.n.01
+мобилен_телефон	cellular_telephone.n.01
+мобифон	cellular_telephone.n.01
+център	center.n.03	center.n.04	center.n.01
+верига	chain.n.03	chain.n.04
+синджир	chain.n.03
+гердан	chain.n.10
+огърлица	chain.n.10
+стол	chair.n.01
+тебешир	chalk.n.04
+канал	channel.n.07	drain.n.03	passage.n.07	channel.n.04
+талисман	charm.n.03
+скрин	chest_of_drawers.n.01
+комин	chimney.n.01
+чип	chip.n.07
+храм	church.n.02	temple.n.01
+църква	church.n.02
+черква	church.n.02
+улей	chute.n.02
+цигара	cigarette.n.01
+кино	cinema.n.02	film.n.02
+класна_стая	classroom.n.01
+часовник	clock.n.01	watch.n.01
+бухалка	club.n.03
+сопа	club.n.03
+тояга	club.n.03
+спатия	club.n.06
+палто	coat.n.01
+пласт	coating.n.01	film.n.04	layer.n.02
+слой	coating.n.01	film.n.04	layer.n.02
+ковчег	coffin.n.01
+каишка	collar.n.06	leash.n.01
+колона	column.n.07	file.n.02	column.n.03
+подпора	column.n.07	rest.n.06	support.n.10
+малка_лека_кола	compact.n.03
+малолитражка	compact.n.03
+елемент	component.n.03	ingredient.n.01	chemical_element.n.01
+компонент	component.n.03	part.n.01
+компютър	computer.n.01
+копие	copy.n.02	replica.n.01
+рипс	cord.n.04
+рипсено_кадифе	cord.n.04
+костюм	costume.n.01	suit.n.01
+памук	cotton.n.02
+щанд	counter.n.01
+двор	court.n.10	yard.n.02	court.n.03
+крем	cream.n.03	lily.n.01
+помада	cream.n.03
+кръст	cross.n.01
+зебра	crossing.n.05
+пешеходна_пътека	crossing.n.05
+корона	crown.n.04
+патерица	crutch.n.01
+кристал	crystal.n.05	quartz_glass.n.01
+чаша	cup.n.01	glass.n.02	cup.n.02
+бюфет	cupboard.n.01	buffet.n.02
+завеса	curtain.n.01
+перде	curtain.n.01
+възглавница	cushion.n.03	pillow.n.01
+възглавничка	cushion.n.03
+мандра	dairy.n.01
+палуба	deck.n.01
+украса	decoration.n.01
+украшение	decoration.n.01
+орнамент	design.n.04
+фигура	design.n.04
+проект	design.n.06
+схема	design.n.06	schema.n.01
+бюро	desk.n.01
+писалище	desk.n.01
+детектор	detector.n.01
+диаграма	diagram.n.01	chart.n.01	plot.n.04	graph.n.01
+дискотека	disco.n.02
+блюдо	dish.n.01	plate.n.04	dish.n.02
+чиния	dish.n.01	dish.n.05
+диск	disk.n.02
+кукла	doll.n.01
+купол	dome.n.04
+врата	door.n.01	goal.n.03
+звънец	doorbell.n.01
+праг	doorsill.n.01
+общежитие	dormitory.n.01
+доза	dose.n.01
+чекмедже	drawer.n.01
+картина	drawing.n.02	painting.n.01	view.n.02
+рисунка	drawing.n.02
+превръзка	dressing.n.04
+бормашина	drill.n.01
+алея	driveway.n.01	lane.n.01
+дрога	drug.n.01
+наркотик	drug.n.01
+барабан	drum.n.01	barrel.n.03
+дом	dwelling.n.01	home.n.09	house.n.01	family.n.01
+хладилник	electric_refrigerator.n.01
+асансьор	elevator.n.01
+посолство	embassy.n.01
+двигател	engine.n.01
+вход	entrance.n.01
+плик	envelope.n.01
+оборудване	equipment.n.01
+излаз	exit.n.01
+изход	exit.n.01	wall_socket.n.01
+магистрала	expressway.n.01
+вътрешен_телефон	extension.n.10
+вътрешен_телефонен_номер	extension.n.10
+плат	fabric.n.01
+тъкан	fabric.n.01	texture.n.01	tissue.n.01
+фасада	facade.n.01	front.n.04
+факс	facsimile.n.02
+фабрика	factory.n.01
+ферма	farm.n.01
+ограда	fence.n.01
+ферибот	ferry.n.01
+пила	file.n.04
+папка	file.n.03
+покривка	film.n.04
+филм	film.n.03	film.n.02	movie.n.01
+филтър	filter.n.01
+цедка	filter.n.01
+камина	fire.n.04
+огнище	fire.n.04
+прикрепен_предмет	fixture.n.01
+байрак	flag.n.01
+знаме	flag.n.01
+флаг	flag.n.01
+светкавица	flash.n.10	thunderbolt.n.01
+фенерче	flashlight.n.01
+спукана_гума	flat.n.05
+сребро	flatware.n.02	silver.n.01
+стълбище	flight.n.03	stairway.n.01
+под	floor.n.01
+етаж	floor.n.02
+вилица	fork.n.01
+пространствено_разположение	formation.n.05
+формация	formation.n.05
+фонтан	fountain.n.04
+лицева_част	front.n.04
+предна_част	front.n.04
+мебел	furniture.n.01
+галерия	gallery.n.03
+пукнатина	gap.n.03	crack.n.01	split.n.04	crevice.n.01
+цепнатина	gap.n.03	crack.n.01
+гараж	garage.n.01	garage.n.02
+порта	gate.n.01
+механизъм	gear.n.03	mechanism.n.05
+ръкавица	glove.n.02
+мантия	gown.n.05
+наметало	gown.n.05
+тога	gown.n.05
+графики	graphics.n.02
+гроб	grave.n.02
+оранжерия	greenhouse.n.01
+парник	greenhouse.n.01
+бакалия	grocery_store.n.01
+бакалница	grocery_store.n.01
+гастроном	grocery_store.n.01
+китара	guitar.n.01
+пушка	gun.n.01	rifle.n.01
+улук	gutter.n.01
+зала	hall.n.13	hall.n.03
+салон	hall.n.03	salon.n.02
+антре	hallway.n.01
+коридор	hallway.n.01
+чук	hammer.n.02
+количка	handcart.n.01
+хардуер	hardware.n.03
+шапка	hat.n.01
+ези	head.n.28
+було	head_covering.n.01
+воал	head_covering.n.01
+седалище	headquarters.n.01	buttocks.n.01
+отопление	heating_system.n.01
+плет	hedge.n.01
+вертолет	helicopter.n.01
+хеликоптер	helicopter.n.01
+каска	helmet.n.02
+шлем	helmet.n.02
+хероин	heroin.n.01
+уединено_място	hideaway.n.02
+усамотено_място	hideaway.n.02
+пречка	hindrance.n.02	trouble.n.01
+спънка	hindrance.n.02	trouble.n.01
+кука	hook.n.05
+обръч	hoop.n.02
+подкова	horseshoe.n.02
+болница	hospital.n.01
+страноприемница	hostel.n.01
+хан	hostel.n.01
+хотел	hotel.n.01
+жилище	house.n.01
+комплекс	housing.n.01
+барака	hovel.n.01
+илюстрация	illustration.n.04	example.n.01
+внос	import.n.01
+инфраструктура	infrastructure.n.01
+инструмент	instrument.n.01	musical_instrument.n.01	tool.n.01
+сечиво	instrument.n.01	tool.n.01
+мрежа	internet.n.01	net.n.05	network.n.02	network.n.01
+кръстовище	intersection.n.02	junction.n.01
+кръстопът	intersection.n.02	junction.n.01
+иновация	invention.n.02
+новаторство	invention.n.02
+нововъведение	invention.n.02
+яке	jacket.n.01
+буркан	jar.n.01
+джинси	jean.n.01
+тениска	jersey.n.03
+бижу	jewel.n.01
+скъпоценност	jewel.n.01
+долнопробно_заведение	joint.n.02
+чайник	kettle.n.01
+ключ	key.n.01	switch.n.01	key.n.11	key.n.04
+цар	king.n.10	king.n.01
+поп	king.n.09	curate.n.01
+комплект	kit.n.02
+кухня	kitchen.n.01
+хвърчило	kite.n.03
+нож	knife.n.01
+възел	knot.n.02	node.n.01
+лаборатория	lab.n.01
+дантела	lace.n.02
+стълба	ladder.n.01
+лампа	lamp.n.02
+уличка	lane.n.01
+лазер	laser.n.01
+дрехи_за_пране	laundry.n.01
+крак	leg.n.03
+негодна_стока	lemon.n.05
+библиотека	library.n.05
+капак	lid.n.02
+похлупак	lid.n.02
+осветление	light.n.02
+крушка	light_bulb.n.01
+запалка	lighter.n.02
+железопътна_линия	line.n.14
+жп_линия	line.n.14
+линия	line.n.14	measuring_stick.n.01	railroad_track.n.01	rule.n.12
+бельо	linen.n.03
+свръзка	link.n.02
+товар	load.n.01
+катинар	lock.n.01
+локомотив	locomotive.n.01
+огледало	looking_glass.n.01	mirror.n.01
+високоговорител	loudspeaker.n.01
+говорител	loudspeaker.n.01	speaker.n.01	spokesman.n.01	spokesperson.n.01
+багажник	luggage_compartment.n.01	rack.n.01
+машина	machine.n.01
+машинария	machinery.n.01
+списание	magazine.n.02	journal.n.02	review.n.06
+грим	makeup.n.01
+топче	marble.n.02
+топче_за_игра	marble.n.02
+маска	mask.n.01
+кибрит	match.n.01
+лабиринт	maze.n.01
+сантиметър	measuring_stick.n.01	tape.n.04
+лек	medicine.n.02	remedy.n.02	light.a.01	mild.a.01	light.a.01	mild.a.01
+лекарство	medicine.n.02	remedy.n.02
+медикамент	medicine.n.02
+цяр	medicine.n.02	remedy.n.02
+мемориал	memorial.n.03
+паметник	memorial.n.03
+памет	memory.n.04	memory.n.03	memory.n.01
+лудница	mental_hospital.n.01
+магазин	mercantile_establishment.n.01	shop.n.01
+изделие	merchandise.n.01
+продукт	merchandise.n.01
+метро	metro.n.01
+микрофон	microphone.n.01
+воденица	mill.n.04
+мелница	mill.n.04
+мина	mine.n.02	mine.n.01
+рудник	mine.n.01
+симулация	model.n.04
+модул	module.n.04
+манастир	monastery.n.01
+мозайка	mosaic.n.01
+джамия	mosque.n.01
+мотор	motorcycle.n.01
+мотоциклет	motorcycle.n.01
+халба	mug.n.04
+музей	museum.n.01
+гвоздей	nail.n.02
+пирон	nail.n.02
+вратовръзка	necktie.n.01
+игла	needle.n.03	spine.n.03
+стрелка	needle.n.02	arrow.n.01
+лаптоп	notebook.n.02
+преносим_компютър	notebook.n.02
+реактор	nuclear_reactor.n.01
+детска_стая	nursery.n.01
+препятствие	obstacle.n.02	trouble.n.01
+творчество	oeuvre.n.01
+кантора	office.n.01
+офис	office.n.01
+орган	organ.n.05	organ.n.01
+екип	outfit.n.02	team.n.01
+екипировка	outfit.n.02
+пещ	oven.n.01
+фурна	oven.n.01
+гащеризон	overall.n.01
+раница	pack.n.09
+торба	pack.n.09
+пакет	packet.n.03	package.n.01
+боя	paint.n.01
+дворец	palace.n.04
+палат	palace.n.04
+тава	pan.n.01
+тиган	pan.n.01
+панел	panel.n.01
+табло	panel.n.01
+кръпка	patch.n.03
+веранда	patio.n.01
+тераса	patio.n.01
+писалка	pen.n.01
+молив	pencil.n.01
+есенция	perfume.n.02
+парфюм	perfume.n.02
+снимка	photograph.n.01
+клавесин	piano.n.01
+пиано	piano.n.01
+роял	piano.n.01
+изображение	picture.n.01
+къс	piece.n.01	short.a.02	short.a.01	short.a.02	short.a.01
+парче	piece.n.01	scrap.n.03	section.n.04	musical_composition.n.01	fragment.n.01
+мостова_опора	pier.n.03
+таблетка	pill.n.02
+контрацептив	pill.n.05
+хапче	pill.n.05
+капан	pit.n.08	trap.n.01
+завод	plant.n.01
+лепенка	plaster.n.05
+естрада	platform.n.01
+подиум	platform.n.01	stage.n.03
+трибуна	platform.n.01
+кошарка	playpen.n.01
+играчка	plaything.n.01
+джоб	pocket.n.01
+стълб	pole.n.01
+портрет	portrait.n.02
+тенджера	pot.n.01
+марихуана	pot.n.09
+трева	pot.n.09	grass.n.01
+саксия	pot.n.04
+глинен_съд	pottery.n.01
+керамика	pottery.n.01
+кучкарник	pound.n.13
+приют_за_кучета	pound.n.13
+предписано_лекарство	prescription_drug.n.01
+печатарска_машина	press.n.03
+принтер	press.n.03	printer.n.02
+отпечатък	print.n.02
+затвор	prison.n.01
+конвейер	production_line.n.01
+ракетен_снаряд	projectile.n.01
+снаряд	projectile.n.01
+помпа	pump.n.01
+бутон	push_button.n.01
+главоблъсканица	puzzle.n.02
+пъзел	puzzle.n.02
+ребус	puzzle.n.02
+писта	racetrack.n.01	track.n.07
+радио	radio.n.03	radio_receiver.n.01
+радиоапарат	radio_receiver.n.01
+радиоприемник	radio_receiver.n.01
+транзистор	radio_receiver.n.01
+коловоз	railroad_track.n.01
+железница	railway.n.01
+ранчо	ranch.n.01
+гръб	rear.n.05
+запис	recording.n.03
+отражение	reflection.n.05	impact.n.02
+приют	refuge.n.03
+убежище	refuge.n.03	shelter.n.05
+репродукция	replica.n.01
+язовир	reservoir.n.02
+гостилница	restaurant.n.01
+ресторант	restaurant.n.01
+лента	ribbon.n.04	tape.n.01	tape.n.02
+пръстен	ring.n.08
+ринг	ring.n.07
+път	road.n.01	passage.n.07	path.n.03	path.n.04
+ракета	rocket.n.01
+рентгенограма	roentgenogram.n.01
+рентгеноскопия	roentgenogram.n.01
+руло	roll.n.11
+покрив	roof.n.01
+стая	room.n.01
+въже	rope.n.01
+килим	rug.n.01
+развалина	ruin.n.02	wreck.n.01
+руина	ruin.n.02
+линеал	rule.n.12
+степенка	rung.n.01
+светилище	sanctuary.n.01
+сандал	sandal.n.01
+сателит	satellite.n.01
+спътник	satellite.n.01
+везна	scale.n.07
+кантар	scale.n.07
+училище	school.n.02	school.n.06
+късче	scrap.n.03
+парченце	scrap.n.03	bit.n.02
+параван	screen.n.05
+прикритие	screen.n.04
+укритие	screen.n.04
+екран	screen.n.01
+бурма	screw.n.04
+винт	screw.n.04
+скулптура	sculpture.n.01
+статуя	sculpture.n.01	statue.n.01
+седалка	seat.n.03
+част	section.n.04	cut.n.01	quota.n.02	part.n.01
+белезници	shackle.n.01
+окови	shackle.n.01
+прът	shaft.n.03
+шахта	shaft.n.10	well.n.01
+чаршаф	sheet.n.03
+лавица	shelf.n.01
+полица	shelf.n.01	policy.n.03
+рафт	shelf.n.01
+гилза	shell.n.01
+подслон	shelter.n.05
+щит	shield.n.01
+риза	shirt.n.01
+обувка	shoe.n.01
+дюкян	shop.n.01
+късо_съединение	short_circuit.n.01
+гащета	short_pants.n.01
+шорти	short_pants.n.01
+банкет	shoulder.n.05	banquet.n.02	banquet.n.01
+душ	shower.n.01
+плочник	sidewalk.n.01
+тротоар	sidewalk.n.01
+сито	sieve.n.01
+билборд	signboard.n.01
+реклама	signboard.n.01	promotion.n.01
+коприна	silk.n.01
+кухненска_мивка	sink.n.01
+мивка	sink.n.01	washbasin.n.01
+ска	ski.n.01
+пола	skirt.n.02
+лифт	ski_tow.n.01
+плоча	slab.n.01
+ръкав	sleeve.n.01
+пързалка	slide.n.04
+пролука	slot.n.02	crack.n.01
+процеп	slot.n.02
+цепка	slot.n.02	split.n.04
+сапун	soap.n.01
+чорап	sock.n.01
+диван	sofa.n.01
+канапе	sofa.n.01
+очила	spectacles.n.01
+лъжица	spoon.n.01
+пружина	spring.n.02
+конюшня	stable.n.01
+обор	stable.n.01
+стадион	stadium.n.01
+сцена	stage.n.03	scene.n.04	scene.n.06	fit.n.01
+декор	stage_set.n.01
+будка	stall.n.03
+павилион	stall.n.03
+стъпало	step.n.04	foot.n.01
+клечка	stick.n.01
+пръчка	stick.n.01
+лост_за_управление_на_самолет	stick.n.03
+бод	stitch.n.01
+инвентар	stock.n.02
+табуретка	stool.n.01
+печка	stove.n.01
+ремък	strap.n.03
+сламка	straw.n.04
+улица	street.n.02
+трамвай	streetcar.n.01
+връв	string.n.01
+канап	string.n.01
+конструкция	structure.n.01
+ателие	studio.n.01	workshop.n.01
+студио	studio.n.01
+кабинет	study.n.05	government.n.01	cabinet.n.02
+супермаркет	supermarket.n.01
+опора	support.n.10
+пуловер	sweater.n.01
+люлка	swing.n.02
+прекъсвач	switch.n.01
+сабя	sword.n.01
+маса	table.n.03	mass.n.05
+тура	tail.n.06
+танк	tank.n.01
+ширит	tape.n.01
+магнетофонна_лента	tape.n.02
+рулетка	tape.n.04
+телефон	telephone.n.01
+телефонна_връзка	telephone_line.n.02
+телефонна_линия	telephone_line.n.02
+телевизия	television.n.02
+телевизор	television_receiver.n.01
+палатка	tent.n.01
+терминал	terminal.n.04
+нишка	thread.n.01	fiber.n.01
+трон	throne.n.01
+керемида	tile.n.01
+гума	tire.n.01
+зъб	tooth.n.05	tooth.n.01
+зъбец	tooth.n.05
+горнище	top.n.10
+пумпал	top.n.08
+факел	torch.n.01
+факла	torch.n.01
+кърпа	towel.n.01
+пешкир	towel.n.01
+кула	tower.n.01
+дискова_пътечка	track.n.07
+пътека	track.n.07
+пътечка	track.n.07
+влак	train.n.01
+трансмисия	transmission.n.05
+поднос	tray.n.01
+табла	tray.n.01
+изкоп	trench.n.03	pit.n.01
+канавка	trench.n.03
+ров	trench.n.03	pit.n.01
+траншея	trench.n.03
+награда	trophy.n.02	prize.n.01
+панталон	trouser.n.01
+панталони	trouser.n.01
+камион	truck.n.01	van.n.05
+казан	tub.n.02
+корито	tub.n.02
+тунел	tunnel.n.01
+чадър	umbrella.n.01
+униформа	uniform.n.01
+прахосмукачка	vacuum.n.04
+ван	van.n.05
+возило	vehicle.n.01
+превозно_средство	vehicle.n.01
+кадифе	velvet.n.01
+плавателен_съд	vessel.n.02
+съд	vessel.n.03	court.n.01
+видеозапис	video_recording.n.01
+вила	villa.n.04
+каруца	wagon.n.01
+зид	wall.n.01
+стена	wall.n.01	groan.v.01
+извод	wall_socket.n.01	conclusion.n.08
+гардероб	wardrobe.n.02
+умивалник	washbasin.n.01
+кран	water_faucet.n.01
+оръжие	weapon.n.01
+гира	weight.n.02
+тежест	weight.n.02	weight.n.01
+кладенец	well.n.01	spring.n.03
+бич	whip.n.01
+камшик	whip.n.01
+прозорец	window.n.07
+тел	wire.n.01
+вълна	wool.n.01	wave.n.01	fur.n.01
+тезгях	workbench.n.01
+работно_място	workplace.n.01
+работилница	workshop.n.01
+яхта	yacht.n.01
+качество	trait.n.01	quality.n.02	property.n.04	grade.n.02
+особеност	trait.n.01
+черта	trait.n.01	feature.n.02	feature.n.01
+характер	personality.n.01	disposition.n.01	nature.n.01	character.n.06
+индивидуалност	identity.n.01
+лично_пространство	privacy.n.01
+нрав	disposition.n.01
+дух	esprit_de_corps.n.01	spirit.n.04	ghost.n.03	emotional_state.n.01	spirit.n.02
+жар	heat.n.04	passion.n.01	ardor.n.03
+разпаленост	heat.n.04
+активност	activeness.n.02
+действеност	activeness.n.02
+енергичност	activeness.n.02
+търпеливост	patience.n.01
+търпение	patience.n.01
+нежелание	reluctance.n.02
+неохота	reluctance.n.02
+важност	graveness.n.01	importance.n.01
+внушителност	graveness.n.01
+сериозност	graveness.n.01
+улегналост	graveness.n.01
+хумор	humor.n.02
+мълчание	secrecy.n.01	silence.n.02
+небрежност	negligence.n.02
+неизпълнение	negligence.n.02
+нехайство	negligence.n.02
+вина	fault.n.06	guilt.n.01
+вид	appearance.n.01	look.n.03	species.n.01	form.n.09
+външност	appearance.n.01	look.n.03
+цвят	color.n.08
+влияние	impression.n.02	influence.n.01	grip.n.06	impact.n.02	influence.n.04
+въздействие	impression.n.02	exposure.n.01	influence.n.01	impact.n.02	influence.n.04
+ефект	impression.n.02	consequence.n.01
+обаяние	appeal.n.02
+привлекателност	appeal.n.02	attraction.n.03
+чар	appeal.n.02	attraction.n.01
+влечение	affinity.n.07
+бенка	mole.n.04
+белег	scratch.n.10	indication.n.01
+драскотина	scratch.n.10
+петно	smudge.n.02
+хармония	harmony.n.01	proportion.n.05	harmony.n.02
+конфликт	conflict.n.05	confrontation.n.02	conflict.n.04	clash.n.02
+несъвместимост	conflict.n.05
+гласност	publicity.n.02
+публичност	publicity.n.02
+природа	nature.n.01	wildlife.n.01	nature.n.03	nature.n.02
+същина	nature.n.01
+същност	nature.n.01
+човечество	humanness.n.01
+характеристика	characteristic.n.02	feature.n.01
+еднаквост	identity.n.04
+идентичност	identity.n.04
+тъждественост	identity.n.04
+подобие	similarity.n.01	analogy.n.01
+прилика	similarity.n.01
+сходство	similarity.n.01	analogy.n.01	affinity.n.04
+аналог	analogue.n.01
+разнообразие	diverseness.n.01
+вероятност	probability.n.02	probability.n.01
+правдоподобност	probability.n.02	credibility.n.01
+несигурност	uncertainty.n.01	doubt.n.02
+съмнение	doubt.n.02	doubt.n.01	misgiving.n.03	intuition.n.02
+единомислие	solidarity.n.01
+единство	solidarity.n.01	integrity.n.01
+солидарност	solidarity.n.01
+сплотеност	solidarity.n.01
+простота	simplicity.n.01
+колебание	fluctuation.n.03	variation.n.01
+нестабилност	fluctuation.n.03
+разхвърляност	randomness.n.02
+конвенция	conventionality.n.03
+обичай	conventionality.n.03	convention.n.02	habit.n.01	rule.n.01
+прецизност	preciseness.n.02
+точност	preciseness.n.02
+заслуга	deservingness.n.01
+стил	dash.n.01	style.n.06
+двусмисленост	ambiguity.n.02
+многозначност	ambiguity.n.02
+жал	compassion.n.02
+жалост	compassion.n.02
+съжаление	compassion.n.02	sorrow.n.02
+състрадание	compassion.n.02
+импулс	drive.n.05	urge.n.02	caprice.n.01
+тласък	drive.n.05
+амбиция	ambition.n.02	ambition.n.01
+безочие	boldness.n.02
+безочливост	boldness.n.02
+безсрамие	boldness.n.02
+дебелоочие	boldness.n.02
+дързост	boldness.n.02
+наглост	boldness.n.02	impudence.n.01
+нахалство	boldness.n.02
+загриженост	consideration.n.04	concern.n.03
+добродетел	virtue.n.04
+благост	good.n.02
+добрина	good.n.02
+доброта	good.n.02
+правда	justice.n.01
+справедливост	justice.n.01
+право	right.n.07	title.n.07	entitlement.n.01	option.n.01
+кураж	courage.n.01
+воля	self-control.n.02	volition.n.01
+самоконтрол	self-control.n.02	restraint.n.02
+прилежание	diligence.n.02
+прилежност	diligence.n.02
+трудолюбие	diligence.n.02
+усърдие	diligence.n.02
+чест	honor.n.03	honor.n.02	frequent.a.01	frequent.a.01
+почтеност	integrity.n.02
+честност	integrity.n.02	loyalty.n.01
+национализъм	patriotism.n.01
+самообладание	restraint.n.02
+достойнство	dignity.n.01
+икономия	economy.n.03
+пестеливост	economy.n.03
+спестовност	economy.n.03
+пилеене	thriftlessness.n.01
+маниери	manner.n.02
+обноски	manner.n.02	bearing.n.03
+държане	bearing.n.03
+симетрия	isotropy.n.01
+опит	background.n.01	experience.n.01
+корен	origin.n.02	beginning.n.04	root.n.01
+потекло	origin.n.02	descent.n.04
+произход	origin.n.02	descent.n.04
+род	origin.n.02	kin.n.02	family.n.04
+възраст	age.n.01
+начин_на_живот	life_style.n.01
+устройство	constitution.n.04
+плътност	density.n.01
+сребристо	ash_grey.n.01
+червен	red.n.01
+оранжево	orange.n.02
+зелен	green.n.01	green.n.04	green.a.03	green.a.03
+син	blue.n.01
+синьо	blue.n.01
+тъмносин	dark_blue.n.01
+пастел	pastel.n.01
+миризма	olfactory_property.n.01
+мирис	olfactory_property.n.01
+звън	ring.n.01
+безшумност	silence.n.02
+тишина	silence.n.02	peace.n.03
+височина	pitch.n.01	altitude.n.01	hill.n.01
+сила	volume.n.06	strength.n.01	force.n.03	energy.n.02	forte.n.01	power.n.05
+лой	fatness.n.01
+сало	fatness.n.01
+тлъстина	fatness.n.01
+поза	carriage.n.03
+стойка	carriage.n.03
+грация	grace.n.02
+пол	sex.n.04
+ехо	echo.n.01
+температура	temperature.n.01	fever.n.01
+студ	coldness.n.03
+студенина	coldness.n.03
+блясък	luminosity.n.01	flare.n.03	glow.n.05
+сияйност	luminosity.n.01
+тегло	weight.n.01
+инерция	momentum.n.02	momentum.n.01
+енергия	energy.n.02
+концентрация	concentration.n.01	attention.n.05	concentration.n.05
+безсилие	weakness.n.03
+слабост	weakness.n.03	failing.n.01
+времетраене	duration.n.03	duration.n.01
+дължина	duration.n.03	length.n.03
+продължителност	duration.n.03
+продължаване	lengthiness.n.02
+продължение	lengthiness.n.02
+скорост	pace.n.03	speed.n.01
+темп	pace.n.03	tempo.n.02
+темпо	pace.n.03	tempo.n.02
+наклон	tilt.n.04	grade.n.03	pitch.n.05	descent.n.05	slope.n.01
+нагорнище	upgrade.n.04
+аранжиране	placement.n.01
+подредба	placement.n.01
+пропорционалност	proportion.n.05
+разстояние	distance.n.01
+величина	magnitude.n.01
+размер	magnitude.n.01	proportion.n.02	dimension.n.01	size.n.01	extent.n.01
+мащаб	proportion.n.02
+ниво	degree.n.01	level.n.07	grade.n.02
+равнище	degree.n.01	level.n.07	grade.n.02
+степен	degree.n.01	degree.n.07	academic_degree.n.01	extent.n.01	rank.n.02
+крайност	extreme.n.01
+дефицит	insufficiency.n.03	deficit.n.01	lack.n.01
+недостиг	insufficiency.n.03	deficit.n.01	lack.n.01	dearth.n.01
+излишък	excess.n.01	redundancy.n.02
+число	number.n.01
+преобладаване	preponderance.n.02	domination.n.02
+малцинство	minority.n.02
+обсег	scope.n.01
+обхват	scope.n.01	band.n.06
+спектър	spectrum.n.02
+площ	area.n.06
+повърхнина	area.n.06
+ширина	width.n.01
+широчина	width.n.01
+стойност	worth.n.02	monetary_value.n.01	value.n.01	value.n.03
+ценност	worth.n.02
+изгода	benefit.n.02	profit.n.02
+облага	benefit.n.02	profit.n.02
+печалба	benefit.n.02	profit.n.02	winnings.n.01
+полза	benefit.n.02
+предимство	advantage.n.03	asset.n.01	edge.n.05	precedence.n.01
+преимущество	advantage.n.03	asset.n.01	edge.n.05
+цена	monetary_value.n.01	price.n.03	value.n.03
+предназначение	function.n.02
+функция	function.n.02	function.n.01
+реализъм	realism.n.01
+компетентност	competence.n.01
+ресурс	resource.n.02
+аванс	lead.n.01	advance.n.05
+преднина	lead.n.01
+привилегия	privilege.n.01
+способност	forte.n.01	ability.n.01
+дефект	disadvantage.n.01	defect.n.03
+недостатък	disadvantage.n.01
+несъвършенство	disadvantage.n.01
+ограничение	limitation.n.02	restriction.n.01	restraint.n.04
+уловка	catch.n.01
+значение	importance.n.01	meaning.n.01	sense.n.02
+достъп	access.n.02	entree.n.02
+авторитет	influence.n.01	authority.n.03	prestige.n.01
+власт	grip.n.06	government.n.01	legislature.n.01	world_power.n.01	authority.n.02	dominion.n.01	rule.n.06
+правораздаване	legal_power.n.01
+правосъдие	legal_power.n.01
+умение	ability.n.01	skill.n.01	command.n.06	proficiency.n.02
+оптимизъм	optimism.n.02
+тяло	body.n.01	human_body.n.01	body.n.03	torso.n.01
+труп	body.n.03	cadaver.n.01
+луничка	freckle.n.01
+петънце	freckle.n.01
+тръба	tube.n.04	pipe.n.03
+окосмяване	hair.n.01
+подстрижка	haircut.n.01
+кичур	lock.n.02
+плитка	braid.n.01
+брада	beard.n.01	chin.n.01
+проба	specimen.n.02	trial.n.02
+месо	flesh.n.01	meat.n.01	pulp.n.02
+кокал	bone.n.01
+кост	bone.n.01
+ребро	rib.n.02
+мускул	muscle.n.01
+език	tongue.n.01	language.n.01	natural_language.n.01
+уста	mouth.n.01
+устна	lip.n.01
+око	eye.n.01
+вежда	eyebrow.n.01
+клепач	eyelid.n.01
+гледец	pupil.n.02
+зеница	pupil.n.02
+ухо	ear.n.01
+бъбрек	kidney.n.01
+черен_дроб	liver.n.01
+бял_дроб	lung.n.01
+сърце	heart.n.02	heart.n.01	heart.n.07
+стомах	stomach.n.01
+кръв	blood.n.01
+секрет	secretion.n.02
+секреция	secretion.n.02
+сълза	tear.n.01
+пот	perspiration.n.01
+вена	vein.n.01
+ген	gene.n.01
+нерв	nerve.n.01
+мозъчна_половина	hemisphere.n.03
+мозък	brain.n.01	mind.n.01
+черво	intestine.n.01
+колон	colon.n.01
+апендикс	appendix.n.02
+глава	head.n.01	chapter.n.01
+череп	skull.n.01
+челюст	jaw.n.01
+врат	neck.n.01
+гърло	throat.n.01
+рамо	shoulder.n.01
+торс	torso.n.01
+туловище	torso.n.01
+гърди	thorax.n.02
+гръд	breast.n.02
+гърда	breast.n.02
+талия	waist.n.01
+бедро	hip.n.01	thigh.n.01
+корем	abdomen.n.01
+крайник	limb.n.01
+скут	lap.n.01
+ходило	foot.n.01
+ръка	arm.n.01	hand.n.01	hand.n.06
+юмрук	fist.n.01
+пръст	finger.n.01	toe.n.01	soil.n.02
+палец	thumb.n.01
+показалец	index.n.05
+коляно	knee.n.01	family.n.04
+пета	heel.n.02
+глезен	ankle.n.01
+лакът	elbow.n.01
+нокът	nail.n.01
+китка	wrist.n.01
+скелет	skeletal_system.n.01
+гръбнак	spinal_column.n.01
+става	joint.n.01
+нос	nose.n.01
+брадичка	chin.n.01
+чело	brow.n.01
+слепоочие	temple.n.02
+буза	cheek.n.01
+благоразумие	common_sense.n.01
+разсъдък	common_sense.n.01	rationality.n.01
+разум	common_sense.n.01	rationality.n.01
+внимателност	caution.n.03
+предпазливост	caution.n.03
+интелигентност	intelligence.n.01
+интелект	mind.n.07
+гениалност	brilliance.n.03
+лукавост	craft.n.05
+инстинкт	instinct.n.01
+ад	hell.n.04
+преизподня	hell.n.04
+пъкъл	hell.n.04
+измисляне	invention.n.01
+вещина	skill.n.01	expertness.n.01	command.n.06	proficiency.n.02
+майсторство	craft.n.04	command.n.06
+грамотност	literacy.n.01
+ловкост	adeptness.n.01
+сръчност	adeptness.n.01
+опитност	proficiency.n.02
+внимание	attention.n.05
+сетиво	sense.n.03
+усещане	sense.n.03	feeling.n.06	intuition.n.02
+зрение	sight.n.03
+докосване	touch.n.02	touch.n.10
+допир	touch.n.02	touch.n.10
+вкус	taste.n.06	relish.n.03
+обоняние	smell.n.04
+похват	method.n.01
+методология	methodology.n.02
+традиция	custom.n.02	convention.n.02
+правило	convention.n.02	rule.n.01	principle.n.04	rule.n.08
+въодушевление	enthusiasm.n.03	ardor.n.03
+ентусиазъм	enthusiasm.n.03	ardor.n.03
+съзнание	consciousness.n.01
+самоопределение	self.n.01
+кома	coma.n.01
+мъглявост	daze.n.02
+неяснота	daze.n.02
+обърканост	daze.n.02
+загадка	mystery.n.01
+мистерия	mystery.n.01
+потайност	mystery.n.01
+тайна	mystery.n.01	secret.n.01
+дилема	dilemma.n.01
+проблем	trouble.n.01
+примамка	bait.n.01
+стръв	bait.n.01
+подозрение	misgiving.n.03	intuition.n.02
+замисленост	preoccupation.n.02
+умисленост	preoccupation.n.02
+съсредоточаване	concentration.n.05
+съсредоточеност	concentration.n.05
+усет	feeling.n.06
+чувство	feeling.n.06	sentiment.n.01
+възприемане	perception.n.03
+забележка	remark.n.02	note.n.07
+звук	sound.n.02	noise.n.01
+натиск	pressure.n.05
+болка	pain.n.03	suffering.n.04
+страдание	pain.n.03	pain.n.02	suffering.n.04	agony.n.01	misery.n.01
+дизайн	design.n.02
+бележка	mark.n.01	message.n.01	memo.n.01	note.n.02	note.n.07
+граница	line.n.29	boundary_line.n.01	limit.n.04	limit.n.06
+мода	fashion.n.03
+асоциация	association.n.04	association.n.01
+въображение	imagination.n.02	illusion.n.02
+фантазия	imagination.n.02	illusion.n.02
+видение	vision.n.01
+сън	dream.n.01	sleep.n.01
+съновидение	dream.n.01
+кошмар	nightmare.n.02
+преследване	pursuit.n.02
+стремеж	pursuit.n.02	ambition.n.01	appetite.n.01
+мислене	thinking.n.01
+мисъл	thinking.n.01	idea.n.01
+размишление	thinking.n.01
+аргументация	argumentation.n.02
+предвиждане	projection.n.01	prognosis.n.01	anticipation.n.04
+предричане	projection.n.01
+предсказание	projection.n.01
+предсказване	projection.n.01
+пророкуване	projection.n.01
+пророчество	projection.n.01
+аналогия	analogy.n.01
+обмисляне	consideration.n.01
+мнение	judgment.n.04	public_opinion.n.01	position.n.12	position.n.03	opinion.n.02	side.n.10
+алтернатива	option.n.02
+опция_по_подразбиране	default_option.n.01
+подразбиране	default_option.n.01
+възможност	possibility.n.04	opportunity.n.01
+база	basis.n.02
+фундамент	basis.n.02
+преценка	calculation.n.03	estimate.n.01	estimate.n.05
+вдъхновение	inspiration.n.03
+изпробване	trial.n.02
+екзит_пол	poll.n.01
+проучване	poll.n.01	report.n.01
+изчисление	calculation.n.02
+калкулация	calculation.n.02
+пресмятане	calculation.n.02
+осъзнаване	insight.n.03
+откритие	discovery.n.03
+реалност	world.n.03	reality.n.02
+свят	world.n.03	populace.n.01	earth.n.01	universe.n.01	holy.a.01	sacred.a.01	holy.a.01	sacred.a.01
+любов	love.n.02	beloved.n.01
+въпрос	issue.n.01	question.n.01
+познание	acquaintance.n.01
+детайл	detail.n.01	detail.n.02
+подробност	detail.n.01
+наблюдение	observation.n.04
+пример	example.n.01	exemplar.n.01	model.n.06
+изключение	exception.n.02
+прецедент	precedent.n.01
+мостра	sample.n.01
+образец	sample.n.01	model.n.01	exemplar.n.01	pattern.n.05	model.n.06
+обстоятелство	circumstance.n.03	context.n.02
+положение	circumstance.n.03	condition.n.01	situation.n.01	state_of_matter.n.01
+условие	circumstance.n.03	condition.n.02	condition.n.07	setting.n.01	setting.n.02
+обяснение	justification.n.01	explanation.n.01	explanation.n.03
+основание	justification.n.01
+доказателство	proof.n.01	proof.n.02
+потвърдя	confirmation.n.01	confirm.v.01
+потвърждавам	confirmation.n.01	confirm.v.01
+следа	lead.n.03	trace.n.06
+главозамайване	kick.n.05
+идея	idea.n.01	notion.n.02	position.n.03
+понятие	concept.n.01	notion.n.02
+представа	concept.n.01	notion.n.02
+разбиране	notion.n.02	belief.n.01	sympathy.n.01	opinion.n.02	side.n.10
+схващане	notion.n.02	belief.n.01	opinion.n.02
+план	layout.n.01	plan.n.01	schedule.n.02
+категория	category.n.02	bracket.n.01
+вариант	version.n.02
+вариация	version.n.02	variation.n.01
+разновидност	version.n.02
+марка	brand.n.02	postage.n.02
+формула	rule.n.11	formula.n.03
+указание	guidepost.n.01
+свойство	property.n.04
+аспект	aspect.n.01
+страна	aspect.n.01	state.n.04
+област	sector.n.03	district.n.01	region.n.03	state.n.01	ward.n.02
+сектор	sector.n.03
+сфера	sector.n.03	sphere.n.03	sphere.n.06	ball.n.03
+количество	quantity.n.03
+променлива	variable.n.02
+произведение	product.n.03
+двоен	double.n.04
+вектор	vector.n.01
+начало	beginning.n.03
+среда	middle.n.02	environment.n.02	medium.n.08	setting.n.02
+цяло	unit.n.04
+закон	law.n.03	law.n.01
+логика	logic.n.03
+принцип	principle.n.03	principle.n.04
+предположение	hypothesis.n.02	premise.n.01	guess.n.01
+хипотеза	hypothesis.n.02	guess.n.01
+модел	model.n.01	pattern.n.05	model.n.03
+илюзия	illusion.n.02	illusion.n.01
+замисъл	plan.n.01	purpose.n.01
+кроеж	plan.n.01
+програма	plan.n.01	schedule.n.02	program.n.07	program.n.05
+гаранция	bail.n.02	guarantee.n.01	assurance.n.03	bail.n.01
+тактика	tactic.n.01
+заговор	conspiracy.n.02
+конспирация	conspiracy.n.02
+съзаклятие	conspiracy.n.02
+идеал	value.n.06	ideal.n.02
+образ	image.n.01
+форма	form.n.03
+гледка	view.n.02	landscape.n.01
+изглед	view.n.02	expectation.n.01	landscape.n.01
+панорама	view.n.02
+перспектива	view.n.02	expectation.n.01
+фон	background.n.02
+зърване	glimpse.n.02
+спомен	memory.n.01
+скица	pattern.n.05
+убеждение	belief.n.01	conviction.n.01
+философия	doctrine.n.01	philosophy.n.02
+вяра	religion.n.01
+виждане	public_opinion.n.01
+тенденция	mainstream.n.01	inclination.n.01	tendency.n.04
+вероизповедание	creed.n.01
+цел	goal.n.01	aim.n.02	purpose.n.01	target.n.01	finish.n.04
+умисъл	purpose.n.01
+фолклор	folklore.n.01
+невежество	ignorance.n.01
+незнание	ignorance.n.01
+дисциплина	discipline.n.01
+наука	science.n.01
+математика	mathematics.n.01
+статистика	statistics.n.01
+норма	average.n.01	standard.n.01	norm.n.01
+хирургия	surgery.n.01
+лесовъдство	forestry.n.01
+химия	chemistry.n.01
+физика	physics.n.01
+електроника	electronics.n.01
+география	geography.n.01
+архитектура	architecture.n.02
+технология	engineering.n.02
+компютърни_науки	computer_science.n.01
+психология	psychology.n.01
+икономика	economics.n.01	economy.n.01
+социология	sociology.n.01
+история	history.n.03	history.n.02	narrative.n.01	history.n.01
+етика	ethics.n.02
+красноречие	rhetoric.n.04
+реторика	rhetoric.n.04
+граматика	grammar.n.01
+богословие	theology.n.01
+теология	theology.n.01
+отношение	attitude.n.01	position.n.12	ratio.n.01
+възглед	mentality.n.01	opinion.n.02
+манталитет	mentality.n.01
+гледище	position.n.12	position.n.03	point_of_view.n.01	opinion.n.02
+позиция	position.n.12	point_of_view.n.01	slant.n.01	side.n.10	status.n.01
+становище	position.n.12	point_of_view.n.01	opinion.n.02
+наклонност	inclination.n.01
+склонност	inclination.n.01
+предпочитание	predilection.n.01
+предразсъдък	bias.n.01
+предубеждение	bias.n.01
+расизъм	racism.n.01
+гледна_точка	slant.n.01
+идеология	political_orientation.n.01
+мироглед	political_orientation.n.01
+известие	message.n.01	notice.n.01
+послание	message.n.01	calling_card.n.02
+емисия	broadcast.n.01
+лист	sheet.n.02	leaf.n.01
+страница	page.n.01
+диапазон	band.n.06
+медия	medium.n.10
+мултимедия	multimedia.n.01
+поща	mail.n.02	mail.n.01
+вестник	newspaper.n.01
+статия	article.n.01	paper.n.05
+обаждане	call.n.01
+кореспонденция	mail.n.01	correspondence.n.01
+сигнал	reception.n.03	signal.n.01
+контекст	context.n.01
+изречение	sentence.n.01
+дума	word.n.01	promise.n.01	parole.n.01
+слово	word.n.01	address.n.03
+термин	term.n.01
+терминология	terminology.n.01
+сричка	syllable.n.01
+съществително_име	noun.n.01
+име	name.n.01	name.n.02	reputation.n.02
+название	name.n.01
+наименование	name.n.01
+титла	title.n.06	academic_degree.n.01
+заглавие	headline.n.01	title.n.03
+легенда	caption.n.03	legend.n.01
+азбука	script.n.03
+писменост	script.n.03
+код	code.n.03
+интернет_сайт	web_site.n.01
+интернет_страница	web_site.n.01
+сайт	web_site.n.01
+уебсайт	web_site.n.01
+уебстраница	web_site.n.01
+литература	literature.n.01
+предписание	prescription.n.04
+рецепта	prescription.n.04
+белетристика	fiction.n.01
+роман	novel.n.01
+мит	myth.n.01
+сюжет	plot.n.03
+фабула	plot.n.03
+стихотворение	poem.n.01
+текст	text.n.01
+поле	margin.n.05	playing_field.n.02
+чернова	draft.n.05
+увод	introduction.n.02
+заключение	conclusion.n.08	ending.n.04
+абзац	paragraph.n.01
+параграф	paragraph.n.01
+откъс	passage.n.02	excerpt.n.01
+пасаж	passage.n.02
+извадка	excerpt.n.01
+дневник	diary.n.01
+подпис	signature.n.01
+ръкопис	manuscript.n.01
+адаптация	adaptation.n.01
+преработка	adaptation.n.01
+теза	dissertation.n.01
+памфлет	tract.n.03
+есе	essay.n.01	composition.n.08
+съчинение	composition.n.08
+отзив	review.n.02	remark.n.01
+рецензия	review.n.02
+брошура	booklet.n.01
+учебник	textbook.n.01
+въведение	introduction.n.04
+бележник	notebook.n.01
+тефтер	notebook.n.01
+каталог	catalog.n.01
+речник	dictionary.n.01
+наръчник	manual.n.01	guidebook.n.01
+справочник	guidebook.n.01	directory.n.01
+телефонен_номер	phone_number.n.01
+библия	bible.n.01
+Библия	bible.n.01
+Коран	koran.n.01
+резюме	summary.n.01	recapitulation.n.03
+конспект	outline.n.02
+обобщение	overview.n.01
+обзор	sketch.n.03
+документ	document.n.01	record.n.07
+бюлетина	ballot.n.01
+свидетелство	certificate.n.01
+сертификат	certificate.n.01
+уверение	certificate.n.01
+удостоверение	certificate.n.01
+харта	charter.n.01
+авторско_право	copyright.n.01
+бланка	form.n.08
+формуляр	form.n.08
+въпросник	questionnaire.n.01
+лична_карта	card.n.02
+списък	list.n.01	roll.n.02
+дневен_ред	agenda.n.02
+досие	criminal_record.n.01	file.n.01
+индекс	index.n.04
+меню	menu.n.01	menu.n.03	menu.n.02
+разписание	schedule.n.02	timetable.n.02
+график	timetable.n.02
+паспорт	passport.n.02
+патент	patent.n.01
+записка	memo.n.01
+регистър	register.n.01
+картотека	file.n.01
+оставка	resignation.n.03
+заявка	application.n.02
+заявление	application.n.02	request.n.01
+молба	application.n.02	request.n.01
+апел	solicitation.n.02
+зов	solicitation.n.02
+призив	solicitation.n.02
+разказ	history.n.02	narrative.n.01
+биография	biography.n.01
+баланс	statement.n.07	balance.n.02	balance.n.01
+сметка	check.n.03
+ваучер	coupon.n.01
+билет	ticket.n.01
+касова_бележка	receipt.n.02
+квитанция	receipt.n.02
+разписка	receipt.n.02
+договор	contract.n.01	treaty.n.01
+аренда	lease.n.02
+наем	lease.n.02	rent.n.01
+партньорство	partnership.n.03
+сдружение	partnership.n.03	association.n.01	firm.n.01
+съдружие	partnership.n.03
+декларация	appraisal.n.02	declaration.n.01
+конституция	fundamental_law.n.01
+заповед	decree.n.01	warrant.n.01	command.n.01
+постановление	decree.n.01
+указ	decree.n.01
+забрана	prohibition.n.02
+завещание	will.n.03
+нотариален_акт	deed.n.01
+данъчна_декларация	tax_return.n.01
+лиценз	license.n.01
+амнистия	pardon.n.02
+опрощение	pardon.n.02
+помилване	pardon.n.02
+глоба	ticket.n.03
+софтуер	software.n.01
+интерфейс	interface.n.02
+компютърен_вирус	virus.n.03
+компютърен_червей	worm.n.03
+периодика	series.n.03
+поредица	series.n.03	serial.n.01
+тема	subject.n.01	theme.n.03
+смисъл	meaning.n.01	sense.n.02	intent.n.02
+нюанс	nuance.n.01
+отсянка	nuance.n.01
+безсмислица	nonsense.n.01
+изрезка	clipping.n.01
+отрязък	clipping.n.01
+цитат	quotation.n.02	citation.n.03
+атракция	attraction.n.02
+спектакъл	show.n.03
+предаване	broadcast.n.02
+новини	news_program.n.01
+сериал	serial.n.01
+епизод	episode.n.03
+писмо	letter.n.01
+картичка	card.n.03	calling_card.n.02
+пощенска_картичка	postcard.n.01
+поздрав	greeting.n.01
+поздравление	greeting.n.01
+приветствие	greeting.n.01
+реагиране	reception.n.01
+реакция	reception.n.01	reaction.n.05	reaction.n.04	chemical_reaction.n.01
+посрещане	welcome.n.02
+прием	welcome.n.02	reception.n.02
+гостоприемство	cordial_reception.n.01
+извинение	apology.n.01	excuse.n.01
+информация	information.n.01
+сведение	information.n.01	tip.n.03
+факт	fact.n.02
+формат	format.n.01
+вест	news.n.01	notice.n.01
+новина	news.n.01	news.n.04
+улика,_диря	clue.n.02
+признак	sign.n.01	indication.n.01
+диря	trace.n.06
+съвет	guidance.n.01	advice.n.01	council.n.01
+интервенция	intervention.n.02
+наредба	regulation.n.01
+нареждане	regulation.n.01
+равенство	equation.n.01	draw.n.03
+препоръка	advice.n.01	recommendation.n.02
+направление	referral.n.02
+предупреждение	admonition.n.01
+парола	password.n.01
+пропаганда	propaganda.n.01
+учебна_програма	course_of_study.n.01
+репортаж	report.n.03	coverage.n.03
+бюлетин	bulletin.n.01
+комюнике	bulletin.n.01
+признание	recognition.n.03	admission.n.02	recognition.n.01
+честване	memorial.n.01
+позволение	permission.n.01
+разрешение	permission.n.01
+аплодисменти	hand.n.12
+ръкопляскане	hand.n.12
+похвала	praise.n.01
+възхвала	tribute.n.01
+медал	decoration.n.02
+критика	criticism.n.01
+нападка	fire.n.09
+оскърбление	abuse.n.02
+истина	truth.n.03	truth.n.02
+парадокс	paradox.n.01
+изявление	announcement.n.01
+твърдение	assertion.n.01	claim.n.02	proposition.n.01	affirmation.n.02
+пояснение	explanation.n.01	explanation.n.03
+оправдание	excuse.n.01
+дефиниция	definition.n.01
+определение	definition.n.01
+отговор	answer.n.01	feedback.n.02	answer.n.03
+обратна_връзка	feedback.n.02
+хороскоп	horoscope.n.01
+прогноза	prognosis.n.01
+предпоставка	condition.n.02
+сценарий	scenario.n.03
+котировка	quotation.n.03
+лъжа	lie.n.01	fib.n.01	lie.v.05
+измислица	fib.n.01
+резерва	reservation.n.02
+позоваване	citation.n.03
+коментар	remark.n.01
+духовитост	wisecrack.n.01
+остроумие	wisecrack.n.01
+спогодба	bargain.n.01
+споразумение	bargain.n.01
+ирония	sarcasm.n.01
+майтап	joke.n.01
+шега	joke.n.01
+карикатура	cartoon.n.01
+знак	signal.n.01	symbol.n.01	sign.n.09	augury.n.01
+срещане	token.n.01
+чуруликане	birdcall.n.01
+симптом	indication.n.01	symptom.n.01
+символ	symbol.n.01
+цифра	numeral.n.01
+логаритъм	logarithm.n.01
+отметка	check_mark.n.01
+буква	character.n.08	letter.n.02
+главна_буква	capital.n.04
+звездичка	asterisk.n.01
+инициал	initial.n.01
+интервал	space.n.05
+скоба	bracket.n.02
+двоеточие	colon.n.05
+точка	period.n.07	score.n.03	point.n.09
+печат	seal.n.05
+нота	note.n.03
+акорд	chord.n.02
+сопран	soprano.n.02
+проблясък	flare.n.03
+светлина	flare.n.03	glow.n.05
+гримаса	grimace.n.01
+усмивка	smile.n.01
+демо	demonstration.n.05
+документи_за_самоличност	identification.n.02
+пин	personal_identification_number.n.01
+пин_код	personal_identification_number.n.01
+прожектиране	projection.n.02
+прожекция	projection.n.02
+представяне	presentation.n.03	presentation.n.06
+презентация	presentation.n.03
+бенефис	benefit.n.03
+концерт	concert.n.01
+графика	chart.n.01
+крива	curve.n.02
+комикс	comic_strip.n.01
+театър	dramaturgy.n.01
+пиеса	play.n.01
+диалог	dialogue.n.02	dialogue.n.01
+комедия	comedy.n.01
+трагедия	tragedy.n.02	calamity.n.01
+музика	music.n.01
+опера	opera.n.01
+съзвучие	harmony.n.02
+мелодия	tune.n.01
+композиция	musical_composition.n.01
+музикална_творба	musical_composition.n.01
+музикално_произведение	musical_composition.n.01
+марш	marching_music.n.01
+попмузика	pop_music.n.01
+народна_музика	folk_music.n.01
+джаз	jazz.n.02
+рок	rock_'n'_roll.n.01
+рокендрол	rock_'n'_roll.n.01
+говор	manner_of_speaking.n.01	speech.n.04
+формулировка	wording.n.01
+тон	tone.n.01	short_ton.n.01
+ритъм	rhythm.n.01
+поезия	poetry.n.01
+говорене	speech.n.04
+вик	cry.n.01
+крясък	cry.n.01
+общуване	conversation.n.01
+разговор	conversation.n.01	talk.n.01
+размяна_на_мнения	exchange.n.02
+сбъсък_на_гледни_точки	exchange.n.02
+дебат	discussion.n.01	debate.n.02
+дискусия	discussion.n.01	debate.n.02
+обсъждане	discussion.n.01
+разискване	discussion.n.01
+препирня	argument.n.03	quarrel.n.01
+спор	argument.n.03
+консултация	consultation.n.02
+съвещание	consultation.n.02	conference.n.01
+преговори	negotiation.n.01
+израз	saying.n.01
+лозунг	motto.n.01
+акцент	dialect.n.01	emphasis.n.01
+диалект	dialect.n.01
+заклинание	spell.n.04
+предложение	proposal.n.03	marriage_proposal.n.01	suggestion.n.02	offer.n.01
+възнаграждение	reward.n.04	wage.n.01
+подаване_на_документ	submission.n.01
+команда	command.n.01
+повеля	command.n.01
+версия	version.n.01
+компромис	compromise.n.02
+антагонизъм	confrontation.n.02
+конфронтация	confrontation.n.02
+сблъскване	confrontation.n.02	impact.n.01
+стълкновение	confrontation.n.02
+несъгласие	dispute.n.01
+разногласие	dispute.n.01	disagreement.n.01
+кавга	quarrel.n.01	scandal.n.02
+караница	quarrel.n.01
+крамола	quarrel.n.01
+разпра	quarrel.n.01
+разправа	quarrel.n.01
+разправия	quarrel.n.01
+свада	quarrel.n.01
+скандал	quarrel.n.01	scandal.n.02
+покана	invitation.n.01
+ухажване	courtship.n.01
+вноска	charge.n.11
+такса	charge.n.11	fare.n.02	fee.n.01	toll.n.01
+оспорване	challenge.n.03
+запитване	question.n.01
+интервю	interview.n.01
+изпитване	examination.n.02
+тест	examination.n.02
+финален_изпит	final_examination.n.01
+опровержение	denial.n.02
+отричане	denial.n.02
+противоречие	contradiction.n.02
+възражение	objection.n.02
+предизвестие	notice.n.04
+отстраняване	dismissal.n.02
+уволнение	dismissal.n.02
+изповед	confession.n.01
+самопризнание	confession.n.01
+концесия	concession.n.03
+доклад	report.n.01
+отчет	report.n.01	account.n.07
+клюка	gossip.n.02
+мълва	gossip.n.02
+слух	gossip.n.02
+слух,_мълва	rumor.n.01
+обещание	promise.n.01	parole.n.01
+годеж	betrothal.n.01
+благодарност	thanks.n.01
+разяснение	explanation.n.03
+изказване	address.n.03
+реч	address.n.03
+сказка	lecture.n.01
+проповед	sermon.n.01
+промоция	sales_talk.n.01
+рекламиране	ad.n.01
+афиш	circular.n.01
+кол	post.n.09
+критерий	reference_point.n.01
+източник	reference.n.08	informant.n.01
+стандарт	standard.n.01	norm.n.01
+етикет	label.n.04
+контакт	contact.n.08
+поръчка	order.n.13
+знамение	augury.n.01
+предзнаменование	augury.n.01
+чудо	miracle.n.02	wonder.n.02
+безпокойство	trouble.n.03	unrest.n.02	alarm.n.01	concern.n.02	anxiety.n.01
+неприятност	trouble.n.03
+гощавка	treat.n.02
+почерпка	treat.n.02
+угощение	treat.n.02
+драма	drama.n.02	calamity.n.01
+завършек	ending.n.04
+резултат	result.n.03	consequence.n.01	product.n.05
+изменение	change.n.01	variation.n.01
+изненада	surprise.n.02
+случайност	accident.n.02	luck.n.02
+злополука	accident.n.01
+премеждие	accident.n.01
+произшествие	accident.n.01
+катастрофа	crash.n.02	calamity.n.01
+позор	pity.n.02	shame.n.02
+срам	pity.n.02	shame.n.01	embarrassment.n.01	shame.n.02
+случка	incident.n.01
+събитие	incident.n.01	occasion.n.04
+взрив	explosion.n.01	blast.n.04
+експлозия	explosion.n.01	blast.n.04
+избухване	explosion.n.01
+случай	case.n.01
+беда	calamity.n.01
+съвпадение	coincidence.n.01
+крах	downfall.n.01	crash.n.03	frustration.n.01
+провал	downfall.n.01
+сполука	success.n.01
+фактор	factor.n.01
+параметър	parameter.n.02
+разрушение	destruction.n.02
+унищожение	destruction.n.02
+повторение	repeat.n.01
+цикъл	cycle.n.03	iteration.n.01
+изгрев	sunrise.n.03
+извиване	twist.n.09
+смърт	death.n.01
+намаляване	decrease.n.01
+зараза	infection.n.04
+заразяване	infection.n.04
+инфектиране	infection.n.04
+падане	drop.n.06
+спускане	descent.n.01
+изпитание	trial.n.06	adversity.n.01
+смесване	mix.n.02
+смесица	mix.n.02
+трясък	bang.n.02
+шум	noise.n.01
+барабанен_звук	paradiddle.n.01
+пулс	pulse.n.02
+отлив	tide.n.01
+прилив	tide.n.01
+скок	jump.n.01
+преход	conversion.n.01
+бедствие	emergency.n.01
+вреда	damage.n.01
+щета	damage.n.01
+мутация	mutation.n.02
+земетресение	earthquake.n.01
+нашествие	invasion.n.02
+струя	jet.n.02
+церемония	ceremony.n.01
+погребение	funeral.n.01	burial.n.01
+надбягване	race.n.02
+рали	race.n.02
+маратон	marathon.n.02
+турнир	tournament.n.01
+мач	match.n.02
+победа	victory.n.01
+триумф	victory.n.01
+несполука	reverse.n.03	failure.n.03
+разорение	crash.n.03
+емоция	emotion.n.01	sentiment.n.01
+пламенност	passion.n.01
+страст	passion.n.01	ardor.n.03
+плам	ardor.n.03
+пламък	ardor.n.03
+апатия	apathy.n.01
+безразличие	apathy.n.01
+равнодушие	apathy.n.01
+жажда	desire.n.01	appetite.n.01
+желание	desire.n.01	appetite.n.01
+мечта	ambition.n.01
+порив	urge.n.02
+наслада	pleasure.n.01
+удоволствие	pleasure.n.01
+огорчение	pain.n.02
+агония	agony.n.01
+предпочитане	preference.n.01
+възхищение	admiration.n.01
+отвращение	repugnance.n.01
+погнуса	repugnance.n.01
+отчуждение	distance.n.04
+отдръпване	withdrawal.n.04
+жестокост	cruelty.n.02
+смущение	embarrassment.n.01
+стеснение	embarrassment.n.01
+его	ego.n.01
+потрес	daze.n.01
+шок	daze.n.01
+очакване	anticipation.n.01	anticipation.n.04
+чувствителност	sensitivity.n.03
+интуиция	insight.n.02
+прозрение	insight.n.02
+проникновение	insight.n.02
+мир	peace.n.03	peace.n.01
+покой	peace.n.03
+спокойствие	peace.n.03	comfort.n.01
+отдих	easiness.n.01	respite.n.04
+отпускане	easiness.n.01
+гняв	anger.n.01
+яд	anger.n.01
+ярост	fury.n.01
+раздразнение	frustration.n.03
+опасение	fear.n.01
+страх	fear.n.01	alarm.n.01
+уплаха	fear.n.01	alarm.n.01
+тревога	alarm.n.01	worry.n.02	concern.n.02	anxiety.n.01
+паника	panic.n.01
+ужас	panic.n.01
+притеснение	concern.n.02
+доверие	confidence.n.02	confidence.n.04	reliance.n.02
+радост	joy.n.01
+щастие	joy.n.01
+задоволство	satisfaction.n.01
+удовлетворение	satisfaction.n.01
+гордост	pride.n.02
+печал	grief.n.01
+скръб	grief.n.01
+тъга	grief.n.01
+разочарование	disappointment.n.01
+поражение	frustration.n.01
+надежда	hope.n.02
+отчаяние	despair.n.02
+примирение	resignation.n.01
+привързаност	attachment.n.01
+недоброжелателност	grudge.n.01
+жлъч	malice.n.01
+злоба	malice.n.01
+омраза	malice.n.01
+настроение	temper.n.02
+гозба	dish.n.02
+ястие	dish.n.02
+останки_от_храна	leftovers.n.01
+остатъци	leftovers.n.01
+брашно	flour.n.01
+закуска	breakfast.n.01	bite.n.04
+обяд	lunch.n.01
+вечеря	dinner.n.01
+порция	helping.n.01
+хапка	morsel.n.02
+супа	soup.n.01
+чорба	soup.n.01
+шоколад	chocolate.n.02
+десерт	dessert.n.01
+пудинг	pudding.n.03
+сладолед	ice_cream.n.01
+пай	pie.n.01
+сладкиш	cake.n.03
+торта	cake.n.03
+бисквита	cookie.n.01
+конфитюр	jam.n.01
+сладко	jam.n.01
+бут	leg.n.05
+пържола	steak.n.01
+говеждо	beef.n.02
+шунка	ham.n.01
+бекон	bacon.n.01
+олио	vegetable_oil.n.01
+наденица	sausage.n.01
+салам	sausage.n.01
+хотдог	frank.n.02
+хляб	bread.n.01
+кифла	bun.n.01
+тост	toast.n.01
+сандвич	bomber.n.03
+зърнена_закуска	cereal.n.03
+мюсли	cereal.n.03
+добив	produce.n.01
+зарзават	vegetable.n.01
+зеленчук	vegetable.n.01
+чипс	chip.n.04
+броколи	broccoli.n.02
+краставица	cucumber.n.02
+боб	bean.n.01
+фасул	bean.n.01
+царевица	corn.n.03
+домат	tomato.n.01
+тиква	pumpkin.n.02
+спанак	spinach.n.02
+фъстък	peanut.n.04
+кора	peel.n.02	bark.n.01
+ябълка	apple.n.01
+горски_плод	berry.n.01
+ягода	strawberry.n.01
+портокал	orange.n.01
+лимон	lemon.n.01
+смокиня	fig.n.04
+банан	banana.n.02
+череша	cherry.n.03
+фурма	date.n.08
+сено	hay.n.01
+зърно	grain.n.02	grain.n.01
+ориз	rice.n.01
+салата	salad.n.01
+подправка	herb.n.02
+сол	salt.n.02
+чесън	garlic.n.02
+сос	sauce.n.01
+яйце	egg.n.02
+белтък	egg_white.n.01	protein.n.01
+мляко	milk.n.01
+каймак	cream.n.02
+масло	butter.n.01	oil.n.01
+сирене	cheese.n.01
+пастет	spread.n.05
+мед	honey.n.01	copper.n.01
+захар	sugar.n.01
+тесто	dough.n.01
+напитка	beverage.n.01	pop.n.02
+питие	beverage.n.01
+алкохол	alcohol.n.01
+спирт	alcohol.n.01
+бира	beer.n.01
+пиво	beer.n.01
+вино	wine.n.01
+шампанско	champagne.n.01
+уиски	whiskey.n.01
+сок	juice.n.01
+кафе	coffee.n.01
+пунш	punch.n.02
+чай	tea.n.01
+хора	people.n.01
+младеж	young.n.09
+враг	enemy.n.03	enemy.n.02
+неприятел	enemy.n.03	enemy.n.02
+противник	enemy.n.03	enemy.n.02
+народ	folk.n.01
+колекция	collection.n.01
+сбирка	collection.n.01
+колода	pack_of_cards.n.01
+тесте	pack_of_cards.n.01
+сума	sum.n.03	allowance.n.01	figure.n.07
+насъбиране	bunch.n.01
+натрупване	bunch.n.01	accretion.n.01
+струпване	bunch.n.01
+буца	ball.n.08
+куп	pile.n.01	batch.n.02
+купчина	pile.n.01
+комбинация	combination.n.01
+съчетание	combination.n.01
+общественост	public.n.02
+общество	society.n.01	company.n.03
+раса	race.n.03
+племе	kin.n.02
+класа	class.n.03
+двойка	pair.n.03	couple.n.01	marriage.n.02
+съпрузи	marriage.n.02
+стадо	flock.n.05	herd.n.01
+биология	biota.n.01
+глутница	pack.n.06
+множество	set.n.01
+клас	bracket.n.01	class.n.02
+организация	organization.n.01
+бюрократизъм	bureaucracy.n.03
+бюрокрация	bureaucracy.n.03
+дружество	association.n.01	firm.n.01
+правителство	government.n.01
+кралски_двор	court.n.03
+царски_двор	court.n.03
+институт	institution.n.01
+институция	institution.n.01
+учреждение	institution.n.01
+клиника	clinic.n.01
+благотворителност	charity.n.05
+агенция	agency.n.02
+концерн	conglomerate.n.02
+компания	firm.n.01	company.n.03
+предприятие	firm.n.01
+фирма	firm.n.01
+франчайз	franchise.n.02
+дистрибутор	distributor.n.03
+представител	distributor.n.03	agent.n.02	congressman.n.01	representative.n.01	spokesperson.n.01
+издателство	publisher.n.01
+авиация	aviation.n.02
+въздухоплаване	aviation.n.02
+семейство	family.n.01
+фамилия	family.n.01
+цивилизация	civilization.n.01	culture.n.01
+адвокатура	legal_profession.n.01
+министерство	ministry.n.03
+член_от_кралското_семейство	royalty.n.02
+електорат	electorate.n.01
+камара	house.n.05	parliament.n.01
+палата	house.n.05
+изпълнителен_орган	executive.n.02
+изпълнителна_власт	executive.n.02
+държава	state.n.04
+население	population.n.01
+пролетариат	labor.n.01
+работническа_класа	labor.n.01
+навалица	crowd.n.01
+тълпа	crowd.n.01
+трупа	company.n.04
+хор	chorus.n.02
+армия	army.n.01
+войска	army.n.01	troop.n.01
+флот	navy.n.01	fleet.n.03
+военна_служба	military_service.n.01
+войниклък	military_service.n.01
+войнишка_служба	military_service.n.01
+отряд	military_unit.n.01
+отбор	team.n.01	survival.n.02
+тим	team.n.01
+органи_на_реда	police.n.01
+полиция	police.n.01
+дивизия	division.n.01
+патрул	patrol.n.01
+взвод	squad.n.01
+окръг	division.n.04	state.n.01
+публика	audience.n.01
+село	village.n.01	country.n.04
+клуб	club.n.02
+профсъюз	union.n.01
+тръст	trust.n.04
+състав	cast.n.01
+избирателен_район	constituency.n.01
+клика	clique.n.01
+оркестър	orchestra.n.01
+банда	band.n.02
+купон	party.n.02
+бал	ball.n.04
+партия	party.n.01	catch.n.03
+таблица	table.n.01
+матрица	matrix.n.01
+галактика	galaxy.n.03
+екипаж	crew.n.01
+колеж	college.n.02
+университет	university.n.01
+флота	fleet.n.03
+федерация	confederation.n.02
+съюзник	ally.n.01
+конференция	conference.n.01	summit.n.03
+конгрес	convention.n.01	congress.n.03
+форум	forum.n.01
+среща_на_върха	summit.n.03
+парламент	parliament.n.01
+борд	board.n.01
+комисия	committee.n.01
+комитет	committee.n.01
+разузнаване	intelligence.n.02
+митинг	rally.n.01
+демокрация	democracy.n.02
+република	republic.n.02
+монархия	monarchy.n.01
+капитализъм	capitalism.n.01
+стопанство	economy.n.01
+генерация	coevals.n.01
+поколение	coevals.n.01
+колония	colony.n.01	colony.n.05
+лоби	lobby.n.03
+лобисти	lobby.n.03
+йерархия	hierarchy.n.02
+елит	elite.n.01
+отбрано_общество	elite.n.01
+подбор	selection.n.02	survival.n.02
+селекция	selection.n.02
+делегация	deputation.n.01
+представителство	deputation.n.01
+опозиция	opposition.n.08
+кралство	kingdom.n.04
+империя	empire.n.03
+фондация	foundation.n.02
+изложение	exhibition.n.02	fair.n.02
+панаир	fair.n.02
+експедиция	expedition.n.02
+жури	jury.n.01	jury.n.02
+десен	right.n.04
+банка	depository_financial_institution.n.01
+процесия	march.n.04
+шествие	march.n.04	parade.n.01
+парад	parade.n.01
+редица	row.n.01
+система	network.n.01	system.n.02
+растителност	vegetation.n.01	growth.n.04
+флора	vegetation.n.01
+градина	garden.n.02
+персонал	staff.n.01
+последователност	sequence.n.01
+богатство	treasure.n.04	money.n.02	wealth.n.03	fortune.n.02
+съкровище	treasure.n.04
+фронт	movement.n.04	battlefront.n.01	front.n.07
+авангардист	avant-garde.n.01
+новатор	avant-garde.n.01
+адрес	address.n.02
+територия	territory.n.03
+арена	arena.n.02
+пустиня	desert.n.01
+полесражение	battlefield.n.01
+извор	beginning.n.04	spring.n.03
+столица	capital.n.03
+гробища	cemetery.n.01
+ядро	core.n.02
+град	city.n.01
+благоустройство	development.n.06
+благоустрояване	development.n.06
+археологически_разкопки	dig.n.01
+разкопки	dig.n.01
+район	district.n.01
+жилищен_комплекс	residential_district.n.01
+квартал	residential_district.n.01	quarter.n.02	block.n.02
+предградие	residential_district.n.01	suburb.n.01
+местожителство	residence.n.01
+Изтокът	east.n.02
+рай	eden.n.01
+край	end.n.09	brink.n.01
+предел	end.n.09	limit.n.06
+синор	end.n.09
+обстановка	setting.n.01	setting.n.02	atmosphere.n.01
+нива	field.n.01
+ливада	hayfield.n.01
+игрално_поле	playing_field.n.02
+игрище	playing_field.n.02
+естествена_среда	habitat.n.01
+полукълбо	hemisphere.n.01
+хоризонт	horizon.n.01
+вътрешност	inside.n.01
+морава	lawn.n.01
+орбита	orbit.n.01
+контур	outline.n.01
+очертание	outline.n.01
+профил	profile.n.02
+външна_страна	outside.n.02
+външна_част	outside.n.02
+парк	park.n.02
+пасище	pasture.n.01	range.n.03
+маршрут	path.n.03
+връх	peak.n.04	tip.n.01	vertex.n.02	point.n.08
+площад	public_square.n.01
+полюс	pole.n.07
+дясно	right.n.02
+отдясно	right.n.02
+вляво	left.n.01
+наляво	left.n.01
+зона	region.n.03	zone.n.01
+пристанище	seaport.n.01
+курорт	resort.n.01
+околност	vicinity.n.01
+провинциален_район	countryside.n.01
+провинция	countryside.n.01
+селска_област	countryside.n.01
+селски_район	countryside.n.01
+селски_регион	countryside.n.01
+пейзаж	landscape.n.01
+локация	site.n.01
+местоположение	site.n.01
+ъгъл	corner.n.05	angle.n.01
+повърхност	surface.n.02
+горна_страна	top.n.02
+градче	town.n.01
+участък	plot.n.02
+парцел	lot.n.02
+течение	tendency.n.04	draft.n.02
+Западът	west.n.01
+пустош	wilderness.n.03
+пущинак	wilderness.n.03
+зодиакален_знак	sign_of_the_zodiac.n.01
+зодия	sign_of_the_zodiac.n.01
+Конфедеративни_американски_щати	confederacy.n.01
+Южни_Щати	confederacy.n.01
+поощрение	incentive.n.01
+съвест	conscience.n.01
+атмосфера	atmosphere.n.05	atmosphere.n.01
+бряг	bank.n.01	seashore.n.01
+крайбрежие	bank.n.01	seashore.n.01
+залив	bay.n.01
+плаж	beach.n.01
+частица	bit.n.02	particle.n.02
+мехур	bubble.n.01
+пещера	cave.n.01
+канара	cliff.n.01
+облак	cloud.n.02
+комета	comet.n.01
+констелация	constellation.n.02
+съзвездие	constellation.n.02
+склон	descent.n.05	slope.n.01
+нанос	drift.n.04
+земя	earth.n.01	land.n.04	estate.n.02	soil.n.02
+електрон	electron.n.01
+Европа	europe.n.01
+гора	forest.n.02
+лес	forest.n.02
+вкаменелост	fossil.n.02
+изкопаемо	fossil.n.02
+фосил	fossil.n.02
+отломка	fragment.n.01
+фрагмент	fragment.n.01
+глетчер	glacier.n.01
+ледник	glacier.n.01
+зрънце	grain.n.01
+баир	hill.n.01
+хълм	hill.n.01
+дупка	hole.n.01	pit.n.01
+остров	island.n.01
+езеро	lake.n.01
+Марс	mars.n.01
+блато	marsh.n.01
+мочур	marsh.n.01
+тресавище	marsh.n.01
+луна	moon.n.01
+балкан	mountain.n.01
+планина	mountain.n.01
+падина	natural_depression.n.01
+необходимост	necessity.n.02	need.n.01
+нужда	necessity.n.02	need.n.01
+потребност	necessity.n.02	need.n.01
+гнездо	nest.n.01
+океан	ocean.n.01
+трап	pit.n.01
+яма	pit.n.01
+планета	planet.n.01
+локва	pool.n.06
+дъга	rainbow.n.01
+планинска_верига	range.n.04
+било	ridge.n.04
+гребен	ridge.n.04
+хребет	ridge.n.04
+река	river.n.01
+камък	rock.n.01
+утайка	sediment.n.01
+небе	sky.n.01
+резен	slice.n.05
+звезда	star.n.03	ace.n.03	star.n.05
+поток	stream.n.01
+ивица	strip.n.01
+слънце	sun.n.01	sunlight.n.01
+долина	valley.n.01
+Венера	venus.n.01
+вулкан	volcano.n.02
+водопад	waterfall.n.01
+извънземен	extraterrestrial_being.n.01
+дракон	dragon.n.01
+змей	dragon.n.01
+бог	deity.n.01
+божество	deity.n.01
+ангел	angel.n.01
+фея	fairy.n.01
+герой	fictional_character.n.01	hero.n.01
+персонаж	fictional_character.n.01
+възрастен	adult.n.01	old.a.01	old.a.01
+кандидат	applicant.n.01	campaigner.n.01
+консуматор	consumer.n.01
+потребител	consumer.n.01	user.n.01
+инженер	engineer.n.01
+експерт	expert.n.01
+специалист	expert.n.01	specialist.n.01
+жител	inhabitant.n.01	resident.n.01
+обитател	inhabitant.n.01
+любовник	lover.n.03	beloved.n.01
+водач	leader.n.01	driver.n.01	guide.n.02
+лидер	leader.n.01
+ръководител	leader.n.01	director.n.02	head.n.04
+равен	peer.n.01	even.a.03	smooth.a.01	even.a.03	smooth.a.01
+наблюдател	perceiver.n.01	spectator.n.01
+работник	worker.n.01	employee.n.01	hired_hand.n.01	laborer.n.01
+нарушител	wrongdoer.n.01
+престъпник	wrongdoer.n.01	criminal.n.01
+счетоводител	accountant.n.01
+обвиняем	defendant.n.01
+подсъдим	defendant.n.01
+светило	ace.n.03
+близък	acquaintance.n.03	relative.n.01	near.a.01	close.a.02	related.a.02	near.a.01	close.a.02	related.a.02
+другар	acquaintance.n.03	brother.n.04	spouse.n.01
+приятел	acquaintance.n.03	ally.n.02
+актьор	actor.n.01
+артист	actor.n.01	artist.n.01
+изпълнител	actor.n.01	performer.n.01
+директор	administrator.n.03	director.n.01	director.n.02	head.n.04
+управител	administrator.n.01	director.n.01	supervisor.n.01
+тийнейджър	adolescent.n.01
+опонент	adversary.n.01
+консултант	adviser.n.01
+съветник	adviser.n.01
+защитник	advocate.n.01
+агент	agent.n.02	agent.n.05
+помощник	ally.n.02	assistant.n.01
+съратник	ally.n.02
+висшист	alumnus.n.01
+любител	amateur.n.01	fan.n.03
+психоаналитик	analyst.n.03
+праотец	ancestor.n.01
+прародител	ancestor.n.01
+предтеча	ancestor.n.01
+предшественик	ancestor.n.01	predecessor.n.01
+архитект	architect.n.01
+художник	artist.n.01	painter.n.01
+асистент	assistant.n.01
+атлет	athlete.n.01	runner.n.06
+спортист	athlete.n.01
+слушател	auditor.n.02
+студент	auditor.n.02
+учащ	auditor.n.02
+леля	aunt.n.01
+бебе	baby.n.01
+кърмаче	baby.n.01
+пеленаче	baby.n.01
+магнат	baron.n.03
+либе	beloved.n.01
+любим	beloved.n.01
+любовница	beloved.n.01
+бенефициент	beneficiary.n.01
+епископ	bishop.n.01
+бомбаджия	bomber.n.02
+булка	bride.n.03
+младоженка	bride.n.03
+невеста	bride.n.03
+невяста	bride.n.03
+брат	brother.n.01	brother.n.05	brother.n.04
+събрат	brother.n.04
+полицай	bull.n.05	policeman.n.01
+бизнесмен	businessman.n.01
+търговец	businessman.n.01	merchant.n.01	retailer.n.01	trader.n.01
+капитан	captain.n.02
+жертва	casualty.n.01	victim.n.01
+първенец	champion.n.01
+шампион	champion.n.01
+шовинист	chauvinist.n.01
+дете	child.n.02
+гражданин	citizen.n.01
+поданик	citizen.n.01
+цивилно_лице	civilian.n.01
+чиновник	clerk.n.01	official.n.01
+инструктор	coach.n.02
+наставник	coach.n.02
+треньор	coach.n.02	trainer.n.01
+колега	colleague.n.01
+комунист	communist.n.01
+композитор	composer.n.01
+диригент	conductor.n.01
+кондуктор	conductor.n.03
+посредник	contact.n.05
+връстник	contemporary.n.01
+готвач	cook.n.01
+братовчед	cousin.n.01
+моделиер	couturier.n.01
+ексцентрик	crackpot.n.01
+чудак	crackpot.n.01
+занаятчия	craftsman.n.03
+критик	critic.n.01
+пастор	curate.n.01
+свещеник	curate.n.01
+клиент	customer.n.01
+купувач	customer.n.01
+тати	dad.n.01
+татко	dad.n.01
+любимец	darling.n.01
+кавалер	date.n.02	gentleman.n.01
+придружител	date.n.02
+дъщеря	daughter.n.01
+щерка	daughter.n.01
+делегат	delegate.n.01
+пратеник	delegate.n.01
+демонстрант	demonstrator.n.03
+зъболекар	dentist.n.01
+заместник	deputy.n.04	surrogate.n.01
+детектив	detective.n.01
+дипломат	diplomat.n.01
+началник	director.n.02	foreman.n.01	head.n.04
+доктор	doctor.n.01	doctor.n.04
+лекар	doctor.n.01
+донор	donor.n.02
+двойник	double.n.03
+шофьор	driver.n.01	motorist.n.01
+наркоман	drug_user.n.01
+дук	duke.n.02
+херцог	duke.n.02
+икономист	economist.n.01
+икономистка	economist.n.01
+служещ	employee.n.01
+служител	employee.n.01	official.n.01
+работодател	employer.n.01
+вещица	enchantress.n.02
+магьосница	enchantress.n.02
+природозащитник	green.n.04
+инспектор	examiner.n.02
+запалянко	fan.n.03
+почитател	fan.n.03
+привърженик	fan.n.03
+фен	fan.n.03
+земеделец	farmer.n.01
+фермер	farmer.n.01
+баща	father.n.01
+момиче	female_child.n.01
+феминист	feminist.n.01
+феминистка	feminist.n.01
+пожарникар	fireman.n.04
+рибар	fisherman.n.01
+глупак	fool.n.01
+тъпак	fool.n.01
+чужденец	foreigner.n.01
+шеф	foreman.n.01	head.n.04
+изрод	freak.n.01
+чудовище	freak.n.01
+първокурсник	freshman.n.01
+монах	monk.n.01
+генерал	general.n.01
+гений	genius.n.01
+джентълмен	gentleman.n.01
+писател_в_сянка	ghostwriter.n.01
+великан	giant.n.04
+гигант	giant.n.04
+титан	giant.n.04
+гадже	girlfriend.n.02
+приятелка	girlfriend.n.02
+вратар	goalkeeper.n.01
+губернатор	governor.n.01
+дядо	grandfather.n.01
+баба	grandma.n.01
+пазач	guard.n.01
+страж	guard.n.01	lookout.n.01
+телохранител	guard.n.01
+партизанин	guerrilla.n.01
+гост	guest.n.01	visitor.n.01
+гид	guide.n.02
+разводач	guide.n.02
+наследник	heir.n.01	survivor.n.02
+историк	historian.n.01
+прасе,_свиня	hog.n.01
+домакин	host.n.01	master_of_ceremonies.n.01
+стопанин	host.n.01
+заложник	hostage.n.01
+домакиня	housewife.n.01
+стопанка	housewife.n.01
+ловджия	hunter.n.01
+ловец	hunter.n.01
+мъж	husband.n.01	man.n.01
+съпруг	husband.n.01	spouse.n.01
+имигрант	immigrant.n.01
+преселник	immigrant.n.01
+измамник	imposter.n.01
+информатор	informant.n.01
+вътрешен_човек	insider.n.01
+доверен_човек	insider.n.01
+бунтар	insurgent.n.01
+бунтовник	insurgent.n.01
+въстаник	insurgent.n.01
+дизайнер	interior_designer.n.01
+изследовател	investigator.n.02	research_worker.n.01
+проучвател	investigator.n.02
+шут	jester.n.01
+жокей	jockey.n.01
+съдия	judge.n.01	referee.n.01
+убиец	killer.n.01
+крал	king.n.01
+монарх	king.n.01	sovereign.n.01
+роднина	relative.n.01
+госпожа	lady.n.01
+дама	lady.n.01
+наемодател	landlord.n.01
+хазяин	landlord.n.01
+земевладелец	landowner.n.01
+адвокат	lawyer.n.01
+юрист	lawyer.n.01
+учен	learner.n.01	scholar.n.01	scientist.n.01
+пазител	lookout.n.01
+загубеняк	failure.n.04
+майстор	maestro.n.01
+прислужница	maid.n.01
+пощальон	mailman.n.01
+момче	male_child.n.01
+манекен	mannequin.n.01
+манекенка	mannequin.n.01
+производител	manufacturer.n.02
+кмет	mayor.n.01
+медиум	medium.n.09
+член	member.n.01
+миньор	miner.n.01
+министър	minister.n.02
+юнак	hero.n.01
+майка	mother.n.01
+мама	mother.n.01
+музикант	musician.n.02
+комшия	neighbor.n.01
+съсед	neighbor.n.01
+племенник	nephew.n.01
+новодошъл	newcomer.n.02
+сестра	nurse.n.01	sister.n.01
+монахиня	nun.n.01
+издънка	offspring.n.01
+потомък	offspring.n.01
+притежател	owner.n.01
+собственик	owner.n.01
+досадник	pain.n.04	pest.n.03
+живописец	painter.n.01
+родител	parent.n.01
+участник	participant.n.01
+партньор	partner.n.03	spouse.n.01
+пътник	passenger.n.01
+пациент	patient.n.01
+патриот	patriot.n.01
+родолюбец	patriot.n.01
+селянин	peasant.n.02	villager.n.01
+пешеходец	pedestrian.n.01
+пенсионер	pensioner.n.01
+напаст	pest.n.03
+философ	philosopher.n.01
+фотограф	photographer.n.01
+авиатор	pilot.n.01
+летец	pilot.n.01
+пилот	pilot.n.01
+пионер	pioneer.n.01
+ищец	plaintiff.n.01
+тъжител	plaintiff.n.01
+играч	player.n.01
+стражар	policeman.n.01
+политик	politician.n.02
+носач	porter.n.01
+хамалин	porter.n.01
+президент	president.n.03
+председател	president.n.04
+принц	prince.n.01
+княгиня	princess.n.01
+принцеса	princess.n.01
+затворник	prisoner.n.01
+продуцент	producer.n.02
+професионалист	professional.n.01
+професор	professor.n.01
+психолог	psychologist.n.01
+кралица	queen.n.02
+царица	queen.n.02
+царкиня	queen.n.02
+радикал	radical.n.03
+рефер	referee.n.01
+бежанец	refugee.n.01
+репортер	reporter.n.01
+изследвач	research_worker.n.01
+живущ	resident.n.01
+рецензент	reviewer.n.01
+ездач	rider.n.01
+бегач	runner.n.06
+мореплавател	sailor.n.01
+моряк	sailor.n.01
+продавач	salesclerk.n.01	seller.n.01
+стачкоизменник	scab.n.01
+ученик	schoolchild.n.01	student.n.01
+секретар	secretary.n.02
+забележителен_играч	seeded_player.n.01
+изключителен_играч	seeded_player.n.01
+абитуриент	senior.n.01
+абсолвент	senior.n.01
+зрелостник	senior.n.01
+прислужник	servant.n.01
+слуга	servant.n.01
+певец	singer.n.01
+роб	slave.n.01
+войник	soldier.n.01	warrior.n.01
+душа	soul.n.01	sniff.v.01
+владетел	sovereign.n.01
+зрител	spectator.n.01
+шпионин	spy.n.01
+стюард	steward.n.03
+акционер	stockholder.n.01
+учещ	student.n.01
+дубльор	double.n.02
+опитно_животно	subject.n.06
+опитно_зайче	subject.n.06
+абонат	subscriber.n.02
+домоуправител	superintendent.n.02
+надзирател	supervisor.n.01
+хирург	surgeon.n.01
+оцелял	survivor.n.01
+заподозрян	suspect.n.01
+данъкоплатец	taxpayer.n.01
+преподавател	teacher.n.01
+учител	teacher.n.01
+наемател	tenant.n.01
+терорист	terrorist.n.01
+теоретик	theorist.n.01
+терапевт	therapist.n.01
+мислител	thinker.n.01
+турист	tourist.n.01
+касиер	treasurer.n.01
+ковчежник	treasurer.n.01
+попечител	trustee.n.01
+близнак	twin.n.01
+вуйчо	uncle.n.01
+чичо	uncle.n.01
+вегетарианец	vegetarian.n.01
+ветеран	veteran.n.01
+девственик	virgin.n.01
+посетител	visitor.n.01
+доброволец	volunteer.n.02
+гласоподавател,_избирател	voter.n.01
+сервитьор	waiter.n.01
+повереник	ward.n.01
+боец	warrior.n.01
+войн	warrior.n.01
+вдовица	widow.n.01
+жена	wife.n.01	woman.n.01
+съпруга	wife.n.01
+страхливец	wimp.n.01
+победител	winner.n.01
+свидетел	witness.n.05
+писател	writer.n.01
+последица	consequence.n.01
+следствие	consequence.n.01
+отзвук	reaction.n.05
+късмет	luck.n.03
+деформация	aberration.n.03
+изкривяване	aberration.n.03
+лъч	beam.n.04
+бриз	breeze.n.01
+ветрец	breeze.n.01
+заряд	charge.n.04
+циркулация	circulation.n.02
+ток	current.n.01
+дневна_светлина	daylight.n.02
+гниене	decay.n.03
+разлагане	decay.n.03
+електричество	electricity.n.01
+наводнение	flood.n.01
+потоп	flood.n.01
+слънчево_време	fair_weather.n.01
+мъгла	fog.n.01	mist.n.01
+триене	grip.n.04
+атмосферен_фронт	front.n.07
+буря	storm.n.01
+ураган	storm.n.01
+гравитация	gravity.n.01
+притегляне	gravity.n.01	disagreement.n.01
+налягане	pressure.n.01
+дъжд	rain.n.01
+преваляване	shower.n.03
+дим	smoke.n.01
+пушек	smoke.n.01
+сняг	snow.n.01
+мълния	thunderbolt.n.01
+време	weather.n.01	time_slot.n.01
+вятър	wind.n.01
+цвете	flower.n.01
+костилка	stone.n.06
+жито	wheat.n.01
+пшеница	wheat.n.01
+дъб	oak.n.02
+лилия	lily.n.01
+лук	onion.n.01
+палма	palm.n.03
+роза	rose.n.01
+картоф	potato.n.02
+морков	carrot.n.01
+гъба	mushroom.n.03
+мухъл	mold.n.05
+плесен	mold.n.05
+стайно_растение	houseplant.n.01
+стайно_цвете	houseplant.n.01
+бурен	weed.n.01
+плевел	weed.n.01
+реколта	crop.n.01
+дърво	tree.n.01	lumber.n.01
+гъсталак	shrub.n.01
+храст	shrub.n.01
+храсталак	shrub.n.01
+стъбло	stalk.n.02
+стрък	blade.n.01
+луковица	bulb.n.01
+плод	fruit.n.01
+семка	seed.n.01
+ядка	nut.n.01
+пипер	pepper.n.01
+листо	leaf.n.01
+клон	branch.n.02
+владение	ownership.n.01	estate.n.01
+притежание	ownership.n.01
+собственост	ownership.n.01	property.n.01
+имущество	property.n.01	estate.n.01
+имот	estate.n.02	estate.n.01
+пари	money.n.02	cash.n.01
+състояние	money.n.02	condition.n.01	status.n.01	state_of_matter.n.01
+придобивка	acquisition.n.02
+доход	income.n.01
+приход	income.n.01
+хонорар	royalty.n.01
+дар	gift.n.01	present.n.02
+подарък	gift.n.01	present.n.02
+стипендия	scholarship.n.01
+субсидия	grant.n.01
+дивидент,_премия	dividend.n.03
+разноски	outgo.n.01
+разход	outgo.n.01
+заплата	wage.n.01
+надница	wage.n.01
+издръжка	alimony.n.01	support.n.06
+дажба	allowance.n.01
+надбавка	allowance.n.01
+квота	quota.n.02
+бакшиш	gratuity.n.01
+неустойка	nonpayment.n.02
+премия	premium.n.01
+данък	tax.n.01
+мито	duty.n.03
+лихва	interest.n.04
+процент	interest.n.04	percentage.n.01
+комисиона	commission.n.02
+такса_вход	entrance_fee.n.01
+такса_за_допускане	entrance_fee.n.01
+загуба	loss.n.06	loss.n.01	sacrifice.n.03
+вложение	investment.n.02
+инвестиция	investment.n.02
+залог	stake.n.04
+покритие	coverage.n.01
+депозит	down_payment.n.01	deposit.n.04
+ипотека	mortgage.n.01
+благосъстояние	wealth.n.03	fortune.n.02
+заможност	wealth.n.03
+капитал	capital.n.02
+запас	fund.n.01	reserve.n.02
+резерв	fund.n.01	reserve.n.02
+диамант	diamond.n.01
+кредитна_карта	credit_card.n.01
+влог	deposit.n.04
+чек	check.n.01
+пенсия	pension.n.01
+валута	money.n.03	currency.n.01
+кеш	cash.n.01
+пари_в_брой	cash.n.01
+парична_наличност	cash.n.01
+ресто	change.n.09
+монета	coin.n.01
+монета_от_25_цента	quarter.n.10
+пени	penny.n.02
+стотинка	penny.n.02
+цент	penny.n.02
+банкнота	bill.n.03
+долар	dollar.n.02
+задължение	debt.n.02
+заем	loan.n.01
+бюджет	budget.n.01
+абсорбция	absorption.n.01	assimilation.n.02
+акумулиране	accretion.n.01
+консумация	consumption.n.03
+потребление	consumption.n.03
+оздравяване	convalescence.n.01
+разпадане	decay.n.05
+промяна_на_курса	drift.n.02
+еволюция	evolution.n.02
+огън	fire.n.03
+растеж	growth.n.01	increase.n.03
+нарастване	increase.n.03
+инфлация	inflation.n.01
+функциониране	operation.n.08
+излъчване	radiation.n.04
+радиация	radiation.n.04
+болшинство	majority.n.02
+мнозинство	majority.n.02
+теглилка	weight_unit.n.02
+галон	gallon.n.01
+инч	inch.n.01
+фут	foot.n.02
+ярд	yard.n.01
+градус	degree.n.06
+фунт	pound.n.01
+калория	calorie.n.01
+остатък	remainder.n.03	remainder.n.01
+разлика	remainder.n.03
+дроб	fraction.n.03
+половина	one-half.n.01
+четвърт	one-fourth.n.01
+нула	zero.n.02
+дузина	twelve.n.01
+крачка	footstep.n.03
+лимит	limit.n.06
+минимално_количество	minimum.n.01
+минимум	minimum.n.01
+максимум	maximum.n.01
+миля	mile.n.03
+море	ocean.n.02
+наличност	supply.n.01
+свободно_пространство	headroom.n.01
+паркинг	parking.n.01
+обем	volume.n.01	capacity.n.03
+вместимост	capacity.n.03
+капацитет	capacity.n.03
+уместност	relevance.n.01
+връхна_точка	highlight.n.01
+гвоздей_на_програма	highlight.n.01
+черешката_на_тортата	highlight.n.01
+родство	kinship.n.02
+сродство	kinship.n.02
+родословие	descent.n.04
+пропорция	proportion.n.01	ratio.n.01
+ориентация	orientation.n.03
+север	north.n.03
+изток	east.n.01
+юг	south.n.03
+запад	west.n.02
+политика	politics.n.01
+корелация	correlation.n.01
+съотношение	correlation.n.01
+втори	second.n.05
+скала	scale.n.01
+сравнение	comparison.n.02
+контраст	contrast.n.01
+противоположност	contrast.n.01	contrary.n.02	reverse.n.01
+антипод	reverse.n.01
+импликация	implication.n.04
+цилиндър	cylinder.n.01
+извивка	curve.n.01	bend.n.01
+диаметър	diameter.n.02
+ниша	recess.n.02
+окръжност	circle.n.01
+кръг	loop.n.02
+квадрат	square.n.01
+триъгълник	triangle.n.01
+кълбо	ball.n.03
+капка	drop.n.01	spray.n.05
+бръчка	wrinkle.n.01
+гънка	wrinkle.n.01	fold.n.01
+вакуум	void.n.02
+празнота	void.n.02
+празнина	space.n.02
+пространство	space.n.02
+куб	block.n.03
+пирамида	pyramid.n.01
+златна_среда	medium.n.08
+здраве	health.n.02	health.n.01
+ситуация	situation.n.01
+взаимоотношение	relationship.n.02
+познанство	acquaintance.n.02
+дружба	friendship.n.01
+приятелство	friendship.n.01
+членство	membership.n.02
+предизвикателство	challenge.n.01
+усложнение	complication.n.02
+криза	crisis.n.01
+равновесие	equilibrium.n.01	balance.n.01
+неотложност	urgency.n.03
+спешност	urgency.n.03
+статус	status.n.01
+първенство	championship.n.01
+приоритет	precedence.n.01
+народност	nationality.n.02
+националност	nationality.n.02
+действителност	reality.n.02
+истинност	truth.n.02
+наличие	presence.n.01
+присъствие	presence.n.01
+оцеляване	survival.n.01
+безработица	unemployment.n.01
+разбирателство	agreement.n.03
+единодушие	consensus.n.01
+консенсус	consensus.n.01
+хаос	chaos.n.01	fix.n.01
+безредие	disturbance.n.03	disorderliness.n.01
+бъркотия	disturbance.n.03	fix.n.01
+изостреност	latent_hostility.n.01
+напрежение	latent_hostility.n.01	tension.n.02
+сблъсък	clash.n.02
+мрак	dark.n.01	total_darkness.n.01
+тъмнина	dark.n.01	total_darkness.n.01
+сянка	shadow.n.01
+възторг	ecstasy.n.01
+екстаз	ecstasy.n.01	enchantment.n.02
+оплакване	mourning.n.01
+плач	mourning.n.01
+ридание	mourning.n.01
+скърбене	mourning.n.01
+волност	freedom.n.01
+свобода	freedom.n.01	liberty.n.03
+затворено_пространство	constraint.n.01
+задържане	detention.n.01
+самостоятелност	autonomy.n.02
+разчитане	reliance.n.02
+упование	reliance.n.02
+рецесия	recession.n.01
+сензация	sensation.n.04
+боледуване	illness.n.01
+болест	illness.n.01	disease.n.01
+зависимост	addiction.n.01
+срив	breakdown.n.02
+гърч	paroxysm.n.01
+конвулсия	paroxysm.n.01
+спазъм	paroxysm.n.01
+грип	influenza.n.01
+спин	aids.n.01
+настинка	cold.n.01
+простуда	cold.n.01
+пневмония	pneumonia.n.01
+язва	ulcer.n.01
+израстък	growth.n.06
+тумор	tumor.n.01
+рак	cancer.n.01
+нараняване	injury.n.01
+травма	injury.n.01
+рана	cut.n.05	wound.n.01
+изгаряне	burn.n.03
+загар	tan.n.01
+счупване	fracture.n.01
+фрактура	fracture.n.01
+ужилване	sting.n.03
+ухапване	sting.n.03
+синдром	syndrome.n.02
+лъчева_болест	radiation_sickness.n.01
+гадене	nausea.n.01
+повдигане	nausea.n.01
+угриженост	anxiety.n.01
+стрес	tension.n.01
+депресия	depressive_disorder.n.01	depression.n.02	low.n.01
+потиснатост	depressive_disorder.n.01
+транс	enchantment.n.02
+каша	fix.n.01
+изолация	isolation.n.01
+изолиране	isolation.n.01
+подобрение	improvement.n.03
+подобряване	improvement.n.03
+реставрация	renovation.n.02
+реставриране	renovation.n.02
+в_крак_с	gradation.n.01
+ранг	rank.n.02
+чин	rank.n.02
+престиж	prestige.n.01
+почит	honor.n.02
+уважение	honor.n.02
+слава	glory.n.01	fame.n.01	name.n.02	reputation.n.02
+известност	fame.n.01
+реноме	name.n.02	reputation.n.02
+репутация	name.n.02	reputation.n.02
+господство	dominance.n.02	dominion.n.01
+надмощие	dominance.n.02
+доминиране	domination.n.02
+монопол	monopoly.n.02
+комфорт	comfort.n.01	ease.n.02
+облекчение	relief.n.02
+благополучие	wellbeing.n.01	prosperity.n.01
+злочестина	misery.n.01
+нещастие	misery.n.01
+недоимък	lack.n.01	indigence.n.01
+изтънченост	polish.n.02
+изящество	polish.n.02
+финес	polish.n.02
+цялост	integrity.n.01
+орис	fortune.n.04
+орисия	fortune.n.04
+съдба	fortune.n.04
+участ	fortune.n.04
+неуспех	failure.n.03
+потенциал	potential.n.01
+шанс	opportunity.n.01
+предчувствие	anticipation.n.04
+преуспяване	boom.n.02
+процъфтяване	boom.n.02	prosperity.n.01
+застой	depression.n.02
+мизерия	privation.n.01	indigence.n.01
+нищета	privation.n.01	indigence.n.01
+бедност	indigence.n.01
+беднотия	indigence.n.01
+немотия	indigence.n.01
+оскъдица	indigence.n.01
+сиромашия	indigence.n.01
+безпорядък	disorderliness.n.01
+царство	kingdom.n.01
+ерозия	erosion.n.02
+климат	climate.n.01
+меланхолия	gloom.n.03
+безопасност	safety.n.01	protection.n.04
+сигурност	safety.n.01	protection.n.04
+спасение	salvation.n.03
+застраховка	indemnity.n.01
+защитеност	protection.n.04
+заплаха	menace.n.01
+добро_здравословно_състояние	fitness.n.02
+инвалидност	disability.n.01
+недъгавост	disability.n.01
+мотивиране	motivation.n.02
+мотивировка	motivation.n.02
+обосноваване	motivation.n.02
+обосновка	motivation.n.02
+запазване	preservation.n.02
+материал	material.n.01
+разтвор	solution.n.01
+пластмаса	plastic.n.01
+киселина	acid.n.01
+атом	atom.n.01
+метал	metallic_element.n.01
+алуминий	aluminum.n.01
+въглерод	carbon.n.01
+злато	gold.n.03
+желязо	iron.n.01
+олово	lead.n.02
+кислород	oxygen.n.01
+натрий	sodium.n.01
+сяра	sulfur.n.01
+калай	tin.n.01
+минерал	mineral.n.01
+молекула	molecule.n.01
+бензин	gasoline.n.01
+чакъл	gravel.n.01
+скъпоценен_камък	gem.n.02
+клей	glue.n.01
+лепило	glue.n.01
+туткал	glue.n.01
+белтъчина	protein.n.01
+протеин	protein.n.01
+слонова_кост	ivory.n.01
+козина	fur.n.01
+пепел	ash.n.01
+стомана	steel.n.01
+слама	chaff.n.01
+химикал	chemical.n.01
+глина	clay.n.01
+въглен	coal.n.01
+съединение	compound.n.02
+бетон	concrete.n.01
+проводник	conductor.n.02
+прах	dust.n.01	powder.n.01
+въздух	air.n.01
+почва	soil.n.02
+вода	water.n.01
+пикня	urine.n.01
+пикоч	urine.n.01
+урина	urine.n.01
+боклук	waste.n.01	garbage.n.01	rubbish.n.01
+отпадък	waste.n.01	garbage.n.01
+смет	waste.n.01	garbage.n.01	rubbish.n.01
+отпадъци	rubbish.n.01
+мазнина	fat.n.01
+влакно	fiber.n.01
+гориво	fuel.n.01
+стъкло	glass.n.01
+лед	ice.n.01
+желе	jelly.n.03
+течност	fluid.n.02	liquid.n.03
+дънер	log.n.01
+пън	log.n.01
+мрамор	marble.n.01
+кал	mud.n.01
+лигавина	sludge.n.02
+слиз	sludge.n.02
+слуз	sludge.n.02
+хартия	paper.n.01
+пудра	powder.n.01
+пясък	sand.n.01
+отрова	poison.n.01
+пара	steam.n.01
+пръска	spray.n.05
+кърпичка	tissue.n.02
+витамин	vitamin.n.01
+дървесина	wood.n.01
+период	time_period.n.01	period.n.02
+настояще	present.n.01
+сега	here_and_now.n.01
+минало	past.n.01
+бъдеще	future.n.01
+час	clock_time.n.01	hour.n.01	hour.n.02
+седмица	week.n.03
+ваканция	vacation.n.01
+отпуск	vacation.n.01
+отпуска	vacation.n.01	leave.n.01
+пожизнено	life.n.07
+детство	childhood.n.01
+младост	youth.n.03
+пълнолетие	majority.n.03
+старост	old_age.n.01
+ден	day.n.01
+денонощие	day.n.01
+дата	date.n.01
+неделя	sunday.n.01
+заран	morning.n.01
+предобед	morning.n.01
+сутрин	morning.n.01
+утро	morning.n.01
+следобед	afternoon.n.01
+вечер	evening.n.01
+нощ	night.n.01
+полунощ	midnight.n.01
+зазоряване	dawn.n.01
+развиделяване	dawn.n.01
+разсъмване	dawn.n.01
+здрач	twilight.n.01
+надвечер	twilight.n.01
+привечер	twilight.n.01
+уикенд	weekend.n.01
+календар	calendar.n.01
+срок	deadline.n.01	school_term.n.01
+неработен_ден	holiday.n.02
+година	year.n.01
+десетилетие	decade.n.01
+век	century.n.01	historic_period.n.01
+столетие	century.n.01
+тримесечие	quarter.n.06
+месец	calendar_month.n.01
+март	march.n.01
+минута	minute.n.01
+секунда	second.n.01
+сезон	season.n.02
+есен	fall.n.01
+пролет	spring.n.01
+лято	summer.n.01
+зима	winter.n.01
+миг	blink_of_an_eye.n.01
+момент	blink_of_an_eye.n.01
+епоха	era.n.01	historic_period.n.01
+ера	era.n.01
+годишнина	anniversary.n.01
+юбилей	anniversary.n.01
+рожден_ден	birthday.n.01
+царуване	reign.n.02
+старт	beginning.n.02
+отсрочка	extension.n.01
+честота	frequency.n.01
+етап	phase.n.01
+дишам	breathe.v.01
+хлъцна	hiccup.v.01
+хълцам	hiccup.v.01
+въздишам	sigh.v.01
+въздъхна	sigh.v.01
+дишам_тежко	pant.v.01
+задъхам_се	pant.v.01
+задъхвам_се	pant.v.01
+кашлям	cough.v.01
+прозина_се	yawn.v.01
+прозявам_се	yawn.v.01
+мръдвам	twitch.v.01
+мръдна	twitch.v.01	move.v.03
+трепвам	twitch.v.01
+трепна	twitch.v.01
+държа_се	act.v.02
+треперя	shiver.v.02	tremble.v.01	fawn.v.01
+движа	be_active.v.01	move.v.03
+мърдам	be_active.v.01	move.v.03
+дремвам	nap.v.01
+дремна	nap.v.01
+поспивам	nap.v.01
+поспя	nap.v.01
+легна_си	go_to_bed.v.01
+лягам_си	go_to_bed.v.01
+ставам	get_up.v.02	happen.v.01	arise.v.03	become.v.02	fit.v.07
+стана	get_up.v.02	happen.v.01	arise.v.03	become.v.02	fit.v.07
+будя	wake_up.v.02
+будя_се	wake_up.v.02
+пробудя	wake_up.v.02
+пробудя_се	wake_up.v.02
+пробуждам	wake_up.v.02
+пробуждам_се	wake_up.v.02
+разбудя	wake_up.v.02
+разбудя_се	wake_up.v.02
+разбуждам	wake_up.v.02
+разбуждам_се	wake_up.v.02
+събудя	wake_up.v.02
+събудя_се	wake_up.v.02
+събуждам	wake_up.v.02
+събуждам_се	wake_up.v.02
+хипнотизирам	hypnotize.v.01
+прилошава_ми	faint.v.01
+прилошее_ми	faint.v.01
+припадам	faint.v.01
+припадна	faint.v.01
+напрегна	tense.v.04
+напрягам	tense.v.04
+отдъхвам	relax.v.01	rest.v.02
+отдъхна	relax.v.01	rest.v.02
+почивам	relax.v.01	die.v.01	rest.v.02
+разпускам	relax.v.01
+разпусна	relax.v.01
+засмея_се	smile.v.01
+засмивам_се	smile.v.01
+усмихвам_се	smile.v.01
+усмихна_се	smile.v.01
+хиля_се	grin.v.01
+смея_се	laugh.v.01
+мръщя_се	frown.v.01
+гледам_гневно	glower.v.01
+свивам_рамене	shrug.v.01
+свия_рамене	shrug.v.01
+измивам	wash.v.02
+измия	wash.v.02
+мия	wash.v.02
+бръсвам	shave.v.01
+бръсна	shave.v.01
+обръсвам	shave.v.01
+обръсна	shave.v.01
+облека	dress.v.02
+обличам	dress.v.02
+разсъблека_се	undress.v.01
+разсъбличам_се	undress.v.01
+съблека_се	undress.v.01
+събличам_се	undress.v.01
+нося	wear.v.01	bear.v.04
+забременявам	conceive.v.03
+зачевам	conceive.v.03
+зачена	conceive.v.03
+плача	cry.v.02
+рева	cry.v.02	bellow.v.02
+нараня	injure.v.01	hurt.v.05	ache.v.03
+наранявам	injure.v.01	hurt.v.05	ache.v.03
+раня	injure.v.01
+ранявам	injure.v.01
+кървя	shed_blood.v.02
+давя_се	gag.v.05
+задавям_се	gag.v.05
+задушавам_се	gag.v.05
+задуша_се	gag.v.05
+задуша	choke.v.04
+задушавам	choke.v.04
+замръзвам	freeze.v.03	freeze.v.02
+замръзна	freeze.v.03	freeze.v.02
+измръзвам	freeze.v.03
+измръзна	freeze.v.03
+лекувам	treat.v.03	bring_around.v.02
+третирам	treat.v.03	cover.v.05	treat.v.01
+церя	bring_around.v.02
+дрогирам	drug.v.01
+отравям	poison.v.05
+отровя	poison.v.05
+заразя	infect.v.01
+заразявам	infect.v.01
+влоша	devolve.v.03	worsen.v.01
+влошавам	devolve.v.03	worsen.v.01
+възстановявам_се	recuperate.v.04
+възстановя_се	recuperate.v.04
+оправям_се	recuperate.v.04
+оправя_се	recuperate.v.04
+съвземам_се	recuperate.v.04
+съвзема_се	recuperate.v.04
+съживя	resuscitate.v.01
+съживявам	resuscitate.v.01
+тренирам	exercise.v.03	coach.v.01
+упражня	exercise.v.03
+упражнявам	exercise.v.03
+опъвам	stretch.v.11
+опъна	stretch.v.11
+разтегна	stretch.v.11
+разтягам	stretch.v.11
+плюя	spit.v.01
+храча	spit.v.01
+вредя	harm.v.01
+навредя	harm.v.01
+навреждам	harm.v.01
+увредя	harm.v.01
+увреждам	harm.v.01
+зачервявам_се	blush.v.01
+зачервя_се	blush.v.01
+изчервявам_се	blush.v.01
+изчервя_се	blush.v.01
+пламвам	blush.v.01
+пламна	blush.v.01
+почервенявам	blush.v.01
+червя_се	blush.v.01
+надсмея_се	joke.v.02
+надсмивам_се	joke.v.02
+подигравам_се	joke.v.02
+подиграя_се	joke.v.02
+присмея_се	joke.v.02
+присмивам_се	joke.v.02
+променя	change.v.03
+променям	change.v.03
+променям_се	change.v.03
+променя_се	change.v.03
+засегна	affect.v.01	pique.v.01	hurt.v.05
+засягам	affect.v.01	pique.v.01	hurt.v.05
+връзвам	tie.v.05	bind.v.03
+вържа	tie.v.05	bind.v.03
+завързвам	tie.v.05
+оформя	shape.v.03	shape.v.02
+оформям	shape.v.03	shape.v.02
+формирам	shape.v.03
+приспособявам_се	adjust.v.03
+приспособя_се	adjust.v.03
+намаля	decrease.v.01	reduce.v.01	decrease.v.02
+намалявам	decrease.v.01	shrink.v.05	reduce.v.01	decrease.v.02
+падам	decrease.v.01	fall.v.01	crash.v.01
+падна	decrease.v.01	fall.v.01	crash.v.01
+спадам	decrease.v.01
+спадна	decrease.v.01
+намалея	shrink.v.05
+свивам_се	shrink.v.05
+свия_се	shrink.v.05
+смалявам_се	shrink.v.05
+смаля_се	shrink.v.05
+нарасна	rise.v.02	increase.v.01
+нараствам	rise.v.02	increase.v.01
+увелича	rise.v.02	increase.v.01	blow_up.v.02
+увеличавам	rise.v.02	increase.v.01	blow_up.v.02
+заменя	replace.v.01	switch.v.03	substitute.v.01
+заменям	replace.v.01	switch.v.03	substitute.v.01
+сменя	replace.v.01	switch.v.03
+сменям	replace.v.01	switch.v.03
+квалифицирам	modify.v.02
+определя	modify.v.02	decide.v.04	define.v.02
+определям	modify.v.02	decide.v.04	define.v.02
+активизирам	activate.v.02
+активирам	activate.v.02
+подобря	better.v.02
+подобрявам	better.v.02
+влошавам_се	deteriorate.v.01
+влоша_се	deteriorate.v.01
+повредя_се	spoil.v.02
+повреждам_се	spoil.v.02
+развалям_се	spoil.v.02	crash.v.12
+разваля_се	spoil.v.02	crash.v.12
+запазвам	preserve.v.04	reserve.v.03	keep.v.03	spare.v.01	reserve.v.04
+запазя	preserve.v.04	reserve.v.03	keep.v.03	spare.v.01	reserve.v.04
+съхраня	preserve.v.04
+съхранявам	preserve.v.04
+разредя	dilute.v.01
+разреждам	dilute.v.01
+подчертавам	enhance.v.02	underline.v.02	stress.v.01
+подчертая	enhance.v.02	underline.v.02	stress.v.01
+огранича	restrict.v.03
+ограничавам	restrict.v.03
+разширя	blow_up.v.02	widen.v.03	widen.v.04	expand.v.01
+разширявам	blow_up.v.02	widen.v.03	widen.v.04	expand.v.01
+уголемя	blow_up.v.02
+уголемявам	blow_up.v.02
+консолидирам	consolidate.v.01
+обединя	consolidate.v.01
+обединявам	consolidate.v.01
+съединя	consolidate.v.01	connect.v.01
+съединявам	consolidate.v.01	connect.v.01
+съкратя	abridge.v.01	decrease.v.02
+съкращавам	abridge.v.01	decrease.v.02
+удвоя	double.v.01
+удвоявам	double.v.01
+остарея	age.v.01
+остарявам	age.v.01
+старея	age.v.01
+съзрея	mature.v.01
+съзрявам	mature.v.01
+издувам_се	swell.v.03
+издуя_се	swell.v.03
+подувам_се	swell.v.03
+подуя_се	swell.v.03
+разнебитвам	total.v.03
+разнебитя	total.v.03
+съсипвам	total.v.03
+съсипя	total.v.03
+оправя	repair.v.01
+оправям	repair.v.01
+поправя	repair.v.01
+поправям	repair.v.01
+ремонтирам	repair.v.01
+надувам	inflate.v.02
+надуя	inflate.v.02
+обновя	reform.v.05	update.v.02
+обновявам	reform.v.05	update.v.02
+преобразувам	reform.v.05
+преустройвам	reform.v.05
+преустроя	reform.v.05
+реформирам	reform.v.05
+измърся	stain.v.02
+измърсявам	stain.v.02
+лекьосам	stain.v.02
+лекьосвам	stain.v.02
+засилвам	escalate.v.01
+засиля	escalate.v.01
+усилвам	escalate.v.01
+усиля	escalate.v.01
+озаря	light.v.01
+озарявам	light.v.01
+осветя	light.v.01
+осветявам	light.v.01
+настройвам	tune.v.01	adjust.v.01
+настроя	tune.v.01	adjust.v.01
+регулирам	tune.v.01	adjust.v.01
+наглася	adjust.v.01	ensnare.v.01
+нагласявам	adjust.v.01	ensnare.v.01
+култивирам	domesticate.v.01	grow.v.07
+взривявам_се	detonate.v.02
+взривя_се	detonate.v.02
+експлодирам	detonate.v.02
+избухвам	detonate.v.02	explode.v.03
+избухна	detonate.v.02	explode.v.03
+разцепвам	burst.v.01
+разцепя	burst.v.01
+спукам	burst.v.01
+спуквам	burst.v.01
+пукам	pop.v.13
+преуспея	boom.v.05	thrive.v.02	promote.v.02
+преуспявам	boom.v.05	thrive.v.02	promote.v.02
+просперирам	boom.v.05
+процъфтя	boom.v.05	thrive.v.02
+процъфтявам	boom.v.05	thrive.v.02
+напълвам	stuff.v.06
+напълня	stuff.v.06	fill.v.01
+натъпквам	stuff.v.06
+натъпча	stuff.v.06
+тъпча	stuff.v.06	stomp.v.01
+варя	boil.v.02
+раздвоявам_се	branch.v.02
+раздвоя_се	branch.v.02
+разделям_се	branch.v.02	separate.v.09
+разделя_се	branch.v.02	separate.v.09
+разклонявам_се	branch.v.02
+разклоня_се	branch.v.02
+кълцам	grind.v.05
+накълцам	grind.v.05
+скълцам	grind.v.05
+пръсвам_се	burst.v.08
+пръсна_се	burst.v.08
+разбивам	shatter.v.01	crash.v.05
+разбия	shatter.v.01	crash.v.05
+строша	break.v.05	smash.v.02
+строшавам	break.v.05	smash.v.02
+счупвам	break.v.05	smash.v.02
+счупя	break.v.05	smash.v.02
+троша	break.v.05
+строшавам_се	snap.v.03	break.v.42
+строша_се	snap.v.03	break.v.42
+счупвам_се	snap.v.03	break.v.42
+счупя_се	snap.v.03	break.v.42
+случа_се	happen.v.01
+случвам_се	happen.v.01
+съвпадам	concur.v.02	match.v.09	match.v.01
+съвпадна	concur.v.02	match.v.09	match.v.01
+започвам	begin.v.03	venture.v.01
+започна	begin.v.03	venture.v.01
+почвам	begin.v.03
+почна	begin.v.03
+въведа	inaugurate.v.03
+въвеждам	inaugurate.v.03
+настоя	persevere.v.01	demand.v.01	insist.v.01
+настоявам	persevere.v.01	demand.v.01	insist.v.01
+упорствам	persevere.v.01
+покълвам	shoot.v.19
+покълна	shoot.v.19
+издъхвам	die.v.01
+издъхна	die.v.01
+почина	die.v.01
+умирам	die.v.01	die.v.02
+умра	die.v.01	die.v.02
+оставя	leave.v.12	abandon.v.05	bequeath.v.01
+оставям	leave.v.12	abandon.v.05	bequeath.v.01
+удавям_се	drown.v.03
+удавя_се	drown.v.03
+разтопя	dissolve.v.09
+разтопявам	dissolve.v.09
+топя	dissolve.v.09
+превръщам	transform.v.03
+превърна	transform.v.03
+преобразя	transform.v.03
+преобразявам	transform.v.03
+приема_друга_вяра	convert.v.03
+приемам_друга_вяра	convert.v.03
+обръщам	turn_back.v.05	turn.v.01	overturn.v.02
+обърна	turn_back.v.05	turn.v.01	overturn.v.02
+комбинирам	blend.v.03
+смесвам	blend.v.03
+смеся	blend.v.03
+съчетавам	blend.v.03
+съчетая	blend.v.03
+организирам	organize.v.04	mastermind.v.01	arrange.v.07
+подредя	organize.v.04	arrange.v.01
+подреждам	organize.v.04	arrange.v.01
+модернизирам_се	modernize.v.02
+развивам_се_технологично	modernize.v.02
+осиновя	adopt.v.05
+осиновявам	adopt.v.05
+замирам	fade.v.02
+замра	fade.v.02
+увехна	fade.v.02
+увяхвам	fade.v.02
+покажа_се	appear.v.02
+показвам_се	appear.v.02
+появявам_се	appear.v.02
+появя_се	appear.v.02
+изгубвам_се	disappear.v.01
+изгубя_се	disappear.v.01
+изчезвам	disappear.v.01
+изчезна	disappear.v.01
+понижа	reduce.v.01
+понижавам	reduce.v.01
+снижа	reduce.v.01
+снижавам	reduce.v.01
+опразвам	clear.v.23
+опразня	clear.v.23
+освободя	clear.v.23	displace.v.03	free.v.01	exempt.v.01
+освобождавам	clear.v.23	displace.v.03	free.v.01	exempt.v.01
+източа	drain.v.03
+източвам	drain.v.03
+пълня	fill.v.01
+залея	flush.v.07	deluge.v.01
+заливам	flush.v.07	deluge.v.01
+наводня	flush.v.07	deluge.v.01
+наводнявам	flush.v.07	deluge.v.01
+еднакъв_съм	match.v.09
+пасвам	match.v.09
+пасна	match.v.09
+забавя	delay.v.01
+забавям	delay.v.01	delay.v.02
+отлагам	delay.v.01	postpone.v.01
+отложа	delay.v.01	postpone.v.01
+потуша	suppress.v.01
+потушавам	suppress.v.01
+потъпквам	suppress.v.01
+потъпча	suppress.v.01
+смажа	suppress.v.01
+смазвам	suppress.v.01
+комерсиализирам	commercialize.v.02
+материализирам	commercialize.v.02
+елиминирам	extinguish.v.04	exclude.v.01
+премахвам	extinguish.v.04	abolish.v.01
+премахна	extinguish.v.04	abolish.v.01
+усъвършенствам	polish.v.02	master.v.01
+разваля	mar.v.01
+развалям	mar.v.01
+завърша	complete.v.01	graduate.v.01
+завършвам	complete.v.01	graduate.v.01
+приключа	complete.v.01	close.v.04
+приключвам	complete.v.01	close.v.04
+свърша	complete.v.01
+свършвам	complete.v.01
+измервам	quantify.v.02	clock.v.01
+измеря	quantify.v.02	clock.v.01
+меря	quantify.v.02	weigh.v.03
+заредя	charge.v.24
+зареждам	charge.v.24
+прекъсвам	interrupt.v.03
+прекъсна	interrupt.v.03
+изтека	leak.v.03
+изтичам	leak.v.03
+помътнея	die.v.09
+помътнявам	die.v.09
+заселвам	settle.v.09
+заселя	settle.v.09
+населявам	settle.v.09
+разбера	understand.v.01	understand.v.02	sympathize.v.02
+разбирам	understand.v.01	understand.v.02	sympathize.v.02
+схвана	understand.v.01	understand.v.02
+схващам	understand.v.01	understand.v.02
+проумея	understand.v.02
+проумявам	understand.v.02
+познавам	know.v.04
+вярвам	know.v.03	trust.v.01	think.v.01
+знам	know.v.03	know.v.02
+зная	know.v.03	know.v.02
+умея	know.v.02
+овладея	master.v.01
+овладявам	master.v.01
+усвоя	master.v.01
+усвоявам	master.v.01
+приемам_безрезервно	swallow.v.08
+обуча	train.v.01	teach.v.01
+обучавам	train.v.01	teach.v.01
+запаметя	memorize.v.01
+запаметявам	memorize.v.01	retain.v.04
+наизустя	memorize.v.01
+наизустявам	memorize.v.01
+уча_наизуст	memorize.v.01
+уча	study.v.05	teach.v.01
+припомням_си	remember.v.01	review.v.05
+припомня_си	remember.v.01	review.v.05
+сещам_се	remember.v.01
+спомням_си	remember.v.01	commemorate.v.02	review.v.05
+забравя	forget.v.02
+забравям	forget.v.02
+изхвръква_ми_от_ума	forget.v.02
+изхвръкне_ми_от_ума	forget.v.02
+изчезва_ми_от_ума	forget.v.02
+изчезне_ми_от_ума	forget.v.02
+запомня	retain.v.04
+запомням	retain.v.04
+идентифицирам	recognize.v.04	name.v.02
+разпознавам	recognize.v.04	name.v.02
+разпозная	recognize.v.04
+отбележа	commemorate.v.02	check.v.06	note.v.01
+отбелязвам	commemorate.v.02	check.v.06	note.v.01
+почета	commemorate.v.02
+почитам	commemorate.v.02	respect.v.01
+спомня_си	commemorate.v.02	review.v.05
+зарежа	abandon.v.05
+зарязвам	abandon.v.05
+изоставя	abandon.v.05	foreswear.v.02
+изоставям	abandon.v.05	foreswear.v.02
+напускам	abandon.v.05	exit.v.01	foreswear.v.02
+напусна	abandon.v.05	exit.v.01	foreswear.v.02
+изключа	exclude.v.01	eject.v.01
+изключвам	exclude.v.01	eject.v.01
+изхвърля	exclude.v.01	eject.v.01	dump.v.01
+изхвърлям	exclude.v.01	eject.v.01	dump.v.01
+махам	exclude.v.01	beckon.v.01
+махна	exclude.v.01	beckon.v.01
+изпускам	jump.v.13	drop.v.01	miss.v.05	miss.v.03
+изпусна	jump.v.13	drop.v.01	miss.v.05	miss.v.03
+пропускам	jump.v.13	miss.v.05	overlook.v.01	miss.v.03
+пропусна	jump.v.13	miss.v.05	overlook.v.01	miss.v.03
+игнорирам	neglect.v.04
+пренебрегвам	neglect.v.04	dismiss.v.01
+пренебрегна	neglect.v.04	dismiss.v.01
+изтървавам_се	stumble.v.04
+изтърва_се	stumble.v.04
+заплета	confuse.v.02
+заплитам	confuse.v.02
+объркам	confuse.v.02
+обърквам	confuse.v.02
+оплета	confuse.v.02
+оплитам	confuse.v.02
+чета	read.v.01
+диктувам	dictate.v.02
+мисля	think.v.03	chew_over.v.01	think.v.01
+размишлявам	chew_over.v.01
+допускам	assume.v.01	admit.v.03	admit.v.02
+допусна	assume.v.01	admit.v.03	admit.v.02
+предполагам	assume.v.01	speculate.v.01	guess.v.02
+предположа	assume.v.01	speculate.v.01	guess.v.02
+разреша	solve.v.01	settle.v.13	permit.v.01
+разрешавам	solve.v.01	settle.v.13	permit.v.01
+реша	solve.v.01	decide.v.01	decide.v.04
+решавам	solve.v.01	decide.v.01	decide.v.04
+повдигам_на_втора_степен	square.v.02
+повдигам_на_квадрат	square.v.02
+умножа	multiply.v.01
+умножавам	multiply.v.01
+сравня	compare.v.01
+сравнявам	compare.v.01
+съпоставя	compare.v.01
+съпоставям	compare.v.01
+класифицирам	pigeonhole.v.02
+оценя	rate.v.01	measure.v.04	appreciate.v.01
+оценявам	rate.v.01	measure.v.04	appreciate.v.01
+маркирам	check.v.06
+обознача	check.v.06
+обозначавам	check.v.06
+проверя	check.v.22
+проверявам	check.v.22
+докажа	prove.v.02
+доказвам	prove.v.02
+подкрепя	confirm.v.01	second.v.01
+подкрепям	confirm.v.01	second.v.01
+издържа	digest.v.03	weather.v.01
+издържам	digest.v.03	weather.v.01
+изтърпя	digest.v.03
+понасям	digest.v.03
+понеса	digest.v.03
+търпя	digest.v.03	weather.v.01
+преглътвам	accept.v.07
+преглътна	accept.v.07
+преглъщам	accept.v.07
+приема	accept.v.07	host.v.01	adopt.v.02	admit.v.03
+приемам	accept.v.07	host.v.01	adopt.v.02	admit.v.03
+избера	choose.v.01	pick.v.01	elect.v.02	choose.v.03	elect.v.01
+избирам	choose.v.01	pick.v.01	elect.v.02	choose.v.03	elect.v.01
+отхвърля	rule_out.v.03	deny.v.01	deny.v.03	refuse.v.02
+отхвърлям	rule_out.v.03	deny.v.01	deny.v.03	refuse.v.02
+съмнявам_се	doubt.v.01
+доверя	trust.v.01
+доверявам	trust.v.01
+смятам	think.v.01
+считам	think.v.01
+уважавам	respect.v.01
+ценя	respect.v.01	appreciate.v.01
+прегледам	screen.v.02	scan.v.02
+преглеждам	screen.v.02	scan.v.02
+замисля	plan.v.02
+замислям	plan.v.02
+планирам	plan.v.02	mastermind.v.01
+планувам	plan.v.02
+заговорнича	plot.v.01
+съзаклятнича	plot.v.01
+ръководя	mastermind.v.01	head.v.02	oversee.v.01
+свържа	associate.v.01	connect.v.01
+свързвам	associate.v.01	connect.v.01
+очаквам	expect.v.01
+констатирам	ascertain.v.04
+установя	ascertain.v.04
+установявам	ascertain.v.04
+концентрирам	concentrate.v.02
+концентрирам_се	concentrate.v.02
+съсредоточа	concentrate.v.02
+съсредоточавам	concentrate.v.02
+съсредоточавам_се	concentrate.v.02
+съсредоточа_се	concentrate.v.02
+осъзнавам	recognize.v.02
+осъзная	recognize.v.02
+оставям_се	resign.v.04
+оставя_се	resign.v.04
+предавам	resign.v.04	pass.v.05	betray.v.02
+предам	resign.v.04	pass.v.05	betray.v.02
+насоча	direct.v.09
+насочвам	direct.v.09
+накарам	command.v.02	urge.v.01
+накарвам	command.v.02
+моля	request.v.01	beg.v.01
+изискам	ask.v.04
+изисквам	ask.v.04
+твърдя	claim.v.01
+умолявам	beg.v.01
+моля_се	pray.v.01
+пледирам	plead.v.03
+споразумея_се	settle.v.13	cope.v.01
+споразумявам_се	settle.v.13	cope.v.01
+съгласявам_се	agree.v.02
+съглася_се	agree.v.02
+сдобрявам_се	reconcile.v.03
+сдобря_се	reconcile.v.03
+карам	urge.v.01
+подтиквам	urge.v.01
+подтикна	urge.v.01
+убедя	persuade.v.02	convert.v.09
+убеждавам	persuade.v.02	convert.v.09
+разубедя	dissuade.v.01
+разубеждавам	dissuade.v.01
+насърча	encourage.v.03	cheer.v.05	foster.v.03
+насърчавам	encourage.v.03	cheer.v.05	foster.v.03
+окуража	encourage.v.03
+окуражавам	encourage.v.03
+карам_се	quarrel.v.01
+разправям_се	quarrel.v.01
+разправя_се	quarrel.v.01
+опонирам	oppose.v.01
+противопоставям_се	oppose.v.01	resist.v.06
+противопоставя_се	oppose.v.01	resist.v.06
+направя_почивка	pause.v.02
+правя_пауза	pause.v.02
+спирам_за_малко	pause.v.02
+спра_за_малко	pause.v.02
+отморя	rest.v.02
+отморявам	rest.v.02
+отпочивам	rest.v.02
+отпочина	rest.v.02
+релаксирам	rest.v.02
+отклонявам_се	digress.v.01	sidetrack.v.01
+отклоня_се	digress.v.01	sidetrack.v.01
+отплесвам_се	digress.v.01
+отплесна_се	digress.v.01
+блазня	entice.v.01
+изкуша	entice.v.01
+изкушавам	entice.v.01
+съблазня	entice.v.01
+съблазнявам	entice.v.01
+питам	ask.v.01
+подсилвам	reinforce.v.02
+подсиля	reinforce.v.02
+разпитам	interrogate.v.02
+разпитвам	interrogate.v.02
+телефонирам	call.v.03
+викам	call.v.05	shout.v.01	yell.v.02	shout.v.02
+викна	call.v.05	shout.v.01
+зова	call.v.05
+извикам	call.v.05	shout.v.02
+извиквам	call.v.05
+повикам	call.v.05
+повиквам	call.v.05
+резервирам	reserve.v.03	reserve.v.04
+забраня	forbid.v.01
+забранявам	forbid.v.01
+откажа	refuse.v.01	deny.v.04	deny.v.03	refuse.v.02
+отказвам	refuse.v.01	deny.v.04	deny.v.03	refuse.v.02
+анулирам	revoke.v.02
+отменя	revoke.v.02	abolish.v.01	cancel.v.01
+отменям	revoke.v.02	abolish.v.01	cancel.v.01
+позволя	permit.v.01
+позволявам	permit.v.01
+не_се_съглася	disagree.v.01
+не_се_съгласявам	disagree.v.01
+одобря	approve.v.01	second.v.01
+одобрявам	approve.v.01	second.v.01
+възразя	object.v.01	challenge.v.01
+възразявам	object.v.01	challenge.v.01
+протестирам	object.v.01	demonstrate.v.04
+избегна	avoid.v.01
+избягвам	avoid.v.01	escape.v.01
+отбягвам	avoid.v.01
+отбягна	avoid.v.01
+отчуждавам_се	avoid.v.01
+отчуждя_се	avoid.v.01
+страня	avoid.v.01
+разисквам	debate.v.03	hash_out.v.01
+обмисля	consider.v.05
+обмислям	consider.v.05
+премисля	consider.v.05
+премислям	consider.v.05
+дискутирам	hash_out.v.01
+обсъдя	hash_out.v.01
+обсъждам	hash_out.v.01
+отговарям	answer.v.01	head.v.02	match.v.01
+отговоря	answer.v.01
+отрека	deny.v.01
+отричам	deny.v.01
+признавам	admit.v.01	accredit.v.01
+призная	admit.v.01	accredit.v.01
+поучавам	preach.v.01
+проповядвам	preach.v.01
+науча	teach.v.01
+преподавам	teach.v.01
+преподам	teach.v.01
+актуализирам	update.v.02
+модернизирам	update.v.02
+осъвременя	update.v.02
+осъвременявам	update.v.02
+заблудя	misinform.v.01	deceive.v.02
+заблуждавам	misinform.v.01	deceive.v.02
+излъжа	lie.v.05	deceive.v.02
+измамя	lie.v.05	deceive.v.02	cheat.v.02
+изментя	lie.v.05
+мамя	lie.v.05
+ментя	lie.v.05
+изкривя	falsify.v.01
+изкривявам	falsify.v.01
+изопача	falsify.v.01	spin.v.07
+изопачавам	falsify.v.01	spin.v.07
+преинача	falsify.v.01
+преиначавам	falsify.v.01
+престоря_се	feign.v.01
+преструвам_се	feign.v.01
+симулирам	feign.v.01
+преувелича	overstate.v.01
+преувеличавам	overstate.v.01
+омаловажа	understate.v.01
+омаловажавам	understate.v.01
+заклеймя	denounce.v.01
+заклеймявам	denounce.v.01
+осъдя	denounce.v.01	convict.v.01
+осъждам	denounce.v.01	convict.v.01
+порицавам	denounce.v.01
+порицая	denounce.v.01
+виня	blame.v.01	blame.v.02
+обвиня	blame.v.01	blame.v.02	charge.v.07
+обвинявам	blame.v.01	blame.v.02	charge.v.07
+укоря	blame.v.02
+укорявам	blame.v.02
+обидя	abuse.v.03	pique.v.01	hurt.v.05
+обиждам	abuse.v.03	pique.v.01	hurt.v.05
+ругая	abuse.v.03	curse.v.01
+хуля	abuse.v.03	curse.v.01
+против_съм	mind.v.01
+досадя	tease.v.02
+досаждам	tease.v.02
+дразня	tease.v.02	tease.v.08	annoy.v.01	tease.v.03
+нервирам	tease.v.02
+подразня	tease.v.08	tease.v.03
+разкривам	debunk.v.01	unwrap.v.02
+разоблича	debunk.v.01
+разобличавам	debunk.v.01
+шляя_се	horse_around.v.01
+излъгвам	deceive.v.02
+измамвам	deceive.v.02	cheat.v.02
+поздравя	cheer.v.05	congratulate.v.02	greet.v.02
+поздравявам	cheer.v.05	congratulate.v.02	greet.v.02
+забавлявам	amuse.v.02	entertain.v.01
+развличам	amuse.v.02	entertain.v.01
+аплодирам	applaud.v.01
+ръкопляскам	applaud.v.01
+псувам	curse.v.01
+кълна	curse.v.03
+проклинам	curse.v.03
+прокълна	curse.v.03
+благославям	bless.v.01
+благословя	bless.v.01
+оспорвам	challenge.v.01
+оспоря	challenge.v.01
+предупредя	warn.v.01
+предупреждавам	warn.v.01
+заплаша	threaten.v.02
+заплашвам	threaten.v.02
+предлагам	propose.v.01	nominate.v.01	offer.v.07	volunteer.v.02
+предложа	propose.v.01	nominate.v.01	offer.v.07	volunteer.v.02
+подсетя	prompt.v.03
+подсещам	prompt.v.03
+подскажа	prompt.v.03
+подсказвам	prompt.v.03
+припомня	prompt.v.03
+припомням	prompt.v.03
+номинирам	nominate.v.01
+честитя	congratulate.v.02
+препоръчам	commend.v.04
+препоръчвам	commend.v.04
+похвалвам_се	boast.v.01
+похваля_се	boast.v.01
+хваля_се	boast.v.01
+давам_обет	pledge.v.01
+обещавам	pledge.v.01
+посветя	dedicate.v.03	give.v.18
+посвещавам	dedicate.v.03	give.v.18
+отдавам	give.v.18
+отдам	give.v.18
+гарантирам	guarantee.v.02
+осигуря	guarantee.v.02
+осигурявам	guarantee.v.02
+благодаря	thank.v.01
+извинявам_се	apologize.v.01
+моля_за_извинение	apologize.v.01
+обясня	apologize.v.02	explain.v.01	clarify.v.01
+обяснявам	apologize.v.02	explain.v.01	clarify.v.01
+оправдавам	apologize.v.02	acquit.v.01	excuse.v.01
+оправдая	apologize.v.02	acquit.v.01	excuse.v.01
+кимам	nod.v.02
+запознавам	introduce.v.01
+запозная	introduce.v.01
+представя	introduce.v.01	perform.v.03	bring_in.v.01
+представям	introduce.v.01	perform.v.03	bring_in.v.01	represent.v.04
+оневиня	acquit.v.01
+оневинявам	acquit.v.01
+извиня	excuse.v.01
+извинявам	excuse.v.01
+простя	excuse.v.01
+прощавам	excuse.v.01
+жаля_се	complain.v.01
+оплаквам_се	complain.v.01
+оплача_се	complain.v.01
+прекратя	deter.v.01
+прекратявам	deter.v.01
+спирам	deter.v.01	stop.v.01	discontinue.v.01
+спра	deter.v.01	stop.v.01	discontinue.v.01
+подпомагам	foster.v.03
+подпомогна	foster.v.03
+поощря	foster.v.03
+поощрявам	foster.v.03
+крещя	yell.v.02	shout.v.02
+изкрещя	shout.v.02
+кресна	shout.v.02
+шепна	whisper.v.01
+шептя	whisper.v.01
+зъбя_се	snap.v.01
+предвидя	predict.v.01
+предвиждам	predict.v.01
+предрека	predict.v.01
+предричам	predict.v.01
+предскажа	predict.v.01
+предсказвам	predict.v.01
+пророкувам	predict.v.01
+басирам_се	bet.v.01
+обзалагам_се	bet.v.01
+обзаложа_се	bet.v.01
+покажа	indicate.v.02	expose.v.03	show.v.01	exhibit.v.01
+показвам	indicate.v.02	expose.v.03	show.v.01	exhibit.v.01
+посоча	indicate.v.02
+посочвам	indicate.v.02
+соча	indicate.v.02
+чудя_се	wonder.v.02
+пораждам	suggest.v.05
+породя	suggest.v.05
+знача	mean.v.03	count.v.02
+означавам	mean.v.03
+издавам	unwrap.v.02	publish.v.02
+издам	unwrap.v.02	publish.v.02
+разкрия	unwrap.v.02
+изясня	clarify.v.01
+изяснявам	clarify.v.01
+поясня	clarify.v.01	exemplify.v.02
+пояснявам	clarify.v.01	exemplify.v.02
+броя	count.v.01
+добавя	total.v.02
+добавям	total.v.02
+прибавя	total.v.02	list.v.02
+прибавям	total.v.02	list.v.02
+събера	total.v.02	pick.v.02	raise.v.04
+събирам	total.v.02	pick.v.02	raise.v.04
+кажа	tell.v.03	state.v.01
+казвам	tell.v.03	state.v.01
+разкажа	tell.v.03
+разказвам	tell.v.03
+извъртам	spin.v.07
+извъртя	spin.v.07
+доразвивам	elaborate.v.01
+доразвия	elaborate.v.01
+дефинирам	define.v.02
+преведа	translate.v.01
+превеждам	translate.v.01
+говоря	speak.v.03
+обнародвам	publish.v.02
+публикувам	publish.v.02	publish.v.03
+разгласявам	publish.v.02	post.v.02
+разнасям	circulate.v.02	scatter.v.03
+разнеса	circulate.v.02	scatter.v.03
+разпространя	circulate.v.02
+разпространявам	circulate.v.02
+излъча	air.v.03
+излъчвам	air.v.03
+рекламирам	advertise.v.02
+обявя	proclaim.v.02	post.v.02
+обявявам	proclaim.v.02	post.v.02
+съобщавам	proclaim.v.02	post.v.02
+съобщя	proclaim.v.02	post.v.02
+артикулирам	articulate.v.05	utter.v.02
+произнасям	articulate.v.05	utter.v.02
+произнеса	articulate.v.05	utter.v.02
+учленя	articulate.v.05
+учленявам	articulate.v.05
+формулирам	give_voice.v.01
+изговарям	utter.v.02
+изговоря	utter.v.02
+изрека	utter.v.02
+изричам	utter.v.02
+изобразя	describe.v.01
+изобразявам	describe.v.01
+обрисувам	describe.v.01
+описвам	describe.v.01
+опиша	describe.v.01
+известя	post.v.02
+известявам	post.v.02
+оповестя	post.v.02
+оповестявам	post.v.02
+разглася	post.v.02
+пиша	write.v.02
+ревизирам	revise.v.01
+подписвам	sign.v.01
+подписвам_се	sign.v.01
+подпиша	sign.v.01
+подпиша_се	sign.v.01
+записвам	record.v.02
+запиша	record.v.02
+залича	erase.v.03
+заличавам	erase.v.03
+изтривам	erase.v.03	wipe.v.01
+изтрия	erase.v.03	wipe.v.01
+унищожа	erase.v.03	demolish.v.01
+унищожавам	erase.v.03	demolish.v.01
+документирам	document.v.01
+кореспондирам_си	correspond.v.03
+пиша_си	correspond.v.03
+заклевам_се	swear.v.04
+закълна_се	swear.v.04
+кълна_се	swear.v.04
+изтъквам	stress.v.01
+изтъкна	stress.v.01
+наблегна	stress.v.01
+наблягам	stress.v.01
+натъртвам	stress.v.01
+натъртя	stress.v.01
+свидетелствам	testify.v.02
+спомена	note.v.01	mention.v.01
+споменавам	note.v.01	mention.v.01
+упомена	note.v.01
+упоменавам	note.v.01
+илюстрирам	exemplify.v.02
+цитирам	quote.v.01
+кръстя	name.v.01
+кръщавам	name.v.01
+нарека	name.v.01
+наричам	name.v.01
+изпратя	mail.v.02
+изпращам	mail.v.02
+пращам	mail.v.02
+разгледам	cover.v.05	travel_to.v.01
+разглеждам	cover.v.05	travel_to.v.01
+правя_компромис	compromise.v.01
+мрънкам	mumble.v.01
+мънкам	mumble.v.01
+охкам	groan.v.01
+пъшкам	groan.v.01
+лая	bark.v.04
+изрева	bellow.v.02
+изревавам	bellow.v.02
+водя	keep.v.08	lead.v.04
+съревновавам_се	compete.v.01
+състезавам_се	compete.v.01
+играя	play.v.01	dance.v.02	perform.v.03	act.v.10	play.v.05
+конфронтирам_се	confront.v.01
+откажа_се	drop_out.v.01	spare.v.03
+отказвам_се	drop_out.v.01	spare.v.03
+предавам_се	drop_out.v.01	concede.v.04
+предам_се	drop_out.v.01	concede.v.04
+преча	handicap.v.03
+бия_се	contend.v.06
+кандидатирам_се	campaign.v.01
+кандидатствам	campaign.v.01
+загубвам	lose.v.02
+загубя	lose.v.02
+печеля	win.v.01	profit.v.02	gain.v.08	profit.v.01
+спечелвам	win.v.01	profit.v.02
+спечеля	win.v.01	profit.v.02
+надвивам	beat.v.01	overpower.v.01
+надвия	beat.v.01	overpower.v.01
+победя	beat.v.01
+побеждавам	beat.v.01
+сразя	beat.v.01
+сразявам	beat.v.01
+изигравам	cheat.v.02
+изиграя	cheat.v.02
+надмина	surpass.v.02	exceed.v.02	beat.v.12
+надминавам	surpass.v.02	exceed.v.02	beat.v.12
+надхвърля	surpass.v.02	exceed.v.02
+надхвърлям	surpass.v.02	exceed.v.02
+завладея	overpower.v.01
+завладявам	overpower.v.01
+завърша_на_равно	tie.v.02
+завършвам_на_равно	tie.v.02
+съпротивлявам_се	resist.v.02	resist.v.06
+устоя	resist.v.02
+устоявам	resist.v.02
+атакувам	assail.v.01
+налитам	assail.v.01
+нападам	assail.v.01
+нападна	assail.v.01
+нахвърлям_се	assail.v.01
+нахвърля_се	assail.v.01
+браня	protect.v.01	defend.v.03
+закрилям	protect.v.01	spare.v.01
+защитавам	protect.v.01	defend.v.03	spare.v.01	defend.v.06
+защитя	protect.v.01	defend.v.03	spare.v.01	defend.v.06
+пазя	protect.v.01	guard.v.02
+предпазвам	protect.v.01	spare.v.01
+предпазя	protect.v.01	spare.v.01
+охранявам	guard.v.02
+отбранявам	defend.v.03
+отстоя	defend.v.03
+отстоявам	defend.v.03
+бомбардирам	bombard.v.02
+изстрелвам	fire.v.02	launch.v.02
+изстрелям	fire.v.02	launch.v.02
+гръмна	blast.v.07
+гърмя	blast.v.07	blast.v.01
+стрелям	blast.v.07
+залагам	bet.v.02	pawn.v.01
+заложа	bet.v.02	pawn.v.01
+пилея	consume.v.03	waste.v.01
+прахосам	consume.v.03	waste.v.01
+прахосвам	consume.v.03	waste.v.01
+разхитя	consume.v.03
+разхищавам	consume.v.03	splurge.v.01
+преработвам	recycle.v.02
+преработя	recycle.v.02
+рециклирам	recycle.v.02
+експлоатирам	exploit.v.01
+използвам	exploit.v.01	exploit.v.02	practice.v.04
+възползвам_се	exploit.v.02
+вечерям	dine.v.01
+храня_се	eat.v.01
+ям	eat.v.01
+пия	drink.v.01
+сръбвам	sip.v.01
+сръбна	sip.v.01
+нахранвам	feed.v.02
+нахраня	feed.v.02
+храня	feed.v.02
+поднасям	serve.v.06
+поднеса	serve.v.06
+сервирам	serve.v.06
+доставя	cater.v.02	deliver.v.02
+доставям	cater.v.02	deliver.v.02
+снабдя	cater.v.02	supply.v.01
+снабдявам	cater.v.02	supply.v.01
+нуждая_се	want.v.02
+постя	fast.v.02
+преситя_се	indulge.v.03
+пресищам_се	indulge.v.03
+преяждам	gorge.v.01
+преям	gorge.v.01
+дегустирам	sample.v.01
+опитам	sample.v.01	taste.v.02	try.v.01
+опитвам	sample.v.01	taste.v.02	try.v.01
+пробвам	sample.v.01	try.v.01
+пуша	smoke.v.01
+инжектирам	inject.v.04
+дъвча	chew.v.01
+глътна	swallow.v.01
+гълтам	swallow.v.01
+поглъщам	swallow.v.01	absorb.v.06
+погълна	swallow.v.01	absorb.v.06
+докосвам	touch.v.01	reach.v.06
+докосна	touch.v.01	reach.v.06
+допирам	touch.v.01	reach.v.06
+допра	touch.v.01	reach.v.06
+досегна	touch.v.01	reach.v.06
+досягам	touch.v.01	reach.v.06
+грабвам	seize.v.01	snatch.v.01
+грабна	seize.v.01	snatch.v.01
+арестувам	collar.v.01
+задържа	collar.v.01	restrain.v.04	keep.v.03	impound.v.01
+задържам	collar.v.01	restrain.v.04	keep.v.03	impound.v.01
+подпирам	hold.v.10
+подпра	hold.v.10
+извивам	twist.v.04	coil.v.03
+извия	twist.v.04	coil.v.03
+управлявам	operate.v.03	govern.v.03
+галя	stroke.v.01
+милвам	stroke.v.01
+перфорирам	penetrate.v.01	punch.v.03
+пробивам	penetrate.v.01	punch.v.03
+пробия	penetrate.v.01	punch.v.03
+продупча	penetrate.v.01	punch.v.03
+продупчвам	penetrate.v.01	punch.v.03
+намуша	knife.v.01
+намушвам	knife.v.01
+наръгам	knife.v.01
+наръгвам	knife.v.01
+пробода	knife.v.01	stick.v.13
+пробождам	knife.v.01	stick.v.13
+промуша	knife.v.01	stick.v.13
+промушвам	knife.v.01	stick.v.13
+пронижа	knife.v.01	stick.v.13
+пронизвам	knife.v.01	stick.v.13
+потупам	dab.v.02	tap.v.03
+потупвам	dab.v.02	tap.v.03
+заравям	bury.v.03
+заривам	bury.v.03
+зарина	bury.v.03
+зария	bury.v.03
+заровя	bury.v.03
+меся	knead.v.01
+ударя	hit.v.02	swipe.v.01	whip.v.04	beat.v.03	hit.v.03
+ударя_се	hit.v.02
+удрям	hit.v.02	swipe.v.01	whip.v.04	beat.v.03	hit.v.03
+удрям_се	hit.v.02
+щракам	snap.v.10
+щракна	snap.v.10
+блъскам	slam.v.01	topple.v.02
+блъсна	slam.v.01	topple.v.02
+затръшвам	slam.v.01
+затръшна	slam.v.01
+хлопвам	slam.v.01
+хлопна	slam.v.01	knock.v.02
+изчеткам	brush.v.01
+изчетквам	brush.v.01
+четкам	brush.v.01
+лъскам	polish.v.01
+полирам	polish.v.01
+търкам	rub.v.01
+ампутирам	amputate.v.01
+нарежа	carve.v.03	chop.v.01
+нарязвам	carve.v.03	chop.v.01
+нагъвам	fold.v.01
+нагъна	fold.v.01
+прегъвам	fold.v.01	flex.v.05
+прегъна	fold.v.01	flex.v.05
+сгъвам	fold.v.01	flex.v.05
+сгъна	fold.v.01	flex.v.05
+огъвам	flex.v.05	flex.v.04
+огъна	flex.v.05	flex.v.04
+превивам	flex.v.05
+превия	flex.v.05
+обвивам	wrap.v.01
+обвия	wrap.v.01
+опаковам	wrap.v.01	pack.v.01
+увивам	wrap.v.01
+увия	wrap.v.01
+възпирам	restrain.v.04
+възпра	restrain.v.04
+попреча	restrain.v.04
+попречвам	restrain.v.04
+удържа	restrain.v.04
+удържам	restrain.v.04
+драскам	scrape.v.01
+изстъргвам	scratch.v.02
+изстържа	scratch.v.02
+стържа	scratch.v.02
+копая	dig.v.01
+дълбая	excavate.v.04
+търся	search.v.01	search.v.02
+убивам	kill.v.01
+убия	kill.v.01
+уморя	kill.v.01
+уморявам	kill.v.01
+умъртвя	kill.v.01
+умъртвявам	kill.v.01
+закривам	cover.v.01
+закрия	cover.v.01
+покривам	cover.v.01
+покрия	cover.v.01
+прикрепвам	fasten.v.01
+прикрепя	fasten.v.01
+прикрепям	fasten.v.01
+затварям	close.v.01	imprison.v.01	confine.v.05
+затворя	close.v.01	imprison.v.01	confine.v.05
+отварям	open.v.01
+отворя	open.v.01
+заключа	lock.v.01
+заключвам	lock.v.01
+извадя	extract.v.01
+изваждам	extract.v.01
+извлека	extract.v.01
+извличам	extract.v.01
+измъквам	extract.v.01
+измъкна	extract.v.01
+завинтвам	screw.v.04
+завинтя	screw.v.04
+завъртам	screw.v.04
+завъртя	screw.v.04
+уплътня	seal.v.01
+уплътнявам	seal.v.01
+прилепвам	adhere.v.06
+прилепя	adhere.v.06
+прилепям	adhere.v.06
+боядисам	paint.v.02
+боядисвам	paint.v.02
+закача	hook.v.01	hang.v.02
+закачам	hook.v.01
+окача	hook.v.01	hang.v.02
+окачам	hook.v.01
+окачвам	hook.v.01	hang.v.02
+изправя	straighten.v.02
+изправям	straighten.v.02
+ритам	kick.v.03
+ритна	kick.v.03
+напръскам	spray.v.02
+напръсквам	spray.v.02
+пръскам	spray.v.02	splurge.v.01
+разпилея	scatter.v.03
+разпилявам	scatter.v.03
+разпръскам	scatter.v.03
+разпръсквам	scatter.v.03
+бера	pick.v.02
+притискам	compress.v.02	press.v.01
+притисна	compress.v.02	press.v.01
+стискам	compress.v.02	pinch.v.01
+стисна	compress.v.02	pinch.v.01
+вмъквам	tuck.v.01
+вмъкна	tuck.v.01
+втиквам	tuck.v.01
+втикна	tuck.v.01
+пъхам	tuck.v.01	lunge.v.01
+пъхна	tuck.v.01	lunge.v.01
+бърша	wipe.v.01
+избърсвам	wipe.v.01
+избърша	wipe.v.01
+трия	wipe.v.01
+измета	sweep.v.03
+измитам	sweep.v.03
+мета	sweep.v.03
+первам	whip.v.04
+перна	whip.v.04
+бия	hit.v.03	beat.v.04
+тропам	knock.v.02	tread.v.02
+тропна	knock.v.02
+хлопам	knock.v.02
+чукам	knock.v.02
+чукна	knock.v.02
+ударя_с_юмрук	punch.v.01
+удрям_с_юмрук	punch.v.01
+плясвам	slap.v.01
+плясна	slap.v.01
+шляпвам	slap.v.01
+шляпна	slap.v.01
+разбъркам	beat.v.10	shuffle.v.03	scramble.v.03	stir.v.01
+разбърквам	beat.v.10	shuffle.v.03	scramble.v.03	stir.v.01
+размесвам	beat.v.10
+размеся	beat.v.10
+бъркам	shuffle.v.03
+запуша	plug.v.01
+запушвам	plug.v.01
+затулвам	plug.v.01
+затуля	plug.v.01
+гушна	embrace.v.02
+прегръщам	embrace.v.02
+прегърна	embrace.v.02
+сгуша_се	cuddle.v.01
+сгушвам_се	cuddle.v.01
+отгледам	breed.v.03	rear.v.02
+отглеждам	breed.v.03	rear.v.02
+развъдя	breed.v.03
+развъждам	breed.v.03
+целувам	snog.v.01
+целуна	snog.v.01
+ближа	lick.v.02
+лижа	lick.v.02
+оближа	lick.v.02
+облизвам	lick.v.02
+доведа	bring.v.06	bring.v.01
+довеждам	bring.v.06	bring.v.01
+пренасям	transmit.v.04	transport.v.02
+пренеса	transmit.v.04	transport.v.02
+улавям	catch.v.04
+уловя	catch.v.04
+хвана	catch.v.04	capture.v.06
+хващам	catch.v.04	capture.v.06
+сграбча	snatch.v.01
+сграбчвам	snatch.v.01
+дупча	punch.v.03
+жиля	sting.v.02
+ужилвам	sting.v.02
+ужиля	sting.v.02
+захапвам	bite.v.01
+захапя	bite.v.01
+ухапвам	bite.v.01
+ухапя	bite.v.01
+хапя	bite.v.01
+натискам	press.v.01
+натисна	press.v.01
+напъвам_се	press.v.11
+напъна_се	press.v.11
+дръпна	pull.v.01
+дърпам	pull.v.01
+тегля	pull.v.01	drag.v.01	withdraw.v.09
+поддавам	give.v.33
+поддам	give.v.33
+занасям	transport.v.02	bring.v.01
+занеса	transport.v.02	bring.v.01
+превозвам	haul.v.02
+превозя	haul.v.02
+прекарам	haul.v.02
+прекарвам	haul.v.02
+транспортирам	haul.v.02
+влача	drag.v.01
+мъкна	drag.v.01
+ощипвам	pinch.v.01
+ощипя	pinch.v.01
+щипя	pinch.v.01
+наредя	arrange.v.01
+нареждам	arrange.v.01
+изгонвам	eject.v.01	banish.v.03
+изгоня	eject.v.01	banish.v.03
+изпъдя	eject.v.01
+изпъждам	eject.v.01
+отвлека	kidnap.v.01
+отвличам	kidnap.v.01
+похитя	kidnap.v.01
+похищавам	kidnap.v.01
+закачвам	hang.v.02
+пакетирам	pack.v.01
+поставя	put.v.01
+поставям	put.v.01
+слагам	put.v.01	lay.v.02	install.v.01
+сложа	put.v.01	lay.v.02	install.v.01
+туря	put.v.01
+турям	put.v.01
+сея	sow.v.01
+забутам	misplace.v.01
+забутвам	misplace.v.01
+накамаря	stack.v.02
+накамарявам	stack.v.02
+натрупам	stack.v.02
+натрупвам	stack.v.02
+трупам	stack.v.02	store.v.01
+боря_се	wrestle.v.04
+привлека	attract.v.01
+привличам	attract.v.01	attract.v.02
+захвърля	hurl.v.01
+захвърлям	hurl.v.01
+хвърля	hurl.v.01	throw.v.01	fling.v.01	flip.v.06
+хвърлям	hurl.v.01	throw.v.01	fling.v.01	flip.v.06
+запратя	crash.v.10	fling.v.01
+запращам	crash.v.10	fling.v.01
+метна	crash.v.10	throw.v.01	fling.v.01	flip.v.06
+мятам	crash.v.10	throw.v.01	fling.v.01	flip.v.06
+подхвърля	flip.v.06
+подхвърлям	flip.v.06
+навивам	wind.v.05	coil.v.03
+навия	wind.v.05	coil.v.03
+завивам	coil.v.03
+завия	coil.v.03
+работя	run.v.13	work.v.02
+премествам	dislodge.v.03
+преместя	dislodge.v.03
+пера	wash.v.03
+разсипвам	spill.v.03
+разсипя	spill.v.03
+седна	sit.v.01	squat.v.01
+сядам	sit.v.01	squat.v.01
+полагам	lay.v.02
+положа	lay.v.02
+коленича	kneel.v.01
+стоя	stand.v.01	stay.v.02
+задраскам	strike.v.14
+задрасквам	strike.v.14
+зачерквам	strike.v.14
+зачеркна	strike.v.14
+отрежа	crop.v.01
+отрязвам	crop.v.01
+подрежа	crop.v.01
+подрязвам	crop.v.01
+подстригвам	crop.v.01
+подстрижа	crop.v.01
+засадя	plant.v.01
+засаждам	plant.v.01
+садя	plant.v.01
+инсталирам	install.v.01
+монтирам	install.v.01
+настаня	install.v.03
+настанявам	install.v.03
+обезглавя	decapitate.v.01
+обезглавявам	decapitate.v.01
+паса	crop.v.04
+кисна	soak.v.01
+накисвам	soak.v.01
+накисна	soak.v.01
+мачкам	squash.v.01
+смачкам	squash.v.01
+смачквам	squash.v.01
+капя	dribble.v.02
+размажа	spread.v.10
+размазвам	spread.v.10
+натоварвам	load.v.04
+натоваря	load.v.04
+товаря	load.v.04
+генерирам	generate.v.01
+предизвикам	generate.v.01	arouse.v.01
+предизвиквам	generate.v.01	arouse.v.01	tease.v.03
+създавам	generate.v.01	create.v.02
+създам	generate.v.01	create.v.02
+давам	render.v.04	pass.v.05
+дам	render.v.04	pass.v.05
+измисля	fabricate.v.02
+измислям	fabricate.v.02
+изфабрикувам	fabricate.v.02
+съчиня	fabricate.v.02
+съчинявам	fabricate.v.02
+фабрикувам	fabricate.v.02
+представям_си	imagine.v.01
+представя_си	imagine.v.01
+откривам	discover.v.03	fall_upon.v.01	situate.v.01
+открия	discover.v.03	fall_upon.v.01	situate.v.01
+изпреда	spin.v.05
+изпридам	spin.v.05
+преда	spin.v.05
+проектирам	design.v.04
+вдъхновя	inspire.v.02
+вдъхновявам	inspire.v.02
+произведа	manufacture.v.01
+произвеждам	manufacture.v.01
+подправя	forge.v.02	fudge.v.01
+подправям	forge.v.02	fudge.v.01
+фалшифицирам	forge.v.02	fudge.v.01
+разруша	demolish.v.01
+разрушавам	demolish.v.01
+сривам	demolish.v.01
+срина	demolish.v.01
+срутвам	demolish.v.01
+срутя	demolish.v.01
+събарям	demolish.v.01
+съборя	demolish.v.01
+изградя	raise.v.09
+изграждам	raise.v.09
+издигам	raise.v.09
+издигна	raise.v.09
+построя	raise.v.09
+построявам	raise.v.09
+строя	raise.v.09
+изравня	level.v.02
+изравнявам	level.v.02
+пека	bake.v.02
+готвя	cook.v.02
+плета	knit.v.01
+тъка	weave.v.02
+рисувам	paint.v.01	draw.v.06
+скицирам	diagram.v.01
+чертая	diagram.v.01
+копирам	copy.v.04	imitate.v.01
+прекопирам	copy.v.04
+прекопирвам	copy.v.04
+изговарям_дума_буква_по_буква	spell.v.03
+изписвам_дума_буква_по_буква	spell.v.03
+спелувам	spell.v.03
+композирам	compose.v.02
+танцувам	dance.v.02
+режисирам	direct.v.03
+определям_роли	cast.v.03
+разпределям_роли	cast.v.03
+снимам	film.v.02
+изпълня	perform.v.03	occupy.v.03
+изпълнявам	perform.v.03
+дебютирам	debut.v.02
+моделирам	model.v.05
+свиря	play.v.03
+пея	sing.v.02
+повтарям	duplicate.v.01
+повторя	duplicate.v.01
+ксерокопирам	photocopy.v.01
+възпроизведа	reproduce.v.01
+възпроизвеждам	reproduce.v.01
+репродуцирам	reproduce.v.01
+разработвам	develop.v.01
+разработя	develop.v.01
+имитирам	imitate.v.01
+подражавам	imitate.v.01
+отпечатам	print.v.04
+отпечатвам	print.v.04
+печатам	print.v.04
+подстрекавам	arouse.v.01
+провокирам	arouse.v.01
+обезпокоя	perturb.v.01
+обезпокоявам	perturb.v.01
+смутя	perturb.v.01
+смущавам	perturb.v.01
+успокоя	calm.v.01	comfort.v.01	relieve.v.08
+успокоявам	calm.v.01	comfort.v.01	relieve.v.08
+безпокоя_се	worry.v.01
+измъча_се	worry.v.01
+измъчвам_се	worry.v.01
+притеснявам_се	worry.v.01
+притесня_се	worry.v.01
+тормозя_се	worry.v.01
+тревожа_се	worry.v.01
+впечатля	impress.v.02
+впечатлявам	impress.v.02
+разстройвам	disturb.v.01
+разстроя	disturb.v.01
+разчувствам	move.v.11
+трогвам	move.v.11
+трогна	move.v.11
+умиля	move.v.11
+умилявам	move.v.11
+изпитам	feel.v.01
+изпитвам	feel.v.01
+преживея	feel.v.01
+преживявам	feel.v.01
+чувствам	feel.v.01
+възмутя_се	resent.v.01
+възмущавам_се	resent.v.01
+негодувам	resent.v.01
+мразя	hate.v.01	dislike.v.01
+ненавиждам	hate.v.01
+презирам	contemn.v.01
+презра	contemn.v.01
+обичам	love.v.03	like.v.03
+изплаша	frighten.v.01
+изплашвам	frighten.v.01
+плаша	frighten.v.01	terrify.v.01
+уплаша	frighten.v.01
+уплашвам	frighten.v.01
+боя_се	fear.v.02
+плаша_се	fear.v.02
+страхувам_се	fear.v.02	fawn.v.01
+ужасявам_се	fear.v.02
+шубе_ме_е	fear.v.02
+ужася	terrify.v.01
+ужасявам	terrify.v.01
+ядосвам	annoy.v.01
+оскърбя	pique.v.01	hurt.v.05
+оскърбявам	pique.v.01	hurt.v.05
+безпокоя	harass.v.01
+мъча	harass.v.01	mistreat.v.01
+тормозя	harass.v.01
+огорча	hurt.v.05
+огорчавам	hurt.v.05
+съжаля	repent.v.02
+съжалявам	repent.v.02
+разочаровам	disappoint.v.01
+липсвам	miss.v.02
+пленя	capture.v.02	intrigue.v.01
+пленявам	capture.v.02	intrigue.v.01
+покоря	capture.v.02
+покорявам	capture.v.02
+допадам	attract.v.02
+допадна	attract.v.02
+слисам	shock.v.01
+слисвам	shock.v.01
+смайвам	shock.v.01
+смая	shock.v.01
+шокирам	shock.v.01	shock.v.02
+утеша	comfort.v.01
+утешавам	comfort.v.01
+задоволя	please.v.01
+задоволявам	please.v.01
+удовлетворя	please.v.01
+удовлетворявам	please.v.01
+грижа_ме_е	care.v.01
+интересувам_се	care.v.01
+пука_ми	care.v.01
+искам	desire.v.01
+възхитя_се	admire.v.01
+възхищавам_се	admire.v.01
+жадувам	hanker.v.01
+копнея	hanker.v.01
+насладя_се	love.v.02
+наслаждавам_се	love.v.02
+харесам	love.v.02
+харесвам	love.v.02
+измина	travel.v.01	elapse.v.01
+изминавам	travel.v.01	elapse.v.01
+пропътувам	travel.v.01
+пътувам	travel.v.01
+посетя	travel_to.v.01
+посещавам	travel_to.v.01
+разгледам_забележителности	sightsee.v.01
+разглеждам_забележителности	sightsee.v.01
+помпам	pump.v.07
+местя_се	move.v.04
+премествам_се	move.v.04
+преместя_се	move.v.04
+оставам	stay.v.02	persist.v.03
+остана	stay.v.02	persist.v.03
+търкалям	roll.v.01
+търкулна	roll.v.01
+гърча_се	writhe.v.01
+извивам_се	writhe.v.01
+извия_се	writhe.v.01
+сгърча_се	writhe.v.01
+сгърчвам_се	writhe.v.01
+подхлъзвам_се	skid.v.04
+подхлъзна_се	skid.v.04
+хлъзгам_се	skid.v.04
+хлъзна_се	skid.v.04
+бутам	push.v.01	topple.v.02
+бутна	push.v.01	topple.v.02
+тласкам	push.v.01
+тласна	push.v.01
+клатя	rock.v.01
+люлея	rock.v.01	rock.v.02
+люшкам	rock.v.02
+клатушкам_се	swing.v.02
+олюлея_се	swing.v.02
+олюлявам_се	swing.v.02
+пулсирам	beat.v.04
+туптя	beat.v.04
+блуждая	roll.v.12
+бродя	roll.v.12
+лутам_се	roll.v.12
+скитам_се	roll.v.12
+вея	fan.v.03
+лазя	crawl.v.01
+пълзя	crawl.v.01
+плъзгам_се	slither.v.01	glide.v.01
+плъзна_се	slither.v.01	glide.v.01
+пързалям_се	slither.v.01	glide.v.01	skate.v.01
+пързулна_се	slither.v.01	glide.v.01
+разклатя	shake.v.01
+разклащам	shake.v.01
+отскачам	bounce.v.03
+отскоча	bounce.v.03
+раздвижа_се	stir.v.02
+раздвижвам_се	stir.v.02
+размърдам_се	stir.v.02
+размърдвам_се	stir.v.02
+препъвам_се	stumble.v.02
+препъна_се	stumble.v.02
+спъвам_се	stumble.v.02
+спъна_се	stumble.v.02
+плавам	float.v.02	sail.v.03
+ходя	walk.v.01
+прекатурвам	overturn.v.02
+прекатуря	overturn.v.02
+преобръщам	overturn.v.02
+преобърна	overturn.v.02
+разходя_се	stroll.v.01	hike.v.02
+разхождам_се	stroll.v.01	hike.v.02
+марширувам	march.v.03
+крача	stride.v.01	tread.v.02
+ходя_на_екскурзия	hike.v.02
+изкача	climb.v.01
+изкачвам	climb.v.01
+катеря	climb.v.01
+ходя_на_пръсти	tiptoe.v.01
+газя	stomp.v.01
+стъпквам	stomp.v.01
+стъпча	stomp.v.01
+тичам	run.v.01
+трамбовам	tread.v.02
+трополя	tread.v.02
+возя_се	drive.v.02	ride.v.02
+паркирам	park.v.02
+карам_кънки	skate.v.01
+летя	fly.v.01
+литна	fly.v.01
+хвръкна	fly.v.01
+хвърча	fly.v.01
+вия_се	soar.v.03
+извисявам_се	soar.v.03
+извися_се	soar.v.03
+рея_се	soar.v.03
+левитирам	levitate.v.02
+нося_се	levitate.v.02
+греба	row.v.01
+плувам	swim.v.01
+гмурвам_се	dive.v.02
+гмуркам_се	dive.v.02
+гмурна_се	dive.v.02
+прескачам	jump.v.01
+прескоча	jump.v.01
+скачам	jump.v.01
+скоча	jump.v.01
+скачам_с_парашут	chute.v.01
+скоча_с_парашут	chute.v.01
+вдигам_се	rise.v.01
+вдигна_се	rise.v.01
+издигам_се	rise.v.01
+издигна_се	rise.v.01
+изгрея	rise.v.16
+изгрявам	rise.v.16
+заляза	set.v.10
+залязвам	set.v.10
+разбивам_се	crash.v.01
+разбия_се	crash.v.01
+вдигам	raise.v.02
+вдигна	raise.v.02
+рухвам	tumble.v.01
+рухна	tumble.v.01
+сривам_се	tumble.v.01	collapse.v.01
+срина_се	tumble.v.01	collapse.v.01
+срутвам_се	tumble.v.01	collapse.v.01	crumble.v.01
+срутя_се	tumble.v.01	collapse.v.01	crumble.v.01
+събарям_се	tumble.v.01
+съборя_се	tumble.v.01
+кацам	land.v.01
+приземявам_се	land.v.01
+приземя_се	land.v.01
+изправям_се_на_задните_си_крака	rear.v.01
+легна	lie_down.v.01
+лежа	lie_down.v.01
+провалям_се	collapse.v.01	crumble.v.01	fail.v.02
+проваля_се	collapse.v.01	crumble.v.01	fail.v.02
+разрушавам_се	collapse.v.01	crumble.v.01
+руша_се	collapse.v.01
+прегърбвам_се	slump.v.01
+прегърбя_се	slump.v.01
+хлътвам	slump.v.01
+потъвам	sink.v.04
+потъна	sink.v.04
+отмина	advance.v.01
+отминавам	advance.v.01
+премина	advance.v.01	pass.v.01	pass.v.14
+преминавам	advance.v.01	pass.v.01	pass.v.14
+навлизам	penetrate.v.05	enter.v.01
+навляза	penetrate.v.05	enter.v.01
+прониквам	penetrate.v.05
+проникна	penetrate.v.05
+отдръпвам_се	withdraw.v.01
+отдръпна_се	withdraw.v.01
+отмествам_се	withdraw.v.01
+отместя_се	withdraw.v.01
+оттеглям_се	withdraw.v.01	retreat.v.02
+оттегля_се	withdraw.v.01	retreat.v.02
+следвам	follow.v.01	comply.v.01
+оглавя	lead.v.04
+оглавявам	lead.v.04
+гоня	chase.v.01
+преследвам	chase.v.01	haunt.v.01
+връщам_се	return.v.01	return.v.05
+върна_се	return.v.01	return.v.05
+замина	depart.v.03
+заминавам	depart.v.03
+отпътувам	depart.v.03
+излизам	exit.v.01
+изляза	exit.v.01
+влизам	enter.v.01	enroll.v.01
+вляза	enter.v.01	enroll.v.01
+кача_се	board.v.01
+качвам_се	board.v.01
+изтърва	miss.v.05	miss.v.03
+изтървавам	miss.v.05	miss.v.03
+видя_се	meet.v.01
+виждам_се	meet.v.01
+срещам_се	meet.v.01
+срещна_се	meet.v.01
+придружа	accompany.v.02
+придружавам	accompany.v.02
+съпроводя	accompany.v.02
+съпровождам	accompany.v.02
+извирам	pour.v.02
+накланям_се	dip.v.09	lean.v.01
+наклонявам_се	dip.v.09	lean.v.01
+наклоня_се	dip.v.09	lean.v.01
+наведа_се	lean.v.01	crouch.v.01
+навеждам_се	lean.v.01	crouch.v.01
+покланям_се	bow.v.03
+поклоня_се	bow.v.03
+пропадам	crumble.v.01
+пропадна	crumble.v.01
+разруша_се	crumble.v.01
+въртя_се	spin.v.01	turn.v.09
+задмина	pass.v.07
+задминавам	pass.v.07
+подмина	pass.v.07
+подминавам	pass.v.07
+наближа	approach.v.01
+наближавам	approach.v.01
+приближа	approach.v.01
+приближавам	approach.v.01
+карам_с_превишена_скорост	speed.v.04
+изоставам	drag.v.05
+изостана	drag.v.05
+втурвам_се	rush.v.01
+втурна_се	rush.v.01
+хуквам	rush.v.01
+хукна	rush.v.01
+вкарам	lunge.v.01
+вкарвам	lunge.v.01
+забивам	lunge.v.01
+забия	lunge.v.01
+тека	run.v.06
+излея	pour.v.01
+изливам	pour.v.01
+изсипвам	pour.v.01
+изсипя	pour.v.01
+разлея_се	spill.v.02
+разливам_се	spill.v.02
+разсипвам_се	spill.v.02
+разсипя_се	spill.v.02
+избягам	escape.v.01
+измъквам_се	escape.v.01
+измъкна_се	escape.v.01
+бягам	scat.v.01
+донасям	bring.v.01
+донеса	bring.v.01
+заведа	bring.v.01
+завеждам	bring.v.01
+стъпвам	step.v.02
+стъпя	step.v.02
+забележа	perceive.v.01	notice.v.02
+забелязвам	perceive.v.01	notice.v.02
+съзирам	perceive.v.01
+съзра	perceive.v.01
+чеша_се	rub.v.03
+загарям	bite.v.02
+изгарям	bite.v.02	burn.v.05
+изгоря	bite.v.02	burn.v.05
+страдам	hurt.v.06
+мириша	smell.v.02	smell.v.01	sniff.v.01
+помирисвам	smell.v.01	sniff.v.01
+помириша	smell.v.01	sniff.v.01
+наблюдавам	watch.v.04
+видя	see.v.01
+виждам	see.v.01
+втренча_се	gaze.v.01
+втренчвам_се	gaze.v.01
+изглеждам	look.v.02
+изглежда	appear.v.04
+оказва_се	appear.v.04
+излагам	expose.v.03
+изложа	expose.v.03
+проявя	uncover.v.01
+проявявам	uncover.v.01
+крия	hide.v.01
+скривам	hide.v.01
+скрия	hide.v.01
+крия_се	hide.v.02
+скривам_се	hide.v.02
+спотайвам_се	hide.v.02
+укривам_се	hide.v.02
+забулвам	obscure.v.01
+забуля	obscure.v.01
+прикривам	obscure.v.01
+прикрия	obscure.v.01
+замаскирам	disguise.v.01
+замаскирвам	disguise.v.01
+блясвам	flash.v.01
+проблясвам	flash.v.01
+проблясна	flash.v.01
+светвам	flash.v.01
+светна	flash.v.01
+блестя	glow.v.01	glitter.v.01
+грея	glow.v.01
+светя	glow.v.01
+погледна	glance.v.01
+поглеждам	glance.v.01
+чувам	hear.v.01
+чуя	hear.v.01
+слушам	listen.v.01
+звънна	ring.v.01
+звъня	ring.v.01
+тиктакам	click.v.02
+цъкам	click.v.02
+подслушам	listen_in.v.02
+подслушвам	listen_in.v.02
+вкусвам	taste.v.02
+вкуся	taste.v.02
+подаря	give.v.08
+подарявам	give.v.08
+раздавам	distribute.v.04
+раздам	distribute.v.04
+разпределя	distribute.v.04
+разпределям	distribute.v.04
+имам	have.v.01
+притежавам	have.v.01
+купувам	buy.v.01
+купя	buy.v.01
+давам_под_наем	lease.v.03
+дам_под_наем	lease.v.03
+придобивам	get.v.01
+придобия	get.v.01
+сдобивам_се	get.v.01	obtain.v.01
+сдобия_се	get.v.01	obtain.v.01
+финансирам	fund.v.06
+отървавам_се	dump.v.02
+отърва_се	dump.v.02
+завещавам	bequeath.v.01
+завещая	bequeath.v.01
+подавам	pass.v.05
+подам	pass.v.05
+добивам	obtain.v.01
+добия	obtain.v.01
+получа	obtain.v.01	collect.v.05	adopt.v.02
+получавам	obtain.v.01	collect.v.05	adopt.v.02
+набера	recruit.v.02
+набирам	recruit.v.02
+наема	recruit.v.02	hire.v.01
+наемам	recruit.v.02	hire.v.01
+изтръгвам	extort.v.02
+изтръгна	extort.v.02
+продавам	sell.v.01
+продам	sell.v.01
+струвам	fetch.v.02
+възстановя	recover.v.01
+възстановявам	recover.v.01
+възнаградя	compensate.v.06	reward.v.03
+възнаграждавам	compensate.v.06	reward.v.03
+компенсирам	compensate.v.06	reward.v.03	offset.v.01
+застраховам	insure.v.04
+плащам	pay.v.01
+дължа	owe.v.01
+откупувам	ransom.v.01
+откупя	ransom.v.01
+замествам	substitute.v.01	represent.v.01
+заместя	substitute.v.01	represent.v.01
+разменя	trade.v.04
+разменям	trade.v.04
+пазаря_се	dicker.v.01
+спазаря_се	dicker.v.01
+внасям	present.v.04	import.v.01
+внеса	present.v.04	import.v.01
+даря	donate.v.01
+дарявам	donate.v.01
+икономисам	save.v.05
+икономисвам	save.v.05
+пестя	save.v.05
+спестя	save.v.05	spare.v.02
+спестявам	save.v.05	spare.v.02
+изхарча	spend.v.02	waste.v.01
+изхарчвам	spend.v.02	waste.v.01
+харча	spend.v.02
+пропилея	waste.v.01
+пропилявам	waste.v.01
+отпускам_се	splurge.v.01
+отпусна_се	splurge.v.01
+пръсна	splurge.v.01
+развържа_кесията	splurge.v.01
+развързвам_кесията	splurge.v.01
+прося	beg.v.03
+спекулирам	speculate.v.04
+превзема	appropriate.v.02
+превземам	appropriate.v.02
+изземва	impound.v.01
+изземвам	impound.v.01
+конфискувам	impound.v.01
+плагиатствам	plagiarize.v.01
+запасявам_се	store.v.01
+запася_се	store.v.01
+издължа	refund.v.01
+издължавам	refund.v.01
+издължавам_се	refund.v.01
+издължа_се	refund.v.01
+намеря	fall_upon.v.01	situate.v.01
+намирам	fall_upon.v.01	situate.v.01
+изкарам	gain.v.08
+изкарвам	gain.v.08
+припечелвам	gain.v.08
+припечеля	gain.v.08
+споделя	share.v.02
+споделям	share.v.02
+принадлежа	belong.v.01
+взема	collect.v.05	adopt.v.02
+взимам	collect.v.05
+облекча	relieve.v.08
+облекчавам	relieve.v.08
+лиша	deprive.v.02
+лишавам	deprive.v.02
+отнема	deprive.v.02
+отнемам	deprive.v.02
+наследя	inherit.v.01	succeed.v.02
+наследявам	inherit.v.01	succeed.v.02
+платя_с_карта	charge.v.12
+плащам_с_карта	charge.v.12
+надвзема	overcharge.v.01
+надвземам	overcharge.v.01
+таксувам	charge.v.03
+обера	rob.v.01
+обирам	rob.v.01
+ограбвам	rob.v.01
+ограбя	rob.v.01
+окрада	rob.v.01
+окрадвам	rob.v.01
+заема	borrow.v.01	lend.v.02	occupy.v.03
+заемам	borrow.v.01	lend.v.02	occupy.v.03
+екипирам	equip.v.01
+оборудвам	equip.v.01
+отблагодарявам_се	reward.v.03
+отблагодаря_се	reward.v.03
+експортирам	export.v.01
+изнасям	export.v.01
+изнеса	export.v.01
+вземам	adopt.v.02
+впускам_се	venture.v.01
+впусна_се	venture.v.01
+залавям_се	venture.v.01
+заловя_се	venture.v.01
+предприема	venture.v.01
+предприемам	venture.v.01
+пенсионирам_се	retire.v.01
+подавам_оставка	leave_office.v.01
+подам_оставка	leave_office.v.01
+встъпвам_в_длъжност	install.v.02
+встъпя_в_длъжност	install.v.02
+каня	invite.v.02
+поканвам	invite.v.02
+поканя	invite.v.02
+назнача	appoint.v.01
+назначавам	appoint.v.01
+напредвам	promote.v.02
+напредна	promote.v.02
+прогресирам	promote.v.02
+предпочета	prefer.v.03
+предпочитам	prefer.v.03
+проуча	screen.v.03
+проучвам	screen.v.03
+уволня	displace.v.03
+уволнявам	displace.v.03
+стачкувам	strike.v.07
+кооперирам_се	collaborate.v.01
+обединявам_се	collaborate.v.01
+обединя_се	collaborate.v.01
+сътруднича_си	collaborate.v.01
+забавлявам_се	play.v.05
+събера_се	meet.v.07
+събирам_се	meet.v.07
+командвам	control.v.01
+контролирам	control.v.01	dominate.v.02
+лицензирам	license.v.01
+основавам	form.v.01
+учредя	form.v.01
+учредявам	form.v.01
+включа_се	participate.v.01
+включвам_се	participate.v.01
+участвам	participate.v.01
+осуетя	prevent.v.01
+осуетявам	prevent.v.01
+предотвратя	prevent.v.01
+предотвратявам	prevent.v.01
+толерирам	tolerate.v.02
+гласувам	vote.v.01
+спася	spare.v.01	rescue.v.01
+спасявам	spare.v.01	rescue.v.01
+законодателствам	legislate.v.01
+издавам_закон	legislate.v.01
+узаконя	legislate.v.01
+узаконявам	legislate.v.01
+деля	divide.v.01
+разделя	divide.v.01
+разделям	divide.v.01
+записвам_се	register.v.03
+запиша_се	register.v.03
+регистрирам_се	register.v.03
+постъпвам	enroll.v.01
+постъпя	enroll.v.01
+включа	list.v.02
+включвам	list.v.02
+упълномощавам	empower.v.01
+упълномощя	empower.v.01
+зачитам	accredit.v.01
+екзекутирам	execute.v.01
+разведа_се	divorce.v.02
+развеждам_се	divorce.v.02
+развлека	entertain.v.01
+лишавам_от_свобода	confine.v.05
+лиша_от_свобода	confine.v.05
+обжалвам	appeal.v.04
+накажа	punish.v.01
+наказвам	punish.v.01
+съдя	judge.v.05
+пускам	admit.v.02
+пусна	admit.v.02
+депортирам	extradite.v.01
+изселвам	extradite.v.01
+прогонвам	banish.v.03
+прогоня	banish.v.03
+пропъдя	banish.v.03
+пропъждам	banish.v.03
+отлъчвам_от_обществото	banish.v.01
+заставя	coerce.v.01
+заставям	coerce.v.01
+принудя	coerce.v.01
+принуждавам	coerce.v.01
+засекретя	classify.v.02
+засекретявам	classify.v.02
+дискриминирам	discriminate.v.02
+отнасям_се	treat.v.01
+отнеса_се	treat.v.01
+измъчвам	mistreat.v.01
+изтезавам	mistreat.v.01
+малтретирам	mistreat.v.01
+справям_се	pull_off.v.03	hack.v.02
+справя_се	pull_off.v.03	hack.v.02
+успея	pull_off.v.03
+успявам	pull_off.v.03
+осъществя	achieve.v.01
+осъществявам	achieve.v.01
+постигам	achieve.v.01
+постигна	achieve.v.01
+експериментирам	experiment.v.01
+изменя	betray.v.02
+изменям	betray.v.02
+сближавам_се	bind.v.02
+сближа_се	bind.v.02
+служа	serve.v.10
+представлявам	represent.v.04
+спазвам	comply.v.01
+спазя	comply.v.01
+съобразявам_се	comply.v.01
+съобразя_се	comply.v.01
+подчинявам_се	obey.v.01
+подчиня_се	obey.v.01
+покорявам_се	obey.v.01
+покоря_се	obey.v.01
+подкопавам	sabotage.v.01
+подкопая	sabotage.v.01
+подривам	sabotage.v.01
+подрина	sabotage.v.01
+рискувам	gamble.v.01
+дръзвам	dare.v.02
+дръзна	dare.v.02
+осмелявам_се	dare.v.02
+осмеля_се	dare.v.02
+посмея	dare.v.02
+посмявам	dare.v.02
+помагам	help.v.01
+помогна	help.v.01
+избавя	rescue.v.01
+избавям	rescue.v.01
+отърва	rescue.v.01
+отървавам	rescue.v.01
+блокирам	obstruct.v.01
+прилагам	practice.v.04
+приложа	practice.v.04
+употребя	practice.v.04
+употребявам	practice.v.04
+изнасилвам	rape.v.01
+изнасиля	rape.v.01
+заемам_се	undertake.v.02
+захващам_се	undertake.v.02
+глезя	pamper.v.01
+разглезвам	pamper.v.01
+разглезя	pamper.v.01
+нахлувам	break_in.v.01
+нахлуя	break_in.v.01
+инсценирам	ensnare.v.01
+хвана_в_капан	ensnare.v.01
+хващам_в_капан	ensnare.v.01
+празнувам	observe.v.06
+спазвам_обичай	observe.v.06
+чествам_празник	observe.v.06
+повдигам_съдебно_преследване	prosecute.v.02
+дезертирам	defect.v.01
+властвам	govern.v.03
+запознавам_се	meet.v.08
+запозная_се	meet.v.08
+възниквам	originate.v.01
+възникна	originate.v.01
+пораждам_се	originate.v.01
+породя_се	originate.v.01
+превръщам_се	become.v.02
+превърна_се	become.v.02
+съдържам	incorporate.v.02	include.v.01	cross.v.05	hold.v.11
+нямам	miss.v.06
+чакам	wait.v.01
+мотам_се	loiter.v.01
+двоумя_се	hesitate.v.01
+колебая_се	hesitate.v.01
+отсроча	postpone.v.01
+отсрочвам	postpone.v.01
+заслужа	deserve.v.01
+заслужавам	deserve.v.01
+запълвам	occupy.v.03
+запълня	occupy.v.03
+изпълвам	occupy.v.03
+квартирувам	lodge.v.01
+отседна	lodge.v.01
+отсядам	lodge.v.01
+съответствам	match.v.01
+завися	depend.v.01
+наподобя	resemble.v.01
+наподобявам	resemble.v.01
+приличам	resemble.v.01
+отличавам_се	differ.v.01
+отлича_се	differ.v.01
+различавам_се	differ.v.01
+различа_се	differ.v.01
+балансирам	balance.v.01
+уравновеся	balance.v.01
+уравновесявам	balance.v.01
+омайвам	intrigue.v.01
+омая	intrigue.v.01
+очаровам	intrigue.v.01
+окачествя	qualify.v.01
+окачествявам	qualify.v.01
+поддържам	prolong.v.02
+продължа	prolong.v.02	last.v.01
+продължавам	prolong.v.02	last.v.01
+преставам	discontinue.v.01
+престана	discontinue.v.01
+обхвана	cross.v.05
+обхващам	cross.v.05
+помествам	cross.v.05
+поместя	cross.v.05
+премервам	weigh.v.03
+премеря	weigh.v.03
+претегля	weigh.v.03
+претеглям	weigh.v.03
+тежа	weigh.v.01
+трая	last.v.01
+изтрайвам	weather.v.01
+изтрая	weather.v.01
+рамкирам	frame.v.02
+предхождам	predate.v.01
+предшествам	predate.v.01
+обезщетя	offset.v.01
+обезщетявам	offset.v.01
+подходящ_съм	suit.v.02
+устройвам	suit.v.02
+прилегна	fit.v.07
+прилягам	fit.v.07
+заставам_срещу	confront.v.04
+застана_срещу	confront.v.04
+позволявам_си	afford.v.03
+позволя_си	afford.v.03
+превъзхождам	beat.v.12
+възпламеня	ignite.v.01
+възпламенявам	ignite.v.01
+запалвам	ignite.v.01
+запаля	ignite.v.01
+паля	ignite.v.01
+горя	burn.v.05
+абсорбирам	absorb.v.06
+отразя	reflect.v.04
+отразявам	reflect.v.04
+беснея	storm.v.03
+бушувам	storm.v.03
+вилнея	storm.v.03
+абсолютен	absolute.a.01	absolute.a.01
+относителен	relative.a.01	relative.a.01
+сравнителен	relative.a.01	relative.a.01
+абстрактен	abstract.a.01	abstract.a.01
+отвлечен	abstract.a.01	abstract.a.01
+действителен	concrete.a.01	real.a.01	concrete.a.01	real.a.01
+конкретен	concrete.a.01	concrete.a.01
+реален	concrete.a.01	real.a.01	concrete.a.01	real.a.01
+изобилен	abundant.a.01	abundant.a.01
+допустим	acceptable.a.01	expected.a.01	probable.a.01	acceptable.a.01	expected.a.01	probable.a.01
+приемлив	acceptable.a.01	acceptable.a.01
+достъпен	accessible.a.01	available.a.01	accessible.a.01	available.a.01
+точен	accurate.a.01	definite.a.01	exact.a.01	precise.a.01	accurate.a.01	definite.a.01	exact.a.01	precise.a.01
+активен	active.a.05	dynamic.a.01	active.a.05	dynamic.a.01
+деен	active.a.05	active.a.05
+бездеен	passive.a.01	passive.a.01
+безучастен	passive.a.01	cool.a.04	passive.a.01	cool.a.04
+пасивен	passive.a.01	passive.a.01
+възможен	potential.a.01	expected.a.01	probable.a.01	potential.a.01	expected.a.01	probable.a.01
+остър	acute.a.01	sharp.a.09	acute.a.01	sharp.a.09
+хроничен	chronic.a.01	chronic.a.01
+хронически	chronic.a.01	chronic.a.01
+зависим	addicted.a.01	dependent.a.01	addicted.a.01	dependent.a.01
+пристрастен	addicted.a.01	addicted.a.01
+адекватен	adequate.a.01	adequate.a.01
+недостатъчен	inadequate.a.01	insufficient.a.01	inadequate.a.01	insufficient.a.01
+незадоволителен	inadequate.a.01	inadequate.a.01
+естетичен	aesthetic.a.02	aesthetic.a.02
+естетически	aesthetic.a.02	aesthetic.a.02
+изплашен	afraid.a.01	afraid.a.01
+уплашен	afraid.a.01	afraid.a.01
+агресивен	aggressive.a.01	aggressive.a.01
+враждебен	aggressive.a.01	hostile.a.01	aggressive.a.01	hostile.a.01
+нападателен	aggressive.a.01	offensive.a.02	aggressive.a.01	offensive.a.02
+бдителен	alert.a.01	alert.a.01
+нащрек	alert.a.01	alert.a.01
+жив	alive.a.01	alive.a.01
+амбициозен	ambitious.a.01	ambitious.a.01
+гневен	angry.a.01	angry.a.01
+сърдит	angry.a.01	angry.a.01
+ядосан	angry.a.01	angry.a.01
+анонимен	anonymous.a.01	anonymous.a.01
+последващ	subsequent.a.01	subsequent.a.01
+следващ	subsequent.a.01	subsequent.a.01
+подходящ	appropriate.a.01	eligible.a.01	proper.a.01	relevant.a.01	appropriate.a.01	eligible.a.01	proper.a.01	relevant.a.01
+неподходящ	inappropriate.a.01	irrelevant.a.01	inappropriate.a.01	irrelevant.a.01
+неуместен	inappropriate.a.01	irrelevant.a.01	inappropriate.a.01	irrelevant.a.01
+дължим	due.a.01	due.a.01
+засрамен	ashamed.a.01	ashamed.a.01
+отстояващ	assertive.a.01	assertive.a.01
+самоуверен	assertive.a.01	assertive.a.01
+привлекателен	attractive.a.01	attractive.a.01
+бременен	pregnant.a.01	pregnant.a.01
+автоматизиран	automatic.a.01	automatic.a.01
+автоматичен	automatic.a.01	automatic.a.01
+автоматически	automatic.a.01	automatic.a.01
+ръчен	manual.a.02	manual.a.02
+наличен	available.a.01	available.a.01
+буден	awake.a.01	awake.a.01
+заспал	asleep.a.01	asleep.a.01
+преден	forward.a.01	forward.a.01
+красив	beautiful.a.01	beautiful.a.01
+грозен	ugly.a.01	ugly.a.01
+неприятен	ugly.a.01	offensive.a.05	unpleasant.a.01	ugly.a.01	offensive.a.05	unpleasant.a.01
+противен	ugly.a.01	offensive.a.05	unpleasant.a.01	ugly.a.01	offensive.a.05	unpleasant.a.01
+бял	white.a.02	white.a.01	white.a.02	white.a.01
+рус	blond.a.01	blond.a.01
+кървав	bloody.a.01	bloody.a.01
+окървавен	bloody.a.01	bloody.a.01
+безстрашен	bold.a.01	bold.a.01
+смел	bold.a.01	brave.a.01	bold.a.01	brave.a.01
+храбър	bold.a.01	brave.a.01	bold.a.01	brave.a.01
+средна_класа	middle-class.a.01	middle-class.a.01
+светъл	light.a.06	light.a.02	light.a.06	light.a.02
+тъмен	dark.a.01	dark.a.01
+посредствен	narrow-minded.a.02	narrow-minded.a.02
+тесногръд	narrow-minded.a.02	narrow-minded.a.02
+счупен	broken.a.01	broken.a.01
+ангажиран	busy.a.01	busy.a.01
+зает	busy.a.01	busy.a.01
+социалистически	socialistic.a.01	socialistic.a.01
+способен	capable.a.01	talented.a.01	capable.a.01	talented.a.01
+внимателен	careful.a.01	cautious.a.01	careful.a.01	cautious.a.01
+предпазлив	careful.a.01	cautious.a.01	careful.a.01	cautious.a.01
+централен	central.a.02	central.a.02
+сигурен	certain.a.02	confident.a.01	reliable.a.01	safe.a.01	certain.a.02	confident.a.01	reliable.a.01	safe.a.01
+уверен	certain.a.02	confident.a.01	certain.a.02	confident.a.01
+неизбежен	inevitable.a.01	inevitable.a.01
+неминуем	inevitable.a.01	inevitable.a.01
+отличителен	characteristic.a.01	representative.a.02	characteristic.a.01	representative.a.02
+характерен	characteristic.a.01	representative.a.02	characteristic.a.01	representative.a.02
+бодър	cheerful.a.01	cheerful.a.01
+весел	cheerful.a.01	cheerful.a.01
+черен	black.a.01	black.a.01
+цветен	colorful.a.01	colorful.a.01
+класически	classical.a.01	classical.a.01
+чист	clean.a.01	pure.a.06	pure.a.01	clean.a.01	pure.a.06	pure.a.01
+замърсен	dirty.a.01	dirty.a.01
+изцапан	dirty.a.01	dirty.a.01
+мръсен	dirty.a.01	dirty.a.02	dirty.a.01	dirty.a.02
+нечист	dirty.a.01	dirty.a.01
+неприличен	dirty.a.02	dirty.a.02
+нецензурен	dirty.a.02	dirty.a.02
+интелигентен	smart.a.01	smart.a.01
+умен	smart.a.01	wise.a.01	smart.a.01	wise.a.01
+глупав	stupid.a.01	foolish.a.01	stupid.a.01	foolish.a.01
+тъп	stupid.a.01	dull.a.09	stupid.a.01	dull.a.09
+далечен	far.a.01	distant.a.01	far.a.01	distant.a.01
+отдалечен	far.a.01	distant.a.01	far.a.01	distant.a.01
+недалечен	near.a.01	near.a.01
+съседен	near.a.01	near.a.01
+безоблачен	clear.a.11	clear.a.11
+ясен	clear.a.11	well-defined.a.02	definite.a.01	obvious.a.01	clear.a.11	well-defined.a.02	definite.a.01	obvious.a.01
+комфортен	comfortable.a.01	comfortable.a.01
+удобен	comfortable.a.01	convenient.a.01	comfortable.a.01	convenient.a.01
+неудобен	uncomfortable.a.01	uncomfortable.a.01
+рекламен	commercial.a.01	commercial.a.01
+обикновен	common.a.02	usual.a.01	ordinary.a.01	plain.a.02	common.a.02	usual.a.01	ordinary.a.01	plain.a.02
+обичаен	usual.a.01	usual.a.01
+общ	common.a.01	general.a.01	joint.a.01	common.a.01	general.a.01	joint.a.01
+публичен	common.a.01	public.a.01	common.a.01	public.a.01
+сравним	comparable.a.01	comparable.a.01
+сравняем	comparable.a.01	comparable.a.01
+съвместим	compatible.a.01	consistent.a.01	compatible.a.01	consistent.a.01
+компетентен	competent.a.01	qualified.a.01	competent.a.01	qualified.a.01
+осведомен	competent.a.01	mindful.a.01	competent.a.01	mindful.a.01
+подготвен	competent.a.01	qualified.a.01	skilled.a.01	competent.a.01	qualified.a.01	skilled.a.01
+конкурентен	competitive.a.01	competitive.a.01
+цял	whole.a.01	whole.a.01
+пълен	complete.a.01	comprehensive.a.01	fat.a.01	full.a.01	complete.a.01	comprehensive.a.01	fat.a.01	full.a.01
+всестранен	comprehensive.a.01	comprehensive.a.01
+обстоен	comprehensive.a.01	comprehensive.a.01
+обширен	comprehensive.a.01	comprehensive.a.01
+подробен	comprehensive.a.01	comprehensive.a.01
+нелеп	incongruous.a.01	incongruous.a.01
+съзнателен	conscious.a.02	conscious.a.02
+консервативен	conservative.a.01	conservative.a.01
+либерален	liberal.a.03	liberal.a.03
+константен	constant.a.02	constant.a.02
+неизменен	constant.a.02	constant.a.02
+постоянен	constant.a.02	permanent.a.01	steady.a.01	constant.a.02	permanent.a.01	steady.a.01
+градивен	constructive.a.01	constructive.a.01
+конструктивен	constructive.a.01	constructive.a.01
+съзидателен	constructive.a.01	constructive.a.01
+творчески	constructive.a.01	constructive.a.01
+доволен	contented.a.01	glad.a.01	contented.a.01	glad.a.01
+задоволен	contented.a.01	contented.a.01
+непрекъснат	continuous.a.01	continuous.a.01
+непрестанен	continuous.a.01	continuous.a.01
+неспирен	continuous.a.01	continuous.a.01
+дискусионен	controversial.a.01	controversial.a.01
+полемичен	controversial.a.01	controversial.a.01
+спорен	controversial.a.01	controversial.a.01
+конвенционален	conventional.a.01	conventional.a.01
+традиционен	conventional.a.01	traditional.a.01	conventional.a.01	traditional.a.01
+ядрен	nuclear.a.01	nuclear.a.01
+суров	raw.a.03	unrefined.a.01	raw.a.03	unrefined.a.01
+съвместен	cooperative.a.02	synergistic.a.01	joint.a.01	cooperative.a.02	synergistic.a.01	joint.a.01
+значителен	considerable.a.01	major.a.02	significant.a.01	considerable.a.01	major.a.02	significant.a.01
+верен	correct.a.01	faithful.a.03	loyal.a.01	true.a.01	correct.a.01	faithful.a.03	loyal.a.01	true.a.01
+правилен	correct.a.01	proper.a.01	correct.a.01	proper.a.01
+грешен	wrong.a.05	wrong.a.05
+погрешен	wrong.a.05	wrong.a.05
+сбъркан	wrong.a.05	wrong.a.05
+провинциален	provincial.a.02	rural.a.02	provincial.a.02	rural.a.02
+вежлив	polite.a.01	polite.a.01
+любезен	polite.a.01	kind.a.01	polite.a.01	kind.a.01
+учтив	polite.a.01	kind.a.01	polite.a.01	kind.a.01
+невероятен	incredible.a.01	improbable.a.01	incredible.a.01	improbable.a.01
+неправдоподобен	incredible.a.01	incredible.a.01
+критичен	critical.a.01	critical.a.06	critical.a.01	critical.a.06
+критически	critical.a.01	critical.a.06	critical.a.01	critical.a.06
+линеен	linear.a.02	linear.a.02
+любопитен	curious.a.02	curious.a.02
+актуален	current.a.01	current.a.01
+текущ	current.a.01	current.a.01
+глух	deaf.a.01	deaf.a.01
+решаващ	decisive.a.01	ultimate.a.01	decisive.a.01	ultimate.a.01
+решителен	decisive.a.01	decisive.a.01
+дълбок	deep.a.03	profound.a.01	deep.a.03	profound.a.01
+плитък	shallow.a.01	shallow.a.01
+неопределен	undefined.a.01	neutral.a.04	undefined.a.01	neutral.a.04
+неясен	undefined.a.01	undefined.a.01
+понятен	well-defined.a.02	well-defined.a.02
+разбираем	well-defined.a.02	well-defined.a.02
+определен	definite.a.01	specified.a.01	definite.a.01	specified.a.01
+деликатен	delicate.a.01	delicate.a.01
+изтънчен	delicate.a.01	elegant.a.01	sophisticated.a.01	delicate.a.01	elegant.a.01	sophisticated.a.01
+изящен	delicate.a.01	elegant.a.01	delicate.a.01	elegant.a.01
+нежен	delicate.a.01	soft.a.03	tender.a.01	delicate.a.01	soft.a.03	tender.a.01
+фин	delicate.a.01	fine.a.05	delicate.a.01	fine.a.05
+демократичен	democratic.a.01	democratic.a.01
+произволен	arbitrary.a.01	random.a.01	arbitrary.a.01	random.a.01
+изпитан	reliable.a.01	reliable.a.01
+надежден	reliable.a.01	reliable.a.01
+зависещ	dependent.a.01	dependent.a.01
+независим	independent.a.01	independent.a.01
+самостоятелен	independent.a.01	separate.a.01	independent.a.01	separate.a.01
+свободен	independent.a.01	free.a.01	loose.a.03	open.a.02	independent.a.01	free.a.01	loose.a.03	open.a.02
+желан	desirable.a.01	welcome.a.01	desirable.a.01	welcome.a.01
+желателен	desirable.a.01	desirable.a.01
+търсен	desirable.a.01	desirable.a.01
+мъчен	difficult.a.01	difficult.a.01
+труден	difficult.a.01	tough.a.01	difficult.a.01	tough.a.01
+лесен	easy.a.01	soft.a.06	easy.a.01	soft.a.06
+дипломатичен	diplomatic.a.02	diplomatic.a.02
+дипломатически	diplomatic.a.02	diplomatic.a.02
+директен	direct.a.01	direct.a.01
+пряк	direct.a.01	direct.a.01
+индиректен	indirect.a.04	indirect.a.04
+косвен	indirect.a.04	implicit.a.01	indirect.a.04	implicit.a.01
+непряк	indirect.a.04	implicit.a.01	indirect.a.04	implicit.a.01
+дискретен	discreet.a.01	discreet.a.01
+сдържан	discreet.a.01	discreet.a.01
+особен	distinct.a.02	distinct.a.02
+отчетлив	distinct.a.02	distinct.a.02
+господстващ	dominant.a.01	dominant.a.01
+доминиращ	dominant.a.01	dominant.a.01
+оживен	lively.a.01	lively.a.01
+отегчителен	dull.a.01	dull.a.01
+скучен	dull.a.01	dull.a.01
+действен	dynamic.a.01	operational.a.01	dynamic.a.01	operational.a.01
+динамичен	dynamic.a.01	dynamic.a.01
+енергичен	dynamic.a.01	dynamic.a.01
+нетърпелив	eager.a.01	eager.a.01
+ранен	early.a.01	early.a.01
+несигурен	uneasy.a.01	uneasy.a.01
+неспокоен	uneasy.a.01	uneasy.a.01
+притеснен	uneasy.a.01	uneasy.a.01
+ефективен	effective.a.01	effective.a.01
+ефикасен	effective.a.01	efficient.a.01	effective.a.01	efficient.a.01
+резултатен	efficient.a.01	efficient.a.01
+незадължителен	optional.a.01	optional.a.01
+факултативен	optional.a.01	optional.a.01
+елегантен	elegant.a.01	elegant.a.01
+изискан	elegant.a.01	sophisticated.a.01	elegant.a.01	sophisticated.a.01
+емпиричен	empirical.a.01	empirical.a.01
+опитен	empirical.a.01	experienced.a.01	skilled.a.01	experimental.a.01	empirical.a.01	experienced.a.01	skilled.a.01	experimental.a.01
+приложен	applied.a.01	applied.a.01
+безработен	unemployed.a.01	unemployed.a.01
+насърчителен	encouraging.a.01	encouraging.a.01
+обнадеждаващ	encouraging.a.01	encouraging.a.01
+окуражителен	encouraging.a.01	encouraging.a.01
+ентусиазиран	enthusiastic.a.01	enthusiastic.a.01
+балансиран	balanced.a.01	balanced.a.01
+уравновесен	balanced.a.01	balanced.a.01
+двузначен	equivocal.a.01	equivocal.a.01
+двусмислен	equivocal.a.01	equivocal.a.01
+многозначен	equivocal.a.01	equivocal.a.01
+основен	essential.a.02	primary.a.01	basic.a.01	essential.a.02	primary.a.01	basic.a.01
+съществен	essential.a.02	essential.a.02
+етичен	ethical.a.02	ethical.a.02
+морален	ethical.a.02	ethical.a.02
+нравствен	ethical.a.02	ethical.a.02
+равномерен	even.a.03	even.a.03
+четен	even.a.01	even.a.01
+нечетен	odd.a.01	odd.a.01
+възбуден	excited.a.02	excited.a.02
+вълнуващ	exciting.a.01	moving.a.02	exciting.a.01	moving.a.02
+изчезнал	extinct.a.01	extinct.a.01
+вероятен	expected.a.01	probable.a.01	expected.a.01	probable.a.01
+очакван	expected.a.01	expected.a.01
+ненадеен	unexpected.a.01	sudden.a.01	surprising.a.01	unexpected.a.01	sudden.a.01	surprising.a.01
+неочакван	unexpected.a.01	sudden.a.01	surprising.a.01	unexpected.a.01	sudden.a.01	surprising.a.01
+непредвиден	unexpected.a.01	unexpected.a.01
+скъп	expensive.a.01	valuable.a.01	expensive.a.01	valuable.a.01
+евтин	cheap.a.01	cheap.a.01
+безусловен	explicit.a.01	explicit.a.01
+изричен	explicit.a.01	explicit.a.01
+категоричен	explicit.a.01	explicit.a.01
+външен	external.a.01	outer.a.01	external.a.01	outer.a.01
+вътрешен	internal.a.01	inner.a.02	domestic.a.01	indoor.a.01	internal.a.01	inner.a.02	domestic.a.01	indoor.a.01
+справедлив	equitable.a.01	objective.a.01	equitable.a.01	objective.a.01
+предан	faithful.a.03	loyal.a.01	faithful.a.03	loyal.a.01
+лоялен	loyal.a.01	straight.a.06	loyal.a.01	straight.a.06
+известен	familiar.a.01	familiar.a.01
+познат	familiar.a.01	familiar.a.01
+странен	strange.a.01	strange.a.01
+модерен	stylish.a.01	modern.a.01	stylish.a.01	modern.a.01
+бавен	slow.a.01	slow.a.01
+муден	slow.a.01	slow.a.01
+бърз	fast.a.03	fast.a.03
+взискателен	fastidious.a.01	nonindulgent.a.01	fastidious.a.01	nonindulgent.a.01
+капризен	fastidious.a.01	fastidious.a.01
+претенциозен	fastidious.a.01	fastidious.a.01
+придирчив	fastidious.a.01	fastidious.a.01
+дебел	fat.a.01	thick.a.01	fat.a.01	thick.a.01
+слаб	thin.a.02	weak.a.01	thin.a.02	weak.a.01
+тънък	thin.a.02	thin.a.02
+благоприятен	favorable.a.01	favorable.a.01
+завършен	finished.a.02	finished.a.02
+безбрежен	infinite.a.01	infinite.a.01
+безграничен	infinite.a.01	infinite.a.01
+безкраен	infinite.a.01	infinite.a.01
+безпределен	infinite.a.01	infinite.a.01
+пръв	first.a.01	first.a.01
+първи	first.a.01	first.a.01
+междинен	intermediate.a.01	intermediate.a.01
+среден	intermediate.a.01	intermediate.a.01
+гъвкав	flexible.a.02	flexible.a.02
+роден	native.a.02	native.a.02
+неофициален	informal.a.01	informal.a.01
+неформален	informal.a.01	informal.a.01
+книжовен	formal.a.03	formal.a.03
+злочест	unfortunate.a.01	unfortunate.a.01
+нещастен	unfortunate.a.01	unfortunate.a.01
+ароматен	fragrant.a.01	fragrant.a.01
+ароматичен	fragrant.a.01	fragrant.a.01
+благоуханен	fragrant.a.01	fragrant.a.01
+пресен	fresh.a.01	fresh.a.01
+свеж	fresh.a.01	fresh.a.01
+дружески	friendly.a.01	friendly.a.01
+приятелски	friendly.a.01	friendly.a.01
+празен	empty.a.01	empty.a.01
+пълен_работен_ден	full-time.a.01	full-time.a.01
+непълен_работен_ден	part-time.a.01	part-time.a.01
+функционален	functional.a.01	functional.a.01
+установен	specified.a.01	established.a.01	standard.a.01	specified.a.01	established.a.01	standard.a.01
+уточнен	specified.a.01	specified.a.01
+генерален	general.a.01	general.a.01
+федерален	federal.a.04	federal.a.04
+благороден	generous.a.02	noble.a.03	noble.a.02	generous.a.02	noble.a.03	noble.a.02
+великодушен	generous.a.02	generous.a.02
+щедър	generous.a.02	generous.a.02
+автентичен	genuine.a.01	genuine.a.01
+истински	genuine.a.01	real.a.01	true.a.01	genuine.a.01	real.a.01	true.a.01
+оригинален	genuine.a.01	original.a.03	genuine.a.01	original.a.03
+даровит	talented.a.01	talented.a.01
+надарен	talented.a.01	talented.a.01
+талантлив	talented.a.01	talented.a.01
+знаменит	glorious.a.01	glorious.a.01
+прочут	glorious.a.01	glorious.a.01
+славен	glorious.a.01	glorious.a.01
+неловък	awkward.a.02	awkward.a.02
+непохватен	awkward.a.02	awkward.a.02
+несръчен	awkward.a.02	awkward.a.02
+тромав	awkward.a.02	awkward.a.02
+постепенен	gradual.a.01	gradual.a.01
+внезапен	sudden.a.01	sudden.a.01
+стръмен	steep.a.01	steep.a.01
+благодарен	grateful.a.01	grateful.a.01
+признателен	grateful.a.01	grateful.a.01
+радостен	happy.a.01	glad.a.01	happy.a.01	glad.a.01
+щастлив	happy.a.01	glad.a.01	lucky.a.02	happy.a.01	glad.a.01	lucky.a.02
+корав	hard.a.03	hard.a.03
+твърд	hard.a.03	solid.a.02	hard.a.03	solid.a.02
+мек	soft.a.01	soft.a.01
+тежък	heavy.a.01	tough.a.01	heavy.a.01	tough.a.01
+полезен	helpful.a.01	useful.a.01	helpful.a.01	useful.a.01
+хомосексуален	homosexual.a.01	homosexual.a.01
+нисък	low.a.02	low.a.02
+висок	high.a.01	loud.a.01	tall.a.01	high.a.01	loud.a.01	tall.a.01
+почтен	honest.a.01	respectable.a.01	straight.a.06	honest.a.01	respectable.a.01	straight.a.06
+честен	honest.a.01	straight.a.06	honest.a.01	straight.a.06
+хоризонтален	horizontal.a.01	horizontal.a.01
+вертикален	vertical.a.01	vertical.a.01
+отвесен	vertical.a.01	vertical.a.01
+неприятелски	hostile.a.01	hostile.a.01
+горещ	hot.a.01	hot.a.03	hot.a.01	hot.a.03
+топъл	hot.a.01	warm.a.01	warm.a.02	hot.a.01	warm.a.01	warm.a.02
+студен	cold.a.01	cold.a.02	cold.a.01	cold.a.02
+хладен	cold.a.01	cool.a.01	cool.a.04	cold.a.01	cool.a.01	cool.a.04
+недружелюбен	cold.a.02	cold.a.02
+гладен	hungry.a.01	hungry.a.01
+жаден	thirsty.a.02	thirsty.a.02
+внушителен	impressive.a.01	impressive.a.01
+впечатляващ	impressive.a.01	impressive.a.01
+строг	nonindulgent.a.01	nonindulgent.a.01
+индустриален	industrial.a.02	industrial.a.02
+промишлен	industrial.a.02	industrial.a.02
+невинен	innocent.a.01	pure.a.06	innocent.a.01	pure.a.06
+интегриран	integrated.a.03	integrated.a.03
+занимателен	interesting.a.01	interesting.a.01
+интересен	interesting.a.01	interesting.a.01
+увлекателен	interesting.a.01	interesting.a.01
+натъжен	sad.a.01	sad.a.01
+опечален	sad.a.01	sad.a.01
+печален	sad.a.01	sad.a.01
+скръбен	sad.a.01	sad.a.01
+тъжен	sad.a.01	sad.a.01
+мил	kind.a.01	sympathetic.a.04	kind.a.01	sympathetic.a.04
+голям	large.a.01	major.a.02	large.a.01	major.a.02
+малък	small.a.01	small.a.01
+законен	legal.a.01	legal.a.01
+правен	legal.a.01	legal.a.01
+юридически	legal.a.01	legal.a.01
+незаконен	illegal.a.01	illegal.a.01
+противозаконен	illegal.a.01	illegal.a.01
+инакъв	unlike.a.01	unlike.a.01
+нееднакъв	unlike.a.01	unlike.a.01
+различен	unlike.a.01	unlike.a.02	unlike.a.01	unlike.a.02
+подобен	alike.a.01	alike.a.01
+сходен	alike.a.01	alike.a.01
+ограничен	limited.a.01	restricted.a.01	limited.a.01	restricted.a.01
+на_живо	live.a.01	live.a.01
+логичен	logical.a.01	reasonable.a.01	logical.a.01	reasonable.a.01
+логически	logical.a.01	logical.a.01
+дълъг	long.a.02	long.a.01	long.a.02	long.a.01
+продължителен	long.a.01	long.a.01
+кратък	short.a.01	short.a.01
+непродължителен	short.a.01	short.a.01
+широк	loose.a.03	loose.a.03
+опънат	tight.a.01	tense.a.03	tight.a.01	tense.a.03
+стегнат	tight.a.01	tight.a.01
+загубен	lost.a.01	lost.a.03	lost.a.01	lost.a.03
+изгубен	lost.a.01	lost.a.03	lost.a.01	lost.a.03
+пропаднал	lost.a.03	lost.a.03
+силен	loud.a.01	intense.a.01	potent.a.03	powerful.a.01	violent.a.01	loud.a.01	intense.a.01	potent.a.03	powerful.a.01	violent.a.01
+късметлийски	lucky.a.02	lucky.a.02
+важен	major.a.02	significant.a.01	major.a.02	significant.a.01
+второстепенен	minor.a.02	secondary.a.01	minor.a.02	secondary.a.01
+маловажен	minor.a.02	minor.a.02
+незначителен	minor.a.02	minor.a.02
+пълнолетен	major.a.07	major.a.07
+женен	married.a.01	married.a.01
+омъжена	married.a.01	married.a.01
+неженен	unmarried.a.01	unmarried.a.01
+неомъжена	unmarried.a.01	unmarried.a.01
+женски	womanly.a.01	womanly.a.01
+зрял	mature.a.03	mature.a.03
+узрял	ripe.a.01	ripe.a.01
+недозрял	green.a.03	green.a.03
+незрял	green.a.03	green.a.03
+сезонен	seasonal.a.01	seasonal.a.01
+максимален	maximal.a.01	maximal.a.01
+минимален	minimal.a.01	minimal.a.01
+смислен	meaningful.a.01	meaningful.a.01
+механичен	mechanical.a.01	mechanical.a.01
+механически	mechanical.a.01	mechanical.a.01
+музикален	musical.a.02	musical.a.02
+граждански	civilian.a.01	civilian.a.01
+цивилен	civilian.a.01	civilian.a.01
+мобилен	mobile.a.02	mobile.a.02
+подвижен	mobile.a.02	mobile.a.02
+съвременен	modern.a.01	modern.a.01
+скромен	modest.a.04	modest.a.04
+молекулен	molecular.a.02	molecular.a.02
+молекулярен	molecular.a.02	molecular.a.02
+трогателен	moving.a.02	moving.a.02
+международен	international.a.01	international.a.01
+изкуствен	artificial.a.01	artificial.a.01
+краен	ultimate.a.01	ultimate.a.01
+последен	ultimate.a.01	ultimate.a.01
+необходим	necessary.a.01	necessary.a.01
+нужен	necessary.a.01	necessary.a.01
+потребен	necessary.a.01	necessary.a.01
+приятен	nice.a.01	pleasant.a.01	nice.a.01	pleasant.a.01
+хубав	nice.a.01	nice.a.01
+страшен	nasty.a.01	nasty.a.01
+ужасен	nasty.a.01	nasty.a.01
+възвишен	noble.a.03	noble.a.03
+аристократичен	noble.a.02	noble.a.02
+знатен	noble.a.02	noble.a.02
+нормален	normal.a.01	normal.a.01
+анормален	abnormal.a.01	abnormal.a.01
+ненормален	abnormal.a.01	abnormal.a.01
+необичаен	abnormal.a.01	extraordinary.a.01	abnormal.a.01	extraordinary.a.01
+безпристрастен	objective.a.01	objective.a.01
+обективен	objective.a.01	objective.a.01
+субективен	subjective.a.01	subjective.a.01
+очевиден	obvious.a.01	obvious.a.01
+дразнещ	offensive.a.05	offensive.a.05
+зловонен	offensive.a.05	offensive.a.05
+отвратителен	offensive.a.05	unpleasant.a.01	offensive.a.05	unpleasant.a.01
+официален	official.a.01	official.a.01
+нов	new.a.01	new.a.01
+стар	old.a.01	old.a.01
+затворен	shut.a.01	shut.a.01
+отворен	open.a.02	open.a.02
+противоположен	opposed.a.01	opposed.a.01
+оптимистичен	optimistic.a.01	optimistic.a.01
+устен	oral.a.03	oral.a.03
+изключителен	extraordinary.a.01	exclusive.a.02	extraordinary.a.01	exclusive.a.02
+необикновен	extraordinary.a.01	extraordinary.a.01
+органичен	organic.a.02	organic.a.02
+органически	organic.a.02	organic.a.02
+самобитен	original.a.03	original.a.03
+ортодоксален	orthodox.a.02	orthodox.a.02
+правоверен	orthodox.a.02	orthodox.a.02
+навън	outdoor.a.01	outdoor.a.01
+на_открито	outdoor.a.01	outdoor.a.01
+непокрит	bare.a.04	bare.a.04
+оголен	bare.a.04	bare.a.04
+открит	overt.a.01	overt.a.01
+явен	overt.a.01	overt.a.01
+болезнен	painful.a.01	painful.a.01
+мъчителен	painful.a.01	painful.a.01
+паралелен	parallel.a.01	parallel.a.01
+успореден	parallel.a.01	parallel.a.01
+родителски	parental.a.02	parental.a.02
+пламенен	passionate.a.01	passionate.a.01
+страстен	passionate.a.01	passionate.a.01
+изминал	past.a.01	past.a.01
+изтекъл	past.a.01	past.a.01
+минал	past.a.01	past.a.01
+настоящ	present.a.01	present.a.01
+сегашен	present.a.01	present.a.01
+търпелив	patient.a.01	patient.a.01
+мирен	peaceful.a.01	quiet.a.01	peaceful.a.01	quiet.a.01
+спокоен	peaceful.a.01	quiet.a.01	peaceful.a.01	quiet.a.01
+идеален	perfect.a.01	perfect.a.01
+перфектен	perfect.a.01	perfect.a.01
+съвършен	perfect.a.01	perfect.a.01
+временен	impermanent.a.01	impermanent.a.01
+упорит	persistent.a.03	stubborn.a.01	persistent.a.03	stubborn.a.01
+личен	personal.a.01	personal.a.01
+персонален	personal.a.01	personal.a.01
+телесен	physical.a.01	physical.a.01
+физически	physical.a.01	physical.a.01
+религиозен	religious.a.02	religious.a.02
+прост	plain.a.02	plain.a.02
+политически	political.a.01	political.a.01
+популярен	popular.a.01	popular.a.01
+неутрален	neutral.a.04	neutral.a.04
+отрицателен	negative.a.05	negative.a.04	negative.a.05	negative.a.04
+позитивен	positive.a.04	positive.a.04
+положителен	positive.a.04	positive.a.04
+невъзможен	impossible.a.01	impossible.a.01
+неизпълним	impossible.a.01	impossible.a.01
+неосъществим	impossible.a.01	impossible.a.01
+могъщ	powerful.a.01	powerful.a.01
+влиятелен	influential.a.01	influential.a.01
+практически	practical.a.01	practical.a.01
+предсказуем	predictable.a.01	predictable.a.01
+присъстващ	present.a.02	present.a.02
+липсващ	absent.a.01	absent.a.01
+отсъстващ	absent.a.01	absent.a.01
+изходен	primary.a.01	primary.a.01
+начален	primary.a.01	primary.a.01
+първичен	primary.a.01	primary.a.01
+първоначален	primary.a.01	primary.a.01
+вторичен	secondary.a.01	secondary.a.01
+базисен	basic.a.01	basic.a.01
+обществен	public.a.01	social.a.02	public.a.01	social.a.02
+привилегирован	privileged.a.01	privileged.a.01
+продуктивен	generative.a.01	generative.a.01
+производителен	generative.a.01	generative.a.01
+прозорлив	profound.a.01	profound.a.01
+проникновен	profound.a.01	profound.a.01
+проницателен	profound.a.01	profound.a.01
+напредничав	progressive.a.01	progressive.a.01
+прогресивен	progressive.a.01	progressive.a.01
+горд	proud.a.01	proud.a.01
+непокварен	pure.a.06	pure.a.06
+непорочен	pure.a.06	pure.a.06
+квалифициран	qualified.a.01	skilled.a.01	qualified.a.01	skilled.a.01
+безшумен	quiet.a.02	quiet.a.02
+тих	quiet.a.02	quiet.a.02
+шумен	noisy.a.01	noisy.a.01
+случаен	random.a.01	random.a.01
+рационален	rational.a.01	rational.a.01
+емоционален	emotional.a.01	emotional.a.01
+расов	racial.a.02	racial.a.02
+готов	ready.a.01	ready.a.01
+реалистичен	realistic.a.01	realistic.a.01
+разумен	reasonable.a.01	reasonable.a.01
+взаимен	reciprocal.a.01	reciprocal.a.01
+необработен	unrefined.a.01	unrefined.a.01
+непречистен	unrefined.a.01	unrefined.a.01
+нерафиниран	unrefined.a.01	unrefined.a.01
+редовен	regular.a.01	regular.a.01
+еднакъв	uniform.a.01	uniform.a.01
+сроден	related.a.02	related.a.02
+свързан	related.a.01	related.a.01
+релевантен	relevant.a.01	relevant.a.01
+ирелевантен	irrelevant.a.01	irrelevant.a.01
+показателен	representative.a.02	representative.a.02
+представителен	representative.a.02	representative.a.02
+типичен	representative.a.02	typical.a.01	representative.a.02	typical.a.01
+порядъчен	respectable.a.01	respectable.a.01
+уважаван	respectable.a.01	respectable.a.01
+отговорен	responsible.a.01	responsible.a.01
+революционен	revolutionary.a.04	revolutionary.a.04
+богат	rich.a.01	rich.a.01
+заможен	rich.a.01	rich.a.01
+беден	poor.a.03	poor.a.03
+ляв	left.a.04	left.a.04
+неморален	wrong.a.02	wrong.a.02
+кръгъл	round.a.01	round.a.01
+квадратен	square.a.01	square.a.01
+свещен	holy.a.01	sacred.a.01	holy.a.01	sacred.a.01
+безопасен	safe.a.01	safe.a.01
+опасен	dangerous.a.01	dangerous.a.01
+друг	other.a.01	other.a.01
+задоволителен	satisfactory.a.01	satisfactory.a.01
+научен	scientific.a.02	scientific.a.02
+старши	senior.a.01	senior.a.01
+младши	junior.a.01	junior.a.01
+чувствителен	sensitive.a.02	sensitive.a.02
+отделен	separate.a.01	separate.a.01
+сериозен	unplayful.a.01	unplayful.a.01
+местен	resident.a.01	regional.a.01	resident.a.01	regional.a.01
+полов	sexual.a.02	sexual.a.02
+сексуален	sexual.a.02	sexual.a.02
+незрящ	blind.a.01	blind.a.01
+сляп	blind.a.01	blind.a.01
+комплексен	complex.a.01	complex.a.01
+сложен	complex.a.01	complex.a.01
+многоброен	multiple.a.01	multiple.a.01
+многочислен	multiple.a.01	multiple.a.01
+вербален	verbal.a.04	verbal.a.04
+словесен	verbal.a.04	verbal.a.04
+груб	coarse.a.01	rough.a.01	coarse.a.01	rough.a.01
+ситен	fine.a.05	fine.a.05
+плъзгав	slippery.a.01	slippery.a.01
+хлъзгав	slippery.a.01	slippery.a.01
+гладък	smooth.a.01	smooth.a.01
+грапав	rough.a.01	rough.a.01
+неравен	rough.a.01	rough.a.01
+социален	social.a.02	social.a.02
+стаден	gregarious.a.01	gregarious.a.01
+течен	liquid.a.01	liquid.a.01
+масивен	solid.a.03	solid.a.03
+солиден	solid.a.03	solid.a.03
+здрав	sound.a.03	sound.a.03
+спонтанен	spontaneous.a.01	spontaneous.a.01
+писмен	written.a.01	written.a.01
+стабилен	stable.a.01	steady.a.01	stable.a.01	steady.a.01
+устойчив	stable.a.01	stable.a.01
+общоприет	standard.a.01	standard.a.01
+стандартен	standard.a.01	standard.a.01
+прав	straight.a.08	straight.a.08
+инат	stubborn.a.01	stubborn.a.01
+успешен	successful.a.01	successful.a.01
+достатъчен	sufficient.a.01	sufficient.a.01
+оскъден	insufficient.a.01	insufficient.a.01
+висш	superior.a.01	superior.a.01
+изненадан	surprised.a.01	surprised.a.01
+изненадващ	surprising.a.01	surprising.a.01
+сладък	sweet.a.01	sweet.a.01
+кисел	sour.a.02	sour.a.02
+симпатичн	sympathetic.a.04	sympathetic.a.04
+методичен	systematic.a.01	systematic.a.01
+систематичен	systematic.a.01	systematic.a.01
+системен	systematic.a.01	systematic.a.01
+див	wild.a.02	wild.a.01	wild.a.02	wild.a.01
+бесен	wild.a.01	violent.a.01	wild.a.01	violent.a.01
+буен	wild.a.01	violent.a.01	wild.a.01	violent.a.01
+необуздан	wild.a.01	wild.a.01
+вкусен	tasty.a.01	tasty.a.01
+изпънат	tense.a.03	tense.a.03
+обтегнат	tense.a.03	tense.a.03
+напрегнат	tense.a.01	tense.a.01
+гъст	thick.a.03	thick.a.03
+подреден	tidy.a.01	tidy.a.01
+спретнат	tidy.a.01	tidy.a.01
+изморен	tired.a.01	tired.a.01
+уморен	tired.a.01	tired.a.01
+толерантен	tolerant.a.01	tolerant.a.01
+крехък	tender.a.05	tender.a.05
+жилав	tough.a.03	tough.a.03
+издръжлив	tough.a.03	tough.a.03
+як	tough.a.03	tough.a.03
+любящ	tender.a.01	tender.a.01
+отровен	toxic.a.01	toxic.a.01
+токсичен	toxic.a.01	toxic.a.01
+лъжлив	false.a.01	false.a.01
+неверен	false.a.01	false.a.01
+фалшив	false.a.01	false.a.01
+безполезен	useless.a.01	useless.a.01
+валиден	valid.a.01	valid.a.01
+ценен	valuable.a.01	valuable.a.01
+разнообразен	varied.a.01	varied.a.01
+яростен	violent.a.01	violent.a.01
+видим	visible.a.01	visible.a.01
+невидим	invisible.a.01	invisible.a.01
+доброволен	voluntary.a.01	voluntary.a.01
+уязвим	vulnerable.a.01	vulnerable.a.01
+прохладен	cool.a.01	cool.a.01
+сърдечен	warm.a.02	warm.a.02
+безразличен	cool.a.04	cool.a.04
+равнодушен	cool.a.04	cool.a.04
+добре_дошъл	welcome.a.01	welcome.a.01
+добре	well.a.01	well.a.01
+болен	ill.a.01	ill.a.01
+измокрен	wet.a.01	wet.a.01
+мокър	wet.a.01	wet.a.01
+намокрен	wet.a.01	wet.a.01
+сух	dry.a.01	dry.a.01
+тесен	narrow.a.01	narrow.a.01
+мъдър	wise.a.01	wise.a.01
+безразсъден	foolish.a.01	foolish.a.01
+неразумен	foolish.a.01	foolish.a.01
+академичен	academic.a.01	academic.a.01
+академически	academic.a.01	academic.a.01
+археологичен	archaeological.a.01	archaeological.a.01
+археологически	archaeological.a.01	archaeological.a.01
+градски	civic.a.01	urban.a.01	civic.a.01	urban.a.01
+общински	municipal.a.01	municipal.a.01
+дигитален	digital.a.01	digital.a.01
+цифров	digital.a.01	digital.a.01
+драматичен	dramatic.a.03	dramatic.a.03
+драматически	dramatic.a.03	dramatic.a.03
+икономически	economic.a.02	economic.a.02
+стопански	economic.a.02	economic.a.02
+електронен	electronic.a.01	electronic.a.01
+генетичен	genetic.a.04	genetic.a.04
+човешки	human.a.01	human.a.01
+имперски	imperial.a.01	imperial.a.01
+съдебен	judicial.a.03	judicial.a.03
+военен	military.a.01	military.a.01
+земеделски	agricultural.a.01	agricultural.a.01
+селскостопански	agricultural.a.01	agricultural.a.01
+селски	rural.a.02	rural.a.02
+слънчев	solar.a.01	solar.a.01
+технически	technical.a.01	technical.a.01
+урбанистичен	urban.a.01	urban.a.01
+законодателен	legislative.a.01	legislative.a.01
+литературен	literary.a.01	literary.a.01
+професионален	professional.a.04	vocational.a.01	occupational.a.01	professional.a.04	vocational.a.01	occupational.a.01
+пространствен	spatial.a.01	spatial.a.01
+паричен	fiscal.a.01	fiscal.a.01
+финансов	fiscal.a.01	fiscal.a.01
+философски	philosophic.a.01	philosophic.a.01
+визуален	ocular.a.02	ocular.a.02
+зрителен	ocular.a.02	ocular.a.02
+областен	regional.a.01	regional.a.01
+районен	regional.a.01	regional.a.01
+регионален	regional.a.01	regional.a.01
+континентален	continental.a.03	continental.a.03
+морски	marine.a.01	marine.a.01
+структурен	structural.a.02	structural.a.02
+мисловен	mental.a.02	mental.a.02
+умствен	mental.a.02	mental.a.02
+културен	cultural.a.01	cultural.a.01
+нервен	nervous.a.03	nervous.a.03
+геоложки	geological.a.01	geological.a.01
+статистичен	statistical.a.01	statistical.a.01
+статистически	statistical.a.01	statistical.a.01
+домашен	domestic.a.02	domestic.a.02
+семеен	domestic.a.02	domestic.a.02
+исторически	historical.a.01	historical.a.01
+магнитен	magnetic.a.01	magnetic.a.01
+тропичен	tropical.a.02	tropical.a.02
+тропически	tropical.a.02	tropical.a.02
+математически	mathematical.a.01	mathematical.a.01
+експериментален	experimental.a.01	experimental.a.01
+пробен	experimental.a.01	experimental.a.01
+природен	environmental.a.01	environmental.a.01
+образователен	educational.a.01	educational.a.01
+педагогически	educational.a.01	educational.a.01
+стратегически	strategic.a.01	strategic.a.01
+количествен	quantitative.a.02	quantitative.a.02
+президентски	presidential.a.01	presidential.a.01
+корпоративен	corporate.a.01	corporate.a.01
+национален	national.a.01	national.a.01
+средновековен	medieval.a.01	medieval.a.01
+артистичен	artistic.a.01	artistic.a.01
+художествен	artistic.a.01	artistic.a.01
+оперативен	operational.a.01	operational.a.01
+бюрократичен	bureaucratic.a.01	bureaucratic.a.01
+жилищен	residential.a.02	residential.a.02

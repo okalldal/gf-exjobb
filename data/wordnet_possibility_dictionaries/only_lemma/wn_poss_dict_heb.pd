@@ -1,0 +1,4832 @@
+יֵשׁוּת	entity.n.01
+הַפְשָׁטָה	abstraction.n.06
+אוֹבְּיֶקְט	object.n.01
+חֵפֶץ	object.n.01
+מִכְלוֹל	whole.n.02
+חַי	organism.n.01	populate.v.01
+חַיִּים	life.n.10
+תָּא	cell.n.02
+יֵשׁוּת-גּוֹרֶמֶת	causal_agent.n.01
+אָדָם	person.n.01
+אִישׁ	person.n.01	husband.n.01
+מִישֶׁהוּ	person.n.01
+בַּעַל-חַיִּים	animal.n.01
+חַיָּה	animal.n.01
+צֶמַח	plant.n.02
+עֶצֶם-טִבְעִי	natural_object.n.01
+עֶצֶם	matter.n.03	bone.n.01
+אֹכֶל	food.n.01
+אַרְטִיפָקְט	artifact.n.01
+חֵפֶץ_מְלָאכוּתִי	artifact.n.01
+מַהוּת-פְּסִיכוֹלוֹגִית	psychological_feature.n.01
+קוֹגְנִיצְיָה	cognition.n.01
+מֵנִיעַ	motivation.n.01
+מַצָּב	state.n.02	position.n.07	condition.n.01	situation.n.02
+הַרְגָּשָׁה	feeling.n.01
+מִקּוּם	location.n.01
+אֵרוּעַ	event.n.01	affair.n.03	event.n.03
+אַקְט	act.n.02
+מַעֲשֶׂה	act.n.02
+פְּעֻלָּה	act.n.02
+קְבוּצָה	group.n.01	group.n.03	social_group.n.01	class.n.01	team.n.01
+קֶשֶׁר	relation.n.01	knot.n.02	relationship.n.02
+קֶשֶׁר-חֶבְרָתִי	social_relation.n.01
+תִּקְשֹׁרֶת	communication.n.02	communication.n.01
+!כַּמּוּת	measure.n.02	quantity.n.02	quantity.n.03
+מִדָּה	measure.n.02	extent.n.01
+הֶשֵּׂג	accomplishment.n.01
+!תְּנוּעָה	dealings.n.01	motion.n.03	traffic.n.02	gesture.n.02	vowel.n.02	movement.n.03	apparent_motion.n.01
+הַשָּׂגָה	acquiring.n.01
+רְכִישָׁה	acquiring.n.01
+גְּרִימָה	causing.n.01
+הִסְתַּלְּקוּת	departure.n.01
+עֲזִיבָה	departure.n.01
+מִמּוּשׁ	implementation.n.02
+הַשְׁוָאָה	equalization.n.01	comparison.n.01
+!הַחְלָמָה	recovery.n.03
+בְּרִיחָה	running_away.n.01
+כְּנִיסָה	entrance.n.03	entrance.n.01	entrance.n.02
+הַרְשָׁמָה	registration.n.01
+פִּנּוּי	evacuation.n.02	eviction.n.02
+הֲגִירָה-יוֹצֵאת	emigration.n.01
+הֲגִירָה-נִכְנֶסֶת	immigration.n.01
+מְנוּסָה	escape.n.01
+GAP!	evasion.n.04	disappointment.n.02	foul_ball.n.01	coaching.n.01	fight.n.05	football.n.01	completion.n.01	labor.n.02	wrath.n.02	crack.n.09	waterproofing.n.01	gaze.n.01	church_service.n.01	christening.n.01	kit.n.03	chicken.n.02	greek_partridge.n.01	soldier.n.02	attire.n.01	auditorium.n.01	baseball_glove.n.01	billboard.n.01	bloomers.n.01	blouse.n.01	bronze.n.02	cake.n.01	camp.n.01	cell.n.06	closet.n.04	clubroom.n.01	crop.n.05	drawing_card.n.02	fetter.n.01	gown.n.04	guy.n.02	hardware_store.n.01	honeycomb.n.02	island.n.02	kit.n.01	knob.n.04	lamp_chimney.n.01	lingerie.n.01	lorry.n.01	marble.n.03	mule.n.02	openwork.n.01	penknife.n.01	root_cellar.n.01	ward.n.03	jocoseness.n.01	abstinence.n.01	childishness.n.01	nap.n.02	rose.n.03	ferocity.n.01	area.n.03	coupon.n.02	intention.n.02	medicine.n.01	pagination.n.01	envoy.n.03	revelation.n.04	hail.n.03	associate_degree.n.01	curfew.n.02	elephant.n.02	kuki.n.01	greek.n.01	attic.n.02	commerce.n.03	associate.n.04	cheep.n.01	world_series.n.01	independence.n.02	liking.n.01	gravity.n.03	encouragement.n.03	rabbit.n.03	onion.n.03	feed.n.01	varsity.n.02	corps.n.02	platoon.n.02	division.n.08	house.n.04	house.n.03	british_labour_party.n.01	nation.n.04	zone.n.02	hilltop.n.01	rough.n.01	anchorage.n.03	independence.n.03	greenwich_village.n.01	inner_light.n.01	mare.n.02	milk.n.03	pass.n.04	death.n.06	adult.n.01	defender.n.01	entertainer.n.01	expert.n.01	intellectual.n.01	leader.n.01	brave.n.01	european.n.01	frenchman.n.01	greek.n.02	pole.n.02	spaniard.n.01	accompanist.n.01	acrobat.n.01	air_force_officer.n.01	albino.n.01	alumnus.n.01	arbiter.n.02	architect.n.01	artist.n.01	babysitter.n.01	beggar.n.01	beloved.n.01	bolshevik.n.01	breadwinner.n.01	butter.n.02	cadet.n.01	cantor.n.02	carpenter.n.01	censor.n.02	champion.n.01	citizen.n.01	civilian.n.01	clown.n.02	comedian.n.01	commanding_officer.n.01	companion.n.02	comrade.n.02	conservative.n.01	convert.n.01	convict.n.01	cook.n.01	cookie.n.02	coordinator.n.01	craftsman.n.03	curator.n.01	dancer.n.01	deaf_person.n.01	defamer.n.01	defeatist.n.01	defense_attorney.n.01	depositor.n.01	deserter.n.02	detective.n.01	detective.n.02	doctor.n.01	dwarf.n.01	eavesdropper.n.01	educator.n.01	emigrant.n.01	employer.n.01	evacuee.n.01	examiner.n.01	exchanger.n.01	exhibitionist.n.02	exploiter.n.01	fan.n.03	farmer.n.01	fence.n.02	fencer.n.01	firstborn.n.01	forger.n.02	friend.n.01	glass_cutter.n.02	grammarian.n.01	guarantor.n.01	gypsy.n.02	hearer.n.01	hiker.n.01	humpback.n.02	hunter.n.01	hunter.n.02	idler.n.01	idol.n.02	ignoramus.n.01	immigrant.n.01	inquirer.n.01	inspector.n.01	interior_designer.n.01	intern.n.01	interviewee.n.01	inventor.n.01	investor.n.01	judge.n.01	juggler.n.01	relative.n.01	lawyer.n.01	leaseholder.n.01	lector.n.02	lender.n.01	leper.n.02	leper.n.01	liar.n.01	librarian.n.01	linguist.n.01	liver.n.04	lounge_lizard.n.01	marksman.n.01	military_officer.n.01	narrator.n.01	neighbor.n.01	opportunist.n.01	partner.n.03	performer.n.01	pioneer.n.02	pioneer.n.01	planner.n.01	policeman.n.01	prisoner.n.01	prisoner_of_war.n.01	professional.n.01	programmer.n.01	prosecutor.n.01	record-breaker.n.01	referee.n.01	refinisher.n.01	reformer.n.01	republican.n.02	retailer.n.01	revolutionist.n.01	robber.n.01	ruler.n.01	salesperson.n.01	settler.n.01	sick_person.n.01	signaler.n.01	singer.n.01	smuggler.n.01	soldier.n.01	soloist.n.01	rebel.n.01	spendthrift.n.01	spouse.n.01	stenographer.n.01	subscriber.n.02	supplier.n.01	surgeon.n.01	suspect.n.01	swimmer.n.02	swimmer.n.01	teacher.n.01	terrorist.n.01	thief.n.01	tourist.n.01	tracker.n.01	trainee.n.01	treasurer.n.01	umpire.n.01	volunteer.n.02	volunteer.n.01	voter.n.01	warrior.n.01	reed.n.03	teach.n.01	sea.n.03	lens.n.02	gate.n.03	contribution.n.04	nail.n.03	nihil.n.01	worth.n.01	can.n.02	crate.n.02	dustpan.n.01	violence.n.03	stitch.n.02	grace.n.01	kid.n.02	lapin.n.01	fencing_material.n.01	silk.n.02	snow.n.02	dead.n.02	curfew.n.01	pus.n.01	wash_up.v.01	get_worse.v.01	take_up.v.02	dial.v.02	request.v.02	defy.v.03	officiate.v.02	hold.v.33	swing.v.07	trim.v.06	appoint.v.03	chartered.a.01	whole.a.02	cross-eyed.a.01	tanned.a.02	punitive.a.01	racial.a.01	chartered.a.01	whole.a.02	cross-eyed.a.01	tanned.a.02	punitive.a.01	racial.a.01	meanwhile.r.01	more.r.01	west.r.01	very.r.02
+שִׂיא	record.n.06	point.n.08	acme.n.01
+לָהִיט	hit.n.03
+כִּבּוּשׁ	conquest.n.02	conquest.n.01	seduction.n.02
+!הֲפֵכָה	coup.n.02
+טָעוּת	mistake.n.01
+בִּלְבּוּל	confusion.n.05
+קְנִיָּה	buying.n.01
+!רְכִישָׁה	procurement.n.01
+הַחְרָמָה	confiscation.n.01
+חִלּוּט	confiscation.n.01
+הַפְקָעָה	expropriation.n.01
+פְּסִיקַת-הוֹצָאוֹת	award.n.01
+קַבָּלָה	reception.n.04	reception_desk.n.01	receipt.n.02
+כַּפָּרָה	expiation.n.02
+שִׁחְרוּר	liberation.n.01
+פִּדְיוֹן	ransom.n.03
+בִּצּוּעַ	performance.n.03	execution.n.06
+הַדְרָן	encore.n.01
+אִלְתּוּר	extemporization.n.01	improvisation.n.02
+!מִכּוּן	automation.n.01
+גְּרִירָה	tow.n.01
+הַעֲלָאָה	lift.n.12	raise.n.01
+הֲרָמָה	lift.n.12
+!גֵּרוּשׁ	expulsion.n.03	extrusion.n.02
+גִּהוּק	belch.n.01
+גְּרֶפְּץ	belch.n.01
+מִצְמוּץ	blink.n.01
+עִפְעוּף	blink.n.01
+הֲקָאָה	vomit.n.03
+!נִתּוּר	hop.n.01	hop.n.03
+!הַצָּבָה	mailing.n.02
+יֶרִי	gunfire.n.01
+חוּץ	out.n.01
+הַצְלָפָה	whip.n.05
+צְלִיפָה	whip.n.05
+אֶגְרוֹף	punch.n.01	fist.n.01
+בּוֹקְס	punch.n.01
+סְנוֹקֶרֶת	punch.n.01
+קֶרֶן	free_kick.n.01	french_horn.n.01	beam.n.04	fund.n.01
+חֲטִיפָה	interception.n.02	kidnapping.n.01	highjacking.n.01
+!דִּגְדּוּג	tickle.n.02
+לִטּוּף	caress.n.01
+לְטִיפָה	caress.n.01
+חִבּוּר	joining.n.01	summation.n.04	writing.n.01	composition.n.08
+הִדּוּק	tightening.n.01
+חִזּוּק	tightening.n.01
+!הַלְחָמָה	bonding.n.03
+הַאֲרָקָה	grounding.n.02
+קְשִׁירָה	tying.n.01
+רִתּוּךְ	welding.n.01
+אִבְחוּן	diagnosis.n.01
+אַבְחָנָה	diagnosis.n.01	medical_diagnosis.n.01
+דִּיאַגְנוֹזָה	medical_diagnosis.n.01
+בְּחִירָה	choice.n.02
+!הַסְמָכָה	ordination.n.03
+כְּלִי	instrument.n.02	garment.n.01	weapon.n.01	organ.n.01
+מַכְשִׁיר	instrument.n.02
+!דֶּרֶךְ	road.n.02	way.n.05	expressway.n.01	road.n.01	wise.n.01	mood.n.03
+בְּחִירוֹת	election.n.01
+!מִשְׁוָאָה	equation.n.03
+יִלּוּד	midwifery.n.02
+גּוֹל	goal.n.04
+שַׁעַר	goal.n.04	gate.n.01	goalpost.n.01
+סַל	basket.n.04
+הַחְלָפָה	replacement.n.01	exchange.n.04
+הַעֲלָאָה-בְּדַרְגָּה	promotion.n.02
+קִדּוּם	promotion.n.02	advancement.n.03	promotion.n.03
+!מַעֲבָר	passage.n.01	aisle.n.03
+בְּחִישָׁה	meddling.n.01
+!הִתְנַגְּדוּת	resistance.n.01	objection.n.02	expostulation.n.01
+הִמָּנְעוּת	avoidance.n.01
+הִתְעַלּוּת	abnegation.n.02	ecstasy.n.01
+חֵרֶם	boycott.n.01
+גֵּרוּשׁ	ejection.n.02	exile.n.03
+הַגְלָיָה	exile.n.03
+חֲתִימָה	termination.n.05	stopping_point.n.01
+סִיּוּם	termination.n.05
+הַשְׁלָמָה	completion.n.02
+!סִיּוּם	completion.n.02	conclusion.n.08
+הַסְגָּרָה	extradition.n.01
+!חֲסִינוּת	exemption.n.03	immunity.n.03	unsusceptibility.n.01
+!הַחְרָבָה	destruction.n.01
+!הֶרֶס	destruction.n.01	destruction.n.02
+רֶצַח	murder.n.01
+!חֶנֶק	suffocation.n.01
+!מַחֲנָק	suffocation.n.01
+!חֲנִיקָה	choking.n.02
+בִּטּוּל	abolition.n.01	abrogation.n.01	cancellation.n.01
+הַפָּלָה	abortion.n.01
+הַפָּלָה-טִבְעִית	spontaneous_abortion.n.01
+!הַתְחָלָה	beginning.n.05
+בְּרִיאַת_הָעוֹלָם	initiation.n.02
+חִדּוּשׁ	resumption.n.01	invention.n.02
+הִתְאַגְּדוּת	unionization.n.01
+בִּשּׁוּל	cooking.n.01	cuisine.n.01
+טִגּוּן	frying.n.01
+!צְלִיָּה	roasting.n.01
+תִּבּוּל	seasoning.n.02
+תִּבְלוּן	seasoning.n.02
+!שִׁפּוּר	improvement.n.02	improvement.n.03
+הִתְקַדְּמוּת	advancement.n.03	progress.n.03
+נִקּוּי	cleaning.n.01
+נִקָּיוֹן	cleaning.n.01
+טֵאוּט	sweeping.n.01
+טִאטוּא	sweeping.n.01
+טִהוּר	purification.n.04
+גִּלּוּחַ	shave.n.01
+אַמְבַּטְיָה	bath.n.02	bathroom.n.01	bathtub.n.01
+!תִּקּוּן	reform.n.01	reform.n.03	amendment.n.01	haunt.n.01	repair.n.02
+יִפּוּי	beautification.n.01
+עִטּוּר	decoration.n.03	decoration.n.01
+קִשּׁוּט	decoration.n.03	decoration.n.01
+!עִטּוּר	ornamentation.n.03
+תִּקּוּן	repair.n.01	reform.n.02	amendment.n.02
+תַּחְזוּקָה	care.n.06
+!הַשְׁפָּלָה	humiliation.n.04	chagrin.n.01	humiliation.n.01
+!מַלְבִּין	bleach.n.03
+הַכְתָּמָה	staining.n.02
+זִהוּם	contamination.n.03	pollution.n.01
+הַרְטָבָה	wetting.n.01
+מַעֲבָר	motion.n.06	aisle.n.02
+תְּזוּזָה	motion.n.06
+תְּנוּעָה	motion.n.06	youth_movement.n.01	vowel.n.01	traffic.n.01
+!עֲלִיָּה	progress.n.02
+!דְּהִירָה	gallop.n.01
+סִיבוּב	turn.n.12	rotation.n.01	bend.n.03	rotation.n.03	turn.n.09
+רִיצָה	run.n.07
+!מַעְגָּל	lap.n.05
+!נְסִיעָה	travel.n.01	journey.n.01	drive.n.08
+!תַּהֲלוּכָה	procession.n.02
+!נְדוֹד	wandering.n.01
+!נְדוּדִים	wandering.n.01
+!נְדִידָה	wandering.n.01	migration.n.01
+!תַּיָּרוּת	tourism.n.01
+רְכִיבָה	riding.n.02	riding.n.01
+סִחְרוּר	tailspin.n.02	spin.n.02
+!מַסָּע	journey.n.01
+טְרֶמְפּ	lift.n.11
+!טִיּוּל	digression.n.03	excursion.n.01
+הַפְלָגָה	cruise.n.01
+שַׁיִט	cruise.n.01
+!נִוּוּט	seafaring.n.01	navigation.n.01	navigation.n.02
+מְסִירָה	delivery.n.01
+!מַתָּן	passage.n.10
+דְּלִיקָה	pursuit.n.01
+מִרְדָּף	pursuit.n.01
+רְדִיפָה	pursuit.n.01	persecution.n.01
+!הִתְחַקּוּת	trailing.n.01
+הַכְנָסָה	insertion.n.02	income.n.01
+הוֹרָדָה	lowering.n.02	lowering.n.01
+הַנְמָכָה	lowering.n.02
+!מַעֲצָר	remand.n.01	hands.n.01	custody.n.02	detention.n.01
+הִזְדַּחֲלוּת	crawl.n.01
+זְחִילָה	crawl.n.01
+מֶחֱוָה	gesture.n.01	gesture.n.03
+הִסְתּוֹבְבוּת	rotation.n.01
+סֶבֶב	rotation.n.01	round.n.04	rota.n.02
+קְרִיסָה	squat.n.03
+הַפְחָתָה	decrease.n.04
+הַמְתָּקַת-דִּין	extenuation.n.02
+!הוֹצָאָה	consumption.n.04	expense.n.01	expense.n.03
+!דְּחִיסָה	compression.n.04
+קִצּוּר	shortening.n.02
+הַחְלָשָׁה	weakening.n.02
+!קְמִילָה	wilt.n.02	atrophy.n.02
+עֲלִיָּה	advance.n.06	loft.n.02	atrium.n.01	rise.n.01	improvement.n.01	rise.n.04	ascent.n.01
+הֶגְבֵּר	amplification.n.03
+הַגְבָּרָה	amplification.n.03	intensification.n.01
+!הַסְלָמָה	escalation.n.01
+הַגְזָמָה	exaggeration.n.02	exaggeration.n.03
+פִּזּוּר	dispersion.n.03	dispersion.n.01
+הַכְלָלָה	inclusion.n.04	abstraction.n.03	generalization.n.02
+כְּלִילָה	inclusion.n.04
+אִינְטֶנְסִיפִיקַצְיָה	intensification.n.01
+הַעֲצָמָה	intensification.n.01
+נִפּוּץ	smashing.n.01
+נִתּוּץ	smashing.n.01
+רִיצוּץ	smashing.n.01
+רִסּוּק	smashing.n.01
+פִּצּוּץ	explosion.n.02
+!הַצָּתָה	arson.n.01	ignition.n.02	ignition.n.01
+הַרְכָּבָה	graft.n.03	inoculation.n.01	fabrication.n.04
+!תַּעֲרֹבֶת	mix.n.03
+עִרְבּוּב	blend.n.03
+!הִתְמַזְּגוּת	confluence.n.02
+אִחוּד	union.n.11
+!מִטְרִיָּה	umbrella.n.03
+הֶפְסֵק	break.n.13	rest.n.07
+פִּסּוּק	punctuation.n.03
+!דַּיִשׁ	threshing.n.01
+רִקּוּן	emptying.n.01
+צֶנְזוּרָה	censoring.n.02
+יִעוּר	afforestation.n.01
+!הַשְׁחָתָה	defacement.n.01
+פְּצִיעָה	wound.n.04
+עִדְכּוּן	updating.n.01
+הִתְבַּלְּטוּת	protrusion.n.02
+הַרְחָבָה	widening.n.03
+!חִבּוּק	cuddle.n.01	hug.n.01
+!הַטְרָדָה	annoyance.n.05
+הִתְעַלְּלוּת	maltreatment.n.01
+פּוֹגְרוֹם	pogrom.n.01
+פְּרָעוֹת	pogrom.n.01
+בִּלּוּי	diversion.n.01
+בִּדּוּר	entertainment.n.01
+הִתְבַּדְּחוּת	jest.n.02
+אִמָּא_וְאַבָּא	house.n.07
+הוֹבִּי	avocation.n.01
+תַּחְבִּיב	avocation.n.01
+הִתְעַמְּלוּת	gymnastics.n.01	exercise.n.01
+הִפּוּךְ	somersault.n.01	reversal.n.03	reverse.n.01
+הִתְהַפְּכוּת	somersault.n.01
+צְלִילָה	dive.n.02
+צַיִד	hunt.n.08	hunt.n.07
+!דַּיִג	fishing.n.01	fishing.n.02
+!הִתְנַפְּלוּת	attack.n.02
+קֶרלִינְג	curling.n.01
+קְרִיקֶט	cricket.n.02
+כַּדּוּרֶגֶל	soccer.n.01
+כַּדּוּרְעָף	volleyball.n.01	volleyball.n.02
+כַּדּוּרְסַל	basketball.n.01	basketball.n.02
+סוֹלִיטֶר	solitaire.n.04
+פַּסְיַאנְס	solitaire.n.04
+אִשְׁקוּקָה	chess.n.02
+מִשְׂחַק-הַמְּלָכִים	chess.n.02
+שַׁח	chess.n.02
+שַׁח-מָט	chess.n.02
+שַׁחְמָט	chess.n.02
+אֲהַבְהָבִים	flirt.n.02
+פְלִרְטוּט	flirt.n.02
+פֶסְטִיבָל	festival.n.02
+גָּאלָה	gala.n.01
+!מִסְדָּר	parade.n.03
+!מִצְעָד	parade.n.03
+מֻצָּג	display.n.02
+!תַּעֲרוּכָה	exhibition.n.01
+תִּפוּף	drumming.n.01
+זִמְרָה	singing.n.01	tattle.n.01
+שִׁירָה	singing.n.01	poetry.n.01
+מִשְׂחָק	acting.n.01
+!הַפְתָּעָה	surprise.n.03
+!מְהוּמָה	commotion.n.02	agitation.n.04
+!הִתְפָּרְצוּת	outburst.n.03
+!רִיצָה	run.n.05
+!הַשְׂכָּרָה	let.n.02
+חֲתִירָה	crawl.n.02
+שְׂחִיַּת-חֲתִירָה	crawl.n.02
+פַּרְפַּר	butterfly.n.02	butterfly.n.01
+שְׂחִיַּת-פַּרְפַּר	butterfly.n.02
+!מַעֲלָלִים	works.n.03
+הַבְרָקָה	shining.n.01
+מֵרוּק	shining.n.01
+צִחְצוּחַ	shining.n.01
+גִּהוּץ	ironing.n.02	ironing.n.01
+נַיֶּרֶת	paperwork.n.01
+עֲבוֹדָה	occupation.n.01	workplace.n.01
+!יִעוּד	career.n.01
+!מָקוֹם	position.n.06
+נְשִׂיאוּת	chairmanship.n.01
+רָאשׁוּת	chairmanship.n.01
+סַפְרָנוּת	librarianship.n.01
+נַגָּרוּת	carpentry.n.01
+אִינְסְטֶלַצְיָה	plumbing.n.02	plumbing.n.01
+שְׁרַבְרָבוּת	plumbing.n.02
+רְפוּאָה	medicine.n.03
+כְּתִיבָה	writing.n.05	writing.n.01
+חֶשְׁבּוֹנָאוּת	accountancy.n.01
+!צִלּוּם	photography.n.03	photography.n.02
+מַאֲמָץ	effort.n.02	attempt.n.01
+!מַאֲבָק	struggle.n.03
+חֲקִירָה	investigation.n.02	inquiry.n.03	probe.n.01
+סְפִירָה	count.n.02
+בְּדִיקָה	examination.n.01
+בְּחִינָה	examination.n.01	point_of_view.n.01	examination.n.02
+מֶחְקָר	research.n.01
+סְקִירָה	survey.n.01	view.n.03	sketch.n.03
+מִפְקָד	census.n.01
+מִפְקַד-אֻכְלוּסִין	census.n.01
+אִשְׁפּוּז	hospitalization.n.04
+עִסּוּי	massage.n.01
+!תְּרוּפָה	medication.n.02
+נִתּוּחַ	operation.n.06
+חֹקֶן	enema.n.01
+הֲצָפָה	implosion_therapy.n.01
+!דִּקּוּר	acupuncture.n.01
+חִכּוּךְ	friction.n.03	friction.n.02
+פְּרִיקָה	unloading.n.01
+!לְקִיחָה	pickings.n.01
+!נְטִילָה	pickings.n.01
+אֲפִיָּה	baking.n.01
+סִיכָה	lubrication.n.02
+שִׁמּוּן	lubrication.n.02
+טִיּוּחַ	plastering.n.01
+!תַּפְקִיד	duty.n.02	duty.n.03
+תַּפְקִיד	function.n.03	function.n.02	character.n.04
+!חָלוּץ	forward.n.02	forward.n.01	striker.n.01
+!פְּרוֹיֶקְט	classroom_project.n.01	undertaking.n.01	project.n.02
+!הֲסָבָה	reassignment.n.01
+מַעֲשֵׂה-קֻנְדָּס	mischief.n.01
+תַּעֲלוּל	mischief.n.01
+רַשְׁלָנוּת	negligence.n.01	negligence.n.02
+הִשְׁתַּמְּטוּת	evasion.n.03
+הִתְחַמְּקוּת	evasion.n.03
+!שְׁתַמְּטָנוּת	shirking.n.01
+!סְטִיָּה	perversion.n.03
+!פַּזְרָנוּת	extravagance.n.03	extravagance.n.02
+אִי-צֶדֶק	injustice.n.01
+עָוֶל	injustice.n.01
+עַוְלָה	injustice.n.01
+אָוֶן	evil.n.01
+רֶשַׁע	evil.n.01
+זְנוּת	prostitution.n.01
+בְּגִידָה	treachery.n.02	treason.n.01
+בִּלּוּף	lying.n.01
+שִׁקּוּר	lying.n.01
+!רַמָּאוּת	deception.n.02	fraudulence.n.02	misrepresentation.n.01
+!רְמִיָּה	deception.n.02	fraudulence.n.02	misrepresentation.n.01
+!רַמַּאי	fraud.n.03	fraud.n.01	deceiver.n.01
+!הוֹפָעָה	appearance.n.06
+!תַּאֲוָה	lust.n.02	lecherousness.n.01
+עֲבֵרָה	crime.n.01
+פֶּשַׁע	crime.n.01	crime.n.02
+זִיּוּף	forgery.n.02	imitation.n.02
+!נִסָּיוֹן	attack.n.05	experience.n.03
+מְעִילָה	embezzlement.n.01
+!פְּשִׁיטָה	raid.n.02
+גְּנֵבָה	larceny.n.01
+שֹׁד	robbery.n.01
+שְׁדִידָה	robbery.n.01
+!סַחְטָנוּת	blackmail.n.01
+!סְחִיטָה	blackmail.n.01
+פְּרִיצָה	burglary.n.01
+הִתְפָּרְצוּת	housebreaking.n.01	effusion.n.01	outbreak.n.01
+נִסָּיוֹן	attempt.n.01	experience.n.01
+!מַסָּה	essay.n.02
+חֵלֶק	contribution.n.01	part.n.02	part.n.03	share.n.01
+תְּרוּמָה	contribution.n.01	contribution.n.03	contribution.n.02
+מַאֲבָק	struggle.n.01	conflict.n.01	anther.n.01
+!נִסּוּי	test.n.04	trial.n.02
+!מִפְעָל	undertaking.n.01	factory.n.01	enterprise.n.02
+מְשִׂימָה	undertaking.n.01
+הַרְפַּתְקָה	adventure.n.01
+!מֻעְמָדוּת	campaigning.n.01
+רֶפוֹרְמָה	reform.n.02
+תְּנוּעַת-נֹעַר	youth_movement.n.01
+סִכּוּן	risk.n.02	hazard.n.01
+הִמּוּר	gamble.n.02
+הַסְדָּרָה	regulation.n.06
+וִסּוּת	regulation.n.06
+רֶגוּלַצְיָה	regulation.n.06
+הַגְבָּלָה	limitation.n.05	restriction.n.01
+הַחְזָקָה	retention.n.01
+אֲחִיזָה	clasp.n.02
+!הַדְרָכָה	steering.n.02
+!הַנְחָיָה	steering.n.02
+שִׁמּוּר	conservation.n.02
+!צֶנְזוּרָה	censoring.n.01
+הֲגָנָה-עַצְמִית	self-defense.n.01
+הִתְגּוֹנְנוּת	self-defense.n.01
+בִּדּוּד	insulation.n.03
+נְעִילָה	locking.n.01
+!חִסּוּן	immunization.n.01
+מִטְרִיָּה-אֲוִירִית	umbrella.n.02
+נְשִׁימָה	breathing.n.01
+עִשּׁוּן	smoke.n.07
+!נְשִׁיפָה	exhalation.n.02
+נְחִירָה	snore.n.02	snore.n.01
+נַחַר	snore.n.02	snore.n.01
+נַחֲרָה	snore.n.02	snore.n.01
+פִּהוּק	yawn.n.01
+אֲכִילָה	eating.n.01
+!נְגִיסָה	bite.n.08
+מְצִיצָה	sucking.n.01
+לְגִימָה	sip.n.01
+שְׁלוּק	sip.n.01
+!מִין	sexual_activity.n.01	sex.n.03
+הַזְרָעָה	insemination.n.02
+סְטִיָּה	perversion.n.02
+סְטִיָּה-מִינִית	perversion.n.02
+!נִמְנוּם	doze.n.01
+תְּגוּבָה	reaction.n.03	chemical_reaction.n.01
+בֶּכִי	crying.n.01
+חִשּׁוּב	calculation.n.01	calculation.n.03
+חִסּוּר	subtraction.n.01
+פְּסִיקָה	adjudication.n.01
+!הַעֲרָכָה	evaluation.n.01
+הֲצָצָה	peek.n.01
+הִתְבּוֹנְנוּת	observation.n.02
+תַּצְפִּית	observation.n.02
+!הוֹרָאָה	education.n.01	teaching.n.01	instruction.n.04
+!הַרְצָאָה	lecture.n.03
+הַכְשָׁרָה	training.n.01
+אִמּוּן	exercise.n.03
+הִתְאַמְּנוּת	exercise.n.03
+תִּרְגּוּל	exercise.n.03
+חֲזָרָה	rehearsal.n.01
+דְּרָמָטִיזַצְיָה	dramatization.n.02
+הַמְחָזָה	dramatization.n.02
+צִלּוּם	photography.n.01	filming.n.01	photograph.n.01
+הַסְרָטָה	filming.n.01
+טְוִיָּה	spinning.n.01
+אֲרִיגָה	weaving.n.01
+סְרִיגָה	knitting.n.02
+בְּנִיָּה	construction.n.01	construction.n.07
+בִּנְיָן	construction.n.01	building.n.01	conjugation.n.04
+פֵּרוּק	dismantling.n.01
+יִצּוּר	production.n.07	industry.n.02	fabrication.n.03
+כַּוְרָנוּת	beekeeping.n.01
+חָרִישׁ	plowing.n.01
+חֲרִישָׁה	plowing.n.01
+עִצּוּב-נוֹף	landscaping.n.01
+קִדּוּחַ	boring.n.02	drilling.n.01
+קְדִיחָה	boring.n.02	drilling.n.01
+תַּעֲשִׂיָּה	industry.n.02
+תִּעוּשׂ	industrialization.n.01
+!עֲשִׂיָּה	devising.n.01
+!עִצּוּב	formation.n.02
+!פִּסּוּל	sculpture.n.02	sculpture.n.01
+!פֶּסֶל	sculpture.n.02	sculpture.n.01	statue.n.01
+חֲקִיקָה	engraving.n.03
+עִבּוּד	arrangement.n.06	processing.n.01
+הַמְצָאָה	invention.n.03
+!מִסְגּוּר	framing.n.01
+חִפּוּשׂ	search.n.01
+סְרִיקָה	search.n.01
+!הִסְתַּכְּלוּת	looking.n.02
+מָצוֹד	manhunt.n.01
+שִׁמּוּשׁ	use.n.01
+מִחְזוּר	recycling.n.01
+טֶכְנוֹלוֹגְיָה	technology.n.01
+מִסְחוּר	commercialization.n.01
+קְרָב	battle.n.01	conflict.n.01
+כִּתּוּר	blockade.n.01
+מִלְחָמָה	conflict.n.01
+הֲדִיפָה	repulsion.n.03
+הִתְמָרְדוּת	rebellion.n.02	rebellion.n.01
+הִתְקוֹמְמוּת	rebellion.n.02
+מֶרֶד	rebellion.n.02	rebellion.n.01
+מֶרִי	rebellion.n.02
+מְרִידָה	rebellion.n.02	rebellion.n.01
+מַהְפֵּכָה	revolution.n.02	revolution.n.01
+!קְרָב	combat.n.01	fight.n.02
+אַלִּימוּת	violence.n.01
+!שֹׁד	looting.n.01
+הִסְתַּעֲרוּת	storm.n.03
+!פְּלִישָׁה	invasion.n.01	invasion.n.02
+!הִסְתַּנְּנוּת	infiltration.n.01
+פְּשִׁיטָה	foray.n.01
+הַפְצָצָה	bombing.n.01
+סִיּוּר	scouting.n.01
+אֵשׁ	fire.n.02	ardor.n.03	fire.n.03
+מְדִידָה	measurement.n.01
+!צַנֶּרֶת	bathymetry.n.01
+!שְׁרַבְרָבוּת	bathymetry.n.01
+כִּיּוּל	calibration.n.01
+כִּוְנוּן	tuning.n.01
+!הַרְשָׁמָה	adjustment.n.03
+סִדּוּר	organization.n.06
+עֲרִיכַת-רְשִׁימָה	listing.n.02
+אִסּוּף	collection.n.04
+תְּלִיָּה	suspension.n.06	hanging.n.02
+הַמְשָׁכָה	continuance.n.01
+הַאֲרָכָה	prolongation.n.01
+הַעְתָּקָה	copying.n.01	resettlement.n.01
+שִׁכְפּוּל	duplication.n.02
+הַתְמָדָה	perseverance.n.02
+!הֲלִיךְ	procedure.n.04
+הַטְבָּלָה	baptism.n.01
+טְבִילָה	baptism.n.01
+קִדּוּשׁ	sanctification.n.01
+הַחְיָאָה	resuscitation.n.01
+!נְטִיעָה	planting.n.01
+!שְׁתִילָה	planting.n.01
+בִּקּוּר	visiting.n.01
+פְּקִידָה	visiting.n.01
+אַסְפָּקָה	provision.n.02	commissariat.n.01
+הֲזָנָה	feeding.n.02
+!תְּבִיעָה	claim.n.03	prosecution.n.01	prosecution.n.02
+אֶתְנַחְתָּא	respite.n.02
+הֲפוּגָה	respite.n.02
+הַפְסָקָה	respite.n.02	intermission.n.01	pause.n.01
+פּוּגָה	respite.n.02
+פֶּסֶק-זְמַן	respite.n.02
+גִּמְגּוּם	hesitation.n.03	stammer.n.01
+!פְּנַאי	leisure.n.02	free_time.n.02	spare_time.n.01
+עִכּוּב	delay.n.02	delay.n.01
+פִּגּוּר	slowdown.n.01	retardation.n.04
+צוֹם	fast.n.01
+תַּעֲנִית	fast.n.01
+הִתְפַּנְּקוּת	indulgence.n.03
+מָצוֹר	siege.n.01
+!מְנִיעָה	prevention.n.01
+מְנִיעָה	prevention.n.01
+פְּסִילָה	disqualification.n.02
+!כְּתִישָׁה	suppression.n.03
+!חֲלֻקָּה	distribution.n.03	distribution.n.02
+קִצּוּב	rationing.n.01
+!מִנּוּי	subscription.n.03	subscription.n.02
+!מִסְחָר	commerce.n.01	department_of_commerce.n.01
+!הַלְוָאָה	lending.n.01
+!הַשְׁאָלָה	lending.n.01	metaphor.n.01
+שׁוּק	market.n.01	marketplace.n.02
+!מִמּוּן	financing.n.01
+הַשְׁקָעָה	investing.n.01	submergence.n.01	investment.n.02
+!פִּרְסוּם	publication.n.04	promotion.n.01
+הוֹצָאָה-לָאוֹר	issue.n.11
+פִּרְסוּם	issue.n.11	publication.n.01
+!מַעְבֹּרֶת	ferry.n.02
+טְרַנְסַקְצְיָה	transaction.n.01
+עִסְקָה	transaction.n.01	bargain.n.01
+חִלּוּף	exchange.n.04
+יְבוּא	importing.n.01	import.n.01
+יִבּוּא	importing.n.01	import.n.01
+יְצוּא	exporting.n.01	export.n.01
+יִצּוּא	exporting.n.01	export.n.01
+הַבְרָחָה	smuggling.n.01
+קִמְעוֹנָאוּת	retail.n.01
+קִמְעוֹנוּת	retail.n.01
+סִיטוֹנָאוּת	wholesale.n.01
+סִיטוֹנוּת	wholesale.n.01
+!הֶצֵּף	dumping.n.01
+רוֹכְלוּת	vending.n.01
+תַּשְׁלוּם	payment.n.02	payment.n.01
+!כֹּפֶר	ransom.n.02
+הוֹצָאָה	expending.n.01	publisher.n.01	outgo.n.01
+אֲכִיפָה	enforcement.n.01
+מְחֻיָּבוּת	duty.n.01
+אִימְפֶּרָטִיב	imperative.n.02	imperative_mood.n.01
+!הַנְהָלָה	management.n.01	management.n.02
+!נִהוּל	management.n.01	behavior.n.01	demeanor.n.01	management.n.02	administer.v.01
+טִפּוּל	treatment.n.02
+!הַשְׁגָּחָה	supervision.n.01
+!פִּקּוּחַ	supervision.n.01
+הֶתֵּר	license.n.04
+רְשׁוּת	license.n.04	permission.n.01
+הַאֲצָלַת-סַמְכֻיּוֹת	delegating.n.01
+!הֵעָרְכוּת	deployment.n.01
+חִמּוּם	warm-up.n.01
+הַדְרָכָה	guidance.n.02
+הַנְחָיָה	guidance.n.02
+הֲפִיכָה	coup_d'etat.n.01
+הֲפֵכָה	coup_d'etat.n.01
+פּוּטְשׁ	coup_d'etat.n.01
+הִתְרוֹשְׁשׁוּת	pauperization.n.02
+הֲפָסָה	appeasement.n.01
+פִּיּוּס	appeasement.n.01
+!פִּיּוּס	placation.n.01
+!הַלְאָמָה	nationalization.n.03
+אַפְלָיָה	discrimination.n.01
+גִּזְעָנוּת	racism.n.02	racism.n.01
+גִּיּוּס	mobilization.n.01	mobilization.n.02	recruitment.n.01
+הִתְיַצְּבוּת	stabilization.n.01
+יִצּוּב	stabilization.n.01
+הַעֲנָשָׁה	punishment.n.01
+עֲנִישָׁה	punishment.n.01
+!הַלְקָאָה	whipping.n.01
+הַצְּלִיבָה	crucifixion.n.01
+!צַיְתָנוּת	obedience.n.01
+תַּחֲרוּת	competition.n.03	contest.n.01
+!תַּחֲרוּת	contest.n.02
+סִיּוּף	fencing.n.03
+!דְּקִירָה	stab.n.02
+זִילוּת	contempt.n.04
+הֲלִיךְ	proceeding.n.01
+הֲלִיכִים-מִשְׁפָּטִיִּים	proceeding.n.01
+עִרְעוּר	appeal.n.03	protest.n.01
+עֲרָר	appeal.n.03
+!הוֹדָעָה	presentment.n.01	message.n.02
+!גְּזַר_דִין	verdict.n.01
+!טַעֲנָה	plea.n.03	argumentation.n.02	plea.n.02
+גֵּרוּשִׁין	divorce.n.01
+כְּרִיתוּת	divorce.n.01
+!רִשְׁמִיּוּת	formality.n.03
+!פְּשָׁרָה	compromise.n.01	compromise.n.02
+עֵזֶר	aid.n.02
+עֶזְרָה	aid.n.02
+עִדּוּד	boost.n.01
+!נֶחָמָה	consolation.n.02	consolation.n.01
+גַּב	backing.n.01	back.n.01
+גִּבּוּי	backing.n.01
+!זֵרוּז	urging.n.02
+אִשּׁוּר	blessing.n.01	certificate.n.01	documentation.n.01	ratification.n.01
+כִּלְכּוּל	sustenance.n.03
+פְּרָס	reward.n.03	award.n.02	reward.n.04	wages.n.01	prize.n.01	reward.n.02
+!הִתְגָּרוּת	aggravation.n.02
+!הַפְחָדָה	terrorization.n.01
+!עֲקִיצָה	twit.n.02
+!פְּגִיעָה	insult.n.02
+סְלִיחָה	forgiveness.n.02
+!כְּנֶסֶת	assembly.n.06
+מִפְגָּשׁ	meeting.n.04
+!קְהִלָּה	congregation.n.03	congregation.n.02
+!נוֹכְחוּת	attendance.n.01
+גִּבּוּשׁ	consolidation.n.02
+בִּזּוּר	decentralization.n.02
+דֶּצֶנְטְרָלִיזַצְיָה	decentralization.n.02
+הִשְׁתַּתְּפוּת	engagement.n.07
+!הֲרִיסָה	demolition.n.02
+!הִמְהוּם	humming.n.02
+!נִפּוּי	winnow.n.01
+הַקְדָּמָה	precession.n.02	introduction.n.02
+!הִתְעוֹרְרוּת	awakening.n.01
+!זִמְזוּם	buzz.n.02
+!הִתְיַעֲצוּת	reference.n.07
+צָעִיר	young.n.01	young_person.n.01	young.a.01	young.a.01
+גּוּר	pup.n.01	cub.n.03
+!קֶרֶן	antler.n.01
+וִירוּס	virus.n.01
+נָגִיף	virus.n.01
+טַפִּיל	parasite.n.01	leech.n.02
+!קַרְפִּיּוֹן	carp.n.02
+!דָּגִיג	minnow.n.01
+!הַשְׁקָעָה	investment.n.04
+!עֻבָּר	embryo.n.02	embryo.n.01
+עֻבָּר	fetus.n.01
+!שִׁכְבָה	layer.n.05	layer.n.01	layer.n.02
+חֶלְמוֹן	yolk.n.02
+חַט	tusk.n.02
+כָּרִישׁ	shark.n.01
+יָעֵן	ostrich.n.02
+נַחֲלִיאֵלִי	wagtail.n.01
+זַרְזִיר	starling.n.01
+עוֹרֵב-שָׁחֹר	raven.n.01
+!מְטַפֵּס	creeper.n.03	creeper.n.01
+נֵץ	hawk.n.01	hawk.n.02
+!קִרְקָס	circus.n.06
+בַּז	falcon.n.01
+בַּז-עֵצִים	hobby.n.03
+גּוֹזָל	young_bird.n.01
+יַנְשׁוּף	owl.n.01
+צַב-יָם	turtle.n.02
+צָב	tortoise.n.01
+לְטָאָה	lizard.n.01
+קְרוֹקוֹדִיל	crocodile.n.01
+תִּמְסָח	crocodile.n.01
+תַּנִּין	crocodile.n.01
+נָחָשׁ	snake.n.01	snake.n.02
+קוֹבְּרָה	cobra.n.01
+צֶפַע	viper.n.01
+עַקְרָב	scorpion.n.03
+גֶּבֶר	cock.n.04	man.n.01	man.n.06
+תַּרְנְגוֹל	cock.n.04
+תַּרְנְגֹלֶת	hen.n.01
+!טַוָּס	peacock.n.02	peacock.n.01
+שְׂלָו	quail.n.02
+יוֹנָה	pigeon.n.01
+שַׁלְדָּג	kingfisher.n.01
+!דּוּכִיפַת	hoopoe.n.01
+אֲוָז	gander.n.01
+בַּרְבּוּר	swan.n.01
+מוֹךְ	down.n.01
+פּוּךְ	down.n.01
+!פַּרְוָה	fur.n.02
+צֶמֶר	wool.n.03	wool.n.02
+רַעֲמָה	mane.n.01	mane.n.02
+זֶפֶק	craw.n.01
+קֻרְקְבָן	gizzard.n.01
+חֲסִידָה	stork.n.01
+אֲנָפָה	heron.n.02
+כְּרוּכְיָה	crane.n.05
+עָגוּר	crane.n.05
+שַׁחַף	gull.n.02
+לִוְיָתָן	whale.n.02
+כַּלְבָּה	bitch.n.04
+זְאֵב	wolf.n.01
+תַּן	jackal.n.01
+צָבוֹעַ	hyena.n.01
+שׁוּעָל	fox.n.01
+חָתוּל	cat.n.01
+חֲתַלְתּוּל	kitten.n.01
+אַרְיֵה-הָרִים	cougar.n.01
+פּוּמָה	cougar.n.01
+אַרְיֵה	lion.n.01
+מֶלֶךְ-הַחַיּוֹת	lion.n.01
+לְבִיאָה	lioness.n.01
+נָמֵר	tiger.n.02	tiger.n.01
+!דֹּב	bear.n.01	bear.n.02
+נְמִיָּה	mongoose.n.01
+עֲטַלֵּף	bat.n.01
+טֶרֶף	prey.n.02
+גָּחוֹן	belly.n.05
+חִפּוּשִׁית	beetle.n.01
+פַּרְעוֹשׁ	flea.n.01
+יַתּוּשׁ	mosquito.n.01
+צִרְעָה	wasp.n.02
+!דַּבּוּר	hornet.n.01
+נְמָלָה	ant.n.01
+!חָגָב	grasshopper.n.01
+!חַרְגּוֹל	grasshopper.n.01
+אַרְבֶּה	locust.n.01
+צְרָצַר	cricket.n.01
+ג'וּק	cockroach.n.01
+מַקָּק	cockroach.n.01
+תִּיקָן	cockroach.n.01
+!גּ'וּק	bug.n.01
+שַׁפִּירִית	dragonfly.n.01
+עָשׁ	moth.n.01
+תּוֹלַעַת	caterpillar.n.01
+זַחַל	larva.n.01
+גֹּלֶם	pupa.n.01	lout.n.01
+!גֹּלֶם	chrysalis.n.01
+אַרְנָבוֹן	rabbit.n.01
+אַרְנֶבֶת	hare.n.01
+מְכַרְסֵם	rodent.n.01
+עַכְבָּר	mouse.n.01	mouse.n.04
+אוֹגֵר	hamster.n.01
+יַרְבּוּעַ	jerboa.n.01
+סְנָאִי	squirrel.n.01
+סְיָח	foal.n.01
+!שָׁלֵם	stallion.n.01
+סוּסָה	mare.n.01
+!מַטְעֵן	charger.n.01
+פֶּרֶד	mule.n.01
+קַרְנָף	rhinoceros.n.01
+חֲזִירָה	sow.n.01
+בָּקָר	cattle.n.01
+עֶגְלָה	heifer.n.01
+בִּיזוֹן	bison.n.01
+כֶּבֶשׂ	sheep.n.01
+כִּבְשָׂה	ewe.n.03
+גְּדִי	kid.n.05
+צָפִיר	billy.n.02
+שָׂעִיר	billy.n.02	hairy.a.01	hairy.a.01
+שְׂעִיר-עִזִּים	billy.n.02
+תַּיִשׁ	billy.n.02
+עֵז	nanny.n.02
+!דִּישׁוֹן	antelope.n.01
+!צְבִי	gazelle.n.01
+!צְבִיָּה	gazelle.n.01
+עֹפֶר	fawn.n.02
+אַיָּלָה	hind.n.02
+גָּמָל	camel.n.01
+גִ'ירָף	giraffe.n.01
+גִ'ירָפָה	giraffe.n.01
+!דָּלָק	marten.n.01
+!בֶּרֶךְ	stifle.n.01
+גַּפָּה-קִדְמִית	forelimb.n.01
+הָאָדָם	homo.n.02
+פִּיל	elephant.n.01
+דֶּרֶךְ	access.n.03	manner.n.01
+מַזְגָן	air_conditioner.n.01
+אֲוִירוֹן	airplane.n.01
+מָטוֹס	airplane.n.01
+!רֶסֶן	american_stock_exchange.n.01	curb.n.02
+אֶמְפְּלִיפָיֶר	amplifier.n.01
+מַגְבֵּר	amplifier.n.01
+קָמֵעַ	amulet.n.01
+חֶדֶר-אָקוּסְטִי	anechoic_chamber.n.01
+אֲגַף	annex.n.01	department.n.01	flank.n.01
+מְבוֹאָה	anteroom.n.01
+!דִּירָה	apartment.n.01
+בֵּית-דִּירוֹת	apartment_building.n.01
+אַרְכִיב	archive.n.01
+אַרְכִיּוֹן	archive.n.01
+גַּנְזַךְ	archive.n.01
+שֶׁטַח	area.n.05	territory.n.02
+כֻּרְסָה	armchair.n.01
+בָּסִיס	army_base.n.01	base.n.01	basis.n.02	footing.n.02
+בָּסִיס-צְבָאִי	army_base.n.01
+מַחֲנֶה	army_base.n.01
+רוֹבּוֹט	automaton.n.02
+מַרְצֵעַ	awl.n.01
+גַּגּוֹן	awning.n.01
+סוֹכֵךְ	awning.n.01
+גַּרְזֶן	ax.n.01
+קַרְדֹּם	ax.n.01
+סֶרֶן	axle.n.01	captain.n.01
+צִיר	axle.n.01	hinge.n.01
+עֲגָלָה	baby_buggy.n.01	cart.n.01	handcart.n.01
+עֶגְלַת-יְלָדִים	baby_buggy.n.01
+עֶגְלַת-תִּינוֹקוֹת	baby_buggy.n.01
+יָד	back.n.08
+מִשְׁעֶנֶת	back.n.08
+אֲחוֹרֵי-הַקְּלָעִים	back_room.n.01
+מִזְוָד	baggage.n.01
+מִטְעָן	baggage.n.01
+מַאֲפִיָּה	bakery.n.01
+!מִרְפֶּסֶת	balcony.n.02
+יָצִיעַ	balcony.n.01
+אוּלַם-רִקּוּדִים	ballroom.n.01
+דּוֹבְרָה	barge.n.01
+בָּרִיקָדָה	barricade.n.02
+מִתְרָס	barricade.n.02
+בָּר	barroom.n.01
+מְרִיצָה	barrow.n.03
+כַּן	base.n.08
+!מְצוּדָה	bastion.n.02
+חֲדַר-אַמְבַּטְיָה	bathroom.n.01
+חֲדַר-רַחְצָה	bathroom.n.01
+מִקְלַחַת	bathroom.n.01	shower.n.01
+שַׁרְבִיט	baton.n.04
+כִּידוֹן	bayonet.n.01
+מִגְדָּלוֹר	beacon.n.03
+חֲדַר-שֵׁנָה	bedroom.n.01
+!כַּוֶּרֶת	beehive.n.04	hive.n.01	beehive.n.02
+מִגְדַּל-פַּעֲמוֹנִים	belfry.n.02
+עִקּוּל	bend.n.03
+פִּתּוּל	bend.n.03
+בֶּרֶט	beret.n.01
+כֻּמְתָּה	beret.n.01
+חֲדַר-בִּילְיַארְד	billiard_room.n.01
+מִשְׁקֶפֶת	binoculars.n.01
+שׁוֹבָךְ	birdhouse.n.01
+רָץ	bishop.n.03
+לוּחַ	blackboard.n.01	control_panel.n.01	board.n.02
+!שְׂמִיכָה	blanket.n.03	blanket.n.02
+בְּלוֹק	block.n.01
+כּוֹבַע-קַשׁ	boater.n.01
+פְּצָצָה	bomb.n.01
+קָלוֹרִימֶטֶר-פְּצָצָה	bomb_calorimeter.n.01
+סִימָנִיָּה	bookmark.n.01
+כְּפָפַת-אִגְרוּף	boxing_glove.n.01
+חֲזִיָּה	brassiere.n.01
+לְבֵנָה	brick.n.01
+מַטְאֲטֵא	broom.n.01
+!דְּלִי	bucket.n.01	bucket.n.02
+!מְלַטֵּשׁ	buffer.n.05
+!דַּחְפּוֹר	bulldozer.n.01
+טַמְבּוֹן	bumper.n.02
+פָּגוֹשׁ	bumper.n.02
+אֲגֻדָּה	bundle.n.02	package.n.01	association.n.01
+צְרוֹר	bundle.n.02
+!מְגוּפָה	bung.n.01
+בּוּנְקֶר	bunker.n.03
+מְצָד	bunker.n.03
+!תֵּל	burial_mound.n.01
+!מַבְעֵר	burner.n.01
+אִבְקָה	buttonhole.n.01
+לוּלָאָה	buttonhole.n.01
+מַחְשֵׁב	calculator.n.02	computer.n.01
+מַחְשְׁבוֹן	calculator.n.02
+!הַסְוָאָה	camouflage.n.03
+פַּחִית	can.n.01
+נֵר	candle.n.01	suppository.n.01	candle.n.02
+פָּמוֹט	candlestick.n.01
+אוֹטוֹ	car.n.01
+מְכוֹנִית	car.n.01
+מְאַיֵּד	carburetor.n.01
+קַרְבּוּרָטוֹר	carburetor.n.01
+חֲדַר-קְלָפִים	cardroom.n.01
+!מִטְעָן	cargo.n.01
+מַחְבֵּט	carpet_beater.n.01	racket.n.04
+תָּא-כֶּלֶא	cell.n.07
+כִּסֵּא	chair.n.01
+גִּיר	chalk.n.04	chalk.n.01
+לִשְׁכַּת-הַשּׁוֹפֵט	chamber.n.03
+לוּסְטְרָה	chandelier.n.01
+נִבְרֶשֶׁת	chandelier.n.01
+!מֶרְכָּבָה	chariot.n.02
+סִימָן-טוֹב	charm.n.03
+תֵּבָה	chest.n.02
+שִׁדָּה	chest_of_drawers.n.01
+לוּל	chicken_coop.n.01
+אֲרֻבָּה	chimney.n.01
+אִזְמֵל	chisel.n.01	scalpel.n.01
+מַפְסֶלֶת	chisel.n.01
+מַשְׁנֵק	choke.n.02
+צ'וֹק	choke.n.02
+כְּנֵסִיָּה	church.n.02
+אֶזְרָחִי	civies.n.01	civilian.a.01	civil.a.04	civil.a.03	civilian.a.01	civil.a.04	civil.a.03
+כִּתָּה	classroom.n.01	class.n.02
+מִרְפְּאַת-חוּץ	clinic.n.03
+גַּרְדֶּרוֹבָּה	cloakroom.n.02
+מֶלְתָּחָה	cloakroom.n.02
+שָׁעוֹן	clock.n.01
+בִּגּוּד	clothing.n.01
+!מוֹעֲדוֹן	clubhouse.n.01
+קוֹק	cocaine.n.01
+קוֹקָאִין	cocaine.n.01
+אָרוֹן	coffin.n.01	cupboard.n.01
+אֲרוֹן-מֵתִים	coffin.n.01
+מַחְלֵף	commutator.n.01
+מָדוֹר	compartment.n.02
+!תִּרְכֹּבֶת	compound.n.03	compound.n.01
+מַדְחֵס	compressor.n.01
+קוֹמְפְּרֶסוֹר	compressor.n.01
+גּוּמִי	condom.n.01	rubber.n.01
+כּוֹבָעוֹן	condom.n.01
+קוֹנְדּוֹם	condom.n.01
+!מוֹלִיךְ	conductor.n.04
+חֲדַר-יְשִׁיבוֹת	conference_room.n.01
+חֲדַר-בַּקָּרָה	control_room.n.01
+!מִנְזָר	convent.n.01	monastery.n.01	convent.n.02
+!כִּירַיִם	cooker.n.01
+חֲצוֹצְרָה	cornet.n.01
+!מִסְדְּרוֹן	corridor.n.01
+!פְּרוֹזְדוֹר	corridor.n.01
+חֲגוֹרַת-בֶּטֶן	corset.n.01
+מָחוֹךְ	corset.n.01
+!מִגְרָשׁ	court.n.04	field.n.13	playing_field.n.02
+אוּלָם-בֵּית-הַמִּשְׁפָּט	court.n.02
+רֶפֶת	cowbarn.n.01
+מָנוֹף	crane.n.04
+עֲגוּרָן	crane.n.04
+אַרְגָּז	crate.n.01
+!לוּלָאָה	cringle.n.01
+סַיֶּרֶת	cruiser.n.02
+מַגְרֵסָה	crusher.n.01
+אַלָּה	cudgel.n.01
+וִילוֹן	curtain.n.01
+!חֵץ	dart.n.02
+חֵץ	dart.n.01
+!סִפּוּן	deck.n.04
+אוֹרְנָמֶנְט	decoration.n.01
+דֶּקוֹרַצְיָה	decoration.n.01
+דִּיפּ-פְרִיז	deep-freeze.n.01
+מַקְפֵּא	deep-freeze.n.01
+מַקְפִּיא	deep-freeze.n.01
+מַשְׁחֶתֶת	destroyer.n.01
+תַּרְשִׁים	diagram.n.01
+חִתּוּל	diaper.n.01
+דִּימֶר	dimmer.n.01
+וַסַּת-אוֹר	dimmer.n.01
+עַמְעָם	dimmer.n.01
+שֻׁלְחָן	dining_table.n.01
+שֻׁלְחָן-אֹכֶל	dining_table.n.01
+תַּחְפֹּשֶׂת	disguise.n.02
+מַקְפֵּצָה	diving_board.n.01
+!מִבְדּוֹק	dock.n.05	pier.n.01
+בֻּבָּה	doll.n.01	puppet.n.03
+כִּפָּה	dome.n.04
+!כִּפָּה	dome.n.03
+!כְּנִיסָה	doorway.n.01	gateway.n.01	origin.n.03
+דּוֹזָה	dose.n.01
+שִׂמְלָה	dress.n.01
+!מַקְדֵּחַ	drill.n.01	electric_drill.n.01
+טַפְטֶפֶת	dropper.n.01
+!סַם	drug.n.01	narcotic.n.01	remedy.n.02
+יָעֶה	dustpan.n.02
+בֵּית-מְגוּרִים	dwelling.n.01
+עָגִיל	earring.n.01
+כֶּסֶת	eiderdown.n.01	quilt.n.01
+שְׂמִיכַת-פּוּךְ	eiderdown.n.01	quilt.n.01
+!מְקָרֵר	electric_refrigerator.n.01
+מַעֲלִית	elevator.n.01
+שַׁגְרִירוּת	embassy.n.01
+סֵמֶל	emblem.n.01	symbol.n.01
+רִקְמָה	embroidery.n.02
+חֲדַר-מְנוֹעִים	engineering.n.03
+פֶּתַח	entrance.n.01
+!הִתְחַפְּרוּת	entrenchment.n.01
+!נִצָּב	extra.n.03
+אָרִיג	fabric.n.01
+בַּד	fabric.n.01
+!זִיּוּף	fake.n.01
+!תַּחְפֹּשֶׂת	fancy_dress.n.01
+חַוָּה	farm.n.01	eve.n.01
+מֶשֶׁק	farm.n.01
+!רוֹכְסָן	fastener.n.02
+בֵּית	fatigues.n.01	beth.n.01
+מַדֵּי-בֵּית	fatigues.n.01
+!מִגְבַּעַת	fedora.n.01
+לֶבֶד	felt.n.01
+גָּדֵר	fence.n.01
+מַעְבֹּרֶת	ferry.n.01
+סְפִינַת-מַעְבֹּרֶת	ferry.n.01
+!סִיב	fiber.n.05
+פִּסְלוֹן	figurine.n.01
+מָשׁוֹף	file.n.04
+פְּצִירָה	file.n.04
+שׁוֹפִין	file.n.04
+!בְּלִימָה	fillet.n.05
+!עֲצִירָה	fillet.n.05
+סֶרֶט	film.n.03	movie.n.01
+סֶרֶט-צִלּוּם	film.n.03
+מַסְנֵן	filter.n.01
+פִילְטֶר	filter.n.01
+!מַסְנֵן	filter.n.02
+חֲזִיז	firecracker.n.01
+אָח	fireplace.n.01	brother.n.01	brother.n.05	buddy.n.01	compatriot.n.01	nurse.n.01
+הִלּוּךְ-רִאשׁוֹן	first_gear.n.01
+רִאשׁוֹן	first_gear.n.01
+פָּנָס	flashlight.n.01
+פָּנַס-כִּיס	flashlight.n.01
+סְנַפִּיר	flipper.n.01
+!כַּדּוּרֶגֶל	football.n.02
+!מִבְצָר	fortress.n.01
+!מִפְגָּשׁ	forum.n.02
+!שֶׁבֶר	fraction.n.02
+!מִסְגֶּרֶת	framework.n.03	model.n.01
+קֶרֶן-יַעַר	french_horn.n.01
+קֶרֶן-צָרְפָתִית	french_horn.n.01
+פַּרְוָה	fur.n.03	fur.n.01
+רִהוּט	furnishing.n.02
+רָהִיט	furniture.n.01
+תֶּלֶם	furrow.n.01
+מַרְעוֹם	fuse.n.02
+כֶּבֶשׁ	gangplank.n.01
+!כֶּבֶשׁ	gangway.n.01
+מוּסָךְ	garage.n.01	garage.n.02
+גָּרָז'	garage.n.02
+גַּן	garden.n.01
+גִּנָּה	garden.n.01
+!גַּן	garden.n.03	kindergarten.n.01	nursery_school.n.01	garden.n.02
+!גִּנָּה	garden.n.03	garden.n.02
+בֶּגֶד	garment.n.01
+שַׁעַר-לוֹגִי	gate.n.02
+!מַהֲלָךְ	gear.n.03	course.n.02
+קוֹרָה	girder.n.01
+!דָּאוֹן	glider.n.01
+כְּפָפָה	glove.n.02
+שִׂמְלַת-עֶרֶב	gown.n.01
+גְּלִימָה	gown.n.05
+פּוּמְפִּיָּה	grater.n.01
+קֶבֶר	grave.n.02
+מַצֵּבָה	gravestone.n.01
+חֲמָמָה	greenhouse.n.01
+רִמּוֹן	grenade.n.01
+!מַטָּע	grove.n.02	plantation.n.01
+גִּיטָרָה	guitar.n.01
+מַרְזֵב	gutter.n.01
+אוּלָם	hall.n.03
+עַרְסָל	hammock.n.02
+אֲזִקִּים	handcuff.n.01
+מִטְפַּחַת	handkerchief.n.01	kerchief.n.01
+מִטפַּחַת-אַף	handkerchief.n.01
+מִמְחָטָה	handkerchief.n.01
+מִתְלֶה	hanger.n.02
+קוֹלָב	hanger.n.02
+!תְּלִיָּה	hanging.n.01
+הַרְמוֹן	harem.n.01
+רִתְמָה	harness.n.02
+!רִתְמָה	harness.n.01
+נֵבֶל	harp.n.01
+!נֵבֶל	harp.n.02
+כִּסּוּי-רֹאשׁ	headdress.n.01
+מִטְפַּחַת-רֹאשׁ	headscarf.n.01
+הֶלִיקוֹפְּטֶר	helicopter.n.01
+מַסּוֹק	helicopter.n.01
+הֶרוֹאִין	heroin.n.01
+לָבָן	heroin.n.01	white.n.11	egg_white.n.01
+מַעְדֵּר	hoe.n.01
+!נַרְתִּיק	holster.n.01	sheath.n.01
+בֵּית_אָבוֹת	home.n.09
+מְעוֹנוֹת	hostel.n.02
+אַכְסַנְיָה	hostel.n.01
+אַכְסַנְיַת-נֹעַר	hostel.n.01
+בֵּית-מָלוֹן	hotel.n.01
+מָלוֹן	hotel.n.01
+בַּיִת	house.n.01	house.n.12	stanza.n.01	house.n.06	family.n.01	house.n.05	class.n.05	sign_of_the_zodiac.n.01	byte.n.01
+דִּיּוּר	housing.n.01
+בִּקְתָּה	hovel.n.01
+צְרִיף	hovel.n.01
+רַחֶפֶת	hovercraft.n.01
+!צַיָּד	hunter.n.04
+!צְרִיף	hut.n.01
+קְלַסְתֵּרוֹן	identikit.n.01
+!כְּלִי	implement.n.01	utensil.n.01
+תַּשְׁתִּית	infrastructure.n.02
+!תַּשְׁתִּית	infrastructure.n.01
+מִכְשׁוּר	instrumentality.n.03
+מֶחְלָף	interchange.n.01
+אִינְטֶרְנֶט	internet.n.01
+מִרְשֶׁתֶת	internet.n.01
+רֶשֶׁת-הָאִינְטֶרְנֶט	internet.n.01
+זָ'קֶט	jacket.n.01
+מִקְטֹרֶן	jacket.n.01
+!כֶּלֶא	jail.n.01
+צִנְצֶנֶת	jar.n.01
+מְטוֹס-סִילוֹן	jet.n.01
+אֶבֶן	jewel.n.01	rock.n.01	rock.n.02
+אֶבֶן-חֵן	jewel.n.01
+אֶבֶן-טוֹבָה	jewel.n.01
+אֶבֶן-יְקָרָה	jewel.n.01
+תַּכְשִׁיט	jewelry.n.01
+!מַסּוֹרִית	jigsaw.n.02
+!כַּד	jug.n.01	jug.n.02
+מַזְכֶּרֶת	keepsake.n.01	memento.n.01
+סוּבֶנִיר	keepsake.n.01
+מְלוּנָה	kennel.n.01
+אֶבֶן-הָרֹאשָׁה	keystone.n.02
+חָקִי	khaki.n.01
+עֶרְכָּה	kit.n.02
+קִיט	kit.n.02
+מִטְבָּח	kitchen.n.01	cuisine.n.01
+בֶּרֶךְ	knee.n.03	knee.n.01
+סָרִיג	knit.n.03
+גֻּלָּה	knob.n.02	knob.n.01	marble.n.02
+מַעְבָּדָה	lab.n.01
+תַּחֲרָה	lace.n.02
+סֻלָּם	ladder.n.01
+מַצֶּקֶת	ladle.n.01
+!פִּסֵּחַ	lame.n.02
+אָהִיל	lampshade.n.01
+!נָתִיב	lane.n.01	lane.n.02
+!דַּשׁ	lapel.n.01
+מַחְרֵטָה	lathe.n.01
+מִכְבָּסָה	laundry.n.02
+כְּבִיסָה	laundry.n.01
+כְּבָסִים	laundry.n.01
+מַכְסֵחָה	lawn_mower.n.01
+מַכְסֵחַת-דֶּשֶׁא	lawn_mower.n.01
+!עָלֶה	leaf.n.03
+עֲדָשָׁה	lens.n.01	lens.n.04
+עֲדֶשֶׁת-אֱלֶקְטְרוֹנִים	lens.n.05
+מִכְסֶה	lid.n.02
+אוֹר	light.n.02	light.n.01
+אֹדֶם	lipstick.n.01
+לִיפְּסְטִיק	lipstick.n.01
+שְׂפָתוֹן	lipstick.n.01
+עֲלִיַּת-גַּג	loft.n.02
+נוּל	loom.n.01
+!מַשָּׂאִית	lorry.n.02
+רְפָפָה	louver.n.01
+!שָׁלָב	louvre.n.01	slat.n.01
+לִירָה	lyre.n.01
+מַגְנֵט	magnet.n.01
+רְחוֹב-רָאשִׁי	main_street.n.01
+אִפּוּר	makeup.n.01
+מַפָּה	map.n.01	tablecloth.n.01
+ג'וּלָה	marble.n.02
+מִזְרוֹן	mattress.n.01
+מִזְרָן	mattress.n.01
+סַם	medicine.n.02
+תְּרוּפָה	medicine.n.02
+מַגְבִּיר-קוֹל	megaphone.n.01
+מֶגָפוֹן	megaphone.n.01
+אַנְדַּרְטָה	memorial.n.03
+גַּלְעֵד	memorial.n.03
+מַצֵּבַת-זִכָּרוֹן	memorial.n.03
+!מֶכֶר	merchandise.n.01
+מֶטְרוֹ	metro.n.01
+רַכֶּבֶת-תַּחְתִּית	metro.n.01
+תַּחְתִּית	metro.n.01
+מֻצָּב	military_post.n.01
+!טְחִינָה	milling.n.01
+!מַטְחֵנָה	mincer.n.01
+מוֹקֵשׁ	mine.n.02
+מִכְרֶה	mine.n.01
+קַטְנוֹעַ	minibike.n.01
+מַרְאָה	mirror.n.01
+רְאִי	mirror.n.01	mirror.n.02
+!טִיל	missile.n.01	projectile.n.01
+מַרְגֵּמָה	mortar.n.01
+מַכְתֵּשׁ	mortar.n.03	crater.n.03
+מִסְגָּד	mosque.n.01
+!מָנוֹעַ	motor.n.01
+אוֹפַנּוֹעַ	motorcycle.n.01
+תֵּל	mound.n.04	pile.n.01	knoll.n.01
+!גִּבְעָה	mound.n.01
+מוּזֵאוֹן	museum.n.01
+מַסְמֵר	nail.n.02
+מַפִּית	napkin.n.01
+מַחְרֹזֶת	necklace.n.01
+!מַחְשׂוֹף	neckline.n.01
+עֲנִיבָה	necktie.n.01
+רֶשֶׁת	network.n.02	network.n.01
+רֶשֶׁת-שִׁדּוּר	network.n.02
+!רֶשֶׁת	network.n.05
+עִתּוֹן	newspaper.n.03	newspaper.n.01	newspaper.n.02
+לָקוֹחַ	node.n.08	customer.n.01
+!מִשְׁתָּלָה	nursery.n.01
+מָשׁוֹט	oar.n.01
+עַצְמִית	objective.n.02
+אַבּוּב	oboe.n.01
+!מְכָלִית	oil_tanker.n.01	tanker.n.02
+!תִּזְמֹרֶת	orchestra.n.02
+אוֹרְגָּן	organ.n.05
+עוּגָב	organ.n.05
+תַּנּוּר	oven.n.01
+חֲבִילָה	package.n.02	package.n.01
+צֶבַע	paint.n.01
+מִכְחוֹל	paintbrush.n.01
+צִיּוּר	painting.n.01
+מַצְנֵחַ	parachute.n.01
+שִׁמְשִׁיָּה	parasol.n.01
+מְחִצָּה	partition.n.01	partition.n.02
+בִּיתָן	pavilion.n.01
+!דַּוְשָׁה	pedal.n.02	pedal_point.n.01
+עִפָּרוֹן	pencil.n.01
+מְטוּטֶלֶת	pendulum.n.01
+בֹּשֶׂם	perfume.n.02
+פוֹטוֹגְרָף	photograph.n.01
+תְּמוּנָה	photograph.n.01	scene.n.06
+תַּצְלוּם	photograph.n.01
+פְּסַנְתֵּר	piano.n.01
+גְּלוּלָה	pill.n.02	pill.n.05
+טַבְלִית	pill.n.02
+כַּדּוּר	pill.n.02
+!גְּלוּלָה	pill.n.01
+גְּלוּלָה-לִמְנִיעַת-הֵרָיוֹן	pill.n.05
+סַד	pillory.n.01
+כַּר	pillow.n.01	hayfield.n.01
+אֶקְדָּח	pistol.n.01
+בֻּכְנָה	piston.n.02
+מַחְצָבָה	pit.n.09
+קִלְשׁוֹן	pitchfork.n.01
+מַקְצוּעָה	plane.n.05
+!מַקְצוּעָה	plane.n.04
+!מְלִיאָה	plenum.n.02
+פְּקָק	plug.n.01	cork.n.01
+צַנֶּרֶת	plumbing.n.01
+אוֹלָר	pocketknife.n.01
+פּוֹרְטְפוֹלְיוֹ	portfolio.n.01
+חֶרֶס	potsherd.n.01
+מַשְׁאֵבָה	pump.n.01
+נַעַל-סִירָה	pump.n.03
+מַרְיוֹנֶטָה	puppet.n.01
+!רִיב	quarrel.n.02	quarrel.n.01
+מַכָּ"ם	radar.n.01
+רָדָאר	radar.n.01
+מַגְרֵפָה	rake.n.03
+דֶּלְפֵּק-קַבָּלָה	reception_desk.n.01
+!סְלִיל	reel.n.03
+!הִשְׁתַּקְּפוּת	reflection.n.05
+מְקָרֵר	refrigerator.n.01
+פְרִיגִ'ידֶר	refrigerator.n.01
+מִמְסָר	relay.n.05
+שַׁלָּט	remote_control.n.01
+שַׁלַּט-רַחַק	remote_control.n.01
+נַגָּד	resistor.n.01
+מִסְעָדָה	restaurant.n.01
+רוֹבֶה	rifle.n.01
+מַחְסוֹם	roadblock.n.02
+מִסְלָעָה	rock_garden.n.01
+גַּג	roof.n.01
+!גַּג	roof.n.02
+חֶדֶר	room.n.01	ventricle.n.02
+מַרְתֵּף-יֵינוֹת	root_cellar.n.01
+!חֶבֶל	rope.n.01
+גַּל	rotating_shaft.n.01	wave.n.01	pile.n.01
+סֹמֶק	rouge.n.01
+רוּז'	rouge.n.01
+מַחַק	rubber_eraser.n.01
+מַרְבָד	rug.n.01
+שָׁטִיחַ	rug.n.01
+סַרְגֵּל	rule.n.12
+מַסְלוּל	runway.n.04	path.n.03	path.n.04
+!כַּסֶּפֶת	safe.n.01	safe.n.02
+סַנְדָּל	sandal.n.01
+יַלְקוּט	satchel.n.01
+לַוְיָן	satellite.n.01	satellite.n.03
+!נְדָן	scabbard.n.01
+!דַּחְלִיל	scarecrow.n.01
+צָעִיף	scarf.n.01
+מַבְרֵג	screwdriver.n.01
+תַּבְרִיג	screw_thread.n.01
+חֶרְמֵשׁ	scythe.n.01
+זַרְקוֹר	searchlight.n.01
+מוֹשָׁב	seat.n.03
+מִכְתָּבָה	secretary.n.04
+!קֶטַע	section.n.04	part.n.09	segment.n.02
+בִּיב	sewer.n.01
+בִּיּוּב	sewer.n.01	sewage.n.01
+מַשְׁחֵזָה	sharpener.n.01
+שָׁל	shawl.n.01
+!סְכָכָה	shed.n.01
+יְרִיעַת-פַּח	sheet_metal.n.01
+פַּח	sheet_metal.n.01
+מַדָּף	shelf.n.01
+מָגֵן	shield.n.02
+!מָגֵן	shield.n.01
+אֳנִיָּה	ship.n.01
+!מִסְפָּנָה	shipyard.n.01	dockyard.n.01
+חֻלְצָה	shirt.n.01
+שְׂרוֹךְ-נַעַל	shoelace.n.01
+חֲנוּת	shop.n.01
+!קֶצֶר	short_circuit.n.01
+קֶצֶר	short_circuit.n.01
+קִצּוּר-דֶּרֶךְ	shortcut.n.01
+וִילוֹן-מִקְלַחַת	shower_curtain.n.01
+מִקְלְחוֹן	shower_stall.n.01
+מָקוֹם-קָדוֹשׁ	shrine.n.01
+מַגָּל	sickle.n.01
+עַמָם-פְּלִיטָה	silencer.n.02
+מֶשִׁי	silk.n.01
+סִיח'	skewer.n.01
+שִׁפּוּד	skewer.n.01
+שַׁפּוּד	skewer.n.01
+!לוּחַ	slab.n.01	board.n.04
+שַׁרְווּל	sleeve.n.01
+!שַׁרְווּל	sleeve.n.02
+מַגְלֵשָׁה	slide.n.04
+מִקְלַעַת	slingshot.n.01
+קֶלַע	slingshot.n.01
+רוּגַטְקָה	slingshot.n.01
+פֶּתֶק	slip.n.10
+פִּתְקָה	slip.n.10
+!נָחָשׁ	snake.n.05
+גֶּרֶב	sock.n.01
+סַפָּה	sofa.n.01
+פַּסְקוֹל	soundtrack.n.01
+רֶכֶב-חָלָל	spacecraft.n.01
+חֲנִית	spear.n.01
+!חֲנִית	spear.n.02
+חִשּׁוּר	spoke.n.01
+כַּף	spoon.n.01	spoon.n.02
+!כַּף	spoon.n.03
+מַמְטֵרָה	sprinkler.n.01
+מַחְבֵּט-סְקְווֹשׁ	squash_racket.n.01
+אֻרְוָה	stable.n.01
+חֲלָלִית	starship.n.01
+סְפִינַת-חָלָל	starship.n.01
+מַשְׁחֵז	steel.n.03
+מַדְרֵגָה	step.n.04
+עַיִן	stitch.n.01	eye.n.01	ayin.n.01
+בּוּרְסָה	stock_exchange.n.01
+מְסַנֶּנֶת	strainer.n.01
+מִסְנֶנֶת	strainer.n.01
+חַשְׁמַלִּית	streetcar.n.01
+!מָעֹז	stronghold.n.01
+!מְצָד	stronghold.n.01
+מִבְנֶה	structure.n.01	structure.n.02	framework.n.02	structure.n.04	structure.n.03	social_organization.n.01
+אֻלְפָּן	studio.n.01	studio.n.03
+סְטוּדְיוֹ	studio.n.01
+דִּירַת-סְטוּדְיוֹ	studio_apartment.n.01
+מֻשָּׂא-תֵּאוּר	subject.n.02
+!זַמְשׁ	suede_cloth.n.01
+חֲלִיפָה	suit.n.01	substitute.n.01
+!סַךְ	sum.n.05
+!סָךְ	sum.n.05
+!סְכוּם	sum.n.05
+פְּתִילָה	suppository.n.01
+גַּלְשָׁן	surfboard.n.01
+!מַתַּכְתִּי	suspension.n.05
+סְוֶדֶר	sweater.n.01
+!מֶרְכָּזִיָּה	switchboard.n.01
+חֶרֶב	sword.n.01
+מַזְרֵק	syringe.n.01
+טַמְבּוּרִין	tambourine.n.01
+תֹּף-מִרְיָם	tambourine.n.01
+מֶטֶר	tape.n.04	meter.n.01
+סֶרֶט-מִדָּה	tape.n.04
+טֵיְפּ	tape_recorder.n.01
+רְשַׁמְקוֹל	tape_recorder.n.01
+גְּדִיל	tassel.n.01
+כַּפִּית	teaspoon.n.02	teaspoon.n.01
+טֶלֶפוֹן	telephone.n.01	call.n.01
+טֶלֶבִיזְיָה	television.n.02	television_receiver.n.01
+טֶלֶוִיזְיָה	television.n.02	television_receiver.n.01
+הַמָּסָךְ-הַקָּטָן	television_receiver.n.01
+אֹהֶל	tent.n.01
+מָסוֹף	terminal.n.04
+תֵּאַטְרוֹן	theater.n.01	dramaturgy.n.01	company.n.04
+מַדְחֹם	thermometer.n.01
+תֶּרְמוֹמֶטֶר	thermometer.n.01
+דָּבָר	thing.n.08
+חוּט	thread.n.01	wire.n.01
+אֶדֶן	tie.n.08	windowsill.n.01
+אָרִיחַ	tile.n.01
+מַרְצֶפֶת	tile.n.01
+מַחְצֵצָה	toothpick.n.01
+קֵיסָם	toothpick.n.01
+קֵיסַם-שִׁנַּיִם	toothpick.n.01
+מַגֶּבֶת	towel.n.01
+מִגְדָּל	tower.n.01
+בֵּית-הָעִירִיָּה	town_hall.n.01
+הָעִירִיָּה	town_hall.n.01
+טְרַנְסְפוֹרְמָטוֹר	transformer.n.01
+שַׁנַּאי	transformer.n.01
+מַשְׁדֵּר	transmitter.n.03
+טַס	tray.n.01
+מַגָּשׁ	tray.n.01
+מְשֻׁלָּשׁ	triangle.n.05	triangle.n.04	triangle.n.01
+מִנְהָרָה	tunnel.n.01
+מִטְרִיָּה	umbrella.n.01
+הַלְבָּשָׁה-תַּחְתּוֹנָה	underwear.n.01
+לְבָנִים	underwear.n.01
+מַדִּים	uniform.n.01
+רִפּוּד	upholstery.n.01
+חִסּוּן	vaccine.n.01
+תַּרְכִּיב	vaccine.n.01
+אֲגַרְטָל	vase.n.01
+רֶכֶב	vehicle.n.01
+קְטִיפָה	velvet.n.01
+וֶנְטִילָטוֹר	ventilator.n.01
+מְאַוְרֵר	ventilator.n.01
+כֶּרֶם	vineyard.n.01
+כִּנּוֹר	violin.n.01
+אַרְנָק	wallet.n.01
+שְׁתִי	warp.n.04
+מִגְדַּל-תַּצְפִּית	watchtower.n.01
+בֶּרֶז	water_faucet.n.01
+כְּלִי-זַיִן	weapon.n.01
+כְּלִי-נֶשֶׁק	weapon.n.01
+נֶשֶׁק	weapon.n.01
+שׁוֹט	whip.n.01
+מָגֵן-רוּחַ	windshield.n.01
+חוּט-חַשְׁמַל	wire.n.02
+עֵרֶב	woof.n.01
+מְקוֹם-עֲבוֹדָה	workplace.n.01
+תַּחֲנַת-עֲבוֹדָה	workstation.n.01
+זֵר	wreath.n.01
+שָׂרִיד	wreckage.n.01
+מִתְקָן-סְחִיטָה	wringer.n.01
+!פְּרִי	yield.n.03
+אִישִׁיּוּת	personality.n.01	personality.n.02
+!הַפְנָמָה	introversion.n.03
+הִתְבּוֹדְדוּת	aloneness.n.01
+טֶמְפֶּרָמֶנְט	disposition.n.01	temperament.n.02
+מֶזֶג	disposition.n.01
+!הִתְלַהֲבוּת	exuberance.n.02	enthusiasm.n.03	enthusiasm.n.01
+אָפַּתְיָה	apathy.n.02
+מַתִּירָנוּת	permissiveness.n.01
+אֹרֶך-רוּחַ	patience.n.01
+סַבְלָנוּת	patience.n.01
+אַגְרֶסִיבִיּוּת	aggressiveness.n.03
+תּוֹקְפָנוּת	aggressiveness.n.03
+!הִסּוּס	reluctance.n.02
+חֻמְרָה	graveness.n.01
+שַׁתְקָנוּת	reserve.n.07
+שְׁכֵנוּת-טוֹבָה	neighborliness.n.01
+!הַרְפַּתְקָנוּת	adventurism.n.01
+זְהִירוּת	caution.n.01	caution.n.03
+גַּבְרוּת	masculinity.n.02	penis.n.01
+גַּבְרִיּוּת	masculinity.n.02
+!נָשִׁיּוּת	womanliness.n.01
+!מְהֵימָנוּת	trustworthiness.n.01
+אַחְרָיוּת	responsibility.n.03	guarantee.n.01
+אַחֲרָיוּת	responsibility.n.03	guarantee.n.01
+אֲמִינוּת	dependability.n.01
+מְהֵימָנוּת	dependability.n.01
+!הַקְפָּדָה	meticulousness.n.01
+יְסוֹדִיּוּת	thoroughness.n.01
+יֹפִי	beauty.n.01
+!תְּהִלָּה	glory.n.02	glory.n.01
+זֹהַר	glamor.n.01	radiance.n.02
+קֶסֶם	appeal.n.02
+כִּעוּר	ugliness.n.01
+!הַגְדָּרָה	definition.n.02	definition.n.01
+!עִרְפּוּל	haziness.n.02
+תְּכוּנָה	quality.n.01	property.n.04
+קְבִיעוּת	constancy.n.01	permanence.n.01
+חַד-ְגּוֹנִיּוּת	monotony.n.01
+חַדְגּוֹנִיּוּת	monotony.n.01
+מוֹנוֹטוֹנִיּוּת	monotony.n.01
+!דִּמְיוֹן	resemblance.n.01
+תְּהוֹם	gulf.n.02
+סְבִירוּת	likelihood.n.01
+סָפֵק	doubt.n.02	doubt.n.01
+מוּחָשִׁיּוּת	concreteness.n.01
+מַמָּשִׁיּוּת	concreteness.n.01
+יִחוּד	singularity.n.01
+יִחוּדִיּוּת	singularity.n.01
+מְיֻחָדוּת	singularity.n.01
+מֻרְכָּבוּת	complexity.n.01
+שִׁיטָתִיּוּת	orderliness.n.01
+!נַיָּדוּת	mobility.n.01
+יַצִּיבוּת	stability.n.01
+מְלָאכוּתִיּוּת	artificiality.n.01
+יָמְרָה	pretentiousness.n.02
+!דִּיּוּק	preciseness.n.02
+נִבְזוּת	baseness.n.01
+נִבְזִיּוּת	baseness.n.01
+נַוְלוּת	baseness.n.01
+שִׁפְלוּת	baseness.n.01
+חֻקִּיּוּת	legality.n.01
+בְּהִירוּת	clarity.n.01
+אֲדִיקוּת	piety.n.01
+דְּבֵקוּת	devoutness.n.01
+אוֹת-קַיִן	mark_of_cain.n.01
+חֶמְלָה	compassion.n.02
+!קַמְצָנוּת	miserliness.n.01
+יָזְמָה	enterprise.n.03
+אַמְבִּיצְיָה	ambition.n.02
+הֶשֵּׂגִיּוּת	ambition.n.02
+שְׁאַפְתָּנוּת	ambition.n.02
+!הַשְׁעָרָה	presumption.n.03
+חֶסֶד	grace.n.07
+הִתְחַשְּׁבוּת	consideration.n.04
+!מַצְפּוּן	conscience.n.02	conscience.n.03	conscience.n.01
+טוּב	good.n.02
+גְּרִימַת-עָוֶל	injustice.n.02
+קֹדֶשׁ	holiness.n.01
+קְדֻשָּׁה	holiness.n.01
+אֹמֶץ	courage.n.01
+גְּבוּרָה	heroism.n.01
+הֶרוֹאִיזְם	heroism.n.01
+עַקְשָׁנוּת	stubbornness.n.02	stubbornness.n.01
+!מַטָּרָה	determination.n.02
+!תַּעֲשִׂיָּה	diligence.n.02	industry.n.01
+לְבָבִיּוּת	heartiness.n.02
+יֹשֶׁר	honesty.n.01
+יֹשֶׁר-לֵב	truthfulness.n.01
+!נֶאֱמָנוּת	fidelity.n.02	trust_territory.n.01
+לְאֻמִּיּוּת	patriotism.n.01
+פַּטְרִיוֹטִיּוּת	patriotism.n.01
+פַּטְרִיוֹטִיזְם	patriotism.n.01
+נָאִיבִיּוּת	naivete.n.01
+תְּמִימוּת	naivete.n.01
+סַגְפָנוּת	austerity.n.01
+פְּרִישׁוּת	austerity.n.01
+צֶנַע	austerity.n.01
+כָּבוֹד	dignity.n.01
+כָּבוֹד-עַצְמִי	dignity.n.01
+רַבְרְבָנוּת	boastfulness.n.01
+יְהִירוּת	arrogance.n.01
+יָהֳרָה	arrogance.n.01
+!בִּלְעָדִיּוּת	clannishness.n.01
+עֲנָוָה	humility.n.01
+עַנְוְתָנוּת	humility.n.01
+חַשְׁדָנוּת	suspicion.n.04
+בַּרְרָנוּת	fastidiousness.n.01
+!עֲנָוָה	modesty.n.02
+!צְנִיעוּת	modesty.n.02
+זִמָּה	obscenity.n.01
+צַיְתָנוּת	obedience.n.02
+קַשְׁיוּת-עֹרֶף	stubbornness.n.01
+רִשְׁמִיּוּת	formality.n.02
+טִקְסִיּוּת	ceremoniousness.n.01
+אַבִּירוּת	chivalry.n.01	chivalry.n.02	knighthood.n.01
+דֶּרֶךְ-אֶרֶץ	education.n.05
+סִגְנוֹן	manner.n.01
+צוּרָה	manner.n.01
+סִגְנוֹן-חַיִּים	life_style.n.01
+!אֹפֶן	wise.n.01
+!צוּרָה	wise.n.01
+!שִׁיטָה	wise.n.01
+שֶׁלֶד	framework.n.02
+הֶרְכֵּב	constitution.n.04	ensemble.n.01
+צְמִיגוּת	viscosity.n.01
+!דְּחִיסוּת	compressibility.n.01
+פְּרִיכוּת	brittleness.n.01
+!חֲדִירוּת	penetrability.n.01
+!נְטִיָּה	tendency.n.03	inclination.n.01	leaning.n.01
+צָמָא	hunger.n.02	thirst.n.01
+צִמָּאוֹן	hunger.n.02	thirst.n.01
+רָעָב	hunger.n.02	hunger.n.01	dearth.n.01
+רְכוּשָׁנוּת	acquisitiveness.n.01
+בָּרָק	shininess.n.01	lightning.n.01
+גָּוֶן	shade.n.02	nuance.n.01
+לֹבֶן	white.n.02
+!גִּיר	chalk.n.02
+אָדֹם	red.n.01
+!שָׁנִי	crimson.n.01	scarlet.n.01
+צְרִידוּת	gruffness.n.01
+פְּיָאנוֹ	piano.n.02
+פְּיָאנִיסִימוֹ	piano.n.02
+!תַּבְלִין	spiciness.n.01	flavorer.n.01	spice.n.02	spice.n.01
+מִבְנֶה-גּוּף	physique.n.01
+מִשְׁמַנִּים	fatness.n.01
+שֹׁמֶן	fatness.n.01
+גֶ'נְדֶר	sex.n.04
+מִגְדָּר	sex.n.04
+מִין	sex.n.04	kind.n.01	gender.n.01	sex.n.02
+טֶמְפֶּרָטוּרָה	temperature.n.01
+מִשְׁקָל	weight.n.01	declension.n.04
+מוֹמֶנְטוּם	momentum.n.02
+תֶּנַע	momentum.n.02
+!שְׁרִיר	brawn.n.01	muscle.n.01
+תְּנוּפָה	momentum.n.01
+גֶּשֶׁם	rain.n.03	rain.n.01
+מָטָר	rain.n.03
+טַיְמִינְג	timing.n.01
+עִתּוּי	timing.n.01
+!מֶשֶׁךְ	duration.n.03
+קֶבַע	permanence.n.01	standing_army.n.01
+!תְּמוּתָה	mortality.n.01
+מְהִירוּת	speed.n.02
+קֶצֶב	pace.n.03	tempo.n.01	tempo.n.02
+הֶאָטָה	deceleration.n.01
+שִׁפּוּעַ	gradient.n.02
+נְטִיָּה	pitch.n.05	tendency.n.04	inflection.n.01
+תְּלִילוּת	abruptness.n.02
+מֶרְכָּזִיּוּת	centrality.n.01
+תְּנוּחָה	position.n.04
+עֶמְדָּה	stance.n.01
+סִכּוּי	probability.n.01
+הֶקֵּף	circumference.n.01	perimeter.n.02	extent.n.01
+קֹטֶן	smallness.n.01
+קַטְנוּת	smallness.n.01
+נְפִילָה	drop.n.03	drop.n.06	slump.n.01
+חֶסֶר	deficit.n.01
+מַחְסוֹר	deficit.n.01	lack.n.01
+שֶׁפַע	abundance.n.01	profusion.n.01
+לוּקְסוּס	luxury.n.01
+מוֹתָרוֹת	luxury.n.01
+עֹדֶף	excess.n.01
+גֹּדֶשׁ	overplus.n.01
+עִקָּר	majority.n.01
+רֹב	majority.n.01	majority.n.02
+מִעוּט	minority.n.02	minority.n.01
+!הֶקֵּף	extent.n.02	expanse.n.03
+!מִדָּה	extent.n.02	expanse.n.03
+גְּבוּל	limit.n.01	frontier.n.02	margin.n.01
+רוּם	altitude.n.01
+עֵרֶךְ	worth.n.02
+כְּדָאִיּוּת	worthwhileness.n.01
+טוֹב	good.n.03	good.a.01	successful.a.01	good.a.01	successful.a.01	well.r.01
+!מְחִיר	monetary_value.n.01
+פְּאֵר	lavishness.n.01
+!כְּשִׁירוּת	fitness.n.04
+אִי-כְּשִׁירוּת	incompetence.n.01
+סִיּוּעַ	aid.n.01
+יִתְרוֹן	advantage.n.01	profit.n.02
+טוֹבַת-הֲנָאָה	profit.n.02
+רֶוַח	profit.n.02	space.n.02
+!רִוְחִיּוּת	profitableness.n.02
+קְדִימָה	preference.n.04
+קְדִימוּת	preference.n.04
+!טוּב	good.n.01
+מִגְבָּלָה	limitation.n.02
+מְחִיר	price.n.03	expense.n.02	price.n.02
+!הַרְסָנוּת	destructiveness.n.01
+רַעַל	poison.n.02	poison.n.01
+חֲשִׁיבוּת	importance.n.01
+!דְּחִיפוּת	urgency.n.02	urgency.n.01
+זְכוּת-יֶתֶר	prerogative.n.01
+פְּרִיבִילֶגְיָה	prerogative.n.01
+שְׁלִיטָה	grip.n.06
+יְכֹלֶת	ability.n.01
+גּוּף	body.n.01	person.n.03
+גּוּף-הָאָדָם	human_body.n.01
+!גּוּפָה	cadaver.n.01
+חָנוּט	mummy.n.02
+מוּמְיָה	mummy.n.02
+!פֶּה	orifice.n.01
+תַּלְתַּל	lock.n.02
+פֶּרְמָנֶנְט	permanent_wave.n.01
+שָׂפָם	mustache.n.01
+בָּשָׂר	flesh.n.01	meat.n.01	pulp.n.02
+רִקְמַת-שֻׁמָּן	adipose_tissue.n.01
+שֻׁמָּן	adipose_tissue.n.01	fat.n.01
+גֶּרֶם	bone.n.01
+פִּקַּת-הַבֶּרֶךְ	patella.n.01
+צֶלַע	rib.n.02	side.n.07
+חֻלְיָה	vertebra.n.01	squad.n.01
+סְחוּס	cartilage.n.01
+שְׁרִיר	muscle.n.02
+גִּיד	tendon.n.01	penis.n.01
+אֵיבָר	organ.n.01	penis.n.01
+עִנְבָּל	uvula.n.01
+חֵךְ	palate.n.01
+גַּבָּה	eyebrow.n.01
+עַפְעַף	eyelid.n.01
+שְׁמוּרַת-עַיִן	eyelid.n.01
+קַרְנִית	cornea.n.01
+בַּלּוּטָה	gland.n.01
+כִּלְיָה	kidney.n.01
+כָּבֵד	liver.n.01	liver.n.02	heavy.a.01	heavy.a.01
+לַבְלַב	pancreas.n.01
+פַּנְקְרֵאָס	pancreas.n.01
+רֵאָה	lung.n.01
+קֵבָה	stomach.n.01
+!מִיץ	juice.n.04
+חָלָב	milk.n.02	milk.n.01	milk.n.04
+זֵעָה	perspiration.n.01
+מָרָה	bile.n.01
+מֻגְלָה	pus.n.02
+רִשְׁתִּית	retina.n.01
+!גֶּן	gene.n.01
+זֶרַע	sperm.n.01
+תָּא-זֶרַע	sperm.n.01
+אֻנָּה	lobe.n.01
+!חֶדֶר	ventricle.n.01
+אֵיבְרֵי-הַמִּין	genitalia.n.01
+עֶרְוָה	genitalia.n.01
+רֶחֶם	uterus.n.01
+בְּתוּלִים	hymen.n.02	virginity.n.01
+בְּתוּלִין	hymen.n.02
+קְרוּם-הַבְּתוּלִים	hymen.n.02
+פִּין	penis.n.01
+עָרְלָה	prepuce.n.02
+וֵשֶׁט	esophagus.n.01
+מְעִי	intestine.n.01
+קַרְקֶפֶת	scalp.n.01
+עֶצֶם-הַמֵּצַח	frontal_bone.n.01
+עֹרֶף	nape.n.01
+בֵּית-הֶחָזֶה	thorax.n.02
+חָזֶה	breast.n.01	breast.n.03
+דַּד	breast.n.02
+צִיצִי	breast.n.02
+שָׁד	breast.n.02
+פִּטְמָה	nipple.n.01
+כֶּרֶס	belly.n.02
+בֶּטֶן	abdomen.n.01
+אֲחוֹרַיִם	buttocks.n.01
+טוּסִיק	buttocks.n.01
+יַשְׁבָן	buttocks.n.01
+עֲגָבוֹת	buttocks.n.01
+עַכּוּז	buttocks.n.01
+שֵׁת	buttocks.n.01
+תַּחַת	buttocks.n.01
+יָרֵךְ	thigh.n.01	second_joint.n.01
+יַד-יָמִין	right.n.05
+יָמִין	right.n.05
+אֶצְבַּע	digit.n.03	finger.n.02
+אֲגוּדָל	thumb.n.01
+בֹּהֶן	big_toe.n.01
+קַרְסֹל	ankle.n.01
+צִפֹּרֶן	nail.n.01
+מִפְרָק	joint.n.01
+פֶּרֶק	joint.n.01	chapter.n.01
+סַנְטֵר	chin.n.01
+מֵצַח	brow.n.01
+כּוֹחַ	ability.n.02
+כֹּשֶׁר	ability.n.02
+עָרְמָה	craft.n.05
+עַרְמוּמִיּוּת	craft.n.05
+תַּחְמָנוּת	craft.n.05
+פִּקְחוּת	shrewdness.n.01
+אִינְסְטִינְקְט	instinct.n.01
+יְצִירָתִיּוּת	creativity.n.01
+מָקוֹם-דִּמְיוֹנִי	imaginary_place.n.01
+!דּוּמָה	afterworld.n.01
+מַעְלָה	heaven.n.02	up.r.01
+שָׁמַיִם	heaven.n.02	sky.n.01
+!מַדָּע	skill.n.02	scientific_knowledge.n.01
+!מְיֻמָּנוּת	skill.n.02
+מְיֻמָּנוּת	skill.n.01
+יַמָּאוּת	seamanship.n.01
+מֻמְחִיּוּת	expertness.n.01
+פְּרוֹפֶסְיוֹנָלִיּוּת	professionalism.n.01
+יְכֹלֶת-קוֹגְנִיטִיבִית	faculty.n.01
+כֹּשֶׁר-מֶנְטָלִי	faculty.n.01
+חוּשׁ	sense.n.03
+רָצוֹן	volition.n.01
+!רְאִיָּה	eyesight.n.01
+שִׁיטָה	method.n.01
+!פִּתְרוֹן	solution.n.03
+מוֹסָד	institution.n.03	institution.n.01
+עִנְיָן	matter.n.01
+מְבוּכָה	daze.n.02
+אֶנִיגְמָה	mystery.n.01
+חִידָה	mystery.n.01
+מִסְתּוֹרִין	mystery.n.01
+תַּעֲלוּמָה	mystery.n.01
+צָרָה	trouble.n.01
+הִסּוּס	hesitation.n.01
+נִיחוֹחַ	aroma.n.02
+סִרָחוֹן	malodor.n.01
+סֵרָחוֹן	malodor.n.01
+עִפּוּשׁ	malodor.n.01
+צַחֲנָה	malodor.n.01
+מְלִיחוּת	salt.n.04
+חֹם	heat.n.03
+סֵדֶר	arrangement.n.03	order.n.03	orderliness.n.02
+!מִיּוּן	classification.n.03
+כִּסּוּחַ	knock.n.02
+קְטִילָה	knock.n.02
+יִחוּס	attribution.n.02
+שִׁיּוּךְ	attribution.n.02
+שׁוּמָה	evaluation.n.02
+שִׁעְרוּךְ	reappraisal.n.01
+הַבְחָנָה	discrimination.n.02
+גִּזְרָה	cut.n.10
+הַטְבָּעָה	imprinting.n.01
+זִכָּרוֹן	memory.n.02	memory.n.01
+!סֵמֶל	symbol.n.02	emblem.n.02
+אַנְתְּרוֹפּוֹמוֹרְפִיזְם	anthropomorphism.n.01
+סִיּוּט	nightmare.n.02	nightmare.n.01
+חֲלוֹם-רָטוּב	wet_dream.n.01
+חֲשִׁיבָה	thinking.n.01
+מַחְשָׁבָה	thinking.n.01	idea.n.01	thought.n.03
+נִבּוּי	prediction.n.01	prediction.n.02
+!הֶקֵּשׁ	syllogism.n.01
+!שְׁקִילָה	deliberation.n.02
+!בְּחִירָה	choice.n.01
+אַלְטֶרְנָטִיבָה	option.n.02
+חֲלוּפָה	option.n.02
+!הֶסְבֵּר	explanation.n.02	explanation.n.01
+!הֶסְכֵּם	agreement.n.04	agreement.n.03
+!הַבְרָקָה	inspiration.n.03
+!חֲקִירָה	inquiry.n.01	question.n.01
+!מֶחְקָר	inquiry.n.01
+!אֲחִיזָה	appreciation.n.01
+!גִּלּוּי	revelation.n.02	discovery.n.02
+כְּלַל-הַיֶּדַע	content.n.05
+!נוֹשֵׂא	topic.n.02	subject.n.01
+!עִנְיָן	topic.n.02
+נָתוּן	datum.n.01
+!דֻּגְמָה	example.n.01	exemplar.n.01	model.n.07
+!תַּעֲנוּג	joy.n.02
+כְּאֵב-רֹאשׁ	annoyance.n.04
+מִטְרָד	annoyance.n.04
+קוֹץ-בַּתַּחַת	annoyance.n.04
+מַעֲמָסָה	burden.n.01
+מַשָּׂא	burden.n.01
+נֵטֶל	burden.n.01
+עֹל	burden.n.01
+עֹמֶס	burden.n.01
+תִּיק	burden.n.01
+!צַעַר	grief.n.02	sorrow.n.02
+מֻשָּׂג	concept.n.01
+סוּג	kind.n.01	genus.n.02
+!תֵּאוּר	description.n.03	description.n.02
+תְּחוּם	department.n.03	discipline.n.01
+!מוֹרֶה	teacher.n.02
+סְכוּם	sum.n.02
+הַתְחָלָה	beginning.n.03	beginning.n.02
+דְּרִישַׁת-קְדָם	prerequisite.n.01
+דְּרִישָׁה	requirement.n.01
+!טָעוּת	mistake.n.02	error.n.07
+מְדִינִיּוּת	policy.n.01	policy.n.02
+!דִּין	legal_system.n.01	department_of_justice.n.01	consequence.n.01
+!מִשְׁטָר	regimen.n.01
+מַשְׁמָעוּת	meaning.n.02
+מוֹפֵת	paragon.n.01
+!יֹפִי	beauty.n.03
+זֵכֶר	memory.n.01	trace.n.02
+דֵּעָה	opinion.n.01	opinion.n.02
+!דָּת	religion.n.01
+הַבְטָחָה	promise.n.02	promise.n.01
+עֲרָכִים	values.n.01
+לְאֻמָּנוּת	nationalism.n.02
+חִלּוֹנִיּוּת	secularism.n.01
+מָטֶרְיָאלִיזְם	materialism.n.02
+סַפְקָנוּת	agnosticism.n.02
+סְקֶפְּטִיצִיזְם	agnosticism.n.02
+כְּפִירָה	heresy.n.02	unorthodoxy.n.01
+מִינוּת	heresy.n.02
+מַטָּרָה	goal.n.01
+יַעַד	aim.n.02	finish.n.04
+תַּכְלִית	aim.n.02
+!יַעַד	destination.n.02
+כַּוָּנָה	purpose.n.01	meaning.n.01
+!רָצוֹן	will.n.02	will.n.03
+חֲוָיָה	experience.n.02
+אֶרוּדִיצְיָה	eruditeness.n.01
+יַדְעָנוּת	eruditeness.n.01
+לַמְדָנוּת	eruditeness.n.01
+בּוּרוּת	ignorance.n.01
+בַּעֲרוּת	ignorance.n.01
+נִבְעָרוּת	ignorance.n.01
+דִּיסְצִיפְּלִינָה	discipline.n.01
+!תְּחוּם	region.n.05	domain.n.02	sphere.n.01
+!גְּבוּל	frontier.n.03	frontier.n.01
+יֶדַע	knowledge_domain.n.01
+מַדָּע	science.n.01
+מָתֶמָטִיקָה	mathematics.n.01
+אָרִיתְמֶטִיקָה	arithmetic.n.01
+חֶשְׁבּוֹן	arithmetic.n.01	bank_account.n.01
+גֵּאוֹמֶטְרְיָה	geometry.n.01
+הַנְדָּסָה	geometry.n.01	engineering.n.02
+אוֹרְדִּינָטָה	ordinate.n.01
+פּוֹסֵק	ordinate.n.01	adjudicator.n.01	prescriptive.a.01	prescriptive.a.01
+מִתְאָם	correlation.n.03
+קוֹרֶלַצְיָה	correlation.n.03	correlation.n.01
+מְקַדֵּם-מִתְאָם	correlation_coefficient.n.01
+דֶּרְמָטוֹלוֹגְיָה	dermatology.n.01
+רְפוּאַת-עוֹר	dermatology.n.01
+מְיַלְּדוּת	obstetrics.n.01
+יַעֲרָנוּת	forestry.n.01
+כִּימְיָה	chemistry.n.01	chemistry.n.03
+חֹק-שִׁמּוּר	conservation.n.03
+תּוֹרַת-הַיַּחֲסוּת	relativity.n.01
+אֶקוֹנוֹמְיָה	economics.n.01
+כַּלְכָּלָה	economics.n.01
+בַּלְשָׁנוּת	linguistics.n.01
+סִינְטַקְס	syntax.n.03
+תַּחְבִּיר	syntax.n.03
+!שִׂיחָה	call.n.02
+מְגַמָּתִיּוּת	tendentiousness.n.01
+פָנָטִיּוּת	fanaticism.n.01
+קַנָּאוּת	fanaticism.n.01
+שֵׁם	reputation.n.03
+נְקֻדַּת-מַבָּט	point_of_view.n.01
+קוֹנְסֶרְבָטִיבִיּוּת	conservatism.n.01
+שַׁמְרָנוּת	conservatism.n.01
+נַצְרוּת	christianity.n.01
+יַהֲדוּת	judaism.n.02
+קוֹמוּנִיקַצְיָה	communication.n.01
+!הַקְנָיָה	conveyance.n.02
+הוֹדָעָה	message.n.01	telling.n.02
+מֶסֶר	message.n.01
+שִׁדּוּר	broadcast.n.01	broadcast.n.02
+עָלֶה	leaf.n.02
+אָפִיק	channel.n.01
+אֲפִיק-תִּמְסֹרֶת	channel.n.01
+עָרוּץ	channel.n.05	ravine.n.01
+עָרוּץ-תִּקְשֹׁרֶת	channel.n.05
+תְּחוּם-תְּדָרִים	frequency_band.n.01
+קוֹלְנוֹעַ	film.n.02
+!דֹּאַר	mail.n.02
+טֶלֶפוֹנְיָה	telephone.n.02
+שִׂיחָה	call.n.01	conversation.n.01	negotiation.n.01
+שִׂיחַת-טֶלֶפוֹן	call.n.01
+!טֶלֶוִיזְיָה	television.n.01
+!הַקְטָנָה	diminutive.n.01
+מִלָּה-שְׁאוּלָה	loanword.n.01
+רִבּוּי	plural.n.01
+יָחִיד	singular.n.01
+הֲבָרָה	syllable.n.01
+פְּרֶפִיקְס	prefix.n.01
+תְּחִלִּית	prefix.n.01
+סוּפִיקְס	ending.n.01
+סוֹפִית	ending.n.01
+סִיֹּמֶת	ending.n.01
+פְּסוּקִית	clause.n.01
+נָשׂוּא	predicate.n.02
+פֹּעַל	verb.n.01	verb.n.02
+מָקוֹר	infinitive.n.01	reference.n.08	beginning.n.04
+מְיֻדָּע	definite_article.n.01	acquaintance.n.03
+נְקֵבָה	feminine.n.01
+זָכָר	masculine.n.01
+זְמַן	tense.n.01
+זְמַן-עָבָר	past.n.03
+עָבָר	past.n.03	criminal_record.n.01	past.n.01	past.n.02
+עָתִיד	future.n.02	future.n.01
+בֵּינוֹנִי	participle.n.01
+כִּנּוּי	nickname.n.01
+אָדוֹן	mister.n.01	overlord.n.01
+מַר	mister.n.01
+גְּבֶרֶת	mrs.n.01	dame.n.02
+כּוֹתֶרֶת	headline.n.01
+כִּתּוּב	caption.n.03
+תִּקְשֹׁרֶת-בִּכְתָב	written_communication.n.01
+סְטֶנוֹגְרַפְיָה	shorthand.n.01
+קַצְרָנוּת	shorthand.n.01
+כְּתָב	longhand.n.01	handwriting.n.01	writ.n.01
+כְּתִיב	spelling.n.01
+צֹפֶן	code.n.02
+קוֹד	code.n.02	code.n.03	code.n.01
+מִקּוּד	zip_code.n.01
+חֹמֶר-כָּתוּב	writing.n.02
+!סֵפֶר	literary_composition.n.01
+חֹמֶר	matter.n.06	raw_material.n.01	clay.n.01
+!תַּעֲלוּמָה	mystery.n.02
+אַגָּדָה	legend.n.01	fairytale.n.01
+שִׁיר	poem.n.01
+קֶטַע	section.n.01
+סְעִיף	article.n.03
+פָּתִיחַ	introduction.n.02
+פְּתִיחָה	introduction.n.02
+!פְּתִיחָה	foreword.n.01	overture.n.01
+!נִסְפָּח	appendix.n.01
+פִּסְקָה	paragraph.n.01
+הַדְפָּסָה	typing.n.01
+כְּתַב-יָד	handwriting.n.01
+כְּתֹבֶת	inscription.n.01	address.n.06
+מַסָּה	essay.n.01
+סֵפֶר-שָׁנָה	annual.n.02
+שְׁנָתוֹן	annual.n.02
+עֲרִיכָה	editing.n.01
+שִׁכְתּוּב	rewriting.n.01
+וַיִּקְרָא	leviticus.n.01
+מַארְק	mark.n.12
+כְּתוּבִים	hagiographa.n.01
+גְּמָרָא	talmud.n.01
+תַּלְמוּד	talmud.n.01
+!מִזְמוֹר	psalm.n.02
+מִזְמוֹר	psalm.n.01
+סִכּוּם	summary.n.01	summation.n.01
+אַבְּסְטְרַקְט	outline.n.02
+סִינוֹפְּסִיס	outline.n.02
+תַּקְצִיר	outline.n.02
+תְּעוּדָה	certificate.n.01	diploma.n.01
+צַ'רְטֶר	charter.n.01	charter.n.02
+אוֹגֵד	copula.n.01
+שְׁאֵלוֹן	questionnaire.n.01
+דִּיפְּלוֹמָה	diploma.n.01
+רְשִׁימָה	list.n.01
+יְדִיעָה	news_item.n.01
+תֹּכֶן	contents.n.01
+תֹּכֶן-הָעִנְיָנִים	contents.n.01
+עָבָר-פְּלִילִי	criminal_record.n.01
+רוֹטַצְיָה	rota.n.02
+!מִזְכָּר	memo.n.01
+!תַּזְכִּיר	memo.n.01
+מִכְתָּב-הִתְפַּטְּרוּת	resignation.n.03
+עֲצוּמָה	request.n.01
+!גְּבִיָּה	solicitation.n.02
+וָאוּצֶ'ר	coupon.n.01
+קוּפּוֹן	coupon.n.01
+שׁוֹבֵר	coupon.n.01
+תְּלוּשׁ	coupon.n.01
+כַּרְטִיס	ticket.n.01
+כַּרְטִיסִיָּה	commutation_ticket.n.01
+שֶׂכֶר	charter.n.02
+פּוֹלִיסָה	policy.n.03
+בְּרִית	covenant.n.02	treaty.n.01
+עֹצֶר	curfew.n.03
+!אִסּוּר	prohibition.n.02
+רִשָּׁיוֹן	license.n.01
+חֲנִינָה	pardon.n.02
+דּוּחַ	ticket.n.03
+דו"ח-תְּנוּעָה	ticket.n.03
+!חֹק	legislative_act.n.01
+עוֹרֵךְ	editor_program.n.01
+!מְתַרְגֵּם	translator.n.03
+מַהֲדוּרָה	edition.n.01	edition.n.03	edition.n.02
+אֹסֶף	anthology.n.01
+לֶקֶט	anthology.n.01
+!סִדְרָה	series.n.03
+יַרְחוֹן	monthly.n.01
+!לִמּוּד	perusal.n.01
+!מֶסֶר	message.n.02
+לֶקַח	moral.n.01
+מוּסַר-הַשְׂכֵּל	moral.n.01
+נִמְשָׁל	moral.n.01
+דַּקּוּת	nuance.n.01
+נְיוּאַנְס	nuance.n.01
+שְׁטֻיּוֹת	folderol.n.01
+צִטּוּט	quotation.n.02
+צִיטָטָה	quotation.n.02
+סֶרֶט-קוֹלְנוֹעַ	movie.n.01
+מִשְׁדָּר	broadcast.n.02
+תָּכְנִית	broadcast.n.02
+סִדְרָה	serial.n.01	order.n.12
+הִתְכַּתְּבוּת	correspondence.n.01
+מִכְתָּב	letter.n.01
+גְּלוּיָה	postcard.n.01
+בַּי	adieu.n.01
+בַּי_בַּי	adieu.n.01
+להת'	adieu.n.01
+לְהִתְרָאוֹת	adieu.n.01
+צָ'אוּ	adieu.n.01
+שָׁלוֹם	adieu.n.01	peace.n.01
+אִחוּל	regard.n.03
+דְּרִישַׁת-שָׁלוֹם	regard.n.03
+ד"ש	regard.n.03
+קַבָּלַת-פָּנִים	welcome.n.02
+מֵאוּן	declination.n.04
+סֵרוּב	declination.n.04	refusal.n.01
+אִינְפוֹרְמַצְיָה	information.n.01
+מֵידָע	information.n.01
+מַדָּד	consumer_price_index.n.01
+מַדַּד-הַמְּחִירִים-לַצַּרְכָן	consumer_price_index.n.01
+כַּדּוּרַגְלָן	ceiling.n.03
+תִּקְרָה	ceiling.n.03
+רִצְפָּה	floor.n.03
+אֶמְבַּרְגּוֹ	embargo.n.01
+!הִתְעָרְבוּת	intervention.n.02
+קוֹדֵקְס	code.n.01
+מִשְׁוָאָה	equation.n.01
+עֵצָה	advice.n.01
+!הַמְלָצָה	recommendation.n.01	recommendation.n.02
+!הַפְנָיָה	referral.n.02
+אַזְהָרָה	admonition.n.01	warning.n.01
+!קַבָּלָה	cabala.n.01
+פְּרוֹפָּגַנְדָּה	propaganda.n.01
+תַּעֲמוּלָה	propaganda.n.01
+שְׁבוּעָה	oath.n.02
+עֲרֻבָּה	guarantee.n.02
+אַשְׁרָה	visa.n.01
+וִיזָה	visa.n.01
+!עִדּוּד	encouragement.n.01
+כַּפַּיִם	applause.n.01
+מְחִיאוֹת-כַּפַּיִם	applause.n.01
+תְּשׁוּאוֹת	applause.n.01
+שֶׁבַח	praise.n.01
+תִּשְׁבָּחָה	praise.n.01
+!שֶׁבַח	praise.n.02
+!שִׁדּוּל	blarney.n.01
+!פְּרָס	award.n.02
+מֶדַלְיָה	decoration.n.02
+גִּנּוּי	disapprobation.n.01
+גְּעָרָה	rebuke.n.01
+מָנָה	rebuke.n.01	ration.n.01	helping.n.01	ration.n.02	quotient.n.02	quotient.n.01	enumerate.v.01	count.v.01
+נְזִיפָה	rebuke.n.01
+!הַטָּפָה	sermon.n.02	sermon.n.01
+הַאֲשָׁמָה	blame.n.02
+הַרְצָאָה	lecture.n.02	lecture.n.01
+לַעַג	derision.n.01
+!בּוּז	contempt.n.03
+!חֻצְפָּה	impudence.n.01
+תֵּאוּר	description.n.01
+הַכְרָזָה	announcement.n.01
+מָנִיפֶסְט	manifesto.n.01
+מִנְשָׁר	manifesto.n.01
+מֻצָּג-מִשְׁפָּטִי	exhibit.n.01
+הַצְהָרָה-בִּשְׁבוּעָה	affidavit.n.01
+תַּצְהִיר	affidavit.n.01
+סִבָּה	cause.n.02
+עִלָּה	cause.n.02
+תֵּרוּץ	excuse.n.01
+פִּתְרוֹן	solution.n.02
+תְּשׁוּבָה	solution.n.02	answer.n.01	repentance.n.01
+מַעֲנֶה	answer.n.01
+חִזּוּי	prediction.n.02
+פְּרוֹגְנוֹזָה	prognosis.n.01
+צֶפִי	prognosis.n.01
+תַּחֲזִית	prognosis.n.01
+תְּנַאי	condition.n.02	condition.n.07
+!סִפּוּר	fib.n.01
+הַפְרָזָה	exaggeration.n.03
+!הִשְׁתַּמְּטוּת	evasion.n.01
+!הִסְתַּיְּגוּת	reservation.n.02
+!פַּרְשָׁנוּת	comment.n.02
+אִזְכּוּר	citation.n.03
+הַפְנָיָה	citation.n.03
+מַרְאֵה-מָקוֹם	citation.n.03
+!הֶעָרָה	remark.n.01
+דִּיל	bargain.n.01
+עֵסֶק	bargain.n.01	business.n.01
+אֲמָנָה	covenant.n.01
+!הִתְחַיְּבוּת	obligation.n.05	obligation.n.02
+בְּדִיחָה	joke.n.01
+הֲלָצָה	joke.n.01
+בְּעָיָה	problem.n.02	problem.n.01
+תַּשְׁבֵּץ	crossword_puzzle.n.01
+מַעַן	address.n.06
+אוֹת	signal.n.01	indication.n.01	letter.n.02	signal.n.02
+סִיגְנָל	signal.n.01
+כְּרָזָה	poster.n.01
+פּוֹסְטֶר	poster.n.01
+פְּלָקָט	poster.n.01
+אוֹת-קָלוֹן	mark.n.06
+כֶּתֶם	mark.n.06
+רְבָב	mark.n.06
+סִימָן	indication.n.01
+!רֶמֶז	hint.n.02
+!מִסְפָּר	numeral.n.01
+נְקֻדָּה	decimal_point.n.01	period.n.07	degree.n.02
+נְקֻדָּה_עֶשְׂרוֹנִית	decimal_point.n.01
+כּוֹכָב	asterisk.n.01
+כּוֹכָבִית	asterisk.n.01
+מִי	mu.n.01	mi.n.08
+פִּי	phi.n.01
+כִי	chi.n.02
+אָלֶף	aleph.n.01
+בֵּי"ת	beth.n.01
+נוּן	nun.n.03
+מַקָּף	hyphen.n.01
+טוֹטֶפֶת	phylactery.n.01
+סֶפְּטִימָה	seventh.n.03
+דְּמִימָה	rest.n.07
+!פָה	fa.n.01
+שְׂפַת-סִימָנִים	sign_language.n.01
+חִיּוּךְ	smile.n.01
+!הַדְגָּמָה	exemplification.n.01
+!קַפְּדָנוּת	pedantry.n.01
+הַצָּגַת-בְּכוֹרָה	premiere.n.01
+פְּרֶמְיֶרָה	premiere.n.01
+סִינִית	chinese.n.01
+מַנְדָּרִין	mandarin.n.06
+פּוֹלָנִית	polish.n.04
+אִידִישׁ	yiddish.n.01
+יִידִישׁ	yiddish.n.01
+לָטִינִית	latin.n.01
+רוֹמִית	latin.n.01
+צָרְפָתִית	french.n.01
+לְשׁוֹן-הַקֹּדֶשׁ	hebrew.n.01
+עִבְרִית	hebrew.n.01
+!כִּבְשָׂה	ewe.n.02
+סְצֶנָה	scene.n.06
+תַּמְלִיל	libretto.n.01
+מַחֲזֶמֶר	musical.n.01
+מְיוּזִיקְל	musical.n.01
+לַחַן	tune.n.01
+מַנְגִּינָה	tune.n.01
+!הִמְנוֹן	hymn.n.01
+לִיד	lied.n.01
+פִּיּוּט	poetry.n.02
+!רֶגֶל	meter.n.03
+חָרוּז	rhyme.n.01
+!דְּמוּת	trope.n.01
+הִיפֶּרְבּוֹלָה	hyperbole.n.01
+!דִּמּוּי	metaphor.n.01	simile.n.01
+!אֲמִירָה	utterance.n.01	saying.n.01
+!אֹמֶר	utterance.n.01	saying.n.01
+!הֶגֶה	phoneme.n.01
+פוֹנֶמָה	phoneme.n.01
+עִצּוּר	consonant.n.01	consonant.n.02
+קוֹנְסוֹנַנְט	consonant.n.01	consonant.n.02
+צְוָחָה	scream.n.01
+צְוִיחָה	scream.n.01
+צְרָחָה	scream.n.01
+צְרִיחָה	scream.n.01
+גִּדּוּף	curse.n.01
+מְאֵרָה	curse.n.01
+קְלָלָה	curse.n.01
+קִרְקוּר	croak.n.01
+!גְּנִיחָה	groan.n.01
+!צִחְקוּק	chortle.n.01
+צִחְקוּק	giggle.n.01
+הִגּוּי	pronunciation.n.01
+הֲגִיָּה	pronunciation.n.01
+לַחַשׁ	whisper.n.01
+!רְכִילוּת	chitchat.n.01	gossip.n.03
+!רַכְלָן	chitchat.n.01	gossip.n.03
+!דִּיּוּן	discussion.n.01	discussion.n.02
+וִכּוּחַ	argument.n.03	dispute.n.01
+!וְעִידָה	conference.n.03
+!כֶּנֶס	conference.n.03
+הִתְיַעֲצוּת	consultation.n.02
+!מִרְפָּאָה	clinic.n.02
+מַשָּׂא-וּמַתָּן	negotiation.n.01
+מִקּוּחַ	bargaining.n.01
+מוֹטוֹ	motto.n.01
+סִיסְמָה	motto.n.01
+מֵימְרָה	proverb.n.01
+פִּתְגָּם	proverb.n.01
+דִּיאָלֶקְט	dialect.n.01
+לַהַג	dialect.n.01
+נִיב	dialect.n.01
+הַכְתָּבָה	dictation.n.02	command.n.01
+הַצָּעָה	proposal.n.03	proposal.n.01
+הַצָּעַת-נִשּׂוּאִין	marriage_proposal.n.01
+!הַצָּעָה	offer.n.02	offer.n.01
+!כְּנִיעָה	submission.n.01
+מִצְוָה	commandment.n.01
+וִתּוּר	concession.n.02	concession.n.03
+הֶסְדֵּר	settlement.n.03
+אִשְׁרוּר	ratification.n.01
+קִיּוּם	ratification.n.01
+דִּין-וּדְבָרִים	dispute.n.01
+!מַחְלקֶת	controversy.n.01
+פּוּלְמוּס	polemic.n.02
+!מְרִיבָה	quarrel.n.01
+בַּקָּשָׁה	request.n.02
+הוֹדָעָת_תַּשְׁלוּם	notification.n.03
+הַזְמָנָה	invitation.n.01
+פְּשִׁיטַת-יָד	beggary.n.01
+קַבְּצָנוּת	beggary.n.01
+עֲתִירָה	prayer.n.02
+!שְׁאֵלָה	question.n.01
+בֹּחַן	quiz.n.01
+!תְּשׁוּבָה	reply.n.02
+!שְׁלִילָה	negation.n.02	negation.n.01
+!בִּטּוּל	cancellation.n.02
+!הֲדִיפָה	rebuff.n.02
+מְחָאָה	protest.n.03
+יְלָלוֹת	whimper.n.01
+קִטּוּרִים	whimper.n.01
+בְּכִי-תַּמְרוּרִים	lament.n.01
+נְהִי	lament.n.01
+תַּאֲנִיָּה-וַאֲנִיָּה	lament.n.01
+יִדּוּעַ	informing.n.02
+גִּלּוּי	disclosure.n.01
+!הַצָּגָה	presentation.n.06
+תַּחְקִיר	debriefing.n.01
+סִפּוּר	narration.n.02
+שַׁעֲרוּרִיָּה	scandal.n.01	scandal.n.02
+הַתְרָעָה	warning.n.01
+צִיּוּן	indication.n.02
+!עִמּוּת	confrontation.n.01
+אַשְׁמָה	incrimination.n.01	guilt.n.02	guilt.n.01
+!דִּקְלוּם	declamation.n.01
+!שִׁכְנוּעַ	persuasion.n.01
+פִּרְסֹמֶת	ad.n.01
+הִתְפַּטְּרוּת	resignation.n.02
+אִסּוּר	ban.n.04
+שַׁרְווּל-רוּחַ	windsock.n.01
+מָצוֹף	buoy.n.01
+!נְזִירָה	conical_buoy.n.01
+!מַגָּע	contact.n.08
+הִתְרַחֲשׁוּת	happening.n.01
+מִקְרֶה	happening.n.01	case.n.01	event.n.02
+!אוֹת	omen.n.01
+!נֵס	miracle.n.02	miracle.n.01
+פִינִישׁ	ending.n.04
+פְּרִי	fruit.n.03	fruit.n.01
+הִשְׁתַּנּוּת	change.n.01
+הִתְחַלְּפוּת	change.n.01
+הַפְתָּעָה	surprise.n.02	surprise.n.01
+מְדוּרָה	bonfire.n.01
+סְקַנְדָּל	scandal.n.02
+פִּיצוּץ	explosion.n.01
+נְדִידָה	migration.n.04
+אָסוֹן	calamity.n.01
+!הַפָּלָה	miscarriage.n.01
+!גְּבֶרֶת	miss.n.02
+פֶּגַע	ravage.n.01
+!צִנְצֶנֶת	jolt.n.01	jar.n.02
+יְרִידָה	decrease.n.01	descent.n.05
+שִׁפּוּר	improvement.n.01
+!הַסְדָּרָה	settling.n.01
+צְנִיחָה	drop.n.06
+!טִרְחָה	fuss.n.02
+!לִכּוּד	consolidation.n.01
+תַּעֲרֹבֶת	mix.n.02	meal.n.03
+בּוּם	boom.n.01	boom.n.02
+רַעַם	boom.n.01	thunder.n.02
+פְּעִיָּה	bleat.n.01
+נְעִירָה	bray.n.01
+זִמְזוּם	buzz.n.01
+צִיּוּץ	chirp.n.01
+שִׁקְשׁוּק	clatter.n.01
+!חֲרִיקָה	creak.n.01
+צַעַד	footfall.n.01	footstep.n.03
+!נְהִימָה	growl.n.01
+!נְהָמָה	growl.n.01
+יְלָלָה	howl.n.03	howl.n.02
+צָהֳלָה	neigh.n.01	exultation.n.01
+רַעַשׁ	noise.n.01
+שְׁאָגָה	roar.n.03
+רַחַשׁ	rustle.n.01
+רַחְשׁוּשׁ	rustle.n.01
+רִשְׁרוּשׁ	rustle.n.01
+!צְוָחָה	screech.n.01
+!חֲבָטָה	thump.n.01
+גֵּאוּת	high_tide.n.01	boom.n.02
+מַפֹּלֶת	avalanche.n.01
+זֶרֶם	current.n.02	stream.n.02	current.n.01
+!נִצְנוּץ	twinkle.n.01
+מַשְׁבֵּר	crisis.n.02	crisis.n.01
+הִתְאוֹשְׁשׁוּת	recovery.n.01
+הִתְגַּבְּרוּת	strengthening.n.01
+הִתְחַזְּקוּת	strengthening.n.01
+הִתְעַצְּמוּת	strengthening.n.01
+הֵחָלְשׁוּת	weakening.n.01
+!דְּלִיפָה	escape.n.07
+!סִיבוּב	spin.n.01
+הִתְרוֹמְמוּת	rise.n.04
+הַלְוָיָה	funeral.n.01
+חֲתֻנָּה	wedding.n.01
+הַכְתָּרָה	coronation.n.01
+הַמְלָכָה	coronation.n.01
+תַּחֲרוּת-צְלִילָה	diving.n.01
+מְשׂוּכוֹת	hurdles.n.01
+רִיצַת-מְשׂוּכוֹת	hurdles.n.01
+נִצָּחוֹן	victory.n.01
+הֶפְסֵד	defeat.n.01
+מַפָּלָה	defeat.n.01
+תְּבוּסָה	defeat.n.01
+!נְפִילָה	fall.n.03
+!רֶגֶשׁ	emotion.n.01
+לַהַט	ardor.n.03
+אֲדִישׁוּת	emotionlessness.n.01
+אַסְפִּירַצְיָה	ambition.n.01
+חֲלוֹם	ambition.n.01
+שְׁאִיפָה	ambition.n.01
+!הִשְׁתּוֹקְקוּת	craving.n.01
+!תֵּאָבוֹן	appetite.n.01
+גַּעְגּוּעִים	longing.n.01
+הִשְׁתּוֹקְקוּת	longing.n.01
+כְּמִיהָה	longing.n.01
+כִּסּוּפִים	longing.n.01
+עֶרְגָּה	longing.n.01
+!יֶן	hankering.n.01
+חוּשָׁנִיּוּת	sensuality.n.01
+תַּעֲנוּג	delight.n.01
+בּוּז	contempt.n.01
+תִּעוּב	abhorrence.n.01
+בְּחִילָה	nausea.n.02	nausea.n.01
+הִשְׁתָּאוּת	astonishment.n.01
+הִשְׁתּוֹמְמוּת	astonishment.n.01
+פְּלִיאָה	astonishment.n.01
+תִּמָּהוֹן	astonishment.n.01
+תְּמִיהָה	astonishment.n.01
+חַשְׁמַל	electricity.n.03	current.n.01
+!תַּרְעֹמֶת	indignation.n.01
+!תִּסְכּוּל	frustration.n.03
+פַּחַד	fear.n.01
+אֵימָה	panic.n.01
+חֲשָׁשׁ	apprehension.n.01	concern.n.02
+דְּאָגָה	worry.n.02
+!אֹמֶץ	fearlessness.n.01
+!עֲלִיצוּת	gladness.n.01
+!שִׂמְחָה	joy.n.01
+שַׁיָּכוּת	belonging.n.01	relevance.n.01
+שְׂבִיעוּת-רָצוֹן	contentment.n.01
+גַּלְמוּדִיּוּת	forlornness.n.01
+יִסּוּרֵי_מַצְפּוּן	guilt.n.02
+רִגְשֵׁי_אָשָׁם	guilt.n.02
+!מוּעָקָה	oppression.n.03
+שִעֲמוּם	boredom.n.01
+שִׁעְמוּם	boredom.n.01
+מֹרַת-רוּחַ	displeasure.n.01
+אַכְזָבָה	disappointment.n.01
+תִּסְכּוּל	frustration.n.01
+יֵאוּשׁ	despair.n.02
+!תְּבוּסְתָנוּת	defeatism.n.01
+!צִינִיּוּת	cynicism.n.01
+חִבָּה	affection.n.01
+אֵיבָה	hate.n.01
+מַשְׂטֵמָה	hate.n.01
+שִׂנְאָה	hate.n.01
+טִינָה	grudge.n.01
+!נַקְמָנוּת	vindictiveness.n.01
+!רַחֲמִים	compassion.n.01
+לְהִיטוּת	eagerness.n.01
+צִמְחוֹנוּת	vegetarianism.n.01
+סֻבִּין	bran.n.02	bran.n.01
+קֶמַח	flour.n.01
+סֹלֶת	semolina.n.01
+אֲרוּחָה	meal.n.01
+אֲרוּחָה-קַלָּה	bite.n.04
+נִשְׁנוּשׁ	bite.n.04
+בִּיס	morsel.n.02
+נְגִיסָה	morsel.n.02
+צָלִי	roast.n.01
+מְתַאֲבֵן	appetizer.n.01
+בּוֹרְשְׁט	borsch.n.01
+חֲמִיצָה	borsch.n.01
+אַבְקַת-חָרוּבִים	carob.n.03
+!צוּף	ambrosia.n.04
+פַּשְׁטִידָה	pie.n.01
+עוּגָה	cake.n.03
+לֻבְנָן	sponge_cake.n.01
+עוּגַת-סְפוֹג	sponge_cake.n.01
+בִּיסְקְוִיט	cookie.n.01
+עוּגִיָּה	cookie.n.01
+עוּגִית	cookie.n.01
+לַאטְקֶעס	potato_pancake.n.01
+לְבִיבָה	potato_pancake.n.01
+לַטְקֶס	potato_pancake.n.01
+!שְׂלָו	quail.n.01
+פּוּלְקֶע	second_joint.n.01
+שׁוֹק	second_joint.n.01
+!נֶתַח	cut.n.06
+!עוּגָה	patty.n.01
+מַרְגָּרִינָה	margarine.n.01
+נְטִיפֵי-שֻׁמָּן	drippings.n.01
+סָלָמִי	salami.n.01
+לֶחֶם	bread.n.01
+לַחְמָנִיָּה	bun.n.01
+לֶחֶם-הַקֹּדֶשׁ	host.n.09
+כִּכָּר	loaf_of_bread.n.01
+כִּכַּר-לֶחֶם	loaf_of_bread.n.01
+צְנִים	zwieback.n.01
+כָּרִיךְ	sandwich.n.01
+חֲצִיל	eggplant.n.01	eggplant.n.02
+!כְּרוּב	cabbage.n.01
+!כְּרוּבִית	cauliflower.n.02
+חַסָּה	lettuce.n.03	lettuce.n.02
+!תִּירָס	sweet_corn.n.02	sweet_corn.n.01
+בַּנְדּוֹרָה	tomato.n.01
+עַגְבָנִיָּה	tomato.n.01	tomato.n.02
+!דְּלַעַת	pumpkin.n.02	pumpkin.n.01
+לֶפֶת	turnip.n.02
+עֲלֵי-תֶּרֶד	spinach.n.02
+תֶּרֶד	spinach.n.02	spinach.n.01
+תַּפּוּחַ	apple.n.01	apple.n.02
+!קֵיסָרוּת	empire.n.05
+פֶּטֶל	raspberry.n.02	raspberry.n.01
+תַּפּוּז	orange.n.01
+תַּפּוּחַ-זָהָב	orange.n.01
+שְׁזִיף	plum.n.02	plum.n.01
+תְּאֵנָה	fig.n.04	fig.n.02
+אֲנָנָס	pineapple.n.02	pineapple.n.01
+אֲבַטִּיחַ	watermelon.n.02
+שֶׁסֶק	loquat.n.02	loquat.n.01
+!זַיִת	olive.n.04	olive.n.03
+אַגָּס	pear.n.01	pear.n.02
+חַבּוּשׁ	quince.n.02	quince.n.01
+קַרְפִּיּוֹן	carp.n.01
+מִסְפּוֹא	fodder.n.02
+חָצִיר	hay.n.01
+שַׁחַת	hay.n.01
+גְּרִיסִים	groats.n.01
+חִטָּה	wheat.n.02
+אֹרֶז	rice.n.01	rice.n.02
+סָלָט	salad.n.01
+סָלַט-יְרָקוֹת	salad.n.01
+מֶלַח	salt.n.02	salt.n.01
+שׁוּם	garlic.n.02	garlic.n.01
+חַרְדָּל	mustard.n.02	mustard.n.01
+חֹמֶץ	vinegar.n.01
+חֶלְבּוֹן	egg_white.n.01	protein.n.01
+חֶמְאָה	butter.n.01
+גְּבִינָה	cheese.n.01
+!דְּבַשׁ	honey.n.01
+סֻכָּר	sugar.n.01
+!דַּיְסָה	porridge.n.01
+בִּירָה	beer.n.01	capital.n.03
+סְקְרוּדְּרַיְבֶר	screwdriver.n.02
+מִיץ	juice.n.01
+עָסִיס	juice.n.01
+נֶקְטָר	nectar.n.02
+צְעִירִים	young.n.09
+!מֵת	dead.n.01
+הַחֵרְשִׁים	deaf.n.01
+קְבוּצָה-חֶבְרָתִית	social_group.n.01
+סָךְ	sum.n.03	anoint.v.02
+קָהָל	public.n.02
+חֶבְרָה	society.n.01	club.n.02	company.n.03
+שׁוֹשֶׁלֶת	dynasty.n.01
+מִשְׁפָּחָה_גַּרְעִינִית	nuclear_family.n.01
+הַמִּשְׁפָּחָה_הַמֻּרְחֶבֶת	extended_family.n.01
+מִשְׁפָּחָה-אוֹמֶנֶת	foster_home.n.01
+צֶמֶד	team.n.02
+זוּג	couple.n.01	couple.n.04
+לַהֲקָה	flock.n.02
+!עֵדֶר	flock.n.05	herd.n.01	herd.n.02	ruck.n.01
+קְהִלָּה	congregation.n.01	community.n.01
+קָטֵגוֹרְיָה	class.n.01
+נְטִיּוֹת-הַשֵּׁם	declension.n.04
+נְטִיּוֹת-הַפֹּעַל	conjugation.n.03
+אִרְגּוּן	organization.n.01
+הַצְּלָב-הָאָדֹם	red_cross.n.01
+מִמְשָׁל	government.n.01
+מֶמְשָׁלָה	government.n.01
+רָשֻׁיּוֹת	government.n.01
+שִׁלְטוֹן	government.n.01
+מִרְפָּאָה	clinic.n.01
+קְלִינִיקָה	clinic.n.01
+קִבּוּץ	kibbutz.n.01
+יַצְרָן	manufacturer.n.01	manufacturer.n.02
+בֵּית-הוֹצָאָה	publisher.n.01
+הוֹצָאַת-סְפָרִים	publisher.n.01
+מַעֲרֶכֶת	publisher.n.01	phylum.n.02
+חֶבְרָה-לְהַשְׁקָעוֹת	investment_company.n.01
+!אַחֲוָה	brotherhood.n.02
+בֵּית-אָב	family.n.01
+מִשְׁפָּחָה	family.n.01
+דָּת	religion.n.02
+הָעוֹלָם-הַנּוֹצְרִי	christendom.n.01
+!יַהֲדוּת	judaism.n.01
+מַחְלָקָה	class.n.07	department.n.01	platoon.n.01
+!רַבָּנוּת	rabbinate.n.01
+!חַקְלָאוּת	department_of_agriculture.n.01
+מַחְלֶקֶת-הַהֲגָנָה	department_of_defense.n.01
+!חִנּוּךְ	department_of_education.n.01
+!כּוֹחַ	department_of_energy.n.01
+!צֶדֶק	department_of_justice.n.01
+מַחְלֶקֶת-הַמְּדִינָה	department_of_state.n.01
+מִשְׂרַד-הַפְּנִים-הָאָמֶרִיקָאִי	department_of_the_interior.n.01
+!הַסָּעָה	department_of_transportation.n.01
+דֹּאַר-שָׁמוּר	general_delivery.n.01
+כְּמוּרָה	clergy.n.01
+אֶרֶץ	nation.n.02	country.n.02	earth.n.01
+מְדִינָה	state.n.04	state.n.03	country.n.02	state.n.01
+צִבּוּר	populace.n.01
+!צָבָא	army.n.02
+אַנְסַמְבְּל	ensemble.n.01
+צָבָא	army.n.01	military.n.01	mass.v.01
+כּוֹחוֹת-מִּלּוּאִים	military_reserve.n.01
+עֲתוּדוֹת	military_reserve.n.01
+מִשְׁטָרָה	police.n.01
+גַּיִס	corps.n.01
+חַיִל	corps.n.01
+אֻגְדָּה	division.n.01
+גְּדוּד	regiment.n.01
+!חֲטִיבָה	brigade.n.01
+חֵיל-חָלוּץ	vanguard.n.01
+כּוֹחַ-מְאַסֵּף	rearguard.n.01
+מְאַסֵּף	rearguard.n.01
+!כָּנָף	wing.n.04
+!מַעֲרֶכֶת	division.n.07
+שְׁכוּנָה	neighborhood.n.02
+תּוֹשָׁבֵי-הָעִיר	city.n.03
+תּוֹשָׁבֵי-הָעֲיָרָה	town.n.02
+!כְּפָר	village.n.01	village.n.02
+לִיגָה	league.n.01	league.n.02
+אִגּוּד	union.n.01
+הִסְתַּדְּרוּת	union.n.01
+מַחְזוֹר	class.n.06	menstrual_cycle.n.01
+תִּזְמֹרֶת	orchestra.n.01
+!חֲתֻנָּה	wedding.n.03
+מִפְלָגָה	party.n.01
+מִכְלָלָה	college.n.02
+כֶּנֶס	conference.n.01
+!מוֹעָצָה	council.n.03
+מוֹעָצָה	council.n.01
+כְּנֶסֶת	knesset.n.01
+וַעֲדָה	committee.n.01
+!וַעֲדָה	committee.n.02
+!סַפְסָל	bench.n.05
+!מִשְׂרָד	agency.n.01
+גַּיִס-חֲמִישִׁי	fifth_column.n.01
+סוּס-טְרוֹיָאנִי	fifth_column.n.01
+מַחְתֶּרֶת	underground.n.01
+הֶגְמוֹנְיָה	hegemony.n.01
+!הַפְרָדָה	segregation.n.02
+דִּירֶקְטוֹרְיוֹן	directorate.n.01
+מוֹעֶצֶת-מְנַהֲלִים	directorate.n.01
+הַחֶבְרָה-הַגְּבוֹהָה	society.n.04
+הַי-סוֹסָיֶטִי	society.n.04
+סוֹלְלָה	battery.n.01
+מִילִיצְיָה	militia.n.01
+צְבָא-קֶבַע	standing_army.n.01
+!חֲבֵרוּת	membership.n.01
+קְלִיֶנְטוּרָה	clientele.n.01
+מִשְׁלַחַת	deputation.n.01
+!מוֹסָד	institute.n.01
+!מָכוֹן	institute.n.01
+תַּעֲרוּכָה	exhibition.n.02
+!תִּיכוֹן	senior_high_school.n.01
+סִיאַנְס	seance.n.01
+תַּעֲבוּרָה	traffic.n.01
+מִצְעָד	parade.n.01	parade.n.02
+פָּמַלְיָה	cortege.n.02
+!תַּחְבִּיר	syntax.n.02
+וֶגֶטַצְיָה	vegetation.n.01
+פְלוֹרָה	vegetation.n.01
+צִמְחִיָּה	vegetation.n.01
+!רוֹדָנוּת	dictatorship.n.01
+חֹק	law.n.01
+גִּישָׁה	approach_path.n.01
+!אֵזוֹר	area.n.01	zone.n.01
+מִדְבָּר	desert.n.01
+צִיָּה	desert.n.01
+מוֹצָא	beginning.n.04
+רֵאשִׁית	beginning.n.04
+אֵזוֹר	zone.n.03	sector.n.05
+אֶרֶץ-אָבוֹת	fatherland.n.01
+אֶרֶץ-מוֹלֶדֶת	fatherland.n.01
+אֶרֶץ-מוֹצָא	fatherland.n.01
+מוֹלֶדֶת	fatherland.n.01
+מְכוֹרָה	fatherland.n.01
+קַו-גְּבוּל	boundary_line.n.01
+!קְרָבַיִם	bowels.n.01
+!חַנְיוֹן	campsite.n.01
+עִיר-בִּירָה	capital.n.03
+כִּפַּת-הָרָקִיעַ	celestial_sphere.n.01
+כִּפַּת-הַשָּׁמַיִם	celestial_sphere.n.01
+רָקִיעַ	celestial_sphere.n.01
+רְקִיעַ-הַשָּׁמַיִם	celestial_sphere.n.01
+לֵב	center.n.01
+מֶרְכָּז	center.n.01
+!עִיר	city.n.01	township.n.01
+עִיר	city.n.01
+קֶלַח	corncob.n.01
+!אֲגַף	department.n.02
+!מַחְלָקָה	department.n.02
+!הִתְפַּתְּחוּת	development.n.06
+טֶרִיטוֹרְיָה	district.n.01
+מָחוֹז	district.n.01
+מֻבְלַעַת	enclave.n.01
+פַּרְבָר	suburb.n.01
+פַּרְוָר	suburb.n.01
+נְסִיכוּת	principality.n.01
+קָצֶה	edge.n.01
+שָׂפָה	edge.n.01
+סְבִיבָה	environment.n.02	vicinity.n.01	environment.n.01
+אָחוּ	hayfield.n.01	pasture.n.01
+מֶרְכָּז-הַמִּגְרָשׁ	midfield.n.01
+פְּנִים	inside.n.02	inside.n.01
+קֶרֶב	inside.n.02
+תּוֹךְ	inside.n.02
+מְאוּרָה	lair.n.01
+מִדְשָׁאָה	lawn.n.01
+מִצְפֶּה	lookout.n.02
+נָדִיר	nadir.n.02
+פִּסְגָּה	peak.n.04	acme.n.01
+רֹאשׁ-הַר	peak.n.04
+עֲרָבָה	prairie.n.01
+!אֲתָר	site.n.02	site.n.01
+מַעֲגָן	seaport.n.01	anchorage.n.04
+נָמֵל	seaport.n.01
+!מָחוֹז	state.n.01
+עֲיָרָה	town.n.01
+נְקֻדַּת-תַּצְפִּית	vantage_point.n.01
+מְגַמָּה	tendency.n.04
+זֶנִית	zenith.n.01
+מַזַּל-קַשָּׁת	sagittarius.n.03
+קַשָּׁת	sagittarius.n.03	archer.n.01
+מַזַּל-גְּדִי	capricorn.n.03
+סִין	china.n.01
+יָוָן	greece.n.01
+אֶרֶץ-יִשְׂרָאֵל	israel.n.01
+יִשְׂרָאֵל	israel.n.01
+מְדִינַת-יִשְׂרָאֵל	israel.n.01
+צִיּוֹן	israel.n.01
+!שֹׁבֶל	wake_island.n.01
+חֲצִי-הָאִי-עֲרָב	arabian_peninsula.n.01
+עֲרָב	arabian_peninsula.n.01
+רִידִינְג	reading.n.06
+מָן	man.n.09
+הֹדּוּ	india.n.01
+צָרְפַת	france.n.01
+!טַבּוּר	centre.n.01
+!מֶרְכָּז	centre.n.01
+מָלֶה	male.n.03
+!אִחוּד	union.n.02
+!תְּאוֹ	buffalo.n.02
+!תַּמְרִיץ	incentive.n.01
+אִתּוּת	signal.n.02
+אָמוּר	amur.n.01
+מַפְּלֵי-אַנְחֵל	angel.n.04
+!מַעֲטֶה	blanket.n.02
+בּוּעָה	bubble.n.01
+!מִנְהָרָה	burrow.n.01
+קֶנְיוֹן	canyon.n.01
+מְעָרָה	cave.n.01
+מָצוּק	cliff.n.01
+צוּק	cliff.n.01
+כּוֹכַב-שָׁבִיט	comet.n.01
+שָׁבִיט	comet.n.01
+יַבֶּשֶׁת	continent.n.01
+קוֹנְטִינֶנְט	continent.n.01
+מָסָךְ	curtain.n.02
+דַּרְלִינג	darling.n.02
+גַּחַל	ember.n.01
+גַּחֶלֶת	ember.n.01
+רֶמֶץ	ember.n.01
+שֶׁפֶךְ	estuary.n.01
+הֶעְתֵּק	fault.n.04
+מְאֻבָּן	fossil.n.02
+קַרְחוֹן	glacier.n.01
+!מִפְרָץ	gulf.n.03	gulf.n.01
+גִּבְעָה	hill.n.01
+הַר-קֶרַח	iceberg.n.01
+דָּבָר-לֹא-הֶכְרֵחִי	inessential.n.01
+אִי	island.n.01	e.n.04
+מֵצַר	isthmus.n.01
+מֵצַר-יַבָּשָׁה	isthmus.n.01
+גִּבְעֹנֶת	knoll.n.01
+אֲגַם	lake.n.01
+!מַדָּף	ledge.n.01
+שְׁפֵלָה	lowland.n.01
+מַאְדִּים	mars.n.01
+מַרְס	mars.n.01	mars.n.02	march.n.01
+אַדְמַת-בִּצָּה	marsh.n.01
+הַר	mountain.n.01
+צֹרֶךְ	necessity.n.02
+!שָׁכֵן	neighbor.n.02
+גַּרְעִין	nucleus.n.02
+נָתִיב	path.n.04
+!מַהֲמוֹרָה	pothole.n.01
+רִיף	reef.n.01
+שׁוּנִית	reef.n.01
+נָהָר	river.n.01
+שִׂרְטוֹן	sandbank.n.01
+יָם	sea.n.01	ocean.n.02	west.n.02
+מַעֲלֶה	slope.n.01
+שְׁבָב	splinter.n.01
+נַטּוּף	stalactite.n.01
+נָטִיף	stalactite.n.01
+סְטָלַקְטִיט	stalactite.n.01
+בִּצָּה	swamp.n.01
+!תְּאוֹם	twin.n.03
+יְחִידָה	unit.n.05
+בִּקְעָה	valley.n.01
+עֵמֶק	valley.n.01
+מִשְׁתַּנֶּה	variable.n.01
+לעַ	vent.n.03
+וֶנוּס	venus.n.01
+כּוֹכַב-הָעֶרֶב	venus.n.01
+כּוֹכַב-הַשַּׁחַר	venus.n.01
+נֹגַהּ	venus.n.01
+!לעַ	volcanic_crater.n.01
+!מַכְתֵּשׁ	volcanic_crater.n.01
+וָאדִי	wadi.n.01
+אֶשֶׁד	waterfall.n.01
+מַפָּל	waterfall.n.01
+מַפַּל-מַיִם	waterfall.n.01
+!הִסְתַּבְּכוּת	web.n.01
+!תִּסְבֹּכֶת	web.n.01
+הַנִּסְתָּר	supernatural.n.01
+יֵשׁוּת-עַל-טִבְעִית	spiritual_being.n.01
+הַסִּבָּה-הָרִאשׁוֹנָה	first_cause.n.01
+הַגּוֹרָל	destiny.n.02
+אֵל	deity.n.01
+אֱלֹהִים	deity.n.01	god.n.03
+סֶת	set.n.10
+בַּעַל	baal.n.01	husband.n.01
+!חֵטְא	sin.n.04
+!עָווֹן	sin.n.04
+אֵלָה	goddess.n.01	terebinth.n.01
+אֱלֹהֵי-הַנּוֹצְרִים	godhead.n.01
+הַבֵּן	son.n.02
+מָשִׁיחַ	messiah.n.03	messiah.n.02
+!מָשִׁיחַ	messiah.n.01
+שָׂרָף	seraph.n.01
+פֵיָה	fairy.n.01
+גַּמָּד	gnome.n.01
+שָׂטָן	satan.n.01
+עַרְפָּד	vampire.n.01
+כָּאוֹס	chaos.n.03
+!לַיִל	nox.n.01
+!לַיְלָה	nox.n.01
+!בְּתוּלִים	hymen.n.01
+!כָּרוֹז	auctioneer.n.01
+מֵיטִיב	benefactor.n.01
+שׁוֹבֶה	captor.n.01
+!קֶשֶׁר	communicator.n.01
+צַרְכָן	consumer.n.01
+מוּג-לֵב	coward.n.01
+פַּחְדָן	coward.n.01
+יוֹצֵר	creator.n.02
+!בֵּן	native.n.01
+!בַּת	native.n.01
+!יָלִיד	native.n.01
+!צָעִיר	juvenile.n.01
+!מְאַהֵב	lover.n.01
+נָתִין	national.n.01
+!הֵלֶךְ	traveler.n.01	nomad.n.01	wanderer.n.01
+עוֹבֵד	worker.n.01
+!עֲבַרְיָן	wrongdoer.n.01
+כּוּשִׁי	black.n.05
+שָׁחֹר	black.n.05
+נוֹצְרִי	christian.n.01	christian.a.01	christian.a.01
+קְוֶקֶר	friend.n.05
+יְהוּדִי	jew.n.01	jewish.a.01	jewish.a.01
+יְהוּדִיָּה	jewess.n.01
+!זָוִית	angle.n.03
+פָּלֶשְׂתִּינָאִי	palestinian.n.01	palestinian.a.01	palestinian.a.01
+פָּלֶשְׂתִּינִי	palestinian.n.01	palestinian.a.01	palestinian.a.01
+יִשְׂרְאֵלִי	israeli.n.01	israeli.a.01	israeli.a.01
+!צָרְפָתִית	french.n.02
+!נִפְקָד	absentee.n.01
+בֶּן-לְוָיָה	companion.n.03
+!חַשָּׁב	accountant.n.01
+!רוֹאֵה_חֶשְׁבּוֹן	accountant.n.01
+נֶאֱשַׁם	defendant.n.01
+נִתְבָּע	defendant.n.01
+מַכָּר	acquaintance.n.03
+שַׂחְקָן	actor.n.01	player.n.01
+שַׂחְקָנִית	actress.n.01
+מְכֻתָּב	addressee.n.01
+נִמְעָן	addressee.n.01
+נוֹאֵף	adulterer.n.01
+יָרִיב	adversary.n.01	opposition.n.04
+יוֹעֵץ	adviser.n.01
+!מְגַדֵּל	agriculturist.n.01	breeder.n.01
+בַּעַל-בְּרִית	ally.n.02
+קִטֵּעַ	amputee.n.01
+אָב_קַדְמוֹן	ancestor.n.01
+מַרְדִּים	anesthesiologist.n.01
+רוֹפֵא-מַרְדִּים	anesthesiologist.n.01
+חָבֵר	associate.n.01	brother.n.04	companion.n.01	supporter.n.01	sweetheart.n.01
+!דּוֹדָה	aunt.n.01
+מְחַבֶּרֶת	authoress.n.01
+סוֹפֶרֶת	authoress.n.01
+!בַּלָּם	back.n.04
+!סַפָּר	barber.n.02	hairdresser.n.01
+סַפָּר	barber.n.02	hairdresser.n.01
+שַׁמָּשׁ	beadle.n.01
+כַּוְרָן	beekeeper.n.01
+קַבְּצָן	beggarman.n.01
+קַבְּצָנִית	beggarwoman.n.01
+נַפָּח	blacksmith.n.01
+כּוֹרֵךְ	bookbinder.n.01
+שׁוֹאֵל	borrower.n.01
+צוֹפֶה	boy_scout.n.01
+!לְבֵנָה	brick.n.02
+כַּלָּה	bride.n.01	bride.n.03
+שׁוֹשְׁבִינָה	bridesmaid.n.01
+!מְחַצְצֵר	bugler.n.01
+!בַּנַּאי	builder.n.03
+!פּוֹרֵץ	burglar.n.01
+!שׁוֹחֵט	butcher.n.03
+!קוֹנֶה	buyer.n.01	shopper.n.01
+!קַנְיָן	buyer.n.01
+!מַחְשֵׁב	calculator.n.01
+!מָעֳמָד	campaigner.n.01	rival.n.01
+מָעֳמָד	candidate.n.02
+קַנְדִּידָט	candidate.n.02
+!עֶגְלוֹן	carter.n.03
+נִפְגָּע	casualty.n.02
+!הָרוּג	casualty.n.01
+זָרָז	catalyst.n.02
+חַדְרָנִית	chambermaid.n.01
+עוֹזֶרֶת	charwoman.n.01
+!מנכ"ל	chief_executive_officer.n.01	general_manager.n.01
+יֶלֶד	child.n.01	child.n.02	child.n.03	male_child.n.01
+תִּינוֹק	child.n.03
+!פַּרְוָן	cloakmaker.n.01
+!מוּקְיוֹן	clown.n.01
+רַכָּב	coachman.n.01
+סַנְדְּלָר	cobbler.n.01
+!עָמִית	colleague.n.01
+!אַלּוּף_מִשְׁנֶה	colonel.n.01
+!מְפַקֵּד	commander.n.03
+!פַּרְשָׁן	commentator.n.02	observer.n.02
+מַלְחִין	composer.n.01
+קוֹמְפּוֹזִיטוֹר	composer.n.01
+סַדָּר	compositor.n.01
+כּוֹבֵשׁ	conqueror.n.01
+!כַּתָּב	correspondent.n.01	correspondent.n.02	reporter.n.01
+רוֹזֵן	count.n.03
+בּוֹקֵר	cowboy.n.01
+קָאוּבּוֹי	cowboy.n.01
+רוֹעֶה-בָּקָר	cowboy.n.01
+נוּת	crackpot.n.01
+!אֻמָּן	craftsman.n.02	craftsman.n.01	skilled_worker.n.01
+יְצוּר-אֱנוֹשִׁי	creature.n.02
+בַּעַל-חוֹב	creditor.n.01
+נוֹשֶׁה	creditor.n.01
+!פּוֹשֵׁעַ	criminal.n.01
+!גּוּר	cub.n.01
+קְלִיֶנְט	customer.n.01
+מַרְשֶׁה	client.n.01
+אַבָּא	dad.n.01	father.n.01
+לֵיְדִּי	dame.n.02
+גַּנְדְּרָן	dandy.n.01
+יַקִּיר	darling.n.01
+בַּת	daughter.n.01
+חַיָּב	debtor.n.01
+לוֹוֶה	debtor.n.01
+!נָצִיג	delegate.n.01
+!צֶאֱצָא	descendant.n.01
+!עָצִיר	detainee.n.01
+דֶּאוּס-אֶקְס-מָכִינָה	deus_ex_machina.n.01
+מְנַהֵל	director.n.01
+תַּלְמִיד	disciple.n.01	student.n.01
+!סַרְבָּן	dissenter.n.01
+!גָּרוּשׁ	divorcee.n.01
+!גְּרוּשָׁה	divorcee.n.01
+!רוֹפֵא	doctor_of_the_church.n.01
+!שׁוּעָל	dodger.n.01	fox.n.03
+!מְאֻבָּן	dodo.n.01
+מַחֲזַאי	dramatist.n.01
+מְתוֹפֵף	drummer.n.01
+כַּלְכְּלָן	economist.n.01
+!עוֹרֵךְ	editor.n.01
+אֶמִיר	emir.n.01
+שָׁלִיחַ	emissary.n.01
+!עוֹבֵד	employee.n.01
+יַזָּם	entrepreneur.n.01
+!צִיר	envoy.n.01	minister.n.03	hinge.n.02
+!שָׁלִיחַ	envoy.n.01	messenger.n.01
+סָרִיס	eunuch.n.01
+!שׁוֹפֵט	evaluator.n.01
+גּוֹלֶה	exile.n.02
+מְגֹרָשׁ	exile.n.02
+גָּלוּת-מֵרָצוֹן	exile.n.01
+יְצוּאָן	exporter.n.01
+!קִיצוֹנִי	extremist.n.01	winger.n.01
+מִתְרוֹמֵם	fagot.n.01
+!קַנַּאי	fanatic.n.01
+אָב	father.n.01	forefather.n.01	founder.n.02	ab.n.02
+סֶגֶן	first_lieutenant.n.01
+!דַּיָּג	fisherman.n.01
+טִפֵּשׁ	fool.n.01	unintelligent.a.01	unintelligent.a.01
+שַׂחְקָן-פוּטְבּוֹל	football_player.n.01
+!זָר	foreigner.n.02	stranger.n.01
+!רֹאשׁ	foreman.n.01	head.n.04	poisonous_plant.n.01
+יַעֲרָן	forester.n.02
+!זַיְפָן	forger.n.01
+!מְיַסֵּד	founder.n.03
+נָזִיר	monk.n.01
+הוֹרֶה-בִּיוֹלוֹגִי	genitor.n.01
+!לִוְיָתָן	giant.n.04
+בַּחוּרָה	girl.n.01
+נַעֲרָה	girl.n.01
+צוֹפָה	girl_scout.n.01
+נֶכְדָּה	granddaughter.n.01
+סָב	grandfather.n.01
+סַבָּא	grandfather.n.01
+סָבָא	grandfather.n.01
+סָבָה	grandma.n.01
+סַבְתָּא	grandma.n.01
+נֶכֶד	grandson.n.01
+יַרְקָן	greengrocer.n.01
+חָתָן	groom.n.03	groom.n.01
+מִתְעַמֵּל	gymnast.n.01
+תַּלְיָן	hangman.n.01
+נַבְלַאי	harpist.n.01
+נַבְלָן	harpist.n.01
+יוֹרֶשֶׁת	heiress.n.01
+רוֹעֶה	herder.n.02
+!מְאָרַחַת	hostess.n.02
+מְאָרַחַת	hostess.n.01
+עֲקֶרֶת-בַּיִת	housewife.n.01
+מְהַפְנֵט	hypnotist.n.01
+מְהַפְּנֵט	hypnotist.n.01
+צָבוּעַ	hypocrite.n.01
+מִתְחַזֶּה	imposter.n.01
+תַּעֲשִׂיָּן	industrialist.n.01
+!חוֹקֵר	inquisitor.n.01	research_worker.n.01
+יוֹזֵם	instigator.n.02
+מְתַרְגֵּם	interpreter.n.01
+מְתֻרְגְּמָן	interpreter.n.01
+!מְכֻנָּס	introvert.n.01
+!פּוֹלֵשׁ	invader.n.01
+!חַתָּם	investment_banker.n.01
+!מַשְׁגִּיחַ	invigilator.n.01
+לֵיצַן-הֶחָצֵר	jester.n.01
+!תַּכְשִׁיט	jewel.n.02
+סִיטוֹנַאי	jobber.n.01
+לֵץ	joker.n.01
+!מִשְׁפְּטָן	jurist.n.01
+!חוֹטֵף	kidnapper.n.01
+!מֶלֶךְ	king.n.02
+אַבִּיר	knight.n.01
+!פּוֹעֵל	laborer.n.01
+מַרְצֶה	lecturer.n.02
+עֲלוּקָה	leech.n.02
+!מְחוֹקֵק	legislator.n.01
+מַצִּיל	lifeguard.n.01
+פּוֹלִיגְלוֹט	linguist.n.01
+רַב-לְשׁוֹנִי	linguist.n.01
+!מַפְסִידָן	loser.n.03	loser.n.01
+לוֹט	lot.n.07
+קְלוֹץ	lout.n.01
+אִמָּא	ma.n.01
+מָדָם	madam.n.02
+!אַלּוּף	major-general.n.01
+דַּרְדַּק	male_child.n.01
+יַנּוּקָא	male_child.n.01
+!מִתְחַלֶּה	malingerer.n.01
+מְנַהֶלֶת	manageress.n.01
+!נֶחָת	marine.n.01
+!זֶפֶת	mariner.n.01
+!סַתָּת	mason.n.04
+מְיַלֶּדֶת	midwife.n.01
+!פָּעִיל	militant.n.01
+!חַקְיָן	mimic.n.01
+כּוֹרֶה	miner.n.01
+כִּילַי	miser.n.01
+קַמְצָן	miser.n.01
+!מְאַהֶבֶת	mistress.n.03	schoolmarm.n.01
+מְאַהֶבֶת	mistress.n.01
+פִּילֶגֶשׁ	mistress.n.01
+!שְׁנוֹרֶר	moocher.n.01
+!קַבְרָן	mortician.n.01
+אֵם	mother.n.01
+חָמוֹת	mother-in-law.n.01
+אָבֵל	mourner.n.01
+רוֹצֵחַ	murderer.n.01
+רוֹצַחַת	murderess.n.01
+מְנַגֵּן	musician.n.01
+נַגָּן	musician.n.01
+אוֹמֶנֶת	nanny.n.01
+מְטַפֶּלֶת	nanny.n.01
+!נַוָּט	navigator.n.02	sailing_master.n.01
+הָרַךְ-הַנּוֹלָד	neonate.n.01
+יִלּוֹד	neonate.n.01
+אַחְיָן	nephew.n.01
+אַחְיָנִית	niece.n.01
+!נַגָּד	noncommissioned_officer.n.01
+נְזִירָה	nun.n.01
+רוֹפֵא-מְיַלֵּד	obstetrician.n.01
+עוֹבֵד-צִבּוּר	official.n.01
+!יָתוֹם	orphan.n.01
+!קָצִין	overseer.n.01
+בְּעָלִים	owner.n.01
+!צַבָּע	painter.n.01
+צַבָּע	painter.n.02
+!צַנְחָן	paratrooper.n.01
+הוֹרֶה	parent.n.01
+הוֹרָה	parent.n.01	order.v.01
+פֶּחָה	pasha.n.01
+פָּשָׁה	pasha.n.01
+פַּצְיֶנְט	patient.n.01
+אֶבְיוֹן	pauper.n.01
+!רוֹכֵל	peddler.n.01
+!מְבַצֵּעַ	perpetrator.n.01
+!הִתְגַּלְּמוּת	embodiment.n.01
+!צַלָּם	photographer.n.01
+!פְּסַנְתְּרָן	pianist.n.01
+כַּיָּס	pickpocket.n.01
+סַרְסוּר	pimp.n.01
+אִינְסְטֶלָטוֹר	plumber.n.01
+שְׁרַבְרָב	plumber.n.01
+מְשׁוֹרֵר	poet.n.01
+פַּיְטָן	poet.n.01
+שׁוֹטֶרֶת	police_matron.n.01
+!בַּעֲלַת_בַּיִת	proprietress.n.01
+!מַטִּיף	preacher.n.01
+קוֹדֵם	predecessor.n.01
+!יו"ר	president.n.04
+!נָשִׂיא	president.n.04
+!כָּמְרִית	priestess.n.01
+בֶּן-מֶלֶךְ	prince.n.01
+נָסִיךְ	prince.n.01
+בַּת-מֶלֶךְ	princess.n.01
+נְסִיכָה	princess.n.01
+טוּרַאי	private.n.01
+!סַפְסָר	profiteer.n.01
+!נְבִיאָה	prophetess.n.01
+זוֹנָה	prostitute.n.01
+יַצְאָנִית	prostitute.n.01
+פְּרוּצָה	prostitute.n.01
+!סַפָּק	provider.n.02
+!רַב	rabbi.n.01	much.a.01	much.a.01
+!רַבִּי	rabbi.n.01
+אַנָּס	raper.n.01
+הַנּוֹצְרִי	redeemer.n.02
+הַצָּלוּב	redeemer.n.02
+יֵשׁוּ	redeemer.n.02
+יֵשׁוּעַ	redeemer.n.02
+!פָּלִיט	refugee.n.01
+!יְשִׁיבָה	religious.n.01
+!מְתַקֵּן	repairman.n.01
+!מַזְכִּיר	repository.n.02	secretary.n.02	secretary.n.01
+רוֹכֵב	rider.n.01
+!פּוֹרֵעַ	rioter.n.01
+!נוֹכֵל	rogue.n.01
+!חַבְּלָן	saboteur.n.01
+יוֹרֵד-יָם	sailor.n.01
+יַמַּאי	sailor.n.01
+מַלָּח	sailor.n.01
+סַפָּן	sailor.n.01
+זַבָּנִית	salesgirl.n.01
+!מוֹכֵר	salesman.n.01	seller.n.01
+גּוֹאֵל	savior.n.02
+מוֹשִׁיעַ	savior.n.02
+מְלֻמָּד	scholar.n.01
+!מְלֻמָּד	scholar.n.03
+אִישׁ-מַדָּע	scientist.n.01
+מַדְּעָן	scientist.n.01
+תַּסְרִיטַאי	scriptwriter.n.01
+!פַּסָּל	sculptor.n.01
+פַּסֶּלֶת	sculptress.n.01
+מְשָׁרֵת	servant.n.01
+!כָּרִישׁ	shark.n.03
+נוֹקֵד	sheepherder.n.01
+רוֹעֵה-צֹאן	sheepherder.n.01
+!כֶּבֶשׂ	sheep.n.03	sheep.n.02
+!חֶנְוָנִי	shopkeeper.n.01
+אֲחָאִים	sibling.n.01
+חָתוּם	signer.n.02
+!חוֹטֵא	sinner.n.01
+סֶר	sir.n.02
+אָחוֹת	sister.n.02
+!מִשְׁתַּמֵּט	slacker.n.01
+!עֶבֶד	slave.n.01	slave.n.02
+!סַהֲרוּרִי	sleepwalker.n.01
+!צַלָּף	sniper.n.01
+!עוֹרֵךְ_דִּין	solicitor.n.02
+בֵּן	son.n.01
+!מֻמְחֶה	specialist.n.01
+מֻמְחֶה	specialist.n.02
+רוֹפֵא-מֻמְחֶה	specialist.n.02
+!דּוֹבֵר	spokesman.n.01
+!מְרַגֵּל	spy.n.01
+סַיָּס	stableman.n.01
+סַוָּר	stevedore.n.01
+!דַּיֶּלֶת	stewardess.n.01
+זוֹנַת-רְחוֹב	streetwalker.n.01
+!חַשְׂפָן	stripper.n.03
+מָאצ'וֹ	stud.n.01
+סְטוּדֶנְט	student.n.01
+!סָכָל	stupid.n.01
+!מָנוּי	subscriber.n.03	subscriber.n.01
+!מְחַזֵּר	suitor.n.01
+נִצָּב	supernumerary.n.02
+סְטָטִיסְט	supernumerary.n.02
+אֵם-פּוּנְדְקָאִית	surrogate_mother.n.01
+!חָבֵר	sweetheart.n.01
+!חַיָּט	tailor.n.01
+!מְאַלֵּף	tamer.n.01
+!מַעֲרִיךְ	tax_assessor.n.01
+!שַׁמַּאי	tax_assessor.n.01
+!נִשּׁוֹם	taxpayer.n.01
+!קֻפַּאי	teller.n.03
+!דַּיָּר	tenant.n.01	tenant.n.03	tenant.n.02
+!מָטוֹל	thrower.n.02
+זַאֲטוּט	toddler.n.01
+יַלְדּוֹן	toddler.n.01
+פַסְפוּס	toddler.n.01
+פָּעוֹט	toddler.n.01
+צוּצִיק	toddler.n.01
+קָטָן	toddler.n.01	small.a.01	small.a.01
+קָטַנְצִ'יק	toddler.n.01
+!סוֹחֵר	trader.n.01
+מְאַמֵּן	trainer.n.01
+!חָרָט	turner.n.06
+!כַּתְבָנִית	typist.n.01
+!עָרִיץ	tyrant.n.01
+!רַפָּד	upholsterer.n.01
+סַדְרָן	usher.n.03
+!סַדְרָנִית	usherette.n.01
+!סַדְרָן	usher.n.02
+מַלְוֶה-בְּרִבִּית	usurer.n.01
+!צִמְחוֹנִי	vegetarian.n.01
+טִבְעוֹנִי	vegan.n.01
+!נָבָל	villain.n.01
+!בְּתוּלָה	virgin.n.01
+מֶלְצַר	waiter.n.01
+מֶלְצָרִית	waitress.n.01
+!נוֹדֵד	wanderer.n.01
+!כַּלַּאי	warder.n.01
+!סוֹהֵר	warder.n.01
+!סוֹהֶרֶת	wardress.n.01
+חַזַּאי	weatherman.n.01
+!רַתָּךְ	welder.n.01
+מַצְלִיף	whip.n.02
+אַלְמָנָה	widow.n.01
+אַלְמָן	widower.n.01
+!זְאֵב	wolf.n.04
+!עָמֵל	workman.n.01
+מִתְאַבֵּק	wrestler.n.01
+מְחַבֵּר	writer.n.01
+סוֹפֵר	writer.n.01
+אָלֶכְּסָנְדֶר-בֶּל	bell.n.08
+!שִׂיחַ	bush.n.06
+!כְּפוֹר	frost.n.04
+!קָרָה	frost.n.04
+!מַעֲנָק	grant.n.06
+הַבְּתוּלָה-הַקְּדוֹשָׁה	mary.n.01
+נָעֳמִי	naomi.n.01
+הִתְגַּבְּשׁוּת	crystallization.n.01
+!מַזָּל	luck.n.02
+מַזָּל	luck.n.03	fortune.n.04
+אֲלֻמַּת-אוֹר	beam.n.04
+קֶרֶן-אוֹר	beam.n.04
+בְּרִיזָה	breeze.n.01
+רוּחַ-קַלָּה	breeze.n.01
+רוּחַ-מִזְרָחִית	east_wind.n.01
+!חַשְׁמַל	electricity.n.01	electricity.n.02
+!עֲרָפֶל	fog.n.01
+סוּפָה	storm.n.01
+סְעָרָה	storm.n.01	storm.n.02
+גְּרָבִיטַצְיָה	gravity.n.01
+כְּבִידָה	gravity.n.01
+כּוֹחַ-הַכְּבִידָה	gravity.n.01
+כּוֹחַ-הַמְּשִׁיכָה	gravity.n.01
+בָּרָד	hail.n.01
+אֹבֶךְ	haze.n.01
+!הַפְשָׁרָה	thaw.n.02
+שֶׁמֶשׁ	sunlight.n.01
+גַּנְגְּרֶנָה	necrosis.n.01
+נֶמֶק	necrosis.n.01
+הִלָּה	halo.n.03
+טִפְטוּף	drizzle.n.01
+שֶׁלֶג	snow.n.01
+טְחָב	moss.n.01
+שָׁרָךְ	fern.n.01
+נֶבֶג	spore.n.01
+שְׁתִיל	seedling.n.01
+אֹרֶן	pine.n.01	pine.n.02
+אַשּׁוּחַ	fir.n.02	fir.n.01
+אֶרֶז	cedar.n.03	cedar.n.02
+!אֶרֶז	cedar.n.01
+בְּרוֹשׁ	cypress.n.02
+עַרְעָר	juniper.n.02
+עֱלִי	pistil.n.01
+!דַּפְנָה	laurel.n.01	true_laurel.n.01
+כַּלָּנִית	anemone.n.01
+!תִּלְתָּן	clover.n.01
+אָקַצְיָה	acacia.n.01
+שִׁטָּה	acacia.n.01	ridicule.v.01
+הַרְדּוּף	oleander.n.01
+קִיסוֹס	ivy.n.01
+קַקְטוּס	cactus.n.01
+כְּרוּב	cabbage.n.03
+כְּרוּבִית	cauliflower.n.01
+!יֹשֶׁר	honesty.n.02
+פָּרָג	poppy.n.01
+לַעֲנָה	wormwood.n.01
+!דַּרְדַּר	thistle.n.01
+חַרְצִית	chrysanthemum.n.02	chrysanthemum.n.01
+כְּרִיזַנְטֶמָה	chrysanthemum.n.02	chrysanthemum.n.01
+חַמָּנִיָּה	sunflower.n.01
+חַמָּנִית	sunflower.n.01
+אוֹרְכִידֵאָה	orchid.n.01
+סַחְלָב	orchid.n.01
+רַקֶּפֶת	cyclamen.n.01
+בְּרוֹמִית-הַשִּׁיפוֹן	chess.n.01
+!חִטָּה	wheat.n.01
+גַּרְעִינִים	grain.n.07
+!מֶלוֹן	melon.n.02
+מֶלוֹן_אַפְרִיקָנִי	watermelon.n.01
+חֶלְמִית	tall_mallow.n.01
+!מַטְאֲטֵא	heather.n.01	broom.n.02
+אַלּוֹן	oak.n.02
+לִבְנֶה	birch.n.02
+זַיִת	olive.n.02	olive.n.01
+יַסְמִין	jasmine.n.01
+לִילָךְ	lilac.n.01
+אֵשֶׁל	tamarisk.n.01
+כְּשׁוּת	hop.n.02
+פִיקוּס-הַשִּׁקְמָה	sycamore.n.04
+שִׁקְמָה	sycamore.n.04
+כַּרְכֹּם	crocus.n.01
+!נַרְקִיס	daffodil.n.01
+חֲבַצֶּלֶת	lily.n.01
+שׁוֹשָׁן	lily.n.01
+בָּצָל	onion.n.02	onion.n.01
+צִבְעוֹנִי	tulip.n.01	color.a.01	colorful.a.01	colorful.a.02	color.a.01	colorful.a.01	colorful.a.02
+סִתְוָנִית	autumn_crocus.n.01
+חָרוּב	carob.n.02	locust_tree.n.01
+!אַרְבֶּה	locust.n.02
+וֶרֶד	rose.n.01
+!מַאי	whitethorn.n.01
+צַפְצָפָה	poplar.n.02
+אֵזוֹב	hyssop.n.01
+סוּמְסוּם	sesame.n.01
+שֻׁמְשֹׁם	sesame.n.01
+לע-הָאֲרִי	snapdragon.n.01
+פִּטְרִיָּה	fungus.n.01
+שְׁמָרִים	yeast.n.02	yeast.n.01
+יְבוּל	crop.n.01
+תְּנוּבָה	crop.n.01
+מְטַפֵּס	vine.n.01
+קְנוֹקֶנֶת	tendril.n.01
+אָמִיר	crown.n.07
+נוֹף	crown.n.07
+צַמֶּרֶת	crown.n.07
+אֱגוֹז	nut.n.01
+גֶּפֶן	grape.n.02
+עַלְוָה	leaf.n.01
+יֶרֶק	greenery.n.01
+עָלֶה-שָׁסוּעַ	frond.n.01
+זַלְזַל	branchlet.n.01
+גֶּזַע	trunk.n.01
+בַּעֲלוּת	ownership.n.01
+!רְכוּשׁ	property.n.01
+!כֶּסֶף	money.n.02	money.n.01	money.n.03
+בְּרוּטוֹ	gross.n.02
+הַכְנָסָה-נֶטוֹ	net_income.n.01
+הַכְנָסָה-נְקִיָּה	net_income.n.01
+נֶטוֹ	net_income.n.01
+שְׂכַר-נֶטוֹ	net_income.n.01
+!הַכְנָסָה	tax_income.n.01
+שָׁלָל	loot.n.01
+!עִזָּבוֹן	bequest.n.01
+נְדוּנְיָה	dowry.n.01
+מִלְגָּה	scholarship.n.01
+בּוֹנוּס	bonus.n.02
+תַּמְרִיץ	bonus.n.02
+עֲלוּת	cost.n.01
+מַשְׂכֹּרֶת	wage.n.01
+שָׂכָר	wage.n.01
+מִנּוּי	subscription.n.01
+כֹּפֶר	ransom.n.01
+שֹׁחַד	bribe.n.01
+שַׁלְמוֹנִים	bribe.n.01
+פִּצּוּיִים	damages.n.01
+שִׁפּוּי	damages.n.01
+דְּמֵי-שְׁתִיָּה	gratuity.n.01
+טִיפּ	gratuity.n.01
+תֶּשֶׁר	gratuity.n.01
+מַס	tax.n.01
+אַרְנוֹנָה	property_tax.n.01
+מֶכֶס	customs.n.01
+טוֹנָז'	tonnage.n.01
+עַמְלָה	commission.n.02
+קוֹמִיסְיוֹן	commission.n.02
+אַגְרָה	toll.n.01
+שַׁעַר-הַחֲלִיפִין	rate_of_exchange.n.01
+בְּלַאי	depreciation.n.02
+פְּחָת	depreciation.n.02
+!הִמּוּר	gamble.n.01
+בִּטּוּחַ	insurance.n.01
+עֲרֵבוּת	bail.n.01	guarantee.n.03
+עַרְבוּת	bail.n.01	guarantee.n.03
+מַשְׁכַּנְתָּא	mortgage.n.01
+מַשְׁכַּנְתָּה	mortgage.n.01
+שִׁעְבּוּד	mortgage.n.01
+חִסָּכוֹן	savings.n.01
+חֶשְׁבּוֹן-בַּנְק	bank_account.n.01
+מַטְמוֹן	hoard.n.01
+מְלַאי	store.n.02
+אוֹצָר	treasure.n.03	treasure.n.01
+פְּנִינָה	pearl.n.01
+מִקְדָּמָה	advance.n.05
+פֶּנְסְיָה	pension.n.01
+קִצְבַּת-זִקְנָה	pension.n.01
+מְזֻמָּן	cash.n.02	cash.n.01
+מְזֻמָּנִים	cash.n.02	cash.n.01
+מַטְבֵּעַ	coin.n.01
+!פֶּנִי	penny.n.02
+הַלְוָאָה	loan.n.01
+חוֹבָה	debit.n.01
+נְיַר-עֵרֶךְ	security.n.04
+תַּקְצִיב	budget.n.02	budget.n.01
+אָדַפְּטַצְיָה	adaptation.n.02
+הִסְתַּגְּלוּת	adaptation.n.02
+!תְּקִיעָה	blowing.n.01
+עַשֶּׁשֶׁת	cavity.n.03
+רֵאַקְצְיָה	chemical_reaction.n.01
+תְּגוּבָה-כִּימִית	chemical_reaction.n.01
+הַחְלָמָה	convalescence.n.01
+!הַעֲמָקָה	deepening.n.01
+יִבּוּשׁ	dehydration.n.03
+בִּקּוּשׁ	demand.n.02
+הַתְפָּלָה	desalination.n.01
+הַתְפָּלַת-מַיִם	desalination.n.01
+פִּתּוּחַ	development.n.08
+הִתְפַּתְּחוּת	development.n.02
+עִכּוּל	digestion.n.02	digestion.n.01
+!פִּנּוּי	elimination.n.02
+שְׁחִיקָה	erosion.n.01
+נְבִיטָה	germination.n.01
+!רִפּוּי	healing.n.01
+!זְרִימָה	inflow.n.01
+דְּמִיעָה	lacrimation.n.01
+הֲטָלָה	laying.n.01
+הֲטָלַת-בֵּיצִים	laying.n.01
+וֶסֶת	menstruation.n.01
+הַשְׁתָּנָה	micturition.n.01
+תְּזוּנָה	nutrition.n.01
+!הַשְׁמָטָה	omission.n.03
+בִּיּוּץ	ovulation.n.01
+חִמְצוּן	oxidation.n.01
+!חֲדִירָה	permeation.n.01
+!חִלְחוּל	permeation.n.01
+עָשָׁן	smoke.n.02
+הִתְרַכְּכוּת	softening.n.01
+הַחְמָצָה	souring.n.01
+הִתְאַדּוּת	vaporization.n.02
+הִתְנַדְּפוּת	vaporization.n.02
+הִתְרַחֲבוּת	widening.n.01
+תְּסִיסָה	zymosis.n.01	agitation.n.02
+רֹב-מֻחְלָט	majority.n.02
+מְקַדֵּם	coefficient.n.01
+!סְעִיף	count.n.01
+!סְפִירָה	count.n.01
+גּוֹרֵם	factor.n.05
+!שִׂיא	record.n.03
+שְׁכִיחוּת-מֻחְלֶטֶת	frequency.n.03
+לִיטֶר	liter.n.01
+בַּיְט	byte.n.01
+קַנְדֶּלָה	candle.n.02
+!לִיגָה	league.n.03
+לֶב	lev.n.01
+פֶּנִי	penny.n.01
+שֶׁקֶל	shekel.n.01
+יֶן	yen.n.02
+מַעֲלָה	degree.n.06	importance.n.02
+גְּרָם	gram.n.01
+מוֹל	gram_molecule.n.01
+שֶׁבֶר	fraction.n.03	fracture.n.01
+שֶׁבֶר-פָּשׁוּט	common_fraction.n.01
+!גּוֹרֵם	divisor.n.01
+רֶבַע	one-fourth.n.01
+שְׁבִיעִית	one-seventh.n.01
+מֵאִית	one-hundredth.n.01
+אַיִן	nothing.n.01
+אֶפֶס	nothing.n.01	zero.n.02
+סִפְרָה	digit.n.01
+סִפְרָה-עֶשְׂרוֹנִית	decimal_digit.n.01
+שְׁנֵים-עָשָׂר	twelve.n.01
+תְּרֵיסָר	twelve.n.01
+מֵאָה	hundred.n.01	hundredth.n.01
+אֶלֶף	thousand.n.01
+מִילְיוֹן	million.n.01
+סְבִיבוֹת	region.n.04
+!מְעַט	little.n.01	a_bit.r.01
+מִנּוּן	dose.n.02
+הָמוֹן	batch.n.02
+עֲרֵמָה	batch.n.02
+!רֹב	much.n.01
+!הָמוֹן	tons.n.01
+!הַרְבֵּה	tons.n.01
+!יְחָסִים	relations.n.01
+הַתְאָמָה	function.n.01
+!תִּקְשֹׁרֶת	communication.n.03
+רֶלֶוַנְטִיּוּת	relevance.n.01
+צִוּוּי	imperative_mood.n.01
+נְטִיַּת-הַפֹּעַל	conjugation.n.02
+נְטִיַּת-הַשֵּׁם	declension.n.01
+!חֵלֶק	part.n.01
+שְׁאֵרִית	leftover.n.01
+שְׁיָר	leftover.n.01
+אַבְהוּת	fatherhood.n.01
+אַבָּהוּת	fatherhood.n.01
+אִמָּהוּת	motherhood.n.01
+אָחוּז	percentage.n.01
+יַחַס	ratio.n.01
+שְׁכִיחוּת-יַחֲסִית	frequency.n.02
+צָפוֹן	north.n.03
+!צָפוֹן	north.n.06
+מִזְרָח	east.n.01
+קֶדֶם	east.n.01
+!דָּרוֹם	south.n.03
+מַעֲרָב	west.n.02
+!שְׁבִיעִית	seventh.n.01
+!הַשְׁוָאָה	comparison.n.02
+הֶפֶךְ	reverse.n.01
+מְצֻלָּע	polygon.n.01
+פּוֹלִיגוֹן	polygon.n.01
+מְצֻלָּע-קָמוּר	convex_polygon.n.01
+מְצֻלָּע-קָעוּר	concave_polygon.n.01
+מְצֻלָּע-מְשֻׁכְלָל	regular_polygon.n.01
+!תַּלְתַּל	coil.n.02
+מְרֻבָּע	quadrilateral.n.01
+מַקְבִּילִית	parallelogram.n.01
+מְחֻמָּשׁ	pentagon.n.03
+פֶּנְטָגוֹן	pentagon.n.03
+הֶקְסָגוֹן	hexagon.n.01
+מְשֻׁשֶּׁה	hexagon.n.01
+הֶפְּטָגוֹן	heptagon.n.01
+מְשֻׁבָּע	heptagon.n.01
+אוֹקְטָגוֹן	octagon.n.01
+מְתֻמָּן	octagon.n.01
+מְתֻשָׁע	nonagon.n.01
+דֶּקָגוֹן	decagon.n.01
+מְעֻשָּׂר	decagon.n.01
+מְעֻיָּן	rhombus.n.01
+רוֹמְבּוּס	rhombus.n.01
+מַלְבֵּן	rectangle.n.01
+!דַּבֶּשֶׁת	bulge.n.01
+!גֻּלָּה	node.n.02
+עַמּוּד	column.n.04
+חֹד	point.n.08
+שְׁפִּיץ	point.n.08
+מִרְוָח	space.n.02
+!דּוּר	verticil.n.01
+סְטָטוּס	condition.n.01	status.n.01
+יְחָסִים	relationship.n.02	relationship.n.03
+בְּצַוְתָּא	company.n.03
+חֲבֵרוּת	friendship.n.01	membership.n.02
+יְדִידוּת	friendship.n.01
+רֵעוּת	friendship.n.01
+פַּרְשִׁיַּת-אֲהָבִים	affair.n.02
+פָּרָשַׁת-אֲהָבִים	affair.n.02
+רוֹמָן	affair.n.02
+סוֹבֵב	environment.n.01	twist.v.09	surround.v.01	wind.v.03	roll.v.12	turn.v.04
+הִכָּלְלוּת	inclusion.n.01
+שָׁלָב	degree.n.02	phase.n.01
+מַעֲמָד	status.n.01
+מִצָּב	status.n.01
+מַעֲמָד_חֶבְרָתִי	social_station.n.01
+!מְשָׁרֵת	handmaid.n.01
+!יֵשׁ	being.n.01
+!נֶצַח	eternity.n.02
+שְׁנַת-נֶצַח	rest.n.05
+שְׁנַת-עוֹלָם	rest.n.05
+תַּרְדֵּמַת-נֶצַח	rest.n.05
+אַבְטָלָה	unemployment.n.01
+!שַׁלְוָה	tranquillity.n.01
+!הִתְפָּרְעוּת	rioting.n.01
+!תְּסִיסָה	agitation.n.02
+הִתְעַלּוּת-הַנֶּפֶשׁ	ecstasy.n.01
+הִתְרוֹמְמוּת-רוּחַ	ecstasy.n.01
+אֵבֶל	mourning.n.01
+אֲבֵלוּת	mourning.n.01
+חַפּוּת	innocence.n.03
+עַצְמָאוּת	independence.n.01
+!פְּעִילוּת	action.n.02
+תַּרְדֵּמָה	hibernation.n.02
+תַּרְדֵּמַת-חֹרֶף	hibernation.n.02
+!תַּרְדֵּמָה	hibernation.n.01
+שֵׁנָה	slumber.n.02	sleep.n.01	sleep.n.02	sleep.n.03
+לֵאוּת	fatigue.n.01
+עֲיֵפוּת	fatigue.n.01
+שִׁכָּרוֹן	drunkenness.n.01
+שִׁכְרוּת	drunkenness.n.01
+זִקְפָּה	erection.n.01
+חָמְרָנוּת	materialism.n.01
+כָּפָן	hunger.n.01
+אִי-פּוֹרִיּוּת	sterility.n.02
+עֲקָרוּת	sterility.n.02
+הֵרָיוֹן	pregnancy.n.01
+!מַחֲלָה	ailment.n.01	disease.n.01
+מַחֲלָה	illness.n.01
+מָלַרְיָה	malaria.n.01
+קַדַּחַת	malaria.n.01
+קַדַּחַת-הַבִּצּוֹת	malaria.n.01
+עֲוִית	convulsion.n.02
+פִּרְכּוּס	convulsion.n.02
+טָרֶשֶׁת	sclerosis.n.01
+סְקְלֶרוֹזִיס	sclerosis.n.01
+דִּיאָבֶּטִיס	diabetes.n.01
+סֻכֶּרֶת	diabetes.n.01
+גְּרִיפָּה	influenza.n.01
+שַׁפַּעַת	influenza.n.01
+חַצֶּבֶת	measles.n.01
+!אַדֶּמֶת	german_measles.n.01
+סַמְיוּת-עֵינַיִם	blindness.n.01
+עִוָּרוֹן	blindness.n.01
+עִוְּרוּת	blindness.n.01
+חֳלִירַע	cholera.n.01
+כּוֹלֶרָה	cholera.n.01
+כוֹלֶרָה	cholera.n.01
+סִיפִילִיס	syphilis.n.01
+עַגֶּבֶת	syphilis.n.01
+מַחֲלַת-הַנְסֶן	leprosy.n.01
+צָרַעַת	leprosy.n.01
+חֲזֶרֶת	mumps.n.01
+דֶּבֶר	plague.n.01
+שַׁעֶלֶת	whooping_cough.n.01
+אַסְתְּמָה	asthma.n.01
+גַּנַּחַת	asthma.n.01
+קַצֶּרֶת	asthma.n.01
+כִּיב	ulcer.n.01
+שִׁדָּפוֹן	blight.n.02
+גִּדּוּל	tumor.n.01
+סַרְטָן	cancer.n.01
+חַבּוּרָה	bruise.n.01
+!כְּוִיָּה	scald.n.01
+שִׁזּוּף	tan.n.01
+שִׁזָּפוֹן	tan.n.01
+בֶּקַע	hernia.n.01
+הֶרְנְיָה	hernia.n.01
+פֶּצַע	wound.n.01
+הִתְעַטְּשׁוּת	sneeze.n.01
+עִטּוּשׁ	sneeze.n.01
+עֲטִישָׁה	sneeze.n.01
+!נְפִיחוּת	swelling.n.01
+!כְּאֵב	ache.n.01
+!מֵחוּשׁ	ache.n.01
+פַּסְיוֹן	passion.n.07
+צָרֶבֶת	heartburn.n.01
+לָמִינִיטִיס	laminitis.n.01
+קְבָס	nausea.n.01
+עֲצִירוּת	constipation.n.01
+שִׁלְשׁוּל	diarrhea.n.01
+הֲזָיָה	hallucination.n.01
+הָלוּצִינַצְיָה	hallucination.n.01
+שְׁפִיּוּת	sanity.n.01
+בַּעַת	phobia.n.01
+פוֹבְּיָה	phobia.n.01
+בְּדִידוּת	loneliness.n.01
+!בִּדּוּד	insulation.n.01
+!יַלְדוּת	childhood.n.02
+!יֻקְרָה	prestige.n.01
+!שֵׁמַע	fame.n.01
+!שֵׁם	repute.n.01	reputation.n.02
+בּוּשָׁה	shame.n.02
+בִּזָּיוֹן	shame.n.02
+חֶרְפָּה	shame.n.02
+עֶלְיוֹנוּת	domination.n.02
+בְּרִיאוּת	health.n.01
+!דְּרִישָׁה	need.n.01
+שְׂבִיעָה	repletion.n.01
+שֹׂבַע	repletion.n.01
+שָׂבְעָה	repletion.n.01
+שְׂבֵעוּת	repletion.n.01
+מַעַר	nakedness.n.01
+מַעֲרֻמִּים	nakedness.n.01
+עֵירֹם	nakedness.n.01
+עֶרְיָה	nakedness.n.01
+!פְּגָם	defect.n.03
+גּוֹרָל	fortune.n.04
+בְּרָכָה	blessing.n.02
+!בַּעֲלוּת	ownership.n.03
+!הִזְדַּמְּנוּת	opportunity.n.01
+מְבַשֵּׂר	anticipation.n.04
+!מְהִילָה	adulteration.n.01
+חַיֵּי-מוֹתָרוֹת	luxury.n.03
+דַּלּוּת	poverty.n.01
+עֹנִי	poverty.n.01
+!זֻהֲמָה	filth.n.03
+!טֻמְאָה	dirtiness.n.01
+!זִהוּם	befoulment.n.01
+גַּבְנוּן	kyphosis.n.01
+אֶרוֹזְיָה	erosion.n.02
+סְחִיפָה	erosion.n.02
+עֲרָפֶל	fog.n.02
+רְטִיבוּת	wetness.n.01
+לַחוּת	humidity.n.01
+יֹבֶשׁ	dryness.n.01	drought.n.02
+בַּצֹּרֶת	drought.n.01
+עֲצִירַת-גְּשָׁמִים	drought.n.01
+!בִּטּוּחַ	indemnity.n.01
+סַכָּנָה	hazard.n.01
+!מַצָּב	condition.n.05
+מֻגְבָּלוּת	disability.n.01
+נָכוּת	disability.n.01
+!צְלִיעָה	lameness.n.01
+חֵרְשׁוּת	deafness.n.01
+פְּזִילָה	strabismus.n.01
+שִׁתּוּק	paralysis.n.01
+אוּרְבָּנִיזַצְיָה	urbanization.n.01
+עִיּוּר	urbanization.n.01
+תְּמִסָּה	solution.n.01
+חֹמֶר-גֶּלֶם	raw_material.n.01
+רָדִיקָל	group.n.02
+מַתֶּכֶת	metallic_element.n.01
+אַרְגּוֹן	argon.n.01
+סִידָן	calcium.n.01
+כְּלוֹר	chlorine.n.01
+הֶלְיוּם	helium.n.01
+מֵימָן	hydrogen.n.01
+כַּסְפִּית	mercury.n.01
+חַנְקָן	nitrogen.n.01
+חַמְצָן	oxygen.n.01
+זַרְחָן	phosphorus.n.01
+אַשְׁלְגָן	potassium.n.01
+פּוֹטַסְיוּם	potassium.n.01
+כֶּסֶף	silver.n.01
+נַתְרָן	sodium.n.01
+סוֹדְיוּם	sodium.n.01
+גָּפְרִית	sulfur.n.01
+בְּדִיל	tin.n.01
+אָבָץ	zinc.n.01
+מַחְצָב	mineral.n.01
+מִינֶרָל	mineral.n.01
+חַרְסִית	china_clay.n.01
+קָאוֹלִין	china_clay.n.01
+גֶּבֶס	gypsum.n.01	plaster_of_paris.n.01
+פֶּחָם	charcoal.n.01
+פַּחַם-עֵץ	charcoal.n.01
+!דֶּלֶק	gasoline.n.01	fuel.n.01
+נֵפְט	kerosene.n.01	petroleum.n.01
+קֶרוֹסִין	kerosene.n.01
+לֶשֶׁם	opal.n.01
+כָּבוּל	peat.n.01
+חָצָץ	gravel.n.01
+מֶרֶק	putty.n.01
+אָרָד	bronze.n.01
+פְּרוֹטֶאִין	protein.n.01
+שֶׁנְהָב	ivory.n.01
+!עֶצֶם	bone.n.02
+עוֹר	leather.n.01
+זַמְשׁ	suede.n.01
+בַּזֶּלֶת	basalt.n.01
+עוֹשֵׂה-הַפְּעֻלָּה	agent.n.03
+סֻכָּרִים	carbohydrate.n.01
+פִּיחַ	carbon_black.n.01
+קַרְטוֹן	cardboard.n.01
+פְּלָדָה	steel.n.01
+מֶלֶט	cement.n.02	mortar.n.02
+חֵמָר	clay.n.01
+!פֶּחָם	coal.n.01
+תִּרְכֹּבֶת	compound.n.02
+בֶּטוֹן	concrete.n.01
+מוֹלִיךְ	conductor.n.02
+פְּקַק-שַׁעַם	cork.n.01
+צוּף	nectar.n.01
+פֶּרֶשׁ	body_waste.n.01
+צוֹאָה	fecal_matter.n.01
+גְּלָלִים	droppings.n.01
+מֵי-רַגְלַיִם	urine.n.01
+פִּיפִּי	urine.n.01
+צְרָכִים-קְטַנִּים	urine.n.01
+שֶׁתֶן	urine.n.01
+מֵי-שׁוֹפְכִין	sewage.n.01
+שׁוֹפְכִין	sewage.n.01
+שְׁפָכִים	sewage.n.01
+אַשְׁפָּה	rubbish.n.01
+זֶבֶל	rubbish.n.01
+!דֶּשֶׁן	fertilizer.n.01
+סִיב	fiber.n.01
+פִּשְׁתָּן	flax.n.01
+חַלָּמִישׁ	flint.n.01
+צֹר	flint.n.01
+שְׂרָף	resin.n.01
+רַקְבּוּבִית	humus.n.01
+זֶפֶת	pitch.n.06
+מְבוֹדֵד	insulating_material.n.01
+מִקְטָע	fraction.n.01
+יוּטָה	jute.n.01
+!נֵפְט	paraffin.n.03	methane_series.n.01
+טִיט	loam.n.01
+שַׁיִשׁ	marble.n.01
+מֶתָן	methane.n.01
+בֹּץ	mud.n.01
+תַּחְמֹצֶת	oxide.n.01
+הַזָּהָב-הַשָּׁחֹר	petroleum.n.01
+שֶׁמֶן-אֲדָמָה	petroleum.n.01
+!אֲגַם	lake.n.03	lake.n.02
+טִיחַ	plaster.n.01
+אַשְׁלָג	potash.n.01
+חַנְקָה	nitrate.n.01
+נְסֹרֶת	sawdust.n.01
+נוֹגְדָן	antibody.n.01
+טִין	silt.n.01
+מֵמֵס	solvent.n.01
+!תַּרְסִיס	spray.n.01
+עֲמִילָן	starch.n.01
+גָּפְרָה	sulfate.n.01
+רַעַף	tile.n.02
+!חֹמֶץ	vinegar.n.02
+שַׁעֲוָה	wax.n.01
+פָּרָפִין	paraffin.n.01
+דֶּטֶרְגֶּנְט	builder.n.01
+עֵץ	wood.n.01
+אוּד	brand.n.04
+!מַצִּית	igniter.n.01
+הִמָּשְׁכוּת	duration.n.02
+הִתְמַשְּׁכוּת	duration.n.02
+מֶשֶׁךְ	duration.n.01
+שְׁבוּעַ-עֲבוֹדָה	workweek.n.01
+שָׁבוּעַ	week.n.03	week.n.01
+יוֹם-מְנוּחָה	rest_day.n.01
+פְּנַאי	leisure.n.01
+יַלְדוּת	childhood.n.01
+בְּגִירוּת	majority.n.03
+קְטִינוּת	minority.n.03
+בַּגְרוּת	adulthood.n.01
+!מָחָר	tomorrow.n.01
+אֶתְמוֹל	yesterday.n.01	yesterday.n.02	yesterday.r.01	yesterday.r.02
+!פֶסְטִיבָל	festival.n.01
+יוֹם-שַׁבָּת	saturday.n.01
+שַׁבָּת	saturday.n.01	sabbath.n.01
+צָהֳרַיִם	noon.n.01
+חֲצוֹת	midnight.n.01
+בֵּין-הָעַרְבַּיִם	twilight.n.01
+בֵּין-הַשְּׁמָשׁוֹת	twilight.n.01
+דִּמְדּוּמִים	twilight.n.01
+עַרְבַּיִם	twilight.n.01
+פַּסְחָא	easter.n.01
+הַעֲלָאַת-מִרְיָם	assumption.n.04
+חַג-הַחֵרוּת	passover.n.01
+פֶּסַח	passover.n.01
+שָׁנָה	year.n.03	school_year.n.01	year.n.01	year.n.02
+שְׁנַת-הַלִּמּוּדִים	school_year.n.01
+חֹדֶשׁ	month.n.02	calendar_month.n.01
+יָנוּאָר	january.n.01
+פֶבְּרוּאָר	february.n.01
+מֶרְץ	march.n.01
+מַאי	may.n.01
+יוּנִי	june.n.01
+יוּלִי	july.n.01
+אֲדָר	adar.n.01
+אֱלוּל	elul.n.01
+עוֹנָה	season.n.02	season.n.03	season.n.01
+סְתָו	fall.n.01
+תְּקוּפַת-תִּשְׁרֵי	fall.n.01
+חֹרֶף	winter.n.01
+!רֶגַע	moment.n.01	moment.n.02
+עִדָּן	era.n.02	era.n.01
+תְּקוּפָה	era.n.02	era.n.01
+יוֹם-הַשָּׁנָה	anniversary.n.01
+מַעֲרָכָה	set.n.08
+!בִּנּוּי	reconstruction.n.01
+!שִׁחְזוּר	reconstruction.n.01
+מָחָר	tomorrow.n.02	tomorrow.r.01
+טֶמְפּוֹ	tempo.n.01
+מִפְעָם	tempo.n.01
+סוֹף	stopping_point.n.01
+פִינָלֶה	stopping_point.n.01
+נֶצַח	eternity.n.03
+עַד	eternity.n.03
+תְּמוּתָה	deathrate.n.01
+תְּדִירוּת	frequency.n.01
+תֶּדֶר	frequency.n.01
+מַחְזוֹר-חָדְשִׁי	menstrual_cycle.n.01
+פָזָה	phase.n.01
+גִּהֵק	burp.v.01
+שִׁהֵק	hiccup.v.01
+נָפַח	exhale.v.01
+נָשַׁף	exhale.v.01
+הִתְעַטֵּשׁ	sneeze.v.01
+שָׁאַף	inhale.v.02	inhale.v.01
+הִשְׁתַּעֵל	cough.v.01
+!רָעַד	shake.v.02	tremble.v.01
+הִתְנַמְנֵם	snooze.v.01
+נִמְנֵם	snooze.v.01
+נָחַר	snore.v.01
+אִלְחֵשׁ	anesthetize.v.01
+הִרְדִּים	anesthetize.v.01
+!הֵבִיא	bring_to.v.01	achieve.v.01	offer.v.09
+!הוֹבִיל	bring_to.v.01
+הִתְעַלֵּף	faint.v.01
+!צִחְקֵק	giggle.v.01
+גִּרְגֵּר	gargle.v.02	gargle.v.01
+הִסְתַּדֵּר	clean_up.v.04	get_along_with.v.01	work_out.v.02	do.v.04
+חָפַף	shampoo.v.01
+אִבֵּד-מִשְׁקָל	reduce.v.20
+הוֹרִיד	reduce.v.20	download.v.01
+הִרְזָה	reduce.v.20
+יָרַד-בַּמִּשְׁקָל	reduce.v.20
+רָזָה	reduce.v.20
+מָדַד	try_on.v.01
+!הִפְשִׁיט	undress.v.01
+!לָבַשׁ	wear.v.01
+!יִבֵּב	wail.v.02
+הִתְיַפֵּחַ	sob.v.01
+יִבֵּב	sob.v.01
+הֵזִּיעַ	sweat.v.01
+הֵטִיל-מַיִם	make.v.49
+הִשְׁתִּין	make.v.49
+עָשָׂה-פִּיפִּי	make.v.49
+הֵקִיא	vomit.v.01
+סִיֵּעַ	help.v.02	help.v.01
+עָזַר	help.v.02	help.v.01
+הִרְכִּיב	immunize.v.02	graft.v.01	install.v.01	assemble.v.01	compose.v.01
+חִסֵּן	immunize.v.02
+חָזַר-לְסוּרוֹ	relapse.v.02
+הֶחֱיָה	resuscitate.v.01
+הִתְאַמֵּן	train.v.08	drill.v.03
+פָּגַע	harm.v.01
+פָּלַט	exhaust.v.05
+הִתְבַּדֵּחַ	joke.v.02	joke.v.01
+צָחַק	joke.v.02
+הִשְׁתַּנָּה	change.v.02
+הִתְחַלֵּף	change.v.02	exchange.v.01
+!נִשְׁאַר	stay.v.01	persist.v.03
+שִׁנָּה	change.v.03	change.v.01	change.v.06
+הִצְטַמְצֵם	decrease.v.01
+יָרַד	decrease.v.01	descend.v.01
+קָטַן	decrease.v.01
+הִגְדִּיל	increase.v.02
+עָלָה	rise.v.02	ascend.v.01	ascend.v.08	surface.v.01
+גָּדַל	increase.v.01	grow_up.v.01
+הֶעֱלָה	raise.v.01	raise.v.19	arouse.v.01	raise.v.02
+הֵמִיר	change.v.06
+הֶחְלִיף	change.v.05	switch.v.03	transfer.v.06	exchange.v.01	supplant.v.01
+!קִלֵּף	husk.v.01
+פִּנָּה	clear_off.v.01
+פִּסֵּק	punctuate.v.01
+!הִגְעִיל	scald.v.04
+עָרַךְ	edit.v.01
+הִתְקַלְקֵל	spoil.v.02
+הֶחְמִיץ	pickle.v.01	sour.v.01
+כָּבַשׁ	pickle.v.01
+יִבֵּשׁ	dry.v.01
+הִתְיַבֵּשׁ	dry.v.02
+גִּבֵּר	strengthen.v.01
+חִזֵּק	strengthen.v.01
+גָּבַר	intensify.v.03	get_the_better_of.v.01
+הִתְגַּבֵּר	intensify.v.03	get_the_better_of.v.01
+הִתְחַזֵּק	intensify.v.03
+הִתְעַצֵּם	intensify.v.03
+הִגְבִּיר	enhance.v.01
+!גִּדֵּל	grow.v.03
+הִתְחַמְצֵן	oxidize.v.02
+חִמְצֵן	oxidize.v.02
+הִצְטַמֵּק	shrivel.v.01
+אִחֵד	unite.v.06	unite.v.01
+הִתְקַדֵּם	progress.v.01	advance.v.01
+!דָּלַף	leak.v.04	leak.v.02	leak.v.01
+!הִתְדַּלְדֵּל	dwindle.v.01
+!נֶעֱרַךְ	steel_oneself_against.v.01
+הִסְדִּיר	regularize.v.02	settle.v.03	settle.v.14
+סִדֵּר	tidy.v.01	gull.v.02	arrange.v.02
+בִּלְגֵּן	mess.v.02
+בִּרְדֵּק	mess.v.02
+הָפַךְ	mess.v.02	make.v.18	overturn.v.02	become.v.02
+הִלְבִּין	whiten.v.01
+הִצְהִיב	yellow.v.01
+לִבְלֵב	bloom.v.01
+פָּרַח	bloom.v.01
+בִּיֵּת	domesticate.v.03	domesticate.v.02	domesticate.v.01
+בֻּיַּת	domesticate.v.03	domesticate.v.02	domesticate.v.01
+אִלֵּף	domesticate.v.02
+אֻלַּף	domesticate.v.02
+חִשֵּׁל	toughen.v.01
+הֵצֵר	take_in.v.17
+!שִׂגְשֵׂג	boom.v.05	thrive.v.02
+!נִכֵּשׁ	weed.v.01
+הִתְאָרֵךְ	lengthen.v.02
+הֶאֱרִיךְ	lengthen.v.01
+הִתְקַיֵּם	happen.v.01	exist.v.02
+הִתְרַחֵשׁ	happen.v.01
+קָרָה	happen.v.01
+הֵחֵל	get_down.v.07
+הִתְחִיל	get_down.v.07	begin.v.02
+!הִתְחִיל	begin.v.03	start.v.06
+!נִכְנַס	begin.v.03	start.v.06
+!גִּמֵּר	finish_up.v.02	overpower.v.01
+נָבַט	shoot.v.19
+הִתְהַוָּה	come_to_life.v.01
+נוֹצַר	come_to_life.v.01
+הִפְסִיק	break.v.10	discontinue.v.01
+הִתְאַדָּה	evaporate.v.01
+הִתְנַדֵּף	evaporate.v.01
+הִתְאַחֵד	unify.v.01	connect.v.03
+גָּלַשׁ	boil_over.v.01	ski.v.01
+!שָׂרַף	burn.v.07
+מִרְכֵּז	centralize.v.01
+הִלְאִים	nationalize.v.01
+הִגֵּר	emigrate.v.01
+עִמְלֵן	starch.v.01
+!דָּלַק	get_on.v.05
+אָבַד	disappear.v.01
+הָלַךְ-לְאִבּוּד	disappear.v.01
+נֶעֱלַם	disappear.v.01	vanish.v.04	vanish.v.02
+נָגוֹז	vanish.v.04
+!הֵאִיץ	accelerate.v.01	accelerate.v.02
+הִקְטִין	decrease.v.02
+!הֵגִיב	react.v.03
+מִסְחֵר	commercialize.v.02
+!הִשְׁקִיעַ	precipitate.v.02
+הִשְׁקִיעַ	precipitate.v.02
+שִׁקֵּעַ	precipitate.v.02
+גָּמַר	complete.v.01
+חָתַם	complete.v.01	subscribe.v.05
+סִיֵּם	complete.v.01
+הִשְׁלִים	follow_through.v.02
+אִוְרֵר	vent.v.02
+!תִּעֵשׂ	urbanize.v.01
+!הִשְׁתַּזֵּף	tan.v.01
+אִפְשֵׁר	enable.v.01	permit.v.01	let.v.01
+!הִדְגִּישׁ	foreground.v.01	stress.v.01
+הִמְתִּיק	desalinate.v.01
+הִתְפִּיל	desalinate.v.01
+!רָחַב	widen.v.04
+!רֻפָּא	come_back.v.01
+הֵבִין	understand.v.01	understand.v.02	understand.v.04	understand.v.03	sympathize.v.02
+יָדַע	know.v.01	know.v.02	know.v.05	sleep_together.v.01
+תִּרְגֵּל	drill.v.03
+הִבְהִיר	clear.v.10
+הִסְבִּיר	clear.v.10
+הִכְתִּיב	dictate.v.02	order.v.03
+חָשַׁב	think.v.03	think.v.02	assume.v.01	think.v.01	think_up.v.01
+הִתְפַּלְסֵף	philosophize.v.01
+הִנִּיחַ	think.v.02	assume.v.01
+בִּסֵּס	establish.v.08
+חִשֵּׁב	calculate.v.01
+חִבֵּר	add.v.04	total.v.02	attach.v.03	join.v.02	attach.v.01	plug_in.v.01	write.v.01
+חָצָה	halve.v.01
+אִבְחֵן	diagnose.v.01
+!אִבְחֵן	diagnose.v.02
+הִבְדִּיל	distinguish.v.01	distinguish.v.03
+הִבְחִין	distinguish.v.01
+הִפְרִיד	distinguish.v.01
+עִיֵּן-מֵחָדָשׁ	reconsider.v.01
+שָׁקַל-מֵחָדָשׁ	reconsider.v.01
+סִוֵּג	classify.v.01
+!הֶעֱרִיךְ	rate.v.03	prize.v.01
+!קִיֵּם	confirm.v.01	leave.v.06
+בָּחַר	choose.v.01
+בָּרַר	choose.v.01
+הֶעֱרִיךְ	measure.v.04	respect.v.01
+שָׁם	measure.v.04	there.r.01	ibid..r.01
+הֶאֱמִין	believe.v.01	believe.v.05	believe.v.04
+סָבַר	think.v.01
+נוֹעַד	intend.v.02
+סָמַךְ	calculate.v.02
+פָּסַק	rule.v.02	discontinue.v.01	discontinue.v.02
+הֵגִיב	react.v.01	answer.v.01
+מִקֵּד	concentrate.v.02
+רִכֵּז	concentrate.v.02
+הֶחְשִׁיב	allow.v.06
+לָקַח-בְּחֶשְׁבּוֹן	allow.v.06
+תִּקְצֵב	budget.v.01
+הִפְרִישׁ	allow.v.04
+יִחֵס	impute.v.01
+הֶאֱמִין_בְּ	believe_in.v.01
+אָמַר	order.v.01	state.v.01
+הִגִּיד	order.v.01	state.v.01
+פָּתַח-וְאָמַר	begin.v.04
+בִּקֵּשׁ	request.v.01
+!עָתַר	petition.v.01
+הִפְצִיר	bid.v.03
+הִתְפַּלֵּל	pray.v.01
+יִשֵּׁב	settle.v.03
+דִּבֵּר-עַל-לִבּוֹ	wheedle.v.01
+שִׁדֵּל	wheedle.v.01
+שִׁכְנֵעַ	convert.v.09
+!גָּרַם	induce.v.02
+!הִתְפַּלְפֵּל	quibble.v.02
+!נָשַׁר	fall_out.v.01
+!נָגַד	oppose.v.06
+שָׁאַל	ask.v.01
+חִיֵּג	dial.v.01
+!קָרָא	summon.v.01
+אָסַר	forbid.v.01	tie_down.v.01	imprison.v.01
+מֵאֵן	refuse.v.01
+סֵרֵב	refuse.v.01	refuse.v.02
+הִסְכִּים	accept.v.03
+הֵשִׁיב-בְּחִיּוּב	accept.v.03
+!אִפְשֵׁר	allow.v.10
+!הִסְכִּים	assent.v.01	harmonize.v.01
+!הִתְנַגֵּד	object.v.01
+!הִפְרִיךְ	refute.v.01
+הֵשִׁיב	answer.v.01
+עָנָה	answer.v.01
+גָּעַר	call_on_the_carpet.v.01
+נָזַף	call_on_the_carpet.v.01
+נָתַן-לוֹ-עַל-הָרֹאשׁ	call_on_the_carpet.v.01
+שָׁטַף-אֶת	call_on_the_carpet.v.01
+בִּקֵּר	knock.v.06
+הִשִּׂיג	knock.v.06
+מָתַח-בִּקֹּרֶת	knock.v.06
+!דָּרַשׁ	sermonize.v.01	want.v.02
+תִּדְרֵךְ	brief.v.01
+תִּחְקֵר	debrief.v.01
+הוֹדִיעַ	inform.v.01
+יִדֵּעַ	inform.v.01
+אִמֵּן	coach.v.01
+הִגְזִים	overstate.v.01	overdo.v.01
+הִפְרִיז	overstate.v.01
+נִפֵּחַ	overstate.v.01
+!זִלְזֵל	disparage.v.01
+!הִשְׁמִיץ	defame.v.01
+הִכְפִּישׁ	vilify.v.01
+הֶעֱלִיב	diss.v.01
+הִסְתַּלְבֵּט	ridicule.v.01
+הִתֵּל	ridicule.v.01
+לִגְלֵג	ridicule.v.01
+לָעַג	ridicule.v.01
+עָשָׂה-מִמֶּנּוּ-צְחוֹק	ridicule.v.01
+הוֹנָה	deceive.v.02
+מָכַר	deceive.v.02
+מָכַר-לוֹ-לוֹקְשִׁים	deceive.v.02
+רִמָּה	deceive.v.02
+עָבַד	gull.v.02	function.v.01
+!הִתְמוֹדֵד	contest.v.01
+הִתְרָה	caution.v.01
+מָסַר	advise.v.02	pass.v.05
+הִתְוַדֵּעַ	familiarize.v.01	introduce.v.01
+הִצִּיעַ	propose.v.01	offer.v.02
+!הִסְפִּיד	eulogize.v.01
+הִשְׁוִיץ	boast.v.01
+הִשְׁתַּחְצֵן	boast.v.01
+הִתְרַבְרֵב	boast.v.01
+הִבְטִיחַ	guarantee.v.02
+הִקְבִּיל-אֶת-פָּנָיו	welcome.v.02
+קִבֵּל-אֶת-פָּנָיו	welcome.v.02
+קִדֵּם	welcome.v.02	advertise.v.02	promote.v.02	promote.v.01
+קִדֵּם-אֶת-פָּנָיו	welcome.v.02
+הִפְחִית	extenuate.v.01
+הֵקֵל	extenuate.v.01
+הִרְשִׁיעַ	convict.v.01
+!דָּן	sentence.v.01
+הֵרִים-אֶת-קוֹלוֹ	shout.v.01
+צָעַק	shout.v.01	shout.v.02
+צָרַח	yell.v.02
+לָאַט	whisper.v.01
+לָחַשׁ	whisper.v.01
+הִתְפַּלֵּא	wonder.v.03
+הִבִּיעַ	voice.v.01
+גִּלָּה	unwrap.v.02
+חָשַׂף	unwrap.v.02
+!הִסְבִּיר	explain.v.01	clarify.v.01	explain.v.02
+דִּבֵּר	talk.v.02	talk.v.01
+סָפַר	count.v.04	count.v.01
+סִכֵּם	total.v.02	sum_up.v.01
+הִתְחַשֵּׁב	consider.v.04
+הִשְׁמִיעַ	voice.v.02
+סִפֵּר	tell.v.03
+פִּרְסֵם	publicize.v.01	publish.v.02	advertise.v.01	publish.v.03	print.v.01
+!דִּבֵּר	talk.v.01
+מְדַבֵּר	speak.v.03
+הִכְרִיז	announce.v.02
+סָבַב	go_around.v.02	surround.v.01	swing_around.v.01	roll.v.12	turn.v.09
+גִּמְגֵּם	bumble.v.03
+כָּתַב	write.v.02	write.v.05	write.v.07	write.v.01
+הִדְפִּיס	type.v.01
+הִתְכַּתֵּב	correspond.v.03
+הִבְלִיט	stress.v.01
+צִיֵּן	note.v.01
+הִכְלִיל	generalize.v.01
+חִוָּה-דֵּעָה	opine.v.01
+הִטְבִּיל	baptize.v.01
+הִתְפַּשֵּׁר	compromise.v.02	compromise.v.01
+!הִתְפַּשֵּׁר	compromise.v.03
+פִּטְפֵּט	chew_the_fat.v.01
+רִכֵל	dish_the_dirt.v.01
+!נָחַר	grunt.v.01	snort.v.01
+יִלֵּל	howl.v.01
+!קִרְקֵר	cluck.v.01
+צָהַל	neigh.v.01
+!יִלֵּל	mew.v.02
+!בִּקֵּשׁ	request.v.03
+הִתְחָרָה	compete.v.01
+הִתְמוֹדֵד	compete.v.01	cope.v.01
+!הִתְגַּיֵּס	enlist.v.01
+!גִּיֵּס	recruit.v.03
+!גָּבַר	beat.v.01
+פָּרַס	slice.v.04	deploy.v.01	slice.v.03	slice.v.02	slit.v.01
+מִקֵּשׁ	mine.v.02
+!דָּג	fish.v.02	fish.v.01
+צָד	hunt.v.01
+הִפְנָה-שְׁאֵלָה	address.v.04
+כִּוֵּן	aim.v.01
+PSEUDOGAP!	charge.v.17
+הִפְנָה	level.v.01
+הִתְבַּיֵּת	range_in.v.01
+כָּרָה	mine.v.01
+לָגַם	sip.v.01
+סִפֵּק	provide.v.02
+!סִפֵּק	meet.v.04	supply.v.01	satisfy.v.01
+!שָׂבַע	be_full.v.01	satiate.v.01
+צָם	fast.v.02
+!צָם	fast.v.01
+אֵרֵח	host.v.01
+הִתְנַזֵּר	abstain.v.02
+עִשֵּׁן	smoke.v.01	fume.v.02
+הִרְוָה	quench.v.01
+רָוָה	quench.v.01
+הִתְנַגֵּשׁ	run_into.v.02
+נִכְנַס	run_into.v.02	enter.v.01
+נִתְקַל	run_into.v.02	fall_upon.v.01
+כָּרַת	amputate.v.01
+קָטַע	amputate.v.01
+גִּמֵּר	finish.v.04
+!רִצֵּף	pave.v.01	tile.v.01
+סִיֵּד	whitewash.v.02
+!פָּתַח	unwrap.v.01
+הִתִּיר	untie.v.01
+הִתְחַבֵּר	attach.v.02	log_in.v.01	connect.v.03
+!הִזְדַּוֵּג	match.v.03
+קִשֵּׁר	join.v.02
+הִצְמִיד	attach.v.01
+חִפֵּשׂ	search.v.01
+קָצַר	reap.v.01
+סָחַט	wring_out.v.01
+!הִתְעַוֵּת	contort.v.01
+!טִפְטֵף	drizzle.v.02
+גִּהֵץ	iron.v.01
+!הֶחְדִּיר	instill.v.02
+הִזְדַּיֵּן	sleep_together.v.01
+עָשָׂה-אַהֲבָה	sleep_together.v.01
+שָׁכַב-עִם	sleep_together.v.01
+נָסַב	surround.v.01	swing_around.v.01
+!הוֹצִיא	eject.v.01
+!חָנָה	park.v.01
+שָׂם	put.v.01
+גּוֹלֵל	wind.v.03
+לִפֵּף	wind.v.03
+פָּעַל	function.v.01
+הִשְׁתִּיל	transplant.v.03
+הֶעֱמִיד	stand.v.10
+הֵקִים	stand.v.10	establish.v.02	raise.v.09
+גָּזַז	fleece.v.02
+הִתְקִין	install.v.01
+חָנַק	strangle.v.01
+עָרַף	decapitate.v.01
+הִלְחִים	solder.v.01
+טִפְטֵף	dribble.v.02	drip.v.01	drizzle.v.01
+גָּרַם	cause.v.01
+!קוֹמֵם	rebuild.v.01
+עִרְבֵּב	jumble.v.02
+קָלַע	braid.v.01
+הִתִּיךְ	smelt.v.01
+הִבְרִיק	gloss.v.01
+לִטֵּשׁ	gloss.v.01
+!כָּתַב	author.v.01
+הִלְחִין	compose.v.02
+חָזַר	rehearse.v.01
+אִלְתֵּר	improvise.v.01
+צִלֵּם	photocopy.v.01
+שִׂדֵּד	harrow.v.01
+עָדַר	hoe.v.01
+תִּכְנֵת	program.v.02
+עוֹרֵר	arouse.v.01
+בָּז	contemn.v.01
+זִלְזֵל	contemn.v.01
+אִכְזֵב	disappoint.v.01
+!כָּמַהּ	ache.v.02	hanker.v.01
+הֵצִיף	overwhelm.v.01
+הִשְׁתַּלֵּט	overwhelm.v.01
+!הִתְיָאֵשׁ	despair.v.01
+!הִפְחִיד	intimidate.v.02
+סִקְרֵן	interest.v.01
+עִנְיֵן	interest.v.01	matter_to.v.01
+חָמַד	covet.v.01
+עָמַד	stand_still.v.01	stop.v.01
+!נִוֵּט	voyage.v.01
+בָּא	approach.v.04
+קָרַב	approach.v.04	approach.v.01
+הֵזִיז	move.v.02
+!מִרְכֵּז	center.v.03
+נֶעֱמַד	stop.v.01
+נֶעֱצַר	stop.v.01
+עָמַד-מִלֶּכֶת	stop.v.01
+עָצַר	stop.v.01	stop.v.03
+הִתְהַפֵּךְ	roll_over.v.01	overturn.v.01
+רָטַט	flicker.v.01
+רִצֵּד	flicker.v.01
+הִסְתּוֹבֵב	swing_around.v.01	roll.v.12	turn.v.01	circle.v.02	turn.v.09	hobnob.v.01
+שׁוֹטֵט	roll.v.12
+!הִתְפַּתֵּל	weave.v.04
+זָחַל	crawl.v.01
+!דָּאָה	glide.v.01	glide.v.03	glide.v.02
+כִּשְׁכֵּשׁ	wag.v.01
+!הִלֵּךְ	perambulate.v.02
+צָלַע	limp.v.01
+!צָעַד	hike.v.02	parade.v.01	hike.v.01
+צָעַד	step.v.01
+!נָהַג	drive.v.02
+נָהַג	drive.v.01
+הֶחְנָה	park.v.02
+חָנָה	park.v.02
+חָתַר	row.v.01
+רָכַב	ride.v.01
+!דָּהַר	gallop.v.01	gallop.v.02
+שָׂחָה	swim.v.01
+הִדַּרְדֵּר	avalanche.v.01
+צָנַח	chute.v.01
+הֵרִים	raise.v.02
+!יָרַד	alight.v.02	alight.v.01
+מִקֵּם	position.v.01
+!רִוֵּחַ	space.v.01
+!צָלַע	limp.v.02
+הִקְדִּים	precede.v.04
+!צָד	hound.v.01
+!הוֹפִיעַ	arrive.v.01
+חָלַף	travel_by.v.01	elapse.v.01
+הִתְקָרֵב	approach.v.01
+!זָחַל	fawn.v.01
+!יָצָא	shake.v.07
+!נָס	flee.v.01
+זִבֵּל	manure.v.01
+!הֶעֱבִיר	remove.v.05
+דָּרַךְ	step.v.02
+!דָּרַךְ	step_on.v.01
+הִרְגִּישׁ	feel.v.03
+חָשׁ	feel.v.03
+הִסְרִיחַ	reek.v.02
+הִצְחִין	reek.v.02
+!שָׁר	behold.v.01
+!הִפְגִּין	expose.v.03	uncover.v.01	display.v.02
+!הִצִּיג	expose.v.03	uncover.v.01	show.v.01	display.v.02
+!גִּלָּה	uncover.v.01
+!סָקַר	peruse.v.01
+נֶעֱלַם-מֵהָעַיִן	vanish.v.02
+הִבְהֵב	flicker.v.03	flicker.v.02
+עִמְעֵם	dim.v.01
+הֵצִיץ	peep.v.01
+עָקַב	attend.v.05
+חָרַק	whine.v.03
+שִׁקְשֵׁק	clatter.v.01
+!צָוַח	scream.v.03
+!צָרַח	scream.v.03
+!נָקַשׁ	chatter.v.01
+!הִבְחִין	spot.v.02
+!רָכַשׁ	buy.v.01
+!שָׂכַר	lease.v.04	rent.v.04
+חָנַט	embalm.v.01
+!מָסַר	hand_down.v.01
+הֶעֱבִיר	pass.v.05
+טָעַן	upload.v.01
+!הִקְצָה	allocate.v.01
+קִדֵּם-בִּבְרָכָה	welcome.v.01
+פָּדָה	cash.v.01
+!הֶחְלִיף	trade.v.04
+חִיֵּב	debit.v.01	coerce.v.01
+הֶחְרִים	impound.v.01
+חִלֵּט	impound.v.01
+עִקֵּל	impound.v.01
+אָגַר	store.v.01
+אִחְסֵן	store.v.01	store.v.02
+!הִשְׂתַּכֵּר	earn.v.02
+מָעַל	embezzle.v.01
+!הִגִּישׁ	hand_over.v.01
+חִלֵּק	share.v.04
+צָבַר	roll_up.v.02
+מָשַׁךְ	withdraw.v.09
+הִדִּיר-אוֹתוֹ-מִנְּכָסָיו	deprive.v.01
+נִשֵּׁל	deprive.v.01	disinherit.v.01
+הֶעֱבִיר-אוֹתוֹ-מִיְּרֻשָּׁתוֹ	disinherit.v.01
+שִׁרְיֵן	armor.v.01
+!רִפֵּד	upholster.v.01
+יִבֵּא	import.v.01
+יִצֵּא	export.v.01
+אִשְׁפֵּז	hospitalize.v.01
+מִשְׁכֵּן	mortgage.v.01
+שִׁעְבֵּד	mortgage.v.01
+הֵעֵז	make_bold.v.01	dare.v.02
+!צֵרֵף	co-opt.v.03
+!הִדִּיחַ	depose.v.01
+עָבַד-עַל	work_at.v.01
+חָבַר	collaborate.v.01	join.v.01	join.v.03
+שִׁתֵּף-פְּעֻלָּה	collaborate.v.01
+יָגַע	labor.v.02
+חָנַךְ	inaugurate.v.02
+!הֶחְזִיר	restore.v.05
+יִסֵּד	establish.v.01
+בִּטֵּל	abolish.v.01
+הִצְטָרֵף	join.v.01	join.v.03
+!הִרְחִיק	keep_away.v.01
+!הִתְרַחֵק	keep_away.v.01
+!הִתְעָרֵב	interfere.v.01	intervene.v.01
+מִנָּה	appoint.v.02
+!בִּטֵּל	abrogate.v.01
+חָבַשׁ	imprison.v.01
+כָּלָא	imprison.v.01
+הִגְלָה	expatriate.v.01
+אִלֵּץ	coerce.v.01
+כָּפָה	coerce.v.01
+הִתְעַלֵּל	mistreat.v.01
+!הִתְנַהֵג	behave.v.03
+!הִשִּׂיג	achieve.v.01
+!פָּעַל	achieve.v.01
+נִסָּה	test.v.01
+אָמַן	rear.v.02
+גִּדֵּל	rear.v.02
+חִבֵּל	sabotage.v.01
+הִגִּישׁ-עֶזְרָה	help.v.01
+בָּלַם	stop.v.03
+הֵפֵר	transgress.v.01
+חָרַג	transgress.v.01
+עָבַר-עַל	transgress.v.01
+!הוֹנָה	victimize.v.03
+!לָחַץ	blackmail.v.01
+עָרַק	defect.v.01
+שָׁלַט	govern.v.03
+הִסְתַּיֵּם	end.v.01
+נִגְמַר	end.v.01
+שָׂרַד	survive.v.01
+נִהְיָה	become.v.02
+נֶהְפַּךְ	become.v.02
+נֶהֱפַךְ	become.v.02
+דָּרַשׁ	necessitate.v.01
+הִצְרִיךְ	necessitate.v.01
+הֵכִיל	consist.v.04
+!הִסֵּס	hesitate.v.01	hesitate.v.02
+הִנְצִיחַ	perpetuate.v.01
+גָּר	populate.v.01
+הִתְגּוֹרֵר	populate.v.01
+יָשַׁב	populate.v.01
+שָׁכַן	populate.v.01
+אִכְסֵן	lodge.v.04
+!סָכַךְ	shelter.v.01
+הִסְפִּיק	suffice.v.01
+!הִסְרִיחַ	stink.v.01
+הִתְמַקֵּד	focus_on.v.01
+הִתְרַכֵּז	focus_on.v.01
+חָדַל	discontinue.v.01
+נִפְסַק	discontinue.v.02
+קָדַם	precede.v.02	predate.v.01
+!נִמְשַׁךְ	last.v.01
+בָּלַט	stick_out.v.01
+!נָטָה	tend.v.01
+יַחֲסִי	relative.a.01	relative.a.01
+מוּחָשׁ	concrete.a.01	concrete.a.01
+מוּחָשִׁי	concrete.a.01	concrete.a.01
+קוֹנְקְרֶטִי	concrete.a.01	concrete.a.01
+שׁוֹפֵעַ	abundant.a.01	abundant.a.01
+בְּסִיסִי	alkaline.a.01	alkaline.a.01
+סָבִיל	passive.a.03	passive.a.03
+פָּסִיבִי	passive.a.03	passive.a.03
+מְקֻשָּׁט	adorned.a.01	adorned.a.01
+הַרְפַּתְקָנִי	adventurous.a.01	adventurous.a.01
+יְדָנִי	manual.a.02	manual.a.02
+יָפֶה	beautiful.a.01	beautiful.a.01
+!חָלָק	unblemished.a.01	unblemished.a.01
+קָשׁוּר	tied.a.03	tied.a.03
+אַמִּיץ	brave.a.01	brave.a.01
+אָפֵל	dark.a.01	dark.a.01
+חָשׁוּךְ	dark.a.01	dark.a.01
+מוּעָם	dimmed.a.01	dimmed.a.01
+מְעֻמְעָם	dimmed.a.01	dimmed.a.01
+בַּר-מְנִיעָה	evitable.a.01	evitable.a.01
+אָפְיָנִי	characteristic.a.01	characteristic.a.01
+סַסְגּוֹנִי	colorful.a.02	colorful.a.02
+טָמֵא	unclean.a.02	unclean.a.02
+אָטוּם	opaque.a.01	sealed.a.02	opaque.a.01	sealed.a.02
+!טִפֵּשׁ	stupid.a.01	stupid.a.01
+!טִפְּשִׁי	stupid.a.01	stupid.a.01
+קָרוֹב	near.a.01	near.a.01	near.r.01
+מְעֻנָּן	cloudy.a.02	cloudy.a.02
+!שִׁתּוּפִי	collective.a.02	collective.a.02
+רָגִיל	usual.a.01	usual.a.01
+!מְסֻגָּר	uncommunicative.a.01	uncommunicative.a.01
+מָלֵא	whole.a.01	many.a.01	whole.a.01	many.a.01
+שָׁלֵם	whole.a.01	whole.a.01
+מְקֻמָּר	convex.a.01	convex.a.01
+קָמוּר	convex.a.01	convex.a.01
+מְתֻמְצָת	concise.a.01	concise.a.01
+תַּמְצִיתִי	concise.a.01	concise.a.01
+!מְכֻוָּץ	contracted.a.01	contracted.a.01
+עָמוּס	crowded.a.01	crowded.a.01
+צָפוּף	crowded.a.01	crowded.a.01
+מְרֻצֶּה	contented.a.01	contented.a.01
+מָסָרְתִּי	traditional.a.01	traditional.a.01
+מְבֻשָּׁל	cooked.a.01	cooked.a.01
+נָכוֹן	correct.a.01	correct.a.01	correctly.r.01
+!נָכוֹן	right.a.05	right.a.05	true.r.01
+מְשַׁלְשֵׁל	laxative.a.01	laxative.a.01
+מְנֻמָּס	polite.a.01	polite.a.01
+גַּס	uncivil.a.01	uncivil.a.01
+גַּס-רוּחַ	uncivil.a.01	uncivil.a.01
+מְעֻקָּב	cubic.a.01	cubic.a.01
+נוֹכְחִי	current.a.01	current.a.01
+אָרוּר	cursed.a.01	cursed.a.01
+מְקֻלָּל	cursed.a.01	cursed.a.01
+חֵרֵשׁ	deaf.a.01	deaf.a.01
+מְעֻרְפָּל	undefined.a.01	undefined.a.01
+שָׁבִיר	breakable.a.01	breakable.a.01
+שְׁרִירוּתִי	arbitrary.a.01	arbitrary.a.01
+אָמִין	reliable.a.01	reliable.a.01
+מְהֵימָן	reliable.a.01	reliable.a.01
+עִקָּרִי	independent.a.03	independent.a.03
+!תֵּאוּרִי	descriptive.a.02	descriptive.a.02
+נוֹרְמָטִיבִי	prescriptive.a.01	prescriptive.a.01
+פּוֹסְקָנִי	prescriptive.a.01	prescriptive.a.01
+דֶּסְקְרִיפְּטִיבִי	descriptive.a.01	descriptive.a.01
+תֵּאוּרִי	descriptive.a.01	descriptive.a.01
+!קָשֶׁה	difficult.a.01	difficult.a.01
+קָשֶׁה	difficult.a.01	difficult.a.01
+שַׁקְדָן	diligent.a.02	diligent.a.02
+חָלָק	uneventful.a.01	uneventful.a.01
+!מִזְרָחִי	east.a.01	east.a.01
+!מַעֲרָבִי	west.a.01	west.a.01
+יָעִיל	efficient.a.01	efficient.a.01
+אֶלַסְטִי	elastic.a.01	elastic.a.01
+גָּמִישׁ	elastic.a.01	elastic.a.01
+!נִבְחָר	elective.a.01	elective.a.01
+מֻבְטָל	unemployed.a.01	unemployed.a.01
+נִלְהָב	enthusiastic.a.01	enthusiastic.a.01
+שָׁוֶה	equal.a.01	equal.a.01
+נִבְזֶה	contemptible.a.01	contemptible.a.01
+נָשִׁיר	deciduous.a.01	deciduous.a.01
+!מְרַגֵּשׁ	exciting.a.01	exciting.a.01
+נִכְחָד	extinct.a.01	extinct.a.01
+מְפֹרָשׁ	explicit.a.01	explicit.a.01
+!חִיצוֹנִי	exterior.a.01	exterior.a.01
+רָזֶה	thin.a.02	thin.a.02
+אַחֲרוֹן	last.a.02	last.a.02
+!בֵּינַיִם	intermediate.a.01	intermediate.a.01
+מְסֻלְסָל	curly.a.01	curly.a.01
+מְקֻרְזָל	curly.a.01	curly.a.01
+מְתֻלְתָּל	curly.a.01	curly.a.01
+רֵיחָנִי	fragrant.a.01	fragrant.a.01
+טָרִי	fresh.a.01	fresh.a.05	fresh.a.01	fresh.a.05
+!מְרֹהָט	furnished.a.01	furnished.a.01
+אֲמִתִּי	genuine.a.01	true.a.01	genuine.a.01	true.a.01
+בַּעַל-כִּשָּׁרוֹן	talented.a.01	talented.a.01
+בְּרוּךְ-כִּשָּׁרוֹן	talented.a.01	talented.a.01
+כִּשְׁרוֹנִי	talented.a.01	talented.a.01
+מֻכְשָׁר	talented.a.01	talented.a.01
+רַע	bad.a.01	bad.a.01
+הַדְרָגָתִי	gradual.a.01	gradual.a.01
+מְדֹרָג	gradual.a.02	gradual.a.02
+!רְפוּאִי	medical.a.02	aesculapian.a.01	medical.a.02	aesculapian.a.01
+קַל	light.a.01	light.a.01
+הוֹמוֹגֶנִי	homogeneous.a.01	homogeneous.a.01
+!מְכֻבָּד	honorable.a.02	honorable.a.02
+אֲנָכִי	vertical.a.01	vertical.a.01
+חַם	hot.a.01	hot.a.01
+קַר	cold.a.01	cold.a.01
+חָפוּז	hurried.a.01	hurried.a.01
+מַרְשִׁים	impressive.a.01	impressive.a.01
+!נוֹשָׁב	inhabited.a.01	inhabited.a.01
+מְעַנְיֵן	interesting.a.01	interesting.a.01
+מְגֹהָץ	ironed.a.01	ironed.a.01
+!מְשַׂמֵּחַ	glad.a.01	glad.a.01
+מֻכָּר	known.a.01	known.a.01
+גָּדוֹל	large.a.01	significant.a.01	large.a.01	significant.a.01
+רַבָּתִי	greater.a.01	greater.a.01
+!שָׁוֶה	like.a.02	like.a.02
+שָׂנוּא	hateful.a.01	hateful.a.01
+אוֹהֵב	loving.a.01	loving.a.01
+נָשִׁי	womanly.a.01	womanly.a.01
+עוֹנָתִי	seasonal.a.01	seasonal.a.01
+מַקְסִימָלִי	maximal.a.01	maximal.a.01
+מְרַבִּי	maximal.a.01	maximal.a.01
+מִזְעָרִי	minimal.a.01	minimal.a.01
+מִינִימָלִי	minimal.a.01	minimal.a.01
+מַשְׁמָעוּתִי	meaningful.a.01	significant.a.01	meaningful.a.01	significant.a.01
+כָּרוּי	mined.a.01	mined.a.01
+צְבָאִי	military.a.03	military.a.02	military.a.03	military.a.02
+מַתַּכְתִּי	metallic.a.01	metallic.a.01
+מָתוּן	moderate.a.01	moderate.a.01
+שֶׁל-עֶקְרוֹנוֹת	principled.a.01	principled.a.01
+הַרְבֵּה	many.a.01	many.a.01
+רַב	many.a.01	many.a.01
+מוֹטוֹרִי	motorized.a.01	motorized.a.01
+מְמֻנָּע	motorized.a.01	motorized.a.01
+!נִפְעָם	moved.a.01	moved.a.01
+בֵּין-לְאֻמִּי	international.a.01	international.a.01
+בֵּינְלְאֻמִּי	international.a.01	international.a.01
+מְיֻתָּר	unnecessary.a.01	unnecessary.a.01
+מֻרְגָּשׁ	noticed.a.01	noticed.a.01
+צַיְתָן	obedient.a.01	obedient.a.01
+מְבֻטָּל	off.a.03	off.a.03
+!מְנֻגָּד	opposed.a.01	opposed.a.01
+מְנֻגָּד	opposed.a.01	opposed.a.01
+מְקֹרֶה	roofed.a.01	roofed.a.01
+!שֶׁעָבַר	past.a.01	past.a.01
+שֶׁעָבַר	past.a.01	past.a.01
+!נוֹכְחִי	present.a.01	present.a.02	present.a.01	present.a.02
+!סַבְלָנִי	patient.a.01	patient.a.01
+סַבְלָנִי	patient.a.01	patient.a.01
+סָלוּל	paved.a.01	paved.a.01
+!מִתְכַּלֶּה	perishable.a.01	perishable.a.01
+זְמַנִּי	impermanent.a.01	impermanent.a.01
+מַתִּירָנִי	permissive.a.02	permissive.a.02
+!מַתִּירָנִי	permissive.a.01	permissive.a.01
+אִימְפֶּרְסוֹנָלִי	impersonal.a.01	impersonal.a.01
+חָדִיר	permeable.a.01	permeable.a.01
+בִּלְתִּי-חָדִיר	impervious.a.01	impervious.a.01
+!נָעִים	pleasant.a.01	pleasant.a.01
+!מְרֻצֶּה	pleased.a.01	pleased.a.01
+!פּוֹלִיטִי	political.a.01	political.a.02	political.a.03	political.a.01	political.a.02	political.a.03
+חִיּוּבִי	positive.a.01	positive.a.01
+שְׁלִילִי	negative.a.01	negative.a.01
+נֵיטְרָלִי	neutral.a.04	neutral.a.04
+מִינוּס	minus.a.01	minus.a.01
+חָשׁוּב	influential.a.01	influential.a.01
+רַב-הַשְׁפָּעָה	influential.a.01	influential.a.01
+חָרוּשׁ	plowed.a.01	plowed.a.01
+מְפַגֵּר	retarded.a.01	retarded.a.01
+צִבּוּרִי	public.a.01	public.a.01
+אֶקְסְקְלוּסִיבִי	exclusive.a.02	exclusive.a.02
+נְבוּאִי	prophetic.a.01	prophetic.a.01
+גֵּא	proud.a.01	proud.a.01
+גֵּאֶה	proud.a.01	proud.a.01
+גִּזְעִי	purebred.a.01	racial.a.02	purebred.a.01	racial.a.02
+!רַעֲשָׁן	noisy.a.01	noisy.a.01
+!סָבִיר	reasonable.a.01	reasonable.a.01
+גָּלְמִי	unrefined.a.01	unrefined.a.01
+אָחִיד	uniform.a.01	uniform.a.01
+מְסֻכָּן	dangerous.a.01	dangerous.a.01
+אַחֵר	different.a.01	other.a.01	different.a.01	other.a.01
+שָׂבֵעַ	satiate.a.01	satiate.a.01
+מַדָּעִי	scientific.a.02	scientific.a.01	scientific.a.02	scientific.a.01
+מְבֻטָּח	insured.a.01	insured.a.01
+בָּכִיר	senior.a.01	senior.a.01
+זוּטָר	junior.a.01	junior.a.01
+!מְשֻׁתָּף	joint.a.01	joint.a.01
+חָטוּב	shapely.a.01	shapely.a.01
+מְגֻלָּח	shaven.a.01	shaven.a.01
+מֻרְכָּב	complex.a.01	complex.a.01
+כֵּן	sincere.a.01	sincere.a.01	thus.r.02
+מְיֻמָּן	skilled.a.01	skilled.a.01
+מֻצְלָח	successful.a.01	successful.a.01
+מֻפְתָּע	surprised.a.01	surprised.a.01
+מַפְתִּיעַ	surprising.a.01	surprising.a.01
+מַתְמִיהַּ	surprising.a.01	surprising.a.01
+סִינְכְרוֹנִי	synchronic.a.02	synchronic.a.02
+נָמוּךְ	short.a.03	short.a.03
+נְמוּךְ-קוֹמָה	short.a.03	short.a.03
+מְסֻדָּר	tidy.a.01	tidy.a.01
+מְסֹרָק	combed.a.01	combed.a.01
+סָרוּק	combed.a.01	combed.a.01
+מֵהַצַּד	side.a.01	side.a.01
+צְדָדִי	side.a.01	side.a.01
+!טִפּוּסִי	typical.a.01	typical.a.01
+עִלִּי	overhead.a.01	overhead.a.01
+אַפְסִי	worthless.a.01	worthless.a.01
+חֲסַר-עֵרֶךְ	worthless.a.01	worthless.a.01
+מְאֻוְרָר	ventilated.a.01	ventilated.a.01
+הִתְנַדְּבוּתִי	voluntary.a.01	voluntary.a.01
+ווֹלוּנְטָרִי	voluntary.a.01	voluntary.a.01
+רְצוֹנִי	voluntary.a.02	voluntary.a.02
+!רָצוּי	welcome.a.01	welcome.a.01
+רָחָב	wide.a.01	wide.a.01
+טִפְּשִׁי	foolish.a.01	foolish.a.01
+מְטֻפָּשׁ	foolish.a.01	foolish.a.01
+!מְיֹעָר	wooded.a.01	wooded.a.01
+מַמְאִיר	malignant.a.01	malignant.a.01
+!קָלוּף	shelled.a.01	skinned.a.01	shelled.a.01	skinned.a.01
+וְרִידִי	venous.a.01	venous.a.01
+כִּימִי	chemical.a.01	chemical.a.02	chemical.a.01	chemical.a.02
+!מַהוּתִי	essential.a.04	essential.a.04
+יְרֵחִי	lunar.a.01	lunar.a.01
+רְפוּאִי	medical.a.01	medical.a.01
+!צְבָאִי	military.a.01	military.a.01
+אִינְסְטְרוּמֶנְטָלִי	instrumental.a.01	instrumental.a.01
+כֵּלִי	instrumental.a.01	instrumental.a.01
+חַשְׁמַלִּי	electric.a.01	electric.a.01
+סִפְרוּתִי	literary.a.01	literary.a.01
+!מִקְצוֹעִי	vocational.a.01	vocational.a.01
+כַּסְפִּי	fiscal.a.01	fiscal.a.01
+פִינַנְסִי	fiscal.a.01	fiscal.a.01
+מְשִׁיחִי	messianic.a.01	messianic.a.01
+!יַמִּי	nautical.a.01	nautical.a.01
+אִרְגּוּנִי	organizational.a.01	organizational.a.01
+רַבָּנִי	rabbinical.a.01	rabbinical.a.01
+טַקְטִי	tactical.a.01	tactical.a.01
+תַּכְסִיסִי	tactical.a.01	tactical.a.01
+גָּאלִי	french.a.01	french.a.01
+צָרְפָתִי	french.a.01	french.a.01
+סְפָרַדִּי	spanish.a.01	spanish.a.01
+אֵירוֹפֶּאִי	european.a.01	european.a.01
+אֵירוֹפִּי	european.a.01	european.a.01
+יְוָנִי	greek.a.01	greek.a.01
+תַּקְצִיבִי	budgetary.a.01	budgetary.a.01
+חֶשְׁבּוֹנִי	arithmetical.a.01	arithmetical.a.01
+מַחְלַקְתִּי	departmental.a.01	departmental.a.01
+עִתּוֹנָאִי	journalistic.a.01	journalistic.a.01
+חַנְקָנִי	azotic.a.01	azotic.a.01
+זַרְחָנִי	phosphorous.a.01	phosphorous.a.01
+חֲטִיבָתִי	regimental.a.01	regimental.a.01
+מֻחְזָק	held.a.01	held.a.01
+מְחֻמְצָן	oxidized.a.01	oxidized.a.01
+מְפֻסְטָר	pasteurized.a.01	pasteurized.a.01
+!נִרְדָּף	pursued.a.01	pursued.a.01
+מָעוּךְ	squashed.a.01	squashed.a.01
+בְּעֶרֶךְ	approximately.r.01
+כְּ	approximately.r.01
+לְעֵרֶךְ	approximately.r.01
+פָּחוֹת-אוֹ-יוֹתֵר	approximately.r.01
+לְגַמְרֵי	wholly.r.01
+לַחֲלוּטִין	wholly.r.01
+בִּלְבַד	entirely.r.02
+רַק	entirely.r.02
+הֵיטֵב	well.r.01
+מֵאָה-אָחוּז	okay.r.01
+אַף	even.r.03
+אֲפִלּוּ	even.r.03
+דַּי	quite.r.01
+לְמַדַּי	quite.r.01
+לִפְעָמִים	sometimes.r.01
+לִפְרָקִים	sometimes.r.01
+מִדֵּי-פַּעַם	sometimes.r.01
+!לֹא	not.r.01	no.r.02	no.r.01	regardless.r.01
+לֹא	not.r.01	no.r.03	no.r.02	no.r.01
+!לא	no.r.02	no.r.01
+!אַיִן	none.r.01
+בֵּין_כֹּה_וָכֹה	anyhow.r.01
+בְּלָאו_הָכֵי	anyhow.r.01
+!בְּלָאו_הָכִי	anyhow.r.02
+אַף-עַל-פִּי-כֵן	however.r.01
+בְּכָל-זֹאת	however.r.01
+לַמְרוֹת-זֹאת	however.r.01
+יְתֵרָה-מִזּוֹ	furthermore.r.01
+יָתֵר-עַל-כֵּן	furthermore.r.01
+כְּבָר	already.r.01	soon.r.01
+מְאוֹד	very.r.01
+מַה-זֶּה	very.r.01
+נוֹרָא	very.r.01
+!קְצָת	a_bit.r.01
+בִּמְהֵרָה	soon.r.01
+בְּקָרוֹב	soon.r.01
+עוֹד-מְעַט	soon.r.01
+לְעִתִּים-קְרוֹבוֹת	frequently.r.01
+לְעִתִּים-רְחוֹקוֹת	rarely.r.01
+!דֵּי	reasonably.r.01	fairly.r.02	sufficiently.r.01	enough.r.01	fairly.r.03
+!לְמַדַּי	reasonably.r.01
+בֶּאֱמֶת	truly.r.01	in_truth.r.01
+!אָכֵן	indeed.r.02
+אָכֵן	indeed.r.01
+אַשְׁכָּרָה	in_truth.r.01
+מַמָּשׁ	in_truth.r.01
+כַּמּוּבָן	naturally.r.01
+עוֹד-פַּעַם	again.r.01
+שׁוּב	again.r.01
+סְפֶּצִיפִית	specifically.r.01
+בְּאֹפֶן-כְּלָלִי	generally.r.02
+בִּכְלָל	generally.r.02	at_all.r.01
+!אַחֶרֶת	otherwise.r.01
+בְּנוֹסָף	additionally.r.01
+מִלְּבַד-זֹאת	additionally.r.01
+מִדַּי	excessively.r.01
+גַּם	besides.r.02
+!הַיּוֹם	presently.r.02
+!כַּיּוֹם	presently.r.02
+!כָּעֵת	presently.r.02
+!עַכְשָׁו	presently.r.02
+!עַתָּה	presently.r.02
+הַיּוֹם	nowadays.r.01	today.r.02
+כַּיּוֹם	nowadays.r.01
+עַכְשָׁו	nowadays.r.01	now.r.04
+לְלֹא-דִּחוּי	immediately.r.01
+מִיָּד	immediately.r.01
+מִיָּדִית	immediately.r.01
+תֵּכֶף-וּמִיָּד	immediately.r.01
+בְּגָּלוּי	openly.r.01
+גְּלוּיוֹת	openly.r.01
+בֵּינְתַיִם	for_the_moment.r.01	meanwhile.r.02
+לְעֵת-עַתָּה	for_the_moment.r.01
+!מְאוֹד	greatly.r.01
+כְּלָל	at_all.r.01
+בַּעֲקִיפִין	indirectly.r.01
+סְחוֹר-סְחוֹר	indirectly.r.01
+מְאוֹד-מְאוֹד	a_lot.r.01
+עַד-מְאֹד	a_lot.r.01
+!לְמַעֲשֶׂה	effectively.r.02	in_fact.r.01	actually.r.01	in_practice.r.01
+קֹדֶם	previously.r.01
+קֹדֶם-לָכֵן	previously.r.01
+!לְפֶתַע	suddenly.r.01	on_the_spur_of_the_moment.r.01
+בְּכַוָּנָה	intentionally.r.01
+בְּמַחְשָׁבָה-תְּחִלָּה	intentionally.r.01
+בְּמִתְכַּוֵּן	intentionally.r.01
+לָאַחֲרוֹנָה	last.r.01
+לְבַסּוֹף	last.r.02
+מֵרֹאשׁ	ahead.r.04
+!סָבִיב	round.r.01
+כִּמְעַט	about.r.07
+בְּעִקָּר	chiefly.r.01
+!לְמַעְלָה	above.r.02	upstairs.r.01	upstairs.r.02
+בִּמְיֻחָד	particularly.r.01	particularly.r.02
+!מַהֵר	quickly.r.01
+בְּיוֹתֵר	highly.r.01
+לְמַעְלָה	up.r.01
+יוֹתֵר	more.r.02
+שֵׁנִית	second.r.01
+בַּתְּחִלָּה	initially.r.01
+תְּחִלָּה	initially.r.01
+!מִיָּד	promptly.r.02	promptly.r.03	promptly.r.01	immediately.r.02	immediately.r.03
+כָּרָגִיל	as_usual.r.01
+שָׁמָּה	there.r.01	there.r.03
+לְשָׁם	there.r.03
+!שָׁם	there.r.02
+!דּוּמָם	mutely.r.01
+!דֹּם	mutely.r.01
+מֵחָדָשׁ	afresh.r.01
+אַחֶרֶת	differently.r.01
+אָז	then.r.01	then.r.03	then.r.02
+!פַּעַם	once.r.01
+לְפָנִים	once.r.03
+פַּעַם	once.r.03
+בַּד-בְּבַד	simultaneously.r.01
+בָּהּ-בָּעֵת	simultaneously.r.01
+בּוֹ-זְמַנִּית	simultaneously.r.01
+בּוֹזְמַנִּית	simultaneously.r.01
+בְּמַקְבִּיל	simultaneously.r.01
+!בְּעוֹד	concurrently.r.01
+כֹּה	thus.r.02
+כָּךְ	thus.r.02
+כָּכָה	thus.r.02
+אִישִׁית	personally.r.04	personally.r.05
+חֲלִיפוֹת	alternately.r.01
+לְסֵרוּגִין	alternately.r.01
+כַּנִּרְאֶה	probably.r.01
+מִן-הַסְּתָם	probably.r.01
+קָרוֹב-לְוַדַּאי	probably.r.01
+בְּוַדַּאי	surely.r.01
+בֶּטַח	surely.r.01
+!כָּל_כָּךְ	such.r.01
+!בְּעֶצֶם	in_fact.r.01
+!בְּפֹעַל	in_fact.r.01
+!דַּוְקָא	in_fact.r.01
+בְּעַל-פֶּה	by_heart.r.01
+עַל-פֶּה	by_heart.r.01
+בִּמְלוֹאוֹ	completely.r.02
+בְּדִיּוּק	precisely.r.01	precisely.r.03
+!כִּמְעַט	closely.r.03
+בְּאֹפֶן-יַחֲסִי	relatively.r.01
+יַחֲסִית	relatively.r.01
+לְאַט	slowly.r.01
+!בְּמִקְרֶה	in_case.r.01
+בַּחֲשַׁאי	secretly.r.01
+לְלֹא-הוֹעִיל	vainly.r.01
+לַשָּׁוְא	vainly.r.01
+בְּרֶגַע-שֶׁ	once.r.02
+!נִמְרָצוֹת	vigorously.r.01
+דְּהַיְנוּ	namely.r.01
+הַיְנוּ	namely.r.01
+כְּלוֹמַר	namely.r.01
+בִּגְנֵבָה	stealthily.r.01
+כַּהֹגֶן	properly.r.01
+כַּהֲלָכָה	properly.r.01
+כַּיָּאוּת	properly.r.01
+כָּרָאוּי	properly.r.01
+נְכוֹנָה	correctly.r.01
+בְּנִפְרָד	individually.r.01
+לְחוּד	individually.r.01
+בְּחָפְשִׁיּוּת	freely.r.01
+חָפְשִׁי	freely.r.01
+הָפוּךְ	upside_down.r.01
+בְּזַעַם	angrily.r.01
+בְּכַעַס	angrily.r.01
+בִּפְרָט	particularly.r.02
+יָחֵף	barefooted.r.01
+בְּרִפְרוּף	cursorily.r.01
+אוּלַי	possibly.r.01
+יִתָּכֵן	possibly.r.01
+!כִּפְלַיִם	double.r.02	double.r.01
+מַעֲרָבָה	westward.r.01
+מִזְרָחָה	eastward.r.01
+קֵדְמָה	eastward.r.01
+בְּכֹחַ	forcefully.r.01
+חָזָק	forcefully.r.01
+בִּמְדֻיָּק	precisely.r.02
+!מַמָּשׁ	precisely.r.03
+בַּאֲדִישׁוּת	indifferently.r.01
+לֶנְטוֹ	lento.r.01
+!בְּיִחוּד	specially.r.01
+!כַּהֲלָכָה	by_rights.r.01
