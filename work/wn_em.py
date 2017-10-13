@@ -31,7 +31,7 @@ def run(word_counts, funs, possibility_dicts):
     
     probabilities = dict()
     for fun, prob in zip(id2fun, np.nditer(probs, order='C')):
-        probabilities[fun]=prob
+        probabilities[fun]=float(prob)
     return probabilities
 
 
@@ -62,13 +62,18 @@ def to_ids(word_counts, possibility_dicts, funs):
         wc_by_id[lang] = []
         pd_by_id[lang] = []
         current_id = 0
+        oov_words = 0
         for word, count in word_counts[lang]:
-            word2id[lang][word] = current_id
-            id2word[lang].append(word)
-            wc_by_id[lang].append(count)
-            pd_by_id[lang].append([fun2id[fun] for fun in possibility_dicts[lang][word]])
-            current_id = current_id+1
-
+            if word in possibility_dicts[lang].keys():
+                word2id[lang][word] = current_id
+                id2word[lang].append(word)
+                wc_by_id[lang].append(count)
+                pd_by_id[lang].append([fun2id[fun] for fun in possibility_dicts[lang][word]])
+                current_id = current_id+1
+            else:
+                oov_words = oov_words + 1
+        if oov_words>0:
+            logging.debug('found {} oov words in counts for {}.'.format(oov_words,lang))
     return wc_by_id, pd_by_id, id2word, word2id, id2fun, fun2id
 
 
