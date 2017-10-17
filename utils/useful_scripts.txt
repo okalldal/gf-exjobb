@@ -1,0 +1,5 @@
+#Fix UD-gold-trees
+for file in *.txt; do cat $file | awk 'NF==8{print}NF!=8{print $1 "\t" $2 "\t" $3 "\t" $4 "\tROOT\tROOT\t" $5}'>"fixed/$file"; done
+
+#Fix prasanths autoparsed trees
+'NF==6{print}NF!=6{print $1 "\t" $2 "\t" $3 "\t" $4 "\tROOT\tROOT" }'>"fixed/$file"; done
