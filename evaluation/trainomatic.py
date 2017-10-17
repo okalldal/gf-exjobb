@@ -21,5 +21,5 @@ def parse_dir(dirpath = DATA_DIR, progress_bar=True):
     files = [os.path.join(dirpath, f) 
              for f in os.listdir(dirpath) if f.endswith('.xml')]
     if progress_bar: 
-        files = tqdm(files)
+        files = tqdm(files[0:500])
     return chain.from_iterable(parse(f) for f in files)

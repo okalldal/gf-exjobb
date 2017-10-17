@@ -62,9 +62,9 @@ def to_ids(occurences):
 
 def em_algorithm(occurrence_tuples, 
                  init_probs,
-                 convergence_threshold=1e-5):
+                 convergence_threshold=1e-5,
+                 progress_fun=None):
     """ The actual algorithm
-    
     
     :param occurrence_tuples: has possibilities coded as IDs
     :type  occurrence_tuples: [([int],int)] 

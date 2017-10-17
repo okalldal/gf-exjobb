@@ -108,7 +108,7 @@ if __name__ == '__main__':
     logging.info('Loading Spacy')
     spacy_en = spacy.load('en_depent_web_md')
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs('../results/bigram_filter_train_total.probs'))
+    probs = defaultdict(lambda: 0, read_probs('../results/test_total.probs'))
     logging.info('Loading GF')
     gr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf')
     lgr = gr.languages['TranslateEng']
