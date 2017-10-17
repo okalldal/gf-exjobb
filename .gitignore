@@ -8,3 +8,4 @@ work/__pycache__/
 work/*.ipynb
 results/**/*.pickle
 parsed_data/counts/
+**/__pycache__
