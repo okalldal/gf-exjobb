@@ -92,9 +92,9 @@ def em_algorithm(word_counts,
     :param convergence_threshold: double
     :returns: np.[double]
     """
-    langs = word_counts.keys()
+    langs = list(range(len(word_counts)))
     convergence_diff = convergence_threshold
-    total_counts = sum([count for counts in word_counts.values() for count in counts])
+    total_counts = sum([count for counts in word_counts for count in counts])
     expected_counts = dict()
     expected_fun_counts = dict()
     for lang in langs:
@@ -128,3 +128,56 @@ def em_algorithm(word_counts,
         probs = new_probs
         #print(convergence_diff)
     return probs/total_counts, word_probs #note normalization of probs here, see comment above
+
+if __name__ == '__main__':
+    import sys
+
+    if sys.stdin.__next__().strip('\n') != '---':
+        print('Input must start with ---', file=sys.stderr)
+        exit(1)
+
+    word_counts = list()
+    word_possibilities=list()
+    word_probabilities=list()
+
+    fun2id = dict()
+    id2fun = list()
+    current_id = 0
+
+    wc = list()
+    wp = list()
+    wprob = list()
+    for l in sys.stdin:
+        if l.strip('\n') == '---': #new language
+            word_counts.append(wc)
+            word_possibilities.append(wp)
+            word_probabilities.append(wprob)
+            wc = list()
+            wp = list()
+            wprob = list()
+        else:
+            l_split = l.strip('\n').split('\t')
+            wc.append(int(l_split[0]))
+
+            funs = list()
+            for fun in l_split[1:]:
+                if fun not in fun2id.keys():
+                    id2fun.append(fun)
+                    fun2id[fun] = current_id
+                    current_id = current_id + 1
+                funs.append(fun2id[fun])
+            wp.append(np.array(funs))
+            wprob.append(np.ones([len(funs)])/(len(funs)))
+
+    word_counts.append(wc)
+    word_possibilities.append(wp)
+    word_probabilities.append(wprob)
+    del(wc)
+    del(wp)
+    del(wprob)
+    del(fun2id)
+    init_probs = np.ones([len(id2fun)])/len(id2fun)
+    em_probs, _ = em_algorithm(word_counts, init_probs, word_probabilities, word_possibilities)
+    for fun, probability in zip(id2fun, np.nditer(em_probs, order='C')):
+        print(fun, probability, sep='\t')
+
