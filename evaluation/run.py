@@ -63,7 +63,7 @@ def tree_prob(tree_tuples, bigramprobs, unigramprobs, unigram_fallback=True):
     logging.debug(msg % (bigram_count, unigram_count))
     return total
 
-def rerank(sentence, grammar, bigramprobs, unigramprobs, niters = 10):
+def rerank(sentence, grammar, bigramprobs, unigramprobs):
     eng = grammar.languages['TranslateEng']
     
     try:
@@ -73,7 +73,7 @@ def rerank(sentence, grammar, bigramprobs, unigramprobs, niters = 10):
         return []
 
     for i, (p, ex) in enumerate(p):
-        if i > niters:
+        if i > 1000:
             break
         logging.debug('GF tree: ' + str(ex))
         tuples, _ = find_heads(ex)
@@ -81,19 +81,44 @@ def rerank(sentence, grammar, bigramprobs, unigramprobs, niters = 10):
         rerank = tree_prob(bigrams, bigramprobs, unigramprobs)
         yield {'parser_prob': p, 'rerank_prob': rerank, 'bigrams': bigrams, 'expr': ex}
 
-def run(sentences, translateLang, grammar, *args, **kwargs):
-    for sentence in sentences:
+def run(sentences, answers, translateLang, show_trees, niter, grammar, *args, **kwargs):
+    total_tests = 0
+    success = 0
+
+    for i, sentence in enumerate(sentences):
         concr = grammar.languages[translateLang]
         logging.debug('=================================')
         logging.debug('Parsing sentence: ' + sentence)
+        rerank_probs = []
+        expr = []
         print(sentence)
-        print('Parser\tRerank\tTotal\tTranslation')
-        for result in rerank(sentence, grammar, *args, **kwargs):
-            result['trans'] = concr.linearize(result['expr'])
-            result['total'] = result['parser_prob'] + result['rerank_prob']
-            print('{parser_prob}\t{rerank_prob}\t{total}\t{trans}'.format(**result))
-            #print('{bigrams}'.format(**result))
+        print('Correct\tParser\tRerank\tTotal\tTranslation')
+        for j, result in enumerate(rerank(sentence, grammar, *args, **kwargs)):
+            rerank_probs.append(result['rerank_prob'])
+            expr.append(str(result['expr']))
+            if j < niter:
+                result['trans'] = concr.linearize(result['expr'])
+                result['total'] = result['parser_prob'] + result['rerank_prob']
+                result['correct'] = '✓' if answers[i] == str(result['expr']) else ''
+                if show_trees:
+                    print('{correct}\t{parser_prob}\t{rerank_prob}\t{total}\t{trans}\t{expr}'
+                        .format(**result))
+                else:
+                    print('{correct}\t{parser_prob}\t{rerank_prob}\t{total}\t{trans}'
+                        .format(**result))
         print('')
+
+        if answers[i] in expr:
+            total_tests += 1
+            rerank_index = expr.index(answers[i])
+            if all(rerank_probs[rerank_index] <= el for el in rerank_probs):
+                success += 1
+    
+    print('===================================')
+    print('Success on {} out of {} sentences where the correct sentence was found (total {} sentences)'
+        .format(success, total_tests, len(sentences)))
+
+
 
 def init(grammar_file, bigram_file, unigram_file):
     # GF
@@ -135,12 +160,15 @@ if __name__ == "__main__":
     parser.add_argument('--verbose', '-v',
         action='store_true',
         help='print debug messages')
-    parser.add_argument('--nparses', 
+    parser.add_argument('--nparses', '-n',
         nargs=1,
         metavar='N',
         type=int,
         help='generate the top N parses from GF (default=10)',
-        default=10)
+        default=[10])
+    parser.add_argument('--trees', '-t', 
+        action='store_true',
+        help='show the generated GF trees')
     parser.add_argument('--translate', 
         nargs=1,
         metavar='LANG', 
@@ -153,6 +181,10 @@ if __name__ == "__main__":
     if args.verbose:
         logging.basicConfig(level=logging.DEBUG)
     
+    nparses = args.nparses[0]
+
     with args.file as f:
-        sentences = [l.strip() for l in f]
-        run(sentences, args.translate, *init(args.grammar, args.bigram, args.unigram)) 
+        input_data = [l.strip().split('\t') for l in f]
+        sentences = [s for s, _ in input_data]
+        answers   = [e for _,e in input_data]
+        run(sentences, answers, args.translate, args.trees, nparses, *init(args.grammar, args.bigram, args.unigram)) 
