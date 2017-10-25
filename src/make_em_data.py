@@ -4,9 +4,12 @@ import argparse
 PYTHONIOENCODING="UTF-8"
 
 
+
 parser = argparse.ArgumentParser()
-parser.add_argument('-l', type=int, help='Number of fields of proper rows, rows with other number of fields are ignored', default=0)
-parser.add_argument('-c', type=int, help='Count column, one column', required=True)
+parser.add_argument('-l', type=int, help='Number of fields of proper rows, rows with fewer columns will be filled with root symbols.', default=0)
+parser.add_argument('-r', type=str, help='Root symbol', default='ROOT')
+parser.add_argument('-m', type=str, help='Out of vocabulary items will be given this value in first feature column,other feature columns are carried', default=None)
+parser.add_argument('-c', type=int, help='Count column, one column, -1 chooses last column automatically', required=True)
 parser.add_argument('-s', type=str, help='Split columns, comma separated', default='')
 parser.add_argument('-f', type=str, help='Feature columns, features comma separated, columns : separated', required=True)
 parser.add_argument('-o', type=str, help='Output directory', required=True)
@@ -19,6 +22,10 @@ feature_columns = [[int(col) for col in feature.split(':')] for feature in args.
 count_column = args.c
 outpath = args.o
 row_length = args.l
+if count_column == -1 and args.l != 0:
+    print('Using -l >0 with -c = -1 is not supported.', file=sys.stderr)
+    quit(1)
+
 for file, cols in zip(args.p, feature_columns):
     possibilities = dict()
     for l in file:
@@ -31,24 +38,48 @@ file_pool=dict()
 split_counts = dict()
 for l in sys.stdin:
     l_split = l.strip('\n').split('\t')
-    len_l = len(l_split)
-    if len_l != row_length:
-        continue #TODO root handling
+
+    if len(l_split) < row_length and row_length>0:
+        l_split = l_split + [args.r]*(row_length-len(l_split))
+
     count = int(l_split[count_column])
+    multigram_possibilities = []
+    multigram_features = []
+    skip = False
+    for pd, f_cols in zip(poss_dicts, feature_columns):
+        feature = tuple([l_split[col] for col in f_cols])
+
+        if feature in pd.keys():
+            #Feature in vocabulary
+            possibilities = pd[feature]
+        elif any([l_split[col] == 'ROOT' for col in f_cols]):
+            #Root
+            possibilities = [args.r]
+        elif args.m is not None:
+            #OOV This is not a good idea as it needs a recount
+            possibilities = '_'.join([args.m]+[l_split[col] for col in f_cols[1:]])
+        else:
+            #OOV and skip OOV
+            skip = True
+            break
+        multigram_features.append(feature)
+        multigram_possibilities.append(possibilities)
+    if skip is True:
+        #print(l_split, file=sys.stderr)
+        continue
+    multigram_possibilities = product(*multigram_possibilities)
+
     split_id = tuple([l_split[col] for col in splitcols])
-    multigram_features = [tuple([l_split[col]for col in f_cols]) for f_cols in feature_columns]
-    if all([feature in pd.keys() for feature, pd in zip(multigram_features,poss_dicts)]):
-        if split_id not in file_pool.keys():
-            file_name = '_'.join(split_id) + '.txt'
-            file = open(outpath + '/' + file_name, mode='w+', encoding='utf-8')
-            print('---', file=file)
-            file_pool[split_id] = file
-            split_counts[split_id] = 0
-        split_counts[split_id] = split_counts[split_id] + count
-        multigram_possibilities = product(*[pd[tuple([l_split[col]for col in f_cols])] for pd, f_cols in zip(poss_dicts, feature_columns)])
-        print(*([count, multigram_features]+list(multigram_possibilities)), sep='\t', file=file_pool[split_id])
-    else:
-        pass#TODO OOV handling
+
+    if split_id not in file_pool.keys():
+        file_name = '_'.join(split_id) + '.txt'
+        file = open(outpath + '/' + file_name, mode='w+', encoding='utf-8')
+        print('---', file=file)
+        file_pool[split_id] = file
+        split_counts[split_id] = 0
+    split_counts[split_id] = split_counts[split_id] + count
+    print(*([count, multigram_features]+list(multigram_possibilities)), sep='\t', file=file_pool[split_id])
+
 for file in file_pool.values():
     file.close()
 with open(outpath + '/' + 'splits.txt', mode='w+', encoding='utf-8') as f:
