@@ -99,7 +99,7 @@ def run(sentences, answers, translateLang, show_trees, niter, grammar, *args, **
             if j < niter:
                 result['trans'] = concr.linearize(result['expr'])
                 result['total'] = result['parser_prob'] + result['rerank_prob']
-                result['correct'] = '✓' if answers[i] == str(result['expr']) else ''
+                result['correct'] = '✓' if answers[i] and answers[i] == str(result['expr']) else ''
                 if show_trees:
                     print('{correct}\t{parser_prob}\t{rerank_prob}\t{total}\t{trans}\t{expr}'
                         .format(**result))
@@ -108,7 +108,7 @@ def run(sentences, answers, translateLang, show_trees, niter, grammar, *args, **
                         .format(**result))
         print('')
 
-        if answers[i] in expr:
+        if answers[i] and answers[i] in expr:
             total_tests += 1
             rerank_index = expr.index(answers[i])
             if all(rerank_probs[rerank_index] <= el for el in rerank_probs):
@@ -185,6 +185,6 @@ if __name__ == "__main__":
 
     with args.file as f:
         input_data = [l.strip().split('\t') for l in f]
-        sentences = [s for s, _ in input_data]
-        answers   = [e for _,e in input_data]
+        sentences = [s[0] for s in input_data]
+        answers   = [s[1] if len(s) > 1 else None for s in input_data]
         run(sentences, answers, args.translate, args.trees, nparses, *init(args.grammar, args.bigram, args.unigram)) 

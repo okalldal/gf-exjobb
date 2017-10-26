@@ -25,3 +25,4 @@ he plays the trumpet	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (Pred
 the child plays with a doll	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN child_N)) (AdvVP (UseV play_2_V) (PrepNP with_Prep (DetCN (DetQuant IndefArt NumSg) (UseN doll_N))))))) NoVoc
 the children play in the park	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumPl) (UseN child_N)) (AdvVP (UseV play_2_V) (PrepNP in_Prep (DetCN (DetQuant DefArt NumSg) (UseN park_N))))))) NoVoc
 the play is over soon	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN play_N)) (AdvVP (UseComp (CompAdv soon_Adv)) over_Adv)))) NoVoc
+I went to school this morning
