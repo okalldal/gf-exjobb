@@ -129,6 +129,49 @@ def em_algorithm(word_counts,
         #print(convergence_diff)
     return probs/total_counts, word_probs #note normalization of probs here, see comment above
 
+
+def em_algorithm_uniform_wp(word_counts,
+                 probs,
+                 word_possibilities,
+                 convergence_threshold=1e-5):
+    """ The actual algorithm
+
+
+    :param word_counts: dict of list of ints, has word idpossibilities coded as IDs
+    :type  occurrence_tuples: [([int],int)]
+    :param init_probs: np.[double]
+    :param convergence_threshold: double
+    :returns: np.[double]
+    """
+    langs = list(range(len(word_counts)))
+    convergence_diff = convergence_threshold
+    total_counts = sum([count for counts in word_counts for count in counts])
+    while convergence_diff >= convergence_threshold:
+        ##  Expectation
+        expected_fun_counts = np.zeros([probs.size])  # \sum_{si} c_{si.}, initialize here, calculate in loop
+        for s in langs:
+            for i in range(len(word_counts[s])):
+                possibiities = word_possibilities[s][i]
+                joint_probs = probs[possibiities]  # =P(Y,X) = \phi_{si}*\pi_., omit \phi_{si} b/c will cancel out in next line
+                fun_probs = joint_probs / np.sum(joint_probs)  # =P(Y|X) = \phi_{si}*\pi / (\sum_k \phi_{si}*\pi_k
+                expected_counts = word_counts[s][i] * fun_probs  # =\hat c_{si.}
+                expected_fun_counts[possibiities] = \
+                    expected_fun_counts[possibiities] + expected_counts  # \sum_si c_{si.}
+        ##  Maximization
+        new_probs = expected_fun_counts  # this is not the real probs since we don't normalize with |F|, but doesnt matter
+        # b/c we have normalization constant in numerator denumerator in the
+        # expression for fun_probs above
+
+        ##  Termination criteria
+        prob_quotients = new_probs / probs
+        threshold_mask = np.abs(
+            prob_quotients) > 1e-50 * total_counts  # used for numpy advanced indexing to remove differences
+        # caused by numerical imprecision
+        convergence_diff = np.sum(new_probs[threshold_mask] * np.log(prob_quotients[threshold_mask])) / total_counts
+        probs = new_probs
+        # print(convergence_diff)
+    return probs / total_counts  # note normalization of probs here, see comment above
+
 if __name__ == '__main__':
     import sys
 
@@ -179,5 +222,5 @@ if __name__ == '__main__':
     init_probs = np.ones([len(id2fun)])/len(id2fun)
     em_probs, _ = em_algorithm(word_counts, init_probs, word_probabilities, word_possibilities)
     for fun, probability in zip(id2fun, np.nditer(em_probs, order='C')):
-        print(fun, probability, sep='\t')
+        print(*([probability] + list(fun)), sep='\t')
 

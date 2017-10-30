@@ -6,35 +6,22 @@
 #Test langs Bul Eng Fin Fre Swe
 PYTHONENCODING="UTF-8"
 
-EMDATADIR=../data/em_data/gf_udgold
-OUTDIR=../results/gf_udgold
-
-mkdir $OUTDIR
-cat ${EMDATADIR}/*/splits.txt | sort -k2 | python merge_counts.py | sort -k1,1nr > "${OUTDIR}/total_splits.txt"
-awk '{print $2}' "${OUTDIR}/total_splits.txt" | while read split
+run_em () {
+if [ ! -d $2 ]; then
+mkdir -p $2
+cat ${1}/*/splits.txt | sort -k2 | python merge_counts.py | sort -k1,1nr > "${2}/total_splits.txt"
+awk '{print $2}' "${2}/total_splits.txt" | while read split
 do
 echo $split
-cat ${EMDATADIR}/*/${split}.txt | cut -f 1,3- -d$'\t' | python wn_em.py > ${OUTDIR}/${split}.txt
+cat ${1}/*/${split}.txt | cut -f 1,3- -d$'\t' | python wn_em.py > $2/${split}.txt
 done
-
-EMDATADIR=../data/em_data/wn_udgold
-OUTDIR=../results/wn_udgold
-
-mkdir $OUTDIR
-cat ${EMDATADIR}/*/splits.txt | sort -k2 | python merge_counts.py | sort -k1,1nr > "${OUTDIR}/total_splits.txt"
-awk '{print $2}' "${OUTDIR}/total_splits.txt" | while read split
-do
-echo $split
-cat ${EMDATADIR}/*/${split}.txt | cut -f 1,3- -d$'\t' | python wn_em.py > ${OUTDIR}/${split}.txt
-done
-
-EMDATADIR=../data/em_data/gf_autoparsed_th50
-OUTDIR=../results/gf_autoparsed_th50
-
-mkdir $OUTDIR
-cat ${EMDATADIR}/*/splits.txt | sort -k2 | python merge_counts.py | sort -k1,1nr > "${OUTDIR}/total_splits.txt"
-awk '{print $2}' "${OUTDIR}/total_splits.txt" | while read split
-do
-echo $split
-cat ${EMDATADIR}/*/${split}.txt | cut -f 1,3- -d$'\t' | python wn_em.py > ${OUTDIR}/${split}.txt
-done
+fi
+}
+echo "GF UD Gold"
+run_em ../data/em_data/gf_udgold ../results/gf_udgold
+echo "WN UD Gold"
+run_em ../data/em_data/wn_udgold ../results/wn_udgold
+echo "GF Parsed th50"
+run_em ../data/em_data/gf_autoparsed_th50 ../results/gf_autoparsed_th50
+echo "GF Parsed th10"
+run_em ../data/em_data/gf_autoparsed_th10 ../results/gf_autoparsed_th10
