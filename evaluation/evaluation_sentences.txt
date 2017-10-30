@@ -26,3 +26,21 @@ the child plays with a doll	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPo
 the children play in the park	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumPl) (UseN child_N)) (AdvVP (UseV play_2_V) (PrepNP in_Prep (DetCN (DetQuant DefArt NumSg) (UseN park_N))))))) NoVoc
 the play is over soon	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN play_N)) (AdvVP (UseComp (CompAdv soon_Adv)) over_Adv)))) NoVoc
 I went to school this morning
+he is in the cooking area
+area of the circle is small
+fire the canons
+the work is considered canon
+you are in good company
+this is company business
+what is the date today?
+to go on a date
+he ate a date
+the future is uncertain
+investing in futures is risky
+you need to lie down
+do not tell lies
+submit the application
+the applications of this theory are numerous
+he downloaded an application to his phone
+my arm hurts
+the right to bear arms is important
