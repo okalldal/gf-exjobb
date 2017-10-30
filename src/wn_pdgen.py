@@ -7,18 +7,19 @@ wncat2udcat = {'n':'NOUN', 'v':'VERB', 'a':'ADJ', 's':'ADJ', 'r':'ADV'}
 
 def generate_possibility_dictionary(languages, usecat=False):
     lang2lemma2fun = dict([(lang, dict()) for lang in languages])
-    funs = []
+    #funs = set()
     for cat in ['n', 'v', 'a', 's', 'r']:
         for synset in tqdm(wn.all_synsets(cat), total=cat_len[cat]):
-            funs.append(synset.name())
+            #funs.add(synset.name())
             for lang in languages:
                 for lemma in synset.lemma_names(lang.lower()):
                     key = (lemma, wncat2udcat[cat]) if usecat else (lemma,)
                     if key in lang2lemma2fun[lang].keys():
-                        lang2lemma2fun[lang][key].append(synset.name())
+                        if synset.name() not in lang2lemma2fun[lang][key]:
+                            lang2lemma2fun[lang][key].append(synset.name())
                     else:
                         lang2lemma2fun[lang][key] = [synset.name()]
-    return lang2lemma2fun, funs
+    return lang2lemma2fun#, funs
 
 def write_possibility_dictionary(path, lemma2fun):
     with open(path, mode='w+', encoding='utf-8') as f:
@@ -37,15 +38,14 @@ def read_possibility_dictionary(path):
 
 
 if __name__ == '__main__':
-    lang2lemma2fun, _ = generate_possibility_dictionary(wn.langs())
-    print(type(lang2lemma2fun))
-    lang2lemmacat2fun, _ = generate_possibility_dictionary(wn.langs(), usecat=True)
+    #lang2lemma2fun, _ = generate_possibility_dictionary(wn.langs())
+    #print(type(lang2lemma2fun))
+    lang2lemmacat2fun = generate_possibility_dictionary(wn.langs(), usecat=True)
     print(type(lang2lemmacat2fun))
     print('Created dict')
+    #for lang in wn.langs():
+    #    write_possibility_dictionary('../data/possibility_dictionaries/wn2/{}.txt'.format(lang), lang2lemma2fun[lang])
     for lang in wn.langs():
-        write_possibility_dictionary('../data/wordnet_possibility_dictionaries/only_lemma/wn_poss_dict_{}.pd'.format(lang), lang2lemma2fun[lang])
-    for lang in wn.langs():
-        write_possibility_dictionary('../data/wordnet_possibility_dictionaries/with_pos/wn_poss_dict_cat_{}.pd'.format(lang), lang2lemmacat2fun[lang])
+        write_possibility_dictionary('../data/possibility_dictionaries/wn2/{}.txt'.format(lang), lang2lemmacat2fun[lang])
     print('Printed dict')
     print('Done.')
-'../data/possibility_dictionaries/wn_poss_dict_{}_{}.pd'

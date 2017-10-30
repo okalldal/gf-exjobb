@@ -5,54 +5,33 @@
 #GF langs Bul Chi Dut Eng Fin Fre Ger Hin Ita Spa Swe
 #Test langs Bul Eng Fin Fre Swe
 PYTHONENCODING="UTF-8"
-UD_GOLD_OPTIONS="-l 8 -c 7 -s 2,3,6 -f 0:2,4:6"
-AUTOPARSED_OPTIONS="-l 6 -c 0 -s 2,3,5 -f 1:2,4:5"
-mkdir ../data/em_data
+gold_options="-l 8 -c 7 -s 2,3,6 -f 0:2,4:6" #UD Gold
+parsed_options="-l 6 -c 0 -s 2,3,5 -f 1:2,4:5" #Autoparsed
+wn_gf_pd_dir="../data/possibility_dictionaries/gf_wn"
+wn_pd_dir="../data/possibility_dictionaries/wn2"
+gf_pd_dir="../data/possibility_dictionaries/gf/"
+gold_count_dir="../data/feature_counts/UD_gold_counts"
+parsed_count_dir="../data/feature_counts/autoparsed"
+out_dir="../data/em_data/wn_udgold"
 
-echo "WN UD-gold-counts"
-mkdir ../data/em_data/wn_udgold
-for lang in bul chi eng fin fre ita spa swe
+make_em_data () {
+for file in $(comm -12 <(ls $1) <(ls $2))
 do
-echo $lang
-DICT_FILE="../data/possibility_dictionaries/wn/${lang}.txt"
-COUNT_FILE="../data/feature_counts/UD_gold_counts/${lang}.txt"
-OUT_PATH="../data/em_data/wn_udgold/${lang}"
-mkdir $OUT_PATH
-python ../src/make_em_data.py $UD_GOLD_OPTIONS -o $OUT_PATH -p $DICT_FILE $DICT_FILE < $COUNT_FILE
+if [ ! -d $3/${file%.*} ]; then
+echo $3/${file%.*}
+mkdir -p $3/${file%.*}
+python ../src/make_em_data.py $4 -o $3/${file%.*} -p $1/$file $1/$file < $2/$file
+fi
 done
+}
+make_em_data $gf_pd_dir $gold_count_dir ../data/em_data/gf_udgold "${gold_options}"
+make_em_data $wn_gf_pd_dir $gold_count_dir ../data/em_data/wn_udgold "${gold_options}"
 
-mkdir ../data/em_data/gf_udgold
-echo "GF UD-gold-counts"
-for lang in bul chi dut eng fin fre ger hin ita spa swe
-do
-echo $lang
-DICT_FILE="../data/possibility_dictionaries/gf/${lang}.txt"
-COUNT_FILE="../data/feature_counts/UD_gold_counts/${lang}.txt"
-OUT_PATH="../data/em_data/gf_udgold/${lang}"
-mkdir $OUT_PATH
-python ../src/make_em_data.py $UD_GOLD_OPTIONS -o $OUT_PATH -p $DICT_FILE $DICT_FILE < $COUNT_FILE
-done
+make_em_data $gf_pd_dir $parsed_count_dir/th050 ../data/em_data/gf_autoparsed_th50 "${parsed_options}"
+make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_autoparsed_th50 "${parsed_options}"
 
-mkdir ../data/em_data/wn_autoparsed_th50
-echo "WN autoparsed"
-for lang in bul eng fin fre swe
-do
-echo $lang
-DICT_FILE="../data/possibility_dictionaries/wn/${lang}.txt"
-COUNT_FILE="../data/feature_counts/autoparsed/th50/${lang}.txt"
-OUT_PATH="../data/em_data/wn_autoparsed_th50/${lang}"
-mkdir $OUT_PATH
-python ../src/make_em_data.py $AUTOPARSED_OPTIONS -o $OUT_PATH -p $DICT_FILE $DICT_FILE < $COUNT_FILE
-done
+make_em_data $gf_pd_dir $parsed_count_dir/th010 ../data/em_data/gf_autoparsed_th10 "${parsed_options}"
+make_em_data $wn_gf_pd_dir $parsed_count_dir/th010 ../data/em_data/wn_autoparsed_th10 "${parsed_options}"
 
-mkdir ../data/em_data/gf_autoparsed_th50
-echo "GF autoparsed"
-for lang in bul dut eng fin fre hin swe
-do
-echo $lang
-DICT_FILE="../data/possibility_dictionaries/gf/${lang}.txt"
-COUNT_FILE="../data/feature_counts/autoparsed/th50/${lang}.txt"
-OUT_PATH="../data/em_data/gf_autoparsed_th50/${lang}"
-mkdir $OUT_PATH
-python ../src/make_em_data.py $AUTOPARSED_OPTIONS -o $OUT_PATH -p $DICT_FILE $DICT_FILE < $COUNT_FILE
-done
+
+
