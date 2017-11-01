@@ -17589,479 +17589,479 @@ _επιχρίω	VERB	put_on.v.07
 αναφλέγομαι	VERB	erupt.v.03
 καίομαι	VERB	erupt.v.03
 αιθριάζω	VERB	clear_up.v.04
-ικανός	ADJ	able.a.01	able.a.01
-ανίκανος	ADJ	unable.a.01	impotent.a.01	unable.a.01	impotent.a.01
-δραστήριος	ADJ	active.a.05	active.a.05
-αδρανής	ADJ	inactive.a.09	inactive.a.09
-ενεργός	ADJ	active.a.07	active.a.03	active.a.07	active.a.03
-αχρησιμοποίητο	ADJ	inactive.a.07	inactive.a.07
-παθητικός	ADJ	passive.a.01	passive.a.01
-ενεργό	ADJ	active.a.13	active.a.13
-αδρανές	ADJ	dormant.a.02	dormant.a.02
-ανενεργό	ADJ	dormant.a.02	dormant.a.02
-σβησμένο	ADJ	extinct.a.02	extinct.a.02
-ενεργητικός	ADJ	active.a.06	lively.a.01	active.a.06	lively.a.01
-πραγματικός	ADJ	actual.a.01	actual.a.01
-ενδεχόμενος	ADJ	potential.a.01	potential.a.01
-πιθανός	ADJ	potential.a.01	possible.a.01	potential.a.01	possible.a.01
-αρνητικός	ADJ	negative.a.02	negative.a.01	negative.a.02	negative.a.01
-φοβισμένος	ADJ	afraid.a.01	afraid.a.01
-ατρόμητος	ADJ	unafraid.a.01	unafraid.a.01
-άφοβος	ADJ	unafraid.a.01	unafraid.a.01
-δυσάρεστος	ADJ	disagreeable.a.01	disagreeable.a.01
-ζωντανός	ADJ	alive.a.01	lively.a.01	spirited.a.01	alive.a.01	lively.a.01	spirited.a.01
-νεκρός	ADJ	dead.a.01	dead.a.01
-πεθαμένος	ADJ	dead.a.01	dead.a.01
-φιλόδοξος	ADJ	ambitious.a.01	ambitious.a.01
-μετρημένος	ADJ	unambitious.a.01	unambitious.a.01
-ταπεινός	ADJ	unambitious.a.01	unambitious.a.01
-έμψυχος	ADJ	animate.a.02	animate.a.02
-άψυχος	ADJ	inanimate.a.02	spiritless.a.01	inanimate.a.02	spiritless.a.01
-προηγούμενος	ADJ	preceding.a.01	early.a.02	preceding.a.01	early.a.02
-ακόλουθος	ADJ	succeeding.a.01	succeeding.a.01
-ανάδρομο	ADJ	retrograde.a.02	retrograde.a.02
-παλίνδρομος	ADJ	retrograde.a.02	retrograde.a.02
-προχωρητικός	ADJ	anterograde.a.01	anterograde.a.01
-προμεσημβρινός	ADJ	antemeridian.a.01	antemeridian.a.01
-μεταμεσημβρινός	ADJ	postmeridian.a.01	postmeridian.a.01
-εμπρόσθιος	ADJ	anterior.a.01	anterior.a.01
-πρόσθιος	ADJ	anterior.a.01	anterior.a.01
-οπίσθιος(-α,-ο)	ADJ	posterior.a.01	posterior.a.01
-ελκυστικός	ADJ	attractive.a.01	attractive.a.01
-αποκρουστικός	ADJ	unattractive.a.01	unattractive.a.01
-γνώστης	ADJ	aware.a.01	aware.a.01
-ειδήμων	ADJ	aware.a.01	aware.a.01
-αδαής	ADJ	unaware.a.01	unaware.a.01
-όμορφος	ADJ	beautiful.a.01	beautiful.a.01
-άσχημος	ADJ	ugly.a.01	ugly.a.01
-άσπρος	ADJ	white.a.02	white.a.02
-μπας-κλας	ADJ	lower-class.a.01	lower-class.a.01
-παρακατιανός	ADJ	lower-class.a.01	lower-class.a.01
-μικρομεσαίος	ADJ	middle-class.a.01	middle-class.a.01
-πρωτοκλασάτος	ADJ	upper-class.a.01	upper-class.a.01
-σπασμένος	ADJ	broken.a.01	broken.a.01
-ολόκληρος	ADJ	unbroken.a.05	whole.a.01	unbroken.a.05	whole.a.01
-καπιταλιστικός	ADJ	capitalistic.a.01	capitalistic.a.01
-κεφαλαιοκρατικός	ADJ	capitalistic.a.01	capitalistic.a.01
-σοσιαλιστικός	ADJ	socialistic.a.01	socialistic.a.01
-προσεκτικός	ADJ	careful.a.01	heedful.a.01	careful.a.01	heedful.a.01
-απρόσεκτος	ADJ	careless.a.01	heedless.a.01	careless.a.01	heedless.a.01
-κεντρικός	ADJ	central.a.02	central.a.02
-βέβαιος	ADJ	certain.a.03	certain.a.02	certain.a.03	certain.a.02
-σίγουρος	ADJ	certain.a.03	certain.a.02	certain.a.03	certain.a.02
-αβέβαιος	ADJ	uncertain.a.02	uncertain.a.01	uncertain.a.02	uncertain.a.01
-επισφαλής	ADJ	uncertain.a.01	uncertain.a.01
-αντιπροσωπευτικός	ADJ	characteristic.a.01	representative.a.02	characteristic.a.01	representative.a.02
-προσδιοριστικός	ADJ	characteristic.a.01	characteristic.a.01
-τυπικός	ADJ	characteristic.a.01	characteristic.a.01
-χαρακτηριστικός	ADJ	characteristic.a.01	characteristic.a.01
-έγχρωμος	ADJ	color.a.01	colored.a.01	color.a.01	colored.a.01
-ασπρόμαυρος	ADJ	black-and-white.a.02	black-and-white.a.02
-χρωματιστός	ADJ	colored.a.01	colored.a.01
-άχρωμος	ADJ	uncolored.a.01	uncolored.a.01
-χριστιανικός	ADJ	christian.a.02	christian.a.02
-καθαρός	ADJ	clean.a.01	clean.a.01
-βρόμικος	ADJ	dirty.a.01	dirty.a.01
-λερωμένος	ADJ	dirty.a.01	dirty.a.01
-μακρινός	ADJ	far.a.01	far.a.01
-κοντινός	ADJ	near.a.01	close.a.01	near.a.01	close.a.01
-πλησίον	ADJ	near.a.01	near.a.01
-απόμακρος	ADJ	distant.a.01	distant.a.01
-άνετος	ADJ	comfortable.a.01	comfortable.a.01
-άβολος	ADJ	uncomfortable.a.02	uncomfortable.a.02
-εμπορικός	ADJ	commercial.a.01	commercial.a.01
-μη_εμπορικός	ADJ	noncommercial.a.01	noncommercial.a.01
-κοινός	ADJ	common.a.02	common.a.01	public.a.01	common.a.02	common.a.01	public.a.01
-συνηθισμένος	ADJ	common.a.02	conventional.a.04	common.a.02	conventional.a.04
-ατομικός	ADJ	individual.a.01	individual.a.01
-κλασματικός	ADJ	fractional.a.01	fractional.a.01
-συνδεδεμένος	ADJ	connected.a.02	joint.a.01	connected.a.02	joint.a.01
-ασύνδετος	ADJ	unconnected.a.01	unconnected.a.01
-συντηρητικός	ADJ	conservative.a.01	conservative.a.01
-φιλελεύθερος	ADJ	liberal.a.03	liberal.a.03
-εμφανέστατος	ADJ	conspicuous.a.01	conspicuous.a.01
-κατάδηλος	ADJ	conspicuous.a.01	conspicuous.a.01
-καταφανής	ADJ	conspicuous.a.01	conspicuous.a.01
-ολοφάνερος	ADJ	conspicuous.a.01	conspicuous.a.01
-πασίδηλος	ADJ	conspicuous.a.01	conspicuous.a.01
-πρόδηλος	ADJ	conspicuous.a.01	conspicuous.a.01
-προφανής	ADJ	conspicuous.a.01	conspicuous.a.01
-κατασκευαστικός	ADJ	constructive.a.01	constructive.a.01
-συμβατικός	ADJ	conventional.a.01	conventional.a.04	conventional.a.01	conventional.a.04
-αντισυμβατικός	ADJ	unconventional.a.01	unconventional.a.02	unconventional.a.01	unconventional.a.02
-ασυνήθιστος	ADJ	unconventional.a.02	strange.a.01	unconventional.a.02	strange.a.01
-υλικός	ADJ	material.a.02	corporeal.a.01	material.a.02	corporeal.a.01
-άυλος	ADJ	immaterial.a.03	immaterial.a.03
-ασώματος	ADJ	incorporeal.a.01	incorporeal.a.01
-αγενής	ADJ	impolite.a.01	unkind.a.01	impolite.a.01	unkind.a.01
-δημιουργικός	ADJ	creative.a.01	creative.a.01
-στείρος	ADJ	uncreative.a.01	uncreative.a.01
-κρίσιμος	ADJ	critical.a.06	critical.a.06
-κανονικός	ADJ	noncritical.a.02	regular.a.01	noncritical.a.02	regular.a.01
-ομαλός	ADJ	noncritical.a.02	normal.a.01	noncritical.a.02	normal.a.01
-ουσιαστικός	ADJ	crucial.a.01	crucial.a.01
-ουσιώδης	ADJ	crucial.a.01	crucial.a.01
-σημαντικός	ADJ	crucial.a.01	significant.a.01	crucial.a.01	significant.a.01
-κρυσταλλωμένος	ADJ	crystallized.a.01	crystallized.a.01
-αδιαμόρφωτος	ADJ	uncrystallized.a.01	uncrystallized.a.01
-ασχημάτιστος	ADJ	uncrystallized.a.01	uncrystallized.a.01
-αβαθής	ADJ	shallow.a.01	shallow.a.01
-άβαθος	ADJ	shallow.a.01	shallow.a.01
-ξέβαθος	ADJ	shallow.a.01	shallow.a.01
-ρηχός	ADJ	shallow.a.01	shallow.a.01
-βασικός	ADJ	underived.a.01	ultimate.a.01	underived.a.01	ultimate.a.01
-ακριβής	ADJ	definite.a.01	definite.a.01
-σαφής	ADJ	definite.a.01	definite.a.01
-ντελικάτος	ADJ	delicate.a.01	delicate.a.01
-γερός	ADJ	rugged.a.01	rugged.a.01
-δημοκρατικός	ADJ	democratic.a.01	democratic.a.01
-πραξικοπηματικός	ADJ	arbitrary.a.01	arbitrary.a.01
-εξαρτημένος	ADJ	dependent.a.01	dependent.a.01
-ανεξάρτητος	ADJ	independent.a.01	independent.a.01
-κομματικός	ADJ	partisan.a.01	partisan.a.01
-δύσκολος	ADJ	difficult.a.01	difficult.a.01
-εύκολος	ADJ	easy.a.01	easy.a.01
-επικρατών	ADJ	dominant.a.01	dominant.a.01
-κυρίαρχος	ADJ	dominant.a.01	dominant.a.01
-υποδεέστερος	ADJ	subordinate.a.01	subordinate.a.01
-οξύς	ADJ	sharp.a.08	sharp.a.08
-νωθρός	ADJ	dull.a.01	dull.a.01
-νωχελικός	ADJ	dull.a.01	dull.a.01
-οκνηρός	ADJ	dull.a.01	dull.a.01
-δυναμικός	ADJ	dynamic.a.01	spirited.a.01	dynamic.a.01	spirited.a.01
-πρόωρος	ADJ	early.a.01	early.a.01
-μέσος	ADJ	middle.a.04	middle.a.04
-όψιμος	ADJ	late.a.01	late.a.01
-προγενέστερος	ADJ	early.a.02	early.a.02
-μορφωμένος	ADJ	educated.a.01	educated.a.01
-αμόρφωτος	ADJ	uneducated.a.01	uneducated.a.01
-αποτελεσματικός	ADJ	effective.a.01	effective.a.01
-δραστικός	ADJ	effective.a.01	potent.a.03	effective.a.01	potent.a.03
-τελεσφόρος	ADJ	effective.a.01	effective.a.01
-αναποτελεσματικός	ADJ	ineffective.a.01	ineffective.a.01
-ατελέσφορος	ADJ	ineffective.a.01	ineffective.a.01
-συναισθηματικός	ADJ	emotional.a.02	emotional.a.02
-ασυγκίνητος	ADJ	unemotional.a.01	unemotional.a.01
-θεωρητικός	ADJ	theoretical.a.01	theoretical.a.01
-αναγκαίος	ADJ	indispensable.a.01	indispensable.a.01
-απαραίτητος	ADJ	indispensable.a.01	necessary.a.01	indispensable.a.01	necessary.a.01
-επείγων	ADJ	indispensable.a.01	indispensable.a.01
-πρώτος	ADJ	indispensable.a.01	first.a.01	indispensable.a.01	first.a.01
-αειθαλές	ADJ	evergreen.a.01	evergreen.a.01
-φυλλοβόλο	ADJ	deciduous.a.01	deciduous.a.01
-υπαρκτός	ADJ	existent.a.01	existent.a.01
-ανύπαρκτος	ADJ	nonexistent.a.01	nonexistent.a.01
-απόλυτος	ADJ	explicit.a.01	explicit.a.01
-κατηγορηματικός	ADJ	explicit.a.01	explicit.a.01
-ρητός	ADJ	explicit.a.01	explicit.a.01
-εξωτερικός	ADJ	external.a.01	exterior.a.01	external.a.01	exterior.a.01
-εσωτερικός	ADJ	internal.a.01	interior.a.01	internal.a.01	interior.a.01
-εξώτερος	ADJ	outer.a.01	outer.a.01
-εσώτερος	ADJ	inner.a.02	inner.a.02
-γνώριμος	ADJ	familiar.a.02	familiar.a.02
-οικείος	ADJ	familiar.a.02	familiar.a.02
-γρήγορος	ADJ	fast.a.01	fast.a.01
-αργός	ADJ	slow.a.01	slow.a.01
-οσμηρός	ADJ	odorous.a.01	odorous.a.01
-άοσμος	ADJ	odorless.a.01	odorless.a.01
-ελεύθερος	ADJ	free.a.01	free.a.01
-ανελεύθερος	ADJ	unfree.a.02	unfree.a.02
-καρποφόρος	ADJ	fruitful.a.01	fruitful.a.01
-άδειος	ADJ	empty.a.01	empty.a.01
-λειτουργικός	ADJ	functional.a.01	functioning.a.01	functional.a.01	functioning.a.01
-γενικός	ADJ	general.a.01	general.a.01
-ειδικός	ADJ	specific.a.01	specific.a.04	specific.a.01	specific.a.04
-αναίτιος	ADJ	nonspecific.a.01	nonspecific.a.01
-κρατικός	ADJ	national.a.03	national.a.03
-γενναιόδωρος	ADJ	generous.a.01	generous.a.02	generous.a.01	generous.a.02
-μίζερος	ADJ	stingy.a.01	stingy.a.01
-καλός	ADJ	good.a.01	good.a.03	good.a.01	good.a.03
-κακός	ADJ	bad.a.01	bad.a.01
-διαβολικός	ADJ	evil.a.01	evil.a.01
-σατανικός	ADJ	evil.a.01	evil.a.01
-καλοσυνάτος	ADJ	good-natured.a.01	good-natured.a.01
-δύστροπος	ADJ	ill-natured.a.01	ill-natured.a.01
-κακότροπος	ADJ	ill-natured.a.01	ill-natured.a.01
-βαθμιαίος	ADJ	gradual.a.01	gradual.a.01
-ευτυχισμένος	ADJ	happy.a.01	happy.a.01
-δυστυχισμένος	ADJ	unhappy.a.01	unhappy.a.01
-υγιής	ADJ	healthy.a.01	healthy.a.01
-νοσηρός	ADJ	unhealthy.a.01	unhealthy.a.01
-βαρύς	ADJ	heavy.a.01	heavy.a.02	heavy.a.01	heavy.a.02
-ελαφρός	ADJ	light.a.01	light.a.01
-ελαφρύς	ADJ	light.a.01	light.a.04	light.a.01	light.a.04
-αμελής	ADJ	heedless.a.01	heedless.a.01
-ετεροφυλόφιλος	ADJ	heterosexual.a.01	heterosexual.a.01
-ομοφυλόφιλος	ADJ	homosexual.a.01	homosexual.a.01
-αμφισεξουαλικός	ADJ	bisexual.a.01	bisexual.a.01
-αμφιφυλόφιλος	ADJ	bisexual.a.01	bisexual.a.01
-υψηλός	ADJ	high.a.02	high.a.01	important.a.01	high.a.02	high.a.01	important.a.01
-ψηλός	ADJ	high.a.02	high.a.02
-χαμηλός	ADJ	low.a.02	low.a.01	low.a.02	low.a.01
-όρθιος	ADJ	erect.a.01	erect.a.01
-στητός	ADJ	erect.a.01	erect.a.01
-ξαπλωμένος	ADJ	unerect.a.01	unerect.a.01
-καυτός	ADJ	hot.a.01	hot.a.01
-κρύος	ADJ	cold.a.01	cold.a.02	cold.a.01	cold.a.02
-ψυχρός	ADJ	cold.a.01	cold.a.02	cool.a.04	cold.a.01	cold.a.02	cool.a.04
-διαχυτικός	ADJ	hot.a.03	hot.a.03
-ζεστός	ADJ	hot.a.03	warm.a.01	warm.a.02	hot.a.03	warm.a.01	warm.a.02
-θερμός	ADJ	hot.a.03	warm.a.01	warm.a.02	hot.a.03	warm.a.01	warm.a.02
-ανθρώπινος	ADJ	human.a.03	humane.a.02	human.a.03	humane.a.02
-άγριος	ADJ	inhumane.a.01	inhumane.a.01
-απάνθρωπος	ADJ	inhumane.a.01	inhumane.a.01
-άσπλαχνος	ADJ	inhumane.a.01	inhumane.a.01
-σκληρός	ADJ	inhumane.a.01	inhumane.a.01
-εξαιρετικός	ADJ	important.a.01	important.a.01
-μεγάλος	ADJ	important.a.01	large.a.01	long.a.01	important.a.01	large.a.01	long.a.01
-σπουδαίος	ADJ	important.a.01	important.a.01
-ασήμαντος	ADJ	unimportant.a.01	insignificant.a.04	unimportant.a.01	insignificant.a.04
-επερχόμενος	ADJ	incoming.a.01	incoming.a.01
-απερχόμενος	ADJ	outgoing.a.01	outgoing.a.01
-διανοητικός	ADJ	intellectual.a.02	intellectual.a.02
-ακαλλιέργητος	ADJ	nonintellectual.a.01	nonintellectual.a.01
-έξυπνος	ADJ	intelligent.a.01	intelligent.a.01
-οξύνους	ADJ	intelligent.a.01	intelligent.a.01
-ανόητος	ADJ	unintelligent.a.01	unintelligent.a.01
-βλάκας	ADJ	unintelligent.a.01	unintelligent.a.01
-βραδύνους	ADJ	unintelligent.a.01	unintelligent.a.01
-κουτός	ADJ	unintelligent.a.01	unintelligent.a.01
-χαζός	ADJ	unintelligent.a.01	unintelligent.a.01
-ενδιαφέρων	ADJ	interesting.a.01	interesting.a.01
-αδιάφορος	ADJ	uninteresting.a.01	uninteresting.a.01
-ευγενικός	ADJ	kind.a.01	kind.a.01
-ανάγωγος	ADJ	unkind.a.01	unkind.a.01
-μικρός	ADJ	small.a.01	small.a.01
-μικροσκοπικός	ADJ	small.a.01	small.a.01
-έννομος	ADJ	lawful.a.01	lawful.a.01
-σύννομος	ADJ	lawful.a.01	lawful.a.01
-άνομος	ADJ	unlawful.a.02	unlawful.a.02
-έκνομος	ADJ	unlawful.a.02	unlawful.a.02
-θεμιτός	ADJ	legal.a.01	legal.a.01
-νόμιμος	ADJ	legal.a.01	legal.a.01
-αθέμιτος	ADJ	illegal.a.01	illegal.a.01
-παράνομος	ADJ	illegal.a.01	illegal.a.01
-περιορισμένος	ADJ	limited.a.01	limited.a.01
-μακρύς	ADJ	long.a.01	long.a.01
-γεωγραφικός	ADJ	geographic.a.02	geographic.a.02
-μεγαλύτερος	ADJ	major.a.03	major.a.03
-μείζων	ADJ	major.a.03	major.a.03
-ελάσσων	ADJ	minor.a.03	minor.a.03
-μικρότερος	ADJ	minor.a.03	minor.a.03
-αρσενικός	ADJ	male.a.01	male.a.01
-θηλυκός	ADJ	female.a.01	female.a.01
-ανδρόγυνος	ADJ	androgynous.a.02	androgynous.a.02
-αρσενικοθήλυκος	ADJ	androgynous.a.02	androgynous.a.02
-ώριμος	ADJ	mature.a.03	mature.a.03
-ανώριμος	ADJ	immature.a.04	young.a.01	immature.a.04	young.a.01
-μετρήσιμος	ADJ	measurable.a.01	measurable.a.01
-αμέτρητος	ADJ	immeasurable.a.01	immeasurable.a.01
-αναρίθμητος	ADJ	immeasurable.a.01	immeasurable.a.01
-απροσμέτρητος	ADJ	immeasurable.a.01	immeasurable.a.01
-μελωδικός	ADJ	melodious.a.02	melodious.a.02
-μουσικός	ADJ	melodious.a.02	musical.a.03	musical.a.01	melodious.a.02	musical.a.03	musical.a.01
-ήπιος	ADJ	mild.a.01	mild.a.01
-δριμύς	ADJ	intense.a.01	intense.a.01
-έντονος	ADJ	intense.a.01	intense.a.01
-σφοδρός	ADJ	intense.a.01	intense.a.01
-μονοσθενής	ADJ	monovalent.a.02	monovalent.a.02
-πολυσθενής	ADJ	polyvalent.a.02	polyvalent.a.02
-ηθικός	ADJ	moral.a.01	moral.a.01
-ανήθικος	ADJ	immoral.a.01	immoral.a.01
-λίγος	ADJ	little.a.02	little.a.02
-λιγοστός	ADJ	little.a.02	little.a.02
-συγκινητικός	ADJ	moving.a.02	moving.a.02
-κινούμενος	ADJ	moving.a.01	moving.a.01
-ακίνητος	ADJ	nonmoving.a.01	nonmoving.a.01
-ασάλευτος	ADJ	nonmoving.a.01	nonmoving.a.01
-διαπολιτειακός	ADJ	interstate.a.01	interstate.a.01
-θεμελιώδης	ADJ	ultimate.a.01	ultimate.a.01
-αχρείαστος	ADJ	unnecessary.a.01	unnecessary.a.01
-περιττός	ADJ	unnecessary.a.01	unnecessary.a.01
-ανώμαλος	ADJ	abnormal.a.01	abnormal.a.01
-αμυντικός	ADJ	defensive.a.01	defensive.a.01
-παλαιός	ADJ	old.a.02	old.a.02
-πρόσφατος	ADJ	new.a.01	new.a.01
-ηλικιωμένος	ADJ	old.a.01	old.a.01
-νεαρός	ADJ	young.a.01	young.a.01
-πρωτότυπος	ADJ	original.a.03	original.a.03
-κοινότοπος	ADJ	unoriginal.a.01	unoriginal.a.01
-ορθόδοξος	ADJ	orthodox.a.02	orthodox.a.02
-ανορθόδοξος	ADJ	unorthodox.a.02	unorthodox.a.02
-παρελθών	ADJ	past.a.01	past.a.01
-περασμένος	ADJ	past.a.01	past.a.01
-τρέχων	ADJ	present.a.01	present.a.01
-τωρινός	ADJ	present.a.01	present.a.01
-μελλοντικός	ADJ	future.a.01	future.a.01
-μελλούμενος	ADJ	future.a.01	future.a.01
-τέλειος	ADJ	perfect.a.01	perfect.a.01
-ατελής	ADJ	imperfect.a.01	imperfect.a.01
-προσωπικός	ADJ	personal.a.01	personal.a.01
-μονοθεϊστικός	ADJ	monotheistic.a.01	monotheistic.a.01
-πολυθεϊστικός	ADJ	polytheistic.a.01	polytheistic.a.01
-ευλαβής	ADJ	pious.a.01	pious.a.01
-ανευλαβής	ADJ	impious.a.01	impious.a.01
-ανίερος	ADJ	impious.a.01	impious.a.01
-ασεβής	ADJ	impious.a.01	impious.a.01
-πολιτικός	ADJ	political.a.01	political.a.01
-δημοφιλής	ADJ	popular.a.01	popular.a.01
-λαοφιλής	ADJ	popular.a.01	popular.a.01
-αντιδημοτικός	ADJ	unpopular.a.01	unpopular.a.01
-αντιλαϊκός	ADJ	unpopular.a.01	unpopular.a.01
-θετικός	ADJ	positive.a.01	positive.a.01
-πρακτικός	ADJ	positive.a.01	positive.a.01
-ουδέτερος	ADJ	neutral.a.04	neutral.a.04
-αδύνατος	ADJ	impossible.a.01	impossible.a.01
-ακατόρθωτος	ADJ	impossible.a.01	impossible.a.01
-ισχυρός	ADJ	potent.a.03	powerful.a.01	strong.a.01	potent.a.03	powerful.a.01	strong.a.01
-αδύναμος	ADJ	impotent.a.01	powerless.a.01	weak.a.01	impotent.a.01	powerless.a.01	weak.a.01
-ανίσχυρος	ADJ	impotent.a.01	impotent.a.01
-δυνατός	ADJ	powerful.a.01	strong.a.01	powerful.a.01	strong.a.01
-κραταιός	ADJ	powerful.a.01	powerful.a.01
-ανήμπορος	ADJ	powerless.a.01	powerless.a.01
-φυτεμένος	ADJ	planted.a.02	planted.a.02
-φυτευτός	ADJ	planted.a.02	planted.a.02
-παρών	ADJ	present.a.02	present.a.02
-απών	ADJ	absent.a.01	absent.a.01
-δημόσιος	ADJ	public.a.01	public.a.01
-παραγωγικός	ADJ	generative.a.01	generative.a.01
-περήφανος	ADJ	proud.a.01	proud.a.01
-ταπεινόφρων	ADJ	humble.a.02	humble.a.02
-αγνός	ADJ	pure.a.06	pure.a.06
-άψογος	ADJ	pure.a.06	pure.a.06
-άδολος	ADJ	impure.a.02	impure.a.02
-αθώος	ADJ	impure.a.02	impure.a.02
-αντικανονικός	ADJ	irregular.a.01	irregular.a.01
-υπεύθυνος	ADJ	responsible.a.01	responsible.a.01
-ανεύθυνος	ADJ	irresponsible.a.01	irresponsible.a.01
-πλούσιος	ADJ	rich.a.01	rich.a.01
-φτωχός	ADJ	poor.a.02	poor.a.02
-δεξιός	ADJ	right.a.07	right.a.01	right.a.07	right.a.01
-αριστερός	ADJ	left.a.04	left.a.01	left.a.04	left.a.01
-ίδιος	ADJ	same.a.02	same.a.02
-όμοιος	ADJ	same.a.02	same.a.02
-διαφορετικός	ADJ	different.a.01	different.a.01
-παρόμοιος	ADJ	similar.a.01	similar.a.01
-ανόμοιος	ADJ	dissimilar.a.01	dissimilar.a.01
-επιστημονικός	ADJ	scientific.a.02	scientific.a.02
-αντιεπιστημονικός	ADJ	unscientific.a.01	unscientific.a.01
-ανασφαλής	ADJ	insecure.a.03	insecure.a.03
-ξεχωριστός	ADJ	separate.a.01	separate.a.01
-χωριστός	ADJ	separate.a.01	separate.a.01
-σεξουαλικός	ADJ	sexual.a.02	sexual.a.02
-αγάμητος	ADJ	asexual.a.01	asexual.a.01
-αξιόλογος	ADJ	significant.a.01	significant.a.01
-επουσιώδης	ADJ	insignificant.a.04	insignificant.a.04
-κοινωνικός	ADJ	sociable.a.01	social.a.01	social.a.03	sociable.a.01	social.a.01	social.a.03
-στερεός	ADJ	solid.a.02	solid.a.02
-υγρός	ADJ	liquid.a.01	wet.a.01	liquid.a.01	wet.a.01
-αέριος	ADJ	gaseous.a.01	gaseous.a.01
-αεριώδης	ADJ	gaseous.a.01	gaseous.a.01
-καθιερωμένος	ADJ	standard.a.01	standard.a.01
-ανεπίσημος	ADJ	nonstandard.a.02	nonstandard.a.02
-ευθύς	ADJ	straight.a.02	straight.a.02
-στραβός	ADJ	crooked.a.01	crooked.a.01
-επιδεκτικός	ADJ	susceptible.a.01	susceptible.a.01
-ανεπίδεκτος	ADJ	unsusceptible.a.01	unsusceptible.a.01
-αντιπαθητικός	ADJ	unsympathetic.a.02	unsympathetic.a.02
-συστηματικός	ADJ	systematic.a.01	systematic.a.01
-καλαίσθητος	ADJ	tasteful.a.01	tasteful.a.01
-καλόγουστος	ADJ	tasteful.a.01	tasteful.a.01
-ακαλαίσθητος	ADJ	tasteless.a.02	tasteless.a.02
-κακόγουστος	ADJ	tasteless.a.02	tasteless.a.02
-πειθήνιος	ADJ	tractable.a.01	tractable.a.01
-υπάκουος	ADJ	tractable.a.01	tractable.a.01
-ανυπάκουος	ADJ	intractable.a.01	intractable.a.01
-απείθαρχος	ADJ	intractable.a.01	intractable.a.01
-ατίθασος	ADJ	intractable.a.01	intractable.a.01
-χρήσιμος	ADJ	useful.a.01	useful.a.01
-ανώφελος	ADJ	useless.a.01	useless.a.01
-άχρηστος	ADJ	useless.a.01	useless.a.01
-σπονδυλωτό	ADJ	vertebrate.a.01	vertebrate.a.01
-δροσερός	ADJ	cool.a.01	cool.a.01
-στοργικός	ADJ	warm.a.02	warm.a.02
-αναιδής	ADJ	cool.a.04	cool.a.04
-βρεγμένος	ADJ	wet.a.01	wet.a.01
-νοτισμένος	ADJ	wet.a.01	wet.a.01
-ξηρός	ADJ	dry.a.01	dry.a.01
-στεγνός	ADJ	dry.a.01	dry.a.01
-πρόθυμος	ADJ	willing.a.01	willing.a.01
-απρόθυμος	ADJ	unwilling.a.01	unwilling.a.01
-γεωπονικός	ADJ	agronomic.a.01	agronomic.a.01
-αρχαιολογικός	ADJ	archaeological.a.01	archaeological.a.01
-βιολογικός	ADJ	biological.a.01	biological.a.01
-σωματικός	ADJ	bodily.a.01	bodily.a.01
-σκυλίσιος	ADJ	canine.a.02	canine.a.02
-γιδίσιος	ADJ	caprine.a.01	caprine.a.01
-κατσικίσιος	ADJ	caprine.a.01	caprine.a.01
-χημικός	ADJ	chemical.a.02	chemical.a.02
-διπλωματικός	ADJ	diplomatic.a.01	diplomatic.a.01
-υπαρξιακός	ADJ	existential.a.03	existential.a.03
-ιδεαλιστικός	ADJ	ideal.a.03	ideal.a.03
-ιατρικός	ADJ	medical.a.01	medical.a.01
-ονομαστικός	ADJ	nominal.a.01	nominal.a.01
-φωνολογικός	ADJ	phonological.a.01	phonological.a.01
-σχολικός	ADJ	scholastic.a.01	scholastic.a.01
-απολυταρχικός	ADJ	totalitarian.a.02	totalitarian.a.02
-ολοκληρωτικός	ADJ	totalitarian.a.02	totalitarian.a.02
-άθεος	ADJ	atheist.a.01	atheist.a.01
-άπιστος	ADJ	atheist.a.01	atheist.a.01
-νομοθετικός	ADJ	legislative.a.02	legislative.a.02
-φιλολογικός	ADJ	literary.a.01	philological.a.01	literary.a.01	philological.a.01
-επαναστατικός	ADJ	revolutionary.a.03	revolutionary.a.03
-σχετικιστικός	ADJ	relativistic.a.02	relativistic.a.02
-σημασιολογικός	ADJ	semantic.a.01	semantic.a.01
-γλωσσικός	ADJ	linguistic.a.01	linguistic.a.01
-γλωσσολογικός	ADJ	linguistic.a.02	linguistic.a.02
-γαμήλιος	ADJ	marital.a.01	marital.a.01
-αλγεβρικός	ADJ	algebraic.a.01	algebraic.a.01
-φωνητικός	ADJ	phonetic.a.02	phonetic.a.02
-φιλοσοφικός	ADJ	philosophic.a.01	philosophic.a.01
-μυστηριακός	ADJ	mystic.a.03	mystic.a.03
-κομμουνιστικός	ADJ	communist.a.01	communist.a.01
-μαρξιστικός	ADJ	marxist.a.01	marxist.a.01
-δερματικός	ADJ	dermal.a.02	dermal.a.02
-λεξιλογικός	ADJ	lexical.a.02	lexical.a.02
-ζωολογικός	ADJ	zoological.a.02	zoological.a.02
-διδακτορικός	ADJ	doctoral.a.01	doctoral.a.01
-ανατομικός	ADJ	anatomic.a.01	anatomic.a.01
-γνωστικός	ADJ	cognitive.a.01	cognitive.a.01
-μορφωτικός	ADJ	cultural.a.01	cultural.a.01
-διοικητικός	ADJ	administrative.a.01	administrative.a.01
-γεωλογικός	ADJ	geological.a.01	geological.a.01
-ψυχολογικός	ADJ	psychological.a.02	psychological.a.02
-κοινωνιολογικός	ADJ	sociological.a.01	sociological.a.01
-τοξικολογικός	ADJ	toxicological.a.01	toxicological.a.01
-ψυχιατρικός	ADJ	psychiatric.a.01	psychiatric.a.01
-μικροβιολογικός	ADJ	bacteriological.a.01	bacteriological.a.01
-φασιστικός	ADJ	fascist.a.01	fascist.a.01
-καθολικός	ADJ	catholic.a.01	catholic.a.01
-ισλαμικός	ADJ	muslim.a.01	muslim.a.01
-μουσουλμανικός	ADJ	muslim.a.01	muslim.a.01
-μωαμεθανικός	ADJ	muslim.a.01	muslim.a.01
-βουδιστικός	ADJ	buddhist.a.01	buddhist.a.01
-παιδαγωγικός	ADJ	pedagogical.a.01	pedagogical.a.01
-μορφολογικός	ADJ	morphologic.a.01	morphologic.a.01
-διαμαρτυρόμενος	ADJ	protestant.a.01	protestant.a.01
-προτεστάντης	ADJ	protestant.a.01	protestant.a.01
-προτεσταντικός	ADJ	protestant.a.01	protestant.a.01
-προεδρικός	ADJ	presidential.a.01	presidential.a.01
-τελεολογικός	ADJ	teleological.a.01	teleological.a.01
-τελολογικός	ADJ	teleological.a.01	teleological.a.01
-εθνικοσοσιαλιστής	ADJ	national_socialist.a.01	national_socialist.a.01
-ναζιστής	ADJ	national_socialist.a.01	national_socialist.a.01
-εξελικτικός	ADJ	evolutionary.a.01	evolutionary.a.01
-μικροβιακός	ADJ	microbial.a.01	microbial.a.01
-οσφυϊκός	ADJ	lumbar.a.01	lumbar.a.01
-ελληνικός	ADJ	greek.a.01	greek.a.01
-πυθαγόρειος	ADJ	pythagorean.a.01	pythagorean.a.01
-επεκτατικός	ADJ	imperialistic.a.01	imperialistic.a.01
-ιμπεριαλιστικός	ADJ	imperialistic.a.01	imperialistic.a.01
-ορυκτός	ADJ	mineral.a.01	mineral.a.01
-καθεστωτικός	ADJ	regimental.a.01	regimental.a.01
-σχισματικός	ADJ	schismatic.a.01	schismatic.a.01
-σιταρένιος	ADJ	wheaten.a.01	wheaten.a.01
-σταρένιος	ADJ	wheaten.a.01	wheaten.a.01
+ικανός	ADJ	able.a.01
+ανίκανος	ADJ	unable.a.01	impotent.a.01
+δραστήριος	ADJ	active.a.05
+αδρανής	ADJ	inactive.a.09
+ενεργός	ADJ	active.a.07	active.a.03
+αχρησιμοποίητο	ADJ	inactive.a.07
+παθητικός	ADJ	passive.a.01
+ενεργό	ADJ	active.a.13
+αδρανές	ADJ	dormant.a.02
+ανενεργό	ADJ	dormant.a.02
+σβησμένο	ADJ	extinct.a.02
+ενεργητικός	ADJ	active.a.06	lively.a.01
+πραγματικός	ADJ	actual.a.01
+ενδεχόμενος	ADJ	potential.a.01
+πιθανός	ADJ	potential.a.01	possible.a.01
+αρνητικός	ADJ	negative.a.02	negative.a.01
+φοβισμένος	ADJ	afraid.a.01
+ατρόμητος	ADJ	unafraid.a.01
+άφοβος	ADJ	unafraid.a.01
+δυσάρεστος	ADJ	disagreeable.a.01
+ζωντανός	ADJ	alive.a.01	lively.a.01	spirited.a.01
+νεκρός	ADJ	dead.a.01
+πεθαμένος	ADJ	dead.a.01
+φιλόδοξος	ADJ	ambitious.a.01
+μετρημένος	ADJ	unambitious.a.01
+ταπεινός	ADJ	unambitious.a.01
+έμψυχος	ADJ	animate.a.02
+άψυχος	ADJ	inanimate.a.02	spiritless.a.01
+προηγούμενος	ADJ	preceding.a.01	early.a.02
+ακόλουθος	ADJ	succeeding.a.01
+ανάδρομο	ADJ	retrograde.a.02
+παλίνδρομος	ADJ	retrograde.a.02
+προχωρητικός	ADJ	anterograde.a.01
+προμεσημβρινός	ADJ	antemeridian.a.01
+μεταμεσημβρινός	ADJ	postmeridian.a.01
+εμπρόσθιος	ADJ	anterior.a.01
+πρόσθιος	ADJ	anterior.a.01
+οπίσθιος(-α,-ο)	ADJ	posterior.a.01
+ελκυστικός	ADJ	attractive.a.01
+αποκρουστικός	ADJ	unattractive.a.01
+γνώστης	ADJ	aware.a.01
+ειδήμων	ADJ	aware.a.01
+αδαής	ADJ	unaware.a.01
+όμορφος	ADJ	beautiful.a.01
+άσχημος	ADJ	ugly.a.01
+άσπρος	ADJ	white.a.02
+μπας-κλας	ADJ	lower-class.a.01
+παρακατιανός	ADJ	lower-class.a.01
+μικρομεσαίος	ADJ	middle-class.a.01
+πρωτοκλασάτος	ADJ	upper-class.a.01
+σπασμένος	ADJ	broken.a.01
+ολόκληρος	ADJ	unbroken.a.05	whole.a.01
+καπιταλιστικός	ADJ	capitalistic.a.01
+κεφαλαιοκρατικός	ADJ	capitalistic.a.01
+σοσιαλιστικός	ADJ	socialistic.a.01
+προσεκτικός	ADJ	careful.a.01	heedful.a.01
+απρόσεκτος	ADJ	careless.a.01	heedless.a.01
+κεντρικός	ADJ	central.a.02
+βέβαιος	ADJ	certain.a.03	certain.a.02
+σίγουρος	ADJ	certain.a.03	certain.a.02
+αβέβαιος	ADJ	uncertain.a.02	uncertain.a.01
+επισφαλής	ADJ	uncertain.a.01
+αντιπροσωπευτικός	ADJ	characteristic.a.01	representative.a.02
+προσδιοριστικός	ADJ	characteristic.a.01
+τυπικός	ADJ	characteristic.a.01
+χαρακτηριστικός	ADJ	characteristic.a.01
+έγχρωμος	ADJ	color.a.01	colored.a.01
+ασπρόμαυρος	ADJ	black-and-white.a.02
+χρωματιστός	ADJ	colored.a.01
+άχρωμος	ADJ	uncolored.a.01
+χριστιανικός	ADJ	christian.a.02
+καθαρός	ADJ	clean.a.01
+βρόμικος	ADJ	dirty.a.01
+λερωμένος	ADJ	dirty.a.01
+μακρινός	ADJ	far.a.01
+κοντινός	ADJ	near.a.01	close.a.01
+πλησίον	ADJ	near.a.01
+απόμακρος	ADJ	distant.a.01
+άνετος	ADJ	comfortable.a.01
+άβολος	ADJ	uncomfortable.a.02
+εμπορικός	ADJ	commercial.a.01
+μη_εμπορικός	ADJ	noncommercial.a.01
+κοινός	ADJ	common.a.02	common.a.01	public.a.01
+συνηθισμένος	ADJ	common.a.02	conventional.a.04
+ατομικός	ADJ	individual.a.01
+κλασματικός	ADJ	fractional.a.01
+συνδεδεμένος	ADJ	connected.a.02	joint.a.01
+ασύνδετος	ADJ	unconnected.a.01
+συντηρητικός	ADJ	conservative.a.01
+φιλελεύθερος	ADJ	liberal.a.03
+εμφανέστατος	ADJ	conspicuous.a.01
+κατάδηλος	ADJ	conspicuous.a.01
+καταφανής	ADJ	conspicuous.a.01
+ολοφάνερος	ADJ	conspicuous.a.01
+πασίδηλος	ADJ	conspicuous.a.01
+πρόδηλος	ADJ	conspicuous.a.01
+προφανής	ADJ	conspicuous.a.01
+κατασκευαστικός	ADJ	constructive.a.01
+συμβατικός	ADJ	conventional.a.01	conventional.a.04
+αντισυμβατικός	ADJ	unconventional.a.01	unconventional.a.02
+ασυνήθιστος	ADJ	unconventional.a.02	strange.a.01
+υλικός	ADJ	material.a.02	corporeal.a.01
+άυλος	ADJ	immaterial.a.03
+ασώματος	ADJ	incorporeal.a.01
+αγενής	ADJ	impolite.a.01	unkind.a.01
+δημιουργικός	ADJ	creative.a.01
+στείρος	ADJ	uncreative.a.01
+κρίσιμος	ADJ	critical.a.06
+κανονικός	ADJ	noncritical.a.02	regular.a.01
+ομαλός	ADJ	noncritical.a.02	normal.a.01
+ουσιαστικός	ADJ	crucial.a.01
+ουσιώδης	ADJ	crucial.a.01
+σημαντικός	ADJ	crucial.a.01	significant.a.01
+κρυσταλλωμένος	ADJ	crystallized.a.01
+αδιαμόρφωτος	ADJ	uncrystallized.a.01
+ασχημάτιστος	ADJ	uncrystallized.a.01
+αβαθής	ADJ	shallow.a.01
+άβαθος	ADJ	shallow.a.01
+ξέβαθος	ADJ	shallow.a.01
+ρηχός	ADJ	shallow.a.01
+βασικός	ADJ	underived.a.01	ultimate.a.01
+ακριβής	ADJ	definite.a.01
+σαφής	ADJ	definite.a.01
+ντελικάτος	ADJ	delicate.a.01
+γερός	ADJ	rugged.a.01
+δημοκρατικός	ADJ	democratic.a.01
+πραξικοπηματικός	ADJ	arbitrary.a.01
+εξαρτημένος	ADJ	dependent.a.01
+ανεξάρτητος	ADJ	independent.a.01
+κομματικός	ADJ	partisan.a.01
+δύσκολος	ADJ	difficult.a.01
+εύκολος	ADJ	easy.a.01
+επικρατών	ADJ	dominant.a.01
+κυρίαρχος	ADJ	dominant.a.01
+υποδεέστερος	ADJ	subordinate.a.01
+οξύς	ADJ	sharp.a.08
+νωθρός	ADJ	dull.a.01
+νωχελικός	ADJ	dull.a.01
+οκνηρός	ADJ	dull.a.01
+δυναμικός	ADJ	dynamic.a.01	spirited.a.01
+πρόωρος	ADJ	early.a.01
+μέσος	ADJ	middle.a.04
+όψιμος	ADJ	late.a.01
+προγενέστερος	ADJ	early.a.02
+μορφωμένος	ADJ	educated.a.01
+αμόρφωτος	ADJ	uneducated.a.01
+αποτελεσματικός	ADJ	effective.a.01
+δραστικός	ADJ	effective.a.01	potent.a.03
+τελεσφόρος	ADJ	effective.a.01
+αναποτελεσματικός	ADJ	ineffective.a.01
+ατελέσφορος	ADJ	ineffective.a.01
+συναισθηματικός	ADJ	emotional.a.02
+ασυγκίνητος	ADJ	unemotional.a.01
+θεωρητικός	ADJ	theoretical.a.01
+αναγκαίος	ADJ	indispensable.a.01
+απαραίτητος	ADJ	indispensable.a.01	necessary.a.01
+επείγων	ADJ	indispensable.a.01
+πρώτος	ADJ	indispensable.a.01	first.a.01
+αειθαλές	ADJ	evergreen.a.01
+φυλλοβόλο	ADJ	deciduous.a.01
+υπαρκτός	ADJ	existent.a.01
+ανύπαρκτος	ADJ	nonexistent.a.01
+απόλυτος	ADJ	explicit.a.01
+κατηγορηματικός	ADJ	explicit.a.01
+ρητός	ADJ	explicit.a.01
+εξωτερικός	ADJ	external.a.01	exterior.a.01
+εσωτερικός	ADJ	internal.a.01	interior.a.01
+εξώτερος	ADJ	outer.a.01
+εσώτερος	ADJ	inner.a.02
+γνώριμος	ADJ	familiar.a.02
+οικείος	ADJ	familiar.a.02
+γρήγορος	ADJ	fast.a.01
+αργός	ADJ	slow.a.01
+οσμηρός	ADJ	odorous.a.01
+άοσμος	ADJ	odorless.a.01
+ελεύθερος	ADJ	free.a.01
+ανελεύθερος	ADJ	unfree.a.02
+καρποφόρος	ADJ	fruitful.a.01
+άδειος	ADJ	empty.a.01
+λειτουργικός	ADJ	functional.a.01	functioning.a.01
+γενικός	ADJ	general.a.01
+ειδικός	ADJ	specific.a.01	specific.a.04
+αναίτιος	ADJ	nonspecific.a.01
+κρατικός	ADJ	national.a.03
+γενναιόδωρος	ADJ	generous.a.01	generous.a.02
+μίζερος	ADJ	stingy.a.01
+καλός	ADJ	good.a.01	good.a.03
+κακός	ADJ	bad.a.01
+διαβολικός	ADJ	evil.a.01
+σατανικός	ADJ	evil.a.01
+καλοσυνάτος	ADJ	good-natured.a.01
+δύστροπος	ADJ	ill-natured.a.01
+κακότροπος	ADJ	ill-natured.a.01
+βαθμιαίος	ADJ	gradual.a.01
+ευτυχισμένος	ADJ	happy.a.01
+δυστυχισμένος	ADJ	unhappy.a.01
+υγιής	ADJ	healthy.a.01
+νοσηρός	ADJ	unhealthy.a.01
+βαρύς	ADJ	heavy.a.01	heavy.a.02
+ελαφρός	ADJ	light.a.01
+ελαφρύς	ADJ	light.a.01	light.a.04
+αμελής	ADJ	heedless.a.01
+ετεροφυλόφιλος	ADJ	heterosexual.a.01
+ομοφυλόφιλος	ADJ	homosexual.a.01
+αμφισεξουαλικός	ADJ	bisexual.a.01
+αμφιφυλόφιλος	ADJ	bisexual.a.01
+υψηλός	ADJ	high.a.02	high.a.01	important.a.01
+ψηλός	ADJ	high.a.02
+χαμηλός	ADJ	low.a.02	low.a.01
+όρθιος	ADJ	erect.a.01
+στητός	ADJ	erect.a.01
+ξαπλωμένος	ADJ	unerect.a.01
+καυτός	ADJ	hot.a.01
+κρύος	ADJ	cold.a.01	cold.a.02
+ψυχρός	ADJ	cold.a.01	cold.a.02	cool.a.04
+διαχυτικός	ADJ	hot.a.03
+ζεστός	ADJ	hot.a.03	warm.a.01	warm.a.02
+θερμός	ADJ	hot.a.03	warm.a.01	warm.a.02
+ανθρώπινος	ADJ	human.a.03	humane.a.02
+άγριος	ADJ	inhumane.a.01
+απάνθρωπος	ADJ	inhumane.a.01
+άσπλαχνος	ADJ	inhumane.a.01
+σκληρός	ADJ	inhumane.a.01
+εξαιρετικός	ADJ	important.a.01
+μεγάλος	ADJ	important.a.01	large.a.01	long.a.01
+σπουδαίος	ADJ	important.a.01
+ασήμαντος	ADJ	unimportant.a.01	insignificant.a.04
+επερχόμενος	ADJ	incoming.a.01
+απερχόμενος	ADJ	outgoing.a.01
+διανοητικός	ADJ	intellectual.a.02
+ακαλλιέργητος	ADJ	nonintellectual.a.01
+έξυπνος	ADJ	intelligent.a.01
+οξύνους	ADJ	intelligent.a.01
+ανόητος	ADJ	unintelligent.a.01
+βλάκας	ADJ	unintelligent.a.01
+βραδύνους	ADJ	unintelligent.a.01
+κουτός	ADJ	unintelligent.a.01
+χαζός	ADJ	unintelligent.a.01
+ενδιαφέρων	ADJ	interesting.a.01
+αδιάφορος	ADJ	uninteresting.a.01
+ευγενικός	ADJ	kind.a.01
+ανάγωγος	ADJ	unkind.a.01
+μικρός	ADJ	small.a.01
+μικροσκοπικός	ADJ	small.a.01
+έννομος	ADJ	lawful.a.01
+σύννομος	ADJ	lawful.a.01
+άνομος	ADJ	unlawful.a.02
+έκνομος	ADJ	unlawful.a.02
+θεμιτός	ADJ	legal.a.01
+νόμιμος	ADJ	legal.a.01
+αθέμιτος	ADJ	illegal.a.01
+παράνομος	ADJ	illegal.a.01
+περιορισμένος	ADJ	limited.a.01
+μακρύς	ADJ	long.a.01
+γεωγραφικός	ADJ	geographic.a.02
+μεγαλύτερος	ADJ	major.a.03
+μείζων	ADJ	major.a.03
+ελάσσων	ADJ	minor.a.03
+μικρότερος	ADJ	minor.a.03
+αρσενικός	ADJ	male.a.01
+θηλυκός	ADJ	female.a.01
+ανδρόγυνος	ADJ	androgynous.a.02
+αρσενικοθήλυκος	ADJ	androgynous.a.02
+ώριμος	ADJ	mature.a.03
+ανώριμος	ADJ	immature.a.04	young.a.01
+μετρήσιμος	ADJ	measurable.a.01
+αμέτρητος	ADJ	immeasurable.a.01
+αναρίθμητος	ADJ	immeasurable.a.01
+απροσμέτρητος	ADJ	immeasurable.a.01
+μελωδικός	ADJ	melodious.a.02
+μουσικός	ADJ	melodious.a.02	musical.a.03	musical.a.01
+ήπιος	ADJ	mild.a.01
+δριμύς	ADJ	intense.a.01
+έντονος	ADJ	intense.a.01
+σφοδρός	ADJ	intense.a.01
+μονοσθενής	ADJ	monovalent.a.02
+πολυσθενής	ADJ	polyvalent.a.02
+ηθικός	ADJ	moral.a.01
+ανήθικος	ADJ	immoral.a.01
+λίγος	ADJ	little.a.02
+λιγοστός	ADJ	little.a.02
+συγκινητικός	ADJ	moving.a.02
+κινούμενος	ADJ	moving.a.01
+ακίνητος	ADJ	nonmoving.a.01
+ασάλευτος	ADJ	nonmoving.a.01
+διαπολιτειακός	ADJ	interstate.a.01
+θεμελιώδης	ADJ	ultimate.a.01
+αχρείαστος	ADJ	unnecessary.a.01
+περιττός	ADJ	unnecessary.a.01
+ανώμαλος	ADJ	abnormal.a.01
+αμυντικός	ADJ	defensive.a.01
+παλαιός	ADJ	old.a.02
+πρόσφατος	ADJ	new.a.01
+ηλικιωμένος	ADJ	old.a.01
+νεαρός	ADJ	young.a.01
+πρωτότυπος	ADJ	original.a.03
+κοινότοπος	ADJ	unoriginal.a.01
+ορθόδοξος	ADJ	orthodox.a.02
+ανορθόδοξος	ADJ	unorthodox.a.02
+παρελθών	ADJ	past.a.01
+περασμένος	ADJ	past.a.01
+τρέχων	ADJ	present.a.01
+τωρινός	ADJ	present.a.01
+μελλοντικός	ADJ	future.a.01
+μελλούμενος	ADJ	future.a.01
+τέλειος	ADJ	perfect.a.01
+ατελής	ADJ	imperfect.a.01
+προσωπικός	ADJ	personal.a.01
+μονοθεϊστικός	ADJ	monotheistic.a.01
+πολυθεϊστικός	ADJ	polytheistic.a.01
+ευλαβής	ADJ	pious.a.01
+ανευλαβής	ADJ	impious.a.01
+ανίερος	ADJ	impious.a.01
+ασεβής	ADJ	impious.a.01
+πολιτικός	ADJ	political.a.01
+δημοφιλής	ADJ	popular.a.01
+λαοφιλής	ADJ	popular.a.01
+αντιδημοτικός	ADJ	unpopular.a.01
+αντιλαϊκός	ADJ	unpopular.a.01
+θετικός	ADJ	positive.a.01
+πρακτικός	ADJ	positive.a.01
+ουδέτερος	ADJ	neutral.a.04
+αδύνατος	ADJ	impossible.a.01
+ακατόρθωτος	ADJ	impossible.a.01
+ισχυρός	ADJ	potent.a.03	powerful.a.01	strong.a.01
+αδύναμος	ADJ	impotent.a.01	powerless.a.01	weak.a.01
+ανίσχυρος	ADJ	impotent.a.01
+δυνατός	ADJ	powerful.a.01	strong.a.01
+κραταιός	ADJ	powerful.a.01
+ανήμπορος	ADJ	powerless.a.01
+φυτεμένος	ADJ	planted.a.02
+φυτευτός	ADJ	planted.a.02
+παρών	ADJ	present.a.02
+απών	ADJ	absent.a.01
+δημόσιος	ADJ	public.a.01
+παραγωγικός	ADJ	generative.a.01
+περήφανος	ADJ	proud.a.01
+ταπεινόφρων	ADJ	humble.a.02
+αγνός	ADJ	pure.a.06
+άψογος	ADJ	pure.a.06
+άδολος	ADJ	impure.a.02
+αθώος	ADJ	impure.a.02
+αντικανονικός	ADJ	irregular.a.01
+υπεύθυνος	ADJ	responsible.a.01
+ανεύθυνος	ADJ	irresponsible.a.01
+πλούσιος	ADJ	rich.a.01
+φτωχός	ADJ	poor.a.02
+δεξιός	ADJ	right.a.07	right.a.01
+αριστερός	ADJ	left.a.04	left.a.01
+ίδιος	ADJ	same.a.02
+όμοιος	ADJ	same.a.02
+διαφορετικός	ADJ	different.a.01
+παρόμοιος	ADJ	similar.a.01
+ανόμοιος	ADJ	dissimilar.a.01
+επιστημονικός	ADJ	scientific.a.02
+αντιεπιστημονικός	ADJ	unscientific.a.01
+ανασφαλής	ADJ	insecure.a.03
+ξεχωριστός	ADJ	separate.a.01
+χωριστός	ADJ	separate.a.01
+σεξουαλικός	ADJ	sexual.a.02
+αγάμητος	ADJ	asexual.a.01
+αξιόλογος	ADJ	significant.a.01
+επουσιώδης	ADJ	insignificant.a.04
+κοινωνικός	ADJ	sociable.a.01	social.a.01	social.a.03
+στερεός	ADJ	solid.a.02
+υγρός	ADJ	liquid.a.01	wet.a.01
+αέριος	ADJ	gaseous.a.01
+αεριώδης	ADJ	gaseous.a.01
+καθιερωμένος	ADJ	standard.a.01
+ανεπίσημος	ADJ	nonstandard.a.02
+ευθύς	ADJ	straight.a.02
+στραβός	ADJ	crooked.a.01
+επιδεκτικός	ADJ	susceptible.a.01
+ανεπίδεκτος	ADJ	unsusceptible.a.01
+αντιπαθητικός	ADJ	unsympathetic.a.02
+συστηματικός	ADJ	systematic.a.01
+καλαίσθητος	ADJ	tasteful.a.01
+καλόγουστος	ADJ	tasteful.a.01
+ακαλαίσθητος	ADJ	tasteless.a.02
+κακόγουστος	ADJ	tasteless.a.02
+πειθήνιος	ADJ	tractable.a.01
+υπάκουος	ADJ	tractable.a.01
+ανυπάκουος	ADJ	intractable.a.01
+απείθαρχος	ADJ	intractable.a.01
+ατίθασος	ADJ	intractable.a.01
+χρήσιμος	ADJ	useful.a.01
+ανώφελος	ADJ	useless.a.01
+άχρηστος	ADJ	useless.a.01
+σπονδυλωτό	ADJ	vertebrate.a.01
+δροσερός	ADJ	cool.a.01
+στοργικός	ADJ	warm.a.02
+αναιδής	ADJ	cool.a.04
+βρεγμένος	ADJ	wet.a.01
+νοτισμένος	ADJ	wet.a.01
+ξηρός	ADJ	dry.a.01
+στεγνός	ADJ	dry.a.01
+πρόθυμος	ADJ	willing.a.01
+απρόθυμος	ADJ	unwilling.a.01
+γεωπονικός	ADJ	agronomic.a.01
+αρχαιολογικός	ADJ	archaeological.a.01
+βιολογικός	ADJ	biological.a.01
+σωματικός	ADJ	bodily.a.01
+σκυλίσιος	ADJ	canine.a.02
+γιδίσιος	ADJ	caprine.a.01
+κατσικίσιος	ADJ	caprine.a.01
+χημικός	ADJ	chemical.a.02
+διπλωματικός	ADJ	diplomatic.a.01
+υπαρξιακός	ADJ	existential.a.03
+ιδεαλιστικός	ADJ	ideal.a.03
+ιατρικός	ADJ	medical.a.01
+ονομαστικός	ADJ	nominal.a.01
+φωνολογικός	ADJ	phonological.a.01
+σχολικός	ADJ	scholastic.a.01
+απολυταρχικός	ADJ	totalitarian.a.02
+ολοκληρωτικός	ADJ	totalitarian.a.02
+άθεος	ADJ	atheist.a.01
+άπιστος	ADJ	atheist.a.01
+νομοθετικός	ADJ	legislative.a.02
+φιλολογικός	ADJ	literary.a.01	philological.a.01
+επαναστατικός	ADJ	revolutionary.a.03
+σχετικιστικός	ADJ	relativistic.a.02
+σημασιολογικός	ADJ	semantic.a.01
+γλωσσικός	ADJ	linguistic.a.01
+γλωσσολογικός	ADJ	linguistic.a.02
+γαμήλιος	ADJ	marital.a.01
+αλγεβρικός	ADJ	algebraic.a.01
+φωνητικός	ADJ	phonetic.a.02
+φιλοσοφικός	ADJ	philosophic.a.01
+μυστηριακός	ADJ	mystic.a.03
+κομμουνιστικός	ADJ	communist.a.01
+μαρξιστικός	ADJ	marxist.a.01
+δερματικός	ADJ	dermal.a.02
+λεξιλογικός	ADJ	lexical.a.02
+ζωολογικός	ADJ	zoological.a.02
+διδακτορικός	ADJ	doctoral.a.01
+ανατομικός	ADJ	anatomic.a.01
+γνωστικός	ADJ	cognitive.a.01
+μορφωτικός	ADJ	cultural.a.01
+διοικητικός	ADJ	administrative.a.01
+γεωλογικός	ADJ	geological.a.01
+ψυχολογικός	ADJ	psychological.a.02
+κοινωνιολογικός	ADJ	sociological.a.01
+τοξικολογικός	ADJ	toxicological.a.01
+ψυχιατρικός	ADJ	psychiatric.a.01
+μικροβιολογικός	ADJ	bacteriological.a.01
+φασιστικός	ADJ	fascist.a.01
+καθολικός	ADJ	catholic.a.01
+ισλαμικός	ADJ	muslim.a.01
+μουσουλμανικός	ADJ	muslim.a.01
+μωαμεθανικός	ADJ	muslim.a.01
+βουδιστικός	ADJ	buddhist.a.01
+παιδαγωγικός	ADJ	pedagogical.a.01
+μορφολογικός	ADJ	morphologic.a.01
+διαμαρτυρόμενος	ADJ	protestant.a.01
+προτεστάντης	ADJ	protestant.a.01
+προτεσταντικός	ADJ	protestant.a.01
+προεδρικός	ADJ	presidential.a.01
+τελεολογικός	ADJ	teleological.a.01
+τελολογικός	ADJ	teleological.a.01
+εθνικοσοσιαλιστής	ADJ	national_socialist.a.01
+ναζιστής	ADJ	national_socialist.a.01
+εξελικτικός	ADJ	evolutionary.a.01
+μικροβιακός	ADJ	microbial.a.01
+οσφυϊκός	ADJ	lumbar.a.01
+ελληνικός	ADJ	greek.a.01
+πυθαγόρειος	ADJ	pythagorean.a.01
+επεκτατικός	ADJ	imperialistic.a.01
+ιμπεριαλιστικός	ADJ	imperialistic.a.01
+ορυκτός	ADJ	mineral.a.01
+καθεστωτικός	ADJ	regimental.a.01
+σχισματικός	ADJ	schismatic.a.01
+σιταρένιος	ADJ	wheaten.a.01
+σταρένιος	ADJ	wheaten.a.01
 απανταχού	ADV	everywhere.r.01
 πανταχού	ADV	everywhere.r.01
 παντού	ADV	everywhere.r.01

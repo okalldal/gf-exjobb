@@ -26333,27 +26333,27 @@ izarniatu	VERB	twinkle.v.02	sparkle.v.01
 kea_jario	VERB	reek.v.04
 ostots_egin	VERB	thunder.v.03
 trumoia_jo	VERB	thunder.v.03
-natural	ADJ	unaffected.a.04	natural.a.01	natural.a.02	natural.a.03	natural.a.05	unstudied.a.01	unaffected.a.04	natural.a.01	natural.a.02	natural.a.03	natural.a.05	unstudied.a.01
-digital	ADJ	digital.a.03	digital.a.02	digital.a.01	digital.a.03	digital.a.02	digital.a.01
-haurdun	ADJ	pregnant.a.01	pregnant.a.01
-automatiko	ADJ	automatic.a.01	automatic.a.01
-berde	ADJ	dirty.a.02	dirty.a.02
-gordin	ADJ	dirty.a.02	raw.a.03	green.a.03	gross.a.01	unrefined.a.01	intemperate.a.01	dirty.a.02	raw.a.03	green.a.03	gross.a.01	unrefined.a.01	intemperate.a.01
-lizun	ADJ	dirty.a.02	dirty.a.02
-apal	ADJ	common.a.02	low.a.02	low.a.01	humble.a.02	short.a.03	common.a.02	low.a.02	low.a.01	humble.a.02	short.a.03
-xehe	ADJ	common.a.02	small.a.01	common.a.02	small.a.01
-astun	ADJ	dull.a.01	heavy.a.01	heavy.a.04	heavy.a.02	heavy.a.03	dull.a.01	heavy.a.01	heavy.a.04	heavy.a.02	heavy.a.03
-galdua	ADJ	extinct.a.01	extinct.a.01
-arin	ADJ	light.a.01	light.a.05	light.a.03	mild.a.01	light.a.01	light.a.05	light.a.03	mild.a.01
-baxu	ADJ	low.a.02	low.a.05	short.a.03	low.a.02	low.a.05	short.a.03
-hotz	ADJ	cold.a.01	cold.a.02	cool.a.03	cold.a.01	cold.a.02	cool.a.03
-txiki	ADJ	small.a.01	small.a.01
-heldugabe	ADJ	green.a.03	green.a.03
-ondugabe	ADJ	green.a.03	green.a.03
-umatu_gabe	ADJ	green.a.03	green.a.03
-antzinako	ADJ	nonmodern.a.01	nonmodern.a.01
-herriarteko	ADJ	international.a.01	international.a.01
-nazioarteko	ADJ	international.a.01	international.a.01
-zahar	ADJ	old.a.02	old.a.01	old.a.02	old.a.01
-politiko	ADJ	political.a.01	political.a.02	political.a.03	political.a.01	political.a.02	political.a.03
-herri-	ADJ	public.a.01	public.a.01
+natural	ADJ	unaffected.a.04	natural.a.01	natural.a.02	natural.a.03	natural.a.05	unstudied.a.01
+digital	ADJ	digital.a.03	digital.a.02	digital.a.01
+haurdun	ADJ	pregnant.a.01
+automatiko	ADJ	automatic.a.01
+berde	ADJ	dirty.a.02
+gordin	ADJ	dirty.a.02	raw.a.03	green.a.03	gross.a.01	unrefined.a.01	intemperate.a.01
+lizun	ADJ	dirty.a.02
+apal	ADJ	common.a.02	low.a.02	low.a.01	humble.a.02	short.a.03
+xehe	ADJ	common.a.02	small.a.01
+astun	ADJ	dull.a.01	heavy.a.01	heavy.a.04	heavy.a.02	heavy.a.03
+galdua	ADJ	extinct.a.01
+arin	ADJ	light.a.01	light.a.05	light.a.03	mild.a.01
+baxu	ADJ	low.a.02	low.a.05	short.a.03
+hotz	ADJ	cold.a.01	cold.a.02	cool.a.03
+txiki	ADJ	small.a.01
+heldugabe	ADJ	green.a.03
+ondugabe	ADJ	green.a.03
+umatu_gabe	ADJ	green.a.03
+antzinako	ADJ	nonmodern.a.01
+herriarteko	ADJ	international.a.01
+nazioarteko	ADJ	international.a.01
+zahar	ADJ	old.a.02	old.a.01
+politiko	ADJ	political.a.01	political.a.02	political.a.03
+herri-	ADJ	public.a.01

@@ -43367,1598 +43367,1598 @@ agostar	VERB	run_dry.v.01
 dessecar	VERB	run_dry.v.01
 ressecar-se	VERB	run_dry.v.01
 socarrar-se	VERB	char.v.01
-apte	ADJ	able.a.01	adequate.a.01	fit.a.01	able.a.01	adequate.a.01	fit.a.01
-capaç	ADJ	able.a.01	adequate.a.01	capable.a.01	capable.a.03	fit.a.01	able.a.01	adequate.a.01	capable.a.01	capable.a.03	fit.a.01
-competent	ADJ	able.a.01	able.a.01
-impossibilitat	ADJ	unable.a.01	unable.a.01
-incapaç	ADJ	unable.a.01	incapable.a.01	incapable.a.03	ineffective.a.01	unhelpful.a.01	useless.a.01	unable.a.01	incapable.a.01	incapable.a.03	ineffective.a.01	unhelpful.a.01	useless.a.01
-abaxial	ADJ	abaxial.a.01	abaxial.a.01
-adaxial	ADJ	adaxial.a.01	adaxial.a.01
-abductor	ADJ	abducent.a.01	abducent.a.01
-abreujat	ADJ	abridged.a.01	abridged.a.01
-abreviat	ADJ	abridged.a.01	abridged.a.01
-íntegre	ADJ	unabridged.a.01	unabridged.a.01
-absolut	ADJ	absolute.a.01	absolute.a.01
-complet	ADJ	absolute.a.01	complete.a.01	absolute.a.01	complete.a.01
-perfecte	ADJ	absolute.a.01	perfect.a.01	absolute.a.01	perfect.a.01
-total	ADJ	absolute.a.01	unqualified.a.01	absolute.a.01	unqualified.a.01
-relatiu	ADJ	relative.a.01	relative.a.01
-absorbent	ADJ	absorbent.a.01	absorbent.a.01
-no-absorbent	ADJ	nonabsorbent.a.01	nonabsorbent.a.01
-adsorbent	ADJ	adsorbent.a.01	adsorbent.a.01
-no-adsorbent	ADJ	nonadsorbent.a.01	nonadsorbent.a.01
-absorbible	ADJ	absorbable.a.01	absorbable.a.01
-adsorbible	ADJ	adsorbable.a.01	adsorbable.a.01
-moderat	ADJ	abstemious.a.01	moderating.a.01	moderate.a.01	temperate.a.02	abstemious.a.01	moderating.a.01	moderate.a.01	temperate.a.02
-golafre	ADJ	gluttonous.a.01	gluttonous.a.01
-voraç	ADJ	gluttonous.a.01	gluttonous.a.01
-abstracte	ADJ	abstract.a.01	abstract.a.01
-concret	ADJ	concrete.a.01	concrete.a.01
-abundant	ADJ	abundant.a.01	abundant.a.01
-abundós	ADJ	abundant.a.01	abundant.a.01
-copiós	ADJ	abundant.a.01	abundant.a.01
-escàs	ADJ	scarce.a.01	meager.a.01	scarce.a.01	meager.a.01
-maltractat	ADJ	abused.a.02	abused.a.02
-acceptable	ADJ	acceptable.a.01	acceptable.a.01
-inacceptable	ADJ	unacceptable.a.02	unacceptable.a.02
-inadmissible	ADJ	unacceptable.a.02	unacceptable.a.02
-accessible	ADJ	accessible.a.01	approachable.a.02	accessible.a.01	approachable.a.02
-inaccessible	ADJ	inaccessible.a.01	unapproachable.a.01	inaccessible.a.01	unapproachable.a.01
-atent	ADJ	accommodating.a.01	attentive.a.01	considerate.a.01	accommodating.a.01	attentive.a.01	considerate.a.01
-complaent	ADJ	accommodating.a.01	accommodating.a.01
-servicial	ADJ	accommodating.a.01	accommodating.a.01
-exacte	ADJ	accurate.a.01	accurate.a.01
-precís	ADJ	accurate.a.01	concise.a.01	precise.a.01	accurate.a.01	concise.a.01	precise.a.01
-imprecís	ADJ	inaccurate.a.01	unclear.a.02	imprecise.a.01	inaccurate.a.01	unclear.a.02	imprecise.a.01
-inexacte	ADJ	inaccurate.a.01	inaccurate.a.01
-acostumat	ADJ	accustomed.a.01	accustomed.a.01
-habitual	ADJ	accustomed.a.01	usual.a.01	frequent.a.01	accustomed.a.01	usual.a.01	frequent.a.01
-desacostumat	ADJ	unaccustomed.a.01	unaccustomed.a.01
-inacostumat	ADJ	unaccustomed.a.01	unaccustomed.a.01
-inhabitual	ADJ	unaccustomed.a.01	unaccustomed.a.01
-acídic	ADJ	acidic.a.01	acidic.a.01
-alcalí	ADJ	alkaline.a.01	alkaline.a.01
-amfòter	ADJ	amphoteric.a.01	amphoteric.a.01
-anfipròtic	ADJ	amphoteric.a.01	amphoteric.a.01
-acidòfil	ADJ	acid-loving.a.01	acid-loving.a.01
-reconegut	ADJ	acknowledged.a.01	acknowledged.a.01
-acaparador	ADJ	acquisitive.a.01	acquisitive.a.01
-acròpet	ADJ	acropetal.a.01	acropetal.a.01
-actiu	ADJ	active.a.05	active.a.14	active.a.07	active.a.01	active.a.03	active.a.13	active.a.06	active.a.05	active.a.14	active.a.07	active.a.01	active.a.03	active.a.13	active.a.06
-dinàmic	ADJ	active.a.05	active.a.05
-inactiu	ADJ	inactive.a.09	inactive.a.08	inactive.a.07	inactive.a.02	passive.a.01	dormant.a.02	extinct.a.02	inactive.a.04	inactive.a.09	inactive.a.08	inactive.a.07	inactive.a.02	passive.a.01	dormant.a.02	extinct.a.02	inactive.a.04
-passiu	ADJ	passive.a.01	passive.a.01
-extingit	ADJ	extinct.a.02	extinct.a.02
-extint	ADJ	extinct.a.02	extinct.a.02
-activa	ADJ	active.a.10	active.a.10
-passiva	ADJ	passive.a.03	passive.a.03
-real	ADJ	actual.a.01	de_facto.a.01	actual.a.01	de_facto.a.01
-veritable	ADJ	actual.a.01	true.a.01	actual.a.01	true.a.01
-possible	ADJ	potential.a.01	probable.a.01	possible.a.01	potential.a.01	probable.a.01	possible.a.01
-potencial	ADJ	potential.a.01	potential.a.01
-agut	ADJ	acute.a.01	sharp.a.09	high.a.04	acute.a.04	acute.a.01	sharp.a.09	high.a.04	acute.a.04
-sever	ADJ	acute.a.01	intemperate.a.01	acute.a.01	intemperate.a.01
-crònic	ADJ	chronic.a.01	chronic.a.01
-virulent	ADJ	virulent.a.02	virulent.a.02
-adaptable	ADJ	adaptive.a.01	adaptive.a.01
-inadaptat	ADJ	maladaptive.a.01	maladaptive.a.01
-addicte	ADJ	addicted.a.01	addicted.a.01
-additiu	ADJ	additive.a.02	additive.a.02
-sostractiu	ADJ	subtractive.a.01	subtractive.a.01
-subtractiu	ADJ	subtractive.a.01	subtractive.a.01
-adreçat	ADJ	addressed.a.01	addressed.a.01
-dirigit	ADJ	addressed.a.01	addressed.a.01
-adequat	ADJ	adequate.a.01	fit.a.01	adequate.a.01	fit.a.01
-adient	ADJ	adequate.a.01	fit.a.01	adequate.a.01	fit.a.01
-covenient	ADJ	adequate.a.01	adequate.a.01
-encertat	ADJ	adequate.a.01	correct.a.01	right.a.05	fit.a.01	adequate.a.01	correct.a.01	right.a.05	fit.a.01
-escaient	ADJ	adequate.a.01	fit.a.01	adequate.a.01	fit.a.01
-idoni	ADJ	adequate.a.01	fit.a.01	adequate.a.01	fit.a.01
-indicat	ADJ	adequate.a.01	fit.a.01	adequate.a.01	fit.a.01
-inadequat	ADJ	inadequate.a.01	malapropos.a.01	inconvenient.a.01	inadequate.a.01	malapropos.a.01	inconvenient.a.01
-adhesiu	ADJ	adhesive.a.01	adhesive.a.01
-processal	ADJ	adjective.a.02	adjective.a.02
-processual	ADJ	adjective.a.02	adjective.a.02
-essencial	ADJ	substantive.a.02	imperative.a.01	substantive.a.02	imperative.a.01
-adoptable	ADJ	adoptable.a.01	adoptable.a.01
-inadoptable	ADJ	unadoptable.a.01	unadoptable.a.01
-adornat	ADJ	adorned.a.01	adorned.a.01
-decorat	ADJ	adorned.a.01	adorned.a.01
-colinèrgic	ADJ	cholinergic.a.01	cholinergic.a.01
-anticolinèrgic	ADJ	anticholinergic.a.01	anticholinergic.a.01
-destre	ADJ	adroit.a.01	adroit.a.01
-hàbil	ADJ	adroit.a.01	adroit.a.01
-manyós	ADJ	adroit.a.01	adroit.a.01
-maldestre	ADJ	maladroit.a.01	maladroit.a.01
-avantatjós	ADJ	advantageous.a.01	advantageous.a.01
-desfavorable	ADJ	disadvantageous.a.01	unfavorable.a.01	disadvantageous.a.01	unfavorable.a.01
-perjudicial	ADJ	disadvantageous.a.01	evil.a.01	harmful.a.01	hostile.a.01	disadvantageous.a.01	evil.a.01	harmful.a.01	hostile.a.01
-arriscat	ADJ	adventurous.a.01	adventurous.a.01
-aventurer	ADJ	adventurous.a.01	adventurous.a.01
-aconsellable	ADJ	advisable.a.01	advisable.a.01
-convenient	ADJ	advisable.a.01	convenient.a.01	fit.a.01	advisable.a.01	convenient.a.01	fit.a.01
-desaconsellable	ADJ	inadvisable.a.01	inadvisable.a.01
-aconsellat	ADJ	well-advised.a.01	well-advised.a.01
-desaconsellat	ADJ	ill-advised.a.01	ill-advised.a.01
-desencertat	ADJ	ill-advised.a.01	ill-advised.a.01
-imprudent	ADJ	ill-advised.a.01	unwary.a.01	incautious.a.01	imprudent.a.01	ill-advised.a.01	unwary.a.01	incautious.a.01	imprudent.a.01
-aeròbic	ADJ	aerobic.a.01	aerobic.a.01
-anaeròbic	ADJ	anaerobic.a.01	anaerobic.a.01
-estètic	ADJ	aesthetic.a.02	aesthetic.a.02
-antiestètic	ADJ	inaesthetic.a.01	inaesthetic.a.01
-afectat	ADJ	affected.a.01	affected.a.02	affected.a.01	affected.a.02
-influenciat	ADJ	affected.a.01	affected.a.01
-artificial	ADJ	affected.a.02	artificial.a.01	affected.a.02	artificial.a.01
-artificiós	ADJ	affected.a.02	affected.a.02
-natural	ADJ	unaffected.a.04	natural.a.01	natural.a.02	natural.a.03	natural.a.05	unaffected.a.04	natural.a.01	natural.a.02	natural.a.03	natural.a.05
-afirmatiu	ADJ	affirmative.a.01	affirmative.a.01
-negatiu	ADJ	negative.a.02	negative.a.02
-flotant	ADJ	afloat.a.02	afloat.a.02
-embarrancat	ADJ	aground.a.01	aground.a.01
-encallat	ADJ	aground.a.01	aground.a.01
-temorós	ADJ	afraid.a.01	afraid.a.01
-impertèrrit	ADJ	unafraid.a.01	unafraid.a.01
-agressiu	ADJ	aggressive.a.01	aggressive.a.01
-agitat	ADJ	agitated.a.01	agitated.a.02	agitated.a.01	agitated.a.02
-inquiet	ADJ	agitated.a.01	agitated.a.01
-agradable	ADJ	agreeable.a.01	pleasant.a.01	agreeable.a.01	pleasant.a.01
-grat	ADJ	agreeable.a.01	agreeable.a.01
-desagradable	ADJ	disagreeable.a.01	ugly.a.01	unpalatable.a.01	unpleasant.a.01	disagreeable.a.01	ugly.a.01	unpalatable.a.01	unpleasant.a.01
-malèvol	ADJ	disagreeable.a.01	disagreeable.a.01
-aire-terra	ADJ	air-to-surface.a.01	air-to-surface.a.01
-aire-aire	ADJ	air-to-air.a.01	air-to-air.a.01
-terra-aire	ADJ	surface-to-air.a.01	surface-to-air.a.01
-alerta	ADJ	alert.a.01	alert.a.01
-algorítmic	ADJ	algorithmic.a.01	algorithmic.a.01
-heurístic	ADJ	heuristic.a.01	heuristic.a.01
-alienable	ADJ	alienable.a.01	alienable.a.01
-inalienable	ADJ	inalienable.a.01	inalienable.a.01
-mort	ADJ	dead.a.01	dead.a.02	dead.a.01	dead.a.02
-apocrí	ADJ	apocrine.a.01	apocrine.a.01
-artesià	ADJ	artesian.a.01	artesian.a.01
-subartesià	ADJ	subartesian.a.01	subartesian.a.01
-viu	ADJ	live.a.02	animate.a.02	animated.a.01	colorful.a.01	live.a.02	animate.a.02	animated.a.01	colorful.a.01
-abnegat	ADJ	altruistic.a.01	altruistic.a.01
-altruista	ADJ	altruistic.a.01	altruistic.a.01
-desinteressat	ADJ	altruistic.a.01	altruistic.a.01
-egoista	ADJ	egoistic.a.01	egoistic.a.01
-ambigu	ADJ	ambiguous.a.02	equivocal.a.01	ambiguous.a.02	equivocal.a.01
-inequívoc	ADJ	unambiguous.a.01	unequivocal.a.01	unambiguous.a.01	unequivocal.a.01
-ambiciós	ADJ	ambitious.a.01	ambitious.a.01
-ampli	ADJ	ample.a.01	commodious.a.01	wide.a.01	ample.a.01	commodious.a.01	wide.a.01
-espaiós	ADJ	ample.a.01	commodious.a.01	ample.a.01	commodious.a.01
-exigu	ADJ	meager.a.01	meager.a.01
-raquític	ADJ	meager.a.01	meager.a.01
-anabòlic	ADJ	anabolic.a.02	anabolic.a.02
-catabòlic	ADJ	catabolic.a.02	catabolic.a.02
-anticlinal	ADJ	anaclinal.a.01	anticlinal.a.01	anaclinal.a.01	anticlinal.a.01
-cataclinal	ADJ	cataclinal.a.01	cataclinal.a.01
-sinclinal	ADJ	synclinal.a.01	synclinal.a.01
-anàdrom	ADJ	anadromous.a.01	anadromous.a.01
-catàdrom	ADJ	catadromous.a.01	catadromous.a.01
-anabàtic	ADJ	anabatic.a.01	anabatic.a.01
-catabàtic	ADJ	katabatic.a.01	katabatic.a.01
-anal	ADJ	anal.a.02	anal.a.02
-oral	ADJ	oral.a.04	oral.a.03	oral.a.02	oral.a.04	oral.a.03	oral.a.02
-digital	ADJ	digital.a.03	digital.a.02	digital.a.01	digital.a.03	digital.a.02	digital.a.01
-analític	ADJ	analytic.a.04	analytic.a.03	analytic.a.02	analytic.a.04	analytic.a.03	analytic.a.02
-sintètic	ADJ	synthetic.a.04	synthetic.a.03	synthetic.a.02	synthetic.a.04	synthetic.a.03	synthetic.a.02
-flexional	ADJ	inflectional.a.01	inflectional.a.01
-derivacional	ADJ	derivational.a.01	derivational.a.01
-apocàrpic	ADJ	apocarpous.a.01	apocarpous.a.01
-sincàrpic	ADJ	syncarpous.a.01	syncarpous.a.01
-enfadat	ADJ	angry.a.01	angry.a.01
-enutjat	ADJ	angry.a.01	angry.a.01
-sensible	ADJ	sentient.a.01	sensible.a.02	sensitive.a.01	sensitive.a.02	sentient.a.01	sensible.a.02	sensitive.a.01	sensitive.a.02
-sensitiu	ADJ	sentient.a.01	sentient.a.01
-insensible	ADJ	insentient.a.01	impervious.a.01	insentient.a.01	impervious.a.01
-animat	ADJ	animate.a.02	animated.a.01	enlivened.a.01	animate.a.01	cheerful.a.01	animate.a.02	animated.a.01	enlivened.a.01	animate.a.01	cheerful.a.01
-vivent	ADJ	animate.a.02	animate.a.02
-inanimat	ADJ	inanimate.a.02	unanimated.a.01	inanimate.a.01	inanimate.a.02	unanimated.a.01	inanimate.a.01
-animós	ADJ	enlivened.a.01	enlivened.a.01
-dispost	ADJ	enlivened.a.01	enlivened.a.01
-apagat	ADJ	unenlivened.a.01	dull.a.02	unenlivened.a.01	dull.a.02
-gris	ADJ	unenlivened.a.01	unenlivened.a.01
-anònim	ADJ	anonymous.a.01	faceless.a.01	anonymous.a.01	faceless.a.01
-antecedent	ADJ	antecedent.a.01	antecedent.a.01
-previ	ADJ	antecedent.a.01	antecedent.a.01
-posterior	ADJ	subsequent.a.01	posterior.a.01	back.a.01	subsequent.a.01	posterior.a.01	back.a.01
-subsegüent	ADJ	subsequent.a.01	succeeding.a.01	subsequent.a.01	succeeding.a.01
-ulterior	ADJ	subsequent.a.01	subsequent.a.01
-aquàtic	ADJ	aquatic.a.02	aquatic.a.02
-terrestre	ADJ	terrestrial.a.03	planetary.a.02	terrestrial.a.03	planetary.a.02
-amfibi	ADJ	amphibious.a.02	amphibious.a.02
-precedent	ADJ	preceding.a.01	preceding.a.01
-següent	ADJ	succeeding.a.01	following.a.03	succeeding.a.01	following.a.03
-inaudit	ADJ	unprecedented.a.01	unprecedented.a.01
-prènsil	ADJ	prehensile.a.01	prehensile.a.01
-preguerra	ADJ	prewar.a.01	prewar.a.01
-postguerra	ADJ	postwar.a.01	postwar.a.01
-retrògrad	ADJ	retrograde.a.02	retrograde.a.02
-antemeridià	ADJ	antemeridian.a.01	antemeridian.a.01
-postmeridià	ADJ	postmeridian.a.01	postmeridian.a.01
-anterior	ADJ	anterior.a.01	anterior.a.01
-dorsal	ADJ	dorsal.a.01	dorsal.a.01
-ventral	ADJ	ventral.a.01	ventral.a.01
-apel·lable	ADJ	appealable.a.01	appealable.a.01
-inapel·lable	ADJ	unappealable.a.01	irrevocable.a.01	unappealable.a.01	irrevocable.a.01
-apetitós	ADJ	appetizing.a.01	appetizing.a.01
-tractable	ADJ	approachable.a.02	approachable.a.02
-inabordable	ADJ	unapproachable.a.01	unapproachable.a.01
-intractable	ADJ	unapproachable.a.01	unapproachable.a.01
-apropiat	ADJ	appropriate.a.01	fit.a.01	proper.a.01	appropriate.a.01	fit.a.01	proper.a.01
-inapropiat	ADJ	inappropriate.a.01	malapropos.a.01	improper.a.01	inappropriate.a.01	malapropos.a.01	improper.a.01
-inconvenient	ADJ	inappropriate.a.01	inappropriate.a.01
-inoportú	ADJ	inappropriate.a.01	inopportune.a.01	inappropriate.a.01	inopportune.a.01
-degut	ADJ	due.a.01	due.a.01
-indebut	ADJ	undue.a.01	undue.a.01
-indegut	ADJ	undue.a.02	undue.a.02
-oportú	ADJ	apropos.a.01	opportune.a.01	apropos.a.01	opportune.a.01
-àpter	ADJ	apteral.a.01	apteral.a.01
-perípter	ADJ	peripteral.a.01	peripteral.a.01
-arbitrable	ADJ	arbitrable.a.01	arbitrable.a.01
-columnat	ADJ	columned.a.01	columned.a.01
-arbori	ADJ	arboreal.a.02	arboreal.a.02
-arenaci	ADJ	arenaceous.a.01	arenaceous.a.01
-arenós	ADJ	arenaceous.a.01	arenaceous.a.01
-argilenc	ADJ	argillaceous.a.01	argillaceous.a.01
-argil·lós	ADJ	argillaceous.a.01	argillaceous.a.01
-argilós	ADJ	argillaceous.a.01	argillaceous.a.01
-armat	ADJ	armed.a.01	armed.a.01
-desarmat	ADJ	unarmed.a.01	unarmed.a.01
-blindat	ADJ	armored.a.01	armored.a.01
-cuirassat	ADJ	armored.a.01	armored.a.01
-braquífer	ADJ	armed.a.03	armed.a.03
-manc	ADJ	armless.a.01	armless.a.01
-astut	ADJ	artful.a.02	artful.a.02
-senzill	ADJ	artless.a.02	unstudied.a.01	simple.a.01	artless.a.02	unstudied.a.01	simple.a.01
-articulat	ADJ	articulate.a.01	articulated.a.01	articulate.a.01	articulated.a.01
-inarticulat	ADJ	inarticulate.a.01	unarticulated.a.01	inarticulate.a.01	unarticulated.a.01
-parlat	ADJ	speaking.a.01	speaking.a.01
-avergonyit	ADJ	ashamed.a.01	ashamed.a.01
-descarat	ADJ	unashamed.a.01	forward.a.02	unashamed.a.01	forward.a.02
-desvergonyit	ADJ	unashamed.a.01	unashamed.a.01
-assertiu	ADJ	assertive.a.01	assertive.a.01
-associatiu	ADJ	associative.a.01	associative.a.01
-compromès	ADJ	attached.a.03	attached.a.03
-afegit	ADJ	affixed.a.01	affixed.a.01
-desenganxat	ADJ	unaffixed.a.01	unstuck.a.01	unaffixed.a.01	unstuck.a.01
-sèssil	ADJ	sessile.a.02	sessile.a.01	sessile.a.02	sessile.a.01
-pedunculat	ADJ	pedunculate.a.01	pedunculate.a.01
-vàgil	ADJ	vagile.a.01	vagile.a.01
-adosat	ADJ	attached.a.02	attached.a.02
-agregat	ADJ	attached.a.02	attached.a.02
-annex	ADJ	attached.a.02	attached.a.02
-annexat	ADJ	attached.a.02	attached.a.02
-independent	ADJ	detached.a.04	independent.a.01	detached.a.04	independent.a.01
-separat	ADJ	detached.a.04	detached.a.04
-solt	ADJ	detached.a.04	detached.a.04
-enganxat	ADJ	stuck.a.01	stuck.a.01
-subjectable	ADJ	attachable.a.01	attachable.a.01
-desmuntable	ADJ	detachable.a.01	detachable.a.01
-separable	ADJ	detachable.a.01	detachable.a.01
-caut	ADJ	wary.a.01	cautious.a.01	wary.a.01	cautious.a.01
-cautelós	ADJ	wary.a.01	careful.a.01	cautious.a.01	wary.a.01	careful.a.01	cautious.a.01
-prudent	ADJ	wary.a.01	careful.a.01	cautious.a.01	politic.a.01	wary.a.01	careful.a.01	cautious.a.01	politic.a.01
-despreocupat	ADJ	unwary.a.01	unwary.a.01
-incaut	ADJ	unwary.a.01	incautious.a.01	unwary.a.01	incautious.a.01
-desatent	ADJ	inattentive.a.01	heedless.a.01	inattentive.a.01	heedless.a.01
-atractiu	ADJ	attractive.a.01	inviting.a.01	attractive.a.01	inviting.a.01
-atraient	ADJ	attractive.a.03	inviting.a.01	attractive.a.03	inviting.a.01
-magnètic	ADJ	attractive.a.03	magnetic.a.02	magnetic.a.01	attractive.a.03	magnetic.a.02	magnetic.a.01
-repulsiu	ADJ	repulsive.a.02	repulsive.a.02
-atribuïble	ADJ	attributable.a.01	attributable.a.01
-prenominal	ADJ	attributive.a.01	attributive.a.01
-predicatiu	ADJ	predicative.a.01	predicative.a.01
-embarassada	ADJ	pregnant.a.01	pregnant.a.01
-encinta	ADJ	pregnant.a.01	pregnant.a.01
-prenyat	ADJ	pregnant.a.01	pregnant.a.01
-audible	ADJ	audible.a.01	audible.a.01
-oïble	ADJ	audible.a.01	audible.a.01
-inaudible	ADJ	inaudible.a.01	inaudible.a.01
-sònic	ADJ	sonic.a.01	sonic.a.01
-subsònic	ADJ	subsonic.a.01	subsonic.a.01
-supersònic	ADJ	supersonic.a.01	supersonic.a.01
-propici	ADJ	auspicious.a.01	propitious.a.01	auspicious.a.01	propitious.a.01
-desgraciat	ADJ	inauspicious.a.01	unfortunate.a.01	inauspicious.a.01	unfortunate.a.01
-desventurat	ADJ	inauspicious.a.01	inauspicious.a.01
-autoritzat	ADJ	authorized.a.01	authorized.a.01
-constitucional	ADJ	constitutional.a.02	constitutional.a.01	constitutional.a.02	constitutional.a.01
-inconstitucional	ADJ	unconstitutional.a.01	unconstitutional.a.01
-autòcton	ADJ	autochthonous.a.01	autochthonous.a.01
-autogen	ADJ	autogenous.a.01	autogenous.a.01
-heterogeni	ADJ	heterogenous.a.02	heterogeneous.a.01	heterogenous.a.02	heterogeneous.a.01
-automàtic	ADJ	automatic.a.01	automatic.a.01
-manual	ADJ	manual.a.02	manual.a.02
-disponible	ADJ	available.a.01	available.a.01
-despert	ADJ	awake.a.01	awake.a.01
-adormit	ADJ	asleep.a.01	asleep.a.01
-astringent	ADJ	astringent.a.02	astringent.a.02
-ignorant	ADJ	unaware.a.01	unaware.a.01
-inconscient	ADJ	unaware.a.01	unaware.a.01
-conscient	ADJ	witting.a.01	conscious.a.02	witting.a.01	conscious.a.02
-alarmant	ADJ	alarming.a.01	critical.a.06	alarming.a.01	critical.a.06
-anemòfil	ADJ	anemophilous.a.01	anemophilous.a.01
-entomòfil	ADJ	entomophilous.a.01	entomophilous.a.01
-tranquil·litzador	ADJ	reassuring.a.01	reassuring.a.01
-inquietant	ADJ	unreassuring.a.01	unreassuring.a.01
-davanter	ADJ	front.a.01	fore.a.01	front.a.01	fore.a.01
-destacat	ADJ	leading.a.03	leading.a.03
-principal	ADJ	leading.a.03	independent.a.03	leading.a.03	independent.a.03
-enrere	ADJ	reverse.a.02	reverse.a.02
-tímid	ADJ	backward.a.02	timid.a.01	diffident.a.02	backward.a.02	timid.a.01	diffident.a.02
-atrevit	ADJ	forward.a.02	bold.a.01	forward.a.02	bold.a.01
-embotat	ADJ	barreled.a.01	barreled.a.01
-bequerut	ADJ	beaked.a.01	beaked.a.01
-beneficiat	ADJ	beneficed.a.01	beneficed.a.01
-estratificada	ADJ	stratified.a.02	stratified.a.02
-estratificat	ADJ	stratified.a.02	stratified.a.02
-herbós	ADJ	grassy.a.01	grassy.a.01
-pelat	ADJ	hairless.a.01	unwooded.a.01	hairless.a.01	unwooded.a.01
-hirsut	ADJ	hairy.a.01	hairy.a.01
-pelut	ADJ	hairy.a.01	hairy.a.01
-pilós	ADJ	hairy.a.01	hairy.a.01
-bell	ADJ	beautiful.a.01	beautiful.a.01
-bonic	ADJ	beautiful.a.01	nice.a.01	beautiful.a.01	nice.a.01
-encantador	ADJ	beautiful.a.01	beautiful.a.01
-encisador	ADJ	beautiful.a.01	beautiful.a.01
-formós	ADJ	beautiful.a.01	beautiful.a.01
-preciós	ADJ	beautiful.a.01	beautiful.a.01
-repugnant	ADJ	ugly.a.01	ugly.a.01
-panxut	ADJ	bellied.a.01	bellied.a.01
-benefactor	ADJ	beneficent.a.01	beneficent.a.01
-maliciós	ADJ	malicious.a.01	malicious.a.01
-benigne	ADJ	benign.a.02	benign.a.02
-maligne	ADJ	malign.a.01	malignant.a.01	malign.a.01	malignant.a.01
-millor	ADJ	best.a.01	better.a.01	best.a.01	better.a.01
-pitjor	ADJ	worst.a.01	worse.a.01	worst.a.01	worse.a.01
-bicameral	ADJ	bicameral.a.01	bicameral.a.01
-unicameral	ADJ	unicameral.a.01	unicameral.a.01
-bidireccional	ADJ	bidirectional.a.01	bidirectional.a.01
-unidireccional	ADJ	unidirectional.a.01	unidirectional.a.01
-unilateral	ADJ	unilateral.a.01	unilateral.a.01
-multilateral	ADJ	multilateral.a.01	multilateral.a.01
-bimodal	ADJ	bimodal.a.01	bimodal.a.01
-unimodal	ADJ	unimodal.a.01	unimodal.a.01
-biauricular	ADJ	binaural.a.01	binaural.a.01
-monoaural	ADJ	monaural.a.01	monaural.a.01
-binuclear	ADJ	binucleate.a.01	binucleate.a.01
-mononuclear	ADJ	mononuclear.a.01	mononuclear.a.01
-bípede	ADJ	bipedal.a.01	bipedal.a.01
-quadrúpede	ADJ	quadrupedal.a.01	quadrupedal.a.01
-negre	ADJ	black.a.02	black.a.01	black.a.02	black.a.01
-blanc	ADJ	white.a.02	white.a.01	white.a.02	white.a.01
-ros	ADJ	blond.a.01	blond.a.01
-morè	ADJ	brunet.a.01	brunet.a.01
-tacat	ADJ	blemished.a.01	stained.a.01	blemished.a.01	stained.a.01
-sangonent	ADJ	bloody.a.01	bloody.a.01
-sangonós	ADJ	bloody.a.01	bloody.a.01
-audaç	ADJ	bold.a.01	bold.a.01
-gosat	ADJ	bold.a.01	bold.a.01
-lligat	ADJ	bound.a.01	laced.a.01	tied.a.03	bound.a.01	laced.a.01	tied.a.03
-deslligat	ADJ	unlaced.a.01	untied.a.01	unlaced.a.01	untied.a.01
-embolicat	ADJ	tangled.a.01	tangled.a.01
-embrollat	ADJ	tangled.a.01	tangled.a.01
-enredat	ADJ	tangled.a.01	tangled.a.01
-desenredat	ADJ	untangled.a.01	untangled.a.01
-enquadernat	ADJ	bound.a.03	bound.a.03
-desenquadernat	ADJ	unbound.a.01	unbound.a.01
-ribetejat	ADJ	bordered.a.01	bordered.a.01
-braquicèfal	ADJ	brachycephalic.a.01	brachycephalic.a.01
-braquicranià	ADJ	brachycephalic.a.01	brachycephalic.a.01
-dolicocèfal	ADJ	dolichocephalic.a.01	dolichocephalic.a.01
-valent	ADJ	brave.a.01	brave.a.01
-valerós	ADJ	brave.a.01	gutsy.a.01	brave.a.01	gutsy.a.01
-covard	ADJ	cowardly.a.01	cowardly.a.01
-poruc	ADJ	cowardly.a.01	cowardly.a.01
-coratjós	ADJ	gutsy.a.01	gutsy.a.01
-dèbil	ADJ	gutless.a.01	powerless.a.01	weak.a.01	gutless.a.01	powerless.a.01	weak.a.01
-panteixant	ADJ	breathless.a.01	breathless.a.01
-cristal·lí	ADJ	crystalline.a.01	crystalline.a.01
-monocristal·lí	ADJ	noncrystalline.a.01	noncrystalline.a.01
-terratinent	ADJ	landed.a.01	landed.a.01
-brillant	ADJ	light.a.06	bright.a.01	light.a.06	bright.a.01
-lluminós	ADJ	light.a.06	bright.a.01	light.a.06	bright.a.01
-fosc	ADJ	dark.a.01	dark.a.02	dark.a.01	dark.a.02
-obscur	ADJ	dark.a.01	dark.a.01
-discriminador	ADJ	prejudiced.a.02	prejudiced.a.02
-parcial	ADJ	prejudiced.a.02	partial.a.02	prejudiced.a.02	partial.a.02
-imparcial	ADJ	unprejudiced.a.01	impartial.a.01	unprejudiced.a.01	impartial.a.01
-intolerant	ADJ	narrow-minded.a.02	narrow-minded.a.02
-espatllat	ADJ	broken.a.01	broken.a.01
-trencat	ADJ	broken.a.01	broken.a.01
-intacte	ADJ	unbroken.a.05	unimpaired.a.01	unbroken.a.05	unimpaired.a.01
-sencer	ADJ	unbroken.a.05	unimpaired.a.01	unbroken.a.05	unimpaired.a.01
-incomplert	ADJ	broken.a.04	broken.a.04
-violat	ADJ	broken.a.04	broken.a.04
-complert	ADJ	unbroken.a.04	unbroken.a.04
-mantingut	ADJ	unbroken.a.04	unbroken.a.04
-interromput	ADJ	broken.a.02	broken.a.02
-ininterromput	ADJ	unbroken.a.01	unbroken.a.01
-fratern	ADJ	brotherly.a.01	brotherly.a.01
-fraternal	ADJ	brotherly.a.01	brotherly.a.01
-biovular	ADJ	fraternal.a.02	fraternal.a.02
-univitel·lí	ADJ	identical.a.03	identical.a.03
-enterrat	ADJ	buried.a.01	buried.a.01
-desenterrat	ADJ	unburied.a.01	unburied.a.01
-atrafegat	ADJ	busy.a.01	busy.a.01
-enfeinat	ADJ	busy.a.01	busy.a.01
-ocupat	ADJ	busy.a.01	busy.a.01
-aturat	ADJ	idle.a.01	idle.a.01
-desocupat	ADJ	idle.a.01	idle.a.01
-parat	ADJ	idle.a.01	idle.a.01
-ossut	ADJ	bony.a.03	bony.a.03
-botonat	ADJ	buttoned.a.01	buttoned.a.01
-desbotonat	ADJ	unbuttoned.a.01	unbuttoned.a.01
-descordat	ADJ	unbuttoned.a.01	unbuttoned.a.01
-capitalista	ADJ	capitalistic.a.01	capitalistic.a.01
-socialista	ADJ	socialistic.a.01	socialistic.a.01
-cacofònic	ADJ	cacophonous.a.01	cacophonous.a.01
-eufònic	ADJ	euphonious.a.01	euphonious.a.01
-calculable	ADJ	calculable.a.01	calculable.a.01
-incalculable	ADJ	incalculable.a.01	incalculable.a.01
-calmat	ADJ	calm.a.02	calm.a.02
-serè	ADJ	calm.a.02	clear.a.11	calm.a.02	clear.a.11
-tranquil	ADJ	calm.a.02	calm.a.02
-tempestívol	ADJ	stormy.a.01	stormy.a.01
-tempestós	ADJ	stormy.a.01	stormy.a.01
-tempestuós	ADJ	stormy.a.01	inclement.a.01	stormy.a.01	inclement.a.01
-camforat	ADJ	camphorated.a.01	camphorated.a.01
-cuidat	ADJ	cared-for.a.01	cared-for.a.01
-deixat	ADJ	uncared-for.a.01	uncared-for.a.01
-descuidat	ADJ	uncared-for.a.01	careless.a.01	uncared-for.a.01	careless.a.01
-negligent	ADJ	careless.a.01	careless.a.01
-carnívor	ADJ	carnivorous.a.02	carnivorous.a.02
-herbívor	ADJ	herbivorous.a.01	herbivorous.a.01
-omnívor	ADJ	omnivorous.a.01	omnivorous.a.01
-insectívor	ADJ	insectivorous.a.01	insectivorous.a.01
-carpel·lat	ADJ	carpellate.a.01	carpellate.a.01
-pistil·lat	ADJ	carpellate.a.01	carpellate.a.01
-emmoquetat	ADJ	carpeted.a.01	carpeted.a.01
-esculpit	ADJ	carved.a.01	carved.a.01
-tallat	ADJ	carved.a.01	cut.a.01	cut.a.02	carved.a.01	cut.a.01	cut.a.02
-acatalèctic	ADJ	acatalectic.a.01	acatalectic.a.01
-catalèctic	ADJ	catalectic.a.01	catalectic.a.01
-hipercatalèctic	ADJ	hypercatalectic.a.01	hypercatalectic.a.01
-caulinar	ADJ	cauline.a.02	cauline.a.02
-radical	ADJ	radical.a.05	radical.a.05
-censurat	ADJ	censored.a.01	censored.a.01
-caudat	ADJ	caudate.a.01	caudate.a.01
-caulescent	ADJ	caulescent.a.01	caulescent.a.01
-acaule	ADJ	acaulescent.a.01	acaulescent.a.01
-acaulescent	ADJ	acaulescent.a.01	acaulescent.a.01
-causatiu	ADJ	causative.a.01	causative.a.01
-curós	ADJ	cautious.a.01	cautious.a.01
-previngut	ADJ	cautious.a.01	cautious.a.01
-cel·lular	ADJ	cellular.a.02	cellular.a.02
-compartimentat	ADJ	compartmented.a.01	compartmented.a.01
-porós	ADJ	porous.a.02	porous.a.02
-central	ADJ	central.a.02	central.a.02
-perifèric	ADJ	peripheral.a.01	peripheral.a.01
-centrífug	ADJ	centrifugal.a.01	centrifugal.a.01
-centrípet	ADJ	centripetal.a.01	centripetal.a.01
-aferent	ADJ	afferent.a.01	afferent.a.01
-eferent	ADJ	efferent.a.01	efferent.a.01
-centralitzador	ADJ	centralizing.a.01	centralizing.a.01
-descentralitzador	ADJ	decentralizing.a.01	decentralizing.a.01
-incert	ADJ	uncertain.a.02	uncertain.a.04	uncertain.a.02	uncertain.a.04
-segur	ADJ	certain.a.02	confident.a.01	certain.a.04	definite.a.01	certain.a.02	confident.a.01	certain.a.04	definite.a.01
-dubtós	ADJ	uncertain.a.01	uncertain.a.01
-indecís	ADJ	uncertain.a.01	irresolute.a.01	uncertain.a.01	irresolute.a.01
-insegur	ADJ	uncertain.a.01	diffident.a.02	improbable.a.01	irresolute.a.01	uncertain.a.01	diffident.a.02	improbable.a.01	irresolute.a.01
-convençut	ADJ	convinced.a.02	convinced.a.02
-vergonyós	ADJ	diffident.a.02	diffident.a.02
-cert	ADJ	certain.a.04	certain.a.04
-forçós	ADJ	certain.a.04	certain.a.04
-indefugible	ADJ	certain.a.04	certain.a.04
-ineludible	ADJ	certain.a.04	certain.a.04
-inevitable	ADJ	certain.a.04	inevitable.a.01	certain.a.04	inevitable.a.01
-inexorable	ADJ	certain.a.04	irrevocable.a.01	certain.a.04	irrevocable.a.01
-certificat	ADJ	certified.a.01	registered.a.02	certified.a.01	registered.a.02
-evitable	ADJ	evitable.a.01	evitable.a.01
-prevenible	ADJ	preventable.a.01	preventable.a.01
-canviant	ADJ	changeable.a.02	changeable.a.02
-variable	ADJ	changeable.a.02	commutable.a.01	variable.a.01	changeable.a.02	commutable.a.01	variable.a.01
-immutable	ADJ	unchangeable.a.01	immutable.a.01	unchangeable.a.01	immutable.a.01
-inalterable	ADJ	unchangeable.a.01	unalterable.a.01	unchangeable.a.01	unalterable.a.01
-commutable	ADJ	commutable.a.01	commutable.a.01
-mudable	ADJ	commutable.a.01	commutable.a.01
-transformable	ADJ	commutable.a.01	commutable.a.01
-alterable	ADJ	alterable.a.01	alterable.a.01
-modificable	ADJ	modifiable.a.01	modifiable.a.01
-immodificable	ADJ	unmodifiable.a.01	unmodifiable.a.01
-alterat	ADJ	altered.a.01	altered.a.01
-inalterat	ADJ	unaltered.a.01	unimpaired.a.01	unaltered.a.01	unimpaired.a.01
-esmenat	ADJ	amended.a.01	amended.a.01
-canviat	ADJ	changed.a.01	changed.a.01
-igual	ADJ	unchanged.a.01	equal.a.01	alike.a.01	like.a.02	unchanged.a.01	equal.a.01	alike.a.01	like.a.02
-ionitzat	ADJ	ionized.a.01	ionized.a.01
-canviable	ADJ	mutable.a.01	convertible.a.01	mutable.a.01	convertible.a.01
-mutable	ADJ	mutable.a.01	mutable.a.01
-característic	ADJ	characteristic.a.01	characteristic.a.01
-típic	ADJ	characteristic.a.01	typical.a.01	characteristic.a.01	typical.a.01
-carregat	ADJ	charged.a.01	charged.a.01
-descarregat	ADJ	uncharged.a.01	uncharged.a.01
-benèvol	ADJ	charitable.a.02	charitable.a.02
-caritatiu	ADJ	charitable.a.02	charitable.a.01	charitable.a.02	charitable.a.01
-cast	ADJ	chaste.a.01	chaste.a.01
-impúdic	ADJ	unchaste.a.01	unchaste.a.01
-alegre	ADJ	cheerful.a.01	cheerful.a.01
-granellós	ADJ	chondritic.a.01	chondritic.a.01
-granellut	ADJ	chondritic.a.01	chondritic.a.01
-granular	ADJ	chondritic.a.01	chondritic.a.01
-granulós	ADJ	chondritic.a.01	chondritic.a.01
-monoclínic	ADJ	monoclinic.a.01	monoclinic.a.01
-anòrtic	ADJ	triclinic.a.01	triclinic.a.01
-triclínic	ADJ	triclinic.a.01	triclinic.a.01
-monocromàtic	ADJ	monochromatic.a.02	monochromatic.a.02
-policromàtic	ADJ	polychromatic.a.01	polychromatic.a.01
-acolorit	ADJ	chromatic.a.03	colorful.a.01	chromatic.a.03	colorful.a.01
-colorat	ADJ	chromatic.a.03	chromatic.a.03
-acromàtic	ADJ	achromatic.a.01	achromatic.a.01
-alba	ADJ	white.a.01	white.a.01
-cromàtic	ADJ	colored.a.01	chromatic.a.02	colored.a.01	chromatic.a.02
-vistós	ADJ	colorful.a.01	colorful.a.02	colorful.a.01	colorful.a.02
-incolor	ADJ	colorless.a.02	colorless.a.02
-anodí	ADJ	colorless.a.01	colorless.a.01
-sonso	ADJ	colorless.a.01	colorless.a.01
-clar	ADJ	light.a.02	clear.a.01	clear.a.04	clear.a.11	distinct.a.02	light.a.02	clear.a.01	clear.a.04	clear.a.11	distinct.a.02
-pàl·lid	ADJ	light.a.02	light.a.02
-diatònic	ADJ	diatonic.a.01	diatonic.a.01
-cismuntà	ADJ	cismontane.a.01	cismontane.a.01
-tramuntà	ADJ	tramontane.a.01	tramontane.a.01
-cristià	ADJ	christian.a.02	christian.a.02
-civilitzat	ADJ	civilized.a.01	civilized.a.01
-clàssic	ADJ	classical.a.01	classical.a.01
-classificat	ADJ	classified.a.01	classified.a.01
-inclassificat	ADJ	unclassified.a.02	unclassified.a.01	unclassified.a.02	unclassified.a.01
-confidencial	ADJ	classified.a.02	classified.a.02
-secret	ADJ	classified.a.02	classified.a.02
-analitzat	ADJ	analyzed.a.01	analyzed.a.01
-net	ADJ	clean.a.01	net.a.01	clean.a.01	net.a.01
-brut	ADJ	dirty.a.01	dirty.a.02	dirty.a.01	dirty.a.02
-immund	ADJ	dirty.a.01	dirty.a.01
-contaminant	ADJ	dirty.a.04	dirty.a.04
-radioactiu	ADJ	radioactive.a.01	radioactive.a.01
-purificat	ADJ	clean.a.06	clean.a.06
-impur	ADJ	unclean.a.02	unclean.a.02
-confús	ADJ	unclear.a.02	unclear.a.02
-opac	ADJ	opaque.a.01	opaque.a.01
-radiopac	ADJ	radiopaque.a.01	radiopaque.a.01
-perspicaç	ADJ	clearheaded.a.01	clearheaded.a.01
-atordit	ADJ	confused.a.05	confused.a.05
-confós	ADJ	confused.a.05	confused.a.05
-clement	ADJ	clement.a.02	clement.a.01	clement.a.02	clement.a.01
-inclement	ADJ	inclement.a.02	inclement.a.01	hardhearted.a.01	inclement.a.02	inclement.a.01	hardhearted.a.01
-espavilat	ADJ	smart.a.01	smart.a.01
-llest	ADJ	smart.a.01	smart.a.01
-cretí	ADJ	stupid.a.01	stupid.a.01
-estúpid	ADJ	stupid.a.01	stupid.a.01
-idiota	ADJ	stupid.a.01	stupid.a.01
-imbècil	ADJ	stupid.a.01	stupid.a.01
-distant	ADJ	far.a.01	distant.a.01	distant.a.02	cold.a.02	far.a.01	distant.a.01	distant.a.02	cold.a.02
-llunyà	ADJ	far.a.01	distant.a.02	far.a.01	distant.a.02
-remot	ADJ	far.a.01	distant.a.02	far.a.01	distant.a.02
-proper	ADJ	near.a.01	close.a.01	close.a.02	near.a.01	close.a.01	close.a.02
-íntim	ADJ	close.a.02	close.a.02
-cobert	ADJ	clothed.a.01	clothed.a.01
-vestit	ADJ	clothed.a.01	clothed.a.01
-desvestit	ADJ	unclothed.a.01	unclothed.a.01
-ensellat	ADJ	saddled.a.01	saddled.a.01
-desensellat	ADJ	unsaddled.a.01	unsaddled.a.01
-nítid	ADJ	clear.a.11	clear.a.11
-ennuvolat	ADJ	cloudy.a.02	cloudy.a.02
-coster	ADJ	coastal.a.02	coastal.a.02
-interior	ADJ	inland.a.01	interior.a.01	inland.a.01	interior.a.01
-coherent	ADJ	coherent.a.01	coherent.a.01
-incoherent	ADJ	incoherent.a.01	incoherent.a.01
-esquerdat	ADJ	crannied.a.01	crannied.a.01
-llis	ADJ	uncrannied.a.01	straight.a.03	uncrannied.a.01	straight.a.03
-col·lectiu	ADJ	collective.a.02	collective.a.02
-distribuïdor	ADJ	distributive.a.01	distributive.a.01
-divulgat	ADJ	publicized.a.01	publicized.a.01
-suprimit	ADJ	suppressed.a.01	suppressed.a.01
-publicat	ADJ	published.a.01	published.a.01
-inèdit	ADJ	unpublished.a.01	unpublished.a.01
-presentat	ADJ	reported.a.01	reported.a.01
-combinador	ADJ	combinative.a.01	combinative.a.01
-combustible	ADJ	combustible.a.01	combustible.a.01
-incombustible	ADJ	noncombustible.a.01	noncombustible.a.01
-detonador	ADJ	explosive.a.01	explosive.a.01
-explosiu	ADJ	explosive.a.01	explosive.a.01
-encès	ADJ	lighted.a.01	lighted.a.01
-còmode	ADJ	commodious.a.01	comfortable.a.01	commodious.a.01	comfortable.a.01
-pràctic	ADJ	commodious.a.01	practical.a.01	commodious.a.01	practical.a.01
-estret	ADJ	incommodious.a.01	narrow.a.01	incommodious.a.01	narrow.a.01
-incòmode	ADJ	incommodious.a.01	uncomfortable.a.02	incommodious.a.01	uncomfortable.a.02
-confortable	ADJ	comfortable.a.01	comfortable.a.01
-proporcionat	ADJ	commensurate.a.01	proportionate.a.01	commensurate.a.01	proportionate.a.01
-incommensurable	ADJ	incommensurate.a.01	incommensurate.a.01
-desproporcionat	ADJ	disproportionate.a.01	disproportionate.a.01
-comercial	ADJ	commercial.a.01	commercial.a.02	commercial.a.01	commercial.a.02
-residencial	ADJ	residential.a.01	residential.a.02	residential.a.01	residential.a.02
-nomenat	ADJ	commissioned.a.01	commissioned.a.01
-comú	ADJ	common.a.02	usual.a.01	common.a.01	familiar.a.02	common.a.02	usual.a.01	common.a.01	familiar.a.02
-inusual	ADJ	uncommon.a.01	unusual.a.01	uncommon.a.01	unusual.a.01
-singular	ADJ	uncommon.a.01	uncommon.a.01
-normal	ADJ	usual.a.01	normal.a.01	perpendicular.a.01	usual.a.01	normal.a.01	perpendicular.a.01
-usual	ADJ	usual.a.01	usual.a.01
-excepcional	ADJ	unusual.a.01	unusual.a.01
-extraordinari	ADJ	unusual.a.01	extraordinary.a.01	unusual.a.01	extraordinary.a.01
-insòlit	ADJ	unusual.a.01	unusual.a.01
-hidròfob	ADJ	hydrophobic.a.01	hydrophobic.a.01
-hidròfil	ADJ	hydrophilic.a.01	hydrophilic.a.01
-oleofòbic	ADJ	oleophilic.a.01	oleophobic.a.01	oleophilic.a.01	oleophobic.a.01
-individual	ADJ	individual.a.01	personal.a.01	individual.a.01	personal.a.01
-comunicatiu	ADJ	communicative.a.02	communicative.a.02
-compacte	ADJ	compact.a.01	compact.a.01
-comparable	ADJ	comparable.a.01	comparable.a.01
-incomparable	ADJ	incomparable.a.01	incomparable.a.01
-inacabat	ADJ	incomplete.a.01	inconclusive.a.01	incomplete.a.01	inconclusive.a.01
-incomplet	ADJ	incomplete.a.01	inconclusive.a.01	incomplete.a.01	inconclusive.a.01
-concau	ADJ	concave.a.01	concave.a.01
-bombat	ADJ	convex.a.01	convex.a.01
-convex	ADJ	convex.a.01	convex.a.01
-concèntric	ADJ	concentric.a.01	concentric.a.01
-homocèntric	ADJ	concentric.a.01	concentric.a.01
-excèntric	ADJ	eccentric.a.02	eccentric.a.02
-concís	ADJ	concise.a.01	concise.a.01
-inconclús	ADJ	inconclusive.a.01	inconclusive.a.01
-coordinant	ADJ	coordinating.a.01	coordinating.a.01
-condicional	ADJ	conditional.a.02	conditional.a.02
-abarrotat	ADJ	crowded.a.01	crowded.a.01
-ple_a_vessar	ADJ	crowded.a.01	crowded.a.01
-replè	ADJ	crowded.a.01	crowded.a.01
-replet	ADJ	crowded.a.01	crowded.a.01
-desprès	ADJ	unconnected.a.01	unconnected.a.01
-conservador	ADJ	conservative.a.01	conservative.a.01
-consistent	ADJ	consistent.a.01	consistent.a.01
-discret	ADJ	inconspicuous.a.01	tactful.a.01	inconspicuous.a.01	tactful.a.01
-invisible	ADJ	inconspicuous.a.01	inconspicuous.a.01
-discernible	ADJ	distinguishable.a.01	distinguishable.a.01
-distingible	ADJ	distinguishable.a.01	distinguishable.a.01
-inconstant	ADJ	inconstant.a.01	inconstant.a.01
-constructiu	ADJ	constructive.a.01	constructive.a.01
-demolidor	ADJ	destructive.a.01	destructive.a.01
-destructiu	ADJ	destructive.a.01	destructive.a.01
-destructor	ADJ	destructive.a.01	destructive.a.01
-devastador	ADJ	destructive.a.01	destructive.a.01
-continu	ADJ	continual.a.01	continual.a.01
-esporàdic	ADJ	sporadic.a.01	sporadic.a.01
-controvertit	ADJ	controversial.a.01	controversial.a.01
-polèmic	ADJ	controversial.a.01	controversial.a.01
-convencional	ADJ	conventional.a.01	conventional.a.04	conventional.a.03	conventional.a.01	conventional.a.04	conventional.a.03
-atòmic	ADJ	nuclear.a.01	nuclear.a.01
-nuclear	ADJ	nuclear.a.01	nuclear.a.02	nuclear.a.03	nuclear.a.01	nuclear.a.02	nuclear.a.03
-tradicional	ADJ	traditional.a.01	traditional.a.01
-convergent	ADJ	convergent.a.01	convergent.a.01
-cuinat	ADJ	cooked.a.01	cooked.a.01
-cru	ADJ	raw.a.03	raw.a.03
-considerable	ADJ	considerable.a.01	considerable.a.01
-important	ADJ	considerable.a.01	important.a.01	significant.a.01	considerable.a.01	important.a.01	significant.a.01
-correcte	ADJ	correct.a.01	right.a.05	civil.a.02	correct.a.01	right.a.05	civil.a.02
-laxant	ADJ	laxative.a.01	laxative.a.01
-considerat	ADJ	considerate.a.01	considerate.a.01
-delicat	ADJ	considerate.a.01	delicate.a.01	considerate.a.01	delicate.a.01
-cívic	ADJ	civil.a.02	civic.a.01	civil.a.02	civic.a.01
-cortès	ADJ	civil.a.02	civil.a.02
-educat	ADJ	civil.a.02	civil.a.02
-indreïble	ADJ	incredible.a.01	incredible.a.01
-crític	ADJ	critical.a.01	critical.a.03	critical.a.06	critical.a.02	critical.a.01	critical.a.03	critical.a.06	critical.a.02
-greu	ADJ	critical.a.06	low.a.05	critical.a.06	low.a.05
-no_crític	ADJ	noncritical.a.02	noncritical.a.02
-lineal	ADJ	linear.a.02	linear.a.01	linear.a.02	linear.a.01
-unidimensional	ADJ	linear.a.02	linear.a.02
-curiós	ADJ	curious.a.02	curious.a.02
-artesanal	ADJ	handmade.a.01	handmade.a.01
-casolà	ADJ	homemade.a.01	domestic.a.03	homemade.a.01	domestic.a.03
-anual	ADJ	annual.a.01	annual.a.01
-perenne	ADJ	perennial.a.01	evergreen.a.01	perennial.a.01	evergreen.a.01
-perennifoli	ADJ	perennial.a.01	perennial.a.01
-diürn	ADJ	diurnal.a.01	diurnal.a.01
-nocturn	ADJ	nocturnal.a.01	nocturnal.a.02	nocturnal.a.01	nocturnal.a.02
-indemne	ADJ	undamaged.a.01	undamaged.a.01
-desafiant	ADJ	defiant.a.01	defiant.a.01
-provocatiu	ADJ	defiant.a.01	defiant.a.01
-definit	ADJ	defined.a.01	distinct.a.02	defined.a.01	distinct.a.02
-derivat	ADJ	derived.a.01	derived.a.01
-definitiu	ADJ	definite.a.01	definite.a.01
-fixe	ADJ	definite.a.01	permanent.a.01	definite.a.01	permanent.a.01
-abatut	ADJ	dejected.a.01	penitent.a.01	dejected.a.01	penitent.a.01
-decaigut	ADJ	dejected.a.01	dejected.a.01
-desanimat	ADJ	dejected.a.01	dejected.a.01
-moix	ADJ	dejected.a.01	dejected.a.01
-trencable	ADJ	breakable.a.01	breakable.a.01
-fonamental	ADJ	imperative.a.01	imperative.a.01
-imperatiu	ADJ	imperative.a.01	imperative.a.01
-primordial	ADJ	imperative.a.01	imperative.a.01
-democràtic	ADJ	democratic.a.01	democratic.a.01
-antidemocràtic	ADJ	undemocratic.a.01	undemocratic.a.01
-arbitrari	ADJ	arbitrary.a.01	arbitrary.a.01
-efusiu	ADJ	demonstrative.a.01	demonstrative.a.01
-expressiu	ADJ	demonstrative.a.01	demonstrative.a.01
-indiscutible	ADJ	undeniable.a.01	undeniable.a.01
-innegable	ADJ	undeniable.a.01	undeniable.a.01
-fiable	ADJ	reliable.a.01	reliable.a.01
-destruit	ADJ	destroyed.a.01	destroyed.a.01
-difícil	ADJ	difficult.a.01	difficult.a.01
-dur	ADJ	difficult.a.01	hard.a.03	hardhearted.a.01	difficult.a.01	hard.a.03	hardhearted.a.01
-fàcil	ADJ	easy.a.01	easy.a.01
-presidencial	ADJ	presidential.a.02	presidential.a.01	presidential.a.02	presidential.a.01
-concentrat	ADJ	saturated.a.01	saturated.a.01
-saturat	ADJ	saturated.a.01	saturated.a.01
-diplomàtic	ADJ	diplomatic.a.02	tactful.a.01	diplomatic.a.01	diplomatic.a.02	tactful.a.01	diplomatic.a.01
-directe	ADJ	direct.a.01	direct.a.03	lineal.a.01	direct.a.01	direct.a.03	lineal.a.01
-immediat	ADJ	immediate.a.03	immediate.a.03
-inconfusible	ADJ	distinct.a.02	distinct.a.02
-marcat	ADJ	distinct.a.02	marked.a.03	distinct.a.02	marked.a.03
-dominant	ADJ	dominant.a.01	dominant.a.02	dominant.a.01	dominant.a.02
-potable	ADJ	drinkable.a.01	drinkable.a.01
-sord	ADJ	dull.a.09	dull.a.09
-monòton	ADJ	uneventful.a.01	uneventful.a.01
-rutinari	ADJ	uneventful.a.01	uneventful.a.01
-tardà	ADJ	late.a.06	late.a.06
-aprensiu	ADJ	uneasy.a.01	uneasy.a.01
-del_est	ADJ	east.a.01	east.a.01
-oriental	ADJ	east.a.01	eastern.a.04	east.a.01	eastern.a.04
-del_oest	ADJ	west.a.01	west.a.01
-occidental	ADJ	west.a.01	west.a.01
-comestible	ADJ	edible.a.01	edible.a.01
-operatiu	ADJ	operative.a.01	operative.a.01
-inoperatiu	ADJ	inoperative.a.01	inoperative.a.01
-ineficaç	ADJ	ineffective.a.01	unhelpful.a.01	useless.a.01	ineffective.a.01	unhelpful.a.01	useless.a.01
-inepte	ADJ	ineffective.a.01	unhelpful.a.01	useless.a.01	ineffective.a.01	unhelpful.a.01	useless.a.01
-inútil	ADJ	ineffective.a.01	unhelpful.a.01	useless.a.01	ineffective.a.01	unhelpful.a.01	useless.a.01
-va	ADJ	ineffective.a.01	unhelpful.a.01	useless.a.01	ineffective.a.01	unhelpful.a.01	useless.a.01
-eficient	ADJ	efficient.a.01	efficient.a.01
-elàstic	ADJ	elastic.a.01	elastic.a.01
-empíric	ADJ	empirical.a.01	empirical.a.01
-autònom	ADJ	freelance.a.01	freelance.a.01
-freelance	ADJ	freelance.a.01	freelance.a.01
-exogen	ADJ	exogenous.a.01	exogenous.a.01
-disminuït	ADJ	decreased.a.01	decreased.a.01
-reduït	ADJ	decreased.a.01	decreased.a.01
-equilibrat	ADJ	balanced.a.01	balanced.a.01
-falaguer	ADJ	flattering.a.01	flattering.a.01
-eufòric	ADJ	euphoric.a.01	euphoric.a.01
-afligit	ADJ	dysphoric.a.01	penitent.a.01	dysphoric.a.01	penitent.a.01
-apesarat	ADJ	dysphoric.a.01	regretful.a.01	dysphoric.a.01	regretful.a.01
-dolorit	ADJ	dysphoric.a.01	dysphoric.a.01
-pesarós	ADJ	dysphoric.a.01	regretful.a.01	dysphoric.a.01	regretful.a.01
-trist	ADJ	dysphoric.a.01	unhappy.a.01	sad.a.01	dysphoric.a.01	unhappy.a.01	sad.a.01
-caduc	ADJ	deciduous.a.01	deciduous.a.01
-caducifoli	ADJ	deciduous.a.01	deciduous.a.01
-decidu	ADJ	deciduous.a.01	deciduous.a.01
-convertible	ADJ	convertible.a.01	convertible.a.01
-existent	ADJ	extant.a.01	extant.a.01
-car	ADJ	expensive.a.01	expensive.a.01
-costós	ADJ	expensive.a.01	expensive.a.01
-experimentat	ADJ	experienced.a.01	experienced.a.01
-caducat	ADJ	expired.a.01	expired.a.01
-no_caducat	ADJ	unexpired.a.01	unexpired.a.01
-explícit	ADJ	explicit.a.01	explicit.a.01
-implícit	ADJ	implicit.a.01	implicit.a.01
-inextricable	ADJ	inextricable.a.01	inextricable.a.01
-extern	ADJ	external.a.01	external.a.01
-intern	ADJ	internal.a.01	internal.a.01
-exterior	ADJ	exterior.a.01	foreign.a.01	outdoor.a.01	exterior.a.01	foreign.a.01	outdoor.a.01
-honrat	ADJ	fair.a.01	just.a.01	righteous.a.01	fair.a.01	just.a.01	righteous.a.01
-just	ADJ	fair.a.01	just.a.01	righteous.a.01	fair.a.01	just.a.01	righteous.a.01
-recte	ADJ	fair.a.01	just.a.01	righteous.a.01	straight.a.02	fair.a.01	just.a.01	righteous.a.01	straight.a.02
-familiar	ADJ	familiar.a.01	familial.a.01	familiar.a.01	familial.a.01
-desconegut	ADJ	unfamiliar.a.01	unknown.a.01	unfamiliar.a.01	unknown.a.01
-corrent	ADJ	familiar.a.02	familiar.a.02
-ordinari	ADJ	familiar.a.02	familiar.a.02
-lent	ADJ	slow.a.01	slow.a.02	slow.a.01	slow.a.02
-escrupulós	ADJ	fastidious.a.01	fastidious.a.01
-primmirat	ADJ	fastidious.a.01	fastidious.a.01
-carnós	ADJ	fat.a.01	fat.a.01
-prim	ADJ	thin.a.02	thin.a.01	thin.a.02	thin.a.01
-fatal	ADJ	fatal.a.01	dystopian.a.02	fatal.a.01	dystopian.a.02
-no_fatal	ADJ	nonfatal.a.01	nonfatal.a.01
-favorable	ADJ	favorable.a.02	favorable.a.01	favorable.a.02	favorable.a.01
-fèrtil	ADJ	fertile.a.01	fertile.a.01
-limitat	ADJ	finite.a.01	limited.a.01	finite.a.01	limited.a.01
-infinit	ADJ	infinite.a.01	infinite.a.01
-finit	ADJ	finite.a.02	finite.a.02
-inaugural	ADJ	opening.a.01	opening.a.01
-final	ADJ	closing.a.01	closing.a.01
-primer	ADJ	first.a.01	first.a.01
-intermedi	ADJ	intermediate.a.01	intermediate.a.01
-segon	ADJ	second.a.02	latter.a.01	second.a.02	latter.a.01
-flexible	ADJ	flexible.a.02	flexible.a.02
-invertit	ADJ	anatropous.a.01	anatropous.a.01
-arrissat	ADJ	curly.a.01	curly.a.01
-estranger	ADJ	foreign.a.02	foreign.a.01	foreign.a.02	foreign.a.01
-estrany	ADJ	foreign.a.02	foreign.a.02
-forà	ADJ	foreign.a.02	foreign.a.02
-foraster	ADJ	foreign.a.02	foreign.a.02
-aborigen	ADJ	native.a.03	native.a.03
-nadiu	ADJ	native.a.03	native.a.03
-domèstic	ADJ	domestic.a.03	domestic.a.03
-formal	ADJ	formal.a.01	formal.a.01
-informal	ADJ	informal.a.01	informal.a.01
-últim	ADJ	latter.a.01	latter.a.01
-afortunat	ADJ	fortunate.a.01	successful.a.01	fortunate.a.01	successful.a.01
-sortós	ADJ	fortunate.a.01	fortunate.a.01
-desafortunat	ADJ	unfortunate.a.01	unfortunate.a.01
-malaurat	ADJ	unfortunate.a.01	unfortunate.a.01
-fragant	ADJ	fragrant.a.01	fragrant.a.01
-olorós	ADJ	fragrant.a.01	fragrant.a.01
-lliure	ADJ	free.a.02	free.a.01	free.a.06	exempt.a.01	free.a.02	free.a.01	free.a.06	exempt.a.01
-infreqüent	ADJ	infrequent.a.01	infrequent.a.01
-fresc	ADJ	fresh.a.06	fresh.a.06
-fructífer	ADJ	fruitful.a.01	fruitful.a.01
-productiu	ADJ	fruitful.a.01	productive.a.01	generative.a.01	fruitful.a.01	productive.a.01	generative.a.01
-ple	ADJ	full.a.01	full.a.01
-buit	ADJ	empty.a.01	hollow.a.01	empty.a.01	hollow.a.01
-orgànic	ADJ	organic.a.03	organic.a.01	organic.a.02	organic.a.03	organic.a.01	organic.a.02
-jove	ADJ	unfledged.a.01	young.a.01	unfledged.a.01	young.a.01
-desmoblat	ADJ	unfurnished.a.01	unfurnished.a.01
-general	ADJ	general.a.01	general.a.04	general.a.01	general.a.04
-específic	ADJ	specific.a.01	specific.a.01
-nacional	ADJ	national.a.03	national.a.02	national.a.01	national.a.07	national.a.06	national.a.03	national.a.02	national.a.01	national.a.07	national.a.06
-local	ADJ	local.a.01	local.a.03	local.a.02	local.a.01	local.a.03	local.a.02
-tècnic	ADJ	technical.a.02	technical.a.01	technical.a.03	technical.a.02	technical.a.01	technical.a.03
-agarrat	ADJ	stingy.a.01	stingy.a.01
-avar	ADJ	stingy.a.01	stingy.a.01
-avariciós	ADJ	stingy.a.01	stingy.a.01
-garrepa	ADJ	stingy.a.01	stingy.a.01
-gasiu	ADJ	stingy.a.01	stingy.a.01
-mesquí	ADJ	stingy.a.01	stingy.a.01
-ranci	ADJ	stingy.a.01	stingy.a.01
-rata	ADJ	stingy.a.01	stingy.a.01
-ronyós	ADJ	stingy.a.01	stingy.a.01
-tacany	ADJ	stingy.a.01	stingy.a.01
-autèntic	ADJ	genuine.a.01	genuine.a.01
-genuí	ADJ	genuine.a.01	genuine.a.01
-bo	ADJ	good.a.01	good.a.01
-dolent	ADJ	bad.a.01	evil.a.01	hostile.a.01	bad.a.01	evil.a.01	hostile.a.01
-mal	ADJ	bad.a.01	evil.a.01	hostile.a.01	bad.a.01	evil.a.01	hostile.a.01
-malvat	ADJ	evil.a.01	hostile.a.01	evil.a.01	hostile.a.01
-gràcil	ADJ	graceful.a.01	graceful.a.01
-gradual	ADJ	gradual.a.01	gradual.a.01
-paulatí	ADJ	gradual.a.01	gradual.a.01
-feliç	ADJ	happy.a.01	happy.a.01
-infeliç	ADJ	unhappy.a.01	unhappy.a.01
-tou	ADJ	soft.a.01	soft.a.01
-despiadat	ADJ	hardhearted.a.01	hardhearted.a.01
-alcohòlic	ADJ	alcoholic.a.01	alcoholic.a.01
-inofensiu	ADJ	harmless.a.01	innocuous.a.01	savory.a.01	harmless.a.01	innocuous.a.01	savory.a.01
-harmoniós	ADJ	harmonious.a.01	harmonious.a.01
-mèdic	ADJ	medical.a.02	aesculapian.a.01	medical.a.01	medical.a.02	aesculapian.a.01	medical.a.01
-operatori	ADJ	surgical.a.02	surgical.a.02
-quirúrgic	ADJ	surgical.a.02	surgical.a.02
-rubicund	ADJ	healthy.a.01	healthy.a.01
-sa	ADJ	healthy.a.01	healthy.a.01
-salubre	ADJ	healthy.a.01	healthy.a.01
-saludable	ADJ	healthy.a.01	healthy.a.01
-malaltís	ADJ	unhealthy.a.01	unhealthy.a.01
-indigerible	ADJ	indigestible.a.01	indigestible.a.01
-indigest	ADJ	indigestible.a.01	indigestible.a.01
-indigestible	ADJ	indigestible.a.01	indigestible.a.01
-lleuger	ADJ	light.a.01	light.a.03	light.a.01	light.a.03
-despistat	ADJ	heedless.a.01	heedless.a.01
-homogeni	ADJ	homogeneous.a.01	homogeneous.a.01
-alt	ADJ	high.a.02	high.a.01	tall.a.01	high.a.02	high.a.01	tall.a.01
-baix	ADJ	low.a.02	low.a.01	low.a.05	short.a.03	low.a.02	low.a.01	low.a.05	short.a.03
-anàleg	ADJ	analogous.a.02	analogous.a.02
-horitzontal	ADJ	horizontal.a.01	horizontal.a.01
-vertical	ADJ	vertical.a.01	vertical.a.01
-erecte	ADJ	erect.a.01	erect.a.01
-calorós	ADJ	hot.a.01	hot.a.01
-fred	ADJ	cold.a.01	cold.a.02	cold.a.01	cold.a.02
-estiuenc	ADJ	summery.a.01	summery.a.01
-estival	ADJ	summery.a.01	summery.a.01
-tardorenc	ADJ	autumnal.a.01	autumnal.a.01
-humà	ADJ	human.a.03	human.a.01	human.a.02	human.a.03	human.a.01	human.a.02
-sobrehumà	ADJ	superhuman.a.01	superhuman.a.01
-precipitat	ADJ	hurried.a.01	hurried.a.01
-identificable	ADJ	identifiable.a.01	identifiable.a.01
-immanent	ADJ	immanent.a.01	immanent.a.01
-subjectiu	ADJ	immanent.a.01	subjective.a.01	immanent.a.01	subjective.a.01
-no_important	ADJ	unimportant.a.01	unimportant.a.01
-sense_importància	ADJ	unimportant.a.01	unimportant.a.01
-inductiu	ADJ	inductive.a.02	inductive.a.02
-deductiu	ADJ	deductive.a.02	deductive.a.02
-industrial	ADJ	industrial.a.02	industrial.a.01	industrial.a.02	industrial.a.01
-infecciós	ADJ	infectious.a.02	septic.a.01	infectious.a.02	septic.a.01
-no_infecciós	ADJ	noninfectious.a.01	noninfectious.a.01
-infernal	ADJ	infernal.a.05	infernal.a.01	infernal.a.05	infernal.a.01
-divulgatiu	ADJ	informative.a.03	informative.a.03
-informatiu	ADJ	informative.a.03	informative.a.03
-desert	ADJ	uninhabited.a.01	uninhabited.a.01
-deshabitat	ADJ	uninhabited.a.01	uninhabited.a.01
-erm	ADJ	uninhabited.a.01	uninhabited.a.01
-inhabitat	ADJ	uninhabited.a.01	uninhabited.a.01
-culpable	ADJ	guilty.a.01	guilty.a.01
-barrejat	ADJ	blended.a.01	blended.a.01
-mesclat	ADJ	blended.a.01	blended.a.01
-combinat	ADJ	combined.a.01	combined.a.01
-intel·lectual	ADJ	intellectual.a.02	intellectual.a.02
-intencionat	ADJ	intended.a.01	intended.a.01
-interessant	ADJ	interesting.a.01	interesting.a.01
-intrínsec	ADJ	intrinsic.a.01	intrinsic.a.01
-extrínsec	ADJ	extrinsic.a.01	extrinsic.a.01
-introspectiu	ADJ	introspective.a.01	introspective.a.01
-cruel	ADJ	unkind.a.01	unkind.a.01
-despietat	ADJ	unkind.a.01	unkind.a.01
-conegut	ADJ	known.a.01	known.a.01
-gran	ADJ	large.a.01	major.a.07	large.a.01	major.a.07
-menut	ADJ	small.a.01	small.a.01
-petit	ADJ	small.a.01	small.a.01
-major	ADJ	greater.a.01	major.a.03	major.a.02	major.a.05	greater.a.01	major.a.03	major.a.02	major.a.05
-legal	ADJ	legal.a.01	legal.a.01
-il·legal	ADJ	illegal.a.01	illegal.a.01
-desigual	ADJ	unlike.a.01	unlike.a.02	unlike.a.01	unlike.a.02
-diferent	ADJ	unlike.a.01	unlike.a.02	different.a.01	dissimilar.a.01	unlike.a.01	unlike.a.02	different.a.01	dissimilar.a.01
-dissimilar	ADJ	unlike.a.01	unlike.a.01
-semblant	ADJ	alike.a.01	similar.a.01	alike.a.01	similar.a.01
-similar	ADJ	alike.a.01	similar.a.01	alike.a.01	similar.a.01
-equivalent	ADJ	like.a.02	like.a.02
-mateix	ADJ	like.a.02	same.a.02	like.a.02	same.a.02
-probable	ADJ	likely.a.01	probable.a.01	likely.a.01	probable.a.01
-improbable	ADJ	unlikely.a.02	improbable.a.01	unlikely.a.02	improbable.a.01
-colateral	ADJ	collateral.a.01	collateral.a.01
-conseqüent	ADJ	logical.a.01	logical.a.01
-lògic	ADJ	logical.a.01	logical.a.01
-extens	ADJ	long.a.02	long.a.01	long.a.02	long.a.01
-llarg	ADJ	long.a.02	long.a.01	long.a.02	long.a.01
-curt	ADJ	short.a.02	short.a.01	short.a.02	short.a.01
-ajustat	ADJ	tight.a.01	tight.a.01
-perdut	ADJ	lost.a.01	lost.a.01
-trobat	ADJ	found.a.01	found.a.01
-adorable	ADJ	lovable.a.01	lovable.a.01
-amable	ADJ	lovable.a.01	lovable.a.01
-simpàtic	ADJ	lovable.a.01	lovable.a.01
-afectuós	ADJ	loving.a.01	loving.a.01
-amorós	ADJ	loving.a.01	loving.a.01
-desfet	ADJ	unmade.a.01	unmade.a.01
-menor	ADJ	minor.a.03	minor.a.02	minor.a.05	minor.a.04	minor.a.01	less.a.01	minor.a.03	minor.a.02	minor.a.05	minor.a.04	minor.a.01	less.a.01
-major_d'edat	ADJ	major.a.07	major.a.07
-més_gran	ADJ	major.a.07	major.a.07
-més_petit	ADJ	minor.a.05	minor.a.05
-casat	ADJ	married.a.01	married.a.01
-solter	ADJ	unmarried.a.01	unmarried.a.01
-madur	ADJ	mature.a.03	mature.a.01	ripe.a.01	mature.a.03	mature.a.01	ripe.a.01
-immadur	ADJ	immature.a.04	green.a.03	immature.a.04	green.a.03
-inmadur	ADJ	immature.a.01	immature.a.01
-immatur	ADJ	green.a.03	green.a.03
-verd	ADJ	green.a.03	green.a.03
-màxim	ADJ	maximal.a.01	maximal.a.01
-mínim	ADJ	minimal.a.01	least.a.01	minimal.a.01	least.a.01
-mecànic	ADJ	mechanical.a.01	mechanical.a.01
-melodiós	ADJ	musical.a.03	musical.a.03
-suau	ADJ	mild.a.01	smooth.a.01	mild.a.01	smooth.a.01
-intens	ADJ	intense.a.01	intense.a.01
-militar	ADJ	military.a.03	military.a.02	military.a.01	military.a.03	military.a.02	military.a.01
-civil	ADJ	civilian.a.01	civil.a.04	civil.a.03	civilian.a.01	civil.a.04	civil.a.03
-mòbil	ADJ	mobile.a.02	mobile.a.02
-metàl·lic	ADJ	metallic.a.01	metallic.a.01
-no_metàlic	ADJ	nonmetallic.a.01	nonmetallic.a.01
-immoderat	ADJ	immoderate.a.01	immoderate.a.01
-modern	ADJ	modern.a.01	modern.a.01
-modest	ADJ	modest.a.01	modest.a.01
-moral	ADJ	moral.a.01	ethical.a.01	moral.a.01	ethical.a.01
-molts	ADJ	many.a.01	many.a.01
-mortal	ADJ	mortal.a.01	mortal.a.01
-immortal	ADJ	immortal.a.01	immortal.a.01
-intercontinental	ADJ	intercontinental.a.01	intercontinental.a.01
-internacional	ADJ	international.a.01	international.a.01
-pròxim	ADJ	proximate.a.01	proximate.a.01
-necessari	ADJ	necessary.a.01	necessary.a.01
-innecessari	ADJ	unnecessary.a.01	unnecessary.a.01
-maco	ADJ	nice.a.01	nice.a.01
-noble	ADJ	noble.a.03	noble.a.02	noble.a.03	noble.a.02
-anormal	ADJ	abnormal.a.01	abnormal.a.01
-meridional	ADJ	south.a.01	southern.a.01	meridional.a.01	south.a.01	southern.a.01	meridional.a.01
-nord	ADJ	northern.a.04	northern.a.04
-septentrional	ADJ	northern.a.04	northern.a.01	northern.a.04	northern.a.01
-desapercebut	ADJ	unnoticed.a.01	unnoticed.a.01
-inadvertit	ADJ	unnoticed.a.01	unnoticed.a.01
-nociu	ADJ	noxious.a.01	noxious.a.01
-tòxic	ADJ	noxious.a.01	noxious.a.01
-innocu	ADJ	innocuous.a.01	innocuous.a.01
-obvi	ADJ	obvious.a.01	obvious.a.01
-oficial	ADJ	official.a.01	official.a.02	official.a.01	official.a.02
-après	ADJ	conditioned.a.01	conditioned.a.01
-condicionat	ADJ	conditioned.a.01	conditioned.a.01
-vell	ADJ	old.a.02	old.a.01	old.a.02	old.a.01
-nou	ADJ	new.a.01	new.a.01
-obert	ADJ	open.a.01	open.a.02	open.a.05	overt.a.01	open.a.01	open.a.02	open.a.05	overt.a.01
-tancat	ADJ	shut.a.01	enclosed.a.01	shut.a.01	enclosed.a.01
-optimista	ADJ	optimistic.a.01	optimistic.a.01
-optimístic	ADJ	optimistic.a.01	optimistic.a.01
-pessimista	ADJ	pessimistic.a.01	pessimistic.a.01
-organitzat	ADJ	organized.a.01	organized.a.01
-inorgànic	ADJ	inorganic.a.01	inorganic.a.02	inorganic.a.01	inorganic.a.02
-original	ADJ	original.a.03	original.a.03
-ras	ADJ	bare.a.04	bare.a.04
-banyar	ADJ	coated.a.01	coated.a.01
-frondós	ADJ	leafy.a.01	leafy.a.01
-fullós	ADJ	leafy.a.01	leafy.a.01
-públic	ADJ	overt.a.01	public.a.01	overt.a.01	public.a.01
-dolorós	ADJ	painful.a.01	painful.a.01
-penós	ADJ	painful.a.01	painful.a.01
-indolor	ADJ	painless.a.02	painless.a.02
-gustós	ADJ	palatable.a.01	palatable.a.01
-saborós	ADJ	palatable.a.01	palatable.a.01
-paral·lel	ADJ	parallel.a.01	parallel.a.01
-perpendicular	ADJ	perpendicular.a.01	perpendicular.a.01
-inexcusable	ADJ	inexcusable.a.01	inexcusable.a.01
-matern	ADJ	parental.a.02	parental.a.02
-maternal	ADJ	parental.a.02	parental.a.02
-patern	ADJ	parental.a.02	paternal.a.01	parental.a.02	paternal.a.01
-paternal	ADJ	parental.a.02	paternal.a.01	parental.a.02	paternal.a.01
-injust	ADJ	partial.a.02	wrong.a.02	partial.a.02	wrong.a.02
-neutral	ADJ	impartial.a.01	impartial.a.01
-apassionat	ADJ	passionate.a.01	passionate.a.01
-fervent	ADJ	passionate.a.01	passionate.a.01
-actual	ADJ	present.a.01	present.a.01
-present	ADJ	present.a.01	present.a.02	present.a.01	present.a.02
-futur	ADJ	future.a.01	future.a.01
-pacient	ADJ	patient.a.01	patient.a.01
-ansiós	ADJ	impatient.a.01	impatient.a.01
-frisós	ADJ	impatient.a.01	impatient.a.01
-impacient	ADJ	impatient.a.01	impatient.a.01
-antipatriòtic	ADJ	unpatriotic.a.01	unpatriotic.a.01
-disgustat	ADJ	penitent.a.01	penitent.a.01
-dolgut	ADJ	penitent.a.01	penitent.a.01
-penedit	ADJ	penitent.a.01	penitent.a.01
-perceptiu	ADJ	perceptive.a.02	perceptive.a.02
-imperceptiu	ADJ	unperceptive.a.01	unperceptive.a.01
-perceptible	ADJ	perceptible.a.01	perceptible.a.01
-imperceptible	ADJ	imperceptible.a.01	imperceptible.a.01
-imperfecte	ADJ	imperfect.a.01	imperfect.a.01
-perible	ADJ	perishable.a.01	perishable.a.01
-estable	ADJ	permanent.a.01	stable.a.01	permanent.a.01	stable.a.01
-permanent	ADJ	permanent.a.01	permanent.a.01
-temporal	ADJ	impermanent.a.01	worldly.a.01	temporal.a.03	temporal.a.02	impermanent.a.01	worldly.a.01	temporal.a.03	temporal.a.02
-durador	ADJ	persistent.a.03	persistent.a.03
-persistent	ADJ	persistent.a.03	persistent.a.03
-irrevocable	ADJ	irrevocable.a.01	irrevocable.a.01
-particular	ADJ	personal.a.01	personal.a.01
-personal	ADJ	personal.a.01	personal.a.05	personal.a.03	personal.a.01	personal.a.05	personal.a.03
-convincent	ADJ	persuasive.a.01	persuasive.a.01
-persuasiu	ADJ	persuasive.a.01	persuasive.a.01
-impermeable	ADJ	impervious.a.01	impervious.a.01
-físic	ADJ	physical.a.01	physical.a.02	physical.a.01	physical.a.02
-religiós	ADJ	religious.a.02	religious.a.02
-antipàtic	ADJ	unpleasant.a.01	unpleasant.a.01
-punxegut	ADJ	pointed.a.01	pointed.a.01
-punxent	ADJ	pointed.a.01	pointed.a.01
-rom	ADJ	pointless.a.01	pointless.a.01
-obtús	ADJ	obtuse.a.01	obtuse.a.01
-sensat	ADJ	politic.a.01	politic.a.01
-polític	ADJ	political.a.01	political.a.02	political.a.03	political.a.01	political.a.02	political.a.03
-popular	ADJ	popular.a.01	popular.a.01
-positiu	ADJ	positive.a.01	positive.a.01
-útil	ADJ	positive.a.01	useful.a.01	positive.a.01	useful.a.01
-feble	ADJ	powerless.a.01	powerless.a.01
-fluix	ADJ	powerless.a.01	powerless.a.01
-incult	ADJ	uncultivated.a.01	uncultivated.a.01
-precoç	ADJ	precocious.a.01	precocious.a.01
-predicible	ADJ	predictable.a.01	predictable.a.01
-previsible	ADJ	predictable.a.01	predictable.a.01
-impredecible	ADJ	unpredictable.a.01	unpredictable.a.01
-absent	ADJ	absent.a.01	absent.a.01
-fastuós	ADJ	ostentatious.a.01	ostentatious.a.01
-ostentós	ADJ	ostentatious.a.01	ostentatious.a.01
-pretenciós	ADJ	ostentatious.a.01	ostentatious.a.01
-primari	ADJ	primary.a.01	primary.a.01
-secundari	ADJ	secondary.a.01	secondary.a.01
-bàsic	ADJ	basic.a.01	basic.a.01
-circumstancial	ADJ	incidental.a.01	incidental.a.01
-incidental	ADJ	incidental.a.01	incidental.a.01
-privat	ADJ	private.a.01	private.a.01
-productor	ADJ	productive.a.01	productive.a.01
-generatiu	ADJ	generative.a.01	generative.a.01
-professional	ADJ	professional.a.01	professional.a.03	professional.a.04	professional.a.02	vocational.a.01	professional.a.01	professional.a.03	professional.a.04	professional.a.02	vocational.a.01
-llec	ADJ	nonprofessional.a.01	nonprofessional.a.01
-fondo	ADJ	profound.a.01	profound.a.01
-pregon	ADJ	profound.a.01	profound.a.01
-profund	ADJ	profound.a.01	profound.a.01
-superficial	ADJ	superficial.a.01	superficial.a.02	superficial.a.01	superficial.a.02
-insensat	ADJ	imprudent.a.01	imprudent.a.01
-impune	ADJ	unpunished.a.01	unpunished.a.01
-híbrid	ADJ	crossbred.a.01	crossbred.a.01
-pur	ADJ	pure.a.01	pure.a.01
-no_qualificat	ADJ	unqualified.a.02	unqualified.a.02
-ensinistrat	ADJ	trained.a.01	trained.a.01
-entrenat	ADJ	trained.a.01	trained.a.01
-inexpert	ADJ	untrained.a.01	untrained.a.01
-qüestionable	ADJ	questionable.a.01	questionable.a.01
-escandalós	ADJ	noisy.a.01	noisy.a.01
-sorollós	ADJ	noisy.a.01	noisy.a.01
-relaxant	ADJ	restful.a.01	restful.a.01
-aleatori	ADJ	random.a.01	random.a.01
-emotiu	ADJ	emotional.a.01	emotional.a.01
-cerebral	ADJ	cerebral.a.01	cerebral.a.02	cerebral.a.01	cerebral.a.02
-intelectual	ADJ	cerebral.a.01	cerebral.a.01
-mutu	ADJ	reciprocal.a.01	reciprocal.a.01
-recíproc	ADJ	reciprocal.a.01	reciprocal.a.01
-refinat	ADJ	refined.a.02	refined.a.02
-registrat	ADJ	registered.a.02	registered.a.02
-regular	ADJ	regular.a.01	regular.a.01
-irregular	ADJ	irregular.a.01	irregular.a.03	irregular.a.01	irregular.a.03
-corregible	ADJ	reparable.a.01	reparable.a.01
-esmenable	ADJ	reparable.a.01	reparable.a.01
-rectificable	ADJ	reparable.a.01	reparable.a.01
-invariable	ADJ	uniform.a.01	invariable.a.01	uniform.a.01	invariable.a.01
-uniforme	ADJ	uniform.a.01	uniform.a.01
-periòdic	ADJ	periodic.a.01	periodic.a.01
-aperiòdic	ADJ	aperiodic.a.01	aperiodic.a.01
-connectat	ADJ	related.a.02	related.a.01	related.a.02	related.a.01
-relacionat	ADJ	related.a.02	related.a.01	related.a.02	related.a.01
-rellevant	ADJ	relevant.a.01	relevant.a.01
-invàlid	ADJ	irrelevant.a.01	irrelevant.a.01
-irrellevant	ADJ	irrelevant.a.01	irrelevant.a.01
-insubstituïble	ADJ	irreplaceable.a.01	irreplaceable.a.01
-representatiu	ADJ	representative.a.02	representative.a.02
-irresolut	ADJ	irresolute.a.01	irresolute.a.01
-responsable	ADJ	responsible.a.01	responsible.a.01
-reflectit	ADJ	reflected.a.01	reflected.a.01
-reflex	ADJ	reflected.a.01	reflected.a.01
-revolucionari	ADJ	revolutionary.a.04	revolutionary.a.04
-ric	ADJ	rich.a.01	rich.a.02	rich.a.01	rich.a.02
-cornut	ADJ	horned.a.01	horned.a.01
-robust	ADJ	robust.a.01	robust.a.01
-circular	ADJ	round.a.01	round.a.01
-rodó	ADJ	round.a.01	round.a.01
-arrodonit	ADJ	rounded.a.01	rounded.a.01
-angular	ADJ	angular.a.02	angular.a.01	angular.a.02	angular.a.01
-angulós	ADJ	angular.a.02	angular.a.02
-rural	ADJ	rural.a.01	rural.a.02	rural.a.01	rural.a.02
-urbà	ADJ	urban.a.02	urban.a.01	urban.a.02	urban.a.01
-sagrat	ADJ	holy.a.01	holy.a.01
-sant	ADJ	holy.a.01	holy.a.01
-distint	ADJ	different.a.01	different.a.01
-sarcàstic	ADJ	sarcastic.a.01	sarcastic.a.01
-satisfactori	ADJ	satisfactory.a.01	satisfactory.a.01
-científic	ADJ	scientific.a.02	scientific.a.01	scientific.a.02	scientific.a.01
-conscienciós	ADJ	conscientious.a.02	conscientious.a.02
-fixat	ADJ	fastened.a.01	fastened.a.01
-subjecte	ADJ	fastened.a.01	fastened.a.01
-conjunt	ADJ	joint.a.01	joint.a.01
-higiènic	ADJ	sanitary.a.01	sanitary.a.01
-antihigiènic	ADJ	unsanitary.a.01	unsanitary.a.01
-sèptic	ADJ	septic.a.01	septic.a.01
-antisèptic	ADJ	antiseptic.a.01	antiseptic.a.01
-seriós	ADJ	serious.a.01	serious.a.01
-frívol	ADJ	frivolous.a.01	frivolous.a.01
-establert	ADJ	settled.a.02	settled.a.02
-situat	ADJ	settled.a.02	settled.a.02
-sexual	ADJ	sexual.a.02	sexual.a.01	sexual.a.02	sexual.a.01
-asexual	ADJ	asexual.a.01	asexual.a.01
-afrodisíac	ADJ	aphrodisiac.a.01	aphrodisiac.a.01
-sexy	ADJ	aphrodisiac.a.01	aphrodisiac.a.01
-format	ADJ	formed.a.01	formed.a.01
-informe	ADJ	unformed.a.01	unformed.a.01
-significant	ADJ	significant.a.01	significant.a.01
-simple	ADJ	simple.a.01	simple.a.01
-complex	ADJ	complex.a.01	complex.a.01
-múltiple	ADJ	multiple.a.01	multiple.a.01
-matemàtic	ADJ	numerical.a.03	mathematical.a.01	numerical.a.03	mathematical.a.01
-relliscós	ADJ	slippery.a.01	slippery.a.01
-rellisquent	ADJ	slippery.a.01	slippery.a.01
-aspre	ADJ	rough.a.01	rough.a.01
-dentat	ADJ	rough.a.08	rough.a.08
-denticulat	ADJ	rough.a.08	rough.a.08
-social	ADJ	social.a.02	social.a.02
-sol	ADJ	unaccompanied.a.01	unaccompanied.a.01
-gregari	ADJ	gregarious.a.01	gregarious.a.01
-esquerp	ADJ	unsociable.a.01	unsociable.a.01
-esquiu	ADJ	unsociable.a.01	unsociable.a.01
-insocial	ADJ	unsociable.a.01	unsociable.a.01
-retret	ADJ	unsociable.a.01	unsociable.a.01
-sòlid	ADJ	solid.a.02	solid.a.02
-massís	ADJ	solid.a.03	solid.a.03
-càndid	ADJ	naive.a.01	naive.a.01
-especialitzat	ADJ	specialized.a.01	specialized.a.01
-espontani	ADJ	spontaneous.a.01	spontaneous.a.01
-induït	ADJ	induced.a.01	induced.a.01
-inestable	ADJ	unstable.a.01	unstable.a.01
-constel·lat	ADJ	starry.a.01	starry.a.01
-estrellat	ADJ	starry.a.01	starry.a.01
-corb	ADJ	curved.a.01	curved.a.01
-corbat	ADJ	curved.a.01	curved.a.01
-fort	ADJ	strong.a.01	strong.a.01
-obstinat	ADJ	stubborn.a.01	stubborn.a.01
-pertinaç	ADJ	stubborn.a.01	stubborn.a.01
-tossut	ADJ	stubborn.a.01	stubborn.a.01
-pròsper	ADJ	successful.a.01	successful.a.01
-prosperós	ADJ	successful.a.01	successful.a.01
-venturós	ADJ	successful.a.01	successful.a.01
-suficient	ADJ	sufficient.a.01	sufficient.a.01
-deficient	ADJ	insufficient.a.01	insufficient.a.01
-insuficient	ADJ	insufficient.a.01	insufficient.a.01
-ensucrat	ADJ	sugary.a.01	sugary.a.01
-superior	ADJ	superior.a.02	superior.a.01	top.a.01	superior.a.02	superior.a.01	top.a.01
-inferior	ADJ	inferior.a.01	inferior.a.02	inferior.a.01	inferior.a.02
-sorprenent	ADJ	surprising.a.01	surprising.a.01
-xocant	ADJ	surprising.a.01	surprising.a.01
-susceptible	ADJ	susceptible.a.01	susceptible.a.01
-immune	ADJ	unsusceptible.a.01	unsusceptible.a.01
-dolç	ADJ	sweet.a.07	sweet.a.01	sweet.a.07	sweet.a.01
-àcid	ADJ	sour.a.02	sour.a.02
-insospitat	ADJ	unsuspected.a.01	unsuspected.a.01
-asimètric	ADJ	asymmetrical.a.01	asymmetrical.a.01
-síncron	ADJ	synchronous.a.01	synchronous.a.01
-asíncron	ADJ	asynchronous.a.02	asynchronous.a.02
-sistemàtic	ADJ	systematic.a.01	systematic.a.01
-insuls	ADJ	tasteless.a.01	tasteless.a.01
-frugal	ADJ	temperate.a.02	temperate.a.02
-temperat	ADJ	temperate.a.02	temperate.a.02
-rigorós	ADJ	intemperate.a.01	intemperate.a.01
-lax	ADJ	lax.a.03	lax.a.02	lax.a.03	lax.a.02
-espès	ADJ	thick.a.01	thick.a.03	thick.a.01	thick.a.03
-gros	ADJ	thick.a.01	thick.a.01
-impensable	ADJ	unthinkable.a.01	unthinkable.a.01
-inconcebible	ADJ	unthinkable.a.01	unthinkable.a.01
-inaguantable	ADJ	intolerable.a.01	intolerable.a.01
-insofrible	ADJ	intolerable.a.01	intolerable.a.01
-insuportable	ADJ	intolerable.a.01	intolerable.a.01
-intolerable	ADJ	intolerable.a.01	intolerable.a.01
-irresistible	ADJ	intolerable.a.01	intolerable.a.01
-indulgent	ADJ	tolerant.a.01	tolerant.a.01
-tolerant	ADJ	tolerant.a.01	tolerant.a.01
-lateral	ADJ	side.a.01	side.a.01
-tendre	ADJ	tender.a.01	tender.a.01
-fals	ADJ	false.a.01	false.a.01
-atípic	ADJ	atypical.a.01	atypical.a.01
-submergible	ADJ	submersible.a.01	submersible.a.01
-sindical	ADJ	union.a.02	union.a.02
-sindicalista	ADJ	union.a.02	union.a.02
-ascendent	ADJ	ascending.a.01	ascending.a.01
-ungulat	ADJ	ungulate.a.01	ungulate.a.01
-aixecat	ADJ	up.a.01	up.a.01
-cèntric	ADJ	downtown.a.01	downtown.a.01
-vàlid	ADJ	valid.a.01	valid.a.01
-variat	ADJ	varied.a.01	varied.a.01
-visible	ADJ	visible.a.01	visible.a.01
-voluntari	ADJ	voluntary.a.01	voluntary.a.02	voluntary.a.01	voluntary.a.02
-involuntari	ADJ	involuntary.a.02	involuntary.a.02
-càlid	ADJ	warm.a.02	warm.a.03	warm.a.02	warm.a.03
-benvingut	ADJ	welcome.a.01	welcome.a.01
-sà	ADJ	well.a.01	well.a.01
-malalt	ADJ	ill.a.01	ill.a.01
-humit	ADJ	wet.a.01	wet.a.01
-moll	ADJ	wet.a.01	wet.a.01
-xopat	ADJ	wet.a.01	wet.a.01
-sec	ADJ	dry.a.01	dry.a.01
-hidratant	ADJ	hydrous.a.01	hydrous.a.01
-hidratat	ADJ	hydrous.a.01	hydrous.a.01
-oficinista	ADJ	white-collar.a.01	white-collar.a.01
-ample	ADJ	wide.a.01	wide.a.01
-insignificant	ADJ	narrow.a.04	narrow.a.04
-marginal	ADJ	narrow.a.04	narrow.a.04
-llenyós	ADJ	woody.a.01	woody.a.01
-florent	ADJ	flowering.a.01	flowering.a.01
-florescent	ADJ	flowering.a.01	flowering.a.01
-vegetal	ADJ	vegetal.a.01	vegetal.a.01
-vegetatiu	ADJ	vegetal.a.01	vegetal.a.01
-asfàltic	ADJ	asphaltic.a.01	asphaltic.a.01
-acadèmic	ADJ	academic.a.01	academic.a.01
-adolescent	ADJ	adolescent.a.01	adolescent.a.01
-albanès	ADJ	albanian.a.01	albanian.a.01
-al·lèrgic	ADJ	allergic.a.01	allergic.a.01
-alfanumèric	ADJ	alphanumeric.a.01	alphanumeric.a.01
-alveolar	ADJ	alveolar.a.01	alveolar.a.02	alveolar.a.01	alveolar.a.02
-amoníac	ADJ	ammoniac.a.01	ammoniac.a.01
-anarquista	ADJ	anarchistic.a.01	anarchistic.a.01
-arterial	ADJ	arterial.a.01	arterial.a.01
-avuncular	ADJ	avuncular.a.01	avuncular.a.01
-axil·lar	ADJ	axillary.a.02	axillary.a.02
-bibliogràfic	ADJ	bibliographic.a.01	bibliographic.a.01
-bibliòfil	ADJ	bibliolatrous.a.01	bibliolatrous.a.01
-biliar	ADJ	bilious.a.01	bilious.a.01
-binari	ADJ	binary.a.01	binary.a.01
-bioquímic	ADJ	biochemical.a.01	biochemical.a.01
-bucal	ADJ	buccal.a.01	oral.a.02	buccal.a.01	oral.a.02
-calcari	ADJ	calcareous.a.01	calcareous.a.01
-cancerigen	ADJ	carcinogenic.a.01	carcinogenic.a.01
-carcinogen	ADJ	carcinogenic.a.01	carcinogenic.a.01
-bisbal	ADJ	cathedral.a.01	cathedral.a.01
-episcopal	ADJ	cathedral.a.01	cathedral.a.01
-celeste	ADJ	celestial.a.02	celestial.a.02
-celestial	ADJ	celestial.a.02	celestial.a.01	celestial.a.02	celestial.a.01
-benèfic	ADJ	charitable.a.01	charitable.a.01
-químic	ADJ	chemical.a.01	chemical.a.02	chemical.a.01	chemical.a.02
-ciutadà	ADJ	civic.a.01	civic.a.01
-municipal	ADJ	municipal.a.01	municipal.a.01
-clerical	ADJ	clerical.a.02	clerical.a.01	clerical.a.02	clerical.a.01
-eclesiàstic	ADJ	clerical.a.02	clerical.a.01	ecclesiastical.a.01	clerical.a.02	clerical.a.01	ecclesiastical.a.01
-comunal	ADJ	communal.a.02	communal.a.02
-comunitari	ADJ	communal.a.02	communal.a.02
-compost	ADJ	composite.a.02	composite.a.02
-contractual	ADJ	contractual.a.01	contractual.a.01
-culinari	ADJ	culinary.a.01	culinary.a.01
-dental	ADJ	dental.a.01	dental.a.01
-dentari	ADJ	dental.a.01	dental.a.01
-diferencial	ADJ	differential.a.01	differential.a.01
-dactilar	ADJ	digital.a.02	digital.a.02
-econòmic	ADJ	economic.a.02	economic.a.01	economic.a.02	economic.a.01
-editorial	ADJ	editorial.a.02	editorial.a.02
-electrònic	ADJ	electronic.a.01	electronic.a.02	electronic.a.01	electronic.a.02
-federal	ADJ	federal.a.02	federal.a.02
-fèrric	ADJ	ferric.a.01	ferric.a.01
-ferrós	ADJ	ferric.a.01	ferric.a.01
-ferruginós	ADJ	ferric.a.01	ferric.a.01
-fòrmic	ADJ	formic.a.02	formic.a.01	formic.a.02	formic.a.01
-estomacal	ADJ	gastric.a.01	gastric.a.01
-gàstric	ADJ	gastric.a.01	gastric.a.01
-genèric	ADJ	generic.a.01	generic.a.01
-hepàtic	ADJ	hepatic.a.01	hepatic.a.01
-heroic	ADJ	heroic.a.02	heroic.a.02
-hexagonal	ADJ	hexangular.a.01	hexangular.a.01
-illenc	ADJ	insular.a.01	insular.a.01
-insular	ADJ	insular.a.01	insular.a.01
-judicial	ADJ	judicial.a.03	judicial.a.02	judicial.a.03	judicial.a.02
-jurídic	ADJ	judicial.a.03	legal.a.04	judicial.a.03	legal.a.04
-jurisprudencial	ADJ	legal.a.02	legal.a.02
-labial	ADJ	labial.a.01	labial.a.01
-neonatal	ADJ	neonatal.a.01	neonatal.a.01
-numeral	ADJ	numeral.a.01	numeral.a.01
-numèric	ADJ	numeral.a.01	numeral.a.01
-parlamentari	ADJ	parliamentary.a.01	parliamentary.a.01
-torbós	ADJ	peaty.a.01	peaty.a.01
-positivista	ADJ	positivist.a.01	positivist.a.01
-provincial	ADJ	provincial.a.01	provincial.a.01
-republicà	ADJ	republican.a.01	republican.a.01
-agrícola	ADJ	agricultural.a.01	agricultural.a.01
-sensorial	ADJ	sensational.a.03	sensational.a.03
-en_sèrie	ADJ	serial.a.03	serial.a.03
-esfèric	ADJ	spherical.a.01	spherical.a.01
-simptomàtic	ADJ	symptomatic.a.02	symptomatic.a.02
-tecnològic	ADJ	technical.a.03	technical.a.03
-templar	ADJ	temporal.a.03	temporal.a.03
-terminal	ADJ	terminal.a.02	terminal.a.02
-temàtic	ADJ	thematic.a.02	thematic.a.02
-calòric	ADJ	thermal.a.01	thermal.a.01
-calorífic	ADJ	thermal.a.01	thermal.a.01
-termal	ADJ	thermal.a.01	thermal.a.01
-tèrmic	ADJ	thermal.a.01	thermal.a.01
-totalitari	ADJ	totalitarian.a.02	totalitarian.a.02
-vacuolat	ADJ	vacuolate.a.01	vacuolate.a.01
-vocal	ADJ	vocal.a.02	vocal.a.01	vocal.a.02	vocal.a.01
-instrumental	ADJ	instrumental.a.01	instrumental.a.01
-volcànic	ADJ	volcanic.a.01	volcanic.a.01
-elèctric	ADJ	electrical.a.01	electric.a.01	electrical.a.01	electric.a.01
-hidroelèctric	ADJ	hydroelectric.a.01	hydroelectric.a.01
-legislatiu	ADJ	legislative.a.02	legislative.a.01	legislative.a.02	legislative.a.01
-longitudinal	ADJ	longitudinal.a.01	longitudinal.a.01
-literari	ADJ	literary.a.01	literary.a.01
-limfàtic	ADJ	lymphatic.a.01	lymphatic.a.01
-atmosfèric	ADJ	atmospheric.a.01	atmospheric.a.01
-fungós	ADJ	fungal.a.01	fungal.a.01
-bacterià	ADJ	bacterial.a.01	bacterial.a.01
-radial	ADJ	radial.a.03	radial.a.02	radial.a.01	radial.a.03	radial.a.02	radial.a.01
-fotogràfic	ADJ	photographic.a.01	photographic.a.01
-neumàtic	ADJ	pneumatic.a.01	pneumatic.a.01
-feminista	ADJ	feminist.a.01	feminist.a.01
-umbilical	ADJ	umbilical.a.01	umbilical.a.01
-semàntic	ADJ	semantic.a.01	semantic.a.01
-cardíac	ADJ	cardiac.a.01	cardiac.a.01
-cranial	ADJ	cranial.a.01	cranial.a.01
-cònic	ADJ	conic.a.01	conic.a.01
-dominical	ADJ	dominical.a.02	dominical.a.02
-floral	ADJ	floral.a.03	floral.a.02	floral.a.03	floral.a.02
-fiscal	ADJ	fiscal.a.01	fiscal.a.01
-marital	ADJ	marital.a.01	marital.a.01
-matrimonial	ADJ	marital.a.01	marital.a.01
-vinós	ADJ	vinous.a.01	vinous.a.01
-polimorf	ADJ	polymorphic.a.02	polymorphous.a.01	polymorphic.a.02	polymorphous.a.01
-polimòrfic	ADJ	polymorphic.a.02	polymorphous.a.01	polymorphic.a.02	polymorphous.a.01
-patològic	ADJ	pathological.a.01	pathological.a.01
-òptic	ADJ	optical.a.01	ocular.a.02	ocular.a.01	optical.a.01	ocular.a.02	ocular.a.01
-monumental	ADJ	monumental.a.01	monumental.a.01
-ocular	ADJ	ocular.a.02	ocular.a.01	ocular.a.02	ocular.a.01
-visual	ADJ	ocular.a.02	ocular.a.02
-angèlic	ADJ	angelic.a.02	angelic.a.02
-angelical	ADJ	angelic.a.02	angelic.a.02
-vascular	ADJ	vascular.a.01	vascular.a.01
-coral	ADJ	choral.a.01	choral.a.01
-comunista	ADJ	communist.a.01	communist.a.01
-cutani	ADJ	cutaneous.a.01	cutaneous.a.01
-papal	ADJ	papal.a.01	papal.a.01
-viral	ADJ	viral.a.01	viral.a.01
-víric	ADJ	viral.a.01	viral.a.01
-sintàctic	ADJ	syntactic.a.01	syntactic.a.01
-felí	ADJ	feline.a.01	feline.a.01
-muscular	ADJ	muscular.a.01	muscular.a.01
-nefrític	ADJ	nephritic.a.02	nephritic.a.02
-renal	ADJ	nephritic.a.02	nephritic.a.02
-espinal	ADJ	spinal.a.01	spinal.a.01
-clínico	ADJ	clinical.a.01	clinical.a.01
-lèxic	ADJ	lexical.a.01	lexical.a.02	lexical.a.01	lexical.a.02
-litoral	ADJ	littoral.a.01	littoral.a.01
-marí	ADJ	nautical.a.01	nautical.a.01
-marítim	ADJ	nautical.a.01	nautical.a.01
-nàutic	ADJ	nautical.a.01	nautical.a.01
-oceànic	ADJ	oceanic.a.01	oceanic.a.01
-fetal	ADJ	fetal.a.01	fetal.a.01
-documental	ADJ	documentary.a.01	documentary.a.01
-mucós	ADJ	mucous.a.01	mucoid.a.01	mucous.a.01	mucoid.a.01
-administratiu	ADJ	administrative.a.01	managerial.a.01	administrative.a.01	managerial.a.01
-nerviós	ADJ	nervous.a.03	nervous.a.03
-bionòmic	ADJ	ecological.a.02	ecological.a.02
-ecològic	ADJ	ecological.a.02	ecological.a.02
-computacional	ADJ	computational.a.01	computational.a.01
-astrofísic	ADJ	astrophysical.a.01	astrophysical.a.01
-terapèutic	ADJ	therapeutic.a.02	therapeutic.a.02
-fatxa	ADJ	fascist.a.01	fascist.a.01
-feixista	ADJ	fascist.a.01	fascist.a.01
-catòlic	ADJ	catholic.a.01	catholic.a.01
-romà	ADJ	roman.a.01	roman.a.01
-evangèlic	ADJ	evangelical.a.01	evangelical.a.01
-hindustànic	ADJ	hindu.a.01	hindu.a.01
-indostànic	ADJ	hindu.a.01	hindu.a.01
-escultòric	ADJ	sculptural.a.01	sculptural.a.01
-escultural	ADJ	sculptural.a.01	sculptural.a.01
-cervical	ADJ	cervical.a.01	cervical.a.01
-americà	ADJ	american.a.02	american.a.01	american.a.02	american.a.01
-nord-americà	ADJ	american.a.01	north_american.a.01	american.a.01	north_american.a.01
-indi	ADJ	indian.a.02	indian.a.01	indian.a.02	indian.a.01
-hindú	ADJ	indian.a.01	indian.a.01
-sud-americà	ADJ	south_american.a.01	south_american.a.01
-asimptòtic	ADJ	asymptotic.a.01	asymptotic.a.01
-subtropical	ADJ	subtropical.a.01	subtropical.a.01
-abdominal	ADJ	abdominal.a.01	abdominal.a.01
-hemisfèric	ADJ	hemispheric.a.01	hemispheric.a.01
-pulmonar	ADJ	pneumonic.a.02	pneumonic.a.02
-adverbial	ADJ	adverbial.a.01	adverbial.a.01
-coreogràfic	ADJ	choreographic.a.01	choreographic.a.01
-africà	ADJ	african.a.01	african.a.01
-ambiental	ADJ	environmental.a.02	environmental.a.01	environmental.a.02	environmental.a.01
-prehistòric	ADJ	prehistoric.a.02	prehistoric.a.02
-bronquial	ADJ	bronchial.a.01	bronchial.a.01
-italià	ADJ	italian.a.01	italian.a.01
-rus	ADJ	russian.a.01	russian.a.01
-alemany	ADJ	german.a.01	german.a.01
-britànic	ADJ	britannic.a.01	british.a.01	briton.a.01	britannic.a.01	british.a.01	briton.a.01
-francès	ADJ	french.a.01	french.a.01
-espanyol	ADJ	spanish.a.01	spanish.a.01
-hispànic	ADJ	spanish.a.01	spanish.a.01
-ibèric	ADJ	iberian.a.01	iberian.a.01
-lusità	ADJ	portuguese.a.01	portuguese.a.01
-portugués	ADJ	portuguese.a.01	portuguese.a.01
-finlandés	ADJ	finnish.a.01	finnish.a.01
-suec	ADJ	swedish.a.01	swedish.a.01
-noruec	ADJ	norwegian.a.01	norwegian.a.01
-danès	ADJ	danish.a.01	danish.a.01
-belga	ADJ	belgian.a.01	belgian.a.01
-holandès	ADJ	dutch.a.01	dutch.a.01
-neerlandès	ADJ	dutch.a.01	dutch.a.01
-luxemburguès	ADJ	luxembourgian.a.01	luxemburger.a.02	luxemburger.a.01	luxembourgian.a.01	luxemburger.a.02	luxemburger.a.01
-suís	ADJ	swiss.a.01	swiss.a.01
-austríac	ADJ	austrian.a.01	austrian.a.01
-polonès	ADJ	polish.a.01	polish.a.01
-hongarès	ADJ	hungarian.a.01	hungarian.a.01
-magiar	ADJ	hungarian.a.01	hungarian.a.01
-txec	ADJ	czech.a.01	czech.a.01
-txecoslovac	ADJ	czech.a.01	czech.a.01
-iugoslau	ADJ	yugoslavian.a.01	yugoslavian.a.01
-romanès	ADJ	romanian.a.01	romanian.a.01
-letó	ADJ	latvian.a.01	latvian.a.01
-serbi	ADJ	serbian.a.01	serbian.a.01
-xinès	ADJ	chinese.a.01	chinese.a.01
-japonès	ADJ	japanese.a.01	japanese.a.01
-nipó	ADJ	japanese.a.01	japanese.a.01
-peruà	ADJ	peruvian.a.01	peruvian.a.01
-ecuatorià	ADJ	ecuadorian.a.01	ecuadorian.a.01
-panameny	ADJ	panamanian.a.01	panamanian.a.01
-veneçolà	ADJ	venezuelan.a.01	venezuelan.a.01
-brasiler	ADJ	brazilian.a.01	brazilian.a.01
-argentí	ADJ	argentine.a.01	argentine.a.01
-paraguaià	ADJ	paraguayan.a.01	paraguayan.a.01
-uruguaià	ADJ	uruguayan.a.01	uruguayan.a.01
-bolivià	ADJ	bolivian.a.01	bolivian.a.01
-colombià	ADJ	colombian.a.01	colombian.a.01
-europeu	ADJ	european.a.01	european.a.01
-salvadorenc	ADJ	salvadoran.a.01	salvadoran.a.01
-salvadoreny	ADJ	salvadoran.a.01	salvadoran.a.01
-cubà	ADJ	cuban.a.01	cuban.a.01
-bàvar	ADJ	bavarian.a.01	bavarian.a.01
-napolità	ADJ	neapolitan.a.01	neapolitan.a.01
-milanès	ADJ	milanese.a.01	milanese.a.01
-egipci	ADJ	egyptian.a.01	egyptian.a.01
-egipcià	ADJ	egyptian.a.01	egyptian.a.01
-israelià	ADJ	israeli.a.01	israeli.a.01
-palestí	ADJ	palestinian.a.01	palestinian.a.01
-cortical	ADJ	cortical.a.01	cortical.a.01
-gastronòmic	ADJ	gastronomic.a.01	gastronomic.a.01
-nasal	ADJ	rhinal.a.01	rhinal.a.01
-retinal	ADJ	retinal.a.01	retinal.a.01
-congresional	ADJ	congressional.a.01	congressional.a.01
-canadenc	ADJ	canadian.a.01	canadian.a.01
-necròtic	ADJ	necrotic.a.01	necrotic.a.01
-hipotalàmic	ADJ	hypothalamic.a.01	hypothalamic.a.01
-emocional	ADJ	emotional.a.03	emotional.a.03
-corporatiu	ADJ	corporate.a.01	corporate.a.01
-naturista	ADJ	naturistic.a.01	naturistic.a.01
-nudista	ADJ	naturistic.a.01	naturistic.a.01
-medieval	ADJ	medieval.a.01	medieval.a.01
-marbrenc	ADJ	marmorean.a.01	marmorean.a.01
-marmori	ADJ	marmorean.a.01	marmorean.a.01
-quadrimestral	ADJ	quarterly.a.01	quarterly.a.01
-rotatiu	ADJ	rotary.a.01	rotary.a.01
-rotatori	ADJ	rotary.a.01	rotary.a.01
-osmòtic	ADJ	osmotic.a.01	osmotic.a.01
-anglès	ADJ	english.a.01	english.a.01
-centreamericà	ADJ	central_american.a.01	central_american.a.01
-ceri	ADJ	waxen.a.01	waxen.a.01
-cerós	ADJ	waxen.a.01	waxen.a.01
-glomerular	ADJ	glomerular.a.01	glomerular.a.01
-vertebral	ADJ	vertebral.a.01	vertebral.a.01
-miocardíac	ADJ	myocardial.a.01	myocardial.a.01
-flagel·lat	ADJ	flagellate.a.01	flagellate.a.01
-grec	ADJ	greek.a.01	greek.a.01
-hel·lè	ADJ	greek.a.01	greek.a.01
-hel·lènic	ADJ	greek.a.01	greek.a.01
-siri	ADJ	syrian.a.01	syrian.a.01
-sirià	ADJ	syrian.a.01	syrian.a.01
-siríac	ADJ	syrian.a.01	syrian.a.01
-mitral	ADJ	mitral.a.01	mitral.a.01
-parisenc	ADJ	parisian.a.01	parisian.a.01
-turc	ADJ	turkish.a.01	turkish.a.01
-marroquí	ADJ	moroccan.a.01	moroccan.a.01
-alpí	ADJ	alpine.a.02	alpine.a.01	alpine.a.02	alpine.a.01
-andí	ADJ	andean.a.01	andean.a.01
-mexicà	ADJ	mexican.a.01	mexican.a.01
-angolès	ADJ	angolan.a.01	angolan.a.01
-àrab	ADJ	arabian.a.02	arabian.a.01	arabic.a.01	arabian.a.02	arabian.a.01	arabic.a.01
-aràbic	ADJ	arabian.a.02	arabian.a.01	arabian.a.02	arabian.a.01
-aritmètic	ADJ	arithmetical.a.01	arithmetical.a.01
-australià	ADJ	australian.a.01	australian.a.01
-benedictí	ADJ	benedictine.a.02	benedictine.a.02
-camerunès	ADJ	cameroonian.a.01	cameroonian.a.01
-català	ADJ	catalan.a.02	catalan.a.01	catalan.a.02	catalan.a.01
-climàtic	ADJ	climatic.a.01	climatic.a.01
-concessiu	ADJ	concessive.a.01	concessive.a.01
-costa-riqueny	ADJ	costa_rican.a.01	costa_rican.a.01
-etíop	ADJ	ethiopian.a.01	ethiopian.a.01
-etiòpic	ADJ	ethiopian.a.01	ethiopian.a.01
-feudal	ADJ	feudatory.a.01	feudatory.a.01
-filipí	ADJ	filipino.a.01	filipino.a.01
-tagàlog	ADJ	filipino.a.01	filipino.a.01
-flamenc	ADJ	flemish.a.01	flemish.a.01
-franciscà	ADJ	franciscan.a.01	franciscan.a.01
-gal	ADJ	gallic.a.01	gallic.a.01
-gàl·lic	ADJ	gallic.a.01	gallic.a.01
-granadí	ADJ	grenadian.a.01	grenadian.a.01
-guatemalenc	ADJ	guatemalan.a.01	guatemalan.a.01
-guineà	ADJ	guinean.a.01	guinean.a.01
-hispà	ADJ	hispanic.a.01	hispanic.a.01
-iranià	ADJ	iranian.a.01	iranian.a.01
-iraquià	ADJ	iraqi.a.01	iraqi.a.01
-jesuïta	ADJ	jesuitical.a.01	jesuitical.a.01
-jesuític	ADJ	jesuitical.a.01	jesuitical.a.01
-llatí	ADJ	latin.a.01	latin.a.04	latin.a.02	latin.a.01	latin.a.04	latin.a.02
-llatina	ADJ	romance.a.01	romance.a.01
-romanç	ADJ	romance.a.01	romance.a.01
-romànica	ADJ	romance.a.01	romance.a.01
-libanès	ADJ	lebanese.a.01	lebanese.a.01
-llevantí	ADJ	levantine.a.01	levantine.a.01
-liberià	ADJ	liberian.a.01	liberian.a.01
-mediterrani	ADJ	mediterranean.a.01	mediterranean.a.01
-membranós	ADJ	membranous.a.01	membranous.a.01
-mentolat	ADJ	mentholated.a.01	mentholated.a.01
-neolític	ADJ	neolithic.a.01	neolithic.a.01
-paleolític	ADJ	paleolithic.a.01	paleolithic.a.01
-nicaragüenc	ADJ	nicaraguan.a.01	nicaraguan.a.01
-nicaragüeny	ADJ	nicaraguan.a.01	nicaraguan.a.01
-olímpic	ADJ	olympic.a.01	olympian.a.02	olympian.a.01	olympic.a.01	olympian.a.02	olympian.a.01
-peninsular	ADJ	peninsular.a.01	peninsular.a.01
-farmacèutic	ADJ	pharmaceutical.a.01	pharmaceutical.a.01
-poligonal	ADJ	polygonal.a.01	polygonal.a.01
-polinomial	ADJ	polynomial.a.01	polynomial.a.01
-polinómico	ADJ	polynomial.a.01	polynomial.a.01
-gitano	ADJ	romany.a.01	romany.a.01
-zíngar	ADJ	romany.a.01	romany.a.01
-cismàtic	ADJ	schismatic.a.01	schismatic.a.01
-valvular	ADJ	valvular.a.01	valvular.a.01
-veterinari	ADJ	veterinary.a.01	veterinary.a.01
-gal·lès	ADJ	welsh.a.01	welsh.a.01
-ossi	ADJ	osseous.a.01	osseous.a.01
+apte	ADJ	able.a.01	adequate.a.01	fit.a.01
+capaç	ADJ	able.a.01	adequate.a.01	capable.a.01	capable.a.03	fit.a.01
+competent	ADJ	able.a.01
+impossibilitat	ADJ	unable.a.01
+incapaç	ADJ	unable.a.01	incapable.a.01	incapable.a.03	ineffective.a.01	unhelpful.a.01	useless.a.01
+abaxial	ADJ	abaxial.a.01
+adaxial	ADJ	adaxial.a.01
+abductor	ADJ	abducent.a.01
+abreujat	ADJ	abridged.a.01
+abreviat	ADJ	abridged.a.01
+íntegre	ADJ	unabridged.a.01
+absolut	ADJ	absolute.a.01
+complet	ADJ	absolute.a.01	complete.a.01
+perfecte	ADJ	absolute.a.01	perfect.a.01
+total	ADJ	absolute.a.01	unqualified.a.01
+relatiu	ADJ	relative.a.01
+absorbent	ADJ	absorbent.a.01
+no-absorbent	ADJ	nonabsorbent.a.01
+adsorbent	ADJ	adsorbent.a.01
+no-adsorbent	ADJ	nonadsorbent.a.01
+absorbible	ADJ	absorbable.a.01
+adsorbible	ADJ	adsorbable.a.01
+moderat	ADJ	abstemious.a.01	moderating.a.01	moderate.a.01	temperate.a.02
+golafre	ADJ	gluttonous.a.01
+voraç	ADJ	gluttonous.a.01
+abstracte	ADJ	abstract.a.01
+concret	ADJ	concrete.a.01
+abundant	ADJ	abundant.a.01
+abundós	ADJ	abundant.a.01
+copiós	ADJ	abundant.a.01
+escàs	ADJ	scarce.a.01	meager.a.01
+maltractat	ADJ	abused.a.02
+acceptable	ADJ	acceptable.a.01
+inacceptable	ADJ	unacceptable.a.02
+inadmissible	ADJ	unacceptable.a.02
+accessible	ADJ	accessible.a.01	approachable.a.02
+inaccessible	ADJ	inaccessible.a.01	unapproachable.a.01
+atent	ADJ	accommodating.a.01	attentive.a.01	considerate.a.01
+complaent	ADJ	accommodating.a.01
+servicial	ADJ	accommodating.a.01
+exacte	ADJ	accurate.a.01
+precís	ADJ	accurate.a.01	concise.a.01	precise.a.01
+imprecís	ADJ	inaccurate.a.01	unclear.a.02	imprecise.a.01
+inexacte	ADJ	inaccurate.a.01
+acostumat	ADJ	accustomed.a.01
+habitual	ADJ	accustomed.a.01	usual.a.01	frequent.a.01
+desacostumat	ADJ	unaccustomed.a.01
+inacostumat	ADJ	unaccustomed.a.01
+inhabitual	ADJ	unaccustomed.a.01
+acídic	ADJ	acidic.a.01
+alcalí	ADJ	alkaline.a.01
+amfòter	ADJ	amphoteric.a.01
+anfipròtic	ADJ	amphoteric.a.01
+acidòfil	ADJ	acid-loving.a.01
+reconegut	ADJ	acknowledged.a.01
+acaparador	ADJ	acquisitive.a.01
+acròpet	ADJ	acropetal.a.01
+actiu	ADJ	active.a.05	active.a.14	active.a.07	active.a.01	active.a.03	active.a.13	active.a.06
+dinàmic	ADJ	active.a.05
+inactiu	ADJ	inactive.a.09	inactive.a.08	inactive.a.07	inactive.a.02	passive.a.01	dormant.a.02	extinct.a.02	inactive.a.04
+passiu	ADJ	passive.a.01
+extingit	ADJ	extinct.a.02
+extint	ADJ	extinct.a.02
+activa	ADJ	active.a.10
+passiva	ADJ	passive.a.03
+real	ADJ	actual.a.01	de_facto.a.01
+veritable	ADJ	actual.a.01	true.a.01
+possible	ADJ	potential.a.01	probable.a.01	possible.a.01
+potencial	ADJ	potential.a.01
+agut	ADJ	acute.a.01	sharp.a.09	high.a.04	acute.a.04
+sever	ADJ	acute.a.01	intemperate.a.01
+crònic	ADJ	chronic.a.01
+virulent	ADJ	virulent.a.02
+adaptable	ADJ	adaptive.a.01
+inadaptat	ADJ	maladaptive.a.01
+addicte	ADJ	addicted.a.01
+additiu	ADJ	additive.a.02
+sostractiu	ADJ	subtractive.a.01
+subtractiu	ADJ	subtractive.a.01
+adreçat	ADJ	addressed.a.01
+dirigit	ADJ	addressed.a.01
+adequat	ADJ	adequate.a.01	fit.a.01
+adient	ADJ	adequate.a.01	fit.a.01
+covenient	ADJ	adequate.a.01
+encertat	ADJ	adequate.a.01	correct.a.01	right.a.05	fit.a.01
+escaient	ADJ	adequate.a.01	fit.a.01
+idoni	ADJ	adequate.a.01	fit.a.01
+indicat	ADJ	adequate.a.01	fit.a.01
+inadequat	ADJ	inadequate.a.01	malapropos.a.01	inconvenient.a.01
+adhesiu	ADJ	adhesive.a.01
+processal	ADJ	adjective.a.02
+processual	ADJ	adjective.a.02
+essencial	ADJ	substantive.a.02	imperative.a.01
+adoptable	ADJ	adoptable.a.01
+inadoptable	ADJ	unadoptable.a.01
+adornat	ADJ	adorned.a.01
+decorat	ADJ	adorned.a.01
+colinèrgic	ADJ	cholinergic.a.01
+anticolinèrgic	ADJ	anticholinergic.a.01
+destre	ADJ	adroit.a.01
+hàbil	ADJ	adroit.a.01
+manyós	ADJ	adroit.a.01
+maldestre	ADJ	maladroit.a.01
+avantatjós	ADJ	advantageous.a.01
+desfavorable	ADJ	disadvantageous.a.01	unfavorable.a.01
+perjudicial	ADJ	disadvantageous.a.01	evil.a.01	harmful.a.01	hostile.a.01
+arriscat	ADJ	adventurous.a.01
+aventurer	ADJ	adventurous.a.01
+aconsellable	ADJ	advisable.a.01
+convenient	ADJ	advisable.a.01	convenient.a.01	fit.a.01
+desaconsellable	ADJ	inadvisable.a.01
+aconsellat	ADJ	well-advised.a.01
+desaconsellat	ADJ	ill-advised.a.01
+desencertat	ADJ	ill-advised.a.01
+imprudent	ADJ	ill-advised.a.01	unwary.a.01	incautious.a.01	imprudent.a.01
+aeròbic	ADJ	aerobic.a.01
+anaeròbic	ADJ	anaerobic.a.01
+estètic	ADJ	aesthetic.a.02
+antiestètic	ADJ	inaesthetic.a.01
+afectat	ADJ	affected.a.01	affected.a.02
+influenciat	ADJ	affected.a.01
+artificial	ADJ	affected.a.02	artificial.a.01
+artificiós	ADJ	affected.a.02
+natural	ADJ	unaffected.a.04	natural.a.01	natural.a.02	natural.a.03	natural.a.05
+afirmatiu	ADJ	affirmative.a.01
+negatiu	ADJ	negative.a.02
+flotant	ADJ	afloat.a.02
+embarrancat	ADJ	aground.a.01
+encallat	ADJ	aground.a.01
+temorós	ADJ	afraid.a.01
+impertèrrit	ADJ	unafraid.a.01
+agressiu	ADJ	aggressive.a.01
+agitat	ADJ	agitated.a.01	agitated.a.02
+inquiet	ADJ	agitated.a.01
+agradable	ADJ	agreeable.a.01	pleasant.a.01
+grat	ADJ	agreeable.a.01
+desagradable	ADJ	disagreeable.a.01	ugly.a.01	unpalatable.a.01	unpleasant.a.01
+malèvol	ADJ	disagreeable.a.01
+aire-terra	ADJ	air-to-surface.a.01
+aire-aire	ADJ	air-to-air.a.01
+terra-aire	ADJ	surface-to-air.a.01
+alerta	ADJ	alert.a.01
+algorítmic	ADJ	algorithmic.a.01
+heurístic	ADJ	heuristic.a.01
+alienable	ADJ	alienable.a.01
+inalienable	ADJ	inalienable.a.01
+mort	ADJ	dead.a.01	dead.a.02
+apocrí	ADJ	apocrine.a.01
+artesià	ADJ	artesian.a.01
+subartesià	ADJ	subartesian.a.01
+viu	ADJ	live.a.02	animate.a.02	animated.a.01	colorful.a.01
+abnegat	ADJ	altruistic.a.01
+altruista	ADJ	altruistic.a.01
+desinteressat	ADJ	altruistic.a.01
+egoista	ADJ	egoistic.a.01
+ambigu	ADJ	ambiguous.a.02	equivocal.a.01
+inequívoc	ADJ	unambiguous.a.01	unequivocal.a.01
+ambiciós	ADJ	ambitious.a.01
+ampli	ADJ	ample.a.01	commodious.a.01	wide.a.01
+espaiós	ADJ	ample.a.01	commodious.a.01
+exigu	ADJ	meager.a.01
+raquític	ADJ	meager.a.01
+anabòlic	ADJ	anabolic.a.02
+catabòlic	ADJ	catabolic.a.02
+anticlinal	ADJ	anaclinal.a.01	anticlinal.a.01
+cataclinal	ADJ	cataclinal.a.01
+sinclinal	ADJ	synclinal.a.01
+anàdrom	ADJ	anadromous.a.01
+catàdrom	ADJ	catadromous.a.01
+anabàtic	ADJ	anabatic.a.01
+catabàtic	ADJ	katabatic.a.01
+anal	ADJ	anal.a.02
+oral	ADJ	oral.a.04	oral.a.03	oral.a.02
+digital	ADJ	digital.a.03	digital.a.02	digital.a.01
+analític	ADJ	analytic.a.04	analytic.a.03	analytic.a.02
+sintètic	ADJ	synthetic.a.04	synthetic.a.03	synthetic.a.02
+flexional	ADJ	inflectional.a.01
+derivacional	ADJ	derivational.a.01
+apocàrpic	ADJ	apocarpous.a.01
+sincàrpic	ADJ	syncarpous.a.01
+enfadat	ADJ	angry.a.01
+enutjat	ADJ	angry.a.01
+sensible	ADJ	sentient.a.01	sensible.a.02	sensitive.a.01	sensitive.a.02
+sensitiu	ADJ	sentient.a.01
+insensible	ADJ	insentient.a.01	impervious.a.01
+animat	ADJ	animate.a.02	animated.a.01	enlivened.a.01	animate.a.01	cheerful.a.01
+vivent	ADJ	animate.a.02
+inanimat	ADJ	inanimate.a.02	unanimated.a.01	inanimate.a.01
+animós	ADJ	enlivened.a.01
+dispost	ADJ	enlivened.a.01
+apagat	ADJ	unenlivened.a.01	dull.a.02
+gris	ADJ	unenlivened.a.01
+anònim	ADJ	anonymous.a.01	faceless.a.01
+antecedent	ADJ	antecedent.a.01
+previ	ADJ	antecedent.a.01
+posterior	ADJ	subsequent.a.01	posterior.a.01	back.a.01
+subsegüent	ADJ	subsequent.a.01	succeeding.a.01
+ulterior	ADJ	subsequent.a.01
+aquàtic	ADJ	aquatic.a.02
+terrestre	ADJ	terrestrial.a.03	planetary.a.02
+amfibi	ADJ	amphibious.a.02
+precedent	ADJ	preceding.a.01
+següent	ADJ	succeeding.a.01	following.a.03
+inaudit	ADJ	unprecedented.a.01
+prènsil	ADJ	prehensile.a.01
+preguerra	ADJ	prewar.a.01
+postguerra	ADJ	postwar.a.01
+retrògrad	ADJ	retrograde.a.02
+antemeridià	ADJ	antemeridian.a.01
+postmeridià	ADJ	postmeridian.a.01
+anterior	ADJ	anterior.a.01
+dorsal	ADJ	dorsal.a.01
+ventral	ADJ	ventral.a.01
+apel·lable	ADJ	appealable.a.01
+inapel·lable	ADJ	unappealable.a.01	irrevocable.a.01
+apetitós	ADJ	appetizing.a.01
+tractable	ADJ	approachable.a.02
+inabordable	ADJ	unapproachable.a.01
+intractable	ADJ	unapproachable.a.01
+apropiat	ADJ	appropriate.a.01	fit.a.01	proper.a.01
+inapropiat	ADJ	inappropriate.a.01	malapropos.a.01	improper.a.01
+inconvenient	ADJ	inappropriate.a.01
+inoportú	ADJ	inappropriate.a.01	inopportune.a.01
+degut	ADJ	due.a.01
+indebut	ADJ	undue.a.01
+indegut	ADJ	undue.a.02
+oportú	ADJ	apropos.a.01	opportune.a.01
+àpter	ADJ	apteral.a.01
+perípter	ADJ	peripteral.a.01
+arbitrable	ADJ	arbitrable.a.01
+columnat	ADJ	columned.a.01
+arbori	ADJ	arboreal.a.02
+arenaci	ADJ	arenaceous.a.01
+arenós	ADJ	arenaceous.a.01
+argilenc	ADJ	argillaceous.a.01
+argil·lós	ADJ	argillaceous.a.01
+argilós	ADJ	argillaceous.a.01
+armat	ADJ	armed.a.01
+desarmat	ADJ	unarmed.a.01
+blindat	ADJ	armored.a.01
+cuirassat	ADJ	armored.a.01
+braquífer	ADJ	armed.a.03
+manc	ADJ	armless.a.01
+astut	ADJ	artful.a.02
+senzill	ADJ	artless.a.02	unstudied.a.01	simple.a.01
+articulat	ADJ	articulate.a.01	articulated.a.01
+inarticulat	ADJ	inarticulate.a.01	unarticulated.a.01
+parlat	ADJ	speaking.a.01
+avergonyit	ADJ	ashamed.a.01
+descarat	ADJ	unashamed.a.01	forward.a.02
+desvergonyit	ADJ	unashamed.a.01
+assertiu	ADJ	assertive.a.01
+associatiu	ADJ	associative.a.01
+compromès	ADJ	attached.a.03
+afegit	ADJ	affixed.a.01
+desenganxat	ADJ	unaffixed.a.01	unstuck.a.01
+sèssil	ADJ	sessile.a.02	sessile.a.01
+pedunculat	ADJ	pedunculate.a.01
+vàgil	ADJ	vagile.a.01
+adosat	ADJ	attached.a.02
+agregat	ADJ	attached.a.02
+annex	ADJ	attached.a.02
+annexat	ADJ	attached.a.02
+independent	ADJ	detached.a.04	independent.a.01
+separat	ADJ	detached.a.04
+solt	ADJ	detached.a.04
+enganxat	ADJ	stuck.a.01
+subjectable	ADJ	attachable.a.01
+desmuntable	ADJ	detachable.a.01
+separable	ADJ	detachable.a.01
+caut	ADJ	wary.a.01	cautious.a.01
+cautelós	ADJ	wary.a.01	careful.a.01	cautious.a.01
+prudent	ADJ	wary.a.01	careful.a.01	cautious.a.01	politic.a.01
+despreocupat	ADJ	unwary.a.01
+incaut	ADJ	unwary.a.01	incautious.a.01
+desatent	ADJ	inattentive.a.01	heedless.a.01
+atractiu	ADJ	attractive.a.01	inviting.a.01
+atraient	ADJ	attractive.a.03	inviting.a.01
+magnètic	ADJ	attractive.a.03	magnetic.a.02	magnetic.a.01
+repulsiu	ADJ	repulsive.a.02
+atribuïble	ADJ	attributable.a.01
+prenominal	ADJ	attributive.a.01
+predicatiu	ADJ	predicative.a.01
+embarassada	ADJ	pregnant.a.01
+encinta	ADJ	pregnant.a.01
+prenyat	ADJ	pregnant.a.01
+audible	ADJ	audible.a.01
+oïble	ADJ	audible.a.01
+inaudible	ADJ	inaudible.a.01
+sònic	ADJ	sonic.a.01
+subsònic	ADJ	subsonic.a.01
+supersònic	ADJ	supersonic.a.01
+propici	ADJ	auspicious.a.01	propitious.a.01
+desgraciat	ADJ	inauspicious.a.01	unfortunate.a.01
+desventurat	ADJ	inauspicious.a.01
+autoritzat	ADJ	authorized.a.01
+constitucional	ADJ	constitutional.a.02	constitutional.a.01
+inconstitucional	ADJ	unconstitutional.a.01
+autòcton	ADJ	autochthonous.a.01
+autogen	ADJ	autogenous.a.01
+heterogeni	ADJ	heterogenous.a.02	heterogeneous.a.01
+automàtic	ADJ	automatic.a.01
+manual	ADJ	manual.a.02
+disponible	ADJ	available.a.01
+despert	ADJ	awake.a.01
+adormit	ADJ	asleep.a.01
+astringent	ADJ	astringent.a.02
+ignorant	ADJ	unaware.a.01
+inconscient	ADJ	unaware.a.01
+conscient	ADJ	witting.a.01	conscious.a.02
+alarmant	ADJ	alarming.a.01	critical.a.06
+anemòfil	ADJ	anemophilous.a.01
+entomòfil	ADJ	entomophilous.a.01
+tranquil·litzador	ADJ	reassuring.a.01
+inquietant	ADJ	unreassuring.a.01
+davanter	ADJ	front.a.01	fore.a.01
+destacat	ADJ	leading.a.03
+principal	ADJ	leading.a.03	independent.a.03
+enrere	ADJ	reverse.a.02
+tímid	ADJ	backward.a.02	timid.a.01	diffident.a.02
+atrevit	ADJ	forward.a.02	bold.a.01
+embotat	ADJ	barreled.a.01
+bequerut	ADJ	beaked.a.01
+beneficiat	ADJ	beneficed.a.01
+estratificada	ADJ	stratified.a.02
+estratificat	ADJ	stratified.a.02
+herbós	ADJ	grassy.a.01
+pelat	ADJ	hairless.a.01	unwooded.a.01
+hirsut	ADJ	hairy.a.01
+pelut	ADJ	hairy.a.01
+pilós	ADJ	hairy.a.01
+bell	ADJ	beautiful.a.01
+bonic	ADJ	beautiful.a.01	nice.a.01
+encantador	ADJ	beautiful.a.01
+encisador	ADJ	beautiful.a.01
+formós	ADJ	beautiful.a.01
+preciós	ADJ	beautiful.a.01
+repugnant	ADJ	ugly.a.01
+panxut	ADJ	bellied.a.01
+benefactor	ADJ	beneficent.a.01
+maliciós	ADJ	malicious.a.01
+benigne	ADJ	benign.a.02
+maligne	ADJ	malign.a.01	malignant.a.01
+millor	ADJ	best.a.01	better.a.01
+pitjor	ADJ	worst.a.01	worse.a.01
+bicameral	ADJ	bicameral.a.01
+unicameral	ADJ	unicameral.a.01
+bidireccional	ADJ	bidirectional.a.01
+unidireccional	ADJ	unidirectional.a.01
+unilateral	ADJ	unilateral.a.01
+multilateral	ADJ	multilateral.a.01
+bimodal	ADJ	bimodal.a.01
+unimodal	ADJ	unimodal.a.01
+biauricular	ADJ	binaural.a.01
+monoaural	ADJ	monaural.a.01
+binuclear	ADJ	binucleate.a.01
+mononuclear	ADJ	mononuclear.a.01
+bípede	ADJ	bipedal.a.01
+quadrúpede	ADJ	quadrupedal.a.01
+negre	ADJ	black.a.02	black.a.01
+blanc	ADJ	white.a.02	white.a.01
+ros	ADJ	blond.a.01
+morè	ADJ	brunet.a.01
+tacat	ADJ	blemished.a.01	stained.a.01
+sangonent	ADJ	bloody.a.01
+sangonós	ADJ	bloody.a.01
+audaç	ADJ	bold.a.01
+gosat	ADJ	bold.a.01
+lligat	ADJ	bound.a.01	laced.a.01	tied.a.03
+deslligat	ADJ	unlaced.a.01	untied.a.01
+embolicat	ADJ	tangled.a.01
+embrollat	ADJ	tangled.a.01
+enredat	ADJ	tangled.a.01
+desenredat	ADJ	untangled.a.01
+enquadernat	ADJ	bound.a.03
+desenquadernat	ADJ	unbound.a.01
+ribetejat	ADJ	bordered.a.01
+braquicèfal	ADJ	brachycephalic.a.01
+braquicranià	ADJ	brachycephalic.a.01
+dolicocèfal	ADJ	dolichocephalic.a.01
+valent	ADJ	brave.a.01
+valerós	ADJ	brave.a.01	gutsy.a.01
+covard	ADJ	cowardly.a.01
+poruc	ADJ	cowardly.a.01
+coratjós	ADJ	gutsy.a.01
+dèbil	ADJ	gutless.a.01	powerless.a.01	weak.a.01
+panteixant	ADJ	breathless.a.01
+cristal·lí	ADJ	crystalline.a.01
+monocristal·lí	ADJ	noncrystalline.a.01
+terratinent	ADJ	landed.a.01
+brillant	ADJ	light.a.06	bright.a.01
+lluminós	ADJ	light.a.06	bright.a.01
+fosc	ADJ	dark.a.01	dark.a.02
+obscur	ADJ	dark.a.01
+discriminador	ADJ	prejudiced.a.02
+parcial	ADJ	prejudiced.a.02	partial.a.02
+imparcial	ADJ	unprejudiced.a.01	impartial.a.01
+intolerant	ADJ	narrow-minded.a.02
+espatllat	ADJ	broken.a.01
+trencat	ADJ	broken.a.01
+intacte	ADJ	unbroken.a.05	unimpaired.a.01
+sencer	ADJ	unbroken.a.05	unimpaired.a.01
+incomplert	ADJ	broken.a.04
+violat	ADJ	broken.a.04
+complert	ADJ	unbroken.a.04
+mantingut	ADJ	unbroken.a.04
+interromput	ADJ	broken.a.02
+ininterromput	ADJ	unbroken.a.01
+fratern	ADJ	brotherly.a.01
+fraternal	ADJ	brotherly.a.01
+biovular	ADJ	fraternal.a.02
+univitel·lí	ADJ	identical.a.03
+enterrat	ADJ	buried.a.01
+desenterrat	ADJ	unburied.a.01
+atrafegat	ADJ	busy.a.01
+enfeinat	ADJ	busy.a.01
+ocupat	ADJ	busy.a.01
+aturat	ADJ	idle.a.01
+desocupat	ADJ	idle.a.01
+parat	ADJ	idle.a.01
+ossut	ADJ	bony.a.03
+botonat	ADJ	buttoned.a.01
+desbotonat	ADJ	unbuttoned.a.01
+descordat	ADJ	unbuttoned.a.01
+capitalista	ADJ	capitalistic.a.01
+socialista	ADJ	socialistic.a.01
+cacofònic	ADJ	cacophonous.a.01
+eufònic	ADJ	euphonious.a.01
+calculable	ADJ	calculable.a.01
+incalculable	ADJ	incalculable.a.01
+calmat	ADJ	calm.a.02
+serè	ADJ	calm.a.02	clear.a.11
+tranquil	ADJ	calm.a.02
+tempestívol	ADJ	stormy.a.01
+tempestós	ADJ	stormy.a.01
+tempestuós	ADJ	stormy.a.01	inclement.a.01
+camforat	ADJ	camphorated.a.01
+cuidat	ADJ	cared-for.a.01
+deixat	ADJ	uncared-for.a.01
+descuidat	ADJ	uncared-for.a.01	careless.a.01
+negligent	ADJ	careless.a.01
+carnívor	ADJ	carnivorous.a.02
+herbívor	ADJ	herbivorous.a.01
+omnívor	ADJ	omnivorous.a.01
+insectívor	ADJ	insectivorous.a.01
+carpel·lat	ADJ	carpellate.a.01
+pistil·lat	ADJ	carpellate.a.01
+emmoquetat	ADJ	carpeted.a.01
+esculpit	ADJ	carved.a.01
+tallat	ADJ	carved.a.01	cut.a.01	cut.a.02
+acatalèctic	ADJ	acatalectic.a.01
+catalèctic	ADJ	catalectic.a.01
+hipercatalèctic	ADJ	hypercatalectic.a.01
+caulinar	ADJ	cauline.a.02
+radical	ADJ	radical.a.05
+censurat	ADJ	censored.a.01
+caudat	ADJ	caudate.a.01
+caulescent	ADJ	caulescent.a.01
+acaule	ADJ	acaulescent.a.01
+acaulescent	ADJ	acaulescent.a.01
+causatiu	ADJ	causative.a.01
+curós	ADJ	cautious.a.01
+previngut	ADJ	cautious.a.01
+cel·lular	ADJ	cellular.a.02
+compartimentat	ADJ	compartmented.a.01
+porós	ADJ	porous.a.02
+central	ADJ	central.a.02
+perifèric	ADJ	peripheral.a.01
+centrífug	ADJ	centrifugal.a.01
+centrípet	ADJ	centripetal.a.01
+aferent	ADJ	afferent.a.01
+eferent	ADJ	efferent.a.01
+centralitzador	ADJ	centralizing.a.01
+descentralitzador	ADJ	decentralizing.a.01
+incert	ADJ	uncertain.a.02	uncertain.a.04
+segur	ADJ	certain.a.02	confident.a.01	certain.a.04	definite.a.01
+dubtós	ADJ	uncertain.a.01
+indecís	ADJ	uncertain.a.01	irresolute.a.01
+insegur	ADJ	uncertain.a.01	diffident.a.02	improbable.a.01	irresolute.a.01
+convençut	ADJ	convinced.a.02
+vergonyós	ADJ	diffident.a.02
+cert	ADJ	certain.a.04
+forçós	ADJ	certain.a.04
+indefugible	ADJ	certain.a.04
+ineludible	ADJ	certain.a.04
+inevitable	ADJ	certain.a.04	inevitable.a.01
+inexorable	ADJ	certain.a.04	irrevocable.a.01
+certificat	ADJ	certified.a.01	registered.a.02
+evitable	ADJ	evitable.a.01
+prevenible	ADJ	preventable.a.01
+canviant	ADJ	changeable.a.02
+variable	ADJ	changeable.a.02	commutable.a.01	variable.a.01
+immutable	ADJ	unchangeable.a.01	immutable.a.01
+inalterable	ADJ	unchangeable.a.01	unalterable.a.01
+commutable	ADJ	commutable.a.01
+mudable	ADJ	commutable.a.01
+transformable	ADJ	commutable.a.01
+alterable	ADJ	alterable.a.01
+modificable	ADJ	modifiable.a.01
+immodificable	ADJ	unmodifiable.a.01
+alterat	ADJ	altered.a.01
+inalterat	ADJ	unaltered.a.01	unimpaired.a.01
+esmenat	ADJ	amended.a.01
+canviat	ADJ	changed.a.01
+igual	ADJ	unchanged.a.01	equal.a.01	alike.a.01	like.a.02
+ionitzat	ADJ	ionized.a.01
+canviable	ADJ	mutable.a.01	convertible.a.01
+mutable	ADJ	mutable.a.01
+característic	ADJ	characteristic.a.01
+típic	ADJ	characteristic.a.01	typical.a.01
+carregat	ADJ	charged.a.01
+descarregat	ADJ	uncharged.a.01
+benèvol	ADJ	charitable.a.02
+caritatiu	ADJ	charitable.a.02	charitable.a.01
+cast	ADJ	chaste.a.01
+impúdic	ADJ	unchaste.a.01
+alegre	ADJ	cheerful.a.01
+granellós	ADJ	chondritic.a.01
+granellut	ADJ	chondritic.a.01
+granular	ADJ	chondritic.a.01
+granulós	ADJ	chondritic.a.01
+monoclínic	ADJ	monoclinic.a.01
+anòrtic	ADJ	triclinic.a.01
+triclínic	ADJ	triclinic.a.01
+monocromàtic	ADJ	monochromatic.a.02
+policromàtic	ADJ	polychromatic.a.01
+acolorit	ADJ	chromatic.a.03	colorful.a.01
+colorat	ADJ	chromatic.a.03
+acromàtic	ADJ	achromatic.a.01
+alba	ADJ	white.a.01
+cromàtic	ADJ	colored.a.01	chromatic.a.02
+vistós	ADJ	colorful.a.01	colorful.a.02
+incolor	ADJ	colorless.a.02
+anodí	ADJ	colorless.a.01
+sonso	ADJ	colorless.a.01
+clar	ADJ	light.a.02	clear.a.01	clear.a.04	clear.a.11	distinct.a.02
+pàl·lid	ADJ	light.a.02
+diatònic	ADJ	diatonic.a.01
+cismuntà	ADJ	cismontane.a.01
+tramuntà	ADJ	tramontane.a.01
+cristià	ADJ	christian.a.02
+civilitzat	ADJ	civilized.a.01
+clàssic	ADJ	classical.a.01
+classificat	ADJ	classified.a.01
+inclassificat	ADJ	unclassified.a.02	unclassified.a.01
+confidencial	ADJ	classified.a.02
+secret	ADJ	classified.a.02
+analitzat	ADJ	analyzed.a.01
+net	ADJ	clean.a.01	net.a.01
+brut	ADJ	dirty.a.01	dirty.a.02
+immund	ADJ	dirty.a.01
+contaminant	ADJ	dirty.a.04
+radioactiu	ADJ	radioactive.a.01
+purificat	ADJ	clean.a.06
+impur	ADJ	unclean.a.02
+confús	ADJ	unclear.a.02
+opac	ADJ	opaque.a.01
+radiopac	ADJ	radiopaque.a.01
+perspicaç	ADJ	clearheaded.a.01
+atordit	ADJ	confused.a.05
+confós	ADJ	confused.a.05
+clement	ADJ	clement.a.02	clement.a.01
+inclement	ADJ	inclement.a.02	inclement.a.01	hardhearted.a.01
+espavilat	ADJ	smart.a.01
+llest	ADJ	smart.a.01
+cretí	ADJ	stupid.a.01
+estúpid	ADJ	stupid.a.01
+idiota	ADJ	stupid.a.01
+imbècil	ADJ	stupid.a.01
+distant	ADJ	far.a.01	distant.a.01	distant.a.02	cold.a.02
+llunyà	ADJ	far.a.01	distant.a.02
+remot	ADJ	far.a.01	distant.a.02
+proper	ADJ	near.a.01	close.a.01	close.a.02
+íntim	ADJ	close.a.02
+cobert	ADJ	clothed.a.01
+vestit	ADJ	clothed.a.01
+desvestit	ADJ	unclothed.a.01
+ensellat	ADJ	saddled.a.01
+desensellat	ADJ	unsaddled.a.01
+nítid	ADJ	clear.a.11
+ennuvolat	ADJ	cloudy.a.02
+coster	ADJ	coastal.a.02
+interior	ADJ	inland.a.01	interior.a.01
+coherent	ADJ	coherent.a.01
+incoherent	ADJ	incoherent.a.01
+esquerdat	ADJ	crannied.a.01
+llis	ADJ	uncrannied.a.01	straight.a.03
+col·lectiu	ADJ	collective.a.02
+distribuïdor	ADJ	distributive.a.01
+divulgat	ADJ	publicized.a.01
+suprimit	ADJ	suppressed.a.01
+publicat	ADJ	published.a.01
+inèdit	ADJ	unpublished.a.01
+presentat	ADJ	reported.a.01
+combinador	ADJ	combinative.a.01
+combustible	ADJ	combustible.a.01
+incombustible	ADJ	noncombustible.a.01
+detonador	ADJ	explosive.a.01
+explosiu	ADJ	explosive.a.01
+encès	ADJ	lighted.a.01
+còmode	ADJ	commodious.a.01	comfortable.a.01
+pràctic	ADJ	commodious.a.01	practical.a.01
+estret	ADJ	incommodious.a.01	narrow.a.01
+incòmode	ADJ	incommodious.a.01	uncomfortable.a.02
+confortable	ADJ	comfortable.a.01
+proporcionat	ADJ	commensurate.a.01	proportionate.a.01
+incommensurable	ADJ	incommensurate.a.01
+desproporcionat	ADJ	disproportionate.a.01
+comercial	ADJ	commercial.a.01	commercial.a.02
+residencial	ADJ	residential.a.01	residential.a.02
+nomenat	ADJ	commissioned.a.01
+comú	ADJ	common.a.02	usual.a.01	common.a.01	familiar.a.02
+inusual	ADJ	uncommon.a.01	unusual.a.01
+singular	ADJ	uncommon.a.01
+normal	ADJ	usual.a.01	normal.a.01	perpendicular.a.01
+usual	ADJ	usual.a.01
+excepcional	ADJ	unusual.a.01
+extraordinari	ADJ	unusual.a.01	extraordinary.a.01
+insòlit	ADJ	unusual.a.01
+hidròfob	ADJ	hydrophobic.a.01
+hidròfil	ADJ	hydrophilic.a.01
+oleofòbic	ADJ	oleophilic.a.01	oleophobic.a.01
+individual	ADJ	individual.a.01	personal.a.01
+comunicatiu	ADJ	communicative.a.02
+compacte	ADJ	compact.a.01
+comparable	ADJ	comparable.a.01
+incomparable	ADJ	incomparable.a.01
+inacabat	ADJ	incomplete.a.01	inconclusive.a.01
+incomplet	ADJ	incomplete.a.01	inconclusive.a.01
+concau	ADJ	concave.a.01
+bombat	ADJ	convex.a.01
+convex	ADJ	convex.a.01
+concèntric	ADJ	concentric.a.01
+homocèntric	ADJ	concentric.a.01
+excèntric	ADJ	eccentric.a.02
+concís	ADJ	concise.a.01
+inconclús	ADJ	inconclusive.a.01
+coordinant	ADJ	coordinating.a.01
+condicional	ADJ	conditional.a.02
+abarrotat	ADJ	crowded.a.01
+ple_a_vessar	ADJ	crowded.a.01
+replè	ADJ	crowded.a.01
+replet	ADJ	crowded.a.01
+desprès	ADJ	unconnected.a.01
+conservador	ADJ	conservative.a.01
+consistent	ADJ	consistent.a.01
+discret	ADJ	inconspicuous.a.01	tactful.a.01
+invisible	ADJ	inconspicuous.a.01
+discernible	ADJ	distinguishable.a.01
+distingible	ADJ	distinguishable.a.01
+inconstant	ADJ	inconstant.a.01
+constructiu	ADJ	constructive.a.01
+demolidor	ADJ	destructive.a.01
+destructiu	ADJ	destructive.a.01
+destructor	ADJ	destructive.a.01
+devastador	ADJ	destructive.a.01
+continu	ADJ	continual.a.01
+esporàdic	ADJ	sporadic.a.01
+controvertit	ADJ	controversial.a.01
+polèmic	ADJ	controversial.a.01
+convencional	ADJ	conventional.a.01	conventional.a.04	conventional.a.03
+atòmic	ADJ	nuclear.a.01
+nuclear	ADJ	nuclear.a.01	nuclear.a.02	nuclear.a.03
+tradicional	ADJ	traditional.a.01
+convergent	ADJ	convergent.a.01
+cuinat	ADJ	cooked.a.01
+cru	ADJ	raw.a.03
+considerable	ADJ	considerable.a.01
+important	ADJ	considerable.a.01	important.a.01	significant.a.01
+correcte	ADJ	correct.a.01	right.a.05	civil.a.02
+laxant	ADJ	laxative.a.01
+considerat	ADJ	considerate.a.01
+delicat	ADJ	considerate.a.01	delicate.a.01
+cívic	ADJ	civil.a.02	civic.a.01
+cortès	ADJ	civil.a.02
+educat	ADJ	civil.a.02
+indreïble	ADJ	incredible.a.01
+crític	ADJ	critical.a.01	critical.a.03	critical.a.06	critical.a.02
+greu	ADJ	critical.a.06	low.a.05
+no_crític	ADJ	noncritical.a.02
+lineal	ADJ	linear.a.02	linear.a.01
+unidimensional	ADJ	linear.a.02
+curiós	ADJ	curious.a.02
+artesanal	ADJ	handmade.a.01
+casolà	ADJ	homemade.a.01	domestic.a.03
+anual	ADJ	annual.a.01
+perenne	ADJ	perennial.a.01	evergreen.a.01
+perennifoli	ADJ	perennial.a.01
+diürn	ADJ	diurnal.a.01
+nocturn	ADJ	nocturnal.a.01	nocturnal.a.02
+indemne	ADJ	undamaged.a.01
+desafiant	ADJ	defiant.a.01
+provocatiu	ADJ	defiant.a.01
+definit	ADJ	defined.a.01	distinct.a.02
+derivat	ADJ	derived.a.01
+definitiu	ADJ	definite.a.01
+fixe	ADJ	definite.a.01	permanent.a.01
+abatut	ADJ	dejected.a.01	penitent.a.01
+decaigut	ADJ	dejected.a.01
+desanimat	ADJ	dejected.a.01
+moix	ADJ	dejected.a.01
+trencable	ADJ	breakable.a.01
+fonamental	ADJ	imperative.a.01
+imperatiu	ADJ	imperative.a.01
+primordial	ADJ	imperative.a.01
+democràtic	ADJ	democratic.a.01
+antidemocràtic	ADJ	undemocratic.a.01
+arbitrari	ADJ	arbitrary.a.01
+efusiu	ADJ	demonstrative.a.01
+expressiu	ADJ	demonstrative.a.01
+indiscutible	ADJ	undeniable.a.01
+innegable	ADJ	undeniable.a.01
+fiable	ADJ	reliable.a.01
+destruit	ADJ	destroyed.a.01
+difícil	ADJ	difficult.a.01
+dur	ADJ	difficult.a.01	hard.a.03	hardhearted.a.01
+fàcil	ADJ	easy.a.01
+presidencial	ADJ	presidential.a.02	presidential.a.01
+concentrat	ADJ	saturated.a.01
+saturat	ADJ	saturated.a.01
+diplomàtic	ADJ	diplomatic.a.02	tactful.a.01	diplomatic.a.01
+directe	ADJ	direct.a.01	direct.a.03	lineal.a.01
+immediat	ADJ	immediate.a.03
+inconfusible	ADJ	distinct.a.02
+marcat	ADJ	distinct.a.02	marked.a.03
+dominant	ADJ	dominant.a.01	dominant.a.02
+potable	ADJ	drinkable.a.01
+sord	ADJ	dull.a.09
+monòton	ADJ	uneventful.a.01
+rutinari	ADJ	uneventful.a.01
+tardà	ADJ	late.a.06
+aprensiu	ADJ	uneasy.a.01
+del_est	ADJ	east.a.01
+oriental	ADJ	east.a.01	eastern.a.04
+del_oest	ADJ	west.a.01
+occidental	ADJ	west.a.01
+comestible	ADJ	edible.a.01
+operatiu	ADJ	operative.a.01
+inoperatiu	ADJ	inoperative.a.01
+ineficaç	ADJ	ineffective.a.01	unhelpful.a.01	useless.a.01
+inepte	ADJ	ineffective.a.01	unhelpful.a.01	useless.a.01
+inútil	ADJ	ineffective.a.01	unhelpful.a.01	useless.a.01
+va	ADJ	ineffective.a.01	unhelpful.a.01	useless.a.01
+eficient	ADJ	efficient.a.01
+elàstic	ADJ	elastic.a.01
+empíric	ADJ	empirical.a.01
+autònom	ADJ	freelance.a.01
+freelance	ADJ	freelance.a.01
+exogen	ADJ	exogenous.a.01
+disminuït	ADJ	decreased.a.01
+reduït	ADJ	decreased.a.01
+equilibrat	ADJ	balanced.a.01
+falaguer	ADJ	flattering.a.01
+eufòric	ADJ	euphoric.a.01
+afligit	ADJ	dysphoric.a.01	penitent.a.01
+apesarat	ADJ	dysphoric.a.01	regretful.a.01
+dolorit	ADJ	dysphoric.a.01
+pesarós	ADJ	dysphoric.a.01	regretful.a.01
+trist	ADJ	dysphoric.a.01	unhappy.a.01	sad.a.01
+caduc	ADJ	deciduous.a.01
+caducifoli	ADJ	deciduous.a.01
+decidu	ADJ	deciduous.a.01
+convertible	ADJ	convertible.a.01
+existent	ADJ	extant.a.01
+car	ADJ	expensive.a.01
+costós	ADJ	expensive.a.01
+experimentat	ADJ	experienced.a.01
+caducat	ADJ	expired.a.01
+no_caducat	ADJ	unexpired.a.01
+explícit	ADJ	explicit.a.01
+implícit	ADJ	implicit.a.01
+inextricable	ADJ	inextricable.a.01
+extern	ADJ	external.a.01
+intern	ADJ	internal.a.01
+exterior	ADJ	exterior.a.01	foreign.a.01	outdoor.a.01
+honrat	ADJ	fair.a.01	just.a.01	righteous.a.01
+just	ADJ	fair.a.01	just.a.01	righteous.a.01
+recte	ADJ	fair.a.01	just.a.01	righteous.a.01	straight.a.02
+familiar	ADJ	familiar.a.01	familial.a.01
+desconegut	ADJ	unfamiliar.a.01	unknown.a.01
+corrent	ADJ	familiar.a.02
+ordinari	ADJ	familiar.a.02
+lent	ADJ	slow.a.01	slow.a.02
+escrupulós	ADJ	fastidious.a.01
+primmirat	ADJ	fastidious.a.01
+carnós	ADJ	fat.a.01
+prim	ADJ	thin.a.02	thin.a.01
+fatal	ADJ	fatal.a.01	dystopian.a.02
+no_fatal	ADJ	nonfatal.a.01
+favorable	ADJ	favorable.a.02	favorable.a.01
+fèrtil	ADJ	fertile.a.01
+limitat	ADJ	finite.a.01	limited.a.01
+infinit	ADJ	infinite.a.01
+finit	ADJ	finite.a.02
+inaugural	ADJ	opening.a.01
+final	ADJ	closing.a.01
+primer	ADJ	first.a.01
+intermedi	ADJ	intermediate.a.01
+segon	ADJ	second.a.02	latter.a.01
+flexible	ADJ	flexible.a.02
+invertit	ADJ	anatropous.a.01
+arrissat	ADJ	curly.a.01
+estranger	ADJ	foreign.a.02	foreign.a.01
+estrany	ADJ	foreign.a.02
+forà	ADJ	foreign.a.02
+foraster	ADJ	foreign.a.02
+aborigen	ADJ	native.a.03
+nadiu	ADJ	native.a.03
+domèstic	ADJ	domestic.a.03
+formal	ADJ	formal.a.01
+informal	ADJ	informal.a.01
+últim	ADJ	latter.a.01
+afortunat	ADJ	fortunate.a.01	successful.a.01
+sortós	ADJ	fortunate.a.01
+desafortunat	ADJ	unfortunate.a.01
+malaurat	ADJ	unfortunate.a.01
+fragant	ADJ	fragrant.a.01
+olorós	ADJ	fragrant.a.01
+lliure	ADJ	free.a.02	free.a.01	free.a.06	exempt.a.01
+infreqüent	ADJ	infrequent.a.01
+fresc	ADJ	fresh.a.06
+fructífer	ADJ	fruitful.a.01
+productiu	ADJ	fruitful.a.01	productive.a.01	generative.a.01
+ple	ADJ	full.a.01
+buit	ADJ	empty.a.01	hollow.a.01
+orgànic	ADJ	organic.a.03	organic.a.01	organic.a.02
+jove	ADJ	unfledged.a.01	young.a.01
+desmoblat	ADJ	unfurnished.a.01
+general	ADJ	general.a.01	general.a.04
+específic	ADJ	specific.a.01
+nacional	ADJ	national.a.03	national.a.02	national.a.01	national.a.07	national.a.06
+local	ADJ	local.a.01	local.a.03	local.a.02
+tècnic	ADJ	technical.a.02	technical.a.01	technical.a.03
+agarrat	ADJ	stingy.a.01
+avar	ADJ	stingy.a.01
+avariciós	ADJ	stingy.a.01
+garrepa	ADJ	stingy.a.01
+gasiu	ADJ	stingy.a.01
+mesquí	ADJ	stingy.a.01
+ranci	ADJ	stingy.a.01
+rata	ADJ	stingy.a.01
+ronyós	ADJ	stingy.a.01
+tacany	ADJ	stingy.a.01
+autèntic	ADJ	genuine.a.01
+genuí	ADJ	genuine.a.01
+bo	ADJ	good.a.01
+dolent	ADJ	bad.a.01	evil.a.01	hostile.a.01
+mal	ADJ	bad.a.01	evil.a.01	hostile.a.01
+malvat	ADJ	evil.a.01	hostile.a.01
+gràcil	ADJ	graceful.a.01
+gradual	ADJ	gradual.a.01
+paulatí	ADJ	gradual.a.01
+feliç	ADJ	happy.a.01
+infeliç	ADJ	unhappy.a.01
+tou	ADJ	soft.a.01
+despiadat	ADJ	hardhearted.a.01
+alcohòlic	ADJ	alcoholic.a.01
+inofensiu	ADJ	harmless.a.01	innocuous.a.01	savory.a.01
+harmoniós	ADJ	harmonious.a.01
+mèdic	ADJ	medical.a.02	aesculapian.a.01	medical.a.01
+operatori	ADJ	surgical.a.02
+quirúrgic	ADJ	surgical.a.02
+rubicund	ADJ	healthy.a.01
+sa	ADJ	healthy.a.01
+salubre	ADJ	healthy.a.01
+saludable	ADJ	healthy.a.01
+malaltís	ADJ	unhealthy.a.01
+indigerible	ADJ	indigestible.a.01
+indigest	ADJ	indigestible.a.01
+indigestible	ADJ	indigestible.a.01
+lleuger	ADJ	light.a.01	light.a.03
+despistat	ADJ	heedless.a.01
+homogeni	ADJ	homogeneous.a.01
+alt	ADJ	high.a.02	high.a.01	tall.a.01
+baix	ADJ	low.a.02	low.a.01	low.a.05	short.a.03
+anàleg	ADJ	analogous.a.02
+horitzontal	ADJ	horizontal.a.01
+vertical	ADJ	vertical.a.01
+erecte	ADJ	erect.a.01
+calorós	ADJ	hot.a.01
+fred	ADJ	cold.a.01	cold.a.02
+estiuenc	ADJ	summery.a.01
+estival	ADJ	summery.a.01
+tardorenc	ADJ	autumnal.a.01
+humà	ADJ	human.a.03	human.a.01	human.a.02
+sobrehumà	ADJ	superhuman.a.01
+precipitat	ADJ	hurried.a.01
+identificable	ADJ	identifiable.a.01
+immanent	ADJ	immanent.a.01
+subjectiu	ADJ	immanent.a.01	subjective.a.01
+no_important	ADJ	unimportant.a.01
+sense_importància	ADJ	unimportant.a.01
+inductiu	ADJ	inductive.a.02
+deductiu	ADJ	deductive.a.02
+industrial	ADJ	industrial.a.02	industrial.a.01
+infecciós	ADJ	infectious.a.02	septic.a.01
+no_infecciós	ADJ	noninfectious.a.01
+infernal	ADJ	infernal.a.05	infernal.a.01
+divulgatiu	ADJ	informative.a.03
+informatiu	ADJ	informative.a.03
+desert	ADJ	uninhabited.a.01
+deshabitat	ADJ	uninhabited.a.01
+erm	ADJ	uninhabited.a.01
+inhabitat	ADJ	uninhabited.a.01
+culpable	ADJ	guilty.a.01
+barrejat	ADJ	blended.a.01
+mesclat	ADJ	blended.a.01
+combinat	ADJ	combined.a.01
+intel·lectual	ADJ	intellectual.a.02
+intencionat	ADJ	intended.a.01
+interessant	ADJ	interesting.a.01
+intrínsec	ADJ	intrinsic.a.01
+extrínsec	ADJ	extrinsic.a.01
+introspectiu	ADJ	introspective.a.01
+cruel	ADJ	unkind.a.01
+despietat	ADJ	unkind.a.01
+conegut	ADJ	known.a.01
+gran	ADJ	large.a.01	major.a.07
+menut	ADJ	small.a.01
+petit	ADJ	small.a.01
+major	ADJ	greater.a.01	major.a.03	major.a.02	major.a.05
+legal	ADJ	legal.a.01
+il·legal	ADJ	illegal.a.01
+desigual	ADJ	unlike.a.01	unlike.a.02
+diferent	ADJ	unlike.a.01	unlike.a.02	different.a.01	dissimilar.a.01
+dissimilar	ADJ	unlike.a.01
+semblant	ADJ	alike.a.01	similar.a.01
+similar	ADJ	alike.a.01	similar.a.01
+equivalent	ADJ	like.a.02
+mateix	ADJ	like.a.02	same.a.02
+probable	ADJ	likely.a.01	probable.a.01
+improbable	ADJ	unlikely.a.02	improbable.a.01
+colateral	ADJ	collateral.a.01
+conseqüent	ADJ	logical.a.01
+lògic	ADJ	logical.a.01
+extens	ADJ	long.a.02	long.a.01
+llarg	ADJ	long.a.02	long.a.01
+curt	ADJ	short.a.02	short.a.01
+ajustat	ADJ	tight.a.01
+perdut	ADJ	lost.a.01
+trobat	ADJ	found.a.01
+adorable	ADJ	lovable.a.01
+amable	ADJ	lovable.a.01
+simpàtic	ADJ	lovable.a.01
+afectuós	ADJ	loving.a.01
+amorós	ADJ	loving.a.01
+desfet	ADJ	unmade.a.01
+menor	ADJ	minor.a.03	minor.a.02	minor.a.05	minor.a.04	minor.a.01	less.a.01
+major_d'edat	ADJ	major.a.07
+més_gran	ADJ	major.a.07
+més_petit	ADJ	minor.a.05
+casat	ADJ	married.a.01
+solter	ADJ	unmarried.a.01
+madur	ADJ	mature.a.03	mature.a.01	ripe.a.01
+immadur	ADJ	immature.a.04	green.a.03
+inmadur	ADJ	immature.a.01
+immatur	ADJ	green.a.03
+verd	ADJ	green.a.03
+màxim	ADJ	maximal.a.01
+mínim	ADJ	minimal.a.01	least.a.01
+mecànic	ADJ	mechanical.a.01
+melodiós	ADJ	musical.a.03
+suau	ADJ	mild.a.01	smooth.a.01
+intens	ADJ	intense.a.01
+militar	ADJ	military.a.03	military.a.02	military.a.01
+civil	ADJ	civilian.a.01	civil.a.04	civil.a.03
+mòbil	ADJ	mobile.a.02
+metàl·lic	ADJ	metallic.a.01
+no_metàlic	ADJ	nonmetallic.a.01
+immoderat	ADJ	immoderate.a.01
+modern	ADJ	modern.a.01
+modest	ADJ	modest.a.01
+moral	ADJ	moral.a.01	ethical.a.01
+molts	ADJ	many.a.01
+mortal	ADJ	mortal.a.01
+immortal	ADJ	immortal.a.01
+intercontinental	ADJ	intercontinental.a.01
+internacional	ADJ	international.a.01
+pròxim	ADJ	proximate.a.01
+necessari	ADJ	necessary.a.01
+innecessari	ADJ	unnecessary.a.01
+maco	ADJ	nice.a.01
+noble	ADJ	noble.a.03	noble.a.02
+anormal	ADJ	abnormal.a.01
+meridional	ADJ	south.a.01	southern.a.01	meridional.a.01
+nord	ADJ	northern.a.04
+septentrional	ADJ	northern.a.04	northern.a.01
+desapercebut	ADJ	unnoticed.a.01
+inadvertit	ADJ	unnoticed.a.01
+nociu	ADJ	noxious.a.01
+tòxic	ADJ	noxious.a.01
+innocu	ADJ	innocuous.a.01
+obvi	ADJ	obvious.a.01
+oficial	ADJ	official.a.01	official.a.02
+après	ADJ	conditioned.a.01
+condicionat	ADJ	conditioned.a.01
+vell	ADJ	old.a.02	old.a.01
+nou	ADJ	new.a.01
+obert	ADJ	open.a.01	open.a.02	open.a.05	overt.a.01
+tancat	ADJ	shut.a.01	enclosed.a.01
+optimista	ADJ	optimistic.a.01
+optimístic	ADJ	optimistic.a.01
+pessimista	ADJ	pessimistic.a.01
+organitzat	ADJ	organized.a.01
+inorgànic	ADJ	inorganic.a.01	inorganic.a.02
+original	ADJ	original.a.03
+ras	ADJ	bare.a.04
+banyar	ADJ	coated.a.01
+frondós	ADJ	leafy.a.01
+fullós	ADJ	leafy.a.01
+públic	ADJ	overt.a.01	public.a.01
+dolorós	ADJ	painful.a.01
+penós	ADJ	painful.a.01
+indolor	ADJ	painless.a.02
+gustós	ADJ	palatable.a.01
+saborós	ADJ	palatable.a.01
+paral·lel	ADJ	parallel.a.01
+perpendicular	ADJ	perpendicular.a.01
+inexcusable	ADJ	inexcusable.a.01
+matern	ADJ	parental.a.02
+maternal	ADJ	parental.a.02
+patern	ADJ	parental.a.02	paternal.a.01
+paternal	ADJ	parental.a.02	paternal.a.01
+injust	ADJ	partial.a.02	wrong.a.02
+neutral	ADJ	impartial.a.01
+apassionat	ADJ	passionate.a.01
+fervent	ADJ	passionate.a.01
+actual	ADJ	present.a.01
+present	ADJ	present.a.01	present.a.02
+futur	ADJ	future.a.01
+pacient	ADJ	patient.a.01
+ansiós	ADJ	impatient.a.01
+frisós	ADJ	impatient.a.01
+impacient	ADJ	impatient.a.01
+antipatriòtic	ADJ	unpatriotic.a.01
+disgustat	ADJ	penitent.a.01
+dolgut	ADJ	penitent.a.01
+penedit	ADJ	penitent.a.01
+perceptiu	ADJ	perceptive.a.02
+imperceptiu	ADJ	unperceptive.a.01
+perceptible	ADJ	perceptible.a.01
+imperceptible	ADJ	imperceptible.a.01
+imperfecte	ADJ	imperfect.a.01
+perible	ADJ	perishable.a.01
+estable	ADJ	permanent.a.01	stable.a.01
+permanent	ADJ	permanent.a.01
+temporal	ADJ	impermanent.a.01	worldly.a.01	temporal.a.03	temporal.a.02
+durador	ADJ	persistent.a.03
+persistent	ADJ	persistent.a.03
+irrevocable	ADJ	irrevocable.a.01
+particular	ADJ	personal.a.01
+personal	ADJ	personal.a.01	personal.a.05	personal.a.03
+convincent	ADJ	persuasive.a.01
+persuasiu	ADJ	persuasive.a.01
+impermeable	ADJ	impervious.a.01
+físic	ADJ	physical.a.01	physical.a.02
+religiós	ADJ	religious.a.02
+antipàtic	ADJ	unpleasant.a.01
+punxegut	ADJ	pointed.a.01
+punxent	ADJ	pointed.a.01
+rom	ADJ	pointless.a.01
+obtús	ADJ	obtuse.a.01
+sensat	ADJ	politic.a.01
+polític	ADJ	political.a.01	political.a.02	political.a.03
+popular	ADJ	popular.a.01
+positiu	ADJ	positive.a.01
+útil	ADJ	positive.a.01	useful.a.01
+feble	ADJ	powerless.a.01
+fluix	ADJ	powerless.a.01
+incult	ADJ	uncultivated.a.01
+precoç	ADJ	precocious.a.01
+predicible	ADJ	predictable.a.01
+previsible	ADJ	predictable.a.01
+impredecible	ADJ	unpredictable.a.01
+absent	ADJ	absent.a.01
+fastuós	ADJ	ostentatious.a.01
+ostentós	ADJ	ostentatious.a.01
+pretenciós	ADJ	ostentatious.a.01
+primari	ADJ	primary.a.01
+secundari	ADJ	secondary.a.01
+bàsic	ADJ	basic.a.01
+circumstancial	ADJ	incidental.a.01
+incidental	ADJ	incidental.a.01
+privat	ADJ	private.a.01
+productor	ADJ	productive.a.01
+generatiu	ADJ	generative.a.01
+professional	ADJ	professional.a.01	professional.a.03	professional.a.04	professional.a.02	vocational.a.01
+llec	ADJ	nonprofessional.a.01
+fondo	ADJ	profound.a.01
+pregon	ADJ	profound.a.01
+profund	ADJ	profound.a.01
+superficial	ADJ	superficial.a.01	superficial.a.02
+insensat	ADJ	imprudent.a.01
+impune	ADJ	unpunished.a.01
+híbrid	ADJ	crossbred.a.01
+pur	ADJ	pure.a.01
+no_qualificat	ADJ	unqualified.a.02
+ensinistrat	ADJ	trained.a.01
+entrenat	ADJ	trained.a.01
+inexpert	ADJ	untrained.a.01
+qüestionable	ADJ	questionable.a.01
+escandalós	ADJ	noisy.a.01
+sorollós	ADJ	noisy.a.01
+relaxant	ADJ	restful.a.01
+aleatori	ADJ	random.a.01
+emotiu	ADJ	emotional.a.01
+cerebral	ADJ	cerebral.a.01	cerebral.a.02
+intelectual	ADJ	cerebral.a.01
+mutu	ADJ	reciprocal.a.01
+recíproc	ADJ	reciprocal.a.01
+refinat	ADJ	refined.a.02
+registrat	ADJ	registered.a.02
+regular	ADJ	regular.a.01
+irregular	ADJ	irregular.a.01	irregular.a.03
+corregible	ADJ	reparable.a.01
+esmenable	ADJ	reparable.a.01
+rectificable	ADJ	reparable.a.01
+invariable	ADJ	uniform.a.01	invariable.a.01
+uniforme	ADJ	uniform.a.01
+periòdic	ADJ	periodic.a.01
+aperiòdic	ADJ	aperiodic.a.01
+connectat	ADJ	related.a.02	related.a.01
+relacionat	ADJ	related.a.02	related.a.01
+rellevant	ADJ	relevant.a.01
+invàlid	ADJ	irrelevant.a.01
+irrellevant	ADJ	irrelevant.a.01
+insubstituïble	ADJ	irreplaceable.a.01
+representatiu	ADJ	representative.a.02
+irresolut	ADJ	irresolute.a.01
+responsable	ADJ	responsible.a.01
+reflectit	ADJ	reflected.a.01
+reflex	ADJ	reflected.a.01
+revolucionari	ADJ	revolutionary.a.04
+ric	ADJ	rich.a.01	rich.a.02
+cornut	ADJ	horned.a.01
+robust	ADJ	robust.a.01
+circular	ADJ	round.a.01
+rodó	ADJ	round.a.01
+arrodonit	ADJ	rounded.a.01
+angular	ADJ	angular.a.02	angular.a.01
+angulós	ADJ	angular.a.02
+rural	ADJ	rural.a.01	rural.a.02
+urbà	ADJ	urban.a.02	urban.a.01
+sagrat	ADJ	holy.a.01
+sant	ADJ	holy.a.01
+distint	ADJ	different.a.01
+sarcàstic	ADJ	sarcastic.a.01
+satisfactori	ADJ	satisfactory.a.01
+científic	ADJ	scientific.a.02	scientific.a.01
+conscienciós	ADJ	conscientious.a.02
+fixat	ADJ	fastened.a.01
+subjecte	ADJ	fastened.a.01
+conjunt	ADJ	joint.a.01
+higiènic	ADJ	sanitary.a.01
+antihigiènic	ADJ	unsanitary.a.01
+sèptic	ADJ	septic.a.01
+antisèptic	ADJ	antiseptic.a.01
+seriós	ADJ	serious.a.01
+frívol	ADJ	frivolous.a.01
+establert	ADJ	settled.a.02
+situat	ADJ	settled.a.02
+sexual	ADJ	sexual.a.02	sexual.a.01
+asexual	ADJ	asexual.a.01
+afrodisíac	ADJ	aphrodisiac.a.01
+sexy	ADJ	aphrodisiac.a.01
+format	ADJ	formed.a.01
+informe	ADJ	unformed.a.01
+significant	ADJ	significant.a.01
+simple	ADJ	simple.a.01
+complex	ADJ	complex.a.01
+múltiple	ADJ	multiple.a.01
+matemàtic	ADJ	numerical.a.03	mathematical.a.01
+relliscós	ADJ	slippery.a.01
+rellisquent	ADJ	slippery.a.01
+aspre	ADJ	rough.a.01
+dentat	ADJ	rough.a.08
+denticulat	ADJ	rough.a.08
+social	ADJ	social.a.02
+sol	ADJ	unaccompanied.a.01
+gregari	ADJ	gregarious.a.01
+esquerp	ADJ	unsociable.a.01
+esquiu	ADJ	unsociable.a.01
+insocial	ADJ	unsociable.a.01
+retret	ADJ	unsociable.a.01
+sòlid	ADJ	solid.a.02
+massís	ADJ	solid.a.03
+càndid	ADJ	naive.a.01
+especialitzat	ADJ	specialized.a.01
+espontani	ADJ	spontaneous.a.01
+induït	ADJ	induced.a.01
+inestable	ADJ	unstable.a.01
+constel·lat	ADJ	starry.a.01
+estrellat	ADJ	starry.a.01
+corb	ADJ	curved.a.01
+corbat	ADJ	curved.a.01
+fort	ADJ	strong.a.01
+obstinat	ADJ	stubborn.a.01
+pertinaç	ADJ	stubborn.a.01
+tossut	ADJ	stubborn.a.01
+pròsper	ADJ	successful.a.01
+prosperós	ADJ	successful.a.01
+venturós	ADJ	successful.a.01
+suficient	ADJ	sufficient.a.01
+deficient	ADJ	insufficient.a.01
+insuficient	ADJ	insufficient.a.01
+ensucrat	ADJ	sugary.a.01
+superior	ADJ	superior.a.02	superior.a.01	top.a.01
+inferior	ADJ	inferior.a.01	inferior.a.02
+sorprenent	ADJ	surprising.a.01
+xocant	ADJ	surprising.a.01
+susceptible	ADJ	susceptible.a.01
+immune	ADJ	unsusceptible.a.01
+dolç	ADJ	sweet.a.07	sweet.a.01
+àcid	ADJ	sour.a.02
+insospitat	ADJ	unsuspected.a.01
+asimètric	ADJ	asymmetrical.a.01
+síncron	ADJ	synchronous.a.01
+asíncron	ADJ	asynchronous.a.02
+sistemàtic	ADJ	systematic.a.01
+insuls	ADJ	tasteless.a.01
+frugal	ADJ	temperate.a.02
+temperat	ADJ	temperate.a.02
+rigorós	ADJ	intemperate.a.01
+lax	ADJ	lax.a.03	lax.a.02
+espès	ADJ	thick.a.01	thick.a.03
+gros	ADJ	thick.a.01
+impensable	ADJ	unthinkable.a.01
+inconcebible	ADJ	unthinkable.a.01
+inaguantable	ADJ	intolerable.a.01
+insofrible	ADJ	intolerable.a.01
+insuportable	ADJ	intolerable.a.01
+intolerable	ADJ	intolerable.a.01
+irresistible	ADJ	intolerable.a.01
+indulgent	ADJ	tolerant.a.01
+tolerant	ADJ	tolerant.a.01
+lateral	ADJ	side.a.01
+tendre	ADJ	tender.a.01
+fals	ADJ	false.a.01
+atípic	ADJ	atypical.a.01
+submergible	ADJ	submersible.a.01
+sindical	ADJ	union.a.02
+sindicalista	ADJ	union.a.02
+ascendent	ADJ	ascending.a.01
+ungulat	ADJ	ungulate.a.01
+aixecat	ADJ	up.a.01
+cèntric	ADJ	downtown.a.01
+vàlid	ADJ	valid.a.01
+variat	ADJ	varied.a.01
+visible	ADJ	visible.a.01
+voluntari	ADJ	voluntary.a.01	voluntary.a.02
+involuntari	ADJ	involuntary.a.02
+càlid	ADJ	warm.a.02	warm.a.03
+benvingut	ADJ	welcome.a.01
+sà	ADJ	well.a.01
+malalt	ADJ	ill.a.01
+humit	ADJ	wet.a.01
+moll	ADJ	wet.a.01
+xopat	ADJ	wet.a.01
+sec	ADJ	dry.a.01
+hidratant	ADJ	hydrous.a.01
+hidratat	ADJ	hydrous.a.01
+oficinista	ADJ	white-collar.a.01
+ample	ADJ	wide.a.01
+insignificant	ADJ	narrow.a.04
+marginal	ADJ	narrow.a.04
+llenyós	ADJ	woody.a.01
+florent	ADJ	flowering.a.01
+florescent	ADJ	flowering.a.01
+vegetal	ADJ	vegetal.a.01
+vegetatiu	ADJ	vegetal.a.01
+asfàltic	ADJ	asphaltic.a.01
+acadèmic	ADJ	academic.a.01
+adolescent	ADJ	adolescent.a.01
+albanès	ADJ	albanian.a.01
+al·lèrgic	ADJ	allergic.a.01
+alfanumèric	ADJ	alphanumeric.a.01
+alveolar	ADJ	alveolar.a.01	alveolar.a.02
+amoníac	ADJ	ammoniac.a.01
+anarquista	ADJ	anarchistic.a.01
+arterial	ADJ	arterial.a.01
+avuncular	ADJ	avuncular.a.01
+axil·lar	ADJ	axillary.a.02
+bibliogràfic	ADJ	bibliographic.a.01
+bibliòfil	ADJ	bibliolatrous.a.01
+biliar	ADJ	bilious.a.01
+binari	ADJ	binary.a.01
+bioquímic	ADJ	biochemical.a.01
+bucal	ADJ	buccal.a.01	oral.a.02
+calcari	ADJ	calcareous.a.01
+cancerigen	ADJ	carcinogenic.a.01
+carcinogen	ADJ	carcinogenic.a.01
+bisbal	ADJ	cathedral.a.01
+episcopal	ADJ	cathedral.a.01
+celeste	ADJ	celestial.a.02
+celestial	ADJ	celestial.a.02	celestial.a.01
+benèfic	ADJ	charitable.a.01
+químic	ADJ	chemical.a.01	chemical.a.02
+ciutadà	ADJ	civic.a.01
+municipal	ADJ	municipal.a.01
+clerical	ADJ	clerical.a.02	clerical.a.01
+eclesiàstic	ADJ	clerical.a.02	clerical.a.01	ecclesiastical.a.01
+comunal	ADJ	communal.a.02
+comunitari	ADJ	communal.a.02
+compost	ADJ	composite.a.02
+contractual	ADJ	contractual.a.01
+culinari	ADJ	culinary.a.01
+dental	ADJ	dental.a.01
+dentari	ADJ	dental.a.01
+diferencial	ADJ	differential.a.01
+dactilar	ADJ	digital.a.02
+econòmic	ADJ	economic.a.02	economic.a.01
+editorial	ADJ	editorial.a.02
+electrònic	ADJ	electronic.a.01	electronic.a.02
+federal	ADJ	federal.a.02
+fèrric	ADJ	ferric.a.01
+ferrós	ADJ	ferric.a.01
+ferruginós	ADJ	ferric.a.01
+fòrmic	ADJ	formic.a.02	formic.a.01
+estomacal	ADJ	gastric.a.01
+gàstric	ADJ	gastric.a.01
+genèric	ADJ	generic.a.01
+hepàtic	ADJ	hepatic.a.01
+heroic	ADJ	heroic.a.02
+hexagonal	ADJ	hexangular.a.01
+illenc	ADJ	insular.a.01
+insular	ADJ	insular.a.01
+judicial	ADJ	judicial.a.03	judicial.a.02
+jurídic	ADJ	judicial.a.03	legal.a.04
+jurisprudencial	ADJ	legal.a.02
+labial	ADJ	labial.a.01
+neonatal	ADJ	neonatal.a.01
+numeral	ADJ	numeral.a.01
+numèric	ADJ	numeral.a.01
+parlamentari	ADJ	parliamentary.a.01
+torbós	ADJ	peaty.a.01
+positivista	ADJ	positivist.a.01
+provincial	ADJ	provincial.a.01
+republicà	ADJ	republican.a.01
+agrícola	ADJ	agricultural.a.01
+sensorial	ADJ	sensational.a.03
+en_sèrie	ADJ	serial.a.03
+esfèric	ADJ	spherical.a.01
+simptomàtic	ADJ	symptomatic.a.02
+tecnològic	ADJ	technical.a.03
+templar	ADJ	temporal.a.03
+terminal	ADJ	terminal.a.02
+temàtic	ADJ	thematic.a.02
+calòric	ADJ	thermal.a.01
+calorífic	ADJ	thermal.a.01
+termal	ADJ	thermal.a.01
+tèrmic	ADJ	thermal.a.01
+totalitari	ADJ	totalitarian.a.02
+vacuolat	ADJ	vacuolate.a.01
+vocal	ADJ	vocal.a.02	vocal.a.01
+instrumental	ADJ	instrumental.a.01
+volcànic	ADJ	volcanic.a.01
+elèctric	ADJ	electrical.a.01	electric.a.01
+hidroelèctric	ADJ	hydroelectric.a.01
+legislatiu	ADJ	legislative.a.02	legislative.a.01
+longitudinal	ADJ	longitudinal.a.01
+literari	ADJ	literary.a.01
+limfàtic	ADJ	lymphatic.a.01
+atmosfèric	ADJ	atmospheric.a.01
+fungós	ADJ	fungal.a.01
+bacterià	ADJ	bacterial.a.01
+radial	ADJ	radial.a.03	radial.a.02	radial.a.01
+fotogràfic	ADJ	photographic.a.01
+neumàtic	ADJ	pneumatic.a.01
+feminista	ADJ	feminist.a.01
+umbilical	ADJ	umbilical.a.01
+semàntic	ADJ	semantic.a.01
+cardíac	ADJ	cardiac.a.01
+cranial	ADJ	cranial.a.01
+cònic	ADJ	conic.a.01
+dominical	ADJ	dominical.a.02
+floral	ADJ	floral.a.03	floral.a.02
+fiscal	ADJ	fiscal.a.01
+marital	ADJ	marital.a.01
+matrimonial	ADJ	marital.a.01
+vinós	ADJ	vinous.a.01
+polimorf	ADJ	polymorphic.a.02	polymorphous.a.01
+polimòrfic	ADJ	polymorphic.a.02	polymorphous.a.01
+patològic	ADJ	pathological.a.01
+òptic	ADJ	optical.a.01	ocular.a.02	ocular.a.01
+monumental	ADJ	monumental.a.01
+ocular	ADJ	ocular.a.02	ocular.a.01
+visual	ADJ	ocular.a.02
+angèlic	ADJ	angelic.a.02
+angelical	ADJ	angelic.a.02
+vascular	ADJ	vascular.a.01
+coral	ADJ	choral.a.01
+comunista	ADJ	communist.a.01
+cutani	ADJ	cutaneous.a.01
+papal	ADJ	papal.a.01
+viral	ADJ	viral.a.01
+víric	ADJ	viral.a.01
+sintàctic	ADJ	syntactic.a.01
+felí	ADJ	feline.a.01
+muscular	ADJ	muscular.a.01
+nefrític	ADJ	nephritic.a.02
+renal	ADJ	nephritic.a.02
+espinal	ADJ	spinal.a.01
+clínico	ADJ	clinical.a.01
+lèxic	ADJ	lexical.a.01	lexical.a.02
+litoral	ADJ	littoral.a.01
+marí	ADJ	nautical.a.01
+marítim	ADJ	nautical.a.01
+nàutic	ADJ	nautical.a.01
+oceànic	ADJ	oceanic.a.01
+fetal	ADJ	fetal.a.01
+documental	ADJ	documentary.a.01
+mucós	ADJ	mucous.a.01	mucoid.a.01
+administratiu	ADJ	administrative.a.01	managerial.a.01
+nerviós	ADJ	nervous.a.03
+bionòmic	ADJ	ecological.a.02
+ecològic	ADJ	ecological.a.02
+computacional	ADJ	computational.a.01
+astrofísic	ADJ	astrophysical.a.01
+terapèutic	ADJ	therapeutic.a.02
+fatxa	ADJ	fascist.a.01
+feixista	ADJ	fascist.a.01
+catòlic	ADJ	catholic.a.01
+romà	ADJ	roman.a.01
+evangèlic	ADJ	evangelical.a.01
+hindustànic	ADJ	hindu.a.01
+indostànic	ADJ	hindu.a.01
+escultòric	ADJ	sculptural.a.01
+escultural	ADJ	sculptural.a.01
+cervical	ADJ	cervical.a.01
+americà	ADJ	american.a.02	american.a.01
+nord-americà	ADJ	american.a.01	north_american.a.01
+indi	ADJ	indian.a.02	indian.a.01
+hindú	ADJ	indian.a.01
+sud-americà	ADJ	south_american.a.01
+asimptòtic	ADJ	asymptotic.a.01
+subtropical	ADJ	subtropical.a.01
+abdominal	ADJ	abdominal.a.01
+hemisfèric	ADJ	hemispheric.a.01
+pulmonar	ADJ	pneumonic.a.02
+adverbial	ADJ	adverbial.a.01
+coreogràfic	ADJ	choreographic.a.01
+africà	ADJ	african.a.01
+ambiental	ADJ	environmental.a.02	environmental.a.01
+prehistòric	ADJ	prehistoric.a.02
+bronquial	ADJ	bronchial.a.01
+italià	ADJ	italian.a.01
+rus	ADJ	russian.a.01
+alemany	ADJ	german.a.01
+britànic	ADJ	britannic.a.01	british.a.01	briton.a.01
+francès	ADJ	french.a.01
+espanyol	ADJ	spanish.a.01
+hispànic	ADJ	spanish.a.01
+ibèric	ADJ	iberian.a.01
+lusità	ADJ	portuguese.a.01
+portugués	ADJ	portuguese.a.01
+finlandés	ADJ	finnish.a.01
+suec	ADJ	swedish.a.01
+noruec	ADJ	norwegian.a.01
+danès	ADJ	danish.a.01
+belga	ADJ	belgian.a.01
+holandès	ADJ	dutch.a.01
+neerlandès	ADJ	dutch.a.01
+luxemburguès	ADJ	luxembourgian.a.01	luxemburger.a.02	luxemburger.a.01
+suís	ADJ	swiss.a.01
+austríac	ADJ	austrian.a.01
+polonès	ADJ	polish.a.01
+hongarès	ADJ	hungarian.a.01
+magiar	ADJ	hungarian.a.01
+txec	ADJ	czech.a.01
+txecoslovac	ADJ	czech.a.01
+iugoslau	ADJ	yugoslavian.a.01
+romanès	ADJ	romanian.a.01
+letó	ADJ	latvian.a.01
+serbi	ADJ	serbian.a.01
+xinès	ADJ	chinese.a.01
+japonès	ADJ	japanese.a.01
+nipó	ADJ	japanese.a.01
+peruà	ADJ	peruvian.a.01
+ecuatorià	ADJ	ecuadorian.a.01
+panameny	ADJ	panamanian.a.01
+veneçolà	ADJ	venezuelan.a.01
+brasiler	ADJ	brazilian.a.01
+argentí	ADJ	argentine.a.01
+paraguaià	ADJ	paraguayan.a.01
+uruguaià	ADJ	uruguayan.a.01
+bolivià	ADJ	bolivian.a.01
+colombià	ADJ	colombian.a.01
+europeu	ADJ	european.a.01
+salvadorenc	ADJ	salvadoran.a.01
+salvadoreny	ADJ	salvadoran.a.01
+cubà	ADJ	cuban.a.01
+bàvar	ADJ	bavarian.a.01
+napolità	ADJ	neapolitan.a.01
+milanès	ADJ	milanese.a.01
+egipci	ADJ	egyptian.a.01
+egipcià	ADJ	egyptian.a.01
+israelià	ADJ	israeli.a.01
+palestí	ADJ	palestinian.a.01
+cortical	ADJ	cortical.a.01
+gastronòmic	ADJ	gastronomic.a.01
+nasal	ADJ	rhinal.a.01
+retinal	ADJ	retinal.a.01
+congresional	ADJ	congressional.a.01
+canadenc	ADJ	canadian.a.01
+necròtic	ADJ	necrotic.a.01
+hipotalàmic	ADJ	hypothalamic.a.01
+emocional	ADJ	emotional.a.03
+corporatiu	ADJ	corporate.a.01
+naturista	ADJ	naturistic.a.01
+nudista	ADJ	naturistic.a.01
+medieval	ADJ	medieval.a.01
+marbrenc	ADJ	marmorean.a.01
+marmori	ADJ	marmorean.a.01
+quadrimestral	ADJ	quarterly.a.01
+rotatiu	ADJ	rotary.a.01
+rotatori	ADJ	rotary.a.01
+osmòtic	ADJ	osmotic.a.01
+anglès	ADJ	english.a.01
+centreamericà	ADJ	central_american.a.01
+ceri	ADJ	waxen.a.01
+cerós	ADJ	waxen.a.01
+glomerular	ADJ	glomerular.a.01
+vertebral	ADJ	vertebral.a.01
+miocardíac	ADJ	myocardial.a.01
+flagel·lat	ADJ	flagellate.a.01
+grec	ADJ	greek.a.01
+hel·lè	ADJ	greek.a.01
+hel·lènic	ADJ	greek.a.01
+siri	ADJ	syrian.a.01
+sirià	ADJ	syrian.a.01
+siríac	ADJ	syrian.a.01
+mitral	ADJ	mitral.a.01
+parisenc	ADJ	parisian.a.01
+turc	ADJ	turkish.a.01
+marroquí	ADJ	moroccan.a.01
+alpí	ADJ	alpine.a.02	alpine.a.01
+andí	ADJ	andean.a.01
+mexicà	ADJ	mexican.a.01
+angolès	ADJ	angolan.a.01
+àrab	ADJ	arabian.a.02	arabian.a.01	arabic.a.01
+aràbic	ADJ	arabian.a.02	arabian.a.01
+aritmètic	ADJ	arithmetical.a.01
+australià	ADJ	australian.a.01
+benedictí	ADJ	benedictine.a.02
+camerunès	ADJ	cameroonian.a.01
+català	ADJ	catalan.a.02	catalan.a.01
+climàtic	ADJ	climatic.a.01
+concessiu	ADJ	concessive.a.01
+costa-riqueny	ADJ	costa_rican.a.01
+etíop	ADJ	ethiopian.a.01
+etiòpic	ADJ	ethiopian.a.01
+feudal	ADJ	feudatory.a.01
+filipí	ADJ	filipino.a.01
+tagàlog	ADJ	filipino.a.01
+flamenc	ADJ	flemish.a.01
+franciscà	ADJ	franciscan.a.01
+gal	ADJ	gallic.a.01
+gàl·lic	ADJ	gallic.a.01
+granadí	ADJ	grenadian.a.01
+guatemalenc	ADJ	guatemalan.a.01
+guineà	ADJ	guinean.a.01
+hispà	ADJ	hispanic.a.01
+iranià	ADJ	iranian.a.01
+iraquià	ADJ	iraqi.a.01
+jesuïta	ADJ	jesuitical.a.01
+jesuític	ADJ	jesuitical.a.01
+llatí	ADJ	latin.a.01	latin.a.04	latin.a.02
+llatina	ADJ	romance.a.01
+romanç	ADJ	romance.a.01
+romànica	ADJ	romance.a.01
+libanès	ADJ	lebanese.a.01
+llevantí	ADJ	levantine.a.01
+liberià	ADJ	liberian.a.01
+mediterrani	ADJ	mediterranean.a.01
+membranós	ADJ	membranous.a.01
+mentolat	ADJ	mentholated.a.01
+neolític	ADJ	neolithic.a.01
+paleolític	ADJ	paleolithic.a.01
+nicaragüenc	ADJ	nicaraguan.a.01
+nicaragüeny	ADJ	nicaraguan.a.01
+olímpic	ADJ	olympic.a.01	olympian.a.02	olympian.a.01
+peninsular	ADJ	peninsular.a.01
+farmacèutic	ADJ	pharmaceutical.a.01
+poligonal	ADJ	polygonal.a.01
+polinomial	ADJ	polynomial.a.01
+polinómico	ADJ	polynomial.a.01
+gitano	ADJ	romany.a.01
+zíngar	ADJ	romany.a.01
+cismàtic	ADJ	schismatic.a.01
+valvular	ADJ	valvular.a.01
+veterinari	ADJ	veterinary.a.01
+gal·lès	ADJ	welsh.a.01
+ossi	ADJ	osseous.a.01
 dC	ADV	ad.r.01
 DC	ADV	ad.r.01
