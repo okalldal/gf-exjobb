@@ -1,11 +1,9 @@
 .idea/*
-data/*
+data/em_data/*
+data/feature_counts/autoparsed/*
 work/.ipynb_checkpoints/*
 .vscode/
 work/__pycache__/
-*.data
-*.probs
 work/*.ipynb
-results/**/*.pickle
-parsed_data/counts/
+results/*
 **/__pycache__
