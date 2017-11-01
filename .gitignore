@@ -1,6 +1,7 @@
 .idea/*
 data/em_data/*
 data/feature_counts/autoparsed/*
+data/possibility_dictionaries/gf_wn/*
 work/.ipynb_checkpoints/*
 .vscode/
 work/__pycache__/
