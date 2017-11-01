@@ -2972,413 +2972,413 @@
 餘	VERB	leave.v.11
 蜿蜒	VERB	snake.v.02
 持續	VERB	continue.v.06
-莫	ADJ	unable.a.01	unable.a.01
-具體	ADJ	concrete.a.01	specific.a.01	concrete.a.01	specific.a.01
-豐厚	ADJ	abundant.a.01	abundant.a.01
-切實	ADJ	accurate.a.01	accurate.a.01
-真的	ADJ	accurate.a.01	accurate.a.01
-確實	ADJ	accurate.a.01	accurate.a.01
-主動	ADJ	active.a.05	active.a.05
-急性	ADJ	acute.a.01	acute.a.01
-不足	ADJ	inadequate.a.01	insufficient.a.01	inadequate.a.01	insufficient.a.01
-動心	ADJ	affected.a.01	affected.a.01
-進取	ADJ	aggressive.a.01	aggressive.a.01
-亡	ADJ	dead.a.01	dead.a.01
-自我	ADJ	egoistic.a.01	egoistic.a.01
-數位	ADJ	digital.a.03	digital.a.03
-數字	ADJ	digital.a.03	digital.a.03
-假	ADJ	synthetic.a.02	counterfeit.a.01	impractical.a.01	unrealistic.a.01	frivolous.a.01	insincere.a.01	false.a.01	synthetic.a.02	counterfeit.a.01	impractical.a.01	unrealistic.a.01	frivolous.a.01	insincere.a.01	false.a.01
-偽	ADJ	synthetic.a.02	counterfeit.a.01	false.a.01	synthetic.a.02	counterfeit.a.01	false.a.01
-引以為怒	ADJ	angry.a.01	angry.a.01
-惱怒	ADJ	angry.a.01	angry.a.01
-氣呼呼	ADJ	angry.a.01	angry.a.01
-戰前	ADJ	prewar.a.01	prewar.a.01
-戰後	ADJ	postwar.a.01	postwar.a.01
-身後	ADJ	posterior.a.01	posterior.a.01
-宜	ADJ	appropriate.a.01	appropriate.a.01
-對	ADJ	appropriate.a.01	right.a.05	appropriate.a.01	right.a.05
-適合	ADJ	appropriate.a.01	appropriate.a.01
-適時	ADJ	appropriate.a.01	appropriate.a.01
-訥於言詞	ADJ	inarticulate.a.01	inarticulate.a.01
-吉	ADJ	auspicious.a.01	auspicious.a.01
-祥	ADJ	auspicious.a.01	auspicious.a.01
-禧	ADJ	auspicious.a.01	auspicious.a.01
-現成	ADJ	available.a.01	ready-made.a.01	available.a.01	ready-made.a.01
-前	ADJ	front.a.01	front.a.01
-前面	ADJ	front.a.01	front.a.01
-漂亮	ADJ	beautiful.a.01	beautiful.a.01
-美	ADJ	beautiful.a.01	beautiful.a.01
-醜	ADJ	ugly.a.01	ugly.a.01
-陋	ADJ	ugly.a.01	bad.a.01	unintelligent.a.01	poor.a.03	ugly.a.01	bad.a.01	unintelligent.a.01	poor.a.03
-最佳	ADJ	best.a.01	best.a.01
-雙向	ADJ	bidirectional.a.01	bidirectional.a.01
-鬆	ADJ	untied.a.01	loose.a.01	uncrowded.a.01	loose.a.03	untied.a.01	loose.a.01	uncrowded.a.01	loose.a.03
-狹隘	ADJ	narrow-minded.a.02	narrow.a.01	narrow-minded.a.02	narrow.a.01
-柴	ADJ	bony.a.03	bad.a.01	rough.a.01	tough.a.07	bony.a.03	bad.a.01	rough.a.01	tough.a.07
-清	ADJ	calm.a.02	saturated.a.03	clear.a.01	clear.a.11	delicate.a.01	peaceful.a.01	quiet.a.02	unvoiced.a.01	calm.a.02	saturated.a.03	clear.a.01	clear.a.11	delicate.a.01	peaceful.a.01	quiet.a.02	unvoiced.a.01
-下	ADJ	capable.a.01	latter.a.01	inferior.a.02	down.a.01	capable.a.01	latter.a.01	inferior.a.02	down.a.01
-粗心	ADJ	careless.a.01	careless.a.01
-不一定	ADJ	uncertain.a.02	uncertain.a.02
-不見得	ADJ	uncertain.a.02	uncertain.a.02
-說不定	ADJ	uncertain.a.02	uncertain.a.02
-未定	ADJ	uncertain.a.01	unstable.a.01	uncertain.a.01	unstable.a.01
-深信不疑	ADJ	convinced.a.02	convinced.a.02
-白	ADJ	white.a.01	light.a.02	plain.a.02	misused.a.01	white.a.01	light.a.02	plain.a.02	misused.a.01
-粉	ADJ	white.a.01	white.a.01
-純	ADJ	saturated.a.03	pure.a.01	skilled.a.01	saturated.a.03	pure.a.01	skilled.a.01
-彩	ADJ	color.a.01	colored.a.01	colorful.a.01	color.a.01	colored.a.01	colorful.a.01
-花	ADJ	colorful.a.01	colorful.a.01
-淺	ADJ	light.a.02	shallow.a.01	shallow.a.02	short.a.01	light.a.02	shallow.a.01	shallow.a.02	short.a.01
-潔淨	ADJ	clean.a.01	clean.a.01
-垢	ADJ	dirty.a.01	dirty.a.01
-汙	ADJ	dirty.a.01	unfair.a.01	dirty.a.01	unfair.a.01
-骯髒	ADJ	dirty.a.01	dirty.a.02	unethical.a.01	dirty.a.01	dirty.a.02	unethical.a.01
-髒	ADJ	dirty.a.01	dirty.a.02	unethical.a.01	dirty.a.01	dirty.a.02	unethical.a.01
-清楚	ADJ	clear.a.01	clear.a.01
-清清楚楚	ADJ	clear.a.01	clear.a.01
-明朗	ADJ	clear.a.04	clear.a.04
-聰明	ADJ	smart.a.01	smart.a.01
-頑	ADJ	stupid.a.01	stubborn.a.01	stupid.a.01	stubborn.a.01
-遠	ADJ	far.a.01	far.a.01
-將近	ADJ	near.a.01	near.a.01
-近	ADJ	near.a.01	near.a.01
-邊	ADJ	close.a.01	close.a.01
-附近	ADJ	close.a.01	close.a.01
-好	ADJ	close.a.02	good.a.01	kind.a.01	close.a.02	good.a.01	kind.a.01
-密	ADJ	close.a.02	close.a.02
-相親	ADJ	close.a.02	close.a.02
-親	ADJ	close.a.02	close.a.02
-平滑	ADJ	uncrannied.a.01	uncrannied.a.01
-集體	ADJ	collective.a.02	collective.a.02
-舒適	ADJ	comfortable.a.01	comfortable.a.02	easy.a.03	comfortable.a.01	comfortable.a.02	easy.a.03
-差	ADJ	uncomfortable.a.02	bad.a.01	unkind.a.01	uncomfortable.a.02	bad.a.01	unkind.a.01
-難過	ADJ	uncomfortable.a.02	unhappy.a.01	intolerable.a.01	uncomfortable.a.02	unhappy.a.01	intolerable.a.01
-住宅	ADJ	residential.a.01	residential.a.01
-宅	ADJ	residential.a.01	residential.a.01
-慣常	ADJ	usual.a.01	usual.a.01
-個	ADJ	individual.a.01	individual.a.01
-疏	ADJ	loose.a.01	infrequent.a.01	loose.a.01	infrequent.a.01
-全	ADJ	complete.a.01	complete.a.01
-完全	ADJ	complete.a.01	complete.a.01
-偏心	ADJ	eccentric.a.02	eccentric.a.02
-操	ADJ	concerned.a.01	concerned.a.01
-格格不入	ADJ	uncongenial.a.01	uncongenial.a.01
-暢	ADJ	connected.a.02	happy.a.01	connected.a.02	happy.a.01
-通	ADJ	connected.a.02	connected.a.02
-接連	ADJ	continuous.a.01	continuous.a.01
-連續	ADJ	continuous.a.01	continuous.a.01
-便利	ADJ	convenient.a.01	convenient.a.01
-方便	ADJ	convenient.a.01	convenient.a.01
-不便	ADJ	inconvenient.a.01	difficult.a.01	inconvenient.a.01	difficult.a.01
-傳統	ADJ	conventional.a.01	conventional.a.04	conventional.a.01	conventional.a.04
-固有	ADJ	traditional.a.01	intrinsic.a.01	traditional.a.01	intrinsic.a.01
-腐	ADJ	corrupt.a.01	corrupt.a.01
-有沒有	ADJ	correct.a.01	correct.a.01
-左	ADJ	incorrect.a.01	left-handed.a.01	incorrect.a.01	left-handed.a.01
-正	ADJ	right.a.05	pure.a.01	real.a.01	right.a.05	pure.a.01	real.a.01
-難以置信	ADJ	incredible.a.01	incredible.a.01
-成	ADJ	ready-made.a.01	good.a.01	ready-made.a.01	good.a.01
-手	ADJ	handmade.a.01	handmade.a.01
-起	ADJ	elated.a.01	elated.a.01
-牢	ADJ	reliable.a.01	secure.a.03	reliable.a.01	secure.a.03
-主從	ADJ	dependent.a.03	dependent.a.03
-容易	ADJ	easy.a.01	easy.a.01
-易	ADJ	easy.a.01	friendly.a.01	easy.a.01	friendly.a.01
-勤	ADJ	diligent.a.02	diligent.a.02
-激	ADJ	direct.a.03	direct.a.03
-一視同仁	ADJ	undiscriminating.a.01	undiscriminating.a.01
-隱隱	ADJ	indistinct.a.01	indistinct.a.01
-沈醉	ADJ	intoxicated.a.01	intoxicated.a.01
-沉醉	ADJ	intoxicated.a.01	intoxicated.a.01
-茫	ADJ	intoxicated.a.01	intoxicated.a.01
-尖	ADJ	sharp.a.09	sharp.a.09
-快	ADJ	sharp.a.09	sharp.a.09
-活潑	ADJ	lively.a.01	lively.a.01
-躍躍欲試	ADJ	eager.a.01	eager.a.01
-早	ADJ	early.a.01	early.a.02	early.a.01	early.a.02
-中等	ADJ	middle.a.04	normal.a.01	middle.a.04	normal.a.01
-晚	ADJ	late.a.01	late.a.01
-西	ADJ	western.a.01	western.a.01
-西式	ADJ	western.a.01	western.a.01
-東	ADJ	eastern.a.04	eastern.a.04
-東方	ADJ	eastern.a.04	eastern.a.04
-食用	ADJ	edible.a.01	edible.a.01
-蠢	ADJ	inefficient.a.01	unskilled.a.01	inefficient.a.01	unskilled.a.01
-入選	ADJ	elective.a.01	elective.a.01
-當選	ADJ	elective.a.01	elective.a.01
-理論	ADJ	theoretical.a.01	theoretical.a.01
-受雇	ADJ	employed.a.01	employed.a.01
-濃	ADJ	enthusiastic.a.01	heavy.a.01	thick.a.03	enthusiastic.a.01	heavy.a.01	thick.a.03
-熱中	ADJ	enthusiastic.a.01	enthusiastic.a.01
-熱衷	ADJ	enthusiastic.a.01	enthusiastic.a.01
-一律	ADJ	equal.a.01	equal.a.01
-一致	ADJ	equal.a.01	equal.a.01
-同等	ADJ	equal.a.01	like.a.02	equal.a.01	like.a.02
-對等	ADJ	equal.a.01	equal.a.01
-平衡	ADJ	balanced.a.01	balanced.a.01
-俗	ADJ	exoteric.a.01	cheap.a.01	exoteric.a.01	cheap.a.01
-不可或缺	ADJ	indispensable.a.01	indispensable.a.01
-偶	ADJ	even.a.01	even.a.01
-空	ADJ	exhausted.a.02	empty.a.01	thin.a.06	meaningless.a.01	exhausted.a.02	empty.a.01	thin.a.06	meaningless.a.01
-不解	ADJ	inextricable.a.01	inextricable.a.01
-不公	ADJ	unfair.a.01	unfair.a.01
-耳熟能詳	ADJ	familiar.a.01	familiar.a.01
-陌生	ADJ	unfamiliar.a.01	unfamiliar.a.01
-怪	ADJ	strange.a.01	strange.a.01
-異	ADJ	strange.a.01	strange.a.01
-潮	ADJ	fashionable.a.01	fashionable.a.01
-慢慢	ADJ	slow.a.01	slow.a.01
-龜	ADJ	slow.a.01	slow.a.01
-胖	ADJ	fat.a.01	fat.a.01
-瘦	ADJ	thin.a.02	poor.a.04	narrow.a.01	thin.a.02	poor.a.04	narrow.a.01
-不利	ADJ	unfavorable.a.01	unfavorable.a.01
-靈	ADJ	felicitous.a.01	flexible.a.01	felicitous.a.01	flexible.a.01
-閉幕	ADJ	closing.a.01	closing.a.01
-領先	ADJ	first.a.01	first.a.01
-首	ADJ	first.a.01	first.a.01
-彈性	ADJ	flexible.a.02	flexible.a.01	flexible.a.02	flexible.a.01
-靈活	ADJ	flexible.a.01	flexible.a.01
-六親不認	ADJ	uncompromising.a.01	uncompromising.a.01
-絕	ADJ	uncompromising.a.01	uncompromising.a.01
-柔	ADJ	compromising.a.01	soft.a.01	soft.a.09	compromising.a.01	soft.a.01	soft.a.09
-異國	ADJ	foreign.a.02	foreign.a.02
-外	ADJ	foreign.a.01	undomestic.a.01	outside.a.01	foreign.a.01	undomestic.a.01	outside.a.01
-內	ADJ	domestic.a.01	domestic.a.03	inside.a.01	domestic.a.01	domestic.a.03	inside.a.01
-居家	ADJ	domestic.a.03	residential.a.02	domestic.a.03	residential.a.02
-非正式	ADJ	informal.a.01	informal.a.01
-下面	ADJ	latter.a.01	latter.a.01
-后	ADJ	latter.a.01	latter.a.01
-後	ADJ	latter.a.01	latter.a.01
-糞	ADJ	unfortunate.a.01	unfortunate.a.01
-香	ADJ	fragrant.a.01	fragrant.a.01
-自由	ADJ	free.a.01	free.a.01
-青	ADJ	fresh.a.01	fresh.a.01
-足	ADJ	full.a.01	sufficient.a.01	full.a.01	sufficient.a.01
-全職	ADJ	full-time.a.01	full-time.a.01
-專任	ADJ	full-time.a.01	full-time.a.01
-專職	ADJ	full-time.a.01	full-time.a.01
-兼職	ADJ	part-time.a.01	part-time.a.01
-大量	ADJ	generous.a.02	large.a.01	generous.a.02	large.a.01
-佳	ADJ	good.a.01	good.a.01
-良	ADJ	good.a.01	good.a.01
-不良	ADJ	bad.a.01	bad.a.01
-孬	ADJ	bad.a.01	bad.a.01
-忽然	ADJ	sudden.a.01	sudden.a.01
-猛	ADJ	sudden.a.01	sudden.a.01
-安	ADJ	happy.a.01	safe.a.01	relaxed.a.01	happy.a.01	safe.a.01	relaxed.a.01
-快樂	ADJ	happy.a.01	happy.a.01
-樂	ADJ	happy.a.01	happy.a.01
-哀	ADJ	unhappy.a.01	unhappy.a.01
-悲	ADJ	unhappy.a.01	unhappy.a.01
-對不起	ADJ	regretful.a.01	regretful.a.01
-剛	ADJ	hard.a.03	tough.a.01	hard.a.03	tough.a.01
-堅硬	ADJ	hard.a.03	hard.a.03
-鐵	ADJ	hard.a.03	hard.a.03
-軟性	ADJ	nonalcoholic.a.01	nonalcoholic.a.01
-傷	ADJ	harmful.a.01	harmful.a.01
-乾	ADJ	dry.a.07	dry.a.01	dry.a.07	dry.a.01
-斷頭	ADJ	headless.a.01	headless.a.01
-駝	ADJ	heavy.a.04	heavy.a.04
-勁	ADJ	heavy.a.02	rhythmical.a.01	heavy.a.02	rhythmical.a.01
-豪	ADJ	heavy.a.02	large.a.01	heavy.a.02	large.a.01
-細微	ADJ	heedful.a.01	heedful.a.01
-低	ADJ	low.a.01	low.a.01
-矮	ADJ	low.a.01	short.a.03	low.a.01	short.a.03
-賤	ADJ	low.a.01	low.a.01
-亢	ADJ	high.a.04	high.a.04
-垂直	ADJ	vertical.a.01	top-down.a.01	vertical.a.01	top-down.a.01
-立	ADJ	erect.a.01	erect.a.01
-炎	ADJ	hot.a.01	hot.a.01
-燒	ADJ	hot.a.01	warm.a.01	hot.a.01	warm.a.01
-冰	ADJ	cold.a.01	cold.a.01
-凍	ADJ	cold.a.01	cold.a.01
-天	ADJ	important.a.01	important.a.01
-有意	ADJ	interested.a.01	interested.a.01
-歡	ADJ	joyous.a.01	joyous.a.01
-美麗	ADJ	kind.a.01	kind.a.01
-碩	ADJ	large.a.01	large.a.01
-多半	ADJ	greater.a.01	greater.a.01
-發	ADJ	leavened.a.01	leavened.a.01
-養	ADJ	adoptive.a.01	adoptive.a.01
-正統	ADJ	legitimate.a.01	legitimate.a.01
-迥異	ADJ	unlike.a.01	unlike.a.01
-雷同	ADJ	alike.a.01	alike.a.01
-適	ADJ	lineal.a.01	lineal.a.01
-上市	ADJ	listed.a.01	listed.a.01
-實地	ADJ	live.a.01	live.a.01
-長	ADJ	long.a.02	long.a.01	long.a.06	old.a.01	long.a.02	long.a.01	long.a.06	old.a.01
-短	ADJ	short.a.02	short.a.01	short.a.07	short.a.02	short.a.01	short.a.07
-垮	ADJ	loose.a.03	loose.a.03
-特	ADJ	male.a.01	male.a.01
-雄	ADJ	male.a.01	male.a.01
-雌	ADJ	female.a.01	female.a.01
-男生	ADJ	masculine.a.02	masculine.a.02
-女生	ADJ	feminine.a.01	feminine.a.01
-成熟	ADJ	mature.a.01	mature.a.01
-無謂	ADJ	meaningless.a.01	meaningless.a.01
-機動	ADJ	mechanical.a.01	mobile.a.02	mechanical.a.01	mobile.a.02
-厲害	ADJ	intense.a.01	intense.a.01
-可以	ADJ	intense.a.01	intense.a.01
-戎	ADJ	military.a.02	military.a.02
-游	ADJ	mobile.a.02	mobile.a.02
-中	ADJ	moderate.a.01	moderate.a.01
-中階	ADJ	moderate.a.01	moderate.a.01
-多	ADJ	many.a.01	many.a.01
-眾多	ADJ	many.a.01	many.a.01
-繁	ADJ	many.a.01	complex.a.01	many.a.01	complex.a.01
-許多	ADJ	many.a.01	many.a.01
-許許多多	ADJ	many.a.01	many.a.01
-少	ADJ	few.a.01	young.a.01	few.a.01	young.a.01
-不止	ADJ	more.a.01	more.a.01
-似	ADJ	more.a.01	more.a.01
-豈只	ADJ	more.a.01	more.a.01
-豈止	ADJ	more.a.01	more.a.01
-還要	ADJ	more.a.01	more.a.01
-人造物	ADJ	artificial.a.01	artificial.a.01
-終究	ADJ	ultimate.a.01	ultimate.a.01
-高尚	ADJ	noble.a.03	superior.a.01	noble.a.03	superior.a.01
-北	ADJ	north.a.01	north.a.01
-野	ADJ	unofficial.a.01	unofficial.a.01
-故	ADJ	old.a.02	old.a.02
-邁	ADJ	old.a.02	old.a.01	old.a.02	old.a.01
-年輕	ADJ	new.a.01	new.a.01
-新	ADJ	new.a.01	new.a.06	new.a.01	new.a.06
-新興	ADJ	new.a.01	new.a.01
-大小	ADJ	old.a.01	young.a.01	old.a.01	young.a.01
-乳	ADJ	young.a.01	young.a.01
-幼	ADJ	young.a.01	young.a.01
-上	ADJ	on-line.a.02	on-line.a.02
-展開	ADJ	open.a.02	open.a.02
-封閉	ADJ	closed.a.02	closed.a.02
-凌亂	ADJ	disordered.a.03	disordered.a.03
-一般	ADJ	ordinary.a.01	ordinary.a.01
-過人	ADJ	extraordinary.a.01	extraordinary.a.01
-有機	ADJ	organic.a.01	organic.a.02	organic.a.01	organic.a.02
-之外	ADJ	outside.a.01	outside.a.01
-以外	ADJ	outside.a.01	outside.a.01
-之內	ADJ	inside.a.01	inside.a.01
-以內	ADJ	inside.a.01	inside.a.01
-直立	ADJ	perpendicular.a.01	perpendicular.a.01
-私	ADJ	partial.a.02	personal.a.01	private.a.01	partial.a.02	personal.a.01	private.a.01
-允	ADJ	impartial.a.01	impartial.a.01
-公	ADJ	impartial.a.01	public.a.01	impartial.a.01	public.a.01
-公平	ADJ	impartial.a.01	impartial.a.01
-日後	ADJ	future.a.01	future.a.01
-生	ADJ	born.a.01	ill.a.01	born.a.01	ill.a.01
-誕生	ADJ	born.a.01	born.a.01
-安詳	ADJ	peaceful.a.01	peaceful.a.01
-私人	ADJ	personal.a.01	private.a.01	personal.a.01	private.a.01
-人力	ADJ	physical.a.01	physical.a.01
-樸	ADJ	plain.a.02	plain.a.02
-自然	ADJ	unstudied.a.01	unstudied.a.01
-引以為樂	ADJ	pleased.a.01	pleased.a.01
-幹	ADJ	displeased.a.01	displeased.a.01
-歡迎	ADJ	popular.a.01	welcome.a.01	popular.a.01	welcome.a.01
-可能	ADJ	possible.a.01	possible.a.01
-不可能	ADJ	impossible.a.01	impossible.a.01
-怎能	ADJ	impossible.a.01	impossible.a.01
-無可奈何	ADJ	powerless.a.01	powerless.a.01
-基層	ADJ	basic.a.01	basic.a.01
-根本	ADJ	basic.a.01	basic.a.01
-私立	ADJ	private.a.01	private.a.01
-公用	ADJ	public.a.01	public.a.01
-進	ADJ	inclusive.a.01	inclusive.a.01
-業餘	ADJ	professional.a.01	professional.a.01
-為傲	ADJ	proud.a.01	proud.a.01
-成立	ADJ	proved.a.01	proved.a.01
-草率	ADJ	imprudent.a.01	imprudent.a.01
-訓練出	ADJ	trained.a.01	trained.a.01
-靜	ADJ	quiet.a.02	quiet.a.02
-吵	ADJ	noisy.a.01	noisy.a.01
-理智	ADJ	rational.a.01	rational.a.01
-實	ADJ	real.a.01	true.a.01	real.a.01	true.a.01
-實際	ADJ	real.a.01	real.a.01
-真正	ADJ	real.a.02	real.a.02
-例行	ADJ	regular.a.01	regular.a.01
-定期	ADJ	regular.a.01	scheduled.a.01	regular.a.01	scheduled.a.01
-連帶	ADJ	related.a.01	related.a.01
-有心人	ADJ	resolute.a.01	resolute.a.01
-有心人士	ADJ	resolute.a.01	resolute.a.01
-痛	ADJ	unrestricted.a.01	unrestricted.a.01
-富有	ADJ	rich.a.01	rich.a.02	rich.a.01	rich.a.02
-右	ADJ	right-handed.a.01	right-handed.a.01
-同	ADJ	same.a.01	same.a.01
-同樣	ADJ	same.a.01	same.a.01
-其他	ADJ	other.a.01	other.a.01
-其它	ADJ	other.a.01	other.a.01
-另	ADJ	other.a.01	other.a.01
-另外	ADJ	other.a.01	other.a.01
-自私	ADJ	selfish.a.01	selfish.a.01
-認真	ADJ	serious.a.01	serious.a.01
-重點	ADJ	selected.a.01	selected.a.01
-公有	ADJ	shared.a.01	shared.a.01
-瞎	ADJ	blind.a.01	blind.a.01
-閒	ADJ	insignificant.a.04	insignificant.a.04
-誠	ADJ	sincere.a.01	sincere.a.01
-不實	ADJ	insincere.a.01	insincere.a.01
-練	ADJ	skilled.a.01	skilled.a.01
-拙	ADJ	unskilled.a.01	unskilled.a.01
-矬	ADJ	unskilled.a.01	unskilled.a.01
-滑	ADJ	slippery.a.01	slippery.a.01
-順	ADJ	smooth.a.01	smooth.a.01
-木	ADJ	rough.a.01	tough.a.07	rough.a.01	tough.a.07
-結實	ADJ	solid.a.03	solid.a.03
-幾	ADJ	some.a.01	some.a.01
-一切	ADJ	all.a.01	all.a.01
-有聲	ADJ	voiced.a.01	voiced.a.01
-無聲	ADJ	unvoiced.a.01	unvoiced.a.01
-穩定	ADJ	stable.a.01	stable.a.01
-正規	ADJ	standard.a.01	standard.a.01
-強	ADJ	stubborn.a.01	stubborn.a.01
-有成	ADJ	successful.a.01	successful.a.01
-意外	ADJ	surprised.a.01	surprised.a.01
-驚人	ADJ	surprising.a.01	surprising.a.01
-涉嫌	ADJ	suspected.a.01	suspected.a.01
-縱	ADJ	diachronic.a.01	longitudinal.a.01	diachronic.a.01	longitudinal.a.01
-系統	ADJ	systematic.a.01	systematic.a.01
-荒唐	ADJ	wild.a.01	wild.a.01
-溫帶	ADJ	temperate.a.01	temperate.a.01
-懶	ADJ	tired.a.01	tired.a.01
-不堪	ADJ	intolerable.a.01	intolerable.a.01
-懼	ADJ	intolerable.a.01	intolerable.a.01
-禁不起	ADJ	intolerable.a.01	intolerable.a.01
-典型	ADJ	typical.a.01	typical.a.01
-旭	ADJ	rising.a.01	rising.a.01
-伏	ADJ	falling.a.02	falling.a.02
-暴	ADJ	violent.a.01	violent.a.01
-自願	ADJ	voluntary.a.01	voluntary.a.01
-溫暖	ADJ	warm.a.01	warm.a.02	warm.a.01	warm.a.02
-病	ADJ	ill.a.01	ill.a.01
-濕	ADJ	wet.a.01	wet.a.01
-無意	ADJ	unwilling.a.01	unwilling.a.01
-無線	ADJ	wireless.a.01	wireless.a.01
-過敏	ADJ	allergic.a.01	allergic.a.01
-穀	ADJ	cereal.a.01	cereal.a.01
-必備	ADJ	essential.a.04	essential.a.04
-分封	ADJ	feudal.a.01	feudal.a.01
-住	ADJ	living.a.01	living.a.01
-地方	ADJ	local.a.02	local.a.02
-就地	ADJ	local.a.02	local.a.02
-醫護	ADJ	medical.a.01	medical.a.01
-火力	ADJ	thermal.a.01	thermal.a.01
-電氣	ADJ	electric.a.01	electric.a.01
-共產	ADJ	communist.a.01	communist.a.01
-孝	ADJ	filial.a.01	filial.a.01
-孝順	ADJ	filial.a.01	filial.a.01
-機械	ADJ	mechanical.a.03	mechanical.a.03
-美式	ADJ	american.a.01	american.a.01
-亞熱帶	ADJ	subtropical.a.01	subtropical.a.01
-副熱帶	ADJ	subtropical.a.01	subtropical.a.01
-變質	ADJ	metamorphic.a.01	metamorphic.a.01
-管弦	ADJ	orchestral.a.01	orchestral.a.01
-中式	ADJ	chinese.a.01	chinese.a.01
-公所	ADJ	chinese.a.01	chinese.a.01
-中古	ADJ	medieval.a.01	medieval.a.01
-藝術	ADJ	artistic.a.01	artistic.a.01
-英式	ADJ	british.a.01	british.a.01
-維多利亞	ADJ	victorian.a.01	victorian.a.01
-婚前	ADJ	prenuptial.a.01	prenuptial.a.01
-婚後	ADJ	postnuptial.a.01	postnuptial.a.01
+莫	ADJ	unable.a.01
+具體	ADJ	concrete.a.01	specific.a.01
+豐厚	ADJ	abundant.a.01
+切實	ADJ	accurate.a.01
+真的	ADJ	accurate.a.01
+確實	ADJ	accurate.a.01
+主動	ADJ	active.a.05
+急性	ADJ	acute.a.01
+不足	ADJ	inadequate.a.01	insufficient.a.01
+動心	ADJ	affected.a.01
+進取	ADJ	aggressive.a.01
+亡	ADJ	dead.a.01
+自我	ADJ	egoistic.a.01
+數位	ADJ	digital.a.03
+數字	ADJ	digital.a.03
+假	ADJ	synthetic.a.02	counterfeit.a.01	impractical.a.01	unrealistic.a.01	frivolous.a.01	insincere.a.01	false.a.01
+偽	ADJ	synthetic.a.02	counterfeit.a.01	false.a.01
+引以為怒	ADJ	angry.a.01
+惱怒	ADJ	angry.a.01
+氣呼呼	ADJ	angry.a.01
+戰前	ADJ	prewar.a.01
+戰後	ADJ	postwar.a.01
+身後	ADJ	posterior.a.01
+宜	ADJ	appropriate.a.01
+對	ADJ	appropriate.a.01	right.a.05
+適合	ADJ	appropriate.a.01
+適時	ADJ	appropriate.a.01
+訥於言詞	ADJ	inarticulate.a.01
+吉	ADJ	auspicious.a.01
+祥	ADJ	auspicious.a.01
+禧	ADJ	auspicious.a.01
+現成	ADJ	available.a.01	ready-made.a.01
+前	ADJ	front.a.01
+前面	ADJ	front.a.01
+漂亮	ADJ	beautiful.a.01
+美	ADJ	beautiful.a.01
+醜	ADJ	ugly.a.01
+陋	ADJ	ugly.a.01	bad.a.01	unintelligent.a.01	poor.a.03
+最佳	ADJ	best.a.01
+雙向	ADJ	bidirectional.a.01
+鬆	ADJ	untied.a.01	loose.a.01	uncrowded.a.01	loose.a.03
+狹隘	ADJ	narrow-minded.a.02	narrow.a.01
+柴	ADJ	bony.a.03	bad.a.01	rough.a.01	tough.a.07
+清	ADJ	calm.a.02	saturated.a.03	clear.a.01	clear.a.11	delicate.a.01	peaceful.a.01	quiet.a.02	unvoiced.a.01
+下	ADJ	capable.a.01	latter.a.01	inferior.a.02	down.a.01
+粗心	ADJ	careless.a.01
+不一定	ADJ	uncertain.a.02
+不見得	ADJ	uncertain.a.02
+說不定	ADJ	uncertain.a.02
+未定	ADJ	uncertain.a.01	unstable.a.01
+深信不疑	ADJ	convinced.a.02
+白	ADJ	white.a.01	light.a.02	plain.a.02	misused.a.01
+粉	ADJ	white.a.01
+純	ADJ	saturated.a.03	pure.a.01	skilled.a.01
+彩	ADJ	color.a.01	colored.a.01	colorful.a.01
+花	ADJ	colorful.a.01
+淺	ADJ	light.a.02	shallow.a.01	shallow.a.02	short.a.01
+潔淨	ADJ	clean.a.01
+垢	ADJ	dirty.a.01
+汙	ADJ	dirty.a.01	unfair.a.01
+骯髒	ADJ	dirty.a.01	dirty.a.02	unethical.a.01
+髒	ADJ	dirty.a.01	dirty.a.02	unethical.a.01
+清楚	ADJ	clear.a.01
+清清楚楚	ADJ	clear.a.01
+明朗	ADJ	clear.a.04
+聰明	ADJ	smart.a.01
+頑	ADJ	stupid.a.01	stubborn.a.01
+遠	ADJ	far.a.01
+將近	ADJ	near.a.01
+近	ADJ	near.a.01
+邊	ADJ	close.a.01
+附近	ADJ	close.a.01
+好	ADJ	close.a.02	good.a.01	kind.a.01
+密	ADJ	close.a.02
+相親	ADJ	close.a.02
+親	ADJ	close.a.02
+平滑	ADJ	uncrannied.a.01
+集體	ADJ	collective.a.02
+舒適	ADJ	comfortable.a.01	comfortable.a.02	easy.a.03
+差	ADJ	uncomfortable.a.02	bad.a.01	unkind.a.01
+難過	ADJ	uncomfortable.a.02	unhappy.a.01	intolerable.a.01
+住宅	ADJ	residential.a.01
+宅	ADJ	residential.a.01
+慣常	ADJ	usual.a.01
+個	ADJ	individual.a.01
+疏	ADJ	loose.a.01	infrequent.a.01
+全	ADJ	complete.a.01
+完全	ADJ	complete.a.01
+偏心	ADJ	eccentric.a.02
+操	ADJ	concerned.a.01
+格格不入	ADJ	uncongenial.a.01
+暢	ADJ	connected.a.02	happy.a.01
+通	ADJ	connected.a.02
+接連	ADJ	continuous.a.01
+連續	ADJ	continuous.a.01
+便利	ADJ	convenient.a.01
+方便	ADJ	convenient.a.01
+不便	ADJ	inconvenient.a.01	difficult.a.01
+傳統	ADJ	conventional.a.01	conventional.a.04
+固有	ADJ	traditional.a.01	intrinsic.a.01
+腐	ADJ	corrupt.a.01
+有沒有	ADJ	correct.a.01
+左	ADJ	incorrect.a.01	left-handed.a.01
+正	ADJ	right.a.05	pure.a.01	real.a.01
+難以置信	ADJ	incredible.a.01
+成	ADJ	ready-made.a.01	good.a.01
+手	ADJ	handmade.a.01
+起	ADJ	elated.a.01
+牢	ADJ	reliable.a.01	secure.a.03
+主從	ADJ	dependent.a.03
+容易	ADJ	easy.a.01
+易	ADJ	easy.a.01	friendly.a.01
+勤	ADJ	diligent.a.02
+激	ADJ	direct.a.03
+一視同仁	ADJ	undiscriminating.a.01
+隱隱	ADJ	indistinct.a.01
+沈醉	ADJ	intoxicated.a.01
+沉醉	ADJ	intoxicated.a.01
+茫	ADJ	intoxicated.a.01
+尖	ADJ	sharp.a.09
+快	ADJ	sharp.a.09
+活潑	ADJ	lively.a.01
+躍躍欲試	ADJ	eager.a.01
+早	ADJ	early.a.01	early.a.02
+中等	ADJ	middle.a.04	normal.a.01
+晚	ADJ	late.a.01
+西	ADJ	western.a.01
+西式	ADJ	western.a.01
+東	ADJ	eastern.a.04
+東方	ADJ	eastern.a.04
+食用	ADJ	edible.a.01
+蠢	ADJ	inefficient.a.01	unskilled.a.01
+入選	ADJ	elective.a.01
+當選	ADJ	elective.a.01
+理論	ADJ	theoretical.a.01
+受雇	ADJ	employed.a.01
+濃	ADJ	enthusiastic.a.01	heavy.a.01	thick.a.03
+熱中	ADJ	enthusiastic.a.01
+熱衷	ADJ	enthusiastic.a.01
+一律	ADJ	equal.a.01
+一致	ADJ	equal.a.01
+同等	ADJ	equal.a.01	like.a.02
+對等	ADJ	equal.a.01
+平衡	ADJ	balanced.a.01
+俗	ADJ	exoteric.a.01	cheap.a.01
+不可或缺	ADJ	indispensable.a.01
+偶	ADJ	even.a.01
+空	ADJ	exhausted.a.02	empty.a.01	thin.a.06	meaningless.a.01
+不解	ADJ	inextricable.a.01
+不公	ADJ	unfair.a.01
+耳熟能詳	ADJ	familiar.a.01
+陌生	ADJ	unfamiliar.a.01
+怪	ADJ	strange.a.01
+異	ADJ	strange.a.01
+潮	ADJ	fashionable.a.01
+慢慢	ADJ	slow.a.01
+龜	ADJ	slow.a.01
+胖	ADJ	fat.a.01
+瘦	ADJ	thin.a.02	poor.a.04	narrow.a.01
+不利	ADJ	unfavorable.a.01
+靈	ADJ	felicitous.a.01	flexible.a.01
+閉幕	ADJ	closing.a.01
+領先	ADJ	first.a.01
+首	ADJ	first.a.01
+彈性	ADJ	flexible.a.02	flexible.a.01
+靈活	ADJ	flexible.a.01
+六親不認	ADJ	uncompromising.a.01
+絕	ADJ	uncompromising.a.01
+柔	ADJ	compromising.a.01	soft.a.01	soft.a.09
+異國	ADJ	foreign.a.02
+外	ADJ	foreign.a.01	undomestic.a.01	outside.a.01
+內	ADJ	domestic.a.01	domestic.a.03	inside.a.01
+居家	ADJ	domestic.a.03	residential.a.02
+非正式	ADJ	informal.a.01
+下面	ADJ	latter.a.01
+后	ADJ	latter.a.01
+後	ADJ	latter.a.01
+糞	ADJ	unfortunate.a.01
+香	ADJ	fragrant.a.01
+自由	ADJ	free.a.01
+青	ADJ	fresh.a.01
+足	ADJ	full.a.01	sufficient.a.01
+全職	ADJ	full-time.a.01
+專任	ADJ	full-time.a.01
+專職	ADJ	full-time.a.01
+兼職	ADJ	part-time.a.01
+大量	ADJ	generous.a.02	large.a.01
+佳	ADJ	good.a.01
+良	ADJ	good.a.01
+不良	ADJ	bad.a.01
+孬	ADJ	bad.a.01
+忽然	ADJ	sudden.a.01
+猛	ADJ	sudden.a.01
+安	ADJ	happy.a.01	safe.a.01	relaxed.a.01
+快樂	ADJ	happy.a.01
+樂	ADJ	happy.a.01
+哀	ADJ	unhappy.a.01
+悲	ADJ	unhappy.a.01
+對不起	ADJ	regretful.a.01
+剛	ADJ	hard.a.03	tough.a.01
+堅硬	ADJ	hard.a.03
+鐵	ADJ	hard.a.03
+軟性	ADJ	nonalcoholic.a.01
+傷	ADJ	harmful.a.01
+乾	ADJ	dry.a.07	dry.a.01
+斷頭	ADJ	headless.a.01
+駝	ADJ	heavy.a.04
+勁	ADJ	heavy.a.02	rhythmical.a.01
+豪	ADJ	heavy.a.02	large.a.01
+細微	ADJ	heedful.a.01
+低	ADJ	low.a.01
+矮	ADJ	low.a.01	short.a.03
+賤	ADJ	low.a.01
+亢	ADJ	high.a.04
+垂直	ADJ	vertical.a.01	top-down.a.01
+立	ADJ	erect.a.01
+炎	ADJ	hot.a.01
+燒	ADJ	hot.a.01	warm.a.01
+冰	ADJ	cold.a.01
+凍	ADJ	cold.a.01
+天	ADJ	important.a.01
+有意	ADJ	interested.a.01
+歡	ADJ	joyous.a.01
+美麗	ADJ	kind.a.01
+碩	ADJ	large.a.01
+多半	ADJ	greater.a.01
+發	ADJ	leavened.a.01
+養	ADJ	adoptive.a.01
+正統	ADJ	legitimate.a.01
+迥異	ADJ	unlike.a.01
+雷同	ADJ	alike.a.01
+適	ADJ	lineal.a.01
+上市	ADJ	listed.a.01
+實地	ADJ	live.a.01
+長	ADJ	long.a.02	long.a.01	long.a.06	old.a.01
+短	ADJ	short.a.02	short.a.01	short.a.07
+垮	ADJ	loose.a.03
+特	ADJ	male.a.01
+雄	ADJ	male.a.01
+雌	ADJ	female.a.01
+男生	ADJ	masculine.a.02
+女生	ADJ	feminine.a.01
+成熟	ADJ	mature.a.01
+無謂	ADJ	meaningless.a.01
+機動	ADJ	mechanical.a.01	mobile.a.02
+厲害	ADJ	intense.a.01
+可以	ADJ	intense.a.01
+戎	ADJ	military.a.02
+游	ADJ	mobile.a.02
+中	ADJ	moderate.a.01
+中階	ADJ	moderate.a.01
+多	ADJ	many.a.01
+眾多	ADJ	many.a.01
+繁	ADJ	many.a.01	complex.a.01
+許多	ADJ	many.a.01
+許許多多	ADJ	many.a.01
+少	ADJ	few.a.01	young.a.01
+不止	ADJ	more.a.01
+似	ADJ	more.a.01
+豈只	ADJ	more.a.01
+豈止	ADJ	more.a.01
+還要	ADJ	more.a.01
+人造物	ADJ	artificial.a.01
+終究	ADJ	ultimate.a.01
+高尚	ADJ	noble.a.03	superior.a.01
+北	ADJ	north.a.01
+野	ADJ	unofficial.a.01
+故	ADJ	old.a.02
+邁	ADJ	old.a.02	old.a.01
+年輕	ADJ	new.a.01
+新	ADJ	new.a.01	new.a.06
+新興	ADJ	new.a.01
+大小	ADJ	old.a.01	young.a.01
+乳	ADJ	young.a.01
+幼	ADJ	young.a.01
+上	ADJ	on-line.a.02
+展開	ADJ	open.a.02
+封閉	ADJ	closed.a.02
+凌亂	ADJ	disordered.a.03
+一般	ADJ	ordinary.a.01
+過人	ADJ	extraordinary.a.01
+有機	ADJ	organic.a.01	organic.a.02
+之外	ADJ	outside.a.01
+以外	ADJ	outside.a.01
+之內	ADJ	inside.a.01
+以內	ADJ	inside.a.01
+直立	ADJ	perpendicular.a.01
+私	ADJ	partial.a.02	personal.a.01	private.a.01
+允	ADJ	impartial.a.01
+公	ADJ	impartial.a.01	public.a.01
+公平	ADJ	impartial.a.01
+日後	ADJ	future.a.01
+生	ADJ	born.a.01	ill.a.01
+誕生	ADJ	born.a.01
+安詳	ADJ	peaceful.a.01
+私人	ADJ	personal.a.01	private.a.01
+人力	ADJ	physical.a.01
+樸	ADJ	plain.a.02
+自然	ADJ	unstudied.a.01
+引以為樂	ADJ	pleased.a.01
+幹	ADJ	displeased.a.01
+歡迎	ADJ	popular.a.01	welcome.a.01
+可能	ADJ	possible.a.01
+不可能	ADJ	impossible.a.01
+怎能	ADJ	impossible.a.01
+無可奈何	ADJ	powerless.a.01
+基層	ADJ	basic.a.01
+根本	ADJ	basic.a.01
+私立	ADJ	private.a.01
+公用	ADJ	public.a.01
+進	ADJ	inclusive.a.01
+業餘	ADJ	professional.a.01
+為傲	ADJ	proud.a.01
+成立	ADJ	proved.a.01
+草率	ADJ	imprudent.a.01
+訓練出	ADJ	trained.a.01
+靜	ADJ	quiet.a.02
+吵	ADJ	noisy.a.01
+理智	ADJ	rational.a.01
+實	ADJ	real.a.01	true.a.01
+實際	ADJ	real.a.01
+真正	ADJ	real.a.02
+例行	ADJ	regular.a.01
+定期	ADJ	regular.a.01	scheduled.a.01
+連帶	ADJ	related.a.01
+有心人	ADJ	resolute.a.01
+有心人士	ADJ	resolute.a.01
+痛	ADJ	unrestricted.a.01
+富有	ADJ	rich.a.01	rich.a.02
+右	ADJ	right-handed.a.01
+同	ADJ	same.a.01
+同樣	ADJ	same.a.01
+其他	ADJ	other.a.01
+其它	ADJ	other.a.01
+另	ADJ	other.a.01
+另外	ADJ	other.a.01
+自私	ADJ	selfish.a.01
+認真	ADJ	serious.a.01
+重點	ADJ	selected.a.01
+公有	ADJ	shared.a.01
+瞎	ADJ	blind.a.01
+閒	ADJ	insignificant.a.04
+誠	ADJ	sincere.a.01
+不實	ADJ	insincere.a.01
+練	ADJ	skilled.a.01
+拙	ADJ	unskilled.a.01
+矬	ADJ	unskilled.a.01
+滑	ADJ	slippery.a.01
+順	ADJ	smooth.a.01
+木	ADJ	rough.a.01	tough.a.07
+結實	ADJ	solid.a.03
+幾	ADJ	some.a.01
+一切	ADJ	all.a.01
+有聲	ADJ	voiced.a.01
+無聲	ADJ	unvoiced.a.01
+穩定	ADJ	stable.a.01
+正規	ADJ	standard.a.01
+強	ADJ	stubborn.a.01
+有成	ADJ	successful.a.01
+意外	ADJ	surprised.a.01
+驚人	ADJ	surprising.a.01
+涉嫌	ADJ	suspected.a.01
+縱	ADJ	diachronic.a.01	longitudinal.a.01
+系統	ADJ	systematic.a.01
+荒唐	ADJ	wild.a.01
+溫帶	ADJ	temperate.a.01
+懶	ADJ	tired.a.01
+不堪	ADJ	intolerable.a.01
+懼	ADJ	intolerable.a.01
+禁不起	ADJ	intolerable.a.01
+典型	ADJ	typical.a.01
+旭	ADJ	rising.a.01
+伏	ADJ	falling.a.02
+暴	ADJ	violent.a.01
+自願	ADJ	voluntary.a.01
+溫暖	ADJ	warm.a.01	warm.a.02
+病	ADJ	ill.a.01
+濕	ADJ	wet.a.01
+無意	ADJ	unwilling.a.01
+無線	ADJ	wireless.a.01
+過敏	ADJ	allergic.a.01
+穀	ADJ	cereal.a.01
+必備	ADJ	essential.a.04
+分封	ADJ	feudal.a.01
+住	ADJ	living.a.01
+地方	ADJ	local.a.02
+就地	ADJ	local.a.02
+醫護	ADJ	medical.a.01
+火力	ADJ	thermal.a.01
+電氣	ADJ	electric.a.01
+共產	ADJ	communist.a.01
+孝	ADJ	filial.a.01
+孝順	ADJ	filial.a.01
+機械	ADJ	mechanical.a.03
+美式	ADJ	american.a.01
+亞熱帶	ADJ	subtropical.a.01
+副熱帶	ADJ	subtropical.a.01
+變質	ADJ	metamorphic.a.01
+管弦	ADJ	orchestral.a.01
+中式	ADJ	chinese.a.01
+公所	ADJ	chinese.a.01
+中古	ADJ	medieval.a.01
+藝術	ADJ	artistic.a.01
+英式	ADJ	british.a.01
+維多利亞	ADJ	victorian.a.01
+婚前	ADJ	prenuptial.a.01
+婚後	ADJ	postnuptial.a.01
 不外	ADV	merely.r.01
 不多不少	ADV	merely.r.01	precisely.r.03
 不過	ADV	merely.r.01	however.r.02

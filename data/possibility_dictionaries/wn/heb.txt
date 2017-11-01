@@ -4400,279 +4400,279 @@ PSEUDOGAP!	VERB	charge.v.17
 !נִמְשַׁךְ	VERB	last.v.01
 בָּלַט	VERB	stick_out.v.01
 !נָטָה	VERB	tend.v.01
-יַחֲסִי	ADJ	relative.a.01	relative.a.01
-מוּחָשׁ	ADJ	concrete.a.01	concrete.a.01
-מוּחָשִׁי	ADJ	concrete.a.01	concrete.a.01
-קוֹנְקְרֶטִי	ADJ	concrete.a.01	concrete.a.01
-שׁוֹפֵעַ	ADJ	abundant.a.01	abundant.a.01
-בְּסִיסִי	ADJ	alkaline.a.01	alkaline.a.01
-סָבִיל	ADJ	passive.a.03	passive.a.03
-פָּסִיבִי	ADJ	passive.a.03	passive.a.03
-מְקֻשָּׁט	ADJ	adorned.a.01	adorned.a.01
-הַרְפַּתְקָנִי	ADJ	adventurous.a.01	adventurous.a.01
-יְדָנִי	ADJ	manual.a.02	manual.a.02
-שָׂעִיר	ADJ	hairy.a.01	hairy.a.01
-יָפֶה	ADJ	beautiful.a.01	beautiful.a.01
-!חָלָק	ADJ	unblemished.a.01	unblemished.a.01
-קָשׁוּר	ADJ	tied.a.03	tied.a.03
-אַמִּיץ	ADJ	brave.a.01	brave.a.01
-אָפֵל	ADJ	dark.a.01	dark.a.01
-חָשׁוּךְ	ADJ	dark.a.01	dark.a.01
-מוּעָם	ADJ	dimmed.a.01	dimmed.a.01
-מְעֻמְעָם	ADJ	dimmed.a.01	dimmed.a.01
-בַּר-מְנִיעָה	ADJ	evitable.a.01	evitable.a.01
-אָפְיָנִי	ADJ	characteristic.a.01	characteristic.a.01
-GAP!	ADJ	chartered.a.01	whole.a.02	cross-eyed.a.01	tanned.a.02	punitive.a.01	racial.a.01	chartered.a.01	whole.a.02	cross-eyed.a.01	tanned.a.02	punitive.a.01	racial.a.01
-צִבְעוֹנִי	ADJ	color.a.01	colorful.a.01	colorful.a.02	color.a.01	colorful.a.01	colorful.a.02
-סַסְגּוֹנִי	ADJ	colorful.a.02	colorful.a.02
-טָמֵא	ADJ	unclean.a.02	unclean.a.02
-אָטוּם	ADJ	opaque.a.01	sealed.a.02	opaque.a.01	sealed.a.02
-!טִפֵּשׁ	ADJ	stupid.a.01	stupid.a.01
-!טִפְּשִׁי	ADJ	stupid.a.01	stupid.a.01
-קָרוֹב	ADJ	near.a.01	near.a.01
-מְעֻנָּן	ADJ	cloudy.a.02	cloudy.a.02
-!שִׁתּוּפִי	ADJ	collective.a.02	collective.a.02
-רָגִיל	ADJ	usual.a.01	usual.a.01
-!מְסֻגָּר	ADJ	uncommunicative.a.01	uncommunicative.a.01
-מָלֵא	ADJ	whole.a.01	many.a.01	whole.a.01	many.a.01
-שָׁלֵם	ADJ	whole.a.01	whole.a.01
-מְקֻמָּר	ADJ	convex.a.01	convex.a.01
-קָמוּר	ADJ	convex.a.01	convex.a.01
-מְתֻמְצָת	ADJ	concise.a.01	concise.a.01
-תַּמְצִיתִי	ADJ	concise.a.01	concise.a.01
-!מְכֻוָּץ	ADJ	contracted.a.01	contracted.a.01
-עָמוּס	ADJ	crowded.a.01	crowded.a.01
-צָפוּף	ADJ	crowded.a.01	crowded.a.01
-מְרֻצֶּה	ADJ	contented.a.01	contented.a.01
-מָסָרְתִּי	ADJ	traditional.a.01	traditional.a.01
-מְבֻשָּׁל	ADJ	cooked.a.01	cooked.a.01
-נָכוֹן	ADJ	correct.a.01	correct.a.01
-!נָכוֹן	ADJ	right.a.05	right.a.05
-מְשַׁלְשֵׁל	ADJ	laxative.a.01	laxative.a.01
-מְנֻמָּס	ADJ	polite.a.01	polite.a.01
-גַּס	ADJ	uncivil.a.01	uncivil.a.01
-גַּס-רוּחַ	ADJ	uncivil.a.01	uncivil.a.01
-מְעֻקָּב	ADJ	cubic.a.01	cubic.a.01
-נוֹכְחִי	ADJ	current.a.01	current.a.01
-אָרוּר	ADJ	cursed.a.01	cursed.a.01
-מְקֻלָּל	ADJ	cursed.a.01	cursed.a.01
-חֵרֵשׁ	ADJ	deaf.a.01	deaf.a.01
-מְעֻרְפָּל	ADJ	undefined.a.01	undefined.a.01
-שָׁבִיר	ADJ	breakable.a.01	breakable.a.01
-שְׁרִירוּתִי	ADJ	arbitrary.a.01	arbitrary.a.01
-אָמִין	ADJ	reliable.a.01	reliable.a.01
-מְהֵימָן	ADJ	reliable.a.01	reliable.a.01
-עִקָּרִי	ADJ	independent.a.03	independent.a.03
-!תֵּאוּרִי	ADJ	descriptive.a.02	descriptive.a.02
-נוֹרְמָטִיבִי	ADJ	prescriptive.a.01	prescriptive.a.01
-פּוֹסֵק	ADJ	prescriptive.a.01	prescriptive.a.01
-פּוֹסְקָנִי	ADJ	prescriptive.a.01	prescriptive.a.01
-דֶּסְקְרִיפְּטִיבִי	ADJ	descriptive.a.01	descriptive.a.01
-תֵּאוּרִי	ADJ	descriptive.a.01	descriptive.a.01
-!קָשֶׁה	ADJ	difficult.a.01	difficult.a.01
-קָשֶׁה	ADJ	difficult.a.01	difficult.a.01
-שַׁקְדָן	ADJ	diligent.a.02	diligent.a.02
-חָלָק	ADJ	uneventful.a.01	uneventful.a.01
-!מִזְרָחִי	ADJ	east.a.01	east.a.01
-!מַעֲרָבִי	ADJ	west.a.01	west.a.01
-יָעִיל	ADJ	efficient.a.01	efficient.a.01
-אֶלַסְטִי	ADJ	elastic.a.01	elastic.a.01
-גָּמִישׁ	ADJ	elastic.a.01	elastic.a.01
-!נִבְחָר	ADJ	elective.a.01	elective.a.01
-מֻבְטָל	ADJ	unemployed.a.01	unemployed.a.01
-נִלְהָב	ADJ	enthusiastic.a.01	enthusiastic.a.01
-שָׁוֶה	ADJ	equal.a.01	equal.a.01
-נִבְזֶה	ADJ	contemptible.a.01	contemptible.a.01
-נָשִׁיר	ADJ	deciduous.a.01	deciduous.a.01
-!מְרַגֵּשׁ	ADJ	exciting.a.01	exciting.a.01
-נִכְחָד	ADJ	extinct.a.01	extinct.a.01
-מְפֹרָשׁ	ADJ	explicit.a.01	explicit.a.01
-!חִיצוֹנִי	ADJ	exterior.a.01	exterior.a.01
-רָזֶה	ADJ	thin.a.02	thin.a.02
-אַחֲרוֹן	ADJ	last.a.02	last.a.02
-!בֵּינַיִם	ADJ	intermediate.a.01	intermediate.a.01
-מְסֻלְסָל	ADJ	curly.a.01	curly.a.01
-מְקֻרְזָל	ADJ	curly.a.01	curly.a.01
-מְתֻלְתָּל	ADJ	curly.a.01	curly.a.01
-רֵיחָנִי	ADJ	fragrant.a.01	fragrant.a.01
-טָרִי	ADJ	fresh.a.01	fresh.a.05	fresh.a.01	fresh.a.05
-!מְרֹהָט	ADJ	furnished.a.01	furnished.a.01
-אֲמִתִּי	ADJ	genuine.a.01	true.a.01	genuine.a.01	true.a.01
-בַּעַל-כִּשָּׁרוֹן	ADJ	talented.a.01	talented.a.01
-בְּרוּךְ-כִּשָּׁרוֹן	ADJ	talented.a.01	talented.a.01
-כִּשְׁרוֹנִי	ADJ	talented.a.01	talented.a.01
-מֻכְשָׁר	ADJ	talented.a.01	talented.a.01
-טוֹב	ADJ	good.a.01	successful.a.01	good.a.01	successful.a.01
-רַע	ADJ	bad.a.01	bad.a.01
-הַדְרָגָתִי	ADJ	gradual.a.01	gradual.a.01
-מְדֹרָג	ADJ	gradual.a.02	gradual.a.02
-!רְפוּאִי	ADJ	medical.a.02	aesculapian.a.01	medical.a.02	aesculapian.a.01
-כָּבֵד	ADJ	heavy.a.01	heavy.a.01
-קַל	ADJ	light.a.01	light.a.01
-הוֹמוֹגֶנִי	ADJ	homogeneous.a.01	homogeneous.a.01
-!מְכֻבָּד	ADJ	honorable.a.02	honorable.a.02
-אֲנָכִי	ADJ	vertical.a.01	vertical.a.01
-חַם	ADJ	hot.a.01	hot.a.01
-קַר	ADJ	cold.a.01	cold.a.01
-חָפוּז	ADJ	hurried.a.01	hurried.a.01
-מַרְשִׁים	ADJ	impressive.a.01	impressive.a.01
-!נוֹשָׁב	ADJ	inhabited.a.01	inhabited.a.01
-טִפֵּשׁ	ADJ	unintelligent.a.01	unintelligent.a.01
-מְעַנְיֵן	ADJ	interesting.a.01	interesting.a.01
-מְגֹהָץ	ADJ	ironed.a.01	ironed.a.01
-!מְשַׂמֵּחַ	ADJ	glad.a.01	glad.a.01
-מֻכָּר	ADJ	known.a.01	known.a.01
-גָּדוֹל	ADJ	large.a.01	significant.a.01	large.a.01	significant.a.01
-קָטָן	ADJ	small.a.01	small.a.01
-רַבָּתִי	ADJ	greater.a.01	greater.a.01
-!שָׁוֶה	ADJ	like.a.02	like.a.02
-שָׂנוּא	ADJ	hateful.a.01	hateful.a.01
-אוֹהֵב	ADJ	loving.a.01	loving.a.01
-נָשִׁי	ADJ	womanly.a.01	womanly.a.01
-עוֹנָתִי	ADJ	seasonal.a.01	seasonal.a.01
-מַקְסִימָלִי	ADJ	maximal.a.01	maximal.a.01
-מְרַבִּי	ADJ	maximal.a.01	maximal.a.01
-מִזְעָרִי	ADJ	minimal.a.01	minimal.a.01
-מִינִימָלִי	ADJ	minimal.a.01	minimal.a.01
-מַשְׁמָעוּתִי	ADJ	meaningful.a.01	significant.a.01	meaningful.a.01	significant.a.01
-כָּרוּי	ADJ	mined.a.01	mined.a.01
-צְבָאִי	ADJ	military.a.03	military.a.02	military.a.03	military.a.02
-אֶזְרָחִי	ADJ	civilian.a.01	civil.a.04	civil.a.03	civilian.a.01	civil.a.04	civil.a.03
-מַתַּכְתִּי	ADJ	metallic.a.01	metallic.a.01
-מָתוּן	ADJ	moderate.a.01	moderate.a.01
-שֶׁל-עֶקְרוֹנוֹת	ADJ	principled.a.01	principled.a.01
-הַרְבֵּה	ADJ	many.a.01	many.a.01
-רַב	ADJ	many.a.01	many.a.01
-!רַב	ADJ	much.a.01	much.a.01
-מוֹטוֹרִי	ADJ	motorized.a.01	motorized.a.01
-מְמֻנָּע	ADJ	motorized.a.01	motorized.a.01
-!נִפְעָם	ADJ	moved.a.01	moved.a.01
-בֵּין-לְאֻמִּי	ADJ	international.a.01	international.a.01
-בֵּינְלְאֻמִּי	ADJ	international.a.01	international.a.01
-מְיֻתָּר	ADJ	unnecessary.a.01	unnecessary.a.01
-מֻרְגָּשׁ	ADJ	noticed.a.01	noticed.a.01
-צַיְתָן	ADJ	obedient.a.01	obedient.a.01
-צָעִיר	ADJ	young.a.01	young.a.01
-מְבֻטָּל	ADJ	off.a.03	off.a.03
-!מְנֻגָּד	ADJ	opposed.a.01	opposed.a.01
-מְנֻגָּד	ADJ	opposed.a.01	opposed.a.01
-מְקֹרֶה	ADJ	roofed.a.01	roofed.a.01
-!שֶׁעָבַר	ADJ	past.a.01	past.a.01
-שֶׁעָבַר	ADJ	past.a.01	past.a.01
-!נוֹכְחִי	ADJ	present.a.01	present.a.02	present.a.01	present.a.02
-!סַבְלָנִי	ADJ	patient.a.01	patient.a.01
-סַבְלָנִי	ADJ	patient.a.01	patient.a.01
-סָלוּל	ADJ	paved.a.01	paved.a.01
-!מִתְכַּלֶּה	ADJ	perishable.a.01	perishable.a.01
-זְמַנִּי	ADJ	impermanent.a.01	impermanent.a.01
-מַתִּירָנִי	ADJ	permissive.a.02	permissive.a.02
-!מַתִּירָנִי	ADJ	permissive.a.01	permissive.a.01
-אִימְפֶּרְסוֹנָלִי	ADJ	impersonal.a.01	impersonal.a.01
-חָדִיר	ADJ	permeable.a.01	permeable.a.01
-בִּלְתִּי-חָדִיר	ADJ	impervious.a.01	impervious.a.01
-!נָעִים	ADJ	pleasant.a.01	pleasant.a.01
-!מְרֻצֶּה	ADJ	pleased.a.01	pleased.a.01
-!פּוֹלִיטִי	ADJ	political.a.01	political.a.02	political.a.03	political.a.01	political.a.02	political.a.03
-חִיּוּבִי	ADJ	positive.a.01	positive.a.01
-שְׁלִילִי	ADJ	negative.a.01	negative.a.01
-נֵיטְרָלִי	ADJ	neutral.a.04	neutral.a.04
-מִינוּס	ADJ	minus.a.01	minus.a.01
-חָשׁוּב	ADJ	influential.a.01	influential.a.01
-רַב-הַשְׁפָּעָה	ADJ	influential.a.01	influential.a.01
-חָרוּשׁ	ADJ	plowed.a.01	plowed.a.01
-מְפַגֵּר	ADJ	retarded.a.01	retarded.a.01
-צִבּוּרִי	ADJ	public.a.01	public.a.01
-אֶקְסְקְלוּסִיבִי	ADJ	exclusive.a.02	exclusive.a.02
-נְבוּאִי	ADJ	prophetic.a.01	prophetic.a.01
-גֵּא	ADJ	proud.a.01	proud.a.01
-גֵּאֶה	ADJ	proud.a.01	proud.a.01
-גִּזְעִי	ADJ	purebred.a.01	racial.a.02	purebred.a.01	racial.a.02
-!רַעֲשָׁן	ADJ	noisy.a.01	noisy.a.01
-!סָבִיר	ADJ	reasonable.a.01	reasonable.a.01
-גָּלְמִי	ADJ	unrefined.a.01	unrefined.a.01
-אָחִיד	ADJ	uniform.a.01	uniform.a.01
-מְסֻכָּן	ADJ	dangerous.a.01	dangerous.a.01
-אַחֵר	ADJ	different.a.01	other.a.01	different.a.01	other.a.01
-שָׂבֵעַ	ADJ	satiate.a.01	satiate.a.01
-מַדָּעִי	ADJ	scientific.a.02	scientific.a.01	scientific.a.02	scientific.a.01
-מְבֻטָּח	ADJ	insured.a.01	insured.a.01
-בָּכִיר	ADJ	senior.a.01	senior.a.01
-זוּטָר	ADJ	junior.a.01	junior.a.01
-!מְשֻׁתָּף	ADJ	joint.a.01	joint.a.01
-חָטוּב	ADJ	shapely.a.01	shapely.a.01
-מְגֻלָּח	ADJ	shaven.a.01	shaven.a.01
-מֻרְכָּב	ADJ	complex.a.01	complex.a.01
-כֵּן	ADJ	sincere.a.01	sincere.a.01
-מְיֻמָּן	ADJ	skilled.a.01	skilled.a.01
-מֻצְלָח	ADJ	successful.a.01	successful.a.01
-מֻפְתָּע	ADJ	surprised.a.01	surprised.a.01
-מַפְתִּיעַ	ADJ	surprising.a.01	surprising.a.01
-מַתְמִיהַּ	ADJ	surprising.a.01	surprising.a.01
-סִינְכְרוֹנִי	ADJ	synchronic.a.02	synchronic.a.02
-נָמוּךְ	ADJ	short.a.03	short.a.03
-נְמוּךְ-קוֹמָה	ADJ	short.a.03	short.a.03
-מְסֻדָּר	ADJ	tidy.a.01	tidy.a.01
-מְסֹרָק	ADJ	combed.a.01	combed.a.01
-סָרוּק	ADJ	combed.a.01	combed.a.01
-מֵהַצַּד	ADJ	side.a.01	side.a.01
-צְדָדִי	ADJ	side.a.01	side.a.01
-!טִפּוּסִי	ADJ	typical.a.01	typical.a.01
-עִלִּי	ADJ	overhead.a.01	overhead.a.01
-אַפְסִי	ADJ	worthless.a.01	worthless.a.01
-חֲסַר-עֵרֶךְ	ADJ	worthless.a.01	worthless.a.01
-מְאֻוְרָר	ADJ	ventilated.a.01	ventilated.a.01
-הִתְנַדְּבוּתִי	ADJ	voluntary.a.01	voluntary.a.01
-ווֹלוּנְטָרִי	ADJ	voluntary.a.01	voluntary.a.01
-רְצוֹנִי	ADJ	voluntary.a.02	voluntary.a.02
-!רָצוּי	ADJ	welcome.a.01	welcome.a.01
-רָחָב	ADJ	wide.a.01	wide.a.01
-טִפְּשִׁי	ADJ	foolish.a.01	foolish.a.01
-מְטֻפָּשׁ	ADJ	foolish.a.01	foolish.a.01
-!מְיֹעָר	ADJ	wooded.a.01	wooded.a.01
-מַמְאִיר	ADJ	malignant.a.01	malignant.a.01
-!קָלוּף	ADJ	shelled.a.01	skinned.a.01	shelled.a.01	skinned.a.01
-וְרִידִי	ADJ	venous.a.01	venous.a.01
-כִּימִי	ADJ	chemical.a.01	chemical.a.02	chemical.a.01	chemical.a.02
-!מַהוּתִי	ADJ	essential.a.04	essential.a.04
-יְרֵחִי	ADJ	lunar.a.01	lunar.a.01
-רְפוּאִי	ADJ	medical.a.01	medical.a.01
-!צְבָאִי	ADJ	military.a.01	military.a.01
-אִינְסְטְרוּמֶנְטָלִי	ADJ	instrumental.a.01	instrumental.a.01
-כֵּלִי	ADJ	instrumental.a.01	instrumental.a.01
-חַשְׁמַלִּי	ADJ	electric.a.01	electric.a.01
-סִפְרוּתִי	ADJ	literary.a.01	literary.a.01
-!מִקְצוֹעִי	ADJ	vocational.a.01	vocational.a.01
-כַּסְפִּי	ADJ	fiscal.a.01	fiscal.a.01
-פִינַנְסִי	ADJ	fiscal.a.01	fiscal.a.01
-מְשִׁיחִי	ADJ	messianic.a.01	messianic.a.01
-!יַמִּי	ADJ	nautical.a.01	nautical.a.01
-אִרְגּוּנִי	ADJ	organizational.a.01	organizational.a.01
-יְהוּדִי	ADJ	jewish.a.01	jewish.a.01
-רַבָּנִי	ADJ	rabbinical.a.01	rabbinical.a.01
-טַקְטִי	ADJ	tactical.a.01	tactical.a.01
-תַּכְסִיסִי	ADJ	tactical.a.01	tactical.a.01
-נוֹצְרִי	ADJ	christian.a.01	christian.a.01
-גָּאלִי	ADJ	french.a.01	french.a.01
-צָרְפָתִי	ADJ	french.a.01	french.a.01
-סְפָרַדִּי	ADJ	spanish.a.01	spanish.a.01
-אֵירוֹפֶּאִי	ADJ	european.a.01	european.a.01
-אֵירוֹפִּי	ADJ	european.a.01	european.a.01
-יִשְׂרְאֵלִי	ADJ	israeli.a.01	israeli.a.01
-פָּלֶשְׂתִּינָאִי	ADJ	palestinian.a.01	palestinian.a.01
-פָּלֶשְׂתִּינִי	ADJ	palestinian.a.01	palestinian.a.01
-יְוָנִי	ADJ	greek.a.01	greek.a.01
-תַּקְצִיבִי	ADJ	budgetary.a.01	budgetary.a.01
-חֶשְׁבּוֹנִי	ADJ	arithmetical.a.01	arithmetical.a.01
-מַחְלַקְתִּי	ADJ	departmental.a.01	departmental.a.01
-עִתּוֹנָאִי	ADJ	journalistic.a.01	journalistic.a.01
-חַנְקָנִי	ADJ	azotic.a.01	azotic.a.01
-זַרְחָנִי	ADJ	phosphorous.a.01	phosphorous.a.01
-חֲטִיבָתִי	ADJ	regimental.a.01	regimental.a.01
-מֻחְזָק	ADJ	held.a.01	held.a.01
-מְחֻמְצָן	ADJ	oxidized.a.01	oxidized.a.01
-מְפֻסְטָר	ADJ	pasteurized.a.01	pasteurized.a.01
-!נִרְדָּף	ADJ	pursued.a.01	pursued.a.01
-מָעוּךְ	ADJ	squashed.a.01	squashed.a.01
+יַחֲסִי	ADJ	relative.a.01
+מוּחָשׁ	ADJ	concrete.a.01
+מוּחָשִׁי	ADJ	concrete.a.01
+קוֹנְקְרֶטִי	ADJ	concrete.a.01
+שׁוֹפֵעַ	ADJ	abundant.a.01
+בְּסִיסִי	ADJ	alkaline.a.01
+סָבִיל	ADJ	passive.a.03
+פָּסִיבִי	ADJ	passive.a.03
+מְקֻשָּׁט	ADJ	adorned.a.01
+הַרְפַּתְקָנִי	ADJ	adventurous.a.01
+יְדָנִי	ADJ	manual.a.02
+שָׂעִיר	ADJ	hairy.a.01
+יָפֶה	ADJ	beautiful.a.01
+!חָלָק	ADJ	unblemished.a.01
+קָשׁוּר	ADJ	tied.a.03
+אַמִּיץ	ADJ	brave.a.01
+אָפֵל	ADJ	dark.a.01
+חָשׁוּךְ	ADJ	dark.a.01
+מוּעָם	ADJ	dimmed.a.01
+מְעֻמְעָם	ADJ	dimmed.a.01
+בַּר-מְנִיעָה	ADJ	evitable.a.01
+אָפְיָנִי	ADJ	characteristic.a.01
+GAP!	ADJ	chartered.a.01	whole.a.02	cross-eyed.a.01	tanned.a.02	punitive.a.01	racial.a.01
+צִבְעוֹנִי	ADJ	color.a.01	colorful.a.01	colorful.a.02
+סַסְגּוֹנִי	ADJ	colorful.a.02
+טָמֵא	ADJ	unclean.a.02
+אָטוּם	ADJ	opaque.a.01	sealed.a.02
+!טִפֵּשׁ	ADJ	stupid.a.01
+!טִפְּשִׁי	ADJ	stupid.a.01
+קָרוֹב	ADJ	near.a.01
+מְעֻנָּן	ADJ	cloudy.a.02
+!שִׁתּוּפִי	ADJ	collective.a.02
+רָגִיל	ADJ	usual.a.01
+!מְסֻגָּר	ADJ	uncommunicative.a.01
+מָלֵא	ADJ	whole.a.01	many.a.01
+שָׁלֵם	ADJ	whole.a.01
+מְקֻמָּר	ADJ	convex.a.01
+קָמוּר	ADJ	convex.a.01
+מְתֻמְצָת	ADJ	concise.a.01
+תַּמְצִיתִי	ADJ	concise.a.01
+!מְכֻוָּץ	ADJ	contracted.a.01
+עָמוּס	ADJ	crowded.a.01
+צָפוּף	ADJ	crowded.a.01
+מְרֻצֶּה	ADJ	contented.a.01
+מָסָרְתִּי	ADJ	traditional.a.01
+מְבֻשָּׁל	ADJ	cooked.a.01
+נָכוֹן	ADJ	correct.a.01
+!נָכוֹן	ADJ	right.a.05
+מְשַׁלְשֵׁל	ADJ	laxative.a.01
+מְנֻמָּס	ADJ	polite.a.01
+גַּס	ADJ	uncivil.a.01
+גַּס-רוּחַ	ADJ	uncivil.a.01
+מְעֻקָּב	ADJ	cubic.a.01
+נוֹכְחִי	ADJ	current.a.01
+אָרוּר	ADJ	cursed.a.01
+מְקֻלָּל	ADJ	cursed.a.01
+חֵרֵשׁ	ADJ	deaf.a.01
+מְעֻרְפָּל	ADJ	undefined.a.01
+שָׁבִיר	ADJ	breakable.a.01
+שְׁרִירוּתִי	ADJ	arbitrary.a.01
+אָמִין	ADJ	reliable.a.01
+מְהֵימָן	ADJ	reliable.a.01
+עִקָּרִי	ADJ	independent.a.03
+!תֵּאוּרִי	ADJ	descriptive.a.02
+נוֹרְמָטִיבִי	ADJ	prescriptive.a.01
+פּוֹסֵק	ADJ	prescriptive.a.01
+פּוֹסְקָנִי	ADJ	prescriptive.a.01
+דֶּסְקְרִיפְּטִיבִי	ADJ	descriptive.a.01
+תֵּאוּרִי	ADJ	descriptive.a.01
+!קָשֶׁה	ADJ	difficult.a.01
+קָשֶׁה	ADJ	difficult.a.01
+שַׁקְדָן	ADJ	diligent.a.02
+חָלָק	ADJ	uneventful.a.01
+!מִזְרָחִי	ADJ	east.a.01
+!מַעֲרָבִי	ADJ	west.a.01
+יָעִיל	ADJ	efficient.a.01
+אֶלַסְטִי	ADJ	elastic.a.01
+גָּמִישׁ	ADJ	elastic.a.01
+!נִבְחָר	ADJ	elective.a.01
+מֻבְטָל	ADJ	unemployed.a.01
+נִלְהָב	ADJ	enthusiastic.a.01
+שָׁוֶה	ADJ	equal.a.01
+נִבְזֶה	ADJ	contemptible.a.01
+נָשִׁיר	ADJ	deciduous.a.01
+!מְרַגֵּשׁ	ADJ	exciting.a.01
+נִכְחָד	ADJ	extinct.a.01
+מְפֹרָשׁ	ADJ	explicit.a.01
+!חִיצוֹנִי	ADJ	exterior.a.01
+רָזֶה	ADJ	thin.a.02
+אַחֲרוֹן	ADJ	last.a.02
+!בֵּינַיִם	ADJ	intermediate.a.01
+מְסֻלְסָל	ADJ	curly.a.01
+מְקֻרְזָל	ADJ	curly.a.01
+מְתֻלְתָּל	ADJ	curly.a.01
+רֵיחָנִי	ADJ	fragrant.a.01
+טָרִי	ADJ	fresh.a.01	fresh.a.05
+!מְרֹהָט	ADJ	furnished.a.01
+אֲמִתִּי	ADJ	genuine.a.01	true.a.01
+בַּעַל-כִּשָּׁרוֹן	ADJ	talented.a.01
+בְּרוּךְ-כִּשָּׁרוֹן	ADJ	talented.a.01
+כִּשְׁרוֹנִי	ADJ	talented.a.01
+מֻכְשָׁר	ADJ	talented.a.01
+טוֹב	ADJ	good.a.01	successful.a.01
+רַע	ADJ	bad.a.01
+הַדְרָגָתִי	ADJ	gradual.a.01
+מְדֹרָג	ADJ	gradual.a.02
+!רְפוּאִי	ADJ	medical.a.02	aesculapian.a.01
+כָּבֵד	ADJ	heavy.a.01
+קַל	ADJ	light.a.01
+הוֹמוֹגֶנִי	ADJ	homogeneous.a.01
+!מְכֻבָּד	ADJ	honorable.a.02
+אֲנָכִי	ADJ	vertical.a.01
+חַם	ADJ	hot.a.01
+קַר	ADJ	cold.a.01
+חָפוּז	ADJ	hurried.a.01
+מַרְשִׁים	ADJ	impressive.a.01
+!נוֹשָׁב	ADJ	inhabited.a.01
+טִפֵּשׁ	ADJ	unintelligent.a.01
+מְעַנְיֵן	ADJ	interesting.a.01
+מְגֹהָץ	ADJ	ironed.a.01
+!מְשַׂמֵּחַ	ADJ	glad.a.01
+מֻכָּר	ADJ	known.a.01
+גָּדוֹל	ADJ	large.a.01	significant.a.01
+קָטָן	ADJ	small.a.01
+רַבָּתִי	ADJ	greater.a.01
+!שָׁוֶה	ADJ	like.a.02
+שָׂנוּא	ADJ	hateful.a.01
+אוֹהֵב	ADJ	loving.a.01
+נָשִׁי	ADJ	womanly.a.01
+עוֹנָתִי	ADJ	seasonal.a.01
+מַקְסִימָלִי	ADJ	maximal.a.01
+מְרַבִּי	ADJ	maximal.a.01
+מִזְעָרִי	ADJ	minimal.a.01
+מִינִימָלִי	ADJ	minimal.a.01
+מַשְׁמָעוּתִי	ADJ	meaningful.a.01	significant.a.01
+כָּרוּי	ADJ	mined.a.01
+צְבָאִי	ADJ	military.a.03	military.a.02
+אֶזְרָחִי	ADJ	civilian.a.01	civil.a.04	civil.a.03
+מַתַּכְתִּי	ADJ	metallic.a.01
+מָתוּן	ADJ	moderate.a.01
+שֶׁל-עֶקְרוֹנוֹת	ADJ	principled.a.01
+הַרְבֵּה	ADJ	many.a.01
+רַב	ADJ	many.a.01
+!רַב	ADJ	much.a.01
+מוֹטוֹרִי	ADJ	motorized.a.01
+מְמֻנָּע	ADJ	motorized.a.01
+!נִפְעָם	ADJ	moved.a.01
+בֵּין-לְאֻמִּי	ADJ	international.a.01
+בֵּינְלְאֻמִּי	ADJ	international.a.01
+מְיֻתָּר	ADJ	unnecessary.a.01
+מֻרְגָּשׁ	ADJ	noticed.a.01
+צַיְתָן	ADJ	obedient.a.01
+צָעִיר	ADJ	young.a.01
+מְבֻטָּל	ADJ	off.a.03
+!מְנֻגָּד	ADJ	opposed.a.01
+מְנֻגָּד	ADJ	opposed.a.01
+מְקֹרֶה	ADJ	roofed.a.01
+!שֶׁעָבַר	ADJ	past.a.01
+שֶׁעָבַר	ADJ	past.a.01
+!נוֹכְחִי	ADJ	present.a.01	present.a.02
+!סַבְלָנִי	ADJ	patient.a.01
+סַבְלָנִי	ADJ	patient.a.01
+סָלוּל	ADJ	paved.a.01
+!מִתְכַּלֶּה	ADJ	perishable.a.01
+זְמַנִּי	ADJ	impermanent.a.01
+מַתִּירָנִי	ADJ	permissive.a.02
+!מַתִּירָנִי	ADJ	permissive.a.01
+אִימְפֶּרְסוֹנָלִי	ADJ	impersonal.a.01
+חָדִיר	ADJ	permeable.a.01
+בִּלְתִּי-חָדִיר	ADJ	impervious.a.01
+!נָעִים	ADJ	pleasant.a.01
+!מְרֻצֶּה	ADJ	pleased.a.01
+!פּוֹלִיטִי	ADJ	political.a.01	political.a.02	political.a.03
+חִיּוּבִי	ADJ	positive.a.01
+שְׁלִילִי	ADJ	negative.a.01
+נֵיטְרָלִי	ADJ	neutral.a.04
+מִינוּס	ADJ	minus.a.01
+חָשׁוּב	ADJ	influential.a.01
+רַב-הַשְׁפָּעָה	ADJ	influential.a.01
+חָרוּשׁ	ADJ	plowed.a.01
+מְפַגֵּר	ADJ	retarded.a.01
+צִבּוּרִי	ADJ	public.a.01
+אֶקְסְקְלוּסִיבִי	ADJ	exclusive.a.02
+נְבוּאִי	ADJ	prophetic.a.01
+גֵּא	ADJ	proud.a.01
+גֵּאֶה	ADJ	proud.a.01
+גִּזְעִי	ADJ	purebred.a.01	racial.a.02
+!רַעֲשָׁן	ADJ	noisy.a.01
+!סָבִיר	ADJ	reasonable.a.01
+גָּלְמִי	ADJ	unrefined.a.01
+אָחִיד	ADJ	uniform.a.01
+מְסֻכָּן	ADJ	dangerous.a.01
+אַחֵר	ADJ	different.a.01	other.a.01
+שָׂבֵעַ	ADJ	satiate.a.01
+מַדָּעִי	ADJ	scientific.a.02	scientific.a.01
+מְבֻטָּח	ADJ	insured.a.01
+בָּכִיר	ADJ	senior.a.01
+זוּטָר	ADJ	junior.a.01
+!מְשֻׁתָּף	ADJ	joint.a.01
+חָטוּב	ADJ	shapely.a.01
+מְגֻלָּח	ADJ	shaven.a.01
+מֻרְכָּב	ADJ	complex.a.01
+כֵּן	ADJ	sincere.a.01
+מְיֻמָּן	ADJ	skilled.a.01
+מֻצְלָח	ADJ	successful.a.01
+מֻפְתָּע	ADJ	surprised.a.01
+מַפְתִּיעַ	ADJ	surprising.a.01
+מַתְמִיהַּ	ADJ	surprising.a.01
+סִינְכְרוֹנִי	ADJ	synchronic.a.02
+נָמוּךְ	ADJ	short.a.03
+נְמוּךְ-קוֹמָה	ADJ	short.a.03
+מְסֻדָּר	ADJ	tidy.a.01
+מְסֹרָק	ADJ	combed.a.01
+סָרוּק	ADJ	combed.a.01
+מֵהַצַּד	ADJ	side.a.01
+צְדָדִי	ADJ	side.a.01
+!טִפּוּסִי	ADJ	typical.a.01
+עִלִּי	ADJ	overhead.a.01
+אַפְסִי	ADJ	worthless.a.01
+חֲסַר-עֵרֶךְ	ADJ	worthless.a.01
+מְאֻוְרָר	ADJ	ventilated.a.01
+הִתְנַדְּבוּתִי	ADJ	voluntary.a.01
+ווֹלוּנְטָרִי	ADJ	voluntary.a.01
+רְצוֹנִי	ADJ	voluntary.a.02
+!רָצוּי	ADJ	welcome.a.01
+רָחָב	ADJ	wide.a.01
+טִפְּשִׁי	ADJ	foolish.a.01
+מְטֻפָּשׁ	ADJ	foolish.a.01
+!מְיֹעָר	ADJ	wooded.a.01
+מַמְאִיר	ADJ	malignant.a.01
+!קָלוּף	ADJ	shelled.a.01	skinned.a.01
+וְרִידִי	ADJ	venous.a.01
+כִּימִי	ADJ	chemical.a.01	chemical.a.02
+!מַהוּתִי	ADJ	essential.a.04
+יְרֵחִי	ADJ	lunar.a.01
+רְפוּאִי	ADJ	medical.a.01
+!צְבָאִי	ADJ	military.a.01
+אִינְסְטְרוּמֶנְטָלִי	ADJ	instrumental.a.01
+כֵּלִי	ADJ	instrumental.a.01
+חַשְׁמַלִּי	ADJ	electric.a.01
+סִפְרוּתִי	ADJ	literary.a.01
+!מִקְצוֹעִי	ADJ	vocational.a.01
+כַּסְפִּי	ADJ	fiscal.a.01
+פִינַנְסִי	ADJ	fiscal.a.01
+מְשִׁיחִי	ADJ	messianic.a.01
+!יַמִּי	ADJ	nautical.a.01
+אִרְגּוּנִי	ADJ	organizational.a.01
+יְהוּדִי	ADJ	jewish.a.01
+רַבָּנִי	ADJ	rabbinical.a.01
+טַקְטִי	ADJ	tactical.a.01
+תַּכְסִיסִי	ADJ	tactical.a.01
+נוֹצְרִי	ADJ	christian.a.01
+גָּאלִי	ADJ	french.a.01
+צָרְפָתִי	ADJ	french.a.01
+סְפָרַדִּי	ADJ	spanish.a.01
+אֵירוֹפֶּאִי	ADJ	european.a.01
+אֵירוֹפִּי	ADJ	european.a.01
+יִשְׂרְאֵלִי	ADJ	israeli.a.01
+פָּלֶשְׂתִּינָאִי	ADJ	palestinian.a.01
+פָּלֶשְׂתִּינִי	ADJ	palestinian.a.01
+יְוָנִי	ADJ	greek.a.01
+תַּקְצִיבִי	ADJ	budgetary.a.01
+חֶשְׁבּוֹנִי	ADJ	arithmetical.a.01
+מַחְלַקְתִּי	ADJ	departmental.a.01
+עִתּוֹנָאִי	ADJ	journalistic.a.01
+חַנְקָנִי	ADJ	azotic.a.01
+זַרְחָנִי	ADJ	phosphorous.a.01
+חֲטִיבָתִי	ADJ	regimental.a.01
+מֻחְזָק	ADJ	held.a.01
+מְחֻמְצָן	ADJ	oxidized.a.01
+מְפֻסְטָר	ADJ	pasteurized.a.01
+!נִרְדָּף	ADJ	pursued.a.01
+מָעוּךְ	ADJ	squashed.a.01
 בְּעֶרֶךְ	ADV	approximately.r.01
 כְּ	ADV	approximately.r.01
 לְעֵרֶךְ	ADV	approximately.r.01

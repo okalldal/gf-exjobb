@@ -15300,980 +15300,980 @@
 متصاعدشدن	VERB	reek.v.04
 تشعشع_داشتن	VERB	ray.v.01
 مغموم_بودن	VERB	haze.v.01
-پشتی	ADJ	abaxial.a.01	dorsal.a.01	abaxial.a.01	dorsal.a.01
-شکمی	ADJ	adaxial.a.01	ventral.a.01	abdominal.a.01	adaxial.a.01	ventral.a.01	abdominal.a.01
-استشهادی	ADJ	adducent.a.01	adducent.a.01
-مقرب	ADJ	adducent.a.01	adducent.a.01
-پیدایش_یافته	ADJ	nascent.a.01	nascent.a.01
-در_حال_تولد	ADJ	nascent.a.01	nascent.a.01
-خلاصه_شده	ADJ	abridged.a.01	abridged.a.01
-مختصر	ADJ	abridged.a.01	concise.a.01	abridged.a.01	concise.a.01
-تلخیص_نشده	ADJ	unabridged.a.01	unabridged.a.01
-کوتاه_نشده	ADJ	unabridged.a.01	unabridged.a.01
-تطبیقی	ADJ	relative.a.01	comparative.a.01	relative.a.01	comparative.a.01
-تفضیلی	ADJ	relative.a.01	comparative.a.01	relative.a.01	comparative.a.01
-جاذب	ADJ	absorbent.a.01	adsorbent.a.01	absorbent.a.01	adsorbent.a.01
-گیرا	ADJ	adsorbent.a.01	adsorbent.a.01
-بهم_چسبیده	ADJ	concrete.a.01	concrete.a.01
-سفت	ADJ	concrete.a.01	concrete.a.01
-بسیار	ADJ	abundant.a.01	many.a.01	abundant.a.01	many.a.01
-فراوان	ADJ	abundant.a.01	abundant.a.01
-وافر	ADJ	abundant.a.01	abundant.a.01
-کم	ADJ	scarce.a.01	few.a.01	scarce.a.01	few.a.01
-کمیاب	ADJ	scarce.a.01	scarce.a.01
-نادر	ADJ	scarce.a.01	uncommon.a.01	curious.a.02	scarce.a.01	uncommon.a.01	curious.a.02
-خوش_محضر	ADJ	accommodating.a.01	accommodating.a.01
-دقیق	ADJ	accurate.a.01	exact.a.01	precise.a.01	accurate.a.01	exact.a.01	precise.a.01
-صحیح	ADJ	accurate.a.01	accurate.a.01
-غلط	ADJ	inaccurate.a.01	inaccurate.a.01
-خوگرفته	ADJ	accustomed.a.01	addicted.a.01	accustomed.a.01	addicted.a.01
-معتاد	ADJ	accustomed.a.01	accustomed.a.01
-غیر_عادی	ADJ	unaccustomed.a.01	unaccustomed.a.01
-اسیدی	ADJ	acidic.a.01	acidic.a.01
-بی_تفاوت	ADJ	amphoteric.a.01	amphoteric.a.01
-تصدیق_شده	ADJ	acknowledged.a.01	acknowledged.a.01
-اکتسابی	ADJ	acquisitive.a.01	acquisitive.a.01
-جوینده	ADJ	acquisitive.a.01	acquisitive.a.01
-منفعل	ADJ	passive.a.01	passive.a.01
-امکان_پذیر	ADJ	potential.a.01	possible.a.01	potential.a.01	possible.a.01
-ذخیره_ای	ADJ	potential.a.01	potential.a.01
-میسر	ADJ	potential.a.01	possible.a.01	potential.a.01	possible.a.01
-وفقی	ADJ	adaptive.a.01	adaptive.a.01
-تسلیم_شده	ADJ	addicted.a.01	addicted.a.01
-معتاد_کننده	ADJ	addictive.a.01	addictive.a.01
-کاهشی	ADJ	subtractive.a.01	subtractive.a.01
-کافی	ADJ	adequate.a.01	adequate.a.01
-مساوی	ADJ	adequate.a.01	equal.a.01	adequate.a.01	equal.a.01
-نابسنده	ADJ	inadequate.a.01	inadequate.a.01
-چسبدار	ADJ	adhesive.a.01	adhesive.a.01
-چسبیده	ADJ	adhesive.a.01	sessile.a.02	sessile.a.01	adhesive.a.01	sessile.a.02	sessile.a.01
-چسبنده	ADJ	adhesive.a.01	adhesive.a.01
-تردست	ADJ	adroit.a.01	adroit.a.01
-چالاک	ADJ	adroit.a.01	adroit.a.01
-زرنگ	ADJ	adroit.a.01	adroit.a.01
-ماهر	ADJ	adroit.a.01	adroit.a.01
-زشت	ADJ	maladroit.a.01	maladroit.a.01
-باصرفه	ADJ	advantageous.a.01	advantageous.a.01
-سودمند	ADJ	advantageous.a.01	constructive.a.01	advantageous.a.01	constructive.a.01
-با_بی_پروایی	ADJ	adventurous.a.01	adventurous.a.01
-پرماجرا	ADJ	adventurous.a.01	adventurous.a.01
-حادثه_جو	ADJ	adventurous.a.01	adventurous.a.01
-ماجراجویانه	ADJ	adventurous.a.01	adventurous.a.01
-قابل_توصیه	ADJ	advisable.a.01	advisable.a.01
-مصلحتی	ADJ	advisable.a.01	advisable.a.01
-مقتضی	ADJ	advisable.a.01	appropriate.a.01	advisable.a.01	appropriate.a.01
-خردمندانه	ADJ	well-advised.a.01	well-advised.a.01
-مصلحت_آمیز	ADJ	well-advised.a.01	well-advised.a.01
-بدون_اطلاع	ADJ	ill-advised.a.01	ill-advised.a.01
-هوازی	ADJ	aerobic.a.01	aerobic.a.02	aerobic.a.01	aerobic.a.02
-بی_باک	ADJ	unafraid.a.01	unafraid.a.01
-نترس	ADJ	unafraid.a.01	unafraid.a.01
-مضطرب	ADJ	agitated.a.01	agitated.a.02	agitated.a.01	agitated.a.02
-نامطبوع	ADJ	disagreeable.a.01	disagreeable.a.01
-اکتشافی	ADJ	heuristic.a.01	heuristic.a.01
-قابل_انتقال	ADJ	alienable.a.01	alienable.a.01
-الفبایی	ADJ	alphabetic.a.02	alphabetic.a.01	alphabetic.a.02	alphabetic.a.01
-نوزاد_زودرس	ADJ	altricial.a.01	altricial.a.01
-خودمدار	ADJ	egoistic.a.01	egoistic.a.01
-وابسته_بخود	ADJ	egoistic.a.01	egoistic.a.01
-مبهم	ADJ	ambiguous.a.02	undefined.a.01	equivocal.a.01	ambiguous.a.02	undefined.a.01	equivocal.a.01
-بلند_همت	ADJ	ambitious.a.01	ambitious.a.01
-جاه_طلب	ADJ	ambitious.a.01	ambitious.a.01
-نامجو	ADJ	ambitious.a.01	ambitious.a.01
-بی_برکت	ADJ	meager.a.01	meager.a.01
-بی_چربی	ADJ	meager.a.01	meager.a.01
-لاغر	ADJ	meager.a.01	meager.a.01
-ناچیز	ADJ	meager.a.01	inconsiderable.a.01	meager.a.01	inconsiderable.a.01
-نحیف	ADJ	meager.a.01	meager.a.01
-نزار	ADJ	meager.a.01	meager.a.01
-تحلیلی	ADJ	analytic.a.04	analytic.a.02	analytic.a.04	analytic.a.02
-با_ادراک	ADJ	sentient.a.01	sentient.a.01
-حساس	ADJ	sentient.a.01	sensational.a.03	sentient.a.01	sensational.a.03
-درک_کننده	ADJ	sentient.a.01	sentient.a.01
-دستخوش_احساسات	ADJ	sentient.a.01	sentient.a.01
-سرزنده	ADJ	animated.a.01	animated.a.01
-جاندار	ADJ	animate.a.01	animate.a.01
-بی_نام	ADJ	anonymous.a.01	anonymous.a.01
-لاادری	ADJ	anonymous.a.01	anonymous.a.01
-قبل_از_مرگ	ADJ	antemortem.a.01	antemortem.a.01
-پیشین	ADJ	antecedent.a.01	antecedent.a.01
-بعدی	ADJ	subsequent.a.01	subsequent.a.01
-لاحق	ADJ	subsequent.a.01	subsequent.a.01
-مابعد	ADJ	subsequent.a.01	subsequent.a.01
-متعاقب	ADJ	subsequent.a.01	subsequent.a.01
-بی_سابقه	ADJ	unprecedented.a.01	unprecedented.a.01
-بی_نظیر	ADJ	unprecedented.a.01	incomparable.a.01	unprecedented.a.01	incomparable.a.01
-پیش_زادی	ADJ	prenatal.a.01	prenatal.a.01
-بعد_از_ضیافت	ADJ	postprandial.a.01	postprandial.a.01
-بعد_از_نهار	ADJ	postprandial.a.01	postprandial.a.01
-پیش_از_جنگ	ADJ	prewar.a.01	prewar.a.01
-بعد_از_جنگ	ADJ	postwar.a.01	postwar.a.01
-جلو	ADJ	anterior.a.01	anterior.a.01
-قدامی	ADJ	anterior.a.01	anterior.a.01
-خلفی	ADJ	posterior.a.01	posterior.a.01
-قابل_استیناف	ADJ	appealable.a.01	appealable.a.01
-محرک	ADJ	appetizing.a.01	appetizing.a.01
-درخور	ADJ	appropriate.a.01	appropriate.a.01
-مناسب	ADJ	appropriate.a.01	commodious.a.01	convenient.a.01	expedient.a.01	appropriate.a.01	commodious.a.01	convenient.a.01	expedient.a.01
-نامناسب	ADJ	inappropriate.a.01	inappropriate.a.01
-بجا	ADJ	apropos.a.01	proper.a.01	apropos.a.01	proper.a.01
-بموقع	ADJ	apropos.a.01	apropos.a.01
-نابجا	ADJ	malapropos.a.01	malapropos.a.01
-نابهنگام	ADJ	malapropos.a.01	malapropos.a.01
-بی_اسلحه	ADJ	unarmed.a.01	unarmed.a.02	unarmed.a.01	unarmed.a.02
-مجهز	ADJ	armed.a.02	armed.a.02
-مسلح	ADJ	armed.a.02	armed.a.02
-استادانه	ADJ	artful.a.02	disingenuous.a.01	artful.a.02	disingenuous.a.01
-صنعتی	ADJ	artful.a.02	disingenuous.a.01	artful.a.02	disingenuous.a.01
-غیر_ملفوظ	ADJ	inarticulate.a.01	inarticulate.a.01
-ادعا_کننده	ADJ	assertive.a.01	assertive.a.01
-محجوب	ADJ	unassertive.a.01	unassertive.a.01
-انجمنی	ADJ	associative.a.01	associative.a.01
-دارای_تحرک	ADJ	vagile.a.01	vagile.a.01
-جدایی_پذیر	ADJ	detachable.a.01	detachable.a.01
-با_ملاحظه	ADJ	wary.a.01	wary.a.01
-بسیار_محتاط	ADJ	wary.a.01	wary.a.01
-بدون_نگرانی	ADJ	unwary.a.01	unwary.a.01
-متوجه	ADJ	attentive.a.01	attentive.a.01
-ملتفت	ADJ	attentive.a.01	heedful.a.01	attentive.a.01	heedful.a.01
-مواظب	ADJ	attentive.a.01	heedful.a.01	attentive.a.01	heedful.a.01
-بی_اعتنا	ADJ	inattentive.a.01	inattentive.a.01
-بی_توجه	ADJ	inattentive.a.01	inattentive.a.01
-جذاب	ADJ	appealing.a.01	sympathetic.a.04	appealing.a.01	sympathetic.a.04
-غیر_جذاب	ADJ	unappealing.a.02	unsympathetic.a.02	unappealing.a.02	unsympathetic.a.02
-نچسب	ADJ	unappealing.a.02	unsympathetic.a.02	unappealing.a.02	unsympathetic.a.02
-قابل_اسناد	ADJ	attributable.a.01	attributable.a.01
-اسنادی	ADJ	attributive.a.01	attributive.a.01
-رسا	ADJ	audible.a.01	audible.a.01
-مسموع	ADJ	audible.a.01	audible.a.01
-شنیده_نشده	ADJ	inaudible.a.01	inaudible.a.01
-خجسته	ADJ	auspicious.a.01	auspicious.a.01
-سعید	ADJ	auspicious.a.01	blessed.a.01	auspicious.a.01	blessed.a.01
-فرخ	ADJ	auspicious.a.01	auspicious.a.01
-فرخنده	ADJ	auspicious.a.01	auspicious.a.01
-مبارک	ADJ	auspicious.a.01	blessed.a.01	auspicious.a.01	blessed.a.01
-مساعد	ADJ	propitious.a.01	propitious.a.01
-مجاز	ADJ	authorized.a.01	authorized.a.01
-جمع_کننده	ADJ	astringent.a.02	astringent.a.02
-سخت_گیر	ADJ	astringent.a.02	unmanageable.a.02	astringent.a.02	unmanageable.a.02
-طاقت_فرسا	ADJ	astringent.a.02	demanding.a.01	astringent.a.02	demanding.a.01
-قابض	ADJ	astringent.a.02	astringent.a.02
-گس	ADJ	astringent.a.02	astringent.a.02
-اگاه	ADJ	aware.a.01	mindful.a.01	aware.a.01	mindful.a.01
-بی_اطلاع	ADJ	unaware.a.01	unaware.a.01
-بدون_شناسایی	ADJ	unaware.a.01	unaware.a.01
-غیر_وارد	ADJ	unaware.a.01	unaware.a.01
-ناخوداگاه	ADJ	unaware.a.01	unaware.a.01
-قصدی	ADJ	witting.a.01	witting.a.01
-بی_هوش	ADJ	unwitting.a.02	unwitting.a.02
-غمزده	ADJ	unreassuring.a.01	unreassuring.a.01
-مسبب_ناراحتی	ADJ	unreassuring.a.01	unreassuring.a.01
-پشت_گرم	ADJ	backed.a.01	backed.a.01
-دارای_پشت	ADJ	backed.a.01	backed.a.01
-پوشیده_از_چمن	ADJ	grassy.a.01	grassy.a.01
-کرکین	ADJ	hairy.a.01	hairy.a.01
-خوشگل	ADJ	beautiful.a.01	beautiful.a.01
-زیبا	ADJ	beautiful.a.01	beautiful.a.01
-عالی	ADJ	beautiful.a.01	beautiful.a.01
-قشنگ	ADJ	beautiful.a.01	beautiful.a.01
-بزرگترین	ADJ	best.a.01	best.a.01
-بهترین	ADJ	best.a.01	best.a.01
-نیکوترین	ADJ	best.a.01	best.a.01
-بدترین	ADJ	worst.a.01	worst.a.01
-بدتری	ADJ	worse.a.01	worse.a.02	worse.a.01	worse.a.02
-دو_جهتی	ADJ	bidirectional.a.01	bidirectional.a.01
-دوسویه	ADJ	bidirectional.a.01	bidirectional.a.01
-دارای_یک_جهت	ADJ	unidirectional.a.01	unidirectional.a.01
-یک_جهتی	ADJ	unidirectional.a.01	unidirectional.a.01
-چند_جانبه	ADJ	multilateral.a.01	multilateral.a.01
-سبزه	ADJ	brunet.a.01	brunet.a.01
-خونی	ADJ	bloody.a.01	bloody.a.01
-خونخوار	ADJ	bloody.a.01	bloody.a.01
-رها_شده	ADJ	unbound.a.01	unbound.a.01
-مقید_نشده	ADJ	unbound.a.01	unbound.a.01
-باجرات	ADJ	brave.a.01	brave.a.01
-دلیر	ADJ	brave.a.01	brave.a.01
-پردل	ADJ	gutsy.a.01	gutsy.a.01
-بی_جان	ADJ	breathless.a.01	breathless.a.01
-بلورین	ADJ	crystalline.a.01	crystalline.a.01
-شفاف	ADJ	crystalline.a.01	crystalline.a.01
-متبلور	ADJ	crystalline.a.01	crystallized.a.01	crystalline.a.01	crystallized.a.01
-مالک	ADJ	landed.a.01	landed.a.01
-وابسته_به_زمین	ADJ	landed.a.01	landed.a.01
-متعصب	ADJ	prejudiced.a.02	intolerant.a.01	prejudiced.a.02	intolerant.a.01
-راست_بین	ADJ	unprejudiced.a.01	unprejudiced.a.01
-عادل	ADJ	unprejudiced.a.01	impartial.a.01	unprejudiced.a.01	impartial.a.01
-منصفانه	ADJ	unprejudiced.a.01	impartial.a.01	unprejudiced.a.01	impartial.a.01
-دوستانه	ADJ	brotherly.a.01	friendly.a.01	sociable.a.01	brotherly.a.01	friendly.a.01	sociable.a.01
-خواهرانه	ADJ	sisterly.a.01	sisterly.a.01
-جامعه_گرای	ADJ	socialistic.a.01	socialistic.a.01
-سوسیالیست	ADJ	socialistic.a.01	socialistic.a.01
-توفانی	ADJ	stormy.a.01	stormy.a.01
-بی_دقت	ADJ	careless.a.01	negligent.a.01	careless.a.01	negligent.a.01
-حیوان_گوشتخوار	ADJ	carnivorous.a.02	carnivorous.a.02
-حشره_خوار	ADJ	insectivorous.a.01	insectivorous.a.01
-بیگانه_خوار	ADJ	holozoic.a.01	holozoic.a.01
-همجنس_خوار	ADJ	holophytic.a.01	holophytic.a.01
-فرش_کرده	ADJ	carpeted.a.01	carpeted.a.01
-حک_شده	ADJ	carved.a.01	carved.a.01
-اساسی	ADJ	radical.a.05	radical.a.05
-بدون_تنه	ADJ	acaulescent.a.01	stemless.a.01	acaulescent.a.01	stemless.a.01
-محتاط	ADJ	cautious.a.01	reserved.a.02	reserved.a.01	scrupulous.a.01	cautious.a.01	reserved.a.02	reserved.a.01	scrupulous.a.01
-هوشیار	ADJ	cautious.a.01	cautious.a.01
-بافت_سلولی	ADJ	cellular.a.02	cellular.a.02
-اوران	ADJ	afferent.a.01	afferent.a.01
-نقل_کننده	ADJ	afferent.a.01	afferent.a.01
-مجاب	ADJ	convinced.a.02	convinced.a.02
-ملزم	ADJ	convinced.a.02	convinced.a.02
-دلگرم	ADJ	confident.a.01	confident.a.01
-مطمئن	ADJ	confident.a.01	confident.a.01
-بدیهی	ADJ	inevitable.a.01	inevitable.a.01
-حتمی_الوقوع	ADJ	inevitable.a.01	inevitable.a.01
-قابل_جلوگیری	ADJ	preventable.a.01	preventable.a.01
-غیر_قابل_تعویض	ADJ	incommutable.a.01	incommutable.a.01
-عوض_نشده	ADJ	unaltered.a.01	unaltered.a.01
-بی_ثبات	ADJ	mutable.a.01	mutable.a.01
-تعویض_پذیر	ADJ	mutable.a.01	mutable.a.01
-تغییر_پذیر	ADJ	mutable.a.01	mutable.a.01
-بی_تغییر	ADJ	immutable.a.01	immutable.a.01
-تغییر_ناپذیر	ADJ	immutable.a.01	immutable.a.01
-محسوب_نشده	ADJ	uncharged.a.01	uncharged.a.01
-اجاره_ای	ADJ	chartered.a.01	rental.a.02	rental.a.01	chartered.a.01	rental.a.02	rental.a.01
-استیجاری	ADJ	chartered.a.01	chartered.a.01
-بشاش	ADJ	cheerful.a.01	cheerful.a.01
-افسرده	ADJ	depressing.a.01	dejected.a.01	depressing.a.01	dejected.a.01
-ناشاد	ADJ	depressing.a.01	depressing.a.01
-بدون_پوشش	ADJ	achlamydeous.a.01	achlamydeous.a.01
-تک_رنگ	ADJ	monochromatic.a.02	monochromatic.a.02
-یکرنگ	ADJ	monochromatic.a.02	monochromatic.a.02
-همرنگ	ADJ	monochromatic.a.02	monochromatic.a.02
-بسیار_رنگ	ADJ	polychromatic.a.01	polychromatic.a.01
-پر_رنگ	ADJ	chromatic.a.03	chromatic.a.01	chromatic.a.03	chromatic.a.01
-بی_رنگ	ADJ	achromatic.a.01	colorless.a.02	colorless.a.01	achromatic.a.01	colorless.a.02	colorless.a.01
-اشباع_شده	ADJ	saturated.a.03	saturated.a.03
-اشباع_نشده	ADJ	unsaturated.a.03	unsaturated.a.03
-رنگارنگ	ADJ	colored.a.01	colorful.a.01	colorful.a.02	colored.a.01	colorful.a.01	colorful.a.02
-کم_رنگ	ADJ	colorless.a.02	colorless.a.01	colorless.a.02	colorless.a.01
-سری	ADJ	classified.a.02	classified.a.02
-غیر_سالم	ADJ	dirty.a.01	dirty.a.01
-ناپاک	ADJ	dirty.a.01	unclean.a.02	dirty.a.01	unclean.a.02
-نجس	ADJ	dirty.a.01	unclean.a.02	dirty.a.01	unclean.a.02
-رادیو_اکتیو	ADJ	radioactive.a.01	radioactive.a.01
-نادرست	ADJ	unclean.a.02	dishonest.a.01	unclean.a.02	dishonest.a.01
-غیر_شفاف	ADJ	opaque.a.01	opaque.a.01
-کدر	ADJ	opaque.a.01	opaque.a.01
-مات	ADJ	opaque.a.01	opaque.a.01
-با_ذکاوت	ADJ	clearheaded.a.01	clearheaded.a.01
-بخشاینده	ADJ	clement.a.02	clement.a.01	clement.a.02	clement.a.01
-رحمان	ADJ	clement.a.02	clement.a.02
-مهربان	ADJ	clement.a.02	clement.a.01	clement.a.02	clement.a.01
-بی_اعتدال	ADJ	inclement.a.02	inclement.a.01	inclement.a.02	inclement.a.01
-مزین	ADJ	clothed.a.01	clothed.a.01
-ساحلی	ADJ	coastal.a.02	coastal.a.01	coastal.a.02	coastal.a.01
-کناری	ADJ	coastal.a.02	coastal.a.01	coastal.a.02	coastal.a.01
-داخله	ADJ	inland.a.01	inland.a.01
-درون_کشور	ADJ	inland.a.01	inland.a.01
-درون_مرزی	ADJ	inland.a.01	inland.a.01
-مرتب	ADJ	coherent.a.01	arranged.a.01	tidy.a.01	coherent.a.01	arranged.a.01	tidy.a.01
-متناقض	ADJ	incoherent.a.01	incoherent.a.01
-توزیعی	ADJ	distributive.a.01	distributive.a.01
-سوزا	ADJ	combustible.a.01	combustible.a.01
-نسوز	ADJ	noncombustible.a.01	noncombustible.a.01
-جادار	ADJ	commodious.a.01	commodious.a.01
-راحت	ADJ	commodious.a.01	convenient.a.01	commodious.a.01	convenient.a.01
-راه_دست	ADJ	commodious.a.01	convenient.a.01	commodious.a.01	convenient.a.01
-ناراحت	ADJ	incommodious.a.01	uncomfortable.a.02	uncomfortable.a.01	inconvenient.a.01	incommodious.a.01	uncomfortable.a.02	uncomfortable.a.01	inconvenient.a.01
-متناسب	ADJ	commensurate.a.01	commensurate.a.01
-بی_تناسب	ADJ	incommensurate.a.01	incommensurate.a.01
-محلی	ADJ	residential.a.01	residential.a.02	residential.a.01	residential.a.02
-مسکونی	ADJ	residential.a.01	residential.a.02	residential.a.01	residential.a.02
-غیر_متداول	ADJ	uncommon.a.01	uncommon.a.01
-غیرمعمول	ADJ	uncommon.a.01	strange.a.01	uncommon.a.01	strange.a.01
-عادی	ADJ	usual.a.01	ordinary.a.01	usual.a.01	ordinary.a.01
-متداول	ADJ	usual.a.01	ordinary.a.01	usual.a.01	ordinary.a.01
-معمول	ADJ	usual.a.01	usual.a.01
-همیشگی	ADJ	usual.a.01	continual.a.01	usual.a.01	continual.a.01
-فصیح	ADJ	communicative.a.02	communicative.a.01	communicative.a.02	communicative.a.01
-گویا	ADJ	communicative.a.02	communicative.a.01	communicative.a.02	communicative.a.01
-کم_حرف	ADJ	uncommunicative.a.01	uncommunicative.a.01
-کم_سخن	ADJ	uncommunicative.a.01	uncommunicative.a.01
-قابلیت_مقایسه	ADJ	comparable.a.01	comparable.a.01
-غیر_قابل_قیاس	ADJ	incomparable.a.01	incomparable.a.01
-غیر_قابل_مقایسه	ADJ	incomparable.a.01	incomparable.a.01
-دلسوز	ADJ	compassionate.a.01	compassionate.a.01
-رحیم	ADJ	compassionate.a.01	compassionate.a.01
-شفیق	ADJ	compassionate.a.01	compassionate.a.01
-غم_خوار	ADJ	compassionate.a.01	compassionate.a.01
-همساز	ADJ	compatible.a.01	compatible.a.01
-قابل_اختلاط	ADJ	miscible.a.01	miscible.a.01
-ذی_صلاحیت	ADJ	competent.a.01	competent.a.01
-شایسته	ADJ	competent.a.01	competent.a.01
-لایق	ADJ	competent.a.01	competent.a.01
-تعهد_نشده	ADJ	uncommitted.a.01	uncommitted.a.01
-اختصاصی	ADJ	dedicated.a.01	consecrated.a.01	proprietary.a.01	dedicated.a.01	consecrated.a.01	proprietary.a.01
-وقف_شده	ADJ	dedicated.a.01	consecrated.a.01	dedicated.a.01	consecrated.a.01
-نا_تمام	ADJ	incomplete.a.01	incomplete.a.01
-ناقص	ADJ	incomplete.a.01	imperfect.a.01	incomplete.a.01	imperfect.a.01
-جامع	ADJ	comprehensive.a.01	comprehensive.a.01
-آرام	ADJ	composed.a.01	composed.a.01
-ترکیب_شده	ADJ	composed.a.01	composed.a.01
-قابل_درک	ADJ	comprehensible.a.01	comprehensible.a.01
-مقعر	ADJ	concave.a.01	concave.a.01
-توزیع_شده	ADJ	distributed.a.01	distributed.a.01
-متحد_المرکز	ADJ	concentric.a.01	concentric.a.01
-هم_مرکز	ADJ	concentric.a.01	concentric.a.01
-عجیب	ADJ	eccentric.a.02	eccentric.a.02
-لاقید	ADJ	unconcerned.a.01	unconcerned.a.01
-موجز	ADJ	concise.a.01	concise.a.01
-دراز	ADJ	prolix.a.01	prolix.a.01
-مجمل	ADJ	inconclusive.a.01	inconclusive.a.01
-تابع	ADJ	subordinating.a.01	subordinating.a.01
-جور	ADJ	accordant.a.01	accordant.a.01
-ناسازگار	ADJ	discordant.a.01	discordant.a.01
-بسط_یافته	ADJ	expanded.a.01	expanded.a.01
-مبسوط	ADJ	expanded.a.01	expanded.a.01
-منبسط_شده	ADJ	expanded.a.01	expanded.a.01
-شرطی	ADJ	conditional.a.02	conditional.a.02
-غیر_شرطی	ADJ	unconditional.a.01	unconditional.a.01
-قابل_اجرا	ADJ	enforceable.a.01	enforceable.a.01
-برنده	ADJ	conductive.a.01	conductive.a.01
-رسانا	ADJ	conductive.a.01	conductive.a.01
-هم_سلیقه	ADJ	congenial.a.01	congenial.a.01
-هم_مشرب	ADJ	congenial.a.01	congenial.a.01
-نامتجانس	ADJ	incongruent.a.01	incongruous.a.01	incongruent.a.01	incongruous.a.01
-متجانس	ADJ	congruous.a.01	congruous.a.01
-موافق	ADJ	congruous.a.01	friendly.a.01	pro.a.01	congruous.a.01	friendly.a.01	pro.a.01
-ربط_دهنده	ADJ	conjunctive.a.01	conjunctive.a.01
-فصلی	ADJ	disjunctive.a.01	disjunctive.a.01
-تسخیر_ناپذیر	ADJ	unconquerable.a.01	unconquerable.a.01
-اشکار	ADJ	conspicuous.a.01	conspicuous.a.01
-انگشت_نما	ADJ	conspicuous.a.01	conspicuous.a.01
-غیرقابل_تشخیص	ADJ	inconspicuous.a.01	invisible.a.01	inconspicuous.a.01	invisible.a.01
-غیرقابل_مشاهده	ADJ	inconspicuous.a.01	invisible.a.01	inconspicuous.a.01	invisible.a.01
-غیرمحسوس	ADJ	inconspicuous.a.01	inconspicuous.a.01
-غیر_محسوس	ADJ	inconspicuous.a.01	invisible.a.01	inconspicuous.a.01	invisible.a.01
-غیرمشخص	ADJ	inconspicuous.a.01	inconspicuous.a.01
-کمرنگ	ADJ	inconspicuous.a.01	inconspicuous.a.01
-مخفی	ADJ	inconspicuous.a.01	invisible.a.01	inconspicuous.a.01	invisible.a.01
-ناپدید	ADJ	inconspicuous.a.01	invisible.a.01	inconspicuous.a.01	invisible.a.01
-نامریی	ADJ	inconspicuous.a.01	invisible.a.01	inconspicuous.a.01	invisible.a.01
-ساختمانی	ADJ	constructive.a.01	constructive.a.01
-مخرب	ADJ	destructive.a.01	destructive.a.01
-ویرانگر	ADJ	destructive.a.01	destructive.a.01
-قابل_اعتراض	ADJ	contestable.a.01	contestable.a.01
-غیرقابل_بحث	ADJ	incontestable.a.01	incontestable.a.01
-محقق	ADJ	incontestable.a.01	incontestable.a.01
-پیوسته	ADJ	continual.a.01	continual.a.01
-دائمی	ADJ	continual.a.01	permanent.a.01	continual.a.01	permanent.a.01
-انفرادی	ADJ	sporadic.a.01	sporadic.a.01
-پراکنده	ADJ	sporadic.a.01	sporadic.a.01
-گاه_وبیگاه	ADJ	sporadic.a.01	sporadic.a.01
-متوالی	ADJ	continuous.a.01	continuous.a.02	continuous.a.01	continuous.a.02
-مداوم	ADJ	continuous.a.01	continuous.a.02	continuous.a.01	continuous.a.02
-ناپیوسته	ADJ	discontinuous.a.02	discontinuous.a.01	discontinuous.a.02	discontinuous.a.01
-جدال_آمیز	ADJ	controversial.a.01	controversial.a.01
-هم_ستیز	ADJ	controversial.a.01	controversial.a.01
-استدلالی	ADJ	argumentative.a.01	argumentative.a.01
-ناجور	ADJ	inconvenient.a.01	inconvenient.a.01
-همگرا	ADJ	convergent.a.01	convergent.a.01
-واگرا	ADJ	divergent.a.02	divergent.a.02
-متقاعد_کننده	ADJ	convincing.a.01	persuasive.a.01	convincing.a.01	persuasive.a.01
-شایان	ADJ	considerable.a.01	considerable.a.01
-قابل_توجه	ADJ	considerable.a.01	considerable.a.01
-خرد	ADJ	inconsiderable.a.01	inconsiderable.a.01
-بی_اساسی	ADJ	insubstantial.a.01	insubstantial.a.01
-بی_موضوع	ADJ	insubstantial.a.01	insubstantial.a.01
-جسمی	ADJ	corporeal.a.01	corporeal.a.01
-جسمانی	ADJ	corporeal.a.01	bodily.a.01	corporeal.a.01	bodily.a.01
-دارای_ماده	ADJ	corporeal.a.01	corporeal.a.01
-اصلاح_پذیر	ADJ	corrigible.a.01	corrigible.a.01
-اصلاح_ناپذیر	ADJ	incorrigible.a.01	incorrigible.a.01
-ملین	ADJ	laxative.a.01	laxative.a.01
-بی_ملاحظه	ADJ	inconsiderate.a.01	inconsiderate.a.01
-با_ادب	ADJ	courteous.a.02	courteous.a.02
-مودبانه	ADJ	courteous.a.02	courteous.a.02
-بی_ادبانه	ADJ	discourteous.a.01	discourteous.a.01
-بی_تربیت	ADJ	impolite.a.01	impolite.a.01
-بی_تمدن	ADJ	uncivil.a.01	uncivil.a.01
-نجومی	ADJ	sidereal.a.02	sidereal.a.01	sidereal.a.02	sidereal.a.01
-خالق	ADJ	creative.a.01	creative.a.01
-معتبر	ADJ	credible.a.01	trustworthy.a.01	credible.a.01	trustworthy.a.01
-غیر_قابل_باور	ADJ	incredible.a.01	incredible.a.01
-غیرقابل_قبول	ADJ	incredible.a.01	incredible.a.01
-زودباور	ADJ	credulous.a.01	credulous.a.01
-غیر_انتقادی	ADJ	uncritical.a.02	uncritical.a.02
-بلوری	ADJ	crystallized.a.01	crystallized.a.01
-مکعبی	ADJ	cubic.a.01	cubic.a.01
-دو_وجهی	ADJ	planar.a.01	planar.a.01
-سطحی	ADJ	planar.a.01	planar.a.01
-مسطح	ADJ	planar.a.01	planar.a.01
-تک_بعدی	ADJ	unidimensional.a.01	unidimensional.a.01
-یک_بعدی	ADJ	unidimensional.a.01	unidimensional.a.01
-چند_بعدی	ADJ	multidimensional.a.01	multidimensional.a.01
-غریب	ADJ	curious.a.02	curious.a.02
-کنجکاو	ADJ	curious.a.02	curious.a.02
-رایج	ADJ	current.a.01	current.a.01
-رجیم	ADJ	cursed.a.01	cursed.a.01
-ملعون	ADJ	cursed.a.01	cursed.a.01
-خوشبخت	ADJ	blessed.a.01	blessed.a.01
-دستی	ADJ	handmade.a.01	handmade.a.01
-دستباف	ADJ	handmade.a.01	handmade.a.01
-مصنوع_دست	ADJ	handmade.a.01	handmade.a.01
-خانگی	ADJ	homemade.a.01	homemade.a.01
-خانه_بافت	ADJ	homemade.a.01	homemade.a.01
-چرخی	ADJ	cyclic.a.04	cyclic.a.04
-دوری	ADJ	cyclic.a.04	cyclic.a.04
-مربوط_بهروز	ADJ	diurnal.a.01	diurnal.a.01
-نمایش_شبانه	ADJ	nocturnal.a.01	nocturnal.a.02	nocturnal.a.01	nocturnal.a.02
-غیر_قطعی	ADJ	indecisive.a.01	indecisive.a.01
-اظهاری	ADJ	declarative.a.01	declarative.a.01
-اعلانی	ADJ	declarative.a.01	declarative.a.01
-ادوات_استفهام	ADJ	interrogative.a.02	interrogative.a.02
-اظهار_شده	ADJ	declared.a.01	declared.a.01
-اعلان_شده	ADJ	declared.a.01	declared.a.01
-شناسایی_شده	ADJ	declared.a.01	declared.a.01
-بی_ادب	ADJ	indecorous.a.01	indecorous.a.01
-نا_صحیح	ADJ	indecorous.a.01	indecorous.a.01
-بطلان_ناپذیر	ADJ	indefeasible.a.01	indefeasible.a.01
-مظنون	ADJ	defiant.a.01	defiant.a.01
-تعریف_نشده	ADJ	undefined.a.01	undefined.a.01
-تصریح_شده	ADJ	definite.a.01	definite.a.01
-روشن	ADJ	definite.a.01	definite.a.01
-قطعی	ADJ	definite.a.01	definite.a.01
-معلوم	ADJ	definite.a.01	definite.a.01
-معین	ADJ	definite.a.01	definite.a.01
-بی_حد	ADJ	indefinite.a.01	indefinite.a.01
-نامعین	ADJ	indefinite.a.01	indeterminate.a.01	indefinite.a.01	indeterminate.a.01
-نکره	ADJ	indefinite.a.01	indefinite.a.01
-شکوفا	ADJ	dehiscent.a.01	dehiscent.a.01
-خواستار	ADJ	demanding.a.01	demanding.a.01
-مبرم	ADJ	demanding.a.01	demanding.a.01
-حتمی	ADJ	imperative.a.01	imperative.a.01
-ضروری	ADJ	imperative.a.01	necessary.a.01	imperative.a.01	necessary.a.01
-اختیاری	ADJ	arbitrary.a.01	arbitrary.a.01
-دلخواه	ADJ	arbitrary.a.01	arbitrary.a.01
-مطلق	ADJ	arbitrary.a.01	arbitrary.a.01
-اثبات_کننده	ADJ	demonstrative.a.01	demonstrative.a.01
-غیر_مدلل	ADJ	undemonstrative.a.01	undemonstrative.a.01
-قابل_انکار	ADJ	deniable.a.01	deniable.a.01
-تفکیکی	ADJ	denotative.a.01	denotative.a.01
-غیر_قابل_اطمینان	ADJ	unreliable.a.02	unreliable.a.02
-غیر_متعهد	ADJ	nonaligned.a.01	nonaligned.a.01
-تشریحی	ADJ	descriptive.a.02	descriptive.a.01	anatomic.a.01	anatomic.a.02	exponential.a.01	descriptive.a.02	descriptive.a.01	anatomic.a.01	anatomic.a.02	exponential.a.01
-توصیفی	ADJ	descriptive.a.02	descriptive.a.01	descriptive.a.02	descriptive.a.01
-تجویزی	ADJ	prescriptive.a.01	prescriptive.a.01
-معیاری	ADJ	prescriptive.a.01	normative.a.01	prescriptive.a.01	normative.a.01
-هنجاری	ADJ	prescriptive.a.01	normative.a.01	prescriptive.a.01	normative.a.01
-مطلوب	ADJ	desirable.a.01	desirable.a.01
-ناخواسته	ADJ	undesirable.a.01	undesirable.a.01
-نامطلوب	ADJ	undesirable.a.01	undesirable.a.01
-قابل_تعیین	ADJ	determinable.a.01	determinable.a.01
-بی_حدو_حصر	ADJ	indeterminable.a.01	indeterminable.a.01
-چپی	ADJ	sinistral.a.01	sinistral.a.01
-عایق_گرما	ADJ	adiabatic.a.01	adiabatic.a.01
-صعب	ADJ	difficult.a.01	unmanageable.a.02	difficult.a.01	unmanageable.a.02
-باوقار	ADJ	dignified.a.01	dignified.a.01
-بلند_مرتبه	ADJ	dignified.a.01	dignified.a.01
-معزز	ADJ	dignified.a.01	dignified.a.01
-تک_لپه	ADJ	monocotyledonous.a.01	monocotyledonous.a.01
-پشت_کاردار	ADJ	diligent.a.02	diligent.a.02
-ساعی	ADJ	diligent.a.02	diligent.a.02
-سخت_کوش	ADJ	diligent.a.02	diligent.a.02
-کوشا	ADJ	diligent.a.02	diligent.a.02
-کوشنده	ADJ	diligent.a.02	diligent.a.02
-دیپلماتیک	ADJ	diplomatic.a.02	diplomatic.a.02
-تناوبی	ADJ	alternating.a.01	alternating.a.01
-متناوب	ADJ	alternating.a.01	periodic.a.01	alternating.a.01	periodic.a.01
-برعکس	ADJ	inverse.a.02	inverse.a.02
-برگشته	ADJ	inverse.a.02	inverse.a.02
-معکوس	ADJ	inverse.a.02	inverse.a.02
-وارونه	ADJ	inverse.a.02	inverse.a.02
-واقع_در_میان	ADJ	mediate.a.01	mediate.a.01
-وسطی	ADJ	mediate.a.01	mediate.a.01
-باخرد	ADJ	discreet.a.01	discreet.a.01
-قابل_برگشت	ADJ	returnable.a.01	returnable.a.01
-قابل_عرضه	ADJ	disposable.a.01	disposable.a.01
-مبدایی	ADJ	proximal.a.01	proximal.a.01
-نزدیک_مبدا	ADJ	proximal.a.01	proximal.a.01
-درهم	ADJ	indistinct.a.01	indistinct.a.01
-غیر_روشن	ADJ	indistinct.a.01	indistinct.a.01
-ناشنوا	ADJ	indistinct.a.01	indistinct.a.01
-نا_معلوم	ADJ	indistinct.a.01	indistinct.a.01
-قابل_قسمت	ADJ	divisible.a.01	divisible.a.01
-پست	ADJ	servile.a.01	humble.a.02	servile.a.01	humble.a.02
-چیره	ADJ	dominant.a.01	dominant.a.01
-متعادل	ADJ	dominant.a.01	dominant.a.01
-مسلط	ADJ	dominant.a.01	dominant.a.01
-ارتجاعی	ADJ	recessive.a.02	recessionary.a.01	recessive.a.02	recessionary.a.01
-تئاتری	ADJ	theatrical.a.02	theatrical.a.02
-قابل_شرب	ADJ	drinkable.a.01	drinkable.a.01
-خیس	ADJ	intoxicated.a.01	intoxicated.a.01
-مست_شده	ADJ	intoxicated.a.01	intoxicated.a.01
-کذایی	ADJ	eventful.a.01	eventful.a.01
-بی_حادثه	ADJ	uneventful.a.01	uneventful.a.01
-ترد_و_شکننده	ADJ	eager.a.01	eager.a.01
-مشتاق	ADJ	eager.a.01	eager.a.01
-خوشه_کرده	ADJ	eared.a.02	eared.a.02
-با_کفایت	ADJ	efficient.a.01	efficient.a.01
-کارا	ADJ	efficient.a.01	efficient.a.01
-موثر	ADJ	efficient.a.01	efficient.a.01
-قوی	ADJ	forceful.a.01	irresistible.a.01	forceful.a.01	irresistible.a.01
-کشدار	ADJ	elastic.a.01	elastic.a.01
-بیکار	ADJ	unemployed.a.01	unemployed.a.01
-عاطل	ADJ	unemployed.a.01	unemployed.a.01
-خواهان	ADJ	desirous.a.01	desirous.a.01
-ملتمس	ADJ	desirous.a.01	desirous.a.01
-دارای_ابهام	ADJ	equivocal.a.01	equivocal.a.01
-دو_پهلو	ADJ	equivocal.a.01	equivocal.a.01
-غیر_ضروری	ADJ	inessential.a.01	inessential.a.01
-ناهموار	ADJ	uneven.a.01	uneven.a.01
-بادوام	ADJ	evergreen.a.01	evergreen.a.01
-بی_خزان	ADJ	evergreen.a.01	evergreen.a.01
-همیشه_بهار	ADJ	evergreen.a.01	evergreen.a.01
-همیشه_سبز	ADJ	evergreen.a.01	evergreen.a.01
-غیر_قابل_تغییر	ADJ	inconvertible.a.01	inconvertible.a.01
-مبادله_ناپذیر	ADJ	inconvertible.a.01	inconvertible.a.01
-موجود	ADJ	existent.a.01	existent.a.01
-تهورآمیز	ADJ	expedient.a.01	expedient.a.01
-اشاره_شده	ADJ	implicit.a.01	implicit.a.01
-التزامی	ADJ	implicit.a.01	implicit.a.01
-مجازی	ADJ	implicit.a.01	implicit.a.01
-باطنی	ADJ	inward.a.01	inward.a.01
-درون	ADJ	inward.a.01	inward.a.01
-بیرونی	ADJ	exterior.a.01	exterior.a.01
-باایمان	ADJ	faithful.a.03	faithful.a.03
-با_وفا	ADJ	faithful.a.03	faithful.a.03
-غیرعادی	ADJ	strange.a.01	strange.a.01
-چرب	ADJ	fatty.a.01	fatty.a.01
-بی_درمان	ADJ	incurable.a.01	incurable.a.01
-علاج_ناپذیر	ADJ	incurable.a.01	incurable.a.01
-ژرف	ADJ	unfathomable.a.01	unfathomable.a.01
-بایر	ADJ	sterile.a.01	sterile.a.01
-میانه	ADJ	intermediate.a.01	intermediate.a.01
-واسطه	ADJ	intermediate.a.01	intermediate.a.01
-خوش_بنیه	ADJ	uncompromising.a.01	uncompromising.a.01
-فرفری	ADJ	curly.a.01	curly.a.01
-مجعد	ADJ	curly.a.01	curly.a.01
-تکرار_شونده	ADJ	frequent.a.01	frequent.a.01
-زود_زود	ADJ	frequent.a.01	frequent.a.01
-مکرر	ADJ	frequent.a.01	repetitive.a.02	frequent.a.01	repetitive.a.02
-بیات	ADJ	stale.a.01	stale.a.01
-بوی_ناگرفته	ADJ	stale.a.01	stale.a.01
-کهنه	ADJ	stale.a.01	stale.a.01
-مبتذل	ADJ	stale.a.01	stale.a.01
-متمرکز	ADJ	centralized.a.01	centralized.a.01
-سخی	ADJ	generous.a.01	generous.a.01
-بخشنده	ADJ	generous.a.02	generous.a.02
-بدلی	ADJ	counterfeit.a.01	counterfeit.a.01
-جعلی	ADJ	counterfeit.a.01	counterfeit.a.01
-براق	ADJ	glazed.a.03	glazed.a.03
-درخشان	ADJ	glazed.a.03	glazed.a.03
-شریرانه	ADJ	evil.a.01	evil.a.01
-ناصواب	ADJ	ungracious.a.01	ungracious.a.01
-تدریجی	ADJ	gradual.a.01	gradual.a.02	gradual.a.01	gradual.a.02
-نیم_دانه	ADJ	haploid.a.01	haploid.a.01
-دوبرابر	ADJ	diploid.a.01	diploid.a.01
-دل_سخت	ADJ	hardhearted.a.01	hardhearted.a.01
-سنگدل	ADJ	hardhearted.a.01	hardhearted.a.01
-الکلی	ADJ	alcoholic.a.01	alcoholic.a.01
-مضر	ADJ	harmful.a.01	harmful.a.01
-بی_آهنگ	ADJ	inharmonious.a.01	inharmonious.a.01
-طبی	ADJ	medical.a.02	medical.a.02
-عمل_جراحی	ADJ	surgical.a.02	surgical.a.02
-مفید	ADJ	helpful.a.01	profitable.a.01	helpful.a.01	profitable.a.01
-متباین	ADJ	heterogeneous.a.01	heterogeneous.a.01
-ناهمگن	ADJ	heterogeneous.a.01	heterogeneous.a.01
-برجسته	ADJ	raised.a.01	raised.a.01
-دور_از_دریا	ADJ	upland.a.01	upland.a.01
-دغل	ADJ	dishonest.a.01	dishonest.a.01
-متقلب	ADJ	dishonest.a.01	dishonest.a.01
-تسلی_ناپذیر	ADJ	inconsolable.a.01	inconsolable.a.01
-افقی	ADJ	horizontal.a.01	horizontal.a.01
-ترازی	ADJ	horizontal.a.01	horizontal.a.01
-سطح_افقی	ADJ	horizontal.a.01	horizontal.a.01
-ماندگار	ADJ	immanent.a.01	immanent.a.01
-تند	ADJ	transeunt.a.01	transeunt.a.01
-افتتاحی	ADJ	inaugural.a.01	inaugural.a.01
-وارد_شونده	ADJ	incoming.a.01	incoming.a.01
-قیاسی	ADJ	inductive.a.02	inductive.a.01	inductive.a.02	inductive.a.01
-عارف	ADJ	gnostic.a.02	gnostic.a.02
-عرفانی	ADJ	gnostic.a.02	gnostic.a.02
-بزهکار	ADJ	guilty.a.01	guilty.a.01
-گناهکار	ADJ	guilty.a.01	guilty.a.01
-مجرم	ADJ	guilty.a.01	guilty.a.01
-مقصر	ADJ	guilty.a.01	guilty.a.01
-قابل_فهم	ADJ	intelligible.a.02	intelligible.a.02
-طرف_باد	ADJ	windward.a.01	windward.a.01
-درست	ADJ	legitimate.a.01	legitimate.a.01
-غیر_محتمل	ADJ	improbable.a.01	improbable.a.01
-اجدادی	ADJ	lineal.a.01	lineal.a.01
-خطی	ADJ	lineal.a.01	lineal.a.01
-مربوط_به_خط	ADJ	lineal.a.01	lineal.a.01
-افزایشی	ADJ	linear.a.01	linear.a.01
-موضعی	ADJ	local.a.03	focal.a.02	local.a.03	focal.a.02
-بیماری_همه_گیر	ADJ	epidemic.a.01	epidemic.a.01
-عالم_گیر	ADJ	epidemic.a.01	epidemic.a.01
-مسری	ADJ	epidemic.a.01	epidemic.a.01
-همه_گیر	ADJ	epidemic.a.01	epidemic.a.01
-واگیر	ADJ	epidemic.a.01	epidemic.a.01
-پرجلوه	ADJ	forte.a.01	forte.a.01
-پر_صدا	ADJ	forte.a.01	forte.a.01
-بامحبت	ADJ	loving.a.01	loving.a.01
-دوستدار	ADJ	loving.a.01	loving.a.01
-محبت_آمیز	ADJ	loving.a.01	loving.a.01
-محبوب	ADJ	loving.a.01	loving.a.01
-نابالغ	ADJ	minor.a.05	minor.a.05
-دشوار	ADJ	unmanageable.a.02	unmanageable.a.02
-سخت	ADJ	unmanageable.a.02	tense.a.03	unmanageable.a.02	tense.a.03
-مشکل	ADJ	unmanageable.a.02	unmanageable.a.02
-شوهردار	ADJ	married.a.01	marital.a.01	married.a.01	marital.a.01
-متاهل	ADJ	married.a.01	marital.a.01	married.a.01	marital.a.01
-مونث	ADJ	feminine.a.01	feminine.a.01
-بی_غرض	ADJ	neuter.a.01	neuter.a.01
-مطابق	ADJ	matched.a.02	matched.a.02
-پیش_رس	ADJ	premature.a.01	precocious.a.01	premature.a.01	precocious.a.01
-نارس	ADJ	premature.a.01	premature.a.01
-بیشینه	ADJ	maximal.a.01	maximal.a.01
-حداقل	ADJ	minimal.a.01	minimal.a.01
-دست_کم	ADJ	minimal.a.01	minimal.a.01
-کمترین	ADJ	minimal.a.01	minimal.a.01
-کمینه	ADJ	minimal.a.01	minimal.a.01
-بی_اندازه	ADJ	immeasurable.a.01	immeasurable.a.01
-بی_قیاس	ADJ	immeasurable.a.01	immeasurable.a.01
-پیمایش_ناپذیر	ADJ	immeasurable.a.01	immeasurable.a.01
-ملایم	ADJ	mild.a.01	mild.a.01
-پهناور	ADJ	extensive.a.03	extensive.a.03
-وسیع	ADJ	extensive.a.03	extensive.a.03
-غیر_نظامی	ADJ	civilian.a.01	civilian.a.01
-اخلاقی	ADJ	moral.a.01	moral.a.01
-بد_اخلاق	ADJ	immoral.a.01	immoral.a.01
-هرزه	ADJ	immoral.a.01	immoral.a.01
-بسیاری	ADJ	many.a.01	many.a.01
-خیلی	ADJ	many.a.01	many.a.01
-زیاد	ADJ	many.a.01	many.a.01
-اندکی_از	ADJ	few.a.01	few.a.01
-کمی_از	ADJ	few.a.01	few.a.01
-معدود	ADJ	few.a.01	few.a.01
-ابدی	ADJ	immortal.a.01	immortal.a.01
-جاوید	ADJ	immortal.a.01	immortal.a.01
-متحرک	ADJ	moving.a.03	moving.a.03
-بین_المللی	ADJ	international.a.01	international.a.01
-بین_ایالتی	ADJ	interstate.a.01	interstate.a.01
-غایی	ADJ	ultimate.a.01	ultimate.a.01
-نزدیک	ADJ	proximate.a.01	proximate.a.01
-پدافندی	ADJ	defensive.a.01	defensive.a.01
-تایید_شده	ADJ	confirmed.a.02	confirmed.a.02
-مسلم	ADJ	confirmed.a.02	confirmed.a.02
-برقرار	ADJ	on.a.01	on.a.02	on.a.01	on.a.02
-وصل	ADJ	on.a.01	on.a.02	on.a.01	on.a.02
-بسته	ADJ	shut.a.01	closed.a.04	shut.a.01	closed.a.04
-غیر_ارتدکس	ADJ	unorthodox.a.02	unorthodox.a.02
-برگدار	ADJ	leafy.a.01	leafy.a.01
-پر_برگ	ADJ	leafy.a.01	leafy.a.01
-بی_درد	ADJ	painless.a.02	painless.a.02
-محسوس	ADJ	palpable.a.01	palpable.a.01
-مورب	ADJ	oblique.a.01	oblique.a.01
-بیمار	ADJ	patient.a.01	patient.a.01
-صبور	ADJ	patient.a.01	patient.a.01
-مریض	ADJ	patient.a.01	patient.a.01
-بی_تاب	ADJ	impatient.a.01	impatient.a.01
-بی_حوصله	ADJ	impatient.a.01	impatient.a.01
-بی_صبر	ADJ	impatient.a.01	impatient.a.01
-ناتمام	ADJ	imperfect.a.01	imperfect.a.01
-ناکامل	ADJ	imperfect.a.01	imperfect.a.01
-موقتی	ADJ	impermanent.a.01	impermanent.a.01
-تشویقی	ADJ	persuasive.a.01	persuasive.a.01
-مجاب_کننده	ADJ	persuasive.a.01	persuasive.a.01
-تجملی	ADJ	fancy.a.01	fancy.a.01
-خوش	ADJ	pleasing.a.01	pleasing.a.01
-موجب_مسرت	ADJ	pleasing.a.01	pleasing.a.01
-تیز	ADJ	pointed.a.01	pointed.a.01
-با_سیاست	ADJ	politic.a.01	politic.a.01
-زندانی_سیاسی	ADJ	politic.a.01	politic.a.01
-سیاس	ADJ	politic.a.01	politic.a.01
-سیاسی	ADJ	politic.a.01	politic.a.01
-نماینده_سیاسی	ADJ	politic.a.01	politic.a.01
-طرفدار	ADJ	pro.a.01	pro.a.01
-ضد	ADJ	anti.a.01	anti.a.01
-علیه	ADJ	anti.a.01	anti.a.01
-مخالف	ADJ	anti.a.01	anti.a.01
-عقب_افتاده	ADJ	retarded.a.01	retarded.a.01
-سودبخش	ADJ	profitable.a.01	profitable.a.01
-صوری	ADJ	superficial.a.01	superficial.a.01
-محافظ	ADJ	protective.a.01	protective.a.01
-اصیل	ADJ	purebred.a.01	purebred.a.01
-پاک_نژاد	ADJ	purebred.a.01	purebred.a.01
-دورگه	ADJ	crossbred.a.01	crossbred.a.01
-فاقد_صلاحیت	ADJ	unqualified.a.01	unqualified.a.01
-مشکوک	ADJ	questionable.a.01	questionable.a.01
-پر_سر_وصدا	ADJ	noisy.a.01	noisy.a.01
-بی_قرار	ADJ	restless.a.03	restless.a.03
-تصادفی	ADJ	random.a.01	random.a.01
-غیر_عقلانی	ADJ	irrational.a.01	irrational.a.02	irrational.a.01	irrational.a.02
-غیر_منطقی	ADJ	irrational.a.01	irrational.a.01
-نامعقول	ADJ	irrational.a.01	irrational.a.02	irrational.a.01	irrational.a.02
-عقلانی	ADJ	cerebral.a.01	cerebral.a.01
-تکراری	ADJ	repetitive.a.02	repetitive.a.02
-دوره_ای	ADJ	periodic.a.01	periodic.a.01
-بااطلاع	ADJ	mindful.a.01	mindful.a.01
-باخبر	ADJ	mindful.a.01	mindful.a.01
-ذخیره	ADJ	reserved.a.02	reserved.a.01	reserved.a.02	reserved.a.01
-رزرو_شده	ADJ	reserved.a.02	reserved.a.01	reserved.a.02	reserved.a.01
-ثابت	ADJ	resolute.a.01	invariable.a.01	resolute.a.01	invariable.a.01
-ثابت_قدم	ADJ	resolute.a.01	resolute.a.01
-صاحب_عزم	ADJ	resolute.a.01	resolute.a.01
-مصمم	ADJ	resolute.a.01	resolute.a.01
-مسئول	ADJ	responsible.a.01	responsible.a.01
-محکم	ADJ	retentive.a.01	retentive.a.01
-زنبوری	ADJ	reticulate.a.01	reticulate.a.01
-مشبک	ADJ	reticulate.a.01	reticulate.a.01
-محجور	ADJ	insolvent.a.01	insolvent.a.01
-معسر	ADJ	insolvent.a.01	insolvent.a.01
-بی_دست	ADJ	handless.a.01	handless.a.01
-دایره_وار	ADJ	round.a.01	round.a.01
-مدور	ADJ	round.a.01	round.a.01
-گوشه_ای	ADJ	angular.a.02	angular.a.02
-مقدس	ADJ	holy.a.01	holy.a.01
-کفر_آمیز	ADJ	profane.a.02	profane.a.02
-خطرناک	ADJ	dangerous.a.01	dangerous.a.01
-وسواسی	ADJ	scrupulous.a.01	scrupulous.a.01
-باوجدان	ADJ	conscientious.a.02	conscientious.a.02
-بیمه_شونده	ADJ	insured.a.01	insured.a.01
-غیر_حساس	ADJ	insensible.a.01	insensible.a.01
-فرستاده	ADJ	sent.a.01	sent.a.01
-چیز_تقلبی	ADJ	adulterating.a.01	adulterating.a.01
-بدون_سازمان	ADJ	unformed.a.01	unformed.a.01
-تشکیل_نشده	ADJ	unformed.a.01	unformed.a.01
-چیده_شده	ADJ	sheared.a.01	sheared.a.01
-قیچی_شده	ADJ	sheared.a.01	sheared.a.01
-ترتیبی	ADJ	ordinal.a.02	ordinal.a.02
-چند_برابر	ADJ	multiple.a.01	multiple.a.01
-چندگانه	ADJ	multiple.a.01	multiple.a.01
-متعدد	ADJ	multiple.a.01	multiple.a.01
-خشن	ADJ	coarse.a.01	coarse.a.01
-زمخت	ADJ	coarse.a.01	coarse.a.01
-بی_خان	ADJ	unrifled.a.01	unrifled.a.01
-با_مراقب	ADJ	accompanied.a.02	accompanied.a.02
-جامعه_پذیر	ADJ	sociable.a.01	sociable.a.01
-خوش_معاشرت	ADJ	sociable.a.01	sociable.a.01
-اغوا_شده	ADJ	sold.a.01	sold.a.01
-بفروش_رفته	ADJ	sold.a.01	sold.a.01
-فروخته_شده	ADJ	sold.a.01	sold.a.01
-پوچ	ADJ	hollow.a.01	invalid.a.01	hollow.a.01	invalid.a.01
-تهی	ADJ	hollow.a.01	hollow.a.01
-ساده	ADJ	naive.a.01	naive.a.01
-کم_دل	ADJ	spiritless.a.01	spiritless.a.01
-بی_صدا	ADJ	unvoiced.a.01	unvoiced.a.01
-رادیکال	ADJ	unvoiced.a.01	unvoiced.a.01
-گنگ	ADJ	unvoiced.a.01	unvoiced.a.01
-بدون_ساقه	ADJ	stemless.a.01	stemless.a.01
-سرکش	ADJ	insubordinate.a.01	insubordinate.a.01
-گردن_کش	ADJ	insubordinate.a.01	insubordinate.a.01
-نا_فرمان	ADJ	insubordinate.a.01	insubordinate.a.01
-زیر_نویس	ADJ	subscript.a.01	subscript.a.01
-غیر_قابل_عبور	ADJ	insurmountable.a.01	insurmountable.a.01
-مستثنی	ADJ	exempt.a.01	nontaxable.a.01	exempt.a.01	nontaxable.a.01
-معاف	ADJ	exempt.a.01	nontaxable.a.01	exempt.a.01	nontaxable.a.01
-ارضی	ADJ	territorial.a.03	territorial.a.03
-منطقه_ای	ADJ	territorial.a.03	territorial.a.03
-بی_فکر	ADJ	thoughtless.a.01	thoughtless.a.01
-بی_فایده	ADJ	wasteful.a.02	wasteful.a.02
-استوایی	ADJ	equatorial.a.03	equatorial.a.03
-قابل_تعقیب	ADJ	traceable.a.02	traceable.a.02
-قابل_ردیابی	ADJ	traceable.a.02	traceable.a.02
-بدگمان	ADJ	distrustful.a.01	distrustful.a.01
-نوعی	ADJ	typical.a.01	typical.a.01
-دست_به_بالا	ADJ	overhand.a.01	overhand.a.01
-رویهم	ADJ	overhand.a.01	overhand.a.01
-یکطرفه	ADJ	overhand.a.01	overhand.a.01
-دو_لته	ADJ	bivalve.a.01	bivalve.a.01
-انتقالی	ADJ	transitive.a.01	transitive.a.01
-رابطه_غیرمستقیم	ADJ	transitive.a.01	transitive.a.01
-متعدی	ADJ	transitive.a.01	transitive.a.01
-متغیر	ADJ	transitive.a.01	transitive.a.01
-فعل_لازم	ADJ	intransitive.a.01	intransitive.a.01
-لازم	ADJ	intransitive.a.01	intransitive.a.01
-قابل_ترجمه	ADJ	translatable.a.01	translatable.a.01
-قابل_تعبیر	ADJ	translatable.a.01	translatable.a.01
-تخیلی	ADJ	utopian.a.02	utopian.a.02
-بی_اعتبار	ADJ	invalid.a.01	invalid.a.01
-علیل	ADJ	invalid.a.01	invalid.a.01
-باارزش	ADJ	valuable.a.01	valuable.a.01
-پربها	ADJ	valuable.a.01	valuable.a.01
-گرانبها	ADJ	valuable.a.01	valuable.a.01
-گوناگون	ADJ	varied.a.01	varied.a.01
-متنوع	ADJ	varied.a.01	varied.a.01
-بی_عزم	ADJ	invertebrate.a.01	invertebrate.a.01
-بی_مهره	ADJ	invertebrate.a.01	invertebrate.a.01
-نااستوار	ADJ	invertebrate.a.01	invertebrate.a.01
-مصون	ADJ	inviolable.a.01	inviolable.a.01
-بافضیلت	ADJ	virtuous.a.01	virtuous.a.01
-پاکدامن	ADJ	virtuous.a.01	virtuous.a.01
-پرهیزکار	ADJ	virtuous.a.01	virtuous.a.01
-عفیف	ADJ	virtuous.a.01	virtuous.a.01
-ارادی	ADJ	voluntary.a.01	voluntary.a.02	voluntary.a.01	voluntary.a.02
-داوطلبانه	ADJ	voluntary.a.01	voluntary.a.02	voluntary.a.01	voluntary.a.02
-ابله	ADJ	foolish.a.01	foolish.a.01
-ابلهانه	ADJ	foolish.a.01	foolish.a.01
-احمق	ADJ	foolish.a.01	foolish.a.01
-جاهل	ADJ	foolish.a.01	foolish.a.01
-نابخرد	ADJ	foolish.a.01	foolish.a.01
-نادان	ADJ	foolish.a.01	foolish.a.01
-پر_درخت	ADJ	woody.a.01	woody.a.01
-چوبی	ADJ	woody.a.01	woody.a.01
-گلدار	ADJ	flowering.a.01	flowering.a.01
-نباتی	ADJ	vegetal.a.01	vegetal.a.01
-گرفتگی_بینی	ADJ	adenoid.a.01	adenoid.a.01
-مستعد_جنگ	ADJ	agonistic.a.01	agonistic.a.01
-سوراخ_سوراخ	ADJ	alveolar.a.01	alveolar.a.02	alveolar.a.01	alveolar.a.02
-بدنام	ADJ	anastigmatic.a.01	anastigmatic.a.01
-در_معرض_تهمت	ADJ	anastigmatic.a.01	anastigmatic.a.01
-دوزیست	ADJ	anuran.a.01	anuran.a.01
-زاهدانه	ADJ	ascetic.a.01	ascetic.a.01
-ذیحق	ADJ	beneficiary.a.01	beneficiary.a.01
-بدنی	ADJ	bodily.a.01	bodily.a.01
-شیمیایی	ADJ	chemical.a.01	chemical.a.02	chemical.a.01	chemical.a.02
-هم_غذا	ADJ	commensal.a.01	commensal.a.01
-قابل_تحویل	ADJ	deliverable.a.01	deliverable.a.01
-معرق	ADJ	diaphoretic.a.01	diaphoretic.a.01
-تشخیص_دهنده	ADJ	differential.a.01	differential.a.01
-ابتدایی	ADJ	elementary.a.02	elementary.a.02
-مقدماتی	ADJ	elementary.a.02	elementary.a.02
-اسبی	ADJ	equine.a.02	equine.a.01	equine.a.02	equine.a.01
-اتحادی	ADJ	fraternal.a.01	fraternal.a.01
-ائتلافی	ADJ	fraternal.a.01	fraternal.a.01
-برادرانه	ADJ	fraternal.a.01	fraternal.a.01
-ریوی_ومعدی	ADJ	pneumogastric.a.02	pneumogastric.a.02
-گلویی	ADJ	guttural.a.02	guttural.a.02
-جگری	ADJ	hepatic.a.01	hepatic.a.01
-جگری_رنگ	ADJ	hepatic.a.01	hepatic.a.01
-کبدی	ADJ	hepatic.a.01	hepatic.a.01
-اردی	ADJ	mealy.a.01	mealy.a.01
-رقومی	ADJ	numeral.a.01	numeral.a.01
-شماره_ای	ADJ	numeral.a.01	numeral.a.01
-عددی	ADJ	numeral.a.01	numeral.a.01
-هندسی	ADJ	numeral.a.01	numeral.a.01
-پارلمانی	ADJ	parliamentary.a.01	parliamentary.a.01
-پایی	ADJ	pedal.a.01	pedal.a.01
-جبری	ADJ	predestinarian.a.01	predestinarian.a.01
-فشار_زا	ADJ	pressor.a.01	pressor.a.01
-غده_پروستات	ADJ	prostate.a.01	prostate.a.01
-استخوان_سرشانه	ADJ	scapular.a.01	scapular.a.01
-اختری	ADJ	stellar.a.02	stellar.a.02
-پر_ستاره	ADJ	stellar.a.02	stellar.a.02
-ستاره_وار	ADJ	stellar.a.02	stellar.a.02
-شبیه_ستاره	ADJ	stellar.a.02	stellar.a.02
-ساکن_زمین	ADJ	tellurian.a.01	tellurian.a.01
-تودیعی	ADJ	valedictory.a.01	valedictory.a.01
-وداعی	ADJ	valedictory.a.01	valedictory.a.01
-ملحد	ADJ	atheist.a.01	atheist.a.01
-منکر_خدا	ADJ	atheist.a.01	atheist.a.01
-مقننه	ADJ	legislative.a.02	legislative.a.01	legislative.a.02	legislative.a.01
-طرفدار_حقوق_زنان	ADJ	feminist.a.01	feminist.a.01
-بطنی	ADJ	umbilical.a.01	abdominal.a.01	umbilical.a.01	abdominal.a.01
-نافی	ADJ	umbilical.a.01	umbilical.a.01
-سوسنی_شکل	ADJ	crinoid.a.01	crinoid.a.01
-مخروطی	ADJ	conic.a.01	conic.a.01
-عروسی_کرده	ADJ	marital.a.01	marital.a.01
-پستانی	ADJ	mastoid.a.01	mastoid.a.01
-انگوری	ADJ	vinous.a.01	vinous.a.01
-باده_ای	ADJ	vinous.a.01	vinous.a.01
-شرابی_رنگ	ADJ	vinous.a.01	vinous.a.01
-سینه_ای	ADJ	pectoral.a.01	pectoral.a.01
-صدری	ADJ	pectoral.a.01	pectoral.a.01
-بارور	ADJ	parturient.a.01	parturient.a.01
-بچه_زا	ADJ	parturient.a.01	parturient.a.01
-ثمر_بخش	ADJ	parturient.a.01	parturient.a.01
-حالت_مالکیت	ADJ	possessive.a.01	possessive.a.01
-دارای_هسته	ADJ	nucleated.a.01	nucleated.a.01
-کوته_نظر	ADJ	parochial.a.01	parochial.a.01
-مسخره_آمیز	ADJ	burlesque.a.01	burlesque.a.01
-مضحک	ADJ	burlesque.a.01	burlesque.a.01
-زیرپوستی	ADJ	hypodermic.a.01	hypodermic.a.01
-دیواری	ADJ	mural.a.01	mural.a.01
-کانونی	ADJ	focal.a.02	focal.a.02
-مرکزی	ADJ	focal.a.02	focal.a.02
-فقراتی	ADJ	spinal.a.01	spinal.a.01
-اتمی	ADJ	atomic.a.01	atomic.a.01
-ناحیه_ساحلی	ADJ	littoral.a.01	littoral.a.01
-وجه_اجاره	ADJ	rental.a.01	rental.a.01
-گیاهی	ADJ	herbal.a.01	herbal.a.01
-حفظی	ADJ	mnemonic.a.01	mnemonic.a.01
-غشایی	ADJ	velar.a.01	velar.a.01
-سندی	ADJ	documentary.a.01	documentary.a.01
-مستند	ADJ	documentary.a.01	documentary.a.01
-کشیش	ADJ	ecclesiastical.a.01	ecclesiastical.a.01
-مربوط_به_کلیسا	ADJ	ecclesiastical.a.01	ecclesiastical.a.01
-مخاطی	ADJ	mucoid.a.01	pituitary.a.01	mucoid.a.01	pituitary.a.01
-درون_ریز	ADJ	endocrine.a.01	endocrine.a.01
-فاشیست	ADJ	fascist.a.01	fascist.a.01
-خدا_پرست	ADJ	theist.a.01	theist.a.01
-خداپرست	ADJ	deist.a.01	deist.a.01
-قطعه_قطعه	ADJ	sectional.a.01	sectional.a.01
-صرعی	ADJ	epileptic.a.01	epileptic.a.01
-مربوط_به_همکاری	ADJ	synergistic.a.02	synergistic.a.02
-رنگی	ADJ	chromatic.a.01	chromatic.a.01
-تعریفی	ADJ	exponential.a.01	exponential.a.01
-مثل_ذره	ADJ	corpuscular.a.01	corpuscular.a.01
-نسبی	ADJ	comparative.a.01	comparative.a.01
-شبیه_میمون	ADJ	simian.a.01	simian.a.01
-حرکت_دهنده	ADJ	locomotive.a.01	locomotive.a.01
-نیروی_محرکه	ADJ	locomotive.a.01	locomotive.a.01
-اصلی	ADJ	normative.a.01	normative.a.01
-چرخنده	ADJ	rotary.a.01	rotary.a.01
-یادبود_صدساله	ADJ	centennial.a.01	centennial.a.01
-صدساله	ADJ	centennial.a.01	centennial.a.01
-دویست_ساله	ADJ	bicentennial.a.01	bicentennial.a.01
-متشرع	ADJ	canonist.a.01	canonist.a.01
-جزمی	ADJ	dogmatic.a.03	dogmatic.a.02	dogmatic.a.03	dogmatic.a.02
-ظرف_سفالین	ADJ	ceramic.a.01	ceramic.a.01
-حماسی	ADJ	epic.a.02	epic.a.02
-اجرایی	ADJ	executive.a.01	executive.a.01
-گویشی	ADJ	dialectic.a.01	dialectic.a.01
-منطقی	ADJ	dialectic.a.01	dialectic.a.01
-استیناف_دهنده	ADJ	appellate.a.01	appellate.a.01
-حدیثی	ADJ	anecdotal.a.01	anecdotal.a.01
-حساب	ADJ	arithmetical.a.01	arithmetical.a.01
-حسابی	ADJ	arithmetical.a.01	arithmetical.a.01
-حسابگر	ADJ	arithmetical.a.01	arithmetical.a.01
-علم_حساب	ADJ	arithmetical.a.01	arithmetical.a.01
-دولبه	ADJ	bilabial.a.01	bilabial.a.01
-مچی	ADJ	carpal.a.01	carpal.a.01
-یادبودی	ADJ	commemorative.a.01	commemorative.a.01
-گوارا	ADJ	digestive.a.01	digestive.a.01
-گوارشی	ADJ	digestive.a.01	digestive.a.01
-هاضمه	ADJ	digestive.a.01	digestive.a.01
-کوته_فکر	ADJ	dogmatic.a.02	dogmatic.a.02
-دردهای	ADJ	faecal.a.01	faecal.a.01
-مدفوعی	ADJ	faecal.a.01	faecal.a.01
-میان_سنگی	ADJ	mesolithic.a.01	mesolithic.a.01
-پارینه_سنگی	ADJ	paleolithic.a.01	paleolithic.a.01
-وجه_شرطی	ADJ	subjunctive.a.01	subjunctive.a.01
-اخباری	ADJ	indicative.a.01	indicative.a.01
-پدری	ADJ	patronymic.a.01	patronymic.a.01
-دارویی	ADJ	pharmaceutical.a.01	pharmaceutical.a.02	pharmaceutical.a.01	pharmaceutical.a.02
-ارکستر_سمفونی	ADJ	philharmonic.a.01	philharmonic.a.01
-غده_هیپوفیز	ADJ	pituitary.a.01	pituitary.a.01
-منشوری	ADJ	prismatic.a.01	prismatic.a.01
-دافع	ADJ	propulsive.a.01	propulsive.a.01
-مقاومتی	ADJ	resistive.a.01	resistive.a.01
-انقباضی	ADJ	spastic.a.01	spastic.a.01
-جدولی	ADJ	tabular.a.01	tabular.a.01
-مچ_پایی	ADJ	tarsal.a.01	tarsal.a.01
-پارچه_بافته	ADJ	textile.a.01	textile.a.01
-اوایی	ADJ	vocative.a.01	vocative.a.01
-خطابی	ADJ	vocative.a.01	vocative.a.01
-ندایی	ADJ	vocative.a.01	vocative.a.01
-پشمی	ADJ	woolen.a.01	woolen.a.01
-کاموا	ADJ	woolen.a.01	woolen.a.01
-بی_مرکز	ADJ	acentric.a.01	acentric.a.01
-خارج_از_مرکز	ADJ	acentric.a.01	acentric.a.01
-استخوان_گونه	ADJ	zygomatic.a.01	zygomatic.a.01
-چکش_خورده	ADJ	beaten.a.01	beaten.a.01
-زده	ADJ	beaten.a.01	beaten.a.01
-فرسوده	ADJ	beaten.a.01	beaten.a.01
-کوبیده	ADJ	beaten.a.01	beaten.a.01
-مغلوب	ADJ	beaten.a.01	beaten.a.01
+پشتی	ADJ	abaxial.a.01	dorsal.a.01
+شکمی	ADJ	adaxial.a.01	ventral.a.01	abdominal.a.01
+استشهادی	ADJ	adducent.a.01
+مقرب	ADJ	adducent.a.01
+پیدایش_یافته	ADJ	nascent.a.01
+در_حال_تولد	ADJ	nascent.a.01
+خلاصه_شده	ADJ	abridged.a.01
+مختصر	ADJ	abridged.a.01	concise.a.01
+تلخیص_نشده	ADJ	unabridged.a.01
+کوتاه_نشده	ADJ	unabridged.a.01
+تطبیقی	ADJ	relative.a.01	comparative.a.01
+تفضیلی	ADJ	relative.a.01	comparative.a.01
+جاذب	ADJ	absorbent.a.01	adsorbent.a.01
+گیرا	ADJ	adsorbent.a.01
+بهم_چسبیده	ADJ	concrete.a.01
+سفت	ADJ	concrete.a.01
+بسیار	ADJ	abundant.a.01	many.a.01
+فراوان	ADJ	abundant.a.01
+وافر	ADJ	abundant.a.01
+کم	ADJ	scarce.a.01	few.a.01
+کمیاب	ADJ	scarce.a.01
+نادر	ADJ	scarce.a.01	uncommon.a.01	curious.a.02
+خوش_محضر	ADJ	accommodating.a.01
+دقیق	ADJ	accurate.a.01	exact.a.01	precise.a.01
+صحیح	ADJ	accurate.a.01
+غلط	ADJ	inaccurate.a.01
+خوگرفته	ADJ	accustomed.a.01	addicted.a.01
+معتاد	ADJ	accustomed.a.01
+غیر_عادی	ADJ	unaccustomed.a.01
+اسیدی	ADJ	acidic.a.01
+بی_تفاوت	ADJ	amphoteric.a.01
+تصدیق_شده	ADJ	acknowledged.a.01
+اکتسابی	ADJ	acquisitive.a.01
+جوینده	ADJ	acquisitive.a.01
+منفعل	ADJ	passive.a.01
+امکان_پذیر	ADJ	potential.a.01	possible.a.01
+ذخیره_ای	ADJ	potential.a.01
+میسر	ADJ	potential.a.01	possible.a.01
+وفقی	ADJ	adaptive.a.01
+تسلیم_شده	ADJ	addicted.a.01
+معتاد_کننده	ADJ	addictive.a.01
+کاهشی	ADJ	subtractive.a.01
+کافی	ADJ	adequate.a.01
+مساوی	ADJ	adequate.a.01	equal.a.01
+نابسنده	ADJ	inadequate.a.01
+چسبدار	ADJ	adhesive.a.01
+چسبیده	ADJ	adhesive.a.01	sessile.a.02	sessile.a.01
+چسبنده	ADJ	adhesive.a.01
+تردست	ADJ	adroit.a.01
+چالاک	ADJ	adroit.a.01
+زرنگ	ADJ	adroit.a.01
+ماهر	ADJ	adroit.a.01
+زشت	ADJ	maladroit.a.01
+باصرفه	ADJ	advantageous.a.01
+سودمند	ADJ	advantageous.a.01	constructive.a.01
+با_بی_پروایی	ADJ	adventurous.a.01
+پرماجرا	ADJ	adventurous.a.01
+حادثه_جو	ADJ	adventurous.a.01
+ماجراجویانه	ADJ	adventurous.a.01
+قابل_توصیه	ADJ	advisable.a.01
+مصلحتی	ADJ	advisable.a.01
+مقتضی	ADJ	advisable.a.01	appropriate.a.01
+خردمندانه	ADJ	well-advised.a.01
+مصلحت_آمیز	ADJ	well-advised.a.01
+بدون_اطلاع	ADJ	ill-advised.a.01
+هوازی	ADJ	aerobic.a.01	aerobic.a.02
+بی_باک	ADJ	unafraid.a.01
+نترس	ADJ	unafraid.a.01
+مضطرب	ADJ	agitated.a.01	agitated.a.02
+نامطبوع	ADJ	disagreeable.a.01
+اکتشافی	ADJ	heuristic.a.01
+قابل_انتقال	ADJ	alienable.a.01
+الفبایی	ADJ	alphabetic.a.02	alphabetic.a.01
+نوزاد_زودرس	ADJ	altricial.a.01
+خودمدار	ADJ	egoistic.a.01
+وابسته_بخود	ADJ	egoistic.a.01
+مبهم	ADJ	ambiguous.a.02	undefined.a.01	equivocal.a.01
+بلند_همت	ADJ	ambitious.a.01
+جاه_طلب	ADJ	ambitious.a.01
+نامجو	ADJ	ambitious.a.01
+بی_برکت	ADJ	meager.a.01
+بی_چربی	ADJ	meager.a.01
+لاغر	ADJ	meager.a.01
+ناچیز	ADJ	meager.a.01	inconsiderable.a.01
+نحیف	ADJ	meager.a.01
+نزار	ADJ	meager.a.01
+تحلیلی	ADJ	analytic.a.04	analytic.a.02
+با_ادراک	ADJ	sentient.a.01
+حساس	ADJ	sentient.a.01	sensational.a.03
+درک_کننده	ADJ	sentient.a.01
+دستخوش_احساسات	ADJ	sentient.a.01
+سرزنده	ADJ	animated.a.01
+جاندار	ADJ	animate.a.01
+بی_نام	ADJ	anonymous.a.01
+لاادری	ADJ	anonymous.a.01
+قبل_از_مرگ	ADJ	antemortem.a.01
+پیشین	ADJ	antecedent.a.01
+بعدی	ADJ	subsequent.a.01
+لاحق	ADJ	subsequent.a.01
+مابعد	ADJ	subsequent.a.01
+متعاقب	ADJ	subsequent.a.01
+بی_سابقه	ADJ	unprecedented.a.01
+بی_نظیر	ADJ	unprecedented.a.01	incomparable.a.01
+پیش_زادی	ADJ	prenatal.a.01
+بعد_از_ضیافت	ADJ	postprandial.a.01
+بعد_از_نهار	ADJ	postprandial.a.01
+پیش_از_جنگ	ADJ	prewar.a.01
+بعد_از_جنگ	ADJ	postwar.a.01
+جلو	ADJ	anterior.a.01
+قدامی	ADJ	anterior.a.01
+خلفی	ADJ	posterior.a.01
+قابل_استیناف	ADJ	appealable.a.01
+محرک	ADJ	appetizing.a.01
+درخور	ADJ	appropriate.a.01
+مناسب	ADJ	appropriate.a.01	commodious.a.01	convenient.a.01	expedient.a.01
+نامناسب	ADJ	inappropriate.a.01
+بجا	ADJ	apropos.a.01	proper.a.01
+بموقع	ADJ	apropos.a.01
+نابجا	ADJ	malapropos.a.01
+نابهنگام	ADJ	malapropos.a.01
+بی_اسلحه	ADJ	unarmed.a.01	unarmed.a.02
+مجهز	ADJ	armed.a.02
+مسلح	ADJ	armed.a.02
+استادانه	ADJ	artful.a.02	disingenuous.a.01
+صنعتی	ADJ	artful.a.02	disingenuous.a.01
+غیر_ملفوظ	ADJ	inarticulate.a.01
+ادعا_کننده	ADJ	assertive.a.01
+محجوب	ADJ	unassertive.a.01
+انجمنی	ADJ	associative.a.01
+دارای_تحرک	ADJ	vagile.a.01
+جدایی_پذیر	ADJ	detachable.a.01
+با_ملاحظه	ADJ	wary.a.01
+بسیار_محتاط	ADJ	wary.a.01
+بدون_نگرانی	ADJ	unwary.a.01
+متوجه	ADJ	attentive.a.01
+ملتفت	ADJ	attentive.a.01	heedful.a.01
+مواظب	ADJ	attentive.a.01	heedful.a.01
+بی_اعتنا	ADJ	inattentive.a.01
+بی_توجه	ADJ	inattentive.a.01
+جذاب	ADJ	appealing.a.01	sympathetic.a.04
+غیر_جذاب	ADJ	unappealing.a.02	unsympathetic.a.02
+نچسب	ADJ	unappealing.a.02	unsympathetic.a.02
+قابل_اسناد	ADJ	attributable.a.01
+اسنادی	ADJ	attributive.a.01
+رسا	ADJ	audible.a.01
+مسموع	ADJ	audible.a.01
+شنیده_نشده	ADJ	inaudible.a.01
+خجسته	ADJ	auspicious.a.01
+سعید	ADJ	auspicious.a.01	blessed.a.01
+فرخ	ADJ	auspicious.a.01
+فرخنده	ADJ	auspicious.a.01
+مبارک	ADJ	auspicious.a.01	blessed.a.01
+مساعد	ADJ	propitious.a.01
+مجاز	ADJ	authorized.a.01
+جمع_کننده	ADJ	astringent.a.02
+سخت_گیر	ADJ	astringent.a.02	unmanageable.a.02
+طاقت_فرسا	ADJ	astringent.a.02	demanding.a.01
+قابض	ADJ	astringent.a.02
+گس	ADJ	astringent.a.02
+اگاه	ADJ	aware.a.01	mindful.a.01
+بی_اطلاع	ADJ	unaware.a.01
+بدون_شناسایی	ADJ	unaware.a.01
+غیر_وارد	ADJ	unaware.a.01
+ناخوداگاه	ADJ	unaware.a.01
+قصدی	ADJ	witting.a.01
+بی_هوش	ADJ	unwitting.a.02
+غمزده	ADJ	unreassuring.a.01
+مسبب_ناراحتی	ADJ	unreassuring.a.01
+پشت_گرم	ADJ	backed.a.01
+دارای_پشت	ADJ	backed.a.01
+پوشیده_از_چمن	ADJ	grassy.a.01
+کرکین	ADJ	hairy.a.01
+خوشگل	ADJ	beautiful.a.01
+زیبا	ADJ	beautiful.a.01
+عالی	ADJ	beautiful.a.01
+قشنگ	ADJ	beautiful.a.01
+بزرگترین	ADJ	best.a.01
+بهترین	ADJ	best.a.01
+نیکوترین	ADJ	best.a.01
+بدترین	ADJ	worst.a.01
+بدتری	ADJ	worse.a.01	worse.a.02
+دو_جهتی	ADJ	bidirectional.a.01
+دوسویه	ADJ	bidirectional.a.01
+دارای_یک_جهت	ADJ	unidirectional.a.01
+یک_جهتی	ADJ	unidirectional.a.01
+چند_جانبه	ADJ	multilateral.a.01
+سبزه	ADJ	brunet.a.01
+خونی	ADJ	bloody.a.01
+خونخوار	ADJ	bloody.a.01
+رها_شده	ADJ	unbound.a.01
+مقید_نشده	ADJ	unbound.a.01
+باجرات	ADJ	brave.a.01
+دلیر	ADJ	brave.a.01
+پردل	ADJ	gutsy.a.01
+بی_جان	ADJ	breathless.a.01
+بلورین	ADJ	crystalline.a.01
+شفاف	ADJ	crystalline.a.01
+متبلور	ADJ	crystalline.a.01	crystallized.a.01
+مالک	ADJ	landed.a.01
+وابسته_به_زمین	ADJ	landed.a.01
+متعصب	ADJ	prejudiced.a.02	intolerant.a.01
+راست_بین	ADJ	unprejudiced.a.01
+عادل	ADJ	unprejudiced.a.01	impartial.a.01
+منصفانه	ADJ	unprejudiced.a.01	impartial.a.01
+دوستانه	ADJ	brotherly.a.01	friendly.a.01	sociable.a.01
+خواهرانه	ADJ	sisterly.a.01
+جامعه_گرای	ADJ	socialistic.a.01
+سوسیالیست	ADJ	socialistic.a.01
+توفانی	ADJ	stormy.a.01
+بی_دقت	ADJ	careless.a.01	negligent.a.01
+حیوان_گوشتخوار	ADJ	carnivorous.a.02
+حشره_خوار	ADJ	insectivorous.a.01
+بیگانه_خوار	ADJ	holozoic.a.01
+همجنس_خوار	ADJ	holophytic.a.01
+فرش_کرده	ADJ	carpeted.a.01
+حک_شده	ADJ	carved.a.01
+اساسی	ADJ	radical.a.05
+بدون_تنه	ADJ	acaulescent.a.01	stemless.a.01
+محتاط	ADJ	cautious.a.01	reserved.a.02	reserved.a.01	scrupulous.a.01
+هوشیار	ADJ	cautious.a.01
+بافت_سلولی	ADJ	cellular.a.02
+اوران	ADJ	afferent.a.01
+نقل_کننده	ADJ	afferent.a.01
+مجاب	ADJ	convinced.a.02
+ملزم	ADJ	convinced.a.02
+دلگرم	ADJ	confident.a.01
+مطمئن	ADJ	confident.a.01
+بدیهی	ADJ	inevitable.a.01
+حتمی_الوقوع	ADJ	inevitable.a.01
+قابل_جلوگیری	ADJ	preventable.a.01
+غیر_قابل_تعویض	ADJ	incommutable.a.01
+عوض_نشده	ADJ	unaltered.a.01
+بی_ثبات	ADJ	mutable.a.01
+تعویض_پذیر	ADJ	mutable.a.01
+تغییر_پذیر	ADJ	mutable.a.01
+بی_تغییر	ADJ	immutable.a.01
+تغییر_ناپذیر	ADJ	immutable.a.01
+محسوب_نشده	ADJ	uncharged.a.01
+اجاره_ای	ADJ	chartered.a.01	rental.a.02	rental.a.01
+استیجاری	ADJ	chartered.a.01
+بشاش	ADJ	cheerful.a.01
+افسرده	ADJ	depressing.a.01	dejected.a.01
+ناشاد	ADJ	depressing.a.01
+بدون_پوشش	ADJ	achlamydeous.a.01
+تک_رنگ	ADJ	monochromatic.a.02
+یکرنگ	ADJ	monochromatic.a.02
+همرنگ	ADJ	monochromatic.a.02
+بسیار_رنگ	ADJ	polychromatic.a.01
+پر_رنگ	ADJ	chromatic.a.03	chromatic.a.01
+بی_رنگ	ADJ	achromatic.a.01	colorless.a.02	colorless.a.01
+اشباع_شده	ADJ	saturated.a.03
+اشباع_نشده	ADJ	unsaturated.a.03
+رنگارنگ	ADJ	colored.a.01	colorful.a.01	colorful.a.02
+کم_رنگ	ADJ	colorless.a.02	colorless.a.01
+سری	ADJ	classified.a.02
+غیر_سالم	ADJ	dirty.a.01
+ناپاک	ADJ	dirty.a.01	unclean.a.02
+نجس	ADJ	dirty.a.01	unclean.a.02
+رادیو_اکتیو	ADJ	radioactive.a.01
+نادرست	ADJ	unclean.a.02	dishonest.a.01
+غیر_شفاف	ADJ	opaque.a.01
+کدر	ADJ	opaque.a.01
+مات	ADJ	opaque.a.01
+با_ذکاوت	ADJ	clearheaded.a.01
+بخشاینده	ADJ	clement.a.02	clement.a.01
+رحمان	ADJ	clement.a.02
+مهربان	ADJ	clement.a.02	clement.a.01
+بی_اعتدال	ADJ	inclement.a.02	inclement.a.01
+مزین	ADJ	clothed.a.01
+ساحلی	ADJ	coastal.a.02	coastal.a.01
+کناری	ADJ	coastal.a.02	coastal.a.01
+داخله	ADJ	inland.a.01
+درون_کشور	ADJ	inland.a.01
+درون_مرزی	ADJ	inland.a.01
+مرتب	ADJ	coherent.a.01	arranged.a.01	tidy.a.01
+متناقض	ADJ	incoherent.a.01
+توزیعی	ADJ	distributive.a.01
+سوزا	ADJ	combustible.a.01
+نسوز	ADJ	noncombustible.a.01
+جادار	ADJ	commodious.a.01
+راحت	ADJ	commodious.a.01	convenient.a.01
+راه_دست	ADJ	commodious.a.01	convenient.a.01
+ناراحت	ADJ	incommodious.a.01	uncomfortable.a.02	uncomfortable.a.01	inconvenient.a.01
+متناسب	ADJ	commensurate.a.01
+بی_تناسب	ADJ	incommensurate.a.01
+محلی	ADJ	residential.a.01	residential.a.02
+مسکونی	ADJ	residential.a.01	residential.a.02
+غیر_متداول	ADJ	uncommon.a.01
+غیرمعمول	ADJ	uncommon.a.01	strange.a.01
+عادی	ADJ	usual.a.01	ordinary.a.01
+متداول	ADJ	usual.a.01	ordinary.a.01
+معمول	ADJ	usual.a.01
+همیشگی	ADJ	usual.a.01	continual.a.01
+فصیح	ADJ	communicative.a.02	communicative.a.01
+گویا	ADJ	communicative.a.02	communicative.a.01
+کم_حرف	ADJ	uncommunicative.a.01
+کم_سخن	ADJ	uncommunicative.a.01
+قابلیت_مقایسه	ADJ	comparable.a.01
+غیر_قابل_قیاس	ADJ	incomparable.a.01
+غیر_قابل_مقایسه	ADJ	incomparable.a.01
+دلسوز	ADJ	compassionate.a.01
+رحیم	ADJ	compassionate.a.01
+شفیق	ADJ	compassionate.a.01
+غم_خوار	ADJ	compassionate.a.01
+همساز	ADJ	compatible.a.01
+قابل_اختلاط	ADJ	miscible.a.01
+ذی_صلاحیت	ADJ	competent.a.01
+شایسته	ADJ	competent.a.01
+لایق	ADJ	competent.a.01
+تعهد_نشده	ADJ	uncommitted.a.01
+اختصاصی	ADJ	dedicated.a.01	consecrated.a.01	proprietary.a.01
+وقف_شده	ADJ	dedicated.a.01	consecrated.a.01
+نا_تمام	ADJ	incomplete.a.01
+ناقص	ADJ	incomplete.a.01	imperfect.a.01
+جامع	ADJ	comprehensive.a.01
+آرام	ADJ	composed.a.01
+ترکیب_شده	ADJ	composed.a.01
+قابل_درک	ADJ	comprehensible.a.01
+مقعر	ADJ	concave.a.01
+توزیع_شده	ADJ	distributed.a.01
+متحد_المرکز	ADJ	concentric.a.01
+هم_مرکز	ADJ	concentric.a.01
+عجیب	ADJ	eccentric.a.02
+لاقید	ADJ	unconcerned.a.01
+موجز	ADJ	concise.a.01
+دراز	ADJ	prolix.a.01
+مجمل	ADJ	inconclusive.a.01
+تابع	ADJ	subordinating.a.01
+جور	ADJ	accordant.a.01
+ناسازگار	ADJ	discordant.a.01
+بسط_یافته	ADJ	expanded.a.01
+مبسوط	ADJ	expanded.a.01
+منبسط_شده	ADJ	expanded.a.01
+شرطی	ADJ	conditional.a.02
+غیر_شرطی	ADJ	unconditional.a.01
+قابل_اجرا	ADJ	enforceable.a.01
+برنده	ADJ	conductive.a.01
+رسانا	ADJ	conductive.a.01
+هم_سلیقه	ADJ	congenial.a.01
+هم_مشرب	ADJ	congenial.a.01
+نامتجانس	ADJ	incongruent.a.01	incongruous.a.01
+متجانس	ADJ	congruous.a.01
+موافق	ADJ	congruous.a.01	friendly.a.01	pro.a.01
+ربط_دهنده	ADJ	conjunctive.a.01
+فصلی	ADJ	disjunctive.a.01
+تسخیر_ناپذیر	ADJ	unconquerable.a.01
+اشکار	ADJ	conspicuous.a.01
+انگشت_نما	ADJ	conspicuous.a.01
+غیرقابل_تشخیص	ADJ	inconspicuous.a.01	invisible.a.01
+غیرقابل_مشاهده	ADJ	inconspicuous.a.01	invisible.a.01
+غیرمحسوس	ADJ	inconspicuous.a.01
+غیر_محسوس	ADJ	inconspicuous.a.01	invisible.a.01
+غیرمشخص	ADJ	inconspicuous.a.01
+کمرنگ	ADJ	inconspicuous.a.01
+مخفی	ADJ	inconspicuous.a.01	invisible.a.01
+ناپدید	ADJ	inconspicuous.a.01	invisible.a.01
+نامریی	ADJ	inconspicuous.a.01	invisible.a.01
+ساختمانی	ADJ	constructive.a.01
+مخرب	ADJ	destructive.a.01
+ویرانگر	ADJ	destructive.a.01
+قابل_اعتراض	ADJ	contestable.a.01
+غیرقابل_بحث	ADJ	incontestable.a.01
+محقق	ADJ	incontestable.a.01
+پیوسته	ADJ	continual.a.01
+دائمی	ADJ	continual.a.01	permanent.a.01
+انفرادی	ADJ	sporadic.a.01
+پراکنده	ADJ	sporadic.a.01
+گاه_وبیگاه	ADJ	sporadic.a.01
+متوالی	ADJ	continuous.a.01	continuous.a.02
+مداوم	ADJ	continuous.a.01	continuous.a.02
+ناپیوسته	ADJ	discontinuous.a.02	discontinuous.a.01
+جدال_آمیز	ADJ	controversial.a.01
+هم_ستیز	ADJ	controversial.a.01
+استدلالی	ADJ	argumentative.a.01
+ناجور	ADJ	inconvenient.a.01
+همگرا	ADJ	convergent.a.01
+واگرا	ADJ	divergent.a.02
+متقاعد_کننده	ADJ	convincing.a.01	persuasive.a.01
+شایان	ADJ	considerable.a.01
+قابل_توجه	ADJ	considerable.a.01
+خرد	ADJ	inconsiderable.a.01
+بی_اساسی	ADJ	insubstantial.a.01
+بی_موضوع	ADJ	insubstantial.a.01
+جسمی	ADJ	corporeal.a.01
+جسمانی	ADJ	corporeal.a.01	bodily.a.01
+دارای_ماده	ADJ	corporeal.a.01
+اصلاح_پذیر	ADJ	corrigible.a.01
+اصلاح_ناپذیر	ADJ	incorrigible.a.01
+ملین	ADJ	laxative.a.01
+بی_ملاحظه	ADJ	inconsiderate.a.01
+با_ادب	ADJ	courteous.a.02
+مودبانه	ADJ	courteous.a.02
+بی_ادبانه	ADJ	discourteous.a.01
+بی_تربیت	ADJ	impolite.a.01
+بی_تمدن	ADJ	uncivil.a.01
+نجومی	ADJ	sidereal.a.02	sidereal.a.01
+خالق	ADJ	creative.a.01
+معتبر	ADJ	credible.a.01	trustworthy.a.01
+غیر_قابل_باور	ADJ	incredible.a.01
+غیرقابل_قبول	ADJ	incredible.a.01
+زودباور	ADJ	credulous.a.01
+غیر_انتقادی	ADJ	uncritical.a.02
+بلوری	ADJ	crystallized.a.01
+مکعبی	ADJ	cubic.a.01
+دو_وجهی	ADJ	planar.a.01
+سطحی	ADJ	planar.a.01
+مسطح	ADJ	planar.a.01
+تک_بعدی	ADJ	unidimensional.a.01
+یک_بعدی	ADJ	unidimensional.a.01
+چند_بعدی	ADJ	multidimensional.a.01
+غریب	ADJ	curious.a.02
+کنجکاو	ADJ	curious.a.02
+رایج	ADJ	current.a.01
+رجیم	ADJ	cursed.a.01
+ملعون	ADJ	cursed.a.01
+خوشبخت	ADJ	blessed.a.01
+دستی	ADJ	handmade.a.01
+دستباف	ADJ	handmade.a.01
+مصنوع_دست	ADJ	handmade.a.01
+خانگی	ADJ	homemade.a.01
+خانه_بافت	ADJ	homemade.a.01
+چرخی	ADJ	cyclic.a.04
+دوری	ADJ	cyclic.a.04
+مربوط_بهروز	ADJ	diurnal.a.01
+نمایش_شبانه	ADJ	nocturnal.a.01	nocturnal.a.02
+غیر_قطعی	ADJ	indecisive.a.01
+اظهاری	ADJ	declarative.a.01
+اعلانی	ADJ	declarative.a.01
+ادوات_استفهام	ADJ	interrogative.a.02
+اظهار_شده	ADJ	declared.a.01
+اعلان_شده	ADJ	declared.a.01
+شناسایی_شده	ADJ	declared.a.01
+بی_ادب	ADJ	indecorous.a.01
+نا_صحیح	ADJ	indecorous.a.01
+بطلان_ناپذیر	ADJ	indefeasible.a.01
+مظنون	ADJ	defiant.a.01
+تعریف_نشده	ADJ	undefined.a.01
+تصریح_شده	ADJ	definite.a.01
+روشن	ADJ	definite.a.01
+قطعی	ADJ	definite.a.01
+معلوم	ADJ	definite.a.01
+معین	ADJ	definite.a.01
+بی_حد	ADJ	indefinite.a.01
+نامعین	ADJ	indefinite.a.01	indeterminate.a.01
+نکره	ADJ	indefinite.a.01
+شکوفا	ADJ	dehiscent.a.01
+خواستار	ADJ	demanding.a.01
+مبرم	ADJ	demanding.a.01
+حتمی	ADJ	imperative.a.01
+ضروری	ADJ	imperative.a.01	necessary.a.01
+اختیاری	ADJ	arbitrary.a.01
+دلخواه	ADJ	arbitrary.a.01
+مطلق	ADJ	arbitrary.a.01
+اثبات_کننده	ADJ	demonstrative.a.01
+غیر_مدلل	ADJ	undemonstrative.a.01
+قابل_انکار	ADJ	deniable.a.01
+تفکیکی	ADJ	denotative.a.01
+غیر_قابل_اطمینان	ADJ	unreliable.a.02
+غیر_متعهد	ADJ	nonaligned.a.01
+تشریحی	ADJ	descriptive.a.02	descriptive.a.01	anatomic.a.01	anatomic.a.02	exponential.a.01
+توصیفی	ADJ	descriptive.a.02	descriptive.a.01
+تجویزی	ADJ	prescriptive.a.01
+معیاری	ADJ	prescriptive.a.01	normative.a.01
+هنجاری	ADJ	prescriptive.a.01	normative.a.01
+مطلوب	ADJ	desirable.a.01
+ناخواسته	ADJ	undesirable.a.01
+نامطلوب	ADJ	undesirable.a.01
+قابل_تعیین	ADJ	determinable.a.01
+بی_حدو_حصر	ADJ	indeterminable.a.01
+چپی	ADJ	sinistral.a.01
+عایق_گرما	ADJ	adiabatic.a.01
+صعب	ADJ	difficult.a.01	unmanageable.a.02
+باوقار	ADJ	dignified.a.01
+بلند_مرتبه	ADJ	dignified.a.01
+معزز	ADJ	dignified.a.01
+تک_لپه	ADJ	monocotyledonous.a.01
+پشت_کاردار	ADJ	diligent.a.02
+ساعی	ADJ	diligent.a.02
+سخت_کوش	ADJ	diligent.a.02
+کوشا	ADJ	diligent.a.02
+کوشنده	ADJ	diligent.a.02
+دیپلماتیک	ADJ	diplomatic.a.02
+تناوبی	ADJ	alternating.a.01
+متناوب	ADJ	alternating.a.01	periodic.a.01
+برعکس	ADJ	inverse.a.02
+برگشته	ADJ	inverse.a.02
+معکوس	ADJ	inverse.a.02
+وارونه	ADJ	inverse.a.02
+واقع_در_میان	ADJ	mediate.a.01
+وسطی	ADJ	mediate.a.01
+باخرد	ADJ	discreet.a.01
+قابل_برگشت	ADJ	returnable.a.01
+قابل_عرضه	ADJ	disposable.a.01
+مبدایی	ADJ	proximal.a.01
+نزدیک_مبدا	ADJ	proximal.a.01
+درهم	ADJ	indistinct.a.01
+غیر_روشن	ADJ	indistinct.a.01
+ناشنوا	ADJ	indistinct.a.01
+نا_معلوم	ADJ	indistinct.a.01
+قابل_قسمت	ADJ	divisible.a.01
+پست	ADJ	servile.a.01	humble.a.02
+چیره	ADJ	dominant.a.01
+متعادل	ADJ	dominant.a.01
+مسلط	ADJ	dominant.a.01
+ارتجاعی	ADJ	recessive.a.02	recessionary.a.01
+تئاتری	ADJ	theatrical.a.02
+قابل_شرب	ADJ	drinkable.a.01
+خیس	ADJ	intoxicated.a.01
+مست_شده	ADJ	intoxicated.a.01
+کذایی	ADJ	eventful.a.01
+بی_حادثه	ADJ	uneventful.a.01
+ترد_و_شکننده	ADJ	eager.a.01
+مشتاق	ADJ	eager.a.01
+خوشه_کرده	ADJ	eared.a.02
+با_کفایت	ADJ	efficient.a.01
+کارا	ADJ	efficient.a.01
+موثر	ADJ	efficient.a.01
+قوی	ADJ	forceful.a.01	irresistible.a.01
+کشدار	ADJ	elastic.a.01
+بیکار	ADJ	unemployed.a.01
+عاطل	ADJ	unemployed.a.01
+خواهان	ADJ	desirous.a.01
+ملتمس	ADJ	desirous.a.01
+دارای_ابهام	ADJ	equivocal.a.01
+دو_پهلو	ADJ	equivocal.a.01
+غیر_ضروری	ADJ	inessential.a.01
+ناهموار	ADJ	uneven.a.01
+بادوام	ADJ	evergreen.a.01
+بی_خزان	ADJ	evergreen.a.01
+همیشه_بهار	ADJ	evergreen.a.01
+همیشه_سبز	ADJ	evergreen.a.01
+غیر_قابل_تغییر	ADJ	inconvertible.a.01
+مبادله_ناپذیر	ADJ	inconvertible.a.01
+موجود	ADJ	existent.a.01
+تهورآمیز	ADJ	expedient.a.01
+اشاره_شده	ADJ	implicit.a.01
+التزامی	ADJ	implicit.a.01
+مجازی	ADJ	implicit.a.01
+باطنی	ADJ	inward.a.01
+درون	ADJ	inward.a.01
+بیرونی	ADJ	exterior.a.01
+باایمان	ADJ	faithful.a.03
+با_وفا	ADJ	faithful.a.03
+غیرعادی	ADJ	strange.a.01
+چرب	ADJ	fatty.a.01
+بی_درمان	ADJ	incurable.a.01
+علاج_ناپذیر	ADJ	incurable.a.01
+ژرف	ADJ	unfathomable.a.01
+بایر	ADJ	sterile.a.01
+میانه	ADJ	intermediate.a.01
+واسطه	ADJ	intermediate.a.01
+خوش_بنیه	ADJ	uncompromising.a.01
+فرفری	ADJ	curly.a.01
+مجعد	ADJ	curly.a.01
+تکرار_شونده	ADJ	frequent.a.01
+زود_زود	ADJ	frequent.a.01
+مکرر	ADJ	frequent.a.01	repetitive.a.02
+بیات	ADJ	stale.a.01
+بوی_ناگرفته	ADJ	stale.a.01
+کهنه	ADJ	stale.a.01
+مبتذل	ADJ	stale.a.01
+متمرکز	ADJ	centralized.a.01
+سخی	ADJ	generous.a.01
+بخشنده	ADJ	generous.a.02
+بدلی	ADJ	counterfeit.a.01
+جعلی	ADJ	counterfeit.a.01
+براق	ADJ	glazed.a.03
+درخشان	ADJ	glazed.a.03
+شریرانه	ADJ	evil.a.01
+ناصواب	ADJ	ungracious.a.01
+تدریجی	ADJ	gradual.a.01	gradual.a.02
+نیم_دانه	ADJ	haploid.a.01
+دوبرابر	ADJ	diploid.a.01
+دل_سخت	ADJ	hardhearted.a.01
+سنگدل	ADJ	hardhearted.a.01
+الکلی	ADJ	alcoholic.a.01
+مضر	ADJ	harmful.a.01
+بی_آهنگ	ADJ	inharmonious.a.01
+طبی	ADJ	medical.a.02
+عمل_جراحی	ADJ	surgical.a.02
+مفید	ADJ	helpful.a.01	profitable.a.01
+متباین	ADJ	heterogeneous.a.01
+ناهمگن	ADJ	heterogeneous.a.01
+برجسته	ADJ	raised.a.01
+دور_از_دریا	ADJ	upland.a.01
+دغل	ADJ	dishonest.a.01
+متقلب	ADJ	dishonest.a.01
+تسلی_ناپذیر	ADJ	inconsolable.a.01
+افقی	ADJ	horizontal.a.01
+ترازی	ADJ	horizontal.a.01
+سطح_افقی	ADJ	horizontal.a.01
+ماندگار	ADJ	immanent.a.01
+تند	ADJ	transeunt.a.01
+افتتاحی	ADJ	inaugural.a.01
+وارد_شونده	ADJ	incoming.a.01
+قیاسی	ADJ	inductive.a.02	inductive.a.01
+عارف	ADJ	gnostic.a.02
+عرفانی	ADJ	gnostic.a.02
+بزهکار	ADJ	guilty.a.01
+گناهکار	ADJ	guilty.a.01
+مجرم	ADJ	guilty.a.01
+مقصر	ADJ	guilty.a.01
+قابل_فهم	ADJ	intelligible.a.02
+طرف_باد	ADJ	windward.a.01
+درست	ADJ	legitimate.a.01
+غیر_محتمل	ADJ	improbable.a.01
+اجدادی	ADJ	lineal.a.01
+خطی	ADJ	lineal.a.01
+مربوط_به_خط	ADJ	lineal.a.01
+افزایشی	ADJ	linear.a.01
+موضعی	ADJ	local.a.03	focal.a.02
+بیماری_همه_گیر	ADJ	epidemic.a.01
+عالم_گیر	ADJ	epidemic.a.01
+مسری	ADJ	epidemic.a.01
+همه_گیر	ADJ	epidemic.a.01
+واگیر	ADJ	epidemic.a.01
+پرجلوه	ADJ	forte.a.01
+پر_صدا	ADJ	forte.a.01
+بامحبت	ADJ	loving.a.01
+دوستدار	ADJ	loving.a.01
+محبت_آمیز	ADJ	loving.a.01
+محبوب	ADJ	loving.a.01
+نابالغ	ADJ	minor.a.05
+دشوار	ADJ	unmanageable.a.02
+سخت	ADJ	unmanageable.a.02	tense.a.03
+مشکل	ADJ	unmanageable.a.02
+شوهردار	ADJ	married.a.01	marital.a.01
+متاهل	ADJ	married.a.01	marital.a.01
+مونث	ADJ	feminine.a.01
+بی_غرض	ADJ	neuter.a.01
+مطابق	ADJ	matched.a.02
+پیش_رس	ADJ	premature.a.01	precocious.a.01
+نارس	ADJ	premature.a.01
+بیشینه	ADJ	maximal.a.01
+حداقل	ADJ	minimal.a.01
+دست_کم	ADJ	minimal.a.01
+کمترین	ADJ	minimal.a.01
+کمینه	ADJ	minimal.a.01
+بی_اندازه	ADJ	immeasurable.a.01
+بی_قیاس	ADJ	immeasurable.a.01
+پیمایش_ناپذیر	ADJ	immeasurable.a.01
+ملایم	ADJ	mild.a.01
+پهناور	ADJ	extensive.a.03
+وسیع	ADJ	extensive.a.03
+غیر_نظامی	ADJ	civilian.a.01
+اخلاقی	ADJ	moral.a.01
+بد_اخلاق	ADJ	immoral.a.01
+هرزه	ADJ	immoral.a.01
+بسیاری	ADJ	many.a.01
+خیلی	ADJ	many.a.01
+زیاد	ADJ	many.a.01
+اندکی_از	ADJ	few.a.01
+کمی_از	ADJ	few.a.01
+معدود	ADJ	few.a.01
+ابدی	ADJ	immortal.a.01
+جاوید	ADJ	immortal.a.01
+متحرک	ADJ	moving.a.03
+بین_المللی	ADJ	international.a.01
+بین_ایالتی	ADJ	interstate.a.01
+غایی	ADJ	ultimate.a.01
+نزدیک	ADJ	proximate.a.01
+پدافندی	ADJ	defensive.a.01
+تایید_شده	ADJ	confirmed.a.02
+مسلم	ADJ	confirmed.a.02
+برقرار	ADJ	on.a.01	on.a.02
+وصل	ADJ	on.a.01	on.a.02
+بسته	ADJ	shut.a.01	closed.a.04
+غیر_ارتدکس	ADJ	unorthodox.a.02
+برگدار	ADJ	leafy.a.01
+پر_برگ	ADJ	leafy.a.01
+بی_درد	ADJ	painless.a.02
+محسوس	ADJ	palpable.a.01
+مورب	ADJ	oblique.a.01
+بیمار	ADJ	patient.a.01
+صبور	ADJ	patient.a.01
+مریض	ADJ	patient.a.01
+بی_تاب	ADJ	impatient.a.01
+بی_حوصله	ADJ	impatient.a.01
+بی_صبر	ADJ	impatient.a.01
+ناتمام	ADJ	imperfect.a.01
+ناکامل	ADJ	imperfect.a.01
+موقتی	ADJ	impermanent.a.01
+تشویقی	ADJ	persuasive.a.01
+مجاب_کننده	ADJ	persuasive.a.01
+تجملی	ADJ	fancy.a.01
+خوش	ADJ	pleasing.a.01
+موجب_مسرت	ADJ	pleasing.a.01
+تیز	ADJ	pointed.a.01
+با_سیاست	ADJ	politic.a.01
+زندانی_سیاسی	ADJ	politic.a.01
+سیاس	ADJ	politic.a.01
+سیاسی	ADJ	politic.a.01
+نماینده_سیاسی	ADJ	politic.a.01
+طرفدار	ADJ	pro.a.01
+ضد	ADJ	anti.a.01
+علیه	ADJ	anti.a.01
+مخالف	ADJ	anti.a.01
+عقب_افتاده	ADJ	retarded.a.01
+سودبخش	ADJ	profitable.a.01
+صوری	ADJ	superficial.a.01
+محافظ	ADJ	protective.a.01
+اصیل	ADJ	purebred.a.01
+پاک_نژاد	ADJ	purebred.a.01
+دورگه	ADJ	crossbred.a.01
+فاقد_صلاحیت	ADJ	unqualified.a.01
+مشکوک	ADJ	questionable.a.01
+پر_سر_وصدا	ADJ	noisy.a.01
+بی_قرار	ADJ	restless.a.03
+تصادفی	ADJ	random.a.01
+غیر_عقلانی	ADJ	irrational.a.01	irrational.a.02
+غیر_منطقی	ADJ	irrational.a.01
+نامعقول	ADJ	irrational.a.01	irrational.a.02
+عقلانی	ADJ	cerebral.a.01
+تکراری	ADJ	repetitive.a.02
+دوره_ای	ADJ	periodic.a.01
+بااطلاع	ADJ	mindful.a.01
+باخبر	ADJ	mindful.a.01
+ذخیره	ADJ	reserved.a.02	reserved.a.01
+رزرو_شده	ADJ	reserved.a.02	reserved.a.01
+ثابت	ADJ	resolute.a.01	invariable.a.01
+ثابت_قدم	ADJ	resolute.a.01
+صاحب_عزم	ADJ	resolute.a.01
+مصمم	ADJ	resolute.a.01
+مسئول	ADJ	responsible.a.01
+محکم	ADJ	retentive.a.01
+زنبوری	ADJ	reticulate.a.01
+مشبک	ADJ	reticulate.a.01
+محجور	ADJ	insolvent.a.01
+معسر	ADJ	insolvent.a.01
+بی_دست	ADJ	handless.a.01
+دایره_وار	ADJ	round.a.01
+مدور	ADJ	round.a.01
+گوشه_ای	ADJ	angular.a.02
+مقدس	ADJ	holy.a.01
+کفر_آمیز	ADJ	profane.a.02
+خطرناک	ADJ	dangerous.a.01
+وسواسی	ADJ	scrupulous.a.01
+باوجدان	ADJ	conscientious.a.02
+بیمه_شونده	ADJ	insured.a.01
+غیر_حساس	ADJ	insensible.a.01
+فرستاده	ADJ	sent.a.01
+چیز_تقلبی	ADJ	adulterating.a.01
+بدون_سازمان	ADJ	unformed.a.01
+تشکیل_نشده	ADJ	unformed.a.01
+چیده_شده	ADJ	sheared.a.01
+قیچی_شده	ADJ	sheared.a.01
+ترتیبی	ADJ	ordinal.a.02
+چند_برابر	ADJ	multiple.a.01
+چندگانه	ADJ	multiple.a.01
+متعدد	ADJ	multiple.a.01
+خشن	ADJ	coarse.a.01
+زمخت	ADJ	coarse.a.01
+بی_خان	ADJ	unrifled.a.01
+با_مراقب	ADJ	accompanied.a.02
+جامعه_پذیر	ADJ	sociable.a.01
+خوش_معاشرت	ADJ	sociable.a.01
+اغوا_شده	ADJ	sold.a.01
+بفروش_رفته	ADJ	sold.a.01
+فروخته_شده	ADJ	sold.a.01
+پوچ	ADJ	hollow.a.01	invalid.a.01
+تهی	ADJ	hollow.a.01
+ساده	ADJ	naive.a.01
+کم_دل	ADJ	spiritless.a.01
+بی_صدا	ADJ	unvoiced.a.01
+رادیکال	ADJ	unvoiced.a.01
+گنگ	ADJ	unvoiced.a.01
+بدون_ساقه	ADJ	stemless.a.01
+سرکش	ADJ	insubordinate.a.01
+گردن_کش	ADJ	insubordinate.a.01
+نا_فرمان	ADJ	insubordinate.a.01
+زیر_نویس	ADJ	subscript.a.01
+غیر_قابل_عبور	ADJ	insurmountable.a.01
+مستثنی	ADJ	exempt.a.01	nontaxable.a.01
+معاف	ADJ	exempt.a.01	nontaxable.a.01
+ارضی	ADJ	territorial.a.03
+منطقه_ای	ADJ	territorial.a.03
+بی_فکر	ADJ	thoughtless.a.01
+بی_فایده	ADJ	wasteful.a.02
+استوایی	ADJ	equatorial.a.03
+قابل_تعقیب	ADJ	traceable.a.02
+قابل_ردیابی	ADJ	traceable.a.02
+بدگمان	ADJ	distrustful.a.01
+نوعی	ADJ	typical.a.01
+دست_به_بالا	ADJ	overhand.a.01
+رویهم	ADJ	overhand.a.01
+یکطرفه	ADJ	overhand.a.01
+دو_لته	ADJ	bivalve.a.01
+انتقالی	ADJ	transitive.a.01
+رابطه_غیرمستقیم	ADJ	transitive.a.01
+متعدی	ADJ	transitive.a.01
+متغیر	ADJ	transitive.a.01
+فعل_لازم	ADJ	intransitive.a.01
+لازم	ADJ	intransitive.a.01
+قابل_ترجمه	ADJ	translatable.a.01
+قابل_تعبیر	ADJ	translatable.a.01
+تخیلی	ADJ	utopian.a.02
+بی_اعتبار	ADJ	invalid.a.01
+علیل	ADJ	invalid.a.01
+باارزش	ADJ	valuable.a.01
+پربها	ADJ	valuable.a.01
+گرانبها	ADJ	valuable.a.01
+گوناگون	ADJ	varied.a.01
+متنوع	ADJ	varied.a.01
+بی_عزم	ADJ	invertebrate.a.01
+بی_مهره	ADJ	invertebrate.a.01
+نااستوار	ADJ	invertebrate.a.01
+مصون	ADJ	inviolable.a.01
+بافضیلت	ADJ	virtuous.a.01
+پاکدامن	ADJ	virtuous.a.01
+پرهیزکار	ADJ	virtuous.a.01
+عفیف	ADJ	virtuous.a.01
+ارادی	ADJ	voluntary.a.01	voluntary.a.02
+داوطلبانه	ADJ	voluntary.a.01	voluntary.a.02
+ابله	ADJ	foolish.a.01
+ابلهانه	ADJ	foolish.a.01
+احمق	ADJ	foolish.a.01
+جاهل	ADJ	foolish.a.01
+نابخرد	ADJ	foolish.a.01
+نادان	ADJ	foolish.a.01
+پر_درخت	ADJ	woody.a.01
+چوبی	ADJ	woody.a.01
+گلدار	ADJ	flowering.a.01
+نباتی	ADJ	vegetal.a.01
+گرفتگی_بینی	ADJ	adenoid.a.01
+مستعد_جنگ	ADJ	agonistic.a.01
+سوراخ_سوراخ	ADJ	alveolar.a.01	alveolar.a.02
+بدنام	ADJ	anastigmatic.a.01
+در_معرض_تهمت	ADJ	anastigmatic.a.01
+دوزیست	ADJ	anuran.a.01
+زاهدانه	ADJ	ascetic.a.01
+ذیحق	ADJ	beneficiary.a.01
+بدنی	ADJ	bodily.a.01
+شیمیایی	ADJ	chemical.a.01	chemical.a.02
+هم_غذا	ADJ	commensal.a.01
+قابل_تحویل	ADJ	deliverable.a.01
+معرق	ADJ	diaphoretic.a.01
+تشخیص_دهنده	ADJ	differential.a.01
+ابتدایی	ADJ	elementary.a.02
+مقدماتی	ADJ	elementary.a.02
+اسبی	ADJ	equine.a.02	equine.a.01
+اتحادی	ADJ	fraternal.a.01
+ائتلافی	ADJ	fraternal.a.01
+برادرانه	ADJ	fraternal.a.01
+ریوی_ومعدی	ADJ	pneumogastric.a.02
+گلویی	ADJ	guttural.a.02
+جگری	ADJ	hepatic.a.01
+جگری_رنگ	ADJ	hepatic.a.01
+کبدی	ADJ	hepatic.a.01
+اردی	ADJ	mealy.a.01
+رقومی	ADJ	numeral.a.01
+شماره_ای	ADJ	numeral.a.01
+عددی	ADJ	numeral.a.01
+هندسی	ADJ	numeral.a.01
+پارلمانی	ADJ	parliamentary.a.01
+پایی	ADJ	pedal.a.01
+جبری	ADJ	predestinarian.a.01
+فشار_زا	ADJ	pressor.a.01
+غده_پروستات	ADJ	prostate.a.01
+استخوان_سرشانه	ADJ	scapular.a.01
+اختری	ADJ	stellar.a.02
+پر_ستاره	ADJ	stellar.a.02
+ستاره_وار	ADJ	stellar.a.02
+شبیه_ستاره	ADJ	stellar.a.02
+ساکن_زمین	ADJ	tellurian.a.01
+تودیعی	ADJ	valedictory.a.01
+وداعی	ADJ	valedictory.a.01
+ملحد	ADJ	atheist.a.01
+منکر_خدا	ADJ	atheist.a.01
+مقننه	ADJ	legislative.a.02	legislative.a.01
+طرفدار_حقوق_زنان	ADJ	feminist.a.01
+بطنی	ADJ	umbilical.a.01	abdominal.a.01
+نافی	ADJ	umbilical.a.01
+سوسنی_شکل	ADJ	crinoid.a.01
+مخروطی	ADJ	conic.a.01
+عروسی_کرده	ADJ	marital.a.01
+پستانی	ADJ	mastoid.a.01
+انگوری	ADJ	vinous.a.01
+باده_ای	ADJ	vinous.a.01
+شرابی_رنگ	ADJ	vinous.a.01
+سینه_ای	ADJ	pectoral.a.01
+صدری	ADJ	pectoral.a.01
+بارور	ADJ	parturient.a.01
+بچه_زا	ADJ	parturient.a.01
+ثمر_بخش	ADJ	parturient.a.01
+حالت_مالکیت	ADJ	possessive.a.01
+دارای_هسته	ADJ	nucleated.a.01
+کوته_نظر	ADJ	parochial.a.01
+مسخره_آمیز	ADJ	burlesque.a.01
+مضحک	ADJ	burlesque.a.01
+زیرپوستی	ADJ	hypodermic.a.01
+دیواری	ADJ	mural.a.01
+کانونی	ADJ	focal.a.02
+مرکزی	ADJ	focal.a.02
+فقراتی	ADJ	spinal.a.01
+اتمی	ADJ	atomic.a.01
+ناحیه_ساحلی	ADJ	littoral.a.01
+وجه_اجاره	ADJ	rental.a.01
+گیاهی	ADJ	herbal.a.01
+حفظی	ADJ	mnemonic.a.01
+غشایی	ADJ	velar.a.01
+سندی	ADJ	documentary.a.01
+مستند	ADJ	documentary.a.01
+کشیش	ADJ	ecclesiastical.a.01
+مربوط_به_کلیسا	ADJ	ecclesiastical.a.01
+مخاطی	ADJ	mucoid.a.01	pituitary.a.01
+درون_ریز	ADJ	endocrine.a.01
+فاشیست	ADJ	fascist.a.01
+خدا_پرست	ADJ	theist.a.01
+خداپرست	ADJ	deist.a.01
+قطعه_قطعه	ADJ	sectional.a.01
+صرعی	ADJ	epileptic.a.01
+مربوط_به_همکاری	ADJ	synergistic.a.02
+رنگی	ADJ	chromatic.a.01
+تعریفی	ADJ	exponential.a.01
+مثل_ذره	ADJ	corpuscular.a.01
+نسبی	ADJ	comparative.a.01
+شبیه_میمون	ADJ	simian.a.01
+حرکت_دهنده	ADJ	locomotive.a.01
+نیروی_محرکه	ADJ	locomotive.a.01
+اصلی	ADJ	normative.a.01
+چرخنده	ADJ	rotary.a.01
+یادبود_صدساله	ADJ	centennial.a.01
+صدساله	ADJ	centennial.a.01
+دویست_ساله	ADJ	bicentennial.a.01
+متشرع	ADJ	canonist.a.01
+جزمی	ADJ	dogmatic.a.03	dogmatic.a.02
+ظرف_سفالین	ADJ	ceramic.a.01
+حماسی	ADJ	epic.a.02
+اجرایی	ADJ	executive.a.01
+گویشی	ADJ	dialectic.a.01
+منطقی	ADJ	dialectic.a.01
+استیناف_دهنده	ADJ	appellate.a.01
+حدیثی	ADJ	anecdotal.a.01
+حساب	ADJ	arithmetical.a.01
+حسابی	ADJ	arithmetical.a.01
+حسابگر	ADJ	arithmetical.a.01
+علم_حساب	ADJ	arithmetical.a.01
+دولبه	ADJ	bilabial.a.01
+مچی	ADJ	carpal.a.01
+یادبودی	ADJ	commemorative.a.01
+گوارا	ADJ	digestive.a.01
+گوارشی	ADJ	digestive.a.01
+هاضمه	ADJ	digestive.a.01
+کوته_فکر	ADJ	dogmatic.a.02
+دردهای	ADJ	faecal.a.01
+مدفوعی	ADJ	faecal.a.01
+میان_سنگی	ADJ	mesolithic.a.01
+پارینه_سنگی	ADJ	paleolithic.a.01
+وجه_شرطی	ADJ	subjunctive.a.01
+اخباری	ADJ	indicative.a.01
+پدری	ADJ	patronymic.a.01
+دارویی	ADJ	pharmaceutical.a.01	pharmaceutical.a.02
+ارکستر_سمفونی	ADJ	philharmonic.a.01
+غده_هیپوفیز	ADJ	pituitary.a.01
+منشوری	ADJ	prismatic.a.01
+دافع	ADJ	propulsive.a.01
+مقاومتی	ADJ	resistive.a.01
+انقباضی	ADJ	spastic.a.01
+جدولی	ADJ	tabular.a.01
+مچ_پایی	ADJ	tarsal.a.01
+پارچه_بافته	ADJ	textile.a.01
+اوایی	ADJ	vocative.a.01
+خطابی	ADJ	vocative.a.01
+ندایی	ADJ	vocative.a.01
+پشمی	ADJ	woolen.a.01
+کاموا	ADJ	woolen.a.01
+بی_مرکز	ADJ	acentric.a.01
+خارج_از_مرکز	ADJ	acentric.a.01
+استخوان_گونه	ADJ	zygomatic.a.01
+چکش_خورده	ADJ	beaten.a.01
+زده	ADJ	beaten.a.01
+فرسوده	ADJ	beaten.a.01
+کوبیده	ADJ	beaten.a.01
+مغلوب	ADJ	beaten.a.01
 کم	ADV	barely.r.01
 از_همه_جهت	ADV	wholly.r.01
 بسیار	ADV	wholly.r.01

@@ -6423,23 +6423,23 @@ shi_me_shtambë	VERB	pour.v.06
 digjet	VERB	erupt.v.03
 merr_zjarr	VERB	erupt.v.03
 vë_zjarr	VERB	erupt.v.03
-me_ngjyra	ADJ	color.a.01	color.a.01
-ngjyrë	ADJ	color.a.01	color.a.01
-jotradicionale	ADJ	unconventional.a.02	unconventional.a.02
-origjinal	ADJ	unconventional.a.02	original.a.03	unconventional.a.02	original.a.03
-material	ADJ	material.a.02	corporeal.a.01	material.a.02	corporeal.a.01
-fizik	ADJ	corporeal.a.01	corporeal.a.01
-kristalizoj	ADJ	crystallized.a.01	crystallized.a.01
-kthjelloj	ADJ	crystallized.a.01	crystallized.a.01
-i_bollshëm	ADJ	heavy.a.02	heavy.a.02
-i_rende	ADJ	heavy.a.02	heavy.a.02
-i_gjerë	ADJ	large.a.01	large.a.01
-i_madh	ADJ	large.a.01	large.a.01
-i_vogël	ADJ	small.a.01	small.a.01
-mikroskopik	ADJ	small.a.01	small.a.01
-i_fortë	ADJ	intense.a.01	intense.a.01
-i_gjallë	ADJ	intense.a.01	intense.a.01
-thelbësore	ADJ	ultimate.a.01	ultimate.a.01
-themelor	ADJ	ultimate.a.01	ultimate.a.01
-burim_i_parë	ADJ	original.a.03	original.a.03
-i_fuqishëm	ADJ	powerful.a.01	powerful.a.01
+me_ngjyra	ADJ	color.a.01
+ngjyrë	ADJ	color.a.01
+jotradicionale	ADJ	unconventional.a.02
+origjinal	ADJ	unconventional.a.02	original.a.03
+material	ADJ	material.a.02	corporeal.a.01
+fizik	ADJ	corporeal.a.01
+kristalizoj	ADJ	crystallized.a.01
+kthjelloj	ADJ	crystallized.a.01
+i_bollshëm	ADJ	heavy.a.02
+i_rende	ADJ	heavy.a.02
+i_gjerë	ADJ	large.a.01
+i_madh	ADJ	large.a.01
+i_vogël	ADJ	small.a.01
+mikroskopik	ADJ	small.a.01
+i_fortë	ADJ	intense.a.01
+i_gjallë	ADJ	intense.a.01
+thelbësore	ADJ	ultimate.a.01
+themelor	ADJ	ultimate.a.01
+burim_i_parë	ADJ	original.a.03
+i_fuqishëm	ADJ	powerful.a.01

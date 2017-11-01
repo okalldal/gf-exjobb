@@ -5819,764 +5819,764 @@ GSM	NOUN	cellular_telephone.n.01
 беснея	VERB	storm.v.03
 бушувам	VERB	storm.v.03
 вилнея	VERB	storm.v.03
-абсолютен	ADJ	absolute.a.01	absolute.a.01
-относителен	ADJ	relative.a.01	relative.a.01
-сравнителен	ADJ	relative.a.01	relative.a.01
-абстрактен	ADJ	abstract.a.01	abstract.a.01
-отвлечен	ADJ	abstract.a.01	abstract.a.01
-действителен	ADJ	concrete.a.01	real.a.01	concrete.a.01	real.a.01
-конкретен	ADJ	concrete.a.01	concrete.a.01
-реален	ADJ	concrete.a.01	real.a.01	concrete.a.01	real.a.01
-изобилен	ADJ	abundant.a.01	abundant.a.01
-допустим	ADJ	acceptable.a.01	expected.a.01	probable.a.01	acceptable.a.01	expected.a.01	probable.a.01
-приемлив	ADJ	acceptable.a.01	acceptable.a.01
-достъпен	ADJ	accessible.a.01	available.a.01	accessible.a.01	available.a.01
-точен	ADJ	accurate.a.01	definite.a.01	exact.a.01	precise.a.01	accurate.a.01	definite.a.01	exact.a.01	precise.a.01
-активен	ADJ	active.a.05	dynamic.a.01	active.a.05	dynamic.a.01
-деен	ADJ	active.a.05	active.a.05
-бездеен	ADJ	passive.a.01	passive.a.01
-безучастен	ADJ	passive.a.01	cool.a.04	passive.a.01	cool.a.04
-пасивен	ADJ	passive.a.01	passive.a.01
-възможен	ADJ	potential.a.01	expected.a.01	probable.a.01	potential.a.01	expected.a.01	probable.a.01
-остър	ADJ	acute.a.01	sharp.a.09	acute.a.01	sharp.a.09
-хроничен	ADJ	chronic.a.01	chronic.a.01
-хронически	ADJ	chronic.a.01	chronic.a.01
-зависим	ADJ	addicted.a.01	dependent.a.01	addicted.a.01	dependent.a.01
-пристрастен	ADJ	addicted.a.01	addicted.a.01
-адекватен	ADJ	adequate.a.01	adequate.a.01
-недостатъчен	ADJ	inadequate.a.01	insufficient.a.01	inadequate.a.01	insufficient.a.01
-незадоволителен	ADJ	inadequate.a.01	inadequate.a.01
-естетичен	ADJ	aesthetic.a.02	aesthetic.a.02
-естетически	ADJ	aesthetic.a.02	aesthetic.a.02
-изплашен	ADJ	afraid.a.01	afraid.a.01
-уплашен	ADJ	afraid.a.01	afraid.a.01
-агресивен	ADJ	aggressive.a.01	aggressive.a.01
-враждебен	ADJ	aggressive.a.01	hostile.a.01	aggressive.a.01	hostile.a.01
-нападателен	ADJ	aggressive.a.01	offensive.a.02	aggressive.a.01	offensive.a.02
-бдителен	ADJ	alert.a.01	alert.a.01
-нащрек	ADJ	alert.a.01	alert.a.01
-жив	ADJ	alive.a.01	alive.a.01
-амбициозен	ADJ	ambitious.a.01	ambitious.a.01
-гневен	ADJ	angry.a.01	angry.a.01
-сърдит	ADJ	angry.a.01	angry.a.01
-ядосан	ADJ	angry.a.01	angry.a.01
-анонимен	ADJ	anonymous.a.01	anonymous.a.01
-последващ	ADJ	subsequent.a.01	subsequent.a.01
-следващ	ADJ	subsequent.a.01	subsequent.a.01
-подходящ	ADJ	appropriate.a.01	eligible.a.01	proper.a.01	relevant.a.01	appropriate.a.01	eligible.a.01	proper.a.01	relevant.a.01
-неподходящ	ADJ	inappropriate.a.01	irrelevant.a.01	inappropriate.a.01	irrelevant.a.01
-неуместен	ADJ	inappropriate.a.01	irrelevant.a.01	inappropriate.a.01	irrelevant.a.01
-дължим	ADJ	due.a.01	due.a.01
-засрамен	ADJ	ashamed.a.01	ashamed.a.01
-отстояващ	ADJ	assertive.a.01	assertive.a.01
-самоуверен	ADJ	assertive.a.01	assertive.a.01
-привлекателен	ADJ	attractive.a.01	attractive.a.01
-бременен	ADJ	pregnant.a.01	pregnant.a.01
-автоматизиран	ADJ	automatic.a.01	automatic.a.01
-автоматичен	ADJ	automatic.a.01	automatic.a.01
-автоматически	ADJ	automatic.a.01	automatic.a.01
-ръчен	ADJ	manual.a.02	manual.a.02
-наличен	ADJ	available.a.01	available.a.01
-буден	ADJ	awake.a.01	awake.a.01
-заспал	ADJ	asleep.a.01	asleep.a.01
-преден	ADJ	forward.a.01	forward.a.01
-красив	ADJ	beautiful.a.01	beautiful.a.01
-грозен	ADJ	ugly.a.01	ugly.a.01
-неприятен	ADJ	ugly.a.01	offensive.a.05	unpleasant.a.01	ugly.a.01	offensive.a.05	unpleasant.a.01
-противен	ADJ	ugly.a.01	offensive.a.05	unpleasant.a.01	ugly.a.01	offensive.a.05	unpleasant.a.01
-бял	ADJ	white.a.02	white.a.01	white.a.02	white.a.01
-рус	ADJ	blond.a.01	blond.a.01
-кървав	ADJ	bloody.a.01	bloody.a.01
-окървавен	ADJ	bloody.a.01	bloody.a.01
-безстрашен	ADJ	bold.a.01	bold.a.01
-смел	ADJ	bold.a.01	brave.a.01	bold.a.01	brave.a.01
-храбър	ADJ	bold.a.01	brave.a.01	bold.a.01	brave.a.01
-средна_класа	ADJ	middle-class.a.01	middle-class.a.01
-светъл	ADJ	light.a.06	light.a.02	light.a.06	light.a.02
-тъмен	ADJ	dark.a.01	dark.a.01
-посредствен	ADJ	narrow-minded.a.02	narrow-minded.a.02
-тесногръд	ADJ	narrow-minded.a.02	narrow-minded.a.02
-счупен	ADJ	broken.a.01	broken.a.01
-ангажиран	ADJ	busy.a.01	busy.a.01
-зает	ADJ	busy.a.01	busy.a.01
-социалистически	ADJ	socialistic.a.01	socialistic.a.01
-способен	ADJ	capable.a.01	talented.a.01	capable.a.01	talented.a.01
-внимателен	ADJ	careful.a.01	cautious.a.01	careful.a.01	cautious.a.01
-предпазлив	ADJ	careful.a.01	cautious.a.01	careful.a.01	cautious.a.01
-централен	ADJ	central.a.02	central.a.02
-сигурен	ADJ	certain.a.02	confident.a.01	reliable.a.01	safe.a.01	certain.a.02	confident.a.01	reliable.a.01	safe.a.01
-уверен	ADJ	certain.a.02	confident.a.01	certain.a.02	confident.a.01
-неизбежен	ADJ	inevitable.a.01	inevitable.a.01
-неминуем	ADJ	inevitable.a.01	inevitable.a.01
-отличителен	ADJ	characteristic.a.01	representative.a.02	characteristic.a.01	representative.a.02
-характерен	ADJ	characteristic.a.01	representative.a.02	characteristic.a.01	representative.a.02
-бодър	ADJ	cheerful.a.01	cheerful.a.01
-весел	ADJ	cheerful.a.01	cheerful.a.01
-черен	ADJ	black.a.01	black.a.01
-цветен	ADJ	colorful.a.01	colorful.a.01
-класически	ADJ	classical.a.01	classical.a.01
-чист	ADJ	clean.a.01	pure.a.06	pure.a.01	clean.a.01	pure.a.06	pure.a.01
-замърсен	ADJ	dirty.a.01	dirty.a.01
-изцапан	ADJ	dirty.a.01	dirty.a.01
-мръсен	ADJ	dirty.a.01	dirty.a.02	dirty.a.01	dirty.a.02
-нечист	ADJ	dirty.a.01	dirty.a.01
-неприличен	ADJ	dirty.a.02	dirty.a.02
-нецензурен	ADJ	dirty.a.02	dirty.a.02
-интелигентен	ADJ	smart.a.01	smart.a.01
-умен	ADJ	smart.a.01	wise.a.01	smart.a.01	wise.a.01
-глупав	ADJ	stupid.a.01	foolish.a.01	stupid.a.01	foolish.a.01
-тъп	ADJ	stupid.a.01	dull.a.09	stupid.a.01	dull.a.09
-далечен	ADJ	far.a.01	distant.a.01	far.a.01	distant.a.01
-отдалечен	ADJ	far.a.01	distant.a.01	far.a.01	distant.a.01
-близък	ADJ	near.a.01	close.a.02	related.a.02	near.a.01	close.a.02	related.a.02
-недалечен	ADJ	near.a.01	near.a.01
-съседен	ADJ	near.a.01	near.a.01
-безоблачен	ADJ	clear.a.11	clear.a.11
-ясен	ADJ	clear.a.11	well-defined.a.02	definite.a.01	obvious.a.01	clear.a.11	well-defined.a.02	definite.a.01	obvious.a.01
-комфортен	ADJ	comfortable.a.01	comfortable.a.01
-удобен	ADJ	comfortable.a.01	convenient.a.01	comfortable.a.01	convenient.a.01
-неудобен	ADJ	uncomfortable.a.01	uncomfortable.a.01
-рекламен	ADJ	commercial.a.01	commercial.a.01
-обикновен	ADJ	common.a.02	usual.a.01	ordinary.a.01	plain.a.02	common.a.02	usual.a.01	ordinary.a.01	plain.a.02
-обичаен	ADJ	usual.a.01	usual.a.01
-общ	ADJ	common.a.01	general.a.01	joint.a.01	common.a.01	general.a.01	joint.a.01
-публичен	ADJ	common.a.01	public.a.01	common.a.01	public.a.01
-сравним	ADJ	comparable.a.01	comparable.a.01
-сравняем	ADJ	comparable.a.01	comparable.a.01
-съвместим	ADJ	compatible.a.01	consistent.a.01	compatible.a.01	consistent.a.01
-компетентен	ADJ	competent.a.01	qualified.a.01	competent.a.01	qualified.a.01
-осведомен	ADJ	competent.a.01	mindful.a.01	competent.a.01	mindful.a.01
-подготвен	ADJ	competent.a.01	qualified.a.01	skilled.a.01	competent.a.01	qualified.a.01	skilled.a.01
-конкурентен	ADJ	competitive.a.01	competitive.a.01
-цял	ADJ	whole.a.01	whole.a.01
-пълен	ADJ	complete.a.01	comprehensive.a.01	fat.a.01	full.a.01	complete.a.01	comprehensive.a.01	fat.a.01	full.a.01
-всестранен	ADJ	comprehensive.a.01	comprehensive.a.01
-обстоен	ADJ	comprehensive.a.01	comprehensive.a.01
-обширен	ADJ	comprehensive.a.01	comprehensive.a.01
-подробен	ADJ	comprehensive.a.01	comprehensive.a.01
-нелеп	ADJ	incongruous.a.01	incongruous.a.01
-съзнателен	ADJ	conscious.a.02	conscious.a.02
-консервативен	ADJ	conservative.a.01	conservative.a.01
-либерален	ADJ	liberal.a.03	liberal.a.03
-константен	ADJ	constant.a.02	constant.a.02
-неизменен	ADJ	constant.a.02	constant.a.02
-постоянен	ADJ	constant.a.02	permanent.a.01	steady.a.01	constant.a.02	permanent.a.01	steady.a.01
-градивен	ADJ	constructive.a.01	constructive.a.01
-конструктивен	ADJ	constructive.a.01	constructive.a.01
-съзидателен	ADJ	constructive.a.01	constructive.a.01
-творчески	ADJ	constructive.a.01	constructive.a.01
-доволен	ADJ	contented.a.01	glad.a.01	contented.a.01	glad.a.01
-задоволен	ADJ	contented.a.01	contented.a.01
-непрекъснат	ADJ	continuous.a.01	continuous.a.01
-непрестанен	ADJ	continuous.a.01	continuous.a.01
-неспирен	ADJ	continuous.a.01	continuous.a.01
-дискусионен	ADJ	controversial.a.01	controversial.a.01
-полемичен	ADJ	controversial.a.01	controversial.a.01
-спорен	ADJ	controversial.a.01	controversial.a.01
-конвенционален	ADJ	conventional.a.01	conventional.a.01
-традиционен	ADJ	conventional.a.01	traditional.a.01	conventional.a.01	traditional.a.01
-ядрен	ADJ	nuclear.a.01	nuclear.a.01
-суров	ADJ	raw.a.03	unrefined.a.01	raw.a.03	unrefined.a.01
-съвместен	ADJ	cooperative.a.02	synergistic.a.01	joint.a.01	cooperative.a.02	synergistic.a.01	joint.a.01
-значителен	ADJ	considerable.a.01	major.a.02	significant.a.01	considerable.a.01	major.a.02	significant.a.01
-верен	ADJ	correct.a.01	faithful.a.03	loyal.a.01	true.a.01	correct.a.01	faithful.a.03	loyal.a.01	true.a.01
-правилен	ADJ	correct.a.01	proper.a.01	correct.a.01	proper.a.01
-грешен	ADJ	wrong.a.05	wrong.a.05
-погрешен	ADJ	wrong.a.05	wrong.a.05
-сбъркан	ADJ	wrong.a.05	wrong.a.05
-провинциален	ADJ	provincial.a.02	rural.a.02	provincial.a.02	rural.a.02
-вежлив	ADJ	polite.a.01	polite.a.01
-любезен	ADJ	polite.a.01	kind.a.01	polite.a.01	kind.a.01
-учтив	ADJ	polite.a.01	kind.a.01	polite.a.01	kind.a.01
-невероятен	ADJ	incredible.a.01	improbable.a.01	incredible.a.01	improbable.a.01
-неправдоподобен	ADJ	incredible.a.01	incredible.a.01
-критичен	ADJ	critical.a.01	critical.a.06	critical.a.01	critical.a.06
-критически	ADJ	critical.a.01	critical.a.06	critical.a.01	critical.a.06
-линеен	ADJ	linear.a.02	linear.a.02
-любопитен	ADJ	curious.a.02	curious.a.02
-актуален	ADJ	current.a.01	current.a.01
-текущ	ADJ	current.a.01	current.a.01
-глух	ADJ	deaf.a.01	deaf.a.01
-решаващ	ADJ	decisive.a.01	ultimate.a.01	decisive.a.01	ultimate.a.01
-решителен	ADJ	decisive.a.01	decisive.a.01
-дълбок	ADJ	deep.a.03	profound.a.01	deep.a.03	profound.a.01
-плитък	ADJ	shallow.a.01	shallow.a.01
-неопределен	ADJ	undefined.a.01	neutral.a.04	undefined.a.01	neutral.a.04
-неясен	ADJ	undefined.a.01	undefined.a.01
-понятен	ADJ	well-defined.a.02	well-defined.a.02
-разбираем	ADJ	well-defined.a.02	well-defined.a.02
-определен	ADJ	definite.a.01	specified.a.01	definite.a.01	specified.a.01
-деликатен	ADJ	delicate.a.01	delicate.a.01
-изтънчен	ADJ	delicate.a.01	elegant.a.01	sophisticated.a.01	delicate.a.01	elegant.a.01	sophisticated.a.01
-изящен	ADJ	delicate.a.01	elegant.a.01	delicate.a.01	elegant.a.01
-нежен	ADJ	delicate.a.01	soft.a.03	tender.a.01	delicate.a.01	soft.a.03	tender.a.01
-фин	ADJ	delicate.a.01	fine.a.05	delicate.a.01	fine.a.05
-демократичен	ADJ	democratic.a.01	democratic.a.01
-произволен	ADJ	arbitrary.a.01	random.a.01	arbitrary.a.01	random.a.01
-изпитан	ADJ	reliable.a.01	reliable.a.01
-надежден	ADJ	reliable.a.01	reliable.a.01
-зависещ	ADJ	dependent.a.01	dependent.a.01
-независим	ADJ	independent.a.01	independent.a.01
-самостоятелен	ADJ	independent.a.01	separate.a.01	independent.a.01	separate.a.01
-свободен	ADJ	independent.a.01	free.a.01	loose.a.03	open.a.02	independent.a.01	free.a.01	loose.a.03	open.a.02
-желан	ADJ	desirable.a.01	welcome.a.01	desirable.a.01	welcome.a.01
-желателен	ADJ	desirable.a.01	desirable.a.01
-търсен	ADJ	desirable.a.01	desirable.a.01
-мъчен	ADJ	difficult.a.01	difficult.a.01
-труден	ADJ	difficult.a.01	tough.a.01	difficult.a.01	tough.a.01
-лесен	ADJ	easy.a.01	soft.a.06	easy.a.01	soft.a.06
-дипломатичен	ADJ	diplomatic.a.02	diplomatic.a.02
-дипломатически	ADJ	diplomatic.a.02	diplomatic.a.02
-директен	ADJ	direct.a.01	direct.a.01
-пряк	ADJ	direct.a.01	direct.a.01
-индиректен	ADJ	indirect.a.04	indirect.a.04
-косвен	ADJ	indirect.a.04	implicit.a.01	indirect.a.04	implicit.a.01
-непряк	ADJ	indirect.a.04	implicit.a.01	indirect.a.04	implicit.a.01
-дискретен	ADJ	discreet.a.01	discreet.a.01
-сдържан	ADJ	discreet.a.01	discreet.a.01
-особен	ADJ	distinct.a.02	distinct.a.02
-отчетлив	ADJ	distinct.a.02	distinct.a.02
-господстващ	ADJ	dominant.a.01	dominant.a.01
-доминиращ	ADJ	dominant.a.01	dominant.a.01
-оживен	ADJ	lively.a.01	lively.a.01
-отегчителен	ADJ	dull.a.01	dull.a.01
-скучен	ADJ	dull.a.01	dull.a.01
-действен	ADJ	dynamic.a.01	operational.a.01	dynamic.a.01	operational.a.01
-динамичен	ADJ	dynamic.a.01	dynamic.a.01
-енергичен	ADJ	dynamic.a.01	dynamic.a.01
-нетърпелив	ADJ	eager.a.01	eager.a.01
-ранен	ADJ	early.a.01	early.a.01
-несигурен	ADJ	uneasy.a.01	uneasy.a.01
-неспокоен	ADJ	uneasy.a.01	uneasy.a.01
-притеснен	ADJ	uneasy.a.01	uneasy.a.01
-ефективен	ADJ	effective.a.01	effective.a.01
-ефикасен	ADJ	effective.a.01	efficient.a.01	effective.a.01	efficient.a.01
-резултатен	ADJ	efficient.a.01	efficient.a.01
-незадължителен	ADJ	optional.a.01	optional.a.01
-факултативен	ADJ	optional.a.01	optional.a.01
-елегантен	ADJ	elegant.a.01	elegant.a.01
-изискан	ADJ	elegant.a.01	sophisticated.a.01	elegant.a.01	sophisticated.a.01
-емпиричен	ADJ	empirical.a.01	empirical.a.01
-опитен	ADJ	empirical.a.01	experienced.a.01	skilled.a.01	experimental.a.01	empirical.a.01	experienced.a.01	skilled.a.01	experimental.a.01
-приложен	ADJ	applied.a.01	applied.a.01
-безработен	ADJ	unemployed.a.01	unemployed.a.01
-насърчителен	ADJ	encouraging.a.01	encouraging.a.01
-обнадеждаващ	ADJ	encouraging.a.01	encouraging.a.01
-окуражителен	ADJ	encouraging.a.01	encouraging.a.01
-ентусиазиран	ADJ	enthusiastic.a.01	enthusiastic.a.01
-балансиран	ADJ	balanced.a.01	balanced.a.01
-уравновесен	ADJ	balanced.a.01	balanced.a.01
-двузначен	ADJ	equivocal.a.01	equivocal.a.01
-двусмислен	ADJ	equivocal.a.01	equivocal.a.01
-многозначен	ADJ	equivocal.a.01	equivocal.a.01
-основен	ADJ	essential.a.02	primary.a.01	basic.a.01	essential.a.02	primary.a.01	basic.a.01
-съществен	ADJ	essential.a.02	essential.a.02
-етичен	ADJ	ethical.a.02	ethical.a.02
-морален	ADJ	ethical.a.02	ethical.a.02
-нравствен	ADJ	ethical.a.02	ethical.a.02
-равен	ADJ	even.a.03	smooth.a.01	even.a.03	smooth.a.01
-равномерен	ADJ	even.a.03	even.a.03
-четен	ADJ	even.a.01	even.a.01
-нечетен	ADJ	odd.a.01	odd.a.01
-възбуден	ADJ	excited.a.02	excited.a.02
-вълнуващ	ADJ	exciting.a.01	moving.a.02	exciting.a.01	moving.a.02
-изчезнал	ADJ	extinct.a.01	extinct.a.01
-вероятен	ADJ	expected.a.01	probable.a.01	expected.a.01	probable.a.01
-очакван	ADJ	expected.a.01	expected.a.01
-ненадеен	ADJ	unexpected.a.01	sudden.a.01	surprising.a.01	unexpected.a.01	sudden.a.01	surprising.a.01
-неочакван	ADJ	unexpected.a.01	sudden.a.01	surprising.a.01	unexpected.a.01	sudden.a.01	surprising.a.01
-непредвиден	ADJ	unexpected.a.01	unexpected.a.01
-скъп	ADJ	expensive.a.01	valuable.a.01	expensive.a.01	valuable.a.01
-евтин	ADJ	cheap.a.01	cheap.a.01
-безусловен	ADJ	explicit.a.01	explicit.a.01
-изричен	ADJ	explicit.a.01	explicit.a.01
-категоричен	ADJ	explicit.a.01	explicit.a.01
-външен	ADJ	external.a.01	outer.a.01	external.a.01	outer.a.01
-вътрешен	ADJ	internal.a.01	inner.a.02	domestic.a.01	indoor.a.01	internal.a.01	inner.a.02	domestic.a.01	indoor.a.01
-справедлив	ADJ	equitable.a.01	objective.a.01	equitable.a.01	objective.a.01
-предан	ADJ	faithful.a.03	loyal.a.01	faithful.a.03	loyal.a.01
-лоялен	ADJ	loyal.a.01	straight.a.06	loyal.a.01	straight.a.06
-известен	ADJ	familiar.a.01	familiar.a.01
-познат	ADJ	familiar.a.01	familiar.a.01
-странен	ADJ	strange.a.01	strange.a.01
-модерен	ADJ	stylish.a.01	modern.a.01	stylish.a.01	modern.a.01
-бавен	ADJ	slow.a.01	slow.a.01
-муден	ADJ	slow.a.01	slow.a.01
-бърз	ADJ	fast.a.03	fast.a.03
-взискателен	ADJ	fastidious.a.01	nonindulgent.a.01	fastidious.a.01	nonindulgent.a.01
-капризен	ADJ	fastidious.a.01	fastidious.a.01
-претенциозен	ADJ	fastidious.a.01	fastidious.a.01
-придирчив	ADJ	fastidious.a.01	fastidious.a.01
-дебел	ADJ	fat.a.01	thick.a.01	fat.a.01	thick.a.01
-слаб	ADJ	thin.a.02	weak.a.01	thin.a.02	weak.a.01
-тънък	ADJ	thin.a.02	thin.a.02
-благоприятен	ADJ	favorable.a.01	favorable.a.01
-завършен	ADJ	finished.a.02	finished.a.02
-безбрежен	ADJ	infinite.a.01	infinite.a.01
-безграничен	ADJ	infinite.a.01	infinite.a.01
-безкраен	ADJ	infinite.a.01	infinite.a.01
-безпределен	ADJ	infinite.a.01	infinite.a.01
-пръв	ADJ	first.a.01	first.a.01
-първи	ADJ	first.a.01	first.a.01
-междинен	ADJ	intermediate.a.01	intermediate.a.01
-среден	ADJ	intermediate.a.01	intermediate.a.01
-гъвкав	ADJ	flexible.a.02	flexible.a.02
-роден	ADJ	native.a.02	native.a.02
-неофициален	ADJ	informal.a.01	informal.a.01
-неформален	ADJ	informal.a.01	informal.a.01
-книжовен	ADJ	formal.a.03	formal.a.03
-злочест	ADJ	unfortunate.a.01	unfortunate.a.01
-нещастен	ADJ	unfortunate.a.01	unfortunate.a.01
-ароматен	ADJ	fragrant.a.01	fragrant.a.01
-ароматичен	ADJ	fragrant.a.01	fragrant.a.01
-благоуханен	ADJ	fragrant.a.01	fragrant.a.01
-чест	ADJ	frequent.a.01	frequent.a.01
-пресен	ADJ	fresh.a.01	fresh.a.01
-свеж	ADJ	fresh.a.01	fresh.a.01
-дружески	ADJ	friendly.a.01	friendly.a.01
-приятелски	ADJ	friendly.a.01	friendly.a.01
-празен	ADJ	empty.a.01	empty.a.01
-пълен_работен_ден	ADJ	full-time.a.01	full-time.a.01
-непълен_работен_ден	ADJ	part-time.a.01	part-time.a.01
-функционален	ADJ	functional.a.01	functional.a.01
-установен	ADJ	specified.a.01	established.a.01	standard.a.01	specified.a.01	established.a.01	standard.a.01
-уточнен	ADJ	specified.a.01	specified.a.01
-генерален	ADJ	general.a.01	general.a.01
-федерален	ADJ	federal.a.04	federal.a.04
-благороден	ADJ	generous.a.02	noble.a.03	noble.a.02	generous.a.02	noble.a.03	noble.a.02
-великодушен	ADJ	generous.a.02	generous.a.02
-щедър	ADJ	generous.a.02	generous.a.02
-автентичен	ADJ	genuine.a.01	genuine.a.01
-истински	ADJ	genuine.a.01	real.a.01	true.a.01	genuine.a.01	real.a.01	true.a.01
-оригинален	ADJ	genuine.a.01	original.a.03	genuine.a.01	original.a.03
-даровит	ADJ	talented.a.01	talented.a.01
-надарен	ADJ	talented.a.01	talented.a.01
-талантлив	ADJ	talented.a.01	talented.a.01
-знаменит	ADJ	glorious.a.01	glorious.a.01
-прочут	ADJ	glorious.a.01	glorious.a.01
-славен	ADJ	glorious.a.01	glorious.a.01
-неловък	ADJ	awkward.a.02	awkward.a.02
-непохватен	ADJ	awkward.a.02	awkward.a.02
-несръчен	ADJ	awkward.a.02	awkward.a.02
-тромав	ADJ	awkward.a.02	awkward.a.02
-постепенен	ADJ	gradual.a.01	gradual.a.01
-внезапен	ADJ	sudden.a.01	sudden.a.01
-стръмен	ADJ	steep.a.01	steep.a.01
-благодарен	ADJ	grateful.a.01	grateful.a.01
-признателен	ADJ	grateful.a.01	grateful.a.01
-радостен	ADJ	happy.a.01	glad.a.01	happy.a.01	glad.a.01
-щастлив	ADJ	happy.a.01	glad.a.01	lucky.a.02	happy.a.01	glad.a.01	lucky.a.02
-корав	ADJ	hard.a.03	hard.a.03
-твърд	ADJ	hard.a.03	solid.a.02	hard.a.03	solid.a.02
-мек	ADJ	soft.a.01	soft.a.01
-тежък	ADJ	heavy.a.01	tough.a.01	heavy.a.01	tough.a.01
-лек	ADJ	light.a.01	mild.a.01	light.a.01	mild.a.01
-полезен	ADJ	helpful.a.01	useful.a.01	helpful.a.01	useful.a.01
-хомосексуален	ADJ	homosexual.a.01	homosexual.a.01
-нисък	ADJ	low.a.02	low.a.02
-висок	ADJ	high.a.01	loud.a.01	tall.a.01	high.a.01	loud.a.01	tall.a.01
-почтен	ADJ	honest.a.01	respectable.a.01	straight.a.06	honest.a.01	respectable.a.01	straight.a.06
-честен	ADJ	honest.a.01	straight.a.06	honest.a.01	straight.a.06
-хоризонтален	ADJ	horizontal.a.01	horizontal.a.01
-вертикален	ADJ	vertical.a.01	vertical.a.01
-отвесен	ADJ	vertical.a.01	vertical.a.01
-неприятелски	ADJ	hostile.a.01	hostile.a.01
-горещ	ADJ	hot.a.01	hot.a.03	hot.a.01	hot.a.03
-топъл	ADJ	hot.a.01	warm.a.01	warm.a.02	hot.a.01	warm.a.01	warm.a.02
-студен	ADJ	cold.a.01	cold.a.02	cold.a.01	cold.a.02
-хладен	ADJ	cold.a.01	cool.a.01	cool.a.04	cold.a.01	cool.a.01	cool.a.04
-недружелюбен	ADJ	cold.a.02	cold.a.02
-гладен	ADJ	hungry.a.01	hungry.a.01
-жаден	ADJ	thirsty.a.02	thirsty.a.02
-внушителен	ADJ	impressive.a.01	impressive.a.01
-впечатляващ	ADJ	impressive.a.01	impressive.a.01
-строг	ADJ	nonindulgent.a.01	nonindulgent.a.01
-индустриален	ADJ	industrial.a.02	industrial.a.02
-промишлен	ADJ	industrial.a.02	industrial.a.02
-невинен	ADJ	innocent.a.01	pure.a.06	innocent.a.01	pure.a.06
-интегриран	ADJ	integrated.a.03	integrated.a.03
-занимателен	ADJ	interesting.a.01	interesting.a.01
-интересен	ADJ	interesting.a.01	interesting.a.01
-увлекателен	ADJ	interesting.a.01	interesting.a.01
-натъжен	ADJ	sad.a.01	sad.a.01
-опечален	ADJ	sad.a.01	sad.a.01
-печален	ADJ	sad.a.01	sad.a.01
-скръбен	ADJ	sad.a.01	sad.a.01
-тъжен	ADJ	sad.a.01	sad.a.01
-мил	ADJ	kind.a.01	sympathetic.a.04	kind.a.01	sympathetic.a.04
-голям	ADJ	large.a.01	major.a.02	large.a.01	major.a.02
-малък	ADJ	small.a.01	small.a.01
-законен	ADJ	legal.a.01	legal.a.01
-правен	ADJ	legal.a.01	legal.a.01
-юридически	ADJ	legal.a.01	legal.a.01
-незаконен	ADJ	illegal.a.01	illegal.a.01
-противозаконен	ADJ	illegal.a.01	illegal.a.01
-инакъв	ADJ	unlike.a.01	unlike.a.01
-нееднакъв	ADJ	unlike.a.01	unlike.a.01
-различен	ADJ	unlike.a.01	unlike.a.02	unlike.a.01	unlike.a.02
-подобен	ADJ	alike.a.01	alike.a.01
-сходен	ADJ	alike.a.01	alike.a.01
-ограничен	ADJ	limited.a.01	restricted.a.01	limited.a.01	restricted.a.01
-на_живо	ADJ	live.a.01	live.a.01
-логичен	ADJ	logical.a.01	reasonable.a.01	logical.a.01	reasonable.a.01
-логически	ADJ	logical.a.01	logical.a.01
-дълъг	ADJ	long.a.02	long.a.01	long.a.02	long.a.01
-къс	ADJ	short.a.02	short.a.01	short.a.02	short.a.01
-продължителен	ADJ	long.a.01	long.a.01
-кратък	ADJ	short.a.01	short.a.01
-непродължителен	ADJ	short.a.01	short.a.01
-широк	ADJ	loose.a.03	loose.a.03
-опънат	ADJ	tight.a.01	tense.a.03	tight.a.01	tense.a.03
-стегнат	ADJ	tight.a.01	tight.a.01
-загубен	ADJ	lost.a.01	lost.a.03	lost.a.01	lost.a.03
-изгубен	ADJ	lost.a.01	lost.a.03	lost.a.01	lost.a.03
-пропаднал	ADJ	lost.a.03	lost.a.03
-силен	ADJ	loud.a.01	intense.a.01	potent.a.03	powerful.a.01	violent.a.01	loud.a.01	intense.a.01	potent.a.03	powerful.a.01	violent.a.01
-късметлийски	ADJ	lucky.a.02	lucky.a.02
-важен	ADJ	major.a.02	significant.a.01	major.a.02	significant.a.01
-второстепенен	ADJ	minor.a.02	secondary.a.01	minor.a.02	secondary.a.01
-маловажен	ADJ	minor.a.02	minor.a.02
-незначителен	ADJ	minor.a.02	minor.a.02
-пълнолетен	ADJ	major.a.07	major.a.07
-женен	ADJ	married.a.01	married.a.01
-омъжена	ADJ	married.a.01	married.a.01
-неженен	ADJ	unmarried.a.01	unmarried.a.01
-неомъжена	ADJ	unmarried.a.01	unmarried.a.01
-женски	ADJ	womanly.a.01	womanly.a.01
-зрял	ADJ	mature.a.03	mature.a.03
-узрял	ADJ	ripe.a.01	ripe.a.01
-зелен	ADJ	green.a.03	green.a.03
-недозрял	ADJ	green.a.03	green.a.03
-незрял	ADJ	green.a.03	green.a.03
-сезонен	ADJ	seasonal.a.01	seasonal.a.01
-максимален	ADJ	maximal.a.01	maximal.a.01
-минимален	ADJ	minimal.a.01	minimal.a.01
-смислен	ADJ	meaningful.a.01	meaningful.a.01
-механичен	ADJ	mechanical.a.01	mechanical.a.01
-механически	ADJ	mechanical.a.01	mechanical.a.01
-музикален	ADJ	musical.a.02	musical.a.02
-граждански	ADJ	civilian.a.01	civilian.a.01
-цивилен	ADJ	civilian.a.01	civilian.a.01
-мобилен	ADJ	mobile.a.02	mobile.a.02
-подвижен	ADJ	mobile.a.02	mobile.a.02
-съвременен	ADJ	modern.a.01	modern.a.01
-скромен	ADJ	modest.a.04	modest.a.04
-молекулен	ADJ	molecular.a.02	molecular.a.02
-молекулярен	ADJ	molecular.a.02	molecular.a.02
-трогателен	ADJ	moving.a.02	moving.a.02
-международен	ADJ	international.a.01	international.a.01
-изкуствен	ADJ	artificial.a.01	artificial.a.01
-краен	ADJ	ultimate.a.01	ultimate.a.01
-последен	ADJ	ultimate.a.01	ultimate.a.01
-необходим	ADJ	necessary.a.01	necessary.a.01
-нужен	ADJ	necessary.a.01	necessary.a.01
-потребен	ADJ	necessary.a.01	necessary.a.01
-приятен	ADJ	nice.a.01	pleasant.a.01	nice.a.01	pleasant.a.01
-хубав	ADJ	nice.a.01	nice.a.01
-страшен	ADJ	nasty.a.01	nasty.a.01
-ужасен	ADJ	nasty.a.01	nasty.a.01
-възвишен	ADJ	noble.a.03	noble.a.03
-аристократичен	ADJ	noble.a.02	noble.a.02
-знатен	ADJ	noble.a.02	noble.a.02
-нормален	ADJ	normal.a.01	normal.a.01
-анормален	ADJ	abnormal.a.01	abnormal.a.01
-ненормален	ADJ	abnormal.a.01	abnormal.a.01
-необичаен	ADJ	abnormal.a.01	extraordinary.a.01	abnormal.a.01	extraordinary.a.01
-безпристрастен	ADJ	objective.a.01	objective.a.01
-обективен	ADJ	objective.a.01	objective.a.01
-субективен	ADJ	subjective.a.01	subjective.a.01
-очевиден	ADJ	obvious.a.01	obvious.a.01
-дразнещ	ADJ	offensive.a.05	offensive.a.05
-зловонен	ADJ	offensive.a.05	offensive.a.05
-отвратителен	ADJ	offensive.a.05	unpleasant.a.01	offensive.a.05	unpleasant.a.01
-официален	ADJ	official.a.01	official.a.01
-нов	ADJ	new.a.01	new.a.01
-възрастен	ADJ	old.a.01	old.a.01
-стар	ADJ	old.a.01	old.a.01
-затворен	ADJ	shut.a.01	shut.a.01
-отворен	ADJ	open.a.02	open.a.02
-противоположен	ADJ	opposed.a.01	opposed.a.01
-оптимистичен	ADJ	optimistic.a.01	optimistic.a.01
-устен	ADJ	oral.a.03	oral.a.03
-изключителен	ADJ	extraordinary.a.01	exclusive.a.02	extraordinary.a.01	exclusive.a.02
-необикновен	ADJ	extraordinary.a.01	extraordinary.a.01
-органичен	ADJ	organic.a.02	organic.a.02
-органически	ADJ	organic.a.02	organic.a.02
-самобитен	ADJ	original.a.03	original.a.03
-ортодоксален	ADJ	orthodox.a.02	orthodox.a.02
-правоверен	ADJ	orthodox.a.02	orthodox.a.02
-навън	ADJ	outdoor.a.01	outdoor.a.01
-на_открито	ADJ	outdoor.a.01	outdoor.a.01
-гол	ADJ	bare.a.04	bare.a.04
-непокрит	ADJ	bare.a.04	bare.a.04
-оголен	ADJ	bare.a.04	bare.a.04
-открит	ADJ	overt.a.01	overt.a.01
-явен	ADJ	overt.a.01	overt.a.01
-болезнен	ADJ	painful.a.01	painful.a.01
-мъчителен	ADJ	painful.a.01	painful.a.01
-паралелен	ADJ	parallel.a.01	parallel.a.01
-успореден	ADJ	parallel.a.01	parallel.a.01
-родителски	ADJ	parental.a.02	parental.a.02
-пламенен	ADJ	passionate.a.01	passionate.a.01
-страстен	ADJ	passionate.a.01	passionate.a.01
-изминал	ADJ	past.a.01	past.a.01
-изтекъл	ADJ	past.a.01	past.a.01
-минал	ADJ	past.a.01	past.a.01
-настоящ	ADJ	present.a.01	present.a.01
-сегашен	ADJ	present.a.01	present.a.01
-търпелив	ADJ	patient.a.01	patient.a.01
-мирен	ADJ	peaceful.a.01	quiet.a.01	peaceful.a.01	quiet.a.01
-спокоен	ADJ	peaceful.a.01	quiet.a.01	peaceful.a.01	quiet.a.01
-идеален	ADJ	perfect.a.01	perfect.a.01
-перфектен	ADJ	perfect.a.01	perfect.a.01
-съвършен	ADJ	perfect.a.01	perfect.a.01
-временен	ADJ	impermanent.a.01	impermanent.a.01
-упорит	ADJ	persistent.a.03	stubborn.a.01	persistent.a.03	stubborn.a.01
-личен	ADJ	personal.a.01	personal.a.01
-персонален	ADJ	personal.a.01	personal.a.01
-телесен	ADJ	physical.a.01	physical.a.01
-физически	ADJ	physical.a.01	physical.a.01
-религиозен	ADJ	religious.a.02	religious.a.02
-прост	ADJ	plain.a.02	plain.a.02
-политически	ADJ	political.a.01	political.a.01
-популярен	ADJ	popular.a.01	popular.a.01
-неутрален	ADJ	neutral.a.04	neutral.a.04
-отрицателен	ADJ	negative.a.05	negative.a.04	negative.a.05	negative.a.04
-позитивен	ADJ	positive.a.04	positive.a.04
-положителен	ADJ	positive.a.04	positive.a.04
-невъзможен	ADJ	impossible.a.01	impossible.a.01
-неизпълним	ADJ	impossible.a.01	impossible.a.01
-неосъществим	ADJ	impossible.a.01	impossible.a.01
-могъщ	ADJ	powerful.a.01	powerful.a.01
-влиятелен	ADJ	influential.a.01	influential.a.01
-практически	ADJ	practical.a.01	practical.a.01
-предсказуем	ADJ	predictable.a.01	predictable.a.01
-присъстващ	ADJ	present.a.02	present.a.02
-липсващ	ADJ	absent.a.01	absent.a.01
-отсъстващ	ADJ	absent.a.01	absent.a.01
-изходен	ADJ	primary.a.01	primary.a.01
-начален	ADJ	primary.a.01	primary.a.01
-първичен	ADJ	primary.a.01	primary.a.01
-първоначален	ADJ	primary.a.01	primary.a.01
-вторичен	ADJ	secondary.a.01	secondary.a.01
-базисен	ADJ	basic.a.01	basic.a.01
-обществен	ADJ	public.a.01	social.a.02	public.a.01	social.a.02
-привилегирован	ADJ	privileged.a.01	privileged.a.01
-продуктивен	ADJ	generative.a.01	generative.a.01
-производителен	ADJ	generative.a.01	generative.a.01
-прозорлив	ADJ	profound.a.01	profound.a.01
-проникновен	ADJ	profound.a.01	profound.a.01
-проницателен	ADJ	profound.a.01	profound.a.01
-напредничав	ADJ	progressive.a.01	progressive.a.01
-прогресивен	ADJ	progressive.a.01	progressive.a.01
-горд	ADJ	proud.a.01	proud.a.01
-непокварен	ADJ	pure.a.06	pure.a.06
-непорочен	ADJ	pure.a.06	pure.a.06
-квалифициран	ADJ	qualified.a.01	skilled.a.01	qualified.a.01	skilled.a.01
-безшумен	ADJ	quiet.a.02	quiet.a.02
-тих	ADJ	quiet.a.02	quiet.a.02
-шумен	ADJ	noisy.a.01	noisy.a.01
-случаен	ADJ	random.a.01	random.a.01
-рационален	ADJ	rational.a.01	rational.a.01
-емоционален	ADJ	emotional.a.01	emotional.a.01
-расов	ADJ	racial.a.02	racial.a.02
-готов	ADJ	ready.a.01	ready.a.01
-реалистичен	ADJ	realistic.a.01	realistic.a.01
-разумен	ADJ	reasonable.a.01	reasonable.a.01
-взаимен	ADJ	reciprocal.a.01	reciprocal.a.01
-необработен	ADJ	unrefined.a.01	unrefined.a.01
-непречистен	ADJ	unrefined.a.01	unrefined.a.01
-нерафиниран	ADJ	unrefined.a.01	unrefined.a.01
-редовен	ADJ	regular.a.01	regular.a.01
-еднакъв	ADJ	uniform.a.01	uniform.a.01
-сроден	ADJ	related.a.02	related.a.02
-свързан	ADJ	related.a.01	related.a.01
-релевантен	ADJ	relevant.a.01	relevant.a.01
-ирелевантен	ADJ	irrelevant.a.01	irrelevant.a.01
-показателен	ADJ	representative.a.02	representative.a.02
-представителен	ADJ	representative.a.02	representative.a.02
-типичен	ADJ	representative.a.02	typical.a.01	representative.a.02	typical.a.01
-порядъчен	ADJ	respectable.a.01	respectable.a.01
-уважаван	ADJ	respectable.a.01	respectable.a.01
-отговорен	ADJ	responsible.a.01	responsible.a.01
-революционен	ADJ	revolutionary.a.04	revolutionary.a.04
-богат	ADJ	rich.a.01	rich.a.01
-заможен	ADJ	rich.a.01	rich.a.01
-беден	ADJ	poor.a.03	poor.a.03
-ляв	ADJ	left.a.04	left.a.04
-неморален	ADJ	wrong.a.02	wrong.a.02
-кръгъл	ADJ	round.a.01	round.a.01
-квадратен	ADJ	square.a.01	square.a.01
-свещен	ADJ	holy.a.01	sacred.a.01	holy.a.01	sacred.a.01
-свят	ADJ	holy.a.01	sacred.a.01	holy.a.01	sacred.a.01
-безопасен	ADJ	safe.a.01	safe.a.01
-опасен	ADJ	dangerous.a.01	dangerous.a.01
-друг	ADJ	other.a.01	other.a.01
-задоволителен	ADJ	satisfactory.a.01	satisfactory.a.01
-научен	ADJ	scientific.a.02	scientific.a.02
-старши	ADJ	senior.a.01	senior.a.01
-младши	ADJ	junior.a.01	junior.a.01
-чувствителен	ADJ	sensitive.a.02	sensitive.a.02
-отделен	ADJ	separate.a.01	separate.a.01
-сериозен	ADJ	unplayful.a.01	unplayful.a.01
-местен	ADJ	resident.a.01	regional.a.01	resident.a.01	regional.a.01
-полов	ADJ	sexual.a.02	sexual.a.02
-сексуален	ADJ	sexual.a.02	sexual.a.02
-незрящ	ADJ	blind.a.01	blind.a.01
-сляп	ADJ	blind.a.01	blind.a.01
-комплексен	ADJ	complex.a.01	complex.a.01
-сложен	ADJ	complex.a.01	complex.a.01
-многоброен	ADJ	multiple.a.01	multiple.a.01
-многочислен	ADJ	multiple.a.01	multiple.a.01
-вербален	ADJ	verbal.a.04	verbal.a.04
-словесен	ADJ	verbal.a.04	verbal.a.04
-груб	ADJ	coarse.a.01	rough.a.01	coarse.a.01	rough.a.01
-ситен	ADJ	fine.a.05	fine.a.05
-плъзгав	ADJ	slippery.a.01	slippery.a.01
-хлъзгав	ADJ	slippery.a.01	slippery.a.01
-гладък	ADJ	smooth.a.01	smooth.a.01
-грапав	ADJ	rough.a.01	rough.a.01
-неравен	ADJ	rough.a.01	rough.a.01
-социален	ADJ	social.a.02	social.a.02
-стаден	ADJ	gregarious.a.01	gregarious.a.01
-течен	ADJ	liquid.a.01	liquid.a.01
-масивен	ADJ	solid.a.03	solid.a.03
-солиден	ADJ	solid.a.03	solid.a.03
-здрав	ADJ	sound.a.03	sound.a.03
-спонтанен	ADJ	spontaneous.a.01	spontaneous.a.01
-писмен	ADJ	written.a.01	written.a.01
-стабилен	ADJ	stable.a.01	steady.a.01	stable.a.01	steady.a.01
-устойчив	ADJ	stable.a.01	stable.a.01
-общоприет	ADJ	standard.a.01	standard.a.01
-стандартен	ADJ	standard.a.01	standard.a.01
-прав	ADJ	straight.a.08	straight.a.08
-инат	ADJ	stubborn.a.01	stubborn.a.01
-успешен	ADJ	successful.a.01	successful.a.01
-достатъчен	ADJ	sufficient.a.01	sufficient.a.01
-оскъден	ADJ	insufficient.a.01	insufficient.a.01
-висш	ADJ	superior.a.01	superior.a.01
-изненадан	ADJ	surprised.a.01	surprised.a.01
-изненадващ	ADJ	surprising.a.01	surprising.a.01
-сладък	ADJ	sweet.a.01	sweet.a.01
-кисел	ADJ	sour.a.02	sour.a.02
-симпатичн	ADJ	sympathetic.a.04	sympathetic.a.04
-методичен	ADJ	systematic.a.01	systematic.a.01
-систематичен	ADJ	systematic.a.01	systematic.a.01
-системен	ADJ	systematic.a.01	systematic.a.01
-див	ADJ	wild.a.02	wild.a.01	wild.a.02	wild.a.01
-бесен	ADJ	wild.a.01	violent.a.01	wild.a.01	violent.a.01
-буен	ADJ	wild.a.01	violent.a.01	wild.a.01	violent.a.01
-необуздан	ADJ	wild.a.01	wild.a.01
-вкусен	ADJ	tasty.a.01	tasty.a.01
-изпънат	ADJ	tense.a.03	tense.a.03
-обтегнат	ADJ	tense.a.03	tense.a.03
-напрегнат	ADJ	tense.a.01	tense.a.01
-гъст	ADJ	thick.a.03	thick.a.03
-подреден	ADJ	tidy.a.01	tidy.a.01
-спретнат	ADJ	tidy.a.01	tidy.a.01
-изморен	ADJ	tired.a.01	tired.a.01
-уморен	ADJ	tired.a.01	tired.a.01
-толерантен	ADJ	tolerant.a.01	tolerant.a.01
-крехък	ADJ	tender.a.05	tender.a.05
-жилав	ADJ	tough.a.03	tough.a.03
-издръжлив	ADJ	tough.a.03	tough.a.03
-як	ADJ	tough.a.03	tough.a.03
-любящ	ADJ	tender.a.01	tender.a.01
-отровен	ADJ	toxic.a.01	toxic.a.01
-токсичен	ADJ	toxic.a.01	toxic.a.01
-лъжлив	ADJ	false.a.01	false.a.01
-неверен	ADJ	false.a.01	false.a.01
-фалшив	ADJ	false.a.01	false.a.01
-безполезен	ADJ	useless.a.01	useless.a.01
-валиден	ADJ	valid.a.01	valid.a.01
-ценен	ADJ	valuable.a.01	valuable.a.01
-разнообразен	ADJ	varied.a.01	varied.a.01
-яростен	ADJ	violent.a.01	violent.a.01
-видим	ADJ	visible.a.01	visible.a.01
-невидим	ADJ	invisible.a.01	invisible.a.01
-доброволен	ADJ	voluntary.a.01	voluntary.a.01
-уязвим	ADJ	vulnerable.a.01	vulnerable.a.01
-прохладен	ADJ	cool.a.01	cool.a.01
-сърдечен	ADJ	warm.a.02	warm.a.02
-безразличен	ADJ	cool.a.04	cool.a.04
-равнодушен	ADJ	cool.a.04	cool.a.04
-добре_дошъл	ADJ	welcome.a.01	welcome.a.01
-добре	ADJ	well.a.01	well.a.01
-болен	ADJ	ill.a.01	ill.a.01
-измокрен	ADJ	wet.a.01	wet.a.01
-мокър	ADJ	wet.a.01	wet.a.01
-намокрен	ADJ	wet.a.01	wet.a.01
-сух	ADJ	dry.a.01	dry.a.01
-тесен	ADJ	narrow.a.01	narrow.a.01
-мъдър	ADJ	wise.a.01	wise.a.01
-безразсъден	ADJ	foolish.a.01	foolish.a.01
-неразумен	ADJ	foolish.a.01	foolish.a.01
-академичен	ADJ	academic.a.01	academic.a.01
-академически	ADJ	academic.a.01	academic.a.01
-археологичен	ADJ	archaeological.a.01	archaeological.a.01
-археологически	ADJ	archaeological.a.01	archaeological.a.01
-градски	ADJ	civic.a.01	urban.a.01	civic.a.01	urban.a.01
-общински	ADJ	municipal.a.01	municipal.a.01
-дигитален	ADJ	digital.a.01	digital.a.01
-цифров	ADJ	digital.a.01	digital.a.01
-драматичен	ADJ	dramatic.a.03	dramatic.a.03
-драматически	ADJ	dramatic.a.03	dramatic.a.03
-икономически	ADJ	economic.a.02	economic.a.02
-стопански	ADJ	economic.a.02	economic.a.02
-електронен	ADJ	electronic.a.01	electronic.a.01
-генетичен	ADJ	genetic.a.04	genetic.a.04
-човешки	ADJ	human.a.01	human.a.01
-имперски	ADJ	imperial.a.01	imperial.a.01
-съдебен	ADJ	judicial.a.03	judicial.a.03
-военен	ADJ	military.a.01	military.a.01
-земеделски	ADJ	agricultural.a.01	agricultural.a.01
-селскостопански	ADJ	agricultural.a.01	agricultural.a.01
-селски	ADJ	rural.a.02	rural.a.02
-слънчев	ADJ	solar.a.01	solar.a.01
-технически	ADJ	technical.a.01	technical.a.01
-урбанистичен	ADJ	urban.a.01	urban.a.01
-законодателен	ADJ	legislative.a.01	legislative.a.01
-литературен	ADJ	literary.a.01	literary.a.01
-професионален	ADJ	professional.a.04	vocational.a.01	occupational.a.01	professional.a.04	vocational.a.01	occupational.a.01
-пространствен	ADJ	spatial.a.01	spatial.a.01
-паричен	ADJ	fiscal.a.01	fiscal.a.01
-финансов	ADJ	fiscal.a.01	fiscal.a.01
-философски	ADJ	philosophic.a.01	philosophic.a.01
-визуален	ADJ	ocular.a.02	ocular.a.02
-зрителен	ADJ	ocular.a.02	ocular.a.02
-областен	ADJ	regional.a.01	regional.a.01
-районен	ADJ	regional.a.01	regional.a.01
-регионален	ADJ	regional.a.01	regional.a.01
-континентален	ADJ	continental.a.03	continental.a.03
-морски	ADJ	marine.a.01	marine.a.01
-структурен	ADJ	structural.a.02	structural.a.02
-мисловен	ADJ	mental.a.02	mental.a.02
-умствен	ADJ	mental.a.02	mental.a.02
-културен	ADJ	cultural.a.01	cultural.a.01
-нервен	ADJ	nervous.a.03	nervous.a.03
-геоложки	ADJ	geological.a.01	geological.a.01
-статистичен	ADJ	statistical.a.01	statistical.a.01
-статистически	ADJ	statistical.a.01	statistical.a.01
-домашен	ADJ	domestic.a.02	domestic.a.02
-семеен	ADJ	domestic.a.02	domestic.a.02
-исторически	ADJ	historical.a.01	historical.a.01
-магнитен	ADJ	magnetic.a.01	magnetic.a.01
-тропичен	ADJ	tropical.a.02	tropical.a.02
-тропически	ADJ	tropical.a.02	tropical.a.02
-математически	ADJ	mathematical.a.01	mathematical.a.01
-експериментален	ADJ	experimental.a.01	experimental.a.01
-пробен	ADJ	experimental.a.01	experimental.a.01
-природен	ADJ	environmental.a.01	environmental.a.01
-образователен	ADJ	educational.a.01	educational.a.01
-педагогически	ADJ	educational.a.01	educational.a.01
-стратегически	ADJ	strategic.a.01	strategic.a.01
-количествен	ADJ	quantitative.a.02	quantitative.a.02
-президентски	ADJ	presidential.a.01	presidential.a.01
-корпоративен	ADJ	corporate.a.01	corporate.a.01
-национален	ADJ	national.a.01	national.a.01
-средновековен	ADJ	medieval.a.01	medieval.a.01
-артистичен	ADJ	artistic.a.01	artistic.a.01
-художествен	ADJ	artistic.a.01	artistic.a.01
-оперативен	ADJ	operational.a.01	operational.a.01
-бюрократичен	ADJ	bureaucratic.a.01	bureaucratic.a.01
-жилищен	ADJ	residential.a.02	residential.a.02
+абсолютен	ADJ	absolute.a.01
+относителен	ADJ	relative.a.01
+сравнителен	ADJ	relative.a.01
+абстрактен	ADJ	abstract.a.01
+отвлечен	ADJ	abstract.a.01
+действителен	ADJ	concrete.a.01	real.a.01
+конкретен	ADJ	concrete.a.01
+реален	ADJ	concrete.a.01	real.a.01
+изобилен	ADJ	abundant.a.01
+допустим	ADJ	acceptable.a.01	expected.a.01	probable.a.01
+приемлив	ADJ	acceptable.a.01
+достъпен	ADJ	accessible.a.01	available.a.01
+точен	ADJ	accurate.a.01	definite.a.01	exact.a.01	precise.a.01
+активен	ADJ	active.a.05	dynamic.a.01
+деен	ADJ	active.a.05
+бездеен	ADJ	passive.a.01
+безучастен	ADJ	passive.a.01	cool.a.04
+пасивен	ADJ	passive.a.01
+възможен	ADJ	potential.a.01	expected.a.01	probable.a.01
+остър	ADJ	acute.a.01	sharp.a.09
+хроничен	ADJ	chronic.a.01
+хронически	ADJ	chronic.a.01
+зависим	ADJ	addicted.a.01	dependent.a.01
+пристрастен	ADJ	addicted.a.01
+адекватен	ADJ	adequate.a.01
+недостатъчен	ADJ	inadequate.a.01	insufficient.a.01
+незадоволителен	ADJ	inadequate.a.01
+естетичен	ADJ	aesthetic.a.02
+естетически	ADJ	aesthetic.a.02
+изплашен	ADJ	afraid.a.01
+уплашен	ADJ	afraid.a.01
+агресивен	ADJ	aggressive.a.01
+враждебен	ADJ	aggressive.a.01	hostile.a.01
+нападателен	ADJ	aggressive.a.01	offensive.a.02
+бдителен	ADJ	alert.a.01
+нащрек	ADJ	alert.a.01
+жив	ADJ	alive.a.01
+амбициозен	ADJ	ambitious.a.01
+гневен	ADJ	angry.a.01
+сърдит	ADJ	angry.a.01
+ядосан	ADJ	angry.a.01
+анонимен	ADJ	anonymous.a.01
+последващ	ADJ	subsequent.a.01
+следващ	ADJ	subsequent.a.01
+подходящ	ADJ	appropriate.a.01	eligible.a.01	proper.a.01	relevant.a.01
+неподходящ	ADJ	inappropriate.a.01	irrelevant.a.01
+неуместен	ADJ	inappropriate.a.01	irrelevant.a.01
+дължим	ADJ	due.a.01
+засрамен	ADJ	ashamed.a.01
+отстояващ	ADJ	assertive.a.01
+самоуверен	ADJ	assertive.a.01
+привлекателен	ADJ	attractive.a.01
+бременен	ADJ	pregnant.a.01
+автоматизиран	ADJ	automatic.a.01
+автоматичен	ADJ	automatic.a.01
+автоматически	ADJ	automatic.a.01
+ръчен	ADJ	manual.a.02
+наличен	ADJ	available.a.01
+буден	ADJ	awake.a.01
+заспал	ADJ	asleep.a.01
+преден	ADJ	forward.a.01
+красив	ADJ	beautiful.a.01
+грозен	ADJ	ugly.a.01
+неприятен	ADJ	ugly.a.01	offensive.a.05	unpleasant.a.01
+противен	ADJ	ugly.a.01	offensive.a.05	unpleasant.a.01
+бял	ADJ	white.a.02	white.a.01
+рус	ADJ	blond.a.01
+кървав	ADJ	bloody.a.01
+окървавен	ADJ	bloody.a.01
+безстрашен	ADJ	bold.a.01
+смел	ADJ	bold.a.01	brave.a.01
+храбър	ADJ	bold.a.01	brave.a.01
+средна_класа	ADJ	middle-class.a.01
+светъл	ADJ	light.a.06	light.a.02
+тъмен	ADJ	dark.a.01
+посредствен	ADJ	narrow-minded.a.02
+тесногръд	ADJ	narrow-minded.a.02
+счупен	ADJ	broken.a.01
+ангажиран	ADJ	busy.a.01
+зает	ADJ	busy.a.01
+социалистически	ADJ	socialistic.a.01
+способен	ADJ	capable.a.01	talented.a.01
+внимателен	ADJ	careful.a.01	cautious.a.01
+предпазлив	ADJ	careful.a.01	cautious.a.01
+централен	ADJ	central.a.02
+сигурен	ADJ	certain.a.02	confident.a.01	reliable.a.01	safe.a.01
+уверен	ADJ	certain.a.02	confident.a.01
+неизбежен	ADJ	inevitable.a.01
+неминуем	ADJ	inevitable.a.01
+отличителен	ADJ	characteristic.a.01	representative.a.02
+характерен	ADJ	characteristic.a.01	representative.a.02
+бодър	ADJ	cheerful.a.01
+весел	ADJ	cheerful.a.01
+черен	ADJ	black.a.01
+цветен	ADJ	colorful.a.01
+класически	ADJ	classical.a.01
+чист	ADJ	clean.a.01	pure.a.06	pure.a.01
+замърсен	ADJ	dirty.a.01
+изцапан	ADJ	dirty.a.01
+мръсен	ADJ	dirty.a.01	dirty.a.02
+нечист	ADJ	dirty.a.01
+неприличен	ADJ	dirty.a.02
+нецензурен	ADJ	dirty.a.02
+интелигентен	ADJ	smart.a.01
+умен	ADJ	smart.a.01	wise.a.01
+глупав	ADJ	stupid.a.01	foolish.a.01
+тъп	ADJ	stupid.a.01	dull.a.09
+далечен	ADJ	far.a.01	distant.a.01
+отдалечен	ADJ	far.a.01	distant.a.01
+близък	ADJ	near.a.01	close.a.02	related.a.02
+недалечен	ADJ	near.a.01
+съседен	ADJ	near.a.01
+безоблачен	ADJ	clear.a.11
+ясен	ADJ	clear.a.11	well-defined.a.02	definite.a.01	obvious.a.01
+комфортен	ADJ	comfortable.a.01
+удобен	ADJ	comfortable.a.01	convenient.a.01
+неудобен	ADJ	uncomfortable.a.01
+рекламен	ADJ	commercial.a.01
+обикновен	ADJ	common.a.02	usual.a.01	ordinary.a.01	plain.a.02
+обичаен	ADJ	usual.a.01
+общ	ADJ	common.a.01	general.a.01	joint.a.01
+публичен	ADJ	common.a.01	public.a.01
+сравним	ADJ	comparable.a.01
+сравняем	ADJ	comparable.a.01
+съвместим	ADJ	compatible.a.01	consistent.a.01
+компетентен	ADJ	competent.a.01	qualified.a.01
+осведомен	ADJ	competent.a.01	mindful.a.01
+подготвен	ADJ	competent.a.01	qualified.a.01	skilled.a.01
+конкурентен	ADJ	competitive.a.01
+цял	ADJ	whole.a.01
+пълен	ADJ	complete.a.01	comprehensive.a.01	fat.a.01	full.a.01
+всестранен	ADJ	comprehensive.a.01
+обстоен	ADJ	comprehensive.a.01
+обширен	ADJ	comprehensive.a.01
+подробен	ADJ	comprehensive.a.01
+нелеп	ADJ	incongruous.a.01
+съзнателен	ADJ	conscious.a.02
+консервативен	ADJ	conservative.a.01
+либерален	ADJ	liberal.a.03
+константен	ADJ	constant.a.02
+неизменен	ADJ	constant.a.02
+постоянен	ADJ	constant.a.02	permanent.a.01	steady.a.01
+градивен	ADJ	constructive.a.01
+конструктивен	ADJ	constructive.a.01
+съзидателен	ADJ	constructive.a.01
+творчески	ADJ	constructive.a.01
+доволен	ADJ	contented.a.01	glad.a.01
+задоволен	ADJ	contented.a.01
+непрекъснат	ADJ	continuous.a.01
+непрестанен	ADJ	continuous.a.01
+неспирен	ADJ	continuous.a.01
+дискусионен	ADJ	controversial.a.01
+полемичен	ADJ	controversial.a.01
+спорен	ADJ	controversial.a.01
+конвенционален	ADJ	conventional.a.01
+традиционен	ADJ	conventional.a.01	traditional.a.01
+ядрен	ADJ	nuclear.a.01
+суров	ADJ	raw.a.03	unrefined.a.01
+съвместен	ADJ	cooperative.a.02	synergistic.a.01	joint.a.01
+значителен	ADJ	considerable.a.01	major.a.02	significant.a.01
+верен	ADJ	correct.a.01	faithful.a.03	loyal.a.01	true.a.01
+правилен	ADJ	correct.a.01	proper.a.01
+грешен	ADJ	wrong.a.05
+погрешен	ADJ	wrong.a.05
+сбъркан	ADJ	wrong.a.05
+провинциален	ADJ	provincial.a.02	rural.a.02
+вежлив	ADJ	polite.a.01
+любезен	ADJ	polite.a.01	kind.a.01
+учтив	ADJ	polite.a.01	kind.a.01
+невероятен	ADJ	incredible.a.01	improbable.a.01
+неправдоподобен	ADJ	incredible.a.01
+критичен	ADJ	critical.a.01	critical.a.06
+критически	ADJ	critical.a.01	critical.a.06
+линеен	ADJ	linear.a.02
+любопитен	ADJ	curious.a.02
+актуален	ADJ	current.a.01
+текущ	ADJ	current.a.01
+глух	ADJ	deaf.a.01
+решаващ	ADJ	decisive.a.01	ultimate.a.01
+решителен	ADJ	decisive.a.01
+дълбок	ADJ	deep.a.03	profound.a.01
+плитък	ADJ	shallow.a.01
+неопределен	ADJ	undefined.a.01	neutral.a.04
+неясен	ADJ	undefined.a.01
+понятен	ADJ	well-defined.a.02
+разбираем	ADJ	well-defined.a.02
+определен	ADJ	definite.a.01	specified.a.01
+деликатен	ADJ	delicate.a.01
+изтънчен	ADJ	delicate.a.01	elegant.a.01	sophisticated.a.01
+изящен	ADJ	delicate.a.01	elegant.a.01
+нежен	ADJ	delicate.a.01	soft.a.03	tender.a.01
+фин	ADJ	delicate.a.01	fine.a.05
+демократичен	ADJ	democratic.a.01
+произволен	ADJ	arbitrary.a.01	random.a.01
+изпитан	ADJ	reliable.a.01
+надежден	ADJ	reliable.a.01
+зависещ	ADJ	dependent.a.01
+независим	ADJ	independent.a.01
+самостоятелен	ADJ	independent.a.01	separate.a.01
+свободен	ADJ	independent.a.01	free.a.01	loose.a.03	open.a.02
+желан	ADJ	desirable.a.01	welcome.a.01
+желателен	ADJ	desirable.a.01
+търсен	ADJ	desirable.a.01
+мъчен	ADJ	difficult.a.01
+труден	ADJ	difficult.a.01	tough.a.01
+лесен	ADJ	easy.a.01	soft.a.06
+дипломатичен	ADJ	diplomatic.a.02
+дипломатически	ADJ	diplomatic.a.02
+директен	ADJ	direct.a.01
+пряк	ADJ	direct.a.01
+индиректен	ADJ	indirect.a.04
+косвен	ADJ	indirect.a.04	implicit.a.01
+непряк	ADJ	indirect.a.04	implicit.a.01
+дискретен	ADJ	discreet.a.01
+сдържан	ADJ	discreet.a.01
+особен	ADJ	distinct.a.02
+отчетлив	ADJ	distinct.a.02
+господстващ	ADJ	dominant.a.01
+доминиращ	ADJ	dominant.a.01
+оживен	ADJ	lively.a.01
+отегчителен	ADJ	dull.a.01
+скучен	ADJ	dull.a.01
+действен	ADJ	dynamic.a.01	operational.a.01
+динамичен	ADJ	dynamic.a.01
+енергичен	ADJ	dynamic.a.01
+нетърпелив	ADJ	eager.a.01
+ранен	ADJ	early.a.01
+несигурен	ADJ	uneasy.a.01
+неспокоен	ADJ	uneasy.a.01
+притеснен	ADJ	uneasy.a.01
+ефективен	ADJ	effective.a.01
+ефикасен	ADJ	effective.a.01	efficient.a.01
+резултатен	ADJ	efficient.a.01
+незадължителен	ADJ	optional.a.01
+факултативен	ADJ	optional.a.01
+елегантен	ADJ	elegant.a.01
+изискан	ADJ	elegant.a.01	sophisticated.a.01
+емпиричен	ADJ	empirical.a.01
+опитен	ADJ	empirical.a.01	experienced.a.01	skilled.a.01	experimental.a.01
+приложен	ADJ	applied.a.01
+безработен	ADJ	unemployed.a.01
+насърчителен	ADJ	encouraging.a.01
+обнадеждаващ	ADJ	encouraging.a.01
+окуражителен	ADJ	encouraging.a.01
+ентусиазиран	ADJ	enthusiastic.a.01
+балансиран	ADJ	balanced.a.01
+уравновесен	ADJ	balanced.a.01
+двузначен	ADJ	equivocal.a.01
+двусмислен	ADJ	equivocal.a.01
+многозначен	ADJ	equivocal.a.01
+основен	ADJ	essential.a.02	primary.a.01	basic.a.01
+съществен	ADJ	essential.a.02
+етичен	ADJ	ethical.a.02
+морален	ADJ	ethical.a.02
+нравствен	ADJ	ethical.a.02
+равен	ADJ	even.a.03	smooth.a.01
+равномерен	ADJ	even.a.03
+четен	ADJ	even.a.01
+нечетен	ADJ	odd.a.01
+възбуден	ADJ	excited.a.02
+вълнуващ	ADJ	exciting.a.01	moving.a.02
+изчезнал	ADJ	extinct.a.01
+вероятен	ADJ	expected.a.01	probable.a.01
+очакван	ADJ	expected.a.01
+ненадеен	ADJ	unexpected.a.01	sudden.a.01	surprising.a.01
+неочакван	ADJ	unexpected.a.01	sudden.a.01	surprising.a.01
+непредвиден	ADJ	unexpected.a.01
+скъп	ADJ	expensive.a.01	valuable.a.01
+евтин	ADJ	cheap.a.01
+безусловен	ADJ	explicit.a.01
+изричен	ADJ	explicit.a.01
+категоричен	ADJ	explicit.a.01
+външен	ADJ	external.a.01	outer.a.01
+вътрешен	ADJ	internal.a.01	inner.a.02	domestic.a.01	indoor.a.01
+справедлив	ADJ	equitable.a.01	objective.a.01
+предан	ADJ	faithful.a.03	loyal.a.01
+лоялен	ADJ	loyal.a.01	straight.a.06
+известен	ADJ	familiar.a.01
+познат	ADJ	familiar.a.01
+странен	ADJ	strange.a.01
+модерен	ADJ	stylish.a.01	modern.a.01
+бавен	ADJ	slow.a.01
+муден	ADJ	slow.a.01
+бърз	ADJ	fast.a.03
+взискателен	ADJ	fastidious.a.01	nonindulgent.a.01
+капризен	ADJ	fastidious.a.01
+претенциозен	ADJ	fastidious.a.01
+придирчив	ADJ	fastidious.a.01
+дебел	ADJ	fat.a.01	thick.a.01
+слаб	ADJ	thin.a.02	weak.a.01
+тънък	ADJ	thin.a.02
+благоприятен	ADJ	favorable.a.01
+завършен	ADJ	finished.a.02
+безбрежен	ADJ	infinite.a.01
+безграничен	ADJ	infinite.a.01
+безкраен	ADJ	infinite.a.01
+безпределен	ADJ	infinite.a.01
+пръв	ADJ	first.a.01
+първи	ADJ	first.a.01
+междинен	ADJ	intermediate.a.01
+среден	ADJ	intermediate.a.01
+гъвкав	ADJ	flexible.a.02
+роден	ADJ	native.a.02
+неофициален	ADJ	informal.a.01
+неформален	ADJ	informal.a.01
+книжовен	ADJ	formal.a.03
+злочест	ADJ	unfortunate.a.01
+нещастен	ADJ	unfortunate.a.01
+ароматен	ADJ	fragrant.a.01
+ароматичен	ADJ	fragrant.a.01
+благоуханен	ADJ	fragrant.a.01
+чест	ADJ	frequent.a.01
+пресен	ADJ	fresh.a.01
+свеж	ADJ	fresh.a.01
+дружески	ADJ	friendly.a.01
+приятелски	ADJ	friendly.a.01
+празен	ADJ	empty.a.01
+пълен_работен_ден	ADJ	full-time.a.01
+непълен_работен_ден	ADJ	part-time.a.01
+функционален	ADJ	functional.a.01
+установен	ADJ	specified.a.01	established.a.01	standard.a.01
+уточнен	ADJ	specified.a.01
+генерален	ADJ	general.a.01
+федерален	ADJ	federal.a.04
+благороден	ADJ	generous.a.02	noble.a.03	noble.a.02
+великодушен	ADJ	generous.a.02
+щедър	ADJ	generous.a.02
+автентичен	ADJ	genuine.a.01
+истински	ADJ	genuine.a.01	real.a.01	true.a.01
+оригинален	ADJ	genuine.a.01	original.a.03
+даровит	ADJ	talented.a.01
+надарен	ADJ	talented.a.01
+талантлив	ADJ	talented.a.01
+знаменит	ADJ	glorious.a.01
+прочут	ADJ	glorious.a.01
+славен	ADJ	glorious.a.01
+неловък	ADJ	awkward.a.02
+непохватен	ADJ	awkward.a.02
+несръчен	ADJ	awkward.a.02
+тромав	ADJ	awkward.a.02
+постепенен	ADJ	gradual.a.01
+внезапен	ADJ	sudden.a.01
+стръмен	ADJ	steep.a.01
+благодарен	ADJ	grateful.a.01
+признателен	ADJ	grateful.a.01
+радостен	ADJ	happy.a.01	glad.a.01
+щастлив	ADJ	happy.a.01	glad.a.01	lucky.a.02
+корав	ADJ	hard.a.03
+твърд	ADJ	hard.a.03	solid.a.02
+мек	ADJ	soft.a.01
+тежък	ADJ	heavy.a.01	tough.a.01
+лек	ADJ	light.a.01	mild.a.01
+полезен	ADJ	helpful.a.01	useful.a.01
+хомосексуален	ADJ	homosexual.a.01
+нисък	ADJ	low.a.02
+висок	ADJ	high.a.01	loud.a.01	tall.a.01
+почтен	ADJ	honest.a.01	respectable.a.01	straight.a.06
+честен	ADJ	honest.a.01	straight.a.06
+хоризонтален	ADJ	horizontal.a.01
+вертикален	ADJ	vertical.a.01
+отвесен	ADJ	vertical.a.01
+неприятелски	ADJ	hostile.a.01
+горещ	ADJ	hot.a.01	hot.a.03
+топъл	ADJ	hot.a.01	warm.a.01	warm.a.02
+студен	ADJ	cold.a.01	cold.a.02
+хладен	ADJ	cold.a.01	cool.a.01	cool.a.04
+недружелюбен	ADJ	cold.a.02
+гладен	ADJ	hungry.a.01
+жаден	ADJ	thirsty.a.02
+внушителен	ADJ	impressive.a.01
+впечатляващ	ADJ	impressive.a.01
+строг	ADJ	nonindulgent.a.01
+индустриален	ADJ	industrial.a.02
+промишлен	ADJ	industrial.a.02
+невинен	ADJ	innocent.a.01	pure.a.06
+интегриран	ADJ	integrated.a.03
+занимателен	ADJ	interesting.a.01
+интересен	ADJ	interesting.a.01
+увлекателен	ADJ	interesting.a.01
+натъжен	ADJ	sad.a.01
+опечален	ADJ	sad.a.01
+печален	ADJ	sad.a.01
+скръбен	ADJ	sad.a.01
+тъжен	ADJ	sad.a.01
+мил	ADJ	kind.a.01	sympathetic.a.04
+голям	ADJ	large.a.01	major.a.02
+малък	ADJ	small.a.01
+законен	ADJ	legal.a.01
+правен	ADJ	legal.a.01
+юридически	ADJ	legal.a.01
+незаконен	ADJ	illegal.a.01
+противозаконен	ADJ	illegal.a.01
+инакъв	ADJ	unlike.a.01
+нееднакъв	ADJ	unlike.a.01
+различен	ADJ	unlike.a.01	unlike.a.02
+подобен	ADJ	alike.a.01
+сходен	ADJ	alike.a.01
+ограничен	ADJ	limited.a.01	restricted.a.01
+на_живо	ADJ	live.a.01
+логичен	ADJ	logical.a.01	reasonable.a.01
+логически	ADJ	logical.a.01
+дълъг	ADJ	long.a.02	long.a.01
+къс	ADJ	short.a.02	short.a.01
+продължителен	ADJ	long.a.01
+кратък	ADJ	short.a.01
+непродължителен	ADJ	short.a.01
+широк	ADJ	loose.a.03
+опънат	ADJ	tight.a.01	tense.a.03
+стегнат	ADJ	tight.a.01
+загубен	ADJ	lost.a.01	lost.a.03
+изгубен	ADJ	lost.a.01	lost.a.03
+пропаднал	ADJ	lost.a.03
+силен	ADJ	loud.a.01	intense.a.01	potent.a.03	powerful.a.01	violent.a.01
+късметлийски	ADJ	lucky.a.02
+важен	ADJ	major.a.02	significant.a.01
+второстепенен	ADJ	minor.a.02	secondary.a.01
+маловажен	ADJ	minor.a.02
+незначителен	ADJ	minor.a.02
+пълнолетен	ADJ	major.a.07
+женен	ADJ	married.a.01
+омъжена	ADJ	married.a.01
+неженен	ADJ	unmarried.a.01
+неомъжена	ADJ	unmarried.a.01
+женски	ADJ	womanly.a.01
+зрял	ADJ	mature.a.03
+узрял	ADJ	ripe.a.01
+зелен	ADJ	green.a.03
+недозрял	ADJ	green.a.03
+незрял	ADJ	green.a.03
+сезонен	ADJ	seasonal.a.01
+максимален	ADJ	maximal.a.01
+минимален	ADJ	minimal.a.01
+смислен	ADJ	meaningful.a.01
+механичен	ADJ	mechanical.a.01
+механически	ADJ	mechanical.a.01
+музикален	ADJ	musical.a.02
+граждански	ADJ	civilian.a.01
+цивилен	ADJ	civilian.a.01
+мобилен	ADJ	mobile.a.02
+подвижен	ADJ	mobile.a.02
+съвременен	ADJ	modern.a.01
+скромен	ADJ	modest.a.04
+молекулен	ADJ	molecular.a.02
+молекулярен	ADJ	molecular.a.02
+трогателен	ADJ	moving.a.02
+международен	ADJ	international.a.01
+изкуствен	ADJ	artificial.a.01
+краен	ADJ	ultimate.a.01
+последен	ADJ	ultimate.a.01
+необходим	ADJ	necessary.a.01
+нужен	ADJ	necessary.a.01
+потребен	ADJ	necessary.a.01
+приятен	ADJ	nice.a.01	pleasant.a.01
+хубав	ADJ	nice.a.01
+страшен	ADJ	nasty.a.01
+ужасен	ADJ	nasty.a.01
+възвишен	ADJ	noble.a.03
+аристократичен	ADJ	noble.a.02
+знатен	ADJ	noble.a.02
+нормален	ADJ	normal.a.01
+анормален	ADJ	abnormal.a.01
+ненормален	ADJ	abnormal.a.01
+необичаен	ADJ	abnormal.a.01	extraordinary.a.01
+безпристрастен	ADJ	objective.a.01
+обективен	ADJ	objective.a.01
+субективен	ADJ	subjective.a.01
+очевиден	ADJ	obvious.a.01
+дразнещ	ADJ	offensive.a.05
+зловонен	ADJ	offensive.a.05
+отвратителен	ADJ	offensive.a.05	unpleasant.a.01
+официален	ADJ	official.a.01
+нов	ADJ	new.a.01
+възрастен	ADJ	old.a.01
+стар	ADJ	old.a.01
+затворен	ADJ	shut.a.01
+отворен	ADJ	open.a.02
+противоположен	ADJ	opposed.a.01
+оптимистичен	ADJ	optimistic.a.01
+устен	ADJ	oral.a.03
+изключителен	ADJ	extraordinary.a.01	exclusive.a.02
+необикновен	ADJ	extraordinary.a.01
+органичен	ADJ	organic.a.02
+органически	ADJ	organic.a.02
+самобитен	ADJ	original.a.03
+ортодоксален	ADJ	orthodox.a.02
+правоверен	ADJ	orthodox.a.02
+навън	ADJ	outdoor.a.01
+на_открито	ADJ	outdoor.a.01
+гол	ADJ	bare.a.04
+непокрит	ADJ	bare.a.04
+оголен	ADJ	bare.a.04
+открит	ADJ	overt.a.01
+явен	ADJ	overt.a.01
+болезнен	ADJ	painful.a.01
+мъчителен	ADJ	painful.a.01
+паралелен	ADJ	parallel.a.01
+успореден	ADJ	parallel.a.01
+родителски	ADJ	parental.a.02
+пламенен	ADJ	passionate.a.01
+страстен	ADJ	passionate.a.01
+изминал	ADJ	past.a.01
+изтекъл	ADJ	past.a.01
+минал	ADJ	past.a.01
+настоящ	ADJ	present.a.01
+сегашен	ADJ	present.a.01
+търпелив	ADJ	patient.a.01
+мирен	ADJ	peaceful.a.01	quiet.a.01
+спокоен	ADJ	peaceful.a.01	quiet.a.01
+идеален	ADJ	perfect.a.01
+перфектен	ADJ	perfect.a.01
+съвършен	ADJ	perfect.a.01
+временен	ADJ	impermanent.a.01
+упорит	ADJ	persistent.a.03	stubborn.a.01
+личен	ADJ	personal.a.01
+персонален	ADJ	personal.a.01
+телесен	ADJ	physical.a.01
+физически	ADJ	physical.a.01
+религиозен	ADJ	religious.a.02
+прост	ADJ	plain.a.02
+политически	ADJ	political.a.01
+популярен	ADJ	popular.a.01
+неутрален	ADJ	neutral.a.04
+отрицателен	ADJ	negative.a.05	negative.a.04
+позитивен	ADJ	positive.a.04
+положителен	ADJ	positive.a.04
+невъзможен	ADJ	impossible.a.01
+неизпълним	ADJ	impossible.a.01
+неосъществим	ADJ	impossible.a.01
+могъщ	ADJ	powerful.a.01
+влиятелен	ADJ	influential.a.01
+практически	ADJ	practical.a.01
+предсказуем	ADJ	predictable.a.01
+присъстващ	ADJ	present.a.02
+липсващ	ADJ	absent.a.01
+отсъстващ	ADJ	absent.a.01
+изходен	ADJ	primary.a.01
+начален	ADJ	primary.a.01
+първичен	ADJ	primary.a.01
+първоначален	ADJ	primary.a.01
+вторичен	ADJ	secondary.a.01
+базисен	ADJ	basic.a.01
+обществен	ADJ	public.a.01	social.a.02
+привилегирован	ADJ	privileged.a.01
+продуктивен	ADJ	generative.a.01
+производителен	ADJ	generative.a.01
+прозорлив	ADJ	profound.a.01
+проникновен	ADJ	profound.a.01
+проницателен	ADJ	profound.a.01
+напредничав	ADJ	progressive.a.01
+прогресивен	ADJ	progressive.a.01
+горд	ADJ	proud.a.01
+непокварен	ADJ	pure.a.06
+непорочен	ADJ	pure.a.06
+квалифициран	ADJ	qualified.a.01	skilled.a.01
+безшумен	ADJ	quiet.a.02
+тих	ADJ	quiet.a.02
+шумен	ADJ	noisy.a.01
+случаен	ADJ	random.a.01
+рационален	ADJ	rational.a.01
+емоционален	ADJ	emotional.a.01
+расов	ADJ	racial.a.02
+готов	ADJ	ready.a.01
+реалистичен	ADJ	realistic.a.01
+разумен	ADJ	reasonable.a.01
+взаимен	ADJ	reciprocal.a.01
+необработен	ADJ	unrefined.a.01
+непречистен	ADJ	unrefined.a.01
+нерафиниран	ADJ	unrefined.a.01
+редовен	ADJ	regular.a.01
+еднакъв	ADJ	uniform.a.01
+сроден	ADJ	related.a.02
+свързан	ADJ	related.a.01
+релевантен	ADJ	relevant.a.01
+ирелевантен	ADJ	irrelevant.a.01
+показателен	ADJ	representative.a.02
+представителен	ADJ	representative.a.02
+типичен	ADJ	representative.a.02	typical.a.01
+порядъчен	ADJ	respectable.a.01
+уважаван	ADJ	respectable.a.01
+отговорен	ADJ	responsible.a.01
+революционен	ADJ	revolutionary.a.04
+богат	ADJ	rich.a.01
+заможен	ADJ	rich.a.01
+беден	ADJ	poor.a.03
+ляв	ADJ	left.a.04
+неморален	ADJ	wrong.a.02
+кръгъл	ADJ	round.a.01
+квадратен	ADJ	square.a.01
+свещен	ADJ	holy.a.01	sacred.a.01
+свят	ADJ	holy.a.01	sacred.a.01
+безопасен	ADJ	safe.a.01
+опасен	ADJ	dangerous.a.01
+друг	ADJ	other.a.01
+задоволителен	ADJ	satisfactory.a.01
+научен	ADJ	scientific.a.02
+старши	ADJ	senior.a.01
+младши	ADJ	junior.a.01
+чувствителен	ADJ	sensitive.a.02
+отделен	ADJ	separate.a.01
+сериозен	ADJ	unplayful.a.01
+местен	ADJ	resident.a.01	regional.a.01
+полов	ADJ	sexual.a.02
+сексуален	ADJ	sexual.a.02
+незрящ	ADJ	blind.a.01
+сляп	ADJ	blind.a.01
+комплексен	ADJ	complex.a.01
+сложен	ADJ	complex.a.01
+многоброен	ADJ	multiple.a.01
+многочислен	ADJ	multiple.a.01
+вербален	ADJ	verbal.a.04
+словесен	ADJ	verbal.a.04
+груб	ADJ	coarse.a.01	rough.a.01
+ситен	ADJ	fine.a.05
+плъзгав	ADJ	slippery.a.01
+хлъзгав	ADJ	slippery.a.01
+гладък	ADJ	smooth.a.01
+грапав	ADJ	rough.a.01
+неравен	ADJ	rough.a.01
+социален	ADJ	social.a.02
+стаден	ADJ	gregarious.a.01
+течен	ADJ	liquid.a.01
+масивен	ADJ	solid.a.03
+солиден	ADJ	solid.a.03
+здрав	ADJ	sound.a.03
+спонтанен	ADJ	spontaneous.a.01
+писмен	ADJ	written.a.01
+стабилен	ADJ	stable.a.01	steady.a.01
+устойчив	ADJ	stable.a.01
+общоприет	ADJ	standard.a.01
+стандартен	ADJ	standard.a.01
+прав	ADJ	straight.a.08
+инат	ADJ	stubborn.a.01
+успешен	ADJ	successful.a.01
+достатъчен	ADJ	sufficient.a.01
+оскъден	ADJ	insufficient.a.01
+висш	ADJ	superior.a.01
+изненадан	ADJ	surprised.a.01
+изненадващ	ADJ	surprising.a.01
+сладък	ADJ	sweet.a.01
+кисел	ADJ	sour.a.02
+симпатичн	ADJ	sympathetic.a.04
+методичен	ADJ	systematic.a.01
+систематичен	ADJ	systematic.a.01
+системен	ADJ	systematic.a.01
+див	ADJ	wild.a.02	wild.a.01
+бесен	ADJ	wild.a.01	violent.a.01
+буен	ADJ	wild.a.01	violent.a.01
+необуздан	ADJ	wild.a.01
+вкусен	ADJ	tasty.a.01
+изпънат	ADJ	tense.a.03
+обтегнат	ADJ	tense.a.03
+напрегнат	ADJ	tense.a.01
+гъст	ADJ	thick.a.03
+подреден	ADJ	tidy.a.01
+спретнат	ADJ	tidy.a.01
+изморен	ADJ	tired.a.01
+уморен	ADJ	tired.a.01
+толерантен	ADJ	tolerant.a.01
+крехък	ADJ	tender.a.05
+жилав	ADJ	tough.a.03
+издръжлив	ADJ	tough.a.03
+як	ADJ	tough.a.03
+любящ	ADJ	tender.a.01
+отровен	ADJ	toxic.a.01
+токсичен	ADJ	toxic.a.01
+лъжлив	ADJ	false.a.01
+неверен	ADJ	false.a.01
+фалшив	ADJ	false.a.01
+безполезен	ADJ	useless.a.01
+валиден	ADJ	valid.a.01
+ценен	ADJ	valuable.a.01
+разнообразен	ADJ	varied.a.01
+яростен	ADJ	violent.a.01
+видим	ADJ	visible.a.01
+невидим	ADJ	invisible.a.01
+доброволен	ADJ	voluntary.a.01
+уязвим	ADJ	vulnerable.a.01
+прохладен	ADJ	cool.a.01
+сърдечен	ADJ	warm.a.02
+безразличен	ADJ	cool.a.04
+равнодушен	ADJ	cool.a.04
+добре_дошъл	ADJ	welcome.a.01
+добре	ADJ	well.a.01
+болен	ADJ	ill.a.01
+измокрен	ADJ	wet.a.01
+мокър	ADJ	wet.a.01
+намокрен	ADJ	wet.a.01
+сух	ADJ	dry.a.01
+тесен	ADJ	narrow.a.01
+мъдър	ADJ	wise.a.01
+безразсъден	ADJ	foolish.a.01
+неразумен	ADJ	foolish.a.01
+академичен	ADJ	academic.a.01
+академически	ADJ	academic.a.01
+археологичен	ADJ	archaeological.a.01
+археологически	ADJ	archaeological.a.01
+градски	ADJ	civic.a.01	urban.a.01
+общински	ADJ	municipal.a.01
+дигитален	ADJ	digital.a.01
+цифров	ADJ	digital.a.01
+драматичен	ADJ	dramatic.a.03
+драматически	ADJ	dramatic.a.03
+икономически	ADJ	economic.a.02
+стопански	ADJ	economic.a.02
+електронен	ADJ	electronic.a.01
+генетичен	ADJ	genetic.a.04
+човешки	ADJ	human.a.01
+имперски	ADJ	imperial.a.01
+съдебен	ADJ	judicial.a.03
+военен	ADJ	military.a.01
+земеделски	ADJ	agricultural.a.01
+селскостопански	ADJ	agricultural.a.01
+селски	ADJ	rural.a.02
+слънчев	ADJ	solar.a.01
+технически	ADJ	technical.a.01
+урбанистичен	ADJ	urban.a.01
+законодателен	ADJ	legislative.a.01
+литературен	ADJ	literary.a.01
+професионален	ADJ	professional.a.04	vocational.a.01	occupational.a.01
+пространствен	ADJ	spatial.a.01
+паричен	ADJ	fiscal.a.01
+финансов	ADJ	fiscal.a.01
+философски	ADJ	philosophic.a.01
+визуален	ADJ	ocular.a.02
+зрителен	ADJ	ocular.a.02
+областен	ADJ	regional.a.01
+районен	ADJ	regional.a.01
+регионален	ADJ	regional.a.01
+континентален	ADJ	continental.a.03
+морски	ADJ	marine.a.01
+структурен	ADJ	structural.a.02
+мисловен	ADJ	mental.a.02
+умствен	ADJ	mental.a.02
+културен	ADJ	cultural.a.01
+нервен	ADJ	nervous.a.03
+геоложки	ADJ	geological.a.01
+статистичен	ADJ	statistical.a.01
+статистически	ADJ	statistical.a.01
+домашен	ADJ	domestic.a.02
+семеен	ADJ	domestic.a.02
+исторически	ADJ	historical.a.01
+магнитен	ADJ	magnetic.a.01
+тропичен	ADJ	tropical.a.02
+тропически	ADJ	tropical.a.02
+математически	ADJ	mathematical.a.01
+експериментален	ADJ	experimental.a.01
+пробен	ADJ	experimental.a.01
+природен	ADJ	environmental.a.01
+образователен	ADJ	educational.a.01
+педагогически	ADJ	educational.a.01
+стратегически	ADJ	strategic.a.01
+количествен	ADJ	quantitative.a.02
+президентски	ADJ	presidential.a.01
+корпоративен	ADJ	corporate.a.01
+национален	ADJ	national.a.01
+средновековен	ADJ	medieval.a.01
+артистичен	ADJ	artistic.a.01
+художествен	ADJ	artistic.a.01
+оперативен	ADJ	operational.a.01
+бюрократичен	ADJ	bureaucratic.a.01
+жилищен	ADJ	residential.a.02

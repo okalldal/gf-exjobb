@@ -3998,440 +3998,440 @@ absorbere	VERB	absorb.v.06
 kaste_'tilbage	VERB	reflect.v.04
 reflektere	VERB	reflect.v.04
 tilbagekaste	VERB	reflect.v.04
-fuldstændig	ADJ	absolute.a.01	absolute.a.01
-relativ	ADJ	relative.a.01	relative.a.01
-abstrakt	ADJ	abstract.a.01	abstract.a.01
-konkret	ADJ	concrete.a.01	concrete.a.01
-talrig	ADJ	abundant.a.01	abundant.a.01
-acceptabel	ADJ	acceptable.a.01	acceptable.a.01
-appetitlig	ADJ	acceptable.a.01	acceptable.a.01
-tilgængelig	ADJ	accessible.a.01	available.a.01	accessible.a.01	available.a.01
-nøjagtig	ADJ	accurate.a.01	exact.a.01	accurate.a.01	exact.a.01
-aktiv	ADJ	active.a.05	active.a.05
-passiv	ADJ	passive.a.01	passive.a.01
-mulig	ADJ	potential.a.01	potential.a.01
-akut	ADJ	acute.a.01	acute.a.01
-kronisk	ADJ	chronic.a.01	chronic.a.01
-afhængig	ADJ	addicted.a.01	dependent.a.01	addicted.a.01	dependent.a.01
-sufficient	ADJ	adequate.a.01	sufficient.a.01	adequate.a.01	sufficient.a.01
-tilstrækkelig	ADJ	adequate.a.01	sufficient.a.01	adequate.a.01	sufficient.a.01
-upassende	ADJ	inadequate.a.01	inappropriate.a.01	inadequate.a.01	inappropriate.a.01
-æstetisk	ADJ	aesthetic.a.02	aesthetic.a.02
-bange	ADJ	afraid.a.01	afraid.a.01
-aggressiv	ADJ	aggressive.a.01	aggressive.a.01
-årvågen	ADJ	alert.a.01	alert.a.01
-levende	ADJ	alive.a.01	alive.a.01
-ambitiøs	ADJ	ambitious.a.01	ambitious.a.01
-arrig	ADJ	angry.a.01	angry.a.01
-vred	ADJ	angry.a.01	angry.a.01
-død	ADJ	inanimate.a.02	inanimate.a.02
-anonym	ADJ	anonymous.a.01	anonymous.a.01
-skyldig	ADJ	due.a.01	due.a.01
-skamfuld	ADJ	ashamed.a.01	ashamed.a.01
-påståelig	ADJ	assertive.a.01	assertive.a.01
-gravid	ADJ	pregnant.a.01	pregnant.a.01
-automatisk	ADJ	automatic.a.01	automatic.a.01
-manuel	ADJ	manual.a.02	manual.a.02
-vågen	ADJ	awake.a.01	awake.a.01
-uvidende	ADJ	unwitting.a.02	unwitting.a.02
-smuk	ADJ	beautiful.a.01	beautiful.a.01
-blond	ADJ	blond.a.01	blond.a.01
-blodig	ADJ	bloody.a.01	bloody.a.01
-modig	ADJ	bold.a.01	brave.a.01	bold.a.01	brave.a.01
-lys	ADJ	light.a.06	light.a.02	light.a.06	light.a.02
-mørk	ADJ	dark.a.01	dark.a.01
-snæversynet	ADJ	narrow-minded.a.02	narrow-minded.a.02
-travl	ADJ	busy.a.01	busy.a.01
-socialistisk	ADJ	socialistic.a.01	socialistic.a.01
-forsigtig	ADJ	careful.a.01	cautious.a.01	careful.a.01	cautious.a.01
-central	ADJ	central.a.02	central.a.02
-sikker	ADJ	certain.a.02	protected.a.01	safe.a.01	certain.a.02	protected.a.01	safe.a.01
-selvsikker	ADJ	confident.a.01	confident.a.01
-sky	ADJ	diffident.a.02	diffident.a.02
-uundgåelig	ADJ	inevitable.a.01	inevitable.a.01
-karakteristisk	ADJ	characteristic.a.01	characteristic.a.01
-munter	ADJ	cheerful.a.01	cheerful.a.01
-sort	ADJ	black.a.01	black.a.01
-sortfarvet	ADJ	black.a.01	black.a.01
-farverig	ADJ	colorful.a.01	colorful.a.01
-klassisk	ADJ	classical.a.01	classical.a.01
-ren	ADJ	clean.a.01	pure.a.06	pure.a.01	clean.a.01	pure.a.06	pure.a.01
-beskidt	ADJ	dirty.a.01	dirty.a.02	dirty.a.01	dirty.a.02
-klog	ADJ	smart.a.01	wise.a.01	smart.a.01	wise.a.01
-viselig	ADJ	smart.a.01	wise.a.01	smart.a.01	wise.a.01
-blæst	ADJ	stupid.a.01	stupid.a.01
-dum	ADJ	stupid.a.01	stupid.a.01
-tomhjernet	ADJ	stupid.a.01	stupid.a.01
-uintelligent	ADJ	stupid.a.01	stupid.a.01
-fjern	ADJ	far.a.01	distant.a.01	far.a.01	distant.a.01
-tæt	ADJ	near.a.01	close.a.02	near.a.01	close.a.02
-bekvem	ADJ	comfortable.a.01	comfortable.a.01
-bekvemmelig	ADJ	comfortable.a.01	comfortable.a.01
-kommerciel	ADJ	commercial.a.01	commercial.a.01
-ordinær	ADJ	common.a.02	ordinary.a.01	common.a.02	ordinary.a.01
-fælles	ADJ	common.a.01	joint.a.01	common.a.01	joint.a.01
-sammenlignelig	ADJ	comparable.a.01	comparable.a.01
-kompatibel	ADJ	compatible.a.01	compatible.a.01
-dygtig	ADJ	competent.a.01	skilled.a.01	competent.a.01	skilled.a.01
-komplet	ADJ	complete.a.01	complete.a.01
-udstrakt	ADJ	comprehensive.a.01	comprehensive.a.01
-bevidst	ADJ	conscious.a.02	conscious.a.02
-konservativ	ADJ	conservative.a.01	conservative.a.01
-liberal	ADJ	liberal.a.03	liberal.a.03
-overensstemmende	ADJ	consistent.a.01	consistent.a.01
-konstant	ADJ	constant.a.02	constant.a.02
-konstruktiv	ADJ	constructive.a.01	constructive.a.01
-veltilfreds	ADJ	contented.a.01	contented.a.01
-uafbrudt	ADJ	continuous.a.01	continuous.a.01
-kontroversiel	ADJ	controversial.a.01	controversial.a.01
-praktisk	ADJ	convenient.a.01	practical.a.01	convenient.a.01	practical.a.01
-konventionel	ADJ	conventional.a.01	conventional.a.01
-nuklear	ADJ	nuclear.a.01	nuclear.a.01
-traditionel	ADJ	traditional.a.01	traditional.a.01
-rå	ADJ	raw.a.03	raw.a.03
-interaktiv	ADJ	synergistic.a.01	synergistic.a.01
-rigtig	ADJ	correct.a.01	true.a.01	correct.a.01	true.a.01
-sand	ADJ	correct.a.01	true.a.01	correct.a.01	true.a.01
-virkelig	ADJ	correct.a.01	real.a.01	true.a.01	correct.a.01	real.a.01	true.a.01
-forkert	ADJ	wrong.a.05	wrong.a.02	wrong.a.05	wrong.a.02
-provinsiel	ADJ	provincial.a.02	provincial.a.02
-høflig	ADJ	polite.a.01	polite.a.01
-utrolig	ADJ	incredible.a.01	incredible.a.01
-kritisk	ADJ	critical.a.01	critical.a.06	critical.a.01	critical.a.06
-alvorlig	ADJ	critical.a.06	critical.a.06
-lineær	ADJ	linear.a.02	linear.a.02
-nysgerrig	ADJ	curious.a.02	curious.a.02
-nærværende	ADJ	current.a.01	current.a.01
-døv	ADJ	deaf.a.01	deaf.a.01
-afgørende	ADJ	decisive.a.01	decisive.a.01
-dyb	ADJ	deep.a.03	deep.a.03
-lav	ADJ	shallow.a.01	low.a.02	shallow.a.01	low.a.02
-indlysende	ADJ	well-defined.a.02	obvious.a.01	well-defined.a.02	obvious.a.01
-klar	ADJ	well-defined.a.02	obvious.a.01	well-defined.a.02	obvious.a.01
-præcis	ADJ	definite.a.01	precise.a.01	definite.a.01	precise.a.01
-fin	ADJ	delicate.a.01	fine.a.05	delicate.a.01	fine.a.05
-demokratisk	ADJ	democratic.a.01	democratic.a.01
-vilkårlig	ADJ	arbitrary.a.01	arbitrary.a.01
-pålidelig	ADJ	reliable.a.01	reliable.a.01
-uafhængig	ADJ	independent.a.01	independent.a.01
-ønskværdig	ADJ	desirable.a.01	desirable.a.01
-svær	ADJ	difficult.a.01	difficult.a.01
-vanskelig	ADJ	difficult.a.01	difficult.a.01
-let	ADJ	easy.a.01	light.a.01	easy.a.01	light.a.01
-diplomatisk	ADJ	diplomatic.a.02	diplomatic.a.02
-direkte	ADJ	direct.a.01	direct.a.01
-indirekte	ADJ	indirect.a.04	indirect.a.04
-diskret	ADJ	discreet.a.01	discreet.a.01
-tydelig	ADJ	distinct.a.02	distinct.a.02
-sløv	ADJ	dull.a.09	dull.a.09
-skarp	ADJ	sharp.a.09	sharp.a.09
-livlig	ADJ	lively.a.01	lively.a.01
-dynamisk	ADJ	dynamic.a.01	dynamic.a.01
-ivrig	ADJ	eager.a.01	eager.a.01
-tidlig	ADJ	early.a.01	early.a.01
-effektiv	ADJ	effective.a.01	efficient.a.01	effective.a.01	efficient.a.01
-fakultativ	ADJ	optional.a.01	optional.a.01
-elegant	ADJ	elegant.a.01	elegant.a.01
-empirisk	ADJ	empirical.a.01	empirical.a.01
-entusiastisk	ADJ	enthusiastic.a.01	enthusiastic.a.01
-tvetydig	ADJ	equivocal.a.01	equivocal.a.01
-nødvendig	ADJ	essential.a.02	necessary.a.01	essential.a.02	necessary.a.01
-etisk	ADJ	ethical.a.02	ethical.a.02
-plan	ADJ	even.a.03	even.a.03
-ens	ADJ	even.a.01	even.a.01
-ejendommelig	ADJ	odd.a.01	odd.a.01
-opstemt	ADJ	excited.a.02	excited.a.02
-spændende	ADJ	exciting.a.01	exciting.a.01
-uddød	ADJ	extinct.a.01	extinct.a.01
-bekostelig	ADJ	expensive.a.01	expensive.a.01
-dyr	ADJ	expensive.a.01	expensive.a.01
-billig	ADJ	cheap.a.01	cheap.a.01
-erfaren	ADJ	experienced.a.01	experienced.a.01
-eksplicit	ADJ	explicit.a.01	explicit.a.01
-implicit	ADJ	implicit.a.01	implicit.a.01
-ekstern	ADJ	external.a.01	external.a.01
-intern	ADJ	internal.a.01	internal.a.01
-ydre	ADJ	outer.a.01	outer.a.01
-indre	ADJ	inner.a.02	inner.a.02
-tro	ADJ	faithful.a.03	loyal.a.01	faithful.a.03	loyal.a.01
-velkendt	ADJ	familiar.a.01	familiar.a.01
-usædvanlig	ADJ	strange.a.01	strange.a.01
-uvant	ADJ	strange.a.01	strange.a.01
-moderigtig	ADJ	stylish.a.01	stylish.a.01
-langsom	ADJ	slow.a.01	slow.a.01
-hurtig	ADJ	fast.a.03	fast.a.03
-snar	ADJ	fast.a.03	fast.a.03
-sirlig	ADJ	fastidious.a.01	fastidious.a.01
-fed	ADJ	fat.a.01	fat.a.01
-tynd	ADJ	thin.a.02	thin.a.02
-favorabel	ADJ	favorable.a.01	favorable.a.01
-færdig	ADJ	finished.a.02	ready.a.01	finished.a.02	ready.a.01
-uendelig	ADJ	infinite.a.01	infinite.a.01
-første	ADJ	first.a.01	first.a.01
-endelig	ADJ	terminal.a.03	terminal.a.03
-frisk	ADJ	fit.a.03	fresh.a.01	fit.a.03	fresh.a.01
-sund	ADJ	fit.a.03	sound.a.03	fit.a.03	sound.a.03
-fleksibel	ADJ	flexible.a.02	flexible.a.02
-medfødt	ADJ	native.a.02	native.a.02
-uformel	ADJ	informal.a.01	informal.a.01
-formel	ADJ	formal.a.03	formal.a.03
-velduftende	ADJ	fragrant.a.01	fragrant.a.01
-fri	ADJ	free.a.01	free.a.01
-hyppig	ADJ	frequent.a.01	frequent.a.01
-venlig	ADJ	friendly.a.01	kind.a.01	friendly.a.01	kind.a.01
-fuld	ADJ	full.a.01	full.a.01
-tom	ADJ	empty.a.01	empty.a.01
-fuldtids	ADJ	full-time.a.01	full-time.a.01
-deltids	ADJ	part-time.a.01	part-time.a.01
-funktionel	ADJ	functional.a.01	functional.a.01
-generel	ADJ	general.a.01	general.a.01
-føderativ	ADJ	federal.a.04	federal.a.04
-gavmild	ADJ	generous.a.02	generous.a.02
-ægte	ADJ	genuine.a.01	genuine.a.01
-berømt	ADJ	glorious.a.01	glorious.a.01
-akavet	ADJ	awkward.a.02	awkward.a.02
-trinvis	ADJ	gradual.a.01	gradual.a.01
-pludselig	ADJ	sudden.a.01	sudden.a.01
-stejl	ADJ	steep.a.01	steep.a.01
-taknemmelig	ADJ	grateful.a.01	grateful.a.01
-lykkelig	ADJ	happy.a.01	lucky.a.02	happy.a.01	lucky.a.02
-hård	ADJ	hard.a.03	tough.a.03	tough.a.01	hard.a.03	tough.a.03	tough.a.01
-blød	ADJ	soft.a.01	soft.a.03	soft.a.01	soft.a.03
-alkoholfri	ADJ	nonalcoholic.a.01	nonalcoholic.a.01
-tung	ADJ	heavy.a.01	heavy.a.01
-behjælpelig	ADJ	helpful.a.01	helpful.a.01
-hjælpsom	ADJ	helpful.a.01	helpful.a.01
-tjenstvillig	ADJ	helpful.a.01	helpful.a.01
-homoseksuel	ADJ	homosexual.a.01	homosexual.a.01
-høj	ADJ	high.a.01	loud.a.01	tall.a.01	high.a.01	loud.a.01	tall.a.01
-ærlig	ADJ	honest.a.01	honest.a.01
-ærværdig	ADJ	honorable.a.02	honorable.a.02
-horisontal	ADJ	horizontal.a.01	horizontal.a.01
-fjendtlig	ADJ	hostile.a.01	hostile.a.01
-hed	ADJ	hot.a.01	hot.a.03	hot.a.01	hot.a.03
-kold	ADJ	cold.a.01	cold.a.02	cool.a.04	cold.a.01	cold.a.02	cool.a.04
-sulten	ADJ	hungry.a.01	hungry.a.01
-tørstig	ADJ	thirsty.a.02	thirsty.a.02
-imponerende	ADJ	impressive.a.01	impressive.a.01
-industriel	ADJ	industrial.a.02	industrial.a.02
-uskyldig	ADJ	innocent.a.01	innocent.a.01
-intellektuel	ADJ	intellectual.a.02	intellectual.a.02
-interessant	ADJ	interesting.a.01	interesting.a.01
-glad	ADJ	glad.a.01	glad.a.01
-bedrøvet	ADJ	sad.a.01	sad.a.01
-stor	ADJ	large.a.01	large.a.01
-lille	ADJ	small.a.01	small.a.01
-legal	ADJ	legal.a.01	legal.a.01
-illegal	ADJ	illegal.a.01	illegal.a.01
-anderledes	ADJ	unlike.a.01	other.a.01	unlike.a.01	other.a.01
-forskellig	ADJ	unlike.a.01	other.a.01	unlike.a.01	other.a.01
-ulig	ADJ	unlike.a.01	other.a.01	unlike.a.01	other.a.01
-lignende	ADJ	alike.a.01	alike.a.01
-sandsynlig	ADJ	probable.a.01	probable.a.01
-begrænset	ADJ	limited.a.01	restricted.a.01	limited.a.01	restricted.a.01
-logisk	ADJ	logical.a.01	logical.a.01
-lang	ADJ	long.a.02	long.a.01	long.a.02	long.a.01
-kort	ADJ	short.a.02	short.a.01	short.a.02	short.a.01
-løs	ADJ	loose.a.03	loose.a.03
-stram	ADJ	tight.a.01	tense.a.03	tight.a.01	tense.a.03
-fortabt	ADJ	lost.a.03	lost.a.03
-heldig	ADJ	lucky.a.02	lucky.a.02
-større	ADJ	major.a.02	major.a.02
-ubetydelig	ADJ	minor.a.02	minor.a.02
-myndig	ADJ	major.a.07	major.a.07
-gift	ADJ	married.a.01	married.a.01
-single	ADJ	unmarried.a.01	unmarried.a.01
-kvindelig	ADJ	womanly.a.01	womanly.a.01
-moden	ADJ	mature.a.03	ripe.a.01	mature.a.03	ripe.a.01
-umoden	ADJ	green.a.03	green.a.03
-årstidsbestemt	ADJ	seasonal.a.01	seasonal.a.01
-maksimal	ADJ	maximal.a.01	maximal.a.01
-minimal	ADJ	minimal.a.01	minimal.a.01
-meningsfuld	ADJ	meaningful.a.01	meaningful.a.01
-meningsfyldt	ADJ	meaningful.a.01	meaningful.a.01
-mekanisk	ADJ	mechanical.a.01	mechanical.a.01
-musikalsk	ADJ	musical.a.02	musical.a.02
-mild	ADJ	mild.a.01	mild.a.01
-intens	ADJ	intense.a.01	intense.a.01
-civil	ADJ	civilian.a.01	civilian.a.01
-bevægelig	ADJ	mobile.a.02	mobile.a.02
-moderne	ADJ	modern.a.01	modern.a.01
-sømmelig	ADJ	modest.a.04	modest.a.04
-moralsk	ADJ	moral.a.01	moral.a.01
-international	ADJ	international.a.01	international.a.01
-kunstig	ADJ	artificial.a.01	artificial.a.01
-rar	ADJ	nice.a.01	nice.a.01
-nobel	ADJ	noble.a.03	noble.a.03
-adelig	ADJ	noble.a.02	noble.a.02
-normal	ADJ	normal.a.01	standard.a.01	normal.a.01	standard.a.01
-abnorm	ADJ	abnormal.a.01	abnormal.a.01
-skadelig	ADJ	noxious.a.01	noxious.a.01
-objektiv	ADJ	objective.a.01	objective.a.01
-subjektiv	ADJ	subjective.a.01	subjective.a.01
-uforskammet	ADJ	offensive.a.05	offensive.a.05
-offensiv	ADJ	offensive.a.02	offensive.a.02
-officiel	ADJ	official.a.01	official.a.01
-etableret	ADJ	established.a.01	established.a.01
-ny	ADJ	new.a.01	new.a.01
-gammel	ADJ	old.a.01	old.a.01
-lukket	ADJ	shut.a.01	shut.a.01
-åben	ADJ	open.a.02	open.a.02
-optimistisk	ADJ	optimistic.a.01	optimistic.a.01
-oral	ADJ	oral.a.03	oral.a.03
-ekstraordinær	ADJ	extraordinary.a.01	extraordinary.a.01
-organisk	ADJ	organic.a.02	organic.a.02
-original	ADJ	original.a.03	original.a.03
-ortodoks	ADJ	orthodox.a.02	orthodox.a.02
-åbenlys	ADJ	overt.a.01	overt.a.01
-smertefuld	ADJ	painful.a.01	painful.a.01
-parallel	ADJ	parallel.a.01	parallel.a.01
-retfærdig	ADJ	impartial.a.01	impartial.a.01
-passioneret	ADJ	passionate.a.01	passionate.a.01
-fortidig	ADJ	past.a.01	past.a.01
-nuværende	ADJ	present.a.01	present.a.01
-tålmodig	ADJ	patient.a.01	patient.a.01
-fredfyldt	ADJ	peaceful.a.01	peaceful.a.01
-perfekt	ADJ	perfect.a.01	perfect.a.01
-permanent	ADJ	permanent.a.01	permanent.a.01
-midlertidig	ADJ	impermanent.a.01	impermanent.a.01
-vedvarende	ADJ	persistent.a.03	persistent.a.03
-personlig	ADJ	personal.a.01	personal.a.01
-fysisk	ADJ	physical.a.01	physical.a.01
-legemlig	ADJ	physical.a.01	physical.a.01
-religiøs	ADJ	religious.a.02	religious.a.02
-simpel	ADJ	plain.a.02	plain.a.02
-behagelig	ADJ	pleasant.a.01	pleasant.a.01
-politisk	ADJ	political.a.01	political.a.01
-populær	ADJ	popular.a.01	popular.a.01
-neutral	ADJ	neutral.a.04	neutral.a.04
-positiv	ADJ	positive.a.04	positive.a.04
-negativ	ADJ	negative.a.04	negative.a.04
-umulig	ADJ	impossible.a.01	impossible.a.01
-stærk	ADJ	potent.a.03	potent.a.03
-mægtig	ADJ	powerful.a.01	powerful.a.01
-magtfuld	ADJ	powerful.a.01	powerful.a.01
-indflydelsesrig	ADJ	influential.a.01	influential.a.01
-forudseelig	ADJ	predictable.a.01	predictable.a.01
-forudsigelig	ADJ	predictable.a.01	predictable.a.01
-tilstedeværende	ADJ	present.a.02	present.a.02
-primær	ADJ	primary.a.01	primary.a.01
-sekundær	ADJ	secondary.a.01	secondary.a.01
-grundlæggende	ADJ	basic.a.01	basic.a.01
-offentlig	ADJ	public.a.01	public.a.01
-eksklusiv	ADJ	exclusive.a.02	exclusive.a.02
-produktiv	ADJ	generative.a.01	generative.a.01
-grundig	ADJ	profound.a.01	profound.a.01
-progressiv	ADJ	progressive.a.01	progressive.a.01
-stolt	ADJ	proud.a.01	proud.a.01
-ufejlbarlig	ADJ	pure.a.06	pure.a.06
-rolig	ADJ	quiet.a.02	quiet.a.01	quiet.a.02	quiet.a.01
-larmende	ADJ	noisy.a.01	noisy.a.01
-tilfældig	ADJ	random.a.01	random.a.01
-rationel	ADJ	rational.a.01	rational.a.01
-følelsesbetonet	ADJ	emotional.a.01	emotional.a.01
-realistisk	ADJ	realistic.a.01	realistic.a.01
-gensidig	ADJ	reciprocal.a.01	reciprocal.a.01
-regelmæssig	ADJ	regular.a.01	regular.a.01
-familiær	ADJ	related.a.02	related.a.02
-relevant	ADJ	relevant.a.01	relevant.a.01
-irrelevant	ADJ	irrelevant.a.01	irrelevant.a.01
-opmærksom	ADJ	mindful.a.01	mindful.a.01
-repræsentativ	ADJ	representative.a.02	representative.a.02
-respektabel	ADJ	respectable.a.01	respectable.a.01
-ansvarlig	ADJ	responsible.a.01	responsible.a.01
-revolutionær	ADJ	revolutionary.a.04	revolutionary.a.04
-rig	ADJ	rich.a.01	rich.a.01
-fattig	ADJ	poor.a.03	poor.a.03
-venstreorienteret	ADJ	left.a.04	left.a.04
-rund	ADJ	round.a.01	round.a.01
-firkantet	ADJ	square.a.01	square.a.01
-hellig	ADJ	holy.a.01	sacred.a.01	holy.a.01	sacred.a.01
-farlig	ADJ	dangerous.a.01	dangerous.a.01
-videnskabelig	ADJ	scientific.a.02	scientific.a.02
-senior	ADJ	senior.a.01	senior.a.01
-yngling	ADJ	junior.a.01	junior.a.01
-følsom	ADJ	sensitive.a.02	sensitive.a.02
-separat	ADJ	separate.a.01	separate.a.01
-seriøs	ADJ	unplayful.a.01	unplayful.a.01
-seksuel	ADJ	sexual.a.02	sexual.a.02
-blind	ADJ	blind.a.01	blind.a.01
-vigtig	ADJ	significant.a.01	significant.a.01
-kompliceret	ADJ	complex.a.01	complex.a.01
-mangfoldig	ADJ	multiple.a.01	multiple.a.01
-glat	ADJ	slippery.a.01	smooth.a.01	slippery.a.01	smooth.a.01
-ru	ADJ	rough.a.01	rough.a.01
-social	ADJ	social.a.02	social.a.02
-selskabelig	ADJ	gregarious.a.01	gregarious.a.01
-fast	ADJ	solid.a.02	solid.a.03	solid.a.02	solid.a.03
-flydende	ADJ	liquid.a.01	liquid.a.01
-sofistikeret	ADJ	sophisticated.a.01	sophisticated.a.01
-spontan	ADJ	spontaneous.a.01	spontaneous.a.01
-skriftlig	ADJ	written.a.01	written.a.01
-stabil	ADJ	stable.a.01	steady.a.01	stable.a.01	steady.a.01
-ret	ADJ	straight.a.08	straight.a.08
-stædig	ADJ	stubborn.a.01	stubborn.a.01
-succesrig	ADJ	successful.a.01	successful.a.01
-utilstrækkelig	ADJ	insufficient.a.01	insufficient.a.01
-overlegen	ADJ	superior.a.01	superior.a.01
-sød	ADJ	sweet.a.01	tender.a.01	sweet.a.01	tender.a.01
-sur	ADJ	sour.a.02	sour.a.02
-sympatisk	ADJ	sympathetic.a.04	sympathetic.a.04
-systematisk	ADJ	systematic.a.01	systematic.a.01
-vild	ADJ	wild.a.02	wild.a.02
-anspændt	ADJ	tense.a.01	tense.a.01
-tyk	ADJ	thick.a.01	thick.a.03	thick.a.01	thick.a.03
-ordentlig	ADJ	tidy.a.01	tidy.a.01
-træt	ADJ	tired.a.01	tired.a.01
-tolerant	ADJ	tolerant.a.01	tolerant.a.01
-mør	ADJ	tender.a.05	tender.a.05
-giftig	ADJ	toxic.a.01	toxic.a.01
-falsk	ADJ	false.a.01	false.a.01
-typisk	ADJ	typical.a.01	typical.a.01
-usynlig	ADJ	invisible.a.01	invisible.a.01
-kølig	ADJ	cool.a.01	cool.a.04	cool.a.01	cool.a.04
-syg	ADJ	ill.a.01	ill.a.01
-tør	ADJ	dry.a.01	dry.a.01
-smal	ADJ	narrow.a.01	narrow.a.01
-latterlig	ADJ	foolish.a.01	foolish.a.01
-akademisk	ADJ	academic.a.01	academic.a.01
-arkæologisk	ADJ	archaeological.a.01	archaeological.a.01
-kommunal	ADJ	municipal.a.01	municipal.a.01
-digital	ADJ	digital.a.01	digital.a.01
-dramatisk	ADJ	dramatic.a.03	dramatic.a.03
-økonomisk	ADJ	economic.a.02	economic.a.02
-elektronisk	ADJ	electronic.a.01	electronic.a.01
-genetisk	ADJ	genetic.a.04	genetic.a.04
-menneskelig	ADJ	human.a.01	human.a.01
-juridisk	ADJ	judicial.a.03	judicial.a.03
-militær	ADJ	military.a.01	military.a.01
-landlig	ADJ	rural.a.02	rural.a.02
-teknisk	ADJ	technical.a.01	technical.a.01
-lovmæssig	ADJ	legislative.a.01	legislative.a.01
-litterær	ADJ	literary.a.01	literary.a.01
-professionel	ADJ	professional.a.04	professional.a.04
-rumlig	ADJ	spatial.a.01	spatial.a.01
-finansiel	ADJ	fiscal.a.01	fiscal.a.01
-filosofisk	ADJ	philosophic.a.01	philosophic.a.01
-regional	ADJ	regional.a.01	regional.a.01
-kontinental	ADJ	continental.a.03	continental.a.03
-maritim	ADJ	marine.a.01	marine.a.01
-erhvervsmæssig	ADJ	occupational.a.01	occupational.a.01
-strukturel	ADJ	structural.a.02	structural.a.02
-mental	ADJ	mental.a.02	mental.a.02
-kulturel	ADJ	cultural.a.01	cultural.a.01
-ængstelig	ADJ	nervous.a.03	nervous.a.03
-nervøs	ADJ	nervous.a.03	nervous.a.03
-geologisk	ADJ	geological.a.01	geological.a.01
-statistisk	ADJ	statistical.a.01	statistical.a.01
-historisk	ADJ	historical.a.01	historical.a.01
-magnetisk	ADJ	magnetic.a.01	magnetic.a.01
-matematisk	ADJ	mathematical.a.01	mathematical.a.01
-eksperimentel	ADJ	experimental.a.01	experimental.a.01
-miljømæssig	ADJ	environmental.a.01	environmental.a.01
-strategisk	ADJ	strategic.a.01	strategic.a.01
-kvantitativ	ADJ	quantitative.a.02	quantitative.a.02
-national	ADJ	national.a.01	national.a.01
-middelalderlig	ADJ	medieval.a.01	medieval.a.01
-kunstnerisk	ADJ	artistic.a.01	artistic.a.01
-operationel	ADJ	operational.a.01	operational.a.01
-bureaukratisk	ADJ	bureaucratic.a.01	bureaucratic.a.01
+fuldstændig	ADJ	absolute.a.01
+relativ	ADJ	relative.a.01
+abstrakt	ADJ	abstract.a.01
+konkret	ADJ	concrete.a.01
+talrig	ADJ	abundant.a.01
+acceptabel	ADJ	acceptable.a.01
+appetitlig	ADJ	acceptable.a.01
+tilgængelig	ADJ	accessible.a.01	available.a.01
+nøjagtig	ADJ	accurate.a.01	exact.a.01
+aktiv	ADJ	active.a.05
+passiv	ADJ	passive.a.01
+mulig	ADJ	potential.a.01
+akut	ADJ	acute.a.01
+kronisk	ADJ	chronic.a.01
+afhængig	ADJ	addicted.a.01	dependent.a.01
+sufficient	ADJ	adequate.a.01	sufficient.a.01
+tilstrækkelig	ADJ	adequate.a.01	sufficient.a.01
+upassende	ADJ	inadequate.a.01	inappropriate.a.01
+æstetisk	ADJ	aesthetic.a.02
+bange	ADJ	afraid.a.01
+aggressiv	ADJ	aggressive.a.01
+årvågen	ADJ	alert.a.01
+levende	ADJ	alive.a.01
+ambitiøs	ADJ	ambitious.a.01
+arrig	ADJ	angry.a.01
+vred	ADJ	angry.a.01
+død	ADJ	inanimate.a.02
+anonym	ADJ	anonymous.a.01
+skyldig	ADJ	due.a.01
+skamfuld	ADJ	ashamed.a.01
+påståelig	ADJ	assertive.a.01
+gravid	ADJ	pregnant.a.01
+automatisk	ADJ	automatic.a.01
+manuel	ADJ	manual.a.02
+vågen	ADJ	awake.a.01
+uvidende	ADJ	unwitting.a.02
+smuk	ADJ	beautiful.a.01
+blond	ADJ	blond.a.01
+blodig	ADJ	bloody.a.01
+modig	ADJ	bold.a.01	brave.a.01
+lys	ADJ	light.a.06	light.a.02
+mørk	ADJ	dark.a.01
+snæversynet	ADJ	narrow-minded.a.02
+travl	ADJ	busy.a.01
+socialistisk	ADJ	socialistic.a.01
+forsigtig	ADJ	careful.a.01	cautious.a.01
+central	ADJ	central.a.02
+sikker	ADJ	certain.a.02	protected.a.01	safe.a.01
+selvsikker	ADJ	confident.a.01
+sky	ADJ	diffident.a.02
+uundgåelig	ADJ	inevitable.a.01
+karakteristisk	ADJ	characteristic.a.01
+munter	ADJ	cheerful.a.01
+sort	ADJ	black.a.01
+sortfarvet	ADJ	black.a.01
+farverig	ADJ	colorful.a.01
+klassisk	ADJ	classical.a.01
+ren	ADJ	clean.a.01	pure.a.06	pure.a.01
+beskidt	ADJ	dirty.a.01	dirty.a.02
+klog	ADJ	smart.a.01	wise.a.01
+viselig	ADJ	smart.a.01	wise.a.01
+blæst	ADJ	stupid.a.01
+dum	ADJ	stupid.a.01
+tomhjernet	ADJ	stupid.a.01
+uintelligent	ADJ	stupid.a.01
+fjern	ADJ	far.a.01	distant.a.01
+tæt	ADJ	near.a.01	close.a.02
+bekvem	ADJ	comfortable.a.01
+bekvemmelig	ADJ	comfortable.a.01
+kommerciel	ADJ	commercial.a.01
+ordinær	ADJ	common.a.02	ordinary.a.01
+fælles	ADJ	common.a.01	joint.a.01
+sammenlignelig	ADJ	comparable.a.01
+kompatibel	ADJ	compatible.a.01
+dygtig	ADJ	competent.a.01	skilled.a.01
+komplet	ADJ	complete.a.01
+udstrakt	ADJ	comprehensive.a.01
+bevidst	ADJ	conscious.a.02
+konservativ	ADJ	conservative.a.01
+liberal	ADJ	liberal.a.03
+overensstemmende	ADJ	consistent.a.01
+konstant	ADJ	constant.a.02
+konstruktiv	ADJ	constructive.a.01
+veltilfreds	ADJ	contented.a.01
+uafbrudt	ADJ	continuous.a.01
+kontroversiel	ADJ	controversial.a.01
+praktisk	ADJ	convenient.a.01	practical.a.01
+konventionel	ADJ	conventional.a.01
+nuklear	ADJ	nuclear.a.01
+traditionel	ADJ	traditional.a.01
+rå	ADJ	raw.a.03
+interaktiv	ADJ	synergistic.a.01
+rigtig	ADJ	correct.a.01	true.a.01
+sand	ADJ	correct.a.01	true.a.01
+virkelig	ADJ	correct.a.01	real.a.01	true.a.01
+forkert	ADJ	wrong.a.05	wrong.a.02
+provinsiel	ADJ	provincial.a.02
+høflig	ADJ	polite.a.01
+utrolig	ADJ	incredible.a.01
+kritisk	ADJ	critical.a.01	critical.a.06
+alvorlig	ADJ	critical.a.06
+lineær	ADJ	linear.a.02
+nysgerrig	ADJ	curious.a.02
+nærværende	ADJ	current.a.01
+døv	ADJ	deaf.a.01
+afgørende	ADJ	decisive.a.01
+dyb	ADJ	deep.a.03
+lav	ADJ	shallow.a.01	low.a.02
+indlysende	ADJ	well-defined.a.02	obvious.a.01
+klar	ADJ	well-defined.a.02	obvious.a.01
+præcis	ADJ	definite.a.01	precise.a.01
+fin	ADJ	delicate.a.01	fine.a.05
+demokratisk	ADJ	democratic.a.01
+vilkårlig	ADJ	arbitrary.a.01
+pålidelig	ADJ	reliable.a.01
+uafhængig	ADJ	independent.a.01
+ønskværdig	ADJ	desirable.a.01
+svær	ADJ	difficult.a.01
+vanskelig	ADJ	difficult.a.01
+let	ADJ	easy.a.01	light.a.01
+diplomatisk	ADJ	diplomatic.a.02
+direkte	ADJ	direct.a.01
+indirekte	ADJ	indirect.a.04
+diskret	ADJ	discreet.a.01
+tydelig	ADJ	distinct.a.02
+sløv	ADJ	dull.a.09
+skarp	ADJ	sharp.a.09
+livlig	ADJ	lively.a.01
+dynamisk	ADJ	dynamic.a.01
+ivrig	ADJ	eager.a.01
+tidlig	ADJ	early.a.01
+effektiv	ADJ	effective.a.01	efficient.a.01
+fakultativ	ADJ	optional.a.01
+elegant	ADJ	elegant.a.01
+empirisk	ADJ	empirical.a.01
+entusiastisk	ADJ	enthusiastic.a.01
+tvetydig	ADJ	equivocal.a.01
+nødvendig	ADJ	essential.a.02	necessary.a.01
+etisk	ADJ	ethical.a.02
+plan	ADJ	even.a.03
+ens	ADJ	even.a.01
+ejendommelig	ADJ	odd.a.01
+opstemt	ADJ	excited.a.02
+spændende	ADJ	exciting.a.01
+uddød	ADJ	extinct.a.01
+bekostelig	ADJ	expensive.a.01
+dyr	ADJ	expensive.a.01
+billig	ADJ	cheap.a.01
+erfaren	ADJ	experienced.a.01
+eksplicit	ADJ	explicit.a.01
+implicit	ADJ	implicit.a.01
+ekstern	ADJ	external.a.01
+intern	ADJ	internal.a.01
+ydre	ADJ	outer.a.01
+indre	ADJ	inner.a.02
+tro	ADJ	faithful.a.03	loyal.a.01
+velkendt	ADJ	familiar.a.01
+usædvanlig	ADJ	strange.a.01
+uvant	ADJ	strange.a.01
+moderigtig	ADJ	stylish.a.01
+langsom	ADJ	slow.a.01
+hurtig	ADJ	fast.a.03
+snar	ADJ	fast.a.03
+sirlig	ADJ	fastidious.a.01
+fed	ADJ	fat.a.01
+tynd	ADJ	thin.a.02
+favorabel	ADJ	favorable.a.01
+færdig	ADJ	finished.a.02	ready.a.01
+uendelig	ADJ	infinite.a.01
+første	ADJ	first.a.01
+endelig	ADJ	terminal.a.03
+frisk	ADJ	fit.a.03	fresh.a.01
+sund	ADJ	fit.a.03	sound.a.03
+fleksibel	ADJ	flexible.a.02
+medfødt	ADJ	native.a.02
+uformel	ADJ	informal.a.01
+formel	ADJ	formal.a.03
+velduftende	ADJ	fragrant.a.01
+fri	ADJ	free.a.01
+hyppig	ADJ	frequent.a.01
+venlig	ADJ	friendly.a.01	kind.a.01
+fuld	ADJ	full.a.01
+tom	ADJ	empty.a.01
+fuldtids	ADJ	full-time.a.01
+deltids	ADJ	part-time.a.01
+funktionel	ADJ	functional.a.01
+generel	ADJ	general.a.01
+føderativ	ADJ	federal.a.04
+gavmild	ADJ	generous.a.02
+ægte	ADJ	genuine.a.01
+berømt	ADJ	glorious.a.01
+akavet	ADJ	awkward.a.02
+trinvis	ADJ	gradual.a.01
+pludselig	ADJ	sudden.a.01
+stejl	ADJ	steep.a.01
+taknemmelig	ADJ	grateful.a.01
+lykkelig	ADJ	happy.a.01	lucky.a.02
+hård	ADJ	hard.a.03	tough.a.03	tough.a.01
+blød	ADJ	soft.a.01	soft.a.03
+alkoholfri	ADJ	nonalcoholic.a.01
+tung	ADJ	heavy.a.01
+behjælpelig	ADJ	helpful.a.01
+hjælpsom	ADJ	helpful.a.01
+tjenstvillig	ADJ	helpful.a.01
+homoseksuel	ADJ	homosexual.a.01
+høj	ADJ	high.a.01	loud.a.01	tall.a.01
+ærlig	ADJ	honest.a.01
+ærværdig	ADJ	honorable.a.02
+horisontal	ADJ	horizontal.a.01
+fjendtlig	ADJ	hostile.a.01
+hed	ADJ	hot.a.01	hot.a.03
+kold	ADJ	cold.a.01	cold.a.02	cool.a.04
+sulten	ADJ	hungry.a.01
+tørstig	ADJ	thirsty.a.02
+imponerende	ADJ	impressive.a.01
+industriel	ADJ	industrial.a.02
+uskyldig	ADJ	innocent.a.01
+intellektuel	ADJ	intellectual.a.02
+interessant	ADJ	interesting.a.01
+glad	ADJ	glad.a.01
+bedrøvet	ADJ	sad.a.01
+stor	ADJ	large.a.01
+lille	ADJ	small.a.01
+legal	ADJ	legal.a.01
+illegal	ADJ	illegal.a.01
+anderledes	ADJ	unlike.a.01	other.a.01
+forskellig	ADJ	unlike.a.01	other.a.01
+ulig	ADJ	unlike.a.01	other.a.01
+lignende	ADJ	alike.a.01
+sandsynlig	ADJ	probable.a.01
+begrænset	ADJ	limited.a.01	restricted.a.01
+logisk	ADJ	logical.a.01
+lang	ADJ	long.a.02	long.a.01
+kort	ADJ	short.a.02	short.a.01
+løs	ADJ	loose.a.03
+stram	ADJ	tight.a.01	tense.a.03
+fortabt	ADJ	lost.a.03
+heldig	ADJ	lucky.a.02
+større	ADJ	major.a.02
+ubetydelig	ADJ	minor.a.02
+myndig	ADJ	major.a.07
+gift	ADJ	married.a.01
+single	ADJ	unmarried.a.01
+kvindelig	ADJ	womanly.a.01
+moden	ADJ	mature.a.03	ripe.a.01
+umoden	ADJ	green.a.03
+årstidsbestemt	ADJ	seasonal.a.01
+maksimal	ADJ	maximal.a.01
+minimal	ADJ	minimal.a.01
+meningsfuld	ADJ	meaningful.a.01
+meningsfyldt	ADJ	meaningful.a.01
+mekanisk	ADJ	mechanical.a.01
+musikalsk	ADJ	musical.a.02
+mild	ADJ	mild.a.01
+intens	ADJ	intense.a.01
+civil	ADJ	civilian.a.01
+bevægelig	ADJ	mobile.a.02
+moderne	ADJ	modern.a.01
+sømmelig	ADJ	modest.a.04
+moralsk	ADJ	moral.a.01
+international	ADJ	international.a.01
+kunstig	ADJ	artificial.a.01
+rar	ADJ	nice.a.01
+nobel	ADJ	noble.a.03
+adelig	ADJ	noble.a.02
+normal	ADJ	normal.a.01	standard.a.01
+abnorm	ADJ	abnormal.a.01
+skadelig	ADJ	noxious.a.01
+objektiv	ADJ	objective.a.01
+subjektiv	ADJ	subjective.a.01
+uforskammet	ADJ	offensive.a.05
+offensiv	ADJ	offensive.a.02
+officiel	ADJ	official.a.01
+etableret	ADJ	established.a.01
+ny	ADJ	new.a.01
+gammel	ADJ	old.a.01
+lukket	ADJ	shut.a.01
+åben	ADJ	open.a.02
+optimistisk	ADJ	optimistic.a.01
+oral	ADJ	oral.a.03
+ekstraordinær	ADJ	extraordinary.a.01
+organisk	ADJ	organic.a.02
+original	ADJ	original.a.03
+ortodoks	ADJ	orthodox.a.02
+åbenlys	ADJ	overt.a.01
+smertefuld	ADJ	painful.a.01
+parallel	ADJ	parallel.a.01
+retfærdig	ADJ	impartial.a.01
+passioneret	ADJ	passionate.a.01
+fortidig	ADJ	past.a.01
+nuværende	ADJ	present.a.01
+tålmodig	ADJ	patient.a.01
+fredfyldt	ADJ	peaceful.a.01
+perfekt	ADJ	perfect.a.01
+permanent	ADJ	permanent.a.01
+midlertidig	ADJ	impermanent.a.01
+vedvarende	ADJ	persistent.a.03
+personlig	ADJ	personal.a.01
+fysisk	ADJ	physical.a.01
+legemlig	ADJ	physical.a.01
+religiøs	ADJ	religious.a.02
+simpel	ADJ	plain.a.02
+behagelig	ADJ	pleasant.a.01
+politisk	ADJ	political.a.01
+populær	ADJ	popular.a.01
+neutral	ADJ	neutral.a.04
+positiv	ADJ	positive.a.04
+negativ	ADJ	negative.a.04
+umulig	ADJ	impossible.a.01
+stærk	ADJ	potent.a.03
+mægtig	ADJ	powerful.a.01
+magtfuld	ADJ	powerful.a.01
+indflydelsesrig	ADJ	influential.a.01
+forudseelig	ADJ	predictable.a.01
+forudsigelig	ADJ	predictable.a.01
+tilstedeværende	ADJ	present.a.02
+primær	ADJ	primary.a.01
+sekundær	ADJ	secondary.a.01
+grundlæggende	ADJ	basic.a.01
+offentlig	ADJ	public.a.01
+eksklusiv	ADJ	exclusive.a.02
+produktiv	ADJ	generative.a.01
+grundig	ADJ	profound.a.01
+progressiv	ADJ	progressive.a.01
+stolt	ADJ	proud.a.01
+ufejlbarlig	ADJ	pure.a.06
+rolig	ADJ	quiet.a.02	quiet.a.01
+larmende	ADJ	noisy.a.01
+tilfældig	ADJ	random.a.01
+rationel	ADJ	rational.a.01
+følelsesbetonet	ADJ	emotional.a.01
+realistisk	ADJ	realistic.a.01
+gensidig	ADJ	reciprocal.a.01
+regelmæssig	ADJ	regular.a.01
+familiær	ADJ	related.a.02
+relevant	ADJ	relevant.a.01
+irrelevant	ADJ	irrelevant.a.01
+opmærksom	ADJ	mindful.a.01
+repræsentativ	ADJ	representative.a.02
+respektabel	ADJ	respectable.a.01
+ansvarlig	ADJ	responsible.a.01
+revolutionær	ADJ	revolutionary.a.04
+rig	ADJ	rich.a.01
+fattig	ADJ	poor.a.03
+venstreorienteret	ADJ	left.a.04
+rund	ADJ	round.a.01
+firkantet	ADJ	square.a.01
+hellig	ADJ	holy.a.01	sacred.a.01
+farlig	ADJ	dangerous.a.01
+videnskabelig	ADJ	scientific.a.02
+senior	ADJ	senior.a.01
+yngling	ADJ	junior.a.01
+følsom	ADJ	sensitive.a.02
+separat	ADJ	separate.a.01
+seriøs	ADJ	unplayful.a.01
+seksuel	ADJ	sexual.a.02
+blind	ADJ	blind.a.01
+vigtig	ADJ	significant.a.01
+kompliceret	ADJ	complex.a.01
+mangfoldig	ADJ	multiple.a.01
+glat	ADJ	slippery.a.01	smooth.a.01
+ru	ADJ	rough.a.01
+social	ADJ	social.a.02
+selskabelig	ADJ	gregarious.a.01
+fast	ADJ	solid.a.02	solid.a.03
+flydende	ADJ	liquid.a.01
+sofistikeret	ADJ	sophisticated.a.01
+spontan	ADJ	spontaneous.a.01
+skriftlig	ADJ	written.a.01
+stabil	ADJ	stable.a.01	steady.a.01
+ret	ADJ	straight.a.08
+stædig	ADJ	stubborn.a.01
+succesrig	ADJ	successful.a.01
+utilstrækkelig	ADJ	insufficient.a.01
+overlegen	ADJ	superior.a.01
+sød	ADJ	sweet.a.01	tender.a.01
+sur	ADJ	sour.a.02
+sympatisk	ADJ	sympathetic.a.04
+systematisk	ADJ	systematic.a.01
+vild	ADJ	wild.a.02
+anspændt	ADJ	tense.a.01
+tyk	ADJ	thick.a.01	thick.a.03
+ordentlig	ADJ	tidy.a.01
+træt	ADJ	tired.a.01
+tolerant	ADJ	tolerant.a.01
+mør	ADJ	tender.a.05
+giftig	ADJ	toxic.a.01
+falsk	ADJ	false.a.01
+typisk	ADJ	typical.a.01
+usynlig	ADJ	invisible.a.01
+kølig	ADJ	cool.a.01	cool.a.04
+syg	ADJ	ill.a.01
+tør	ADJ	dry.a.01
+smal	ADJ	narrow.a.01
+latterlig	ADJ	foolish.a.01
+akademisk	ADJ	academic.a.01
+arkæologisk	ADJ	archaeological.a.01
+kommunal	ADJ	municipal.a.01
+digital	ADJ	digital.a.01
+dramatisk	ADJ	dramatic.a.03
+økonomisk	ADJ	economic.a.02
+elektronisk	ADJ	electronic.a.01
+genetisk	ADJ	genetic.a.04
+menneskelig	ADJ	human.a.01
+juridisk	ADJ	judicial.a.03
+militær	ADJ	military.a.01
+landlig	ADJ	rural.a.02
+teknisk	ADJ	technical.a.01
+lovmæssig	ADJ	legislative.a.01
+litterær	ADJ	literary.a.01
+professionel	ADJ	professional.a.04
+rumlig	ADJ	spatial.a.01
+finansiel	ADJ	fiscal.a.01
+filosofisk	ADJ	philosophic.a.01
+regional	ADJ	regional.a.01
+kontinental	ADJ	continental.a.03
+maritim	ADJ	marine.a.01
+erhvervsmæssig	ADJ	occupational.a.01
+strukturel	ADJ	structural.a.02
+mental	ADJ	mental.a.02
+kulturel	ADJ	cultural.a.01
+ængstelig	ADJ	nervous.a.03
+nervøs	ADJ	nervous.a.03
+geologisk	ADJ	geological.a.01
+statistisk	ADJ	statistical.a.01
+historisk	ADJ	historical.a.01
+magnetisk	ADJ	magnetic.a.01
+matematisk	ADJ	mathematical.a.01
+eksperimentel	ADJ	experimental.a.01
+miljømæssig	ADJ	environmental.a.01
+strategisk	ADJ	strategic.a.01
+kvantitativ	ADJ	quantitative.a.02
+national	ADJ	national.a.01
+middelalderlig	ADJ	medieval.a.01
+kunstnerisk	ADJ	artistic.a.01
+operationel	ADJ	operational.a.01
+bureaukratisk	ADJ	bureaucratic.a.01

@@ -27029,1423 +27029,1423 @@ raspaliti_se	VERB	erupt.v.03
 raspaljivati_se	VERB	erupt.v.03
 reflektirati	VERB	reflect.v.04
 iskriti	VERB	sparkle.v.01	spark.v.02
-kadar	ADJ	able.a.01	able.a.01
-sposoban	ADJ	able.a.01	capable.a.01	competent.a.01	able.a.01	capable.a.01	competent.a.01
-umješan	ADJ	able.a.01	able.a.01
-nemoćan	ADJ	unable.a.01	impotent.a.01	powerless.a.01	weak.a.01	unable.a.01	impotent.a.01	powerless.a.01	weak.a.01
-nesposoban	ADJ	unable.a.01	incapable.a.01	incapable.a.03	unable.a.01	incapable.a.01	incapable.a.03
-apsolutan	ADJ	absolute.a.01	absolute.a.01
-relativan	ADJ	relative.a.01	relative.a.01
-apstraktan	ADJ	abstract.a.01	abstract.a.01
-konkretan	ADJ	concrete.a.01	concrete.a.01
-obilan	ADJ	abundant.a.01	abundant.a.01
-prihvatljiv	ADJ	acceptable.a.01	acceptable.a.01
-dostupan	ADJ	accessible.a.01	available.a.01	accessible.a.01	available.a.01
-točan	ADJ	accurate.a.01	correct.a.01	exact.a.01	truthful.a.01	accurate.a.01	correct.a.01	exact.a.01	truthful.a.01
-netočan	ADJ	inaccurate.a.01	inaccurate.a.01
-kiseo	ADJ	acidic.a.01	sour.a.02	acidic.a.01	sour.a.02
-aktivan	ADJ	active.a.05	active.a.14	active.a.07	active.a.01	active.a.03	active.a.13	active.a.12	active.a.06	active.a.05	active.a.14	active.a.07	active.a.01	active.a.03	active.a.13	active.a.12	active.a.06
-energičan	ADJ	active.a.05	energetic.a.01	spirited.a.01	active.a.05	energetic.a.01	spirited.a.01
-živ	ADJ	active.a.05	active.a.03	alive.a.01	animate.a.02	animate.a.01	lively.a.01	active.a.05	active.a.03	alive.a.01	animate.a.02	animate.a.01	lively.a.01
-živahan	ADJ	active.a.05	lively.a.01	spirited.a.01	active.a.05	lively.a.01	spirited.a.01
-inertan	ADJ	inactive.a.09	passive.a.01	inactive.a.09	passive.a.01
-neaktivan	ADJ	inactive.a.09	inactive.a.07	dormant.a.02	extinct.a.02	inactive.a.09	inactive.a.07	dormant.a.02	extinct.a.02
-pasivan	ADJ	inactive.a.09	passive.a.01	inactive.a.09	passive.a.01
-trom	ADJ	inactive.a.09	passive.a.01	inactive.a.09	passive.a.01
-djelatan	ADJ	active.a.07	active.a.03	active.a.07	active.a.03
-otvoren	ADJ	active.a.07	open.a.01	open.a.02	open.a.05	overt.a.01	receptive.a.02	active.a.07	open.a.01	open.a.02	open.a.05	overt.a.01	receptive.a.02
-vrijedan	ADJ	active.a.07	rewarding.a.01	valuable.a.01	active.a.07	rewarding.a.01	valuable.a.01
-vrijedeći	ADJ	active.a.07	active.a.07
-napušten	ADJ	inactive.a.07	inactive.a.07
-nedjelatan	ADJ	inactive.a.07	inactive.a.07
-neupotrebljen	ADJ	inactive.a.07	inactive.a.07
-zatvoren	ADJ	inactive.a.07	shut.a.01	inactive.a.07	shut.a.01
-bezvoljan	ADJ	passive.a.01	spiritless.a.01	unwilling.a.01	passive.a.01	spiritless.a.01	unwilling.a.01
-lijen	ADJ	passive.a.01	passive.a.01
-miran	ADJ	dormant.a.02	peaceful.a.01	quiet.a.02	quiet.a.01	dormant.a.02	peaceful.a.01	quiet.a.02	quiet.a.01
-uspavan	ADJ	dormant.a.02	dormant.a.02
-u_stanju_mirovanja	ADJ	dormant.a.02	dormant.a.02
-ugasli	ADJ	extinct.a.02	extinct.a.02
-aktualan	ADJ	actual.a.01	actual.a.01
-postojeći	ADJ	actual.a.01	existent.a.01	extant.a.01	real.a.01	actual.a.01	existent.a.01	extant.a.01	real.a.01
-prezentan	ADJ	actual.a.01	actual.a.01
-prisutan	ADJ	actual.a.01	present.a.02	actual.a.01	present.a.02
-sadašnji	ADJ	actual.a.01	existent.a.01	present.a.01	actual.a.01	existent.a.01	present.a.01
-stvaran	ADJ	actual.a.01	real.a.01	actual.a.01	real.a.01
-zbiljski	ADJ	actual.a.01	actual.a.01
-moguć	ADJ	potential.a.01	possible.a.01	potential.a.01	possible.a.01
-potencijalan	ADJ	potential.a.01	prospective.a.01	potential.a.01	prospective.a.01
-akutan	ADJ	acute.a.01	acute.a.01
-kroničan	ADJ	chronic.a.01	chronic.a.01
-ovisan	ADJ	addicted.a.01	dependent.a.01	addicted.a.01	dependent.a.01
-adekvatan	ADJ	adequate.a.01	adequate.a.01
-podoban	ADJ	adequate.a.01	adequate.a.01
-neadevkatan	ADJ	inadequate.a.01	inadequate.a.01
-snalažljiv	ADJ	adroit.a.01	adroit.a.01
-povoljan	ADJ	advantageous.a.01	auspicious.a.01	favorable.a.02	favorable.a.01	positive.a.01	advantageous.a.01	auspicious.a.01	favorable.a.02	favorable.a.01	positive.a.01
-poželjan	ADJ	advisable.a.01	desirable.a.01	advisable.a.01	desirable.a.01
-anaeroban	ADJ	anaerobic.a.01	anaerobic.a.01
-estetski	ADJ	aesthetic.a.02	aesthetic.a.01	aesthetic.a.02	aesthetic.a.01
-nepromijenjen	ADJ	unaffected.a.01	unchanged.a.01	unaffected.a.01	unchanged.a.01
-preplašen	ADJ	afraid.a.01	afraid.a.01
-prestrašen	ADJ	afraid.a.01	afraid.a.01
-ustrašen	ADJ	afraid.a.01	afraid.a.01
-bez_straha	ADJ	unafraid.a.01	unafraid.a.01
-neustrašiv	ADJ	unafraid.a.01	unafraid.a.01
-agresivan	ADJ	aggressive.a.01	aggressive.a.01
-budan	ADJ	alert.a.01	awake.a.01	alert.a.01	awake.a.01
-pažljiv	ADJ	alert.a.01	careful.a.01	heedful.a.01	alert.a.01	careful.a.01	heedful.a.01
-mrtav	ADJ	dead.a.01	dead.a.02	inanimate.a.02	dead.a.01	dead.a.02	inanimate.a.02
-abecedan	ADJ	alphabetic.a.02	alphabetic.a.02
-altruističan	ADJ	altruistic.a.01	altruistic.a.01
-ambiciozan	ADJ	ambitious.a.01	ambitious.a.01
-bez_ambicije	ADJ	unambitious.a.01	unambitious.a.01
-neambiciozan	ADJ	unambitious.a.01	unambitious.a.01
-digitalan	ADJ	digital.a.03	digital.a.03
-analitički	ADJ	analytic.a.02	analytic.a.01	analytic.a.02	analytic.a.01
-ljut	ADJ	angry.a.01	angry.a.01
-neživ	ADJ	inanimate.a.02	inanimate.a.02
-anoniman	ADJ	anonymous.a.01	anonymous.a.01
-sljedeći	ADJ	subsequent.a.01	succeeding.a.01	subsequent.a.01	succeeding.a.01
-voden	ADJ	aquatic.a.02	aqueous.a.01	aquatic.a.02	aqueous.a.01
-zemaljski	ADJ	terrestrial.a.03	earthly.a.01	planetary.a.02	terrestrial.a.03	earthly.a.01	planetary.a.02
-amfibijski	ADJ	amphibious.a.02	amphibious.a.02
-prednji	ADJ	preceding.a.01	anterior.a.01	front.a.01	forward.a.01	preceding.a.01	anterior.a.01	front.a.01	forward.a.01
-prethodan	ADJ	preceding.a.01	preceding.a.01
-idući	ADJ	succeeding.a.01	succeeding.a.01
-naredni	ADJ	succeeding.a.01	succeeding.a.01
-sukcesivan	ADJ	succeeding.a.01	succeeding.a.01
-predratni	ADJ	prewar.a.01	prewar.a.01
-poslijeratan	ADJ	postwar.a.01	postwar.a.01
-retrogradan	ADJ	retrograde.a.02	retrograde.a.02
-anterogradan	ADJ	anterograde.a.01	anterograde.a.01
-prijepodnevni	ADJ	antemeridian.a.01	antemeridian.a.01
-popodnevni	ADJ	postmeridian.a.01	postmeridian.a.01
-poslijepodnevni	ADJ	postmeridian.a.01	postmeridian.a.01
-anteriorni_dio	ADJ	anterior.a.01	anterior.a.01
-prednji_dio	ADJ	anterior.a.01	anterior.a.01
-posteriorni_dio	ADJ	posterior.a.01	posterior.a.01
-stražnji_dio	ADJ	posterior.a.01	posterior.a.01
-odgovarajući	ADJ	appropriate.a.01	appropriate.a.01
-neprikladan	ADJ	inappropriate.a.01	bad.a.01	inappropriate.a.01	bad.a.01
-naplativo	ADJ	due.a.01	due.a.01
-neartikuliran	ADJ	inarticulate.a.01	inarticulate.a.01
-posramljen	ADJ	ashamed.a.01	ashamed.a.01
-postiđen	ADJ	ashamed.a.01	ashamed.a.01
-arogantan	ADJ	assertive.a.01	assertive.a.01
-nametljiv	ADJ	assertive.a.01	assertive.a.01
-napadan	ADJ	assertive.a.01	assertive.a.01
-oprezan	ADJ	wary.a.01	careful.a.01	cautious.a.01	wary.a.01	careful.a.01	cautious.a.01
-atraktivan	ADJ	attractive.a.01	attractive.a.01
-privlačan	ADJ	attractive.a.01	appealing.a.01	sympathetic.a.04	attractive.a.01	appealing.a.01	sympathetic.a.04
-neatraktivan	ADJ	unattractive.a.01	unattractive.a.01
-neprivlačan	ADJ	unattractive.a.01	unattractive.a.01
-atributivni	ADJ	attributive.a.01	attributive.a.01
-pridjevski	ADJ	attributive.a.01	adjectival.a.01	attributive.a.01	adjectival.a.01
-trudan	ADJ	pregnant.a.01	pregnant.a.01
-trudna	ADJ	pregnant.a.01	pregnant.a.01
-zvučan	ADJ	audible.a.01	audible.a.01
-neovlašten	ADJ	unauthorized.a.01	unauthorized.a.01
-automatski	ADJ	automatic.a.01	automatic.a.01
-manualan	ADJ	manual.a.02	manual.a.02
-nedostupan	ADJ	unavailable.a.01	unavailable.a.01
-zaspao	ADJ	asleep.a.01	asleep.a.01
-svjestan	ADJ	aware.a.01	conscious.a.02	mindful.a.01	aware.a.01	conscious.a.02	mindful.a.01
-nesvjestan	ADJ	unaware.a.01	unwitting.a.02	unaware.a.01	unwitting.a.02
-vodeći	ADJ	leading.a.03	leading.a.03
-travnat	ADJ	grassy.a.01	grassy.a.01
-dlakav	ADJ	hairy.a.01	hairy.a.01
-krasan	ADJ	beautiful.a.01	good.a.03	beautiful.a.01	good.a.03
-lijep	ADJ	beautiful.a.01	nice.a.01	beautiful.a.01	nice.a.01
-prekrasan	ADJ	beautiful.a.01	beautiful.a.01
-gadan	ADJ	ugly.a.01	nasty.a.01	ugly.a.01	nasty.a.01
-odbojan	ADJ	ugly.a.01	ugly.a.01
-rugoban	ADJ	ugly.a.01	ugly.a.01
-ružan	ADJ	ugly.a.01	ugly.a.01
-zlonamjeran	ADJ	malicious.a.01	malicious.a.01
-jednostran	ADJ	unilateral.a.01	unilateral.a.01
-crn	ADJ	black.a.02	black.a.01	black.a.02	black.a.01
-bijel	ADJ	white.a.02	white.a.01	white.a.02	white.a.01
-blond	ADJ	blond.a.01	blond.a.01
-plavokos	ADJ	blond.a.01	blond.a.01
-krvav	ADJ	bloody.a.01	bloody.a.01
-hrabar	ADJ	bold.a.01	brave.a.01	bold.a.01	brave.a.01
-odvažan	ADJ	bold.a.01	bold.a.01
-iz_nižih_slojeva	ADJ	lower-class.a.01	lower-class.a.01
-građanski	ADJ	middle-class.a.01	civil.a.03	civic.a.01	middle-class.a.01	civil.a.03	civic.a.01
-iz_srednjeg_sloja	ADJ	middle-class.a.01	middle-class.a.01
-iz_viših_slojeva	ADJ	upper-class.a.01	upper-class.a.01
-kukavički	ADJ	cowardly.a.01	cowardly.a.01
-kristalan	ADJ	crystalline.a.01	crystalline.a.01
-svijetao	ADJ	light.a.06	light.a.02	light.a.06	light.a.02
-svjetleći	ADJ	light.a.06	light.a.06
-taman	ADJ	dark.a.01	dark.a.02	dark.a.01	dark.a.02
-uskogrudan	ADJ	narrow-minded.a.02	narrow-minded.a.02
-zatucan	ADJ	narrow-minded.a.02	narrow-minded.a.02
-razlomljen	ADJ	broken.a.01	fractional.a.01	broken.a.01	fractional.a.01
-razoren	ADJ	broken.a.01	broken.a.01
-slomljen	ADJ	broken.a.01	broken.a.01
-cijeli	ADJ	unbroken.a.05	whole.a.01	unbroken.a.05	whole.a.01
-cio	ADJ	unbroken.a.05	whole.a.01	unbroken.a.05	whole.a.01
-čitav	ADJ	unbroken.a.05	whole.a.01	unbroken.a.05	whole.a.01
-neslomljen	ADJ	unbroken.a.05	unbroken.a.05
-neprekinut	ADJ	unbroken.a.01	unbroken.a.01
-bratski	ADJ	brotherly.a.01	brotherly.a.01
-zauzet	ADJ	busy.a.01	busy.a.01
-socijalistički	ADJ	socialistic.a.01	socialistic.a.01
-nebrižan	ADJ	careless.a.01	careless.a.01
-nemaran	ADJ	careless.a.01	careless.a.01
-neobziran	ADJ	careless.a.01	careless.a.01
-neoprezan	ADJ	careless.a.01	careless.a.01
-nepažljiv	ADJ	careless.a.01	heedless.a.01	careless.a.01	heedless.a.01
-nepromišljen	ADJ	careless.a.01	careless.a.01
-porozan	ADJ	porous.a.02	porous.a.02
-središnji	ADJ	central.a.02	inner.a.02	central.a.02	inner.a.02
-periferan	ADJ	peripheral.a.01	peripheral.a.01
-izvjestan	ADJ	certain.a.03	certain.a.03
-jasan	ADJ	certain.a.03	clear.a.01	clear.a.11	well-defined.a.02	distinct.a.02	explicit.a.01	certain.a.03	clear.a.01	clear.a.11	well-defined.a.02	distinct.a.02	explicit.a.01
-siguran	ADJ	certain.a.03	certain.a.02	certain.a.04	safe.a.01	certain.a.03	certain.a.02	certain.a.04	safe.a.01
-neizvjestan	ADJ	uncertain.a.02	uncertain.a.02
-nejasan	ADJ	uncertain.a.02	undefined.a.01	indistinct.a.01	uncertain.a.02	undefined.a.01	indistinct.a.01
-nesiguran	ADJ	uncertain.a.02	uncertain.a.01	diffident.a.02	uncertain.a.02	uncertain.a.01	diffident.a.02
-uvjeren	ADJ	certain.a.02	confident.a.01	certain.a.02	confident.a.01
-plašljiv	ADJ	diffident.a.02	diffident.a.02
-stidljiv	ADJ	diffident.a.02	diffident.a.02
-neizbježan	ADJ	inevitable.a.01	inevitable.a.01
-promjenljiv	ADJ	mutable.a.01	mutable.a.01
-karakterističan	ADJ	characteristic.a.01	specific.a.01	characteristic.a.01	specific.a.01
-veseo	ADJ	cheerful.a.01	happy.a.01	glad.a.01	cheerful.a.01	happy.a.01	glad.a.01
-neutralan	ADJ	achromatic.a.01	neutral.a.04	achromatic.a.01	neutral.a.04
-čist	ADJ	saturated.a.03	clean.a.01	clean.a.08	pure.a.06	pure.a.01	solid.a.03	saturated.a.03	clean.a.01	clean.a.08	pure.a.06	pure.a.01	solid.a.03
-obojen	ADJ	color.a.01	colored.a.01	color.a.01	colored.a.01
-u_boji	ADJ	color.a.01	colored.a.01	color.a.01	colored.a.01
-crno-bijel	ADJ	black-and-white.a.02	black-and-white.a.02
-bezbojan	ADJ	uncolored.a.01	colorless.a.02	uncolored.a.01	colorless.a.02
-šaren	ADJ	colorful.a.01	colorful.a.02	colorful.a.01	colorful.a.02
-klasičan	ADJ	classical.a.01	classical.a.01
-nečist	ADJ	dirty.a.01	impure.a.02	dirty.a.01	impure.a.02
-prljav	ADJ	dirty.a.01	dirty.a.02	impure.a.02	dirty.a.01	dirty.a.02	impure.a.02
-umrljan	ADJ	dirty.a.01	dirty.a.01
-uprljan	ADJ	dirty.a.01	dirty.a.01
-zamazan	ADJ	dirty.a.01	dirty.a.01
-zamrljan	ADJ	dirty.a.01	dirty.a.01
-zaprljan	ADJ	dirty.a.01	dirty.a.01
-nepristojan	ADJ	dirty.a.02	dirty.a.02
-neproziran	ADJ	opaque.a.01	opaque.a.01
-pametan	ADJ	smart.a.01	intelligent.a.01	smart.a.01	intelligent.a.01
-glup	ADJ	stupid.a.01	unintelligent.a.01	stupid.a.01	unintelligent.a.01
-dalek	ADJ	far.a.01	distant.a.01	far.a.01	distant.a.01
-udaljen	ADJ	far.a.01	distant.a.01	far.a.01	distant.a.01
-blizak	ADJ	near.a.01	close.a.01	close.a.02	near.a.01	close.a.01	close.a.02
-nedaleki	ADJ	near.a.01	close.a.01	near.a.01	close.a.01
-obližnji	ADJ	near.a.01	close.a.01	near.a.01	close.a.01
-vedar	ADJ	clear.a.11	clear.a.11
-obalan	ADJ	coastal.a.02	coastal.a.02
-kolektivan	ADJ	collective.a.02	collective.a.02
-eksplozivan	ADJ	explosive.a.01	explosive.a.01
-udoban	ADJ	comfortable.a.01	comfortable.a.01
-ugodan	ADJ	comfortable.a.01	pleasant.a.01	pleasing.a.01	warm.a.02	comfortable.a.01	pleasant.a.01	pleasing.a.01	warm.a.02
-neudoban	ADJ	uncomfortable.a.02	uncomfortable.a.02
-neugodan	ADJ	uncomfortable.a.02	uncomfortable.a.01	offensive.a.05	unpleasant.a.01	cool.a.04	uncomfortable.a.02	uncomfortable.a.01	offensive.a.05	unpleasant.a.01	cool.a.04
-komercijalan	ADJ	commercial.a.01	commercial.a.01
-tržišni	ADJ	commercial.a.01	commercial.a.01
-nekomercijalan	ADJ	noncommercial.a.01	noncommercial.a.01
-stamben	ADJ	residential.a.01	residential.a.01
-zajednički	ADJ	common.a.02	common.a.01	joint.a.01	common.a.02	common.a.01	joint.a.01
-uobičajen	ADJ	usual.a.01	conventional.a.04	normal.a.01	orthodox.a.02	standard.a.01	usual.a.01	conventional.a.04	normal.a.01	orthodox.a.02	standard.a.01
-neobičan	ADJ	unusual.a.01	unconventional.a.02	unorthodox.a.02	unusual.a.01	unconventional.a.02	unorthodox.a.02
-javni	ADJ	common.a.01	common.a.01
-opći	ADJ	common.a.01	general.a.01	common.a.01	general.a.01
-individualan	ADJ	individual.a.01	individual.a.01
-osoban	ADJ	individual.a.01	personal.a.01	individual.a.01	personal.a.01
-pojedinačan	ADJ	individual.a.01	individual.a.01
-zaseban	ADJ	individual.a.01	separate.a.01	individual.a.01	separate.a.01
-kompaktan	ADJ	compact.a.01	compact.a.01
-usporediv	ADJ	comparable.a.01	comparable.a.01
-kompatibilan	ADJ	compatible.a.01	compatible.a.01
-kompetentan	ADJ	competent.a.01	competent.a.01
-mjerodavan	ADJ	competent.a.01	competent.a.01
-kompetitivan	ADJ	competitive.a.01	competitive.a.01
-sav	ADJ	whole.a.01	whole.a.01
-djelomičan	ADJ	fractional.a.01	fractional.a.01
-frakcionalan	ADJ	fractional.a.01	fractional.a.01
-parcijalan	ADJ	fractional.a.01	fractional.a.01
-potpun	ADJ	complete.a.01	perfect.a.01	complete.a.01	perfect.a.01
-nepotpun	ADJ	incomplete.a.01	imperfect.a.01	incomplete.a.01	imperfect.a.01
-sveobuhvatan	ADJ	comprehensive.a.01	comprehensive.a.01
-konkavan	ADJ	concave.a.01	concave.a.01
-konveksan	ADJ	convex.a.01	convex.a.01
-koncentričan	ADJ	concentric.a.01	concentric.a.01
-bezuvjetan	ADJ	unconditional.a.01	unconditional.a.01
-neprimjeren	ADJ	incongruous.a.01	incongruous.a.01
-povezan	ADJ	connected.a.02	related.a.02	related.a.01	connected.a.02	related.a.02	related.a.01
-spojen	ADJ	connected.a.02	connected.a.02
-vezan	ADJ	connected.a.02	connected.a.02
-nepovezan	ADJ	unconnected.a.01	unrelated.a.01	unconnected.a.01	unrelated.a.01
-nevezan	ADJ	unconnected.a.01	unconnected.a.01
-konzervativan	ADJ	conservative.a.01	conventional.a.01	conservative.a.01	conventional.a.01
-liberalan	ADJ	liberal.a.03	liberal.a.03
-slobodouman	ADJ	liberal.a.03	liberal.a.03
-dosljedan	ADJ	consistent.a.01	consistent.a.01
-upadljiv	ADJ	conspicuous.a.01	conspicuous.a.01
-neprimjetan	ADJ	inconspicuous.a.01	imperceptible.a.01	inconspicuous.a.01	imperceptible.a.01
-čvrst	ADJ	constant.a.02	rugged.a.01	tight.a.01	solid.a.02	strong.a.01	tough.a.03	constant.a.02	rugged.a.01	tight.a.01	solid.a.02	strong.a.01	tough.a.03
-konstantan	ADJ	constant.a.02	constant.a.02
-postojan	ADJ	constant.a.02	constant.a.02
-nestalan	ADJ	inconstant.a.01	inconstant.a.01
-konstruktivan	ADJ	constructive.a.01	constructive.a.01
-destruktivan	ADJ	destructive.a.01	destructive.a.01
-sadržaj	ADJ	contented.a.01	contented.a.01
-zadovoljan	ADJ	contented.a.01	contented.a.01
-sporadičan	ADJ	sporadic.a.01	sporadic.a.01
-kontinuiran	ADJ	continuous.a.01	continuous.a.02	continuous.a.01	continuous.a.02
-nekontroliran	ADJ	uncontrolled.a.01	uncontrolled.a.01
-kontroverzan	ADJ	controversial.a.01	controversial.a.01
-podesan	ADJ	convenient.a.01	convenient.a.01
-pogodan	ADJ	convenient.a.01	convenient.a.01
-prikladan	ADJ	convenient.a.01	eligible.a.01	good.a.01	convenient.a.01	eligible.a.01	good.a.01
-konvencionalan	ADJ	conventional.a.01	conventional.a.04	conventional.a.01	conventional.a.04
-nekonvencionalan	ADJ	unconventional.a.01	unconventional.a.02	unconventional.a.01	unconventional.a.02
-neuobičajen	ADJ	unconventional.a.01	unconventional.a.02	abnormal.a.01	nonstandard.a.02	unconventional.a.01	unconventional.a.02	abnormal.a.01	nonstandard.a.02
-nuklearan	ADJ	nuclear.a.01	nuclear.a.01
-tradicionalan	ADJ	traditional.a.01	traditional.a.01
-divergentan	ADJ	divergent.a.02	divergent.a.02
-uvjerljiv	ADJ	convincing.a.01	persuasive.a.01	convincing.a.01	persuasive.a.01
-neuvjerljiv	ADJ	unconvincing.a.01	unconvincing.a.01
-sirov	ADJ	raw.a.03	unrefined.a.01	raw.a.03	unrefined.a.01
-kooperativan	ADJ	cooperative.a.02	cooperative.a.02
-korumpiran	ADJ	corrupt.a.01	corrupt.a.01
-interaktivni	ADJ	synergistic.a.01	synergistic.a.01
-sinergijski	ADJ	synergistic.a.01	synergistic.a.01
-znatan	ADJ	considerable.a.01	major.a.03	considerable.a.01	major.a.03
-materijalan	ADJ	material.a.02	corporeal.a.01	tangible.a.03	material.a.02	corporeal.a.01	tangible.a.03
-bestjelesan	ADJ	immaterial.a.03	incorporeal.a.01	immaterial.a.03	incorporeal.a.01
-nematerijalan	ADJ	immaterial.a.03	incorporeal.a.01	immaterial.a.03	incorporeal.a.01
-netvaran	ADJ	immaterial.a.03	immaterial.a.03
-fizički	ADJ	corporeal.a.01	physical.a.01	corporeal.a.01	physical.a.01
-tjelesan	ADJ	corporeal.a.01	bodily.a.01	corporeal.a.01	bodily.a.01
-netjelesan	ADJ	incorporeal.a.01	incorporeal.a.01
-pogrešan	ADJ	incorrect.a.01	wrong.a.05	wrong.a.02	incorrect.a.01	wrong.a.05	wrong.a.02
-pokrajinski	ADJ	provincial.a.02	provincial.a.01	provincial.a.02	provincial.a.01
-obziran	ADJ	considerate.a.01	considerate.a.01
-bezobziran	ADJ	inconsiderate.a.01	inconsiderate.a.01
-neuljudan	ADJ	discourteous.a.01	unkind.a.01	discourteous.a.01	unkind.a.01
-pristojan	ADJ	polite.a.01	polite.a.01
-kreativan	ADJ	creative.a.01	creative.a.01
-maštovit	ADJ	creative.a.01	creative.a.01
-stvaralački	ADJ	creative.a.01	creative.a.01
-nekreativan	ADJ	uncreative.a.01	uncreative.a.01
-nevjerojatan	ADJ	incredible.a.01	improbable.a.01	impossible.a.01	incredible.a.01	improbable.a.01	impossible.a.01
-kritičan	ADJ	critical.a.01	critical.a.06	critical.a.02	critical.a.01	critical.a.06	critical.a.02
-kritički	ADJ	critical.a.03	critical.a.03
-ključan	ADJ	critical.a.06	crucial.a.01	significant.a.01	critical.a.06	crucial.a.01	significant.a.01
-opasan	ADJ	critical.a.06	dangerous.a.01	critical.a.06	dangerous.a.01
-presudan	ADJ	critical.a.06	critical.a.06
-nekritičan	ADJ	noncritical.a.02	noncritical.a.02
-iskristaliziran	ADJ	crystallized.a.01	crystallized.a.01
-kristaliziran	ADJ	crystallized.a.01	crystallized.a.01
-nedovršen	ADJ	uncrystallized.a.01	imperfect.a.01	uncrystallized.a.01	imperfect.a.01
-neiskristaliziran	ADJ	uncrystallized.a.01	uncrystallized.a.01
-nekristaliziran	ADJ	uncrystallized.a.01	uncrystallized.a.01
-trodimenzionalan	ADJ	cubic.a.01	cubic.a.01
-linearan	ADJ	linear.a.02	linear.a.01	linear.a.02	linear.a.01
-znatiželjan	ADJ	curious.a.02	curious.a.02
-današnji	ADJ	current.a.01	present.a.01	current.a.01	present.a.01
-suvremen	ADJ	current.a.01	current.a.01
-domaći	ADJ	homemade.a.01	domestic.a.01	domestic.a.03	domestic.a.02	homemade.a.01	domestic.a.01	domestic.a.03	domestic.a.02
-godišnji	ADJ	annual.a.01	annual.a.01
-dvogodišnji	ADJ	biennial.a.01	biennial.a.01
-višegodišnji	ADJ	perennial.a.01	perennial.a.01
-dnevan	ADJ	diurnal.a.01	diurnal.a.01
-noćni	ADJ	nocturnal.a.01	nocturnal.a.02	nocturnal.a.01	nocturnal.a.02
-gluh	ADJ	deaf.a.01	deaf.a.01
-odlučujući	ADJ	decisive.a.01	decisive.a.01
-neodlučan	ADJ	indecisive.a.02	indecisive.a.02
-dubok	ADJ	deep.a.03	deep.a.01	profound.a.01	deep.a.03	deep.a.01	profound.a.01
-plitak	ADJ	shallow.a.01	shallow.a.02	shallow.a.01	shallow.a.02
-prkosan	ADJ	defiant.a.01	defiant.a.01
-nedefiniran	ADJ	undefined.a.01	undefined.a.01
-definiran	ADJ	well-defined.a.02	well-defined.a.02
-određen	ADJ	definite.a.01	distinct.a.02	specified.a.01	definite.a.01	distinct.a.02	specified.a.01
-neodređen	ADJ	indefinite.a.01	indeterminate.a.01	neutral.a.04	indefinite.a.01	indeterminate.a.01	neutral.a.04
-delikatan	ADJ	delicate.a.01	delicate.a.01
-fin	ADJ	delicate.a.01	fine.a.05	delicate.a.01	fine.a.05
-istančan	ADJ	delicate.a.01	delicate.a.01
-krhak	ADJ	delicate.a.01	weak.a.01	delicate.a.01	weak.a.01
-nježan	ADJ	delicate.a.01	tender.a.01	delicate.a.01	tender.a.01
-osjetljiv	ADJ	delicate.a.01	sensible.a.02	sensitive.a.01	sensitive.a.02	susceptible.a.01	delicate.a.01	sensible.a.02	sensitive.a.01	sensitive.a.02	susceptible.a.01
-profinjen	ADJ	delicate.a.01	sophisticated.a.01	delicate.a.01	sophisticated.a.01
-slabašan	ADJ	delicate.a.01	powerless.a.01	weak.a.01	delicate.a.01	powerless.a.01	weak.a.01
-grub	ADJ	rugged.a.01	coarse.a.01	rough.a.01	tough.a.01	rugged.a.01	coarse.a.01	rough.a.01	tough.a.01
-otporan	ADJ	rugged.a.01	unsusceptible.a.01	rugged.a.01	unsusceptible.a.01
-zahtjevan	ADJ	demanding.a.01	demanding.a.01
-demokratski	ADJ	democratic.a.01	democratic.a.01
-nedemokratski	ADJ	undemocratic.a.01	undemocratic.a.01
-proizvoljan	ADJ	arbitrary.a.01	arbitrary.a.01
-pouzdan	ADJ	reliable.a.01	reliable.a.01
-neovisan	ADJ	independent.a.01	independent.a.01
-nezavisan	ADJ	independent.a.01	separate.a.01	independent.a.01	separate.a.01
-glavni	ADJ	independent.a.03	major.a.03	major.a.02	major.a.05	major.a.01	major.a.06	independent.a.03	major.a.03	major.a.02	major.a.05	major.a.01	major.a.06
-nerazvijen	ADJ	undeveloped.a.01	immature.a.04	undeveloped.a.01	immature.a.04
-adijabatski	ADJ	adiabatic.a.01	adiabatic.a.01
-nediferenciran	ADJ	undifferentiated.a.01	undifferentiated.a.01
-mučan	ADJ	difficult.a.01	difficult.a.01
-naporan	ADJ	difficult.a.01	difficult.a.01
-težak	ADJ	difficult.a.01	heavy.a.01	heavy.a.04	heavy.a.02	heavy.a.03	difficult.a.01	heavy.a.01	heavy.a.04	heavy.a.02	heavy.a.03
-jednostavan	ADJ	easy.a.01	simple.a.06	simple.a.01	easy.a.01	simple.a.06	simple.a.01
-lagan	ADJ	easy.a.01	light.a.01	light.a.04	easy.a.01	light.a.01	light.a.04
-lak	ADJ	easy.a.01	light.a.01	light.a.03	easy.a.01	light.a.01	light.a.03
-diplomatical	ADJ	diplomatic.a.02	diplomatic.a.02
-diplomatski	ADJ	diplomatic.a.02	diplomatic.a.01	diplomatic.a.02	diplomatic.a.01
-izravan	ADJ	direct.a.01	direct.a.03	lineal.a.01	direct.a.01	direct.a.03	lineal.a.01
-neizravan	ADJ	indirect.a.04	indirect.a.04
-neposredan	ADJ	immediate.a.03	immediate.a.03
-diskretan	ADJ	discreet.a.01	discreet.a.01
-djeljiv	ADJ	divisible.a.01	divisible.a.01
-dominantan	ADJ	domineering.a.01	dominant.a.01	domineering.a.01	dominant.a.01
-pokoran	ADJ	submissive.a.01	humble.a.02	tractable.a.01	submissive.a.01	humble.a.02	tractable.a.01
-nadmoćan	ADJ	dominant.a.01	dominant.a.01
-niže_razine	ADJ	subordinate.a.01	subordinate.a.01
-podređen	ADJ	subordinate.a.01	subordinate.a.01
-subordiniran	ADJ	subordinate.a.01	subordinate.a.01
-zavisan	ADJ	subordinate.a.01	subordinate.a.01
-kazališni	ADJ	theatrical.a.02	theatrical.a.01	theatrical.a.02	theatrical.a.01
-trijezan	ADJ	sober.a.01	sober.a.01
-tup	ADJ	dull.a.09	unintelligent.a.01	dull.a.09	unintelligent.a.01
-oštar	ADJ	sharp.a.09	sharp.a.08	sharp-pointed.a.01	sharp.a.09	sharp.a.08	sharp-pointed.a.01
-dosadan	ADJ	dull.a.01	dull.a.01
-nezanimljiv	ADJ	dull.a.01	uninteresting.a.01	dull.a.01	uninteresting.a.01
-sumoran	ADJ	dull.a.01	dull.a.01
-tmuran	ADJ	dull.a.01	dull.a.01
-dinamičan	ADJ	dynamic.a.01	dynamic.a.01
-željan	ADJ	eager.a.01	willing.a.01	eager.a.01	willing.a.01
-prijevremen	ADJ	early.a.01	early.a.01
-ran	ADJ	early.a.01	early.a.02	early.a.01	early.a.02
-uranio	ADJ	early.a.01	early.a.01
-srednje_dobi	ADJ	middle.a.04	middle.a.04
-srednji	ADJ	middle.a.04	intermediate.a.01	neutral.a.04	middle.a.04	intermediate.a.01	neutral.a.04
-sredovječan	ADJ	middle.a.04	middle.a.04
-kasan	ADJ	late.a.01	late.a.01
-nelagodan	ADJ	uneasy.a.01	uneasy.a.01
-istočan	ADJ	east.a.01	eastern.a.02	east.a.01	eastern.a.02
-zapadan	ADJ	west.a.01	western.a.01	western.a.02	west.a.01	western.a.01	western.a.02
-istočni	ADJ	eastern.a.04	eastern.a.04
-jestiv	ADJ	edible.a.01	edible.a.01
-djelotvoran	ADJ	effective.a.01	effective.a.01
-efektan	ADJ	effective.a.01	effective.a.01
-efektivan	ADJ	effective.a.01	effective.a.01
-efikasan	ADJ	effective.a.01	effective.a.01
-učinkovit	ADJ	effective.a.01	efficient.a.01	effective.a.01	efficient.a.01
-nedjelotvoran	ADJ	ineffective.a.01	ineffective.a.01
-neefektan	ADJ	ineffective.a.01	ineffective.a.01
-neefektivan	ADJ	ineffective.a.01	ineffective.a.01
-neefikasan	ADJ	ineffective.a.01	ineffective.a.01
-neučinkovit	ADJ	ineffective.a.01	ineffective.a.01
-elastičan	ADJ	elastic.a.01	elastic.a.01
-fakultativan	ADJ	optional.a.01	optional.a.01
-izborni	ADJ	optional.a.01	optional.a.01
-opcionalan	ADJ	optional.a.01	optional.a.01
-elegantan	ADJ	elegant.a.01	elegant.a.01
-emocionalan	ADJ	emotional.a.02	emotional.a.01	emotional.a.02	emotional.a.01
-emotivan	ADJ	emotional.a.02	emotional.a.02
-osjećajan	ADJ	emotional.a.02	emotional.a.02
-uzbuđen	ADJ	emotional.a.02	excited.a.02	emotional.a.02	excited.a.02
-bezosjećajan	ADJ	unemotional.a.01	unemotional.a.01
-neemocionalan	ADJ	unemotional.a.01	unemotional.a.01
-neemotivan	ADJ	unemotional.a.01	unemotional.a.01
-empirijski	ADJ	empirical.a.01	empirical.a.01
-teorijski	ADJ	theoretical.a.01	theoretical.a.01
-primijenjen	ADJ	applied.a.01	applied.a.01
-nezaposlen	ADJ	unemployed.a.01	unemployed.a.01
-ohrabrujući	ADJ	encouraging.a.01	encouraging.a.01
-istraživački	ADJ	exploratory.a.01	exploratory.a.01
-poduzetan	ADJ	enterprising.a.01	enterprising.a.01
-oduševljen	ADJ	enthusiastic.a.01	enthusiastic.a.01
-jednak	ADJ	equal.a.01	even.a.03	same.a.02	equal.a.01	even.a.03	same.a.02
-uravnotežen	ADJ	balanced.a.01	balanced.a.01
-dvosmislen	ADJ	equivocal.a.01	equivocal.a.01
-nedvosmislen	ADJ	unequivocal.a.01	unequivocal.a.01
-ezoteričan	ADJ	esoteric.a.01	esoteric.a.01
-bitan	ADJ	essential.a.02	important.a.01	significant.a.01	essential.a.02	important.a.01	significant.a.01
-etički	ADJ	ethical.a.02	ethical.a.01	ethical.a.02	ethical.a.01
-ravnomjeran	ADJ	even.a.03	even.a.03
-neujednačen	ADJ	uneven.a.01	uneven.a.01
-paran	ADJ	even.a.01	even.a.01
-neparan	ADJ	odd.a.01	odd.a.01
-zimzelen	ADJ	evergreen.a.01	evergreen.a.01
-listopadan	ADJ	deciduous.a.01	deciduous.a.01
-uzbudljiv	ADJ	exciting.a.01	exciting.a.01
-nepostojeći	ADJ	nonexistent.a.01	nonexistent.a.01
-izumro	ADJ	extinct.a.01	extinct.a.01
-odumro	ADJ	extinct.a.01	extinct.a.01
-očekivan	ADJ	expected.a.01	expected.a.01
-neočekivan	ADJ	unexpected.a.01	unexpected.a.01
-skup	ADJ	expensive.a.01	expensive.a.01
-jeftin	ADJ	cheap.a.01	cheap.a.01
-iskusan	ADJ	experienced.a.01	experienced.a.01
-neiskusni	ADJ	inexperienced.a.01	inexperienced.a.01
-eksplicitan	ADJ	explicit.a.01	explicit.a.01
-implicitan	ADJ	implicit.a.01	implicit.a.01
-eksterni	ADJ	external.a.01	exterior.a.01	external.a.01	exterior.a.01
-vanjski	ADJ	external.a.01	outer.a.01	outward.a.01	exterior.a.01	outdoor.a.01	external.a.01	outer.a.01	outward.a.01	exterior.a.01	outdoor.a.01
-interni	ADJ	internal.a.01	interior.a.01	internal.a.01	interior.a.01
-unutarnji	ADJ	internal.a.01	inner.a.02	interior.a.01	indoor.a.01	internal.a.01	inner.a.02	interior.a.01	indoor.a.01
-unutrašnji	ADJ	internal.a.01	inner.a.02	indoor.a.01	internal.a.01	inner.a.02	indoor.a.01
-periferni	ADJ	outer.a.01	outer.a.01
-rubni	ADJ	outer.a.01	outer.a.01
-centralni	ADJ	inner.a.02	inner.a.02
-pošten	ADJ	fair.a.01	pure.a.06	straight.a.06	fair.a.01	pure.a.06	straight.a.06
-nepravedan	ADJ	unfair.a.01	unfair.a.01
-nepristran	ADJ	equitable.a.01	impartial.a.01	equitable.a.01	impartial.a.01
-pravedan	ADJ	equitable.a.01	righteous.a.01	equitable.a.01	righteous.a.01
-vjeran	ADJ	faithful.a.01	faithful.a.03	loyal.a.01	faithful.a.01	faithful.a.03	loyal.a.01
-odan	ADJ	loyal.a.01	loyal.a.01
-nepogrešiv	ADJ	infallible.a.01	infallible.a.01
-poznat	ADJ	familiar.a.01	familiar.a.01
-nepoznat	ADJ	unfamiliar.a.01	unknown.a.01	unfamiliar.a.01	unknown.a.01
-čudan	ADJ	strange.a.01	strange.a.01
-moderan	ADJ	fashionable.a.01	modern.a.01	fashionable.a.01	modern.a.01
-elegentan	ADJ	stylish.a.01	stylish.a.01
-otmjen	ADJ	stylish.a.01	stylish.a.01
-brz	ADJ	fast.a.01	fast.a.01
-hitar	ADJ	fast.a.01	fast.a.01
-polagan	ADJ	slow.a.01	slow.a.01
-spor	ADJ	slow.a.01	slow.a.01
-usporen	ADJ	slow.a.01	slow.a.01
-brzo	ADJ	fast.a.03	fast.a.03
-izbirljiv	ADJ	fastidious.a.01	fastidious.a.01
-probirljjiv	ADJ	fastidious.a.01	fastidious.a.01
-debeo	ADJ	fat.a.01	thick.a.01	fat.a.01	thick.a.01
-tanak	ADJ	thin.a.02	small.a.01	thin.a.01	thin.a.02	small.a.01	thin.a.01
-mastan	ADJ	fatty.a.01	fatty.a.01
-fatalan	ADJ	fatal.a.01	fatal.a.01
-nepovoljan	ADJ	unfavorable.a.02	negative.a.01	unfavorable.a.02	negative.a.01
-plodan	ADJ	fertile.a.01	fertile.a.01
-sterilan	ADJ	sterile.a.01	sterile.a.01
-gotov	ADJ	finished.a.02	finished.a.02
-završen	ADJ	finished.a.02	perfect.a.01	finished.a.02	perfect.a.01
-konačan	ADJ	finite.a.01	finite.a.01
-beskonačan	ADJ	infinite.a.01	infinite.a.01
-prvi	ADJ	first.a.01	first.a.01
-posljednji	ADJ	last.a.02	last.a.02
-krajnji	ADJ	terminal.a.03	ultimate.a.01	terminal.a.03	ultimate.a.01
-završni	ADJ	terminal.a.03	terminal.a.03
-čio	ADJ	fit.a.03	fit.a.03
-zdrav	ADJ	fit.a.03	healthful.a.01	healthy.a.01	constitutional.a.01	fit.a.03	healthful.a.01	healthy.a.01	constitutional.a.01
-fleksibilan	ADJ	flexible.a.02	flexible.a.02
-beskompromisan	ADJ	uncompromising.a.01	uncompromising.a.01
-kovrčav	ADJ	curly.a.01	curly.a.01
-prirođen	ADJ	native.a.02	native.a.02
-urođen	ADJ	native.a.02	unconditioned.a.01	native.a.02	unconditioned.a.01
-stran	ADJ	foreign.a.02	foreign.a.01	foreign.a.02	foreign.a.01
-formalan	ADJ	formal.a.01	formal.a.03	formal.a.01	formal.a.03
-neformalan	ADJ	informal.a.01	informal.a.03	informal.a.01	informal.a.03
-sretan	ADJ	fortunate.a.01	happy.a.01	lucky.a.02	fortunate.a.01	happy.a.01	lucky.a.02
-nesretan	ADJ	unfortunate.a.01	unhappy.a.01	unfortunate.a.01	unhappy.a.01
-mirisan	ADJ	fragrant.a.01	odorous.a.01	olfactory.a.01	fragrant.a.01	odorous.a.01	olfactory.a.01
-mirisav	ADJ	odorous.a.01	odorous.a.01
-mirišljav	ADJ	odorous.a.01	odorous.a.01
-bez_mirisa	ADJ	odorless.a.01	odorless.a.01
-bezmirisan	ADJ	odorless.a.01	odorless.a.01
-nemirisav	ADJ	odorless.a.01	odorless.a.01
-nemirišljav	ADJ	odorless.a.01	odorless.a.01
-slobodan	ADJ	free.a.02	free.a.01	free.a.02	free.a.01
-fiksiran	ADJ	fixed.a.03	fixed.a.03
-pričvršćen	ADJ	fixed.a.03	fixed.a.03
-učvršćen	ADJ	fixed.a.03	fixed.a.03
-neslobodan	ADJ	unfree.a.02	unfree.a.02
-ograničen	ADJ	unfree.a.02	limited.a.01	restricted.a.01	unfree.a.02	limited.a.01	restricted.a.01
-čest	ADJ	frequent.a.01	frequent.a.01
-svjež	ADJ	fresh.a.01	fresh.a.01
-prijateljski	ADJ	friendly.a.01	friendly.a.01
-neprijateljski	ADJ	unfriendly.a.02	hostile.a.01	unfriendly.a.02	hostile.a.01
-pun	ADJ	full.a.01	full.a.01
-prazan	ADJ	empty.a.01	empty.a.01
-stalan	ADJ	full-time.a.01	permanent.a.01	steady.a.01	full-time.a.01	permanent.a.01	steady.a.01
-honoraran	ADJ	part-time.a.01	part-time.a.01
-povremen	ADJ	part-time.a.01	part-time.a.01
-funkcionalan	ADJ	functional.a.01	functional.a.01
-nefunkcionalan	ADJ	nonfunctional.a.01	nonfunctional.a.01
-generalan	ADJ	general.a.01	general.a.01
-općenit	ADJ	general.a.01	general.a.01
-prosječan	ADJ	general.a.01	general.a.01
-poseban	ADJ	specific.a.01	separate.a.01	specific.a.01	separate.a.01
-specifičan	ADJ	specific.a.01	specific.a.04	specific.a.01	specific.a.04
-svojstven	ADJ	specific.a.04	specific.a.04
-nespecifičan	ADJ	nonspecific.a.01	nonspecific.a.01
-nacionalan	ADJ	national.a.03	national.a.02	national.a.01	national.a.06	national.a.03	national.a.02	national.a.01	national.a.06
-lokalan	ADJ	local.a.01	local.a.03	local.a.02	local.a.01	local.a.03	local.a.02
-kozmopolitski	ADJ	cosmopolitan.a.01	cosmopolitan.a.01
-federalni	ADJ	federal.a.04	federal.a.04
-tehnički	ADJ	technical.a.02	technical.a.01	technical.a.03	technical.a.02	technical.a.01	technical.a.03
-vlasnički	ADJ	proprietary.a.01	proprietary.a.01
-darežljiv	ADJ	generous.a.01	generous.a.01
-izdašan	ADJ	generous.a.01	generous.a.01
-velikodušan	ADJ	generous.a.01	generous.a.02	generous.a.01	generous.a.02
-škrt	ADJ	stingy.a.01	stingy.a.01
-prav	ADJ	genuine.a.01	real.a.02	genuine.a.01	real.a.02
-talentiran	ADJ	talented.a.01	talented.a.01
-slavan	ADJ	glorious.a.01	glorious.a.01
-dobar	ADJ	good.a.01	good.a.03	positive.a.01	good.a.01	good.a.03	positive.a.01
-loš	ADJ	bad.a.01	negative.a.01	bad.a.01	negative.a.01
-negativan	ADJ	bad.a.01	negative.a.01	negative.a.05	negative.a.04	bad.a.01	negative.a.01	negative.a.05	negative.a.04
-slab	ADJ	bad.a.01	light.a.04	mild.a.01	impotent.a.01	powerless.a.01	weak.a.01	bad.a.01	light.a.04	mild.a.01	impotent.a.01	powerless.a.01	weak.a.01
-divan	ADJ	good.a.03	good.a.03
-grješan	ADJ	evil.a.01	evil.a.01
-opak	ADJ	evil.a.01	evil.a.01
-pokvaren	ADJ	evil.a.01	impure.a.02	evil.a.01	impure.a.02
-zao	ADJ	evil.a.01	evil.a.01
-zločest	ADJ	evil.a.01	evil.a.01
-dobroćudan	ADJ	good-natured.a.01	good-natured.a.01
-pakostan	ADJ	ill-natured.a.01	ill-natured.a.01
-zloban	ADJ	ill-natured.a.01	ill-natured.a.01
-graciozan	ADJ	graceful.a.01	graceful.a.01
-nespretan	ADJ	awkward.a.02	awkward.a.02
-nezgrapan	ADJ	awkward.a.02	awkward.a.02
-postupan	ADJ	gradual.a.01	gradual.a.02	gradual.a.01	gradual.a.02
-iznenadan	ADJ	sudden.a.01	sudden.a.01
-strm	ADJ	steep.a.01	steep.a.01
-zahvalan	ADJ	grateful.a.01	grateful.a.01
-radostan	ADJ	happy.a.01	glad.a.01	joyous.a.01	happy.a.01	glad.a.01	joyous.a.01
-neveseo	ADJ	unhappy.a.01	unhappy.a.01
-tužan	ADJ	unhappy.a.01	sad.a.01	unhappy.a.01	sad.a.01
-žalostan	ADJ	unhappy.a.01	unhappy.a.01
-tvrd	ADJ	hard.a.03	hard.a.03
-mekan	ADJ	soft.a.01	soft.a.03	tender.a.05	soft.a.01	soft.a.03	tender.a.05
-alkoholan	ADJ	alcoholic.a.01	alcoholic.a.01
-bezalkoholan	ADJ	nonalcoholic.a.01	nonalcoholic.a.01
-bezopasan	ADJ	harmless.a.01	harmless.a.01
-štetan	ADJ	harmful.a.01	unhealthy.a.01	noxious.a.01	harmful.a.01	unhealthy.a.01	noxious.a.01
-skladan	ADJ	harmonious.a.01	harmonious.a.01
-medicinski	ADJ	medical.a.02	medical.a.01	medical.a.02	medical.a.01
-nezdrav	ADJ	unhealthy.a.01	unhealthy.a.01
-masivan	ADJ	heavy.a.01	heavy.a.01
-bezbrižan	ADJ	heedless.a.01	heedless.a.01
-neobazriv	ADJ	heedless.a.01	heedless.a.01
-brižan	ADJ	heedful.a.01	heedful.a.01
-obazriv	ADJ	heedful.a.01	heedful.a.01
-koristan	ADJ	helpful.a.01	useful.a.01	constitutional.a.01	helpful.a.01	useful.a.01	constitutional.a.01
-heterogen	ADJ	heterogeneous.a.01	heterogeneous.a.01
-homogen	ADJ	homogeneous.a.01	homogeneous.a.01
-heteroseksualan	ADJ	heterosexual.a.01	heterosexual.a.01
-homoseksualan	ADJ	homosexual.a.01	homosexual.a.01
-biseksualan	ADJ	bisexual.a.01	bisexual.a.01
-hijerarhijski	ADJ	hierarchical.a.01	hierarchical.a.01
-visok	ADJ	high.a.02	high.a.01	high.a.04	tall.a.01	high.a.02	high.a.01	high.a.04	tall.a.01
-nizak	ADJ	low.a.02	low.a.01	low.a.02	low.a.01
-velik	ADJ	high.a.01	large.a.01	major.a.03	high.a.01	large.a.01	major.a.03
-iskren	ADJ	honest.a.01	sincere.a.01	honest.a.01	sincere.a.01
-nepošten	ADJ	dishonest.a.01	dishonest.a.01
-častan	ADJ	honorable.a.02	straight.a.06	honorable.a.02	straight.a.06
-neutješan	ADJ	inconsolable.a.01	inconsolable.a.01
-horizontalan	ADJ	horizontal.a.01	horizontal.a.01
-vertikalan	ADJ	vertical.a.01	erect.a.01	vertical.a.01	erect.a.01
-okomit	ADJ	erect.a.01	erect.a.01
-uspravan	ADJ	erect.a.01	erect.a.01
-uspravljen	ADJ	erect.a.01	erect.a.01
-uzdignut	ADJ	erect.a.01	erect.a.01
-neuspravljen	ADJ	unerect.a.01	unerect.a.01
-topao	ADJ	hot.a.01	warm.a.01	warm.a.02	hot.a.01	warm.a.01	warm.a.02
-vreo	ADJ	hot.a.01	hot.a.01
-vruć	ADJ	hot.a.01	hot.a.03	hot.a.01	hot.a.03
-hladan	ADJ	cold.a.01	cold.a.02	cool.a.01	cool.a.04	cold.a.01	cold.a.02	cool.a.01	cool.a.04
-studen	ADJ	cold.a.01	cold.a.01
-nagao	ADJ	hot.a.03	hot.a.03
-žestok	ADJ	hot.a.03	intense.a.01	hot.a.03	intense.a.01
-ravnodušan	ADJ	cold.a.02	cool.a.04	cold.a.02	cool.a.04
-ljudski	ADJ	human.a.03	humane.a.02	human.a.01	human.a.02	human.a.03	humane.a.02	human.a.01	human.a.02
-nadljudski	ADJ	superhuman.a.01	superhuman.a.01
-čovječan	ADJ	humane.a.02	humane.a.02
-nečovječan	ADJ	inhumane.a.01	inhumane.a.01
-neljudski	ADJ	inhumane.a.01	inhumane.a.01
-duhovit	ADJ	humorous.a.01	humorous.a.01
-gladan	ADJ	hungry.a.01	hungry.a.01
-žedan	ADJ	thirsty.a.02	thirsty.a.02
-važan	ADJ	important.a.01	significant.a.01	important.a.01	significant.a.01
-značajan	ADJ	important.a.01	significant.a.01	significant.a.03	important.a.01	significant.a.01	significant.a.03
-beznačajan	ADJ	unimportant.a.01	insignificant.a.04	unimportant.a.01	insignificant.a.04
-nebitan	ADJ	unimportant.a.01	unimportant.a.01
-nevažan	ADJ	unimportant.a.01	irrelevant.a.01	insignificant.a.04	unimportant.a.01	irrelevant.a.01	insignificant.a.04
-impresivan	ADJ	impressive.a.01	impressive.a.01
-pristigao	ADJ	incoming.a.01	incoming.a.01
-ulazni	ADJ	incoming.a.01	incoming.a.01
-izlazni	ADJ	outgoing.a.01	outgoing.a.01
-odlazeći	ADJ	outgoing.a.01	outgoing.a.01
-industrijski	ADJ	industrial.a.02	industrial.a.01	industrial.a.02	industrial.a.01
-zarazan	ADJ	infectious.a.02	infectious.a.02
-nenaseljen	ADJ	uninhabited.a.01	uninhabited.a.01
-nevin	ADJ	innocent.a.01	pure.a.06	innocent.a.01	pure.a.06
-kriv	ADJ	guilty.a.01	crooked.a.01	guilty.a.01	crooked.a.01
-integriran	ADJ	integrated.a.03	integrated.a.03
-intelektualan	ADJ	intellectual.a.02	intellectual.a.02
-misaoni	ADJ	intellectual.a.02	intellectual.a.02
-umni	ADJ	intellectual.a.02	intellectual.a.02
-bezuman	ADJ	nonintellectual.a.01	nonintellectual.a.01
-neintelektualan	ADJ	nonintellectual.a.01	nonintellectual.a.01
-inteligentan	ADJ	intelligent.a.01	intelligent.a.01
-razuman	ADJ	intelligent.a.01	reasonable.a.01	intelligent.a.01	reasonable.a.01
-uman	ADJ	intelligent.a.01	intelligent.a.01
-neinteligentan	ADJ	unintelligent.a.01	unintelligent.a.01
-interesantan	ADJ	interesting.a.01	interesting.a.01
-zanimljiv	ADJ	interesting.a.01	interesting.a.01
-neinteresantan	ADJ	uninteresting.a.01	uninteresting.a.01
-sočan	ADJ	juicy.a.01	juicy.a.01
-ljubazan	ADJ	kind.a.01	warm.a.02	kind.a.01	warm.a.02
-prijazan	ADJ	kind.a.01	warm.a.02	kind.a.01	warm.a.02
-srdačan	ADJ	kind.a.01	warm.a.02	kind.a.01	warm.a.02
-susretljiv	ADJ	kind.a.01	kind.a.01
-uljudan	ADJ	kind.a.01	kind.a.01
-neljubazan	ADJ	unkind.a.01	unkind.a.01
-neprijazan	ADJ	unkind.a.01	cool.a.04	unkind.a.01	cool.a.04
-morski	ADJ	marine.a.04	marine.a.01	marine.a.04	marine.a.01
-krupan	ADJ	large.a.01	large.a.01
-obiman	ADJ	large.a.01	large.a.01
-mal	ADJ	small.a.01	little.a.02	small.a.01	little.a.02
-malen	ADJ	small.a.01	minor.a.03	small.a.01	minor.a.03
-sitan	ADJ	small.a.01	small.a.01
-zakonit	ADJ	lawful.a.01	legal.a.01	regular.a.01	lawful.a.01	legal.a.01	regular.a.01
-zakonski	ADJ	lawful.a.01	legal.a.01	statutory.a.01	lawful.a.01	legal.a.01	statutory.a.01
-bespravan	ADJ	unlawful.a.02	illegal.a.01	unlawful.a.02	illegal.a.01
-nezakonit	ADJ	unlawful.a.02	illegal.a.01	illicit.a.01	irregular.a.01	unlawful.a.02	illegal.a.01	illicit.a.01	irregular.a.01
-protupravni	ADJ	unlawful.a.02	unlawful.a.02
-beskvasan	ADJ	unleavened.a.01	unleavened.a.01
-legalan	ADJ	legal.a.01	legal.a.01
-pravan	ADJ	legal.a.01	legal.a.02	legal.a.04	legal.a.01	legal.a.02	legal.a.04
-pravni	ADJ	legal.a.01	legal.a.01
-ilegalan	ADJ	illegal.a.01	illegal.a.01
-nedopušten	ADJ	illegal.a.01	illegal.a.01
-nelegalan	ADJ	illegal.a.01	illegal.a.01
-protupravan	ADJ	illegal.a.01	illegal.a.01
-biološki	ADJ	biological.a.02	biological.a.01	biological.a.02	biological.a.01
-drugačiji	ADJ	unlike.a.01	unlike.a.01
-drukčiji	ADJ	unlike.a.01	unlike.a.01
-različit	ADJ	unlike.a.01	different.a.01	dissimilar.a.01	unlike.a.01	different.a.01	dissimilar.a.01
-sličan	ADJ	alike.a.01	similar.a.01	alike.a.01	similar.a.01
-isti	ADJ	like.a.02	same.a.02	same.a.01	like.a.02	same.a.02	same.a.01
-nejednak	ADJ	unlike.a.02	unlike.a.02
-vjerojatan	ADJ	likely.a.01	probable.a.01	likely.a.01	probable.a.01
-neograničen	ADJ	unlimited.a.01	unrestricted.a.01	unlimited.a.01	unrestricted.a.01
-figurativan	ADJ	figurative.a.01	figurative.a.01
-nesnimljen	ADJ	live.a.01	live.a.01
-logičan	ADJ	logical.a.01	logical.a.01
-dug	ADJ	long.a.02	long.a.01	old.a.02	long.a.02	long.a.01	old.a.02
-kratak	ADJ	short.a.02	short.a.01	short.a.03	short.a.02	short.a.01	short.a.03
-labav	ADJ	loose.a.03	loose.a.03
-izgubljen	ADJ	lost.a.01	lost.a.03	lost.a.01	lost.a.03
-glasan	ADJ	loud.a.01	loud.a.01
-tih	ADJ	soft.a.03	soft.a.03
-voljen	ADJ	loved.a.01	loved.a.01
-neznatan	ADJ	minor.a.03	minor.a.03
-manji	ADJ	minor.a.02	minor.a.02
-minoran	ADJ	minor.a.02	minor.a.02
-sporedan	ADJ	minor.a.02	minor.a.02
-punoljetan	ADJ	major.a.07	major.a.07
-muški	ADJ	male.a.01	masculine.a.02	masculine.a.01	male.a.01	masculine.a.02	masculine.a.01
-muško	ADJ	male.a.01	male.a.01
-ženski	ADJ	female.a.01	feminine.a.01	female.a.01	feminine.a.01
-žensko	ADJ	female.a.01	female.a.01
-androgin	ADJ	androgynous.a.02	androgynous.a.02
-dvospolac	ADJ	androgynous.a.02	androgynous.a.02
-vjenčan	ADJ	married.a.01	married.a.01
-nevjenčan	ADJ	unmarried.a.01	unmarried.a.01
-ženstven	ADJ	womanly.a.01	womanly.a.01
-odrastao	ADJ	mature.a.03	mature.a.03
-zreo	ADJ	mature.a.03	ripe.a.01	mature.a.03	ripe.a.01
-nezreo	ADJ	immature.a.04	green.a.03	young.a.01	immature.a.04	green.a.03	young.a.01
-nedozreo	ADJ	green.a.03	green.a.03
-zelen	ADJ	green.a.03	green.a.03
-sezonski	ADJ	seasonal.a.01	seasonal.a.01
-maksimalan	ADJ	maximal.a.01	maximal.a.01
-minimalan	ADJ	minimal.a.01	minimal.a.01
-smislen	ADJ	meaningful.a.01	meaningful.a.01
-besmislen	ADJ	meaningless.a.01	meaningless.a.01
-izmjeriv	ADJ	measurable.a.01	measurable.a.01
-mjeriljiv	ADJ	measurable.a.01	measurable.a.01
-mjerljiv	ADJ	measurable.a.01	measurable.a.01
-neizmjeriv	ADJ	immeasurable.a.01	immeasurable.a.01
-nemjerljiv	ADJ	immeasurable.a.01	immeasurable.a.01
-mehanički	ADJ	mechanical.a.01	mechanical.a.03	mechanical.a.02	mechanical.a.01	mechanical.a.03	mechanical.a.02
-glazben	ADJ	melodious.a.02	musical.a.03	musical.a.02	musical.a.01	melodious.a.02	musical.a.03	musical.a.02	musical.a.01
-muzikalan	ADJ	musical.a.02	musical.a.02
-nemilosrdan	ADJ	merciless.a.01	merciless.a.01
-blag	ADJ	mild.a.01	tender.a.01	mild.a.01	tender.a.01
-umjeren	ADJ	mild.a.01	moderate.a.01	temperate.a.01	mild.a.01	moderate.a.01	temperate.a.01
-intenzivan	ADJ	intense.a.01	intense.a.01
-izrazit	ADJ	intense.a.01	intense.a.01
-jak	ADJ	intense.a.01	potent.a.03	powerful.a.01	strong.a.01	intense.a.01	potent.a.03	powerful.a.01	strong.a.01
-moćan	ADJ	intense.a.01	potent.a.03	powerful.a.01	strong.a.01	intense.a.01	potent.a.03	powerful.a.01	strong.a.01
-silan	ADJ	intense.a.01	powerful.a.01	intense.a.01	powerful.a.01
-silovit	ADJ	intense.a.01	intense.a.01
-snažan	ADJ	intense.a.01	potent.a.03	powerful.a.01	strong.a.01	intense.a.01	potent.a.03	powerful.a.01	strong.a.01
-civilan	ADJ	civilian.a.01	civilian.a.01
-vojni	ADJ	military.a.02	military.a.01	military.a.02	military.a.01
-mobilan	ADJ	mobile.a.02	mobile.a.02
-pokretljiv	ADJ	mobile.a.02	mobile.a.02
-prijenosni	ADJ	portable.a.01	portable.a.01
-metalan	ADJ	metallic.a.01	metallic.a.01
-nemetalni	ADJ	nonmetallic.a.01	nonmetallic.a.01
-neumjeren	ADJ	immoderate.a.01	immoderate.a.01
-čedan	ADJ	modest.a.04	modest.a.04
-molekularan	ADJ	molecular.a.02	molecular.a.01	molecular.a.02	molecular.a.01
-jednovalentan	ADJ	monovalent.a.02	monovalent.a.02
-monovalentan	ADJ	monovalent.a.02	monovalent.a.02
-multivalentan	ADJ	polyvalent.a.02	polyvalent.a.02
-polivalentan	ADJ	polyvalent.a.02	polyvalent.a.02
-ćudoredan	ADJ	moral.a.01	moral.a.01
-krepostan	ADJ	moral.a.01	moral.a.01
-moralan	ADJ	moral.a.01	moral.a.01
-amoralan	ADJ	immoral.a.01	immoral.a.01
-nećudoredan	ADJ	immoral.a.01	immoral.a.01
-nemoralan	ADJ	immoral.a.01	immoral.a.01
-dirljiv	ADJ	moving.a.02	moving.a.02
-potresan	ADJ	moving.a.02	moving.a.02
-pokretan	ADJ	moving.a.01	moving.a.01
-pomični	ADJ	moving.a.01	moving.a.01
-nepokretan	ADJ	nonmoving.a.01	nonmoving.a.01
-nepomičan	ADJ	nonmoving.a.01	nonmoving.a.01
-interkontinentalan	ADJ	intercontinental.a.01	intercontinental.a.01
-međunarodan	ADJ	international.a.01	international.a.01
-prirodan	ADJ	natural.a.01	natural.a.02	natural.a.01	natural.a.02
-neprirodan	ADJ	unnatural.a.01	unnatural.a.01
-umjetan	ADJ	artificial.a.01	artificial.a.01
-nadnaravan	ADJ	supernatural.a.01	supernatural.a.01
-neophodan	ADJ	necessary.a.01	necessary.a.01
-nužan	ADJ	necessary.a.01	necessary.a.01
-potreban	ADJ	necessary.a.01	necessary.a.01
-prijeko_potreban	ADJ	necessary.a.01	necessary.a.01
-bespotreban	ADJ	unnecessary.a.01	unnecessary.a.01
-izlišan	ADJ	unnecessary.a.01	unnecessary.a.01
-nepotreban	ADJ	unnecessary.a.01	unnecessary.a.01
-bruto	ADJ	gross.a.01	gross.a.01
-plemenit	ADJ	noble.a.03	noble.a.02	noble.a.03	noble.a.02
-normalan	ADJ	normal.a.01	normal.a.03	standard.a.01	normal.a.01	normal.a.03	standard.a.01
-običan	ADJ	normal.a.01	ordinary.a.01	plain.a.02	normal.a.01	ordinary.a.01	plain.a.02
-abnormalan	ADJ	abnormal.a.01	abnormal.a.01
-nenormalan	ADJ	abnormal.a.01	abnormal.a.01
-sjeverni	ADJ	north.a.01	northern.a.01	north.a.01	northern.a.01
-južni	ADJ	south.a.01	southern.a.03	southern.a.01	south.a.01	southern.a.03	southern.a.01
-poslušan	ADJ	obedient.a.01	tractable.a.01	obedient.a.01	tractable.a.01
-nesubjektivan	ADJ	objective.a.01	objective.a.01
-objektivan	ADJ	objective.a.01	objective.a.01
-subjektivan	ADJ	subjective.a.01	subjective.a.01
-očit	ADJ	obvious.a.01	obvious.a.01
-uvredljiv	ADJ	offensive.a.03	offensive.a.03
-ofenzivan	ADJ	offensive.a.02	offensive.a.02
-obramben	ADJ	defensive.a.01	defensive.a.01
-služben	ADJ	official.a.01	official.a.01
-neslužben	ADJ	unofficial.a.01	unofficial.a.01
-konstituiran	ADJ	established.a.01	established.a.01
-ustanovljen	ADJ	established.a.01	established.a.01
-utemeljen	ADJ	established.a.01	established.a.01
-star	ADJ	old.a.02	old.a.01	old.a.02	old.a.01
-mlad	ADJ	new.a.01	young.a.01	new.a.01	young.a.01
-nov	ADJ	new.a.01	new.a.01
-protivan	ADJ	opposed.a.01	opposed.a.01
-suprotan	ADJ	opposed.a.01	opposed.a.01
-optimističan	ADJ	optimistic.a.01	optimistic.a.01
-pesimističan	ADJ	pessimistic.a.01	pessimistic.a.01
-oralan	ADJ	oral.a.03	oral.a.02	oral.a.03	oral.a.02
-izvanredan	ADJ	extraordinary.a.01	extraordinary.a.01
-organski	ADJ	organic.a.01	organic.a.02	organic.a.01	organic.a.02
-anorganski	ADJ	inorganic.a.01	inorganic.a.01
-izvoran	ADJ	original.a.03	original.a.03
-jedinstven	ADJ	original.a.03	original.a.03
-originalan	ADJ	original.a.03	original.a.03
-pravi	ADJ	original.a.03	proper.a.01	original.a.03	proper.a.01
-prvobitan	ADJ	original.a.03	original.a.03
-neoriginalan	ADJ	unoriginal.a.01	unoriginal.a.01
-ortodoksan	ADJ	orthodox.a.02	orthodox.a.02
-pravovjeran	ADJ	orthodox.a.02	orthodox.a.02
-neortodoksan	ADJ	unorthodox.a.02	unorthodox.a.02
-netradicionalan	ADJ	unorthodox.a.02	unorthodox.a.02
-prekriven	ADJ	covered.a.01	covered.a.01
-lisnat	ADJ	leafy.a.01	leafy.a.01
-neplaćen	ADJ	unpaid.a.01	unpaid.a.01
-bolan	ADJ	painful.a.01	painful.a.01
-bezbolan	ADJ	painless.a.02	painless.a.02
-opipljiv	ADJ	palpable.a.01	palpable.a.01
-paralelan	ADJ	parallel.a.01	parallel.a.01
-roditeljski	ADJ	parental.a.02	parental.a.02
-pristran	ADJ	partial.a.02	partial.a.02
-strastven	ADJ	passionate.a.01	passionate.a.01
-minuli	ADJ	past.a.01	past.a.01
-povijesni	ADJ	past.a.01	past.a.01
-prošli	ADJ	past.a.01	past.a.01
-trenutačni	ADJ	present.a.01	present.a.01
-budući	ADJ	future.a.01	future.a.01
-strpljiv	ADJ	patient.a.01	patient.a.01
-domoljuban	ADJ	patriotic.a.01	patriotic.a.01
-besprijekoran	ADJ	perfect.a.01	perfect.a.01
-perfektan	ADJ	perfect.a.01	perfect.a.01
-savršen	ADJ	perfect.a.01	perfect.a.01
-nesavršen	ADJ	imperfect.a.01	imperfect.a.01
-privremen	ADJ	impermanent.a.01	impermanent.a.01
-trajan	ADJ	persistent.a.03	persistent.a.03
-zbunjen	ADJ	perplexed.a.01	perplexed.a.01
-neprobojan	ADJ	impenetrable.a.01	impenetrable.a.01
-mentalan	ADJ	mental.a.01	mental.a.02	mental.a.01	mental.a.02
-monoteistički	ADJ	monotheistic.a.01	monotheistic.a.01
-pobožan	ADJ	pious.a.01	pious.a.01
-bezbožan	ADJ	impious.a.01	impious.a.01
-vjerski	ADJ	religious.a.02	religious.a.02
-odvratan	ADJ	unpleasant.a.01	unpleasant.a.01
-politički	ADJ	politic.a.01	political.a.01	political.a.02	political.a.03	politic.a.01	political.a.01	political.a.02	political.a.03
-omiljen	ADJ	popular.a.01	popular.a.01
-popularan	ADJ	popular.a.01	popular.a.01
-neomiljen	ADJ	unpopular.a.01	unpopular.a.01
-nepopularan	ADJ	unpopular.a.01	unpopular.a.01
-pozitivan	ADJ	positive.a.01	positive.a.04	positive.a.01	positive.a.04
-nemoguć	ADJ	impossible.a.01	impossible.a.01
-nezamisliv	ADJ	impossible.a.01	impossible.a.01
-potentan	ADJ	potent.a.03	strong.a.01	potent.a.03	strong.a.01
-bespomoćan	ADJ	impotent.a.01	impotent.a.01
-impotentan	ADJ	impotent.a.01	powerless.a.01	impotent.a.01	powerless.a.01
-nejak	ADJ	powerless.a.01	weak.a.01	powerless.a.01	weak.a.01
-utjecajan	ADJ	influential.a.01	influential.a.01
-praktičan	ADJ	practical.a.01	practical.a.01
-nepraktičan	ADJ	impractical.a.01	impractical.a.01
-precizan	ADJ	precise.a.01	precise.a.01
-predvidljiv	ADJ	predictable.a.01	predictable.a.01
-nazočan	ADJ	present.a.02	present.a.02
-odsutan	ADJ	absent.a.01	absent.a.01
-rastresen	ADJ	absent.a.01	absent.a.01
-primaran	ADJ	primary.a.01	primary.a.01
-sekundaran	ADJ	secondary.a.01	secondary.a.01
-osnovan	ADJ	basic.a.01	basic.a.01
-privatan	ADJ	private.a.01	private.a.01
-javan	ADJ	public.a.01	public.a.01
-ekskluzivan	ADJ	exclusive.a.02	exclusive.a.02
-privilegiran	ADJ	privileged.a.01	privileged.a.01
-produktivan	ADJ	productive.a.01	generative.a.01	productive.a.01	generative.a.01
-neproduktivan	ADJ	unproductive.a.01	unproductive.a.01
-profesionalan	ADJ	professional.a.01	professional.a.03	professional.a.04	professional.a.02	professional.a.01	professional.a.03	professional.a.04	professional.a.02
-unosan	ADJ	profitable.a.01	profitable.a.01
-površan	ADJ	superficial.a.01	superficial.a.01
-progresivan	ADJ	progressive.a.01	progressive.a.01
-retrospektivan	ADJ	retrospective.a.01	retrospective.a.01
-zaštićen	ADJ	protected.a.01	protected.a.01
-zaštitan	ADJ	protective.a.01	protective.a.01
-dostojanstven	ADJ	proud.a.01	proud.a.01
-gord	ADJ	proud.a.01	proud.a.01
-ponosan	ADJ	proud.a.01	proud.a.01
-ponosit	ADJ	proud.a.01	proud.a.01
-ponizan	ADJ	humble.a.02	humble.a.02
-skroman	ADJ	humble.a.02	humble.a.02
-provokativan	ADJ	provocative.a.01	provocative.a.01
-bezgrešan	ADJ	pure.a.06	pure.a.06
-bludan	ADJ	impure.a.02	impure.a.02
-grešan	ADJ	impure.a.02	impure.a.02
-kvalificiran	ADJ	qualified.a.01	skilled.a.01	qualified.a.01	skilled.a.01
-kvalitativan	ADJ	qualitative.a.01	qualitative.a.02	qualitative.a.01	qualitative.a.02
-kvantitativan	ADJ	quantitative.a.01	quantitative.a.02	quantitative.a.01	quantitative.a.02
-upitan	ADJ	questionable.a.01	questionable.a.01
-bučan	ADJ	noisy.a.01	noisy.a.01
-slučajan	ADJ	random.a.01	random.a.01
-racionalan	ADJ	rational.a.01	rational.a.01
-iracionalan	ADJ	irrational.a.01	irrational.a.01
-rasan	ADJ	racial.a.02	racial.a.01	racial.a.02	racial.a.01
-spreman	ADJ	ready.a.01	willing.a.01	ready.a.01	willing.a.01
-realan	ADJ	real.a.06	realistic.a.01	real.a.06	realistic.a.01
-nerealan	ADJ	unrealistic.a.01	unrealistic.a.01
-recipročan	ADJ	reciprocal.a.01	reciprocal.a.01
-uzajaman	ADJ	reciprocal.a.01	reciprocal.a.01
-neobrađen	ADJ	unrefined.a.01	unrefined.a.01
-nepročišćen	ADJ	unrefined.a.01	unrefined.a.01
-nerafiniran	ADJ	unrefined.a.01	unrefined.a.01
-pravilan	ADJ	regular.a.01	straight.a.02	regular.a.01	straight.a.02
-regularan	ADJ	regular.a.01	regular.a.01
-iregularan	ADJ	irregular.a.01	irregular.a.01
-nepravilan	ADJ	irregular.a.01	irregular.a.01
-nepopravljiv	ADJ	irreparable.a.01	irreparable.a.01
-jednoobrazan	ADJ	uniform.a.01	uniform.a.01
-nepromjenljiv	ADJ	uniform.a.01	uniform.a.01
-uniforman	ADJ	uniform.a.01	uniform.a.01
-srodan	ADJ	related.a.02	similar.a.01	related.a.02	similar.a.01
-relevantan	ADJ	relevant.a.01	relevant.a.01
-reprezentativan	ADJ	representative.a.02	representative.a.02
-renomiran	ADJ	reputable.a.01	reputable.a.01
-ugledan	ADJ	reputable.a.01	respectable.a.01	reputable.a.01	respectable.a.01
-zloglasan	ADJ	disreputable.a.01	disreputable.a.01
-neodoljiv	ADJ	irresistible.a.01	irresistible.a.01
-odlučan	ADJ	resolute.a.01	resolute.a.01
-odgovoran	ADJ	responsible.a.01	responsible.a.01
-neodgovoran	ADJ	irresponsible.a.01	irresponsible.a.01
-restriktivan	ADJ	restrictive.a.01	restrictive.a.01
-revolucionaran	ADJ	revolutionary.a.04	revolutionary.a.03	revolutionary.a.04	revolutionary.a.03
-ritmički	ADJ	rhythmical.a.01	rhythmical.a.01
-bogat	ADJ	rich.a.01	rich.a.01
-imućan	ADJ	rich.a.01	rich.a.01
-oskudan	ADJ	poor.a.02	poor.a.02
-potrebit	ADJ	poor.a.02	poor.a.02
-siromašan	ADJ	poor.a.02	poor.a.03	poor.a.02	poor.a.03
-lijevi	ADJ	left.a.04	left.a.01	left.a.04	left.a.01
-desni	ADJ	right.a.01	right.a.01
-desno	ADJ	right.a.01	right.a.01
-nadesno	ADJ	right.a.01	right.a.01
-lijevo	ADJ	left.a.01	left.a.01
-nalijevo	ADJ	left.a.01	left.a.01
-kružan	ADJ	round.a.01	round.a.01
-kvadratni	ADJ	square.a.01	square.a.01
-pravokutni	ADJ	square.a.01	square.a.01
-ruralan	ADJ	rural.a.01	rural.a.02	rural.a.01	rural.a.02
-gradski	ADJ	urban.a.02	urban.a.01	metropolitan.a.01	urban.a.02	urban.a.01	metropolitan.a.01
-urban	ADJ	urban.a.02	urban.a.01	urban.a.02	urban.a.01
-svet	ADJ	holy.a.01	sacred.a.01	holy.a.01	sacred.a.01
-raznolik	ADJ	different.a.01	dissimilar.a.01	varied.a.01	different.a.01	dissimilar.a.01	varied.a.01
-raznovrstan	ADJ	different.a.01	dissimilar.a.01	different.a.01	dissimilar.a.01
-drugi	ADJ	other.a.01	other.a.01
-istovjetan	ADJ	similar.a.01	similar.a.01
-nalik	ADJ	similar.a.01	similar.a.01
-zadovoljavajući	ADJ	satisfactory.a.01	satisfactory.a.01
-nezadovoljavajući	ADJ	unsatisfactory.a.01	unsatisfactory.a.01
-znanstven	ADJ	scholarly.a.01	scientific.a.02	scientific.a.01	scholarly.a.01	scientific.a.02	scientific.a.01
-neznanstven	ADJ	unscientific.a.01	unscientific.a.01
-osiguran	ADJ	insured.a.01	insured.a.01
-sebičan	ADJ	selfish.a.01	selfish.a.01
-senior	ADJ	senior.a.01	senior.a.01
-stariji	ADJ	senior.a.01	senior.a.01
-junior	ADJ	junior.a.01	junior.a.01
-mlađi	ADJ	junior.a.01	junior.a.01
-senzacionalan	ADJ	sensational.a.01	sensational.a.01
-odijeljen	ADJ	separate.a.01	separate.a.01
-odvojen	ADJ	separate.a.01	separate.a.01
-razdijeljen	ADJ	separate.a.01	separate.a.01
-samostalan	ADJ	separate.a.01	separate.a.01
-separiran	ADJ	separate.a.01	separate.a.01
-skupan	ADJ	joint.a.01	joint.a.01
-udružen	ADJ	joint.a.01	joint.a.01
-združen	ADJ	joint.a.01	joint.a.01
-sanitarni	ADJ	sanitary.a.01	sanitary.a.01
-ozbiljan	ADJ	serious.a.01	unplayful.a.01	serious.a.01	unplayful.a.01
-neozbiljan	ADJ	frivolous.a.01	frivolous.a.01
-razigran	ADJ	playful.a.01	playful.a.01
-stanovnik	ADJ	resident.a.01	resident.a.01
-žitelj	ADJ	resident.a.01	resident.a.01
-seksualan	ADJ	sexual.a.02	sexual.a.01	sexual.a.02	sexual.a.01
-spolan	ADJ	sexual.a.02	sexual.a.02
-aseksualan	ADJ	asexual.a.01	asexual.a.01
-bespolan	ADJ	asexual.a.01	asexual.a.01
-neseksualan	ADJ	asexual.a.01	asexual.a.01
-slabovidan	ADJ	blind.a.01	blind.a.01
-slijep	ADJ	blind.a.01	blind.a.01
-neznačajan	ADJ	insignificant.a.04	insignificant.a.04
-složen	ADJ	complex.a.01	complex.a.01
-višestruk	ADJ	multiple.a.01	multiple.a.01
-verbalan	ADJ	verbal.a.04	verbal.a.04
-sklizak	ADJ	slippery.a.01	slippery.a.01
-gladak	ADJ	smooth.a.01	smooth.a.01
-društven	ADJ	social.a.02	gregarious.a.01	social.a.01	social.a.03	social.a.02	gregarious.a.01	social.a.01	social.a.03
-krut	ADJ	solid.a.02	solid.a.03	tough.a.01	solid.a.02	solid.a.03	tough.a.01
-tekuć	ADJ	liquid.a.01	liquid.a.01
-tekući	ADJ	liquid.a.01	liquid.a.01
-plinovit	ADJ	gaseous.a.01	gaseous.a.01
-topljiv	ADJ	soluble.a.01	soluble.a.01
-neriješen	ADJ	unsolved.a.01	unsolved.a.01
-sofisticiran	ADJ	sophisticated.a.01	sophisticated.a.01
-naivan	ADJ	naive.a.01	naive.a.01
-neoštećen	ADJ	sound.a.03	sound.a.03
-srčan	ADJ	spirited.a.01	spirited.a.01
-vatren	ADJ	spirited.a.01	spirited.a.01
-letargičan	ADJ	spiritless.a.01	spiritless.a.01
-malodušan	ADJ	spiritless.a.01	spiritless.a.01
-mlitav	ADJ	spiritless.a.01	spiritless.a.01
-pokunjen	ADJ	spiritless.a.01	spiritless.a.01
-spontan	ADJ	spontaneous.a.01	spontaneous.a.01
-napisan	ADJ	written.a.01	written.a.01
-nezaustavljiv	ADJ	unstoppable.a.01	unstoppable.a.01
-stabilan	ADJ	stable.a.01	stable.a.01
-standardan	ADJ	standard.a.01	standard.a.01
-nestandardan	ADJ	nonstandard.a.02	nonstandard.a.01	nonstandard.a.02	nonstandard.a.01
-zvjezdan	ADJ	starry.a.01	starry.a.01
-pravocrtan	ADJ	straight.a.02	straight.a.02
-ravan	ADJ	straight.a.02	straight.a.08	straight.a.02	straight.a.08
-iskrivljen	ADJ	crooked.a.01	crooked.a.01
-naheren	ADJ	crooked.a.01	crooked.a.01
-nakrivljen	ADJ	crooked.a.01	crooked.a.01
-vijugav	ADJ	crooked.a.01	crooked.a.01
-zavinut	ADJ	crooked.a.01	crooked.a.01
-čestit	ADJ	straight.a.06	straight.a.06
-kršan	ADJ	strong.a.01	strong.a.01
-tvrdoglav	ADJ	stubborn.a.01	intractable.a.01	stubborn.a.01	intractable.a.01
-uspješan	ADJ	successful.a.01	successful.a.01
-neuspješan	ADJ	unsuccessful.a.01	unsuccessful.a.01
-dovoljan	ADJ	sufficient.a.01	sufficient.a.01
-nedovoljan	ADJ	insufficient.a.01	insufficient.a.01
-inferioran	ADJ	inferior.a.01	inferior.a.02	inferior.a.01	inferior.a.02
-superioran	ADJ	superior.a.01	superior.a.01
-iznenađen	ADJ	surprised.a.01	surprised.a.01
-iznenađujući	ADJ	surprising.a.01	surprising.a.01
-podložan	ADJ	susceptible.a.01	susceptible.a.01
-prijemčiv	ADJ	susceptible.a.01	susceptible.a.01
-nepodložan	ADJ	unsusceptible.a.01	unsusceptible.a.01
-neprijemčiv	ADJ	unsusceptible.a.01	unsusceptible.a.01
-nepredviđen	ADJ	unscheduled.a.01	unscheduled.a.01
-suh	ADJ	dry.a.06	dry.a.01	dry.a.06	dry.a.01
-sladak	ADJ	sweet.a.01	sweet.a.01
-simetričan	ADJ	symmetrical.a.01	symmetrical.a.01
-asimetričan	ADJ	asymmetrical.a.01	asymmetrical.a.01
-mio	ADJ	sympathetic.a.04	sympathetic.a.04
-simpatičan	ADJ	sympathetic.a.04	sympathetic.a.04
-suosjećajan	ADJ	sympathetic.a.04	sympathetic.a.04
-povijestan	ADJ	diachronic.a.01	historical.a.01	diachronic.a.01	historical.a.01
-istoznačan	ADJ	synonymous.a.01	synonymous.a.01
-sistematičan	ADJ	systematic.a.01	systematic.a.01
-sistematski	ADJ	systematic.a.01	systematic.a.01
-sustavan	ADJ	systematic.a.01	systematic.a.01
-usustavljen	ADJ	systematic.a.01	systematic.a.01
-divlji	ADJ	wild.a.02	wild.a.01	wild.a.02	wild.a.01
-dobrog_ukusa	ADJ	tasteful.a.01	tasteful.a.01
-ukusan	ADJ	tasteful.a.01	tasty.a.01	tasteful.a.01	tasty.a.01
-bez_ukusa	ADJ	tasteless.a.02	tasteless.a.02
-bezukusan	ADJ	tasteless.a.02	tasteless.a.02
-neukusan	ADJ	tasteless.a.02	tasteless.a.02
-oporeziv	ADJ	taxable.a.01	taxable.a.01
-napet	ADJ	tense.a.03	tense.a.01	tense.a.03	tense.a.01
-zategnut	ADJ	tense.a.03	tense.a.03
-teritorijalni	ADJ	territorial.a.03	territorial.a.03
-gust	ADJ	thick.a.03	thick.a.03
-uredan	ADJ	tidy.a.01	tidy.a.01
-neuredan	ADJ	untidy.a.01	untidy.a.01
-umoran	ADJ	tired.a.01	tired.a.01
-tolerantan	ADJ	tolerant.a.01	tolerant.a.01
-bezub	ADJ	toothless.a.01	toothless.a.01
-žilav	ADJ	tough.a.03	tough.a.03
-otrovan	ADJ	toxic.a.01	toxic.a.01
-podatan	ADJ	tractable.a.01	tractable.a.01
-nepodatan	ADJ	intractable.a.01	intractable.a.01
-nepodesan	ADJ	intractable.a.01	intractable.a.01
-neukrotiv	ADJ	intractable.a.01	intractable.a.01
-istinit	ADJ	true.a.01	true.a.01
-lažan	ADJ	false.a.01	false.a.01
-tipičan	ADJ	typical.a.01	quintessential.a.01	typical.a.01	quintessential.a.01
-uporabiv	ADJ	useful.a.01	useful.a.01
-uporabljiv	ADJ	useful.a.01	useful.a.01
-upotrebljiv	ADJ	useful.a.01	useful.a.01
-utilitaran	ADJ	useful.a.01	useful.a.01
-beskoristan	ADJ	useless.a.01	useless.a.01
-neupotrebljiv	ADJ	useless.a.01	useless.a.01
-validan	ADJ	valid.a.01	valid.a.01
-valjan	ADJ	valid.a.01	valid.a.01
-promjenjiv	ADJ	variable.a.01	variable.a.01
-nasilan	ADJ	violent.a.01	violent.a.01
-vidljiv	ADJ	visible.a.01	visible.a.01
-nevidljiv	ADJ	invisible.a.01	invisible.a.01
-dobrovoljan	ADJ	voluntary.a.01	willing.a.01	voluntary.a.01	willing.a.01
-dragovljan	ADJ	voluntary.a.01	voluntary.a.01
-prisilan	ADJ	involuntary.a.01	involuntary.a.01
-ranjiv	ADJ	vulnerable.a.01	vulnerable.a.01
-neželjen	ADJ	unwanted.a.01	unwanted.a.01
-hladnjikav	ADJ	cool.a.01	cool.a.01
-prohladan	ADJ	cool.a.01	cool.a.01
-prozračan	ADJ	cool.a.01	cool.a.01
-naklonjen	ADJ	warm.a.02	warm.a.02
-flegmatičan	ADJ	cool.a.04	cool.a.04
-indiferentan	ADJ	cool.a.04	cool.a.04
-nenaklonjen	ADJ	cool.a.04	cool.a.04
-dobrodošao	ADJ	welcome.a.01	welcome.a.01
-dobro	ADJ	well.a.01	well.a.01
-bolestan	ADJ	ill.a.01	ill.a.01
-mokar	ADJ	wet.a.01	wet.a.01
-navlažen	ADJ	wet.a.01	wet.a.01
-vlažan	ADJ	wet.a.01	wet.a.01
-isušen	ADJ	dry.a.01	dry.a.01
-osušen	ADJ	dry.a.01	dry.a.01
-posušen	ADJ	dry.a.01	dry.a.01
-sasušen	ADJ	dry.a.01	dry.a.01
-širok	ADJ	wide.a.01	wide.a.01
-uzak	ADJ	narrow.a.01	narrow.a.01
-entuzijastičan	ADJ	willing.a.01	willing.a.01
-voljan	ADJ	willing.a.01	willing.a.01
-nevoljan	ADJ	unwilling.a.01	unwilling.a.01
-mudar	ADJ	wise.a.01	wise.a.01
-budalast	ADJ	foolish.a.01	foolish.a.01
-šumovit	ADJ	wooded.a.01	wooded.a.01
-drvenast	ADJ	woody.a.01	woody.a.01
-dostojan	ADJ	worthy.a.01	worthy.a.01
-nedostojan	ADJ	unworthy.a.01	unworthy.a.01
-benigan	ADJ	benign.a.01	benign.a.01
-maligan	ADJ	malignant.a.01	malignant.a.01
-abhaski	ADJ	abkhaz.a.01	abkhaz.a.01
-akademski	ADJ	academic.a.01	academic.a.01
-aeronautički	ADJ	aeronautical.a.01	aeronautical.a.01
-alergijski	ADJ	allergic.a.01	allergic.a.01
-armenski	ADJ	armenian.a.01	armenian.a.01
-arheološki	ADJ	archaeological.a.01	archaeological.a.01
-arterijski	ADJ	arterial.a.01	arterial.a.01
-astronomski	ADJ	astronomic.a.01	astronomic.a.01
-azerbejdžanski	ADJ	azerbaijani.a.01	azerbaijani.a.01
-bjeloruski	ADJ	belarusian.a.01	belarusian.a.01
-dobronamjeran	ADJ	benevolent.a.01	benevolent.a.01
-biokemijski	ADJ	biochemical.a.01	biochemical.a.01
-vapnenački	ADJ	calcareous.a.01	calcareous.a.01
-kancerogen	ADJ	carcinogenic.a.01	carcinogenic.a.01
-hrskavičan	ADJ	cartilaginous.a.01	cartilaginous.a.01
-nebeski	ADJ	celestial.a.01	celestial.a.01
-dobrotvoran	ADJ	charitable.a.01	charitable.a.01
-kemijski	ADJ	chemical.a.01	chemical.a.01
-općinski	ADJ	municipal.a.01	municipal.a.01
-kolonijalan	ADJ	colonial.a.01	colonial.a.02	colonial.a.01	colonial.a.02
-ugovoran	ADJ	contractual.a.01	contractual.a.01
-kozmički	ADJ	cosmic.a.01	cosmic.a.01
-digitalni	ADJ	digital.a.01	digital.a.01
-dramski	ADJ	dramatic.a.03	dramatic.a.03
-ekonomski	ADJ	economic.a.02	economic.a.02
-socioekonomski	ADJ	socioeconomic.a.01	socioeconomic.a.01
-izboran	ADJ	electoral.a.01	electoral.a.01
-elektronički	ADJ	electronic.a.01	electronic.a.01
-elementaran	ADJ	elemental.a.01	elemental.a.01
-feudalan	ADJ	feudal.a.01	feudal.a.01
-izmišljen	ADJ	fictional.a.01	fictional.a.01
-mesnat	ADJ	fleshy.a.02	fleshy.a.02
-fosilan	ADJ	fossil.a.01	fossil.a.01
-genetički	ADJ	genetic.a.04	genetic.a.04
-genetski	ADJ	genic.a.01	genic.a.01
-geometrijski	ADJ	geometric.a.02	geometric.a.02
-geostrateški	ADJ	geostrategic.a.01	geostrategic.a.01
-grafički	ADJ	graphic.a.04	graphic.a.03	graphic.a.04	graphic.a.03
-gravitacijski	ADJ	gravitational.a.01	gravitational.a.01
-herojski	ADJ	heroic.a.02	heroic.a.02
-šesterokutan	ADJ	hexangular.a.01	hexangular.a.01
-carski	ADJ	imperial.a.01	imperial.a.01
-institucionalan	ADJ	institutional.a.01	institutional.a.01
-sudski	ADJ	judicial.a.03	judicial.a.03
-makroekonomski	ADJ	macroeconomic.a.01	macroeconomic.a.01
-paravojni	ADJ	paramilitary.a.01	paramilitary.a.01
-monotipski	ADJ	monotypic.a.01	monotypic.a.01
-pomorski	ADJ	naval.a.01	naval.a.01
-parlamentaran	ADJ	parliamentary.a.01	parliamentary.a.01
-monetaran	ADJ	monetary.a.01	monetary.a.01
-fonološki	ADJ	phonological.a.01	phonological.a.01
-izvanzemaljski	ADJ	extraterrestrial.a.01	extraterrestrial.a.01
-vanzemaljski	ADJ	extraterrestrial.a.01	extraterrestrial.a.01
-pozicijski	ADJ	positional.a.01	positional.a.01
-romantičan	ADJ	romantic.a.01	romantic.a.01
-kraljevski	ADJ	royal.a.01	royal.a.02	royal.a.01	royal.a.02
-poljoprivredan	ADJ	agricultural.a.01	agricultural.a.01
-scenski	ADJ	scenic.a.02	scenic.a.02
-solarni	ADJ	solar.a.01	solar.a.01
-sunčani	ADJ	solar.a.01	solar.a.01
-sportski	ADJ	sporting.a.02	sporting.a.02
-prigradski	ADJ	suburban.a.01	suburban.a.01
-vremenski	ADJ	temporal.a.02	temporal.a.02
-tematski	ADJ	thematic.a.01	thematic.a.01
-toplinski	ADJ	thermal.a.01	thermal.a.01
-tonski	ADJ	tonic.a.02	tonic.a.02
-jednostanični	ADJ	unicellular.a.01	unicellular.a.01
-vokalan	ADJ	vocal.a.02	vocal.a.01	vocal.a.02	vocal.a.01
-instrumentalan	ADJ	instrumental.a.01	instrumental.a.01
-vulkanski	ADJ	volcanic.a.01	volcanic.a.01
-električan	ADJ	electrical.a.01	electric.a.01	electrical.a.01	electric.a.01
-zakonodavan	ADJ	legislative.a.02	legislative.a.01	legislative.a.02	legislative.a.01
-književan	ADJ	literary.a.01	literary.a.01
-atmosferski	ADJ	atmospheric.a.01	atmospheric.a.01
-gljivičan	ADJ	fungal.a.01	fungal.a.01
-bakterijski	ADJ	bacterial.a.01	bacterial.a.01
-fotografski	ADJ	photographic.a.01	photographic.a.01
-feministički	ADJ	feminist.a.01	feminist.a.01
-strukovan	ADJ	vocational.a.01	vocational.a.01
-prostoran	ADJ	spatial.a.01	spatial.a.01
-semantički	ADJ	semantic.a.01	semantic.a.01
-jezičan	ADJ	linguistic.a.01	linguistic.a.01
-prehramben	ADJ	dietary.a.01	nutritional.a.01	dietary.a.01	nutritional.a.01
-financijski	ADJ	fiscal.a.01	fiscal.a.01
-bračan	ADJ	marital.a.01	marital.a.01
-algebarski	ADJ	algebraic.a.01	algebraic.a.01
-biblijski	ADJ	biblical.a.01	biblical.a.02	biblical.a.01	biblical.a.02
-pjesnički	ADJ	poetic.a.01	poetic.a.01
-poetski	ADJ	poetic.a.01	poetic.a.01
-filozofski	ADJ	philosophic.a.01	philosophic.a.01
-pastoralan	ADJ	pastoral.a.01	pastoral.a.01
-patološki	ADJ	pathological.a.01	pathological.a.01
-slikovan	ADJ	pictorial.a.01	pictorial.a.01
-optički	ADJ	optical.a.01	optical.a.01
-nuklearni	ADJ	nuclear.a.02	nuclear.a.03	nuclear.a.02	nuclear.a.03
-opojan	ADJ	narcotic.a.01	narcotic.a.01
-meteorološki	ADJ	meteorologic.a.01	meteorologic.a.01
-metafizički	ADJ	metaphysical.a.01	metaphysical.a.01
-akustičan	ADJ	acoustic.a.01	acoustic.a.01
-slušan	ADJ	auditory.a.01	auditory.a.01
-taktilan	ADJ	haptic.a.01	haptic.a.01
-vizualan	ADJ	ocular.a.02	ocular.a.02
-očni	ADJ	ocular.a.01	ocular.a.01
-regionalan	ADJ	regional.a.01	regional.a.01
-kulturan	ADJ	cultural.a.03	cultural.a.01	cultural.a.03	cultural.a.01
-multikulturalan	ADJ	multicultural.a.01	multicultural.a.01
-vaskularni	ADJ	vascular.a.01	vascular.a.01
-zborski	ADJ	choral.a.01	choral.a.01
-komunistički	ADJ	communist.a.01	communist.a.01
-potkožan	ADJ	hypodermic.a.01	hypodermic.a.01
-papinski	ADJ	papal.a.01	papal.a.01
-gramatički	ADJ	grammatical.a.01	grammatical.a.01
-sintaktički	ADJ	syntactic.a.01	syntactic.a.01
-genitalan	ADJ	genital.a.01	genital.a.01
-atomski	ADJ	atomic.a.01	atomic.a.01
-klinički	ADJ	clinical.a.01	clinical.a.01
-poštanski	ADJ	postal.a.01	postal.a.01
-kontinentalni	ADJ	continental.a.03	continental.a.03
-leksički	ADJ	lexical.a.01	lexical.a.01
-nautički	ADJ	nautical.a.01	nautical.a.01
-živčani	ADJ	neural.a.02	nervous.a.03	neural.a.02	nervous.a.03
-radni	ADJ	occupational.a.01	occupational.a.01
-strukturan	ADJ	structural.a.02	structural.a.01	structural.a.02	structural.a.01
-anatomski	ADJ	anatomic.a.01	anatomic.a.01
-arhitektonski	ADJ	architectural.a.01	architectural.a.01
-organizacijski	ADJ	organizational.a.01	organizational.a.01
-crkven	ADJ	ecclesiastical.a.01	ecclesiastical.a.01
-administrativan	ADJ	administrative.a.01	administrative.a.01
-nadzoran	ADJ	supervisory.a.01	supervisory.a.01
-firentinski	ADJ	florentine.a.01	florentine.a.01
-geološki	ADJ	geological.a.01	geological.a.01
-psihološki	ADJ	psychological.a.02	psychological.a.02
-sociološki	ADJ	sociological.a.01	sociological.a.01
-demografski	ADJ	demographic.a.01	demographic.a.01
-ekološki	ADJ	ecological.a.02	ecological.a.02
-teološki	ADJ	theological.a.01	theological.a.01
-antropološki	ADJ	anthropological.a.01	anthropological.a.01
-geopolitički	ADJ	geopolitical.a.01	geopolitical.a.01
-statistički	ADJ	statistical.a.01	statistical.a.01
-operni	ADJ	operatic.a.01	operatic.a.01
-farmakološki	ADJ	pharmacological.a.01	pharmacological.a.01
-psihijatrijski	ADJ	psychiatric.a.01	psychiatric.a.01
-terapijski	ADJ	therapeutic.a.02	therapeutic.a.02
-neurološki	ADJ	neurological.a.01	neurological.a.01
-mikroskopski	ADJ	microscopic.a.01	microscopic.a.01
-fašistički	ADJ	fascist.a.01	fascist.a.01
-rimski	ADJ	roman.a.02	roman.a.02
-židovski	ADJ	jewish.a.01	jewish.a.01
-muslimanski	ADJ	muslim.a.01	muslim.a.01
-hindski	ADJ	hindu.a.01	hindu.a.01
-tekstualan	ADJ	textual.a.01	textual.a.01
-magnetski	ADJ	magnetic.a.01	magnetic.a.01
-elektromagnetski	ADJ	electromagnetic.a.01	electromagnetic.a.01
-automobilski	ADJ	automotive.a.01	automotive.a.01
-američki	ADJ	american.a.02	american.a.01	american.a.02	american.a.01
-indijski	ADJ	indian.a.01	indian.a.01
-tropski	ADJ	tropical.a.02	tropical.a.02
-trbušan	ADJ	abdominal.a.01	abdominal.a.01
-hormonalan	ADJ	hormonal.a.01	hormonal.a.01
-plućni	ADJ	pneumonic.a.02	pneumonic.a.02
-crijevan	ADJ	intestinal.a.01	intestinal.a.01
-skeletni	ADJ	skeletal.a.01	skeletal.a.01
-matematički	ADJ	mathematical.a.01	mathematical.a.01
-eksperimentalan	ADJ	experimental.a.01	experimental.a.01
-afrički	ADJ	african.a.01	african.a.01
-okolišni	ADJ	environmental.a.01	environmental.a.01
-epileptički	ADJ	epileptic.a.01	epileptic.a.01
-razvojan	ADJ	developmental.a.01	developmental.a.01
-edukacijski	ADJ	educational.a.01	educational.a.01
-obrazovni	ADJ	educational.a.01	educational.a.01
-fiziološki	ADJ	physiological.a.01	physiological.a.01
-strateški	ADJ	strategic.a.01	strategic.a.01
-taktički	ADJ	tactical.a.01	tactical.a.01
-anglikanski	ADJ	anglican.a.01	anglican.a.01
-orkestralan	ADJ	orchestral.a.01	orchestral.a.01
-kronološki	ADJ	chronological.a.01	chronological.a.01
-talijanski	ADJ	italian.a.01	italian.a.01
-ruski	ADJ	russian.a.01	russian.a.01
-Ruski	ADJ	russian.a.01	russian.a.01
-njemački	ADJ	german.a.01	german.a.01
-keltski	ADJ	celtic.a.01	celtic.a.01
-francuski	ADJ	french.a.01	french.a.01
-španjolski	ADJ	spanish.a.01	spanish.a.01
-portugalski	ADJ	portuguese.a.01	portuguese.a.01
-sovjetski	ADJ	soviet.a.01	soviet.a.01
-finski	ADJ	finnish.a.01	finnish.a.01
-švedski	ADJ	swedish.a.01	swedish.a.01
-norveški	ADJ	norwegian.a.01	norwegian.a.01
-danski	ADJ	danish.a.01	danish.a.01
-belgijski	ADJ	belgian.a.01	belgian.a.01
-nizozemski	ADJ	dutch.a.01	dutch.a.01
-austrijski	ADJ	austrian.a.01	austrian.a.01
-poljski	ADJ	polish.a.01	polish.a.01
-mađarski	ADJ	hungarian.a.01	hungarian.a.01
-jugoslavenski	ADJ	yugoslavian.a.01	yugoslavian.a.01
-litavski	ADJ	lithuanian.a.01	lithuanian.a.01
-srpski	ADJ	serbian.a.01	serbian.a.01
-hrvatski	ADJ	croatian.a.01	croatian.a.01
-kineski	ADJ	chinese.a.01	chinese.a.01
-japanski	ADJ	japanese.a.01	japanese.a.01
-brazilski	ADJ	brazilian.a.01	brazilian.a.01
-argentinski	ADJ	argentine.a.01	argentine.a.01
-kolumbijski	ADJ	colombian.a.01	colombian.a.01
-korejski	ADJ	korean.a.01	korean.a.01
-europski	ADJ	european.a.01	european.a.01
-azijski	ADJ	asian.a.01	asian.a.01
-kubanski	ADJ	cuban.a.01	cuban.a.01
-egipatski	ADJ	egyptian.a.01	egyptian.a.01
-indonezijski	ADJ	indonesian.a.01	indonesian.a.01
-atenski	ADJ	athenian.a.01	athenian.a.01
-izraelski	ADJ	israeli.a.01	israeli.a.01
-tragičan	ADJ	tragic.a.02	tragic.a.02
-barokan	ADJ	baroque.a.02	baroque.a.02
-metabolički	ADJ	metabolic.a.01	metabolic.a.01
-dijagnostički	ADJ	diagnostic.a.01	diagnostic.a.01
-neurotičan	ADJ	neurotic.a.01	neurotic.a.01
-andorski	ADJ	andorran.a.01	andorran.a.01
-nosan	ADJ	rhinal.a.01	rhinal.a.01
-kanadski	ADJ	canadian.a.01	canadian.a.01
-predsjednički	ADJ	presidential.a.01	presidential.a.01
-korporativni	ADJ	corporate.a.01	corporate.a.01
-logistički	ADJ	logistic.a.01	logistic.a.01
-srednjovjekovan	ADJ	medieval.a.01	medieval.a.01
-umjetnički	ADJ	artistic.a.01	artistic.a.01
-humanitaran	ADJ	humanitarian.a.02	humanitarian.a.02
-liturgijski	ADJ	liturgical.a.01	liturgical.a.01
-metrički	ADJ	metric.a.01	metric.a.01
-stogodišnji	ADJ	centennial.a.01	centennial.a.01
-kapitalistički	ADJ	capitalist.a.01	capitalist.a.01
-evolucijski	ADJ	evolutionary.a.01	evolutionary.a.01
-simfonijski	ADJ	symphonic.a.01	symphonic.a.01
-engleski	ADJ	english.a.01	english.a.02	english.a.01	english.a.02
-irski	ADJ	irish.a.01	irish.a.01
-idiomatski	ADJ	idiomatic.a.01	idiomatic.a.01
-parasimpatički	ADJ	parasympathetic.a.01	parasympathetic.a.01
-operativan	ADJ	operational.a.01	operational.a.01
-lumbalan	ADJ	lumbar.a.01	lumbar.a.01
-keramički	ADJ	ceramic.a.01	ceramic.a.01
-grčki	ADJ	greek.a.01	greek.a.01
-izvršan	ADJ	executive.a.01	executive.a.01
-topografski	ADJ	topographical.a.01	topographical.a.01
-grmolik	ADJ	shrubby.a.01	shrubby.a.01
-britanski	ADJ	british.a.01	british.a.01
-turski	ADJ	turkish.a.01	turkish.a.01
-marokanski	ADJ	moroccan.a.01	moroccan.a.01
-alpski	ADJ	alpine.a.01	alpine.a.01
-meksički	ADJ	mexican.a.01	mexican.a.01
-antisemitski	ADJ	anti-semitic.a.01	anti-semitic.a.01
-apelacijski	ADJ	appellate.a.01	appellate.a.01
-arapski	ADJ	arabic.a.01	arabic.a.01
-dvovalentni	ADJ	bivalent.a.01	bivalent.a.01
-brunejski	ADJ	bruneian.a.01	bruneian.a.01
-bugarski	ADJ	bulgarian.a.01	bulgarian.a.01
-birokratski	ADJ	bureaucratic.a.01	bureaucratic.a.01
-burundijski	ADJ	burundi.a.01	burundi.a.01
-klimatski	ADJ	climatic.a.01	climatic.a.01
-konzularan	ADJ	consular.a.01	consular.a.01
-etnografski	ADJ	ethnographic.a.01	ethnographic.a.01
-žljezdani	ADJ	glandular.a.01	glandular.a.01
-gvatemalski	ADJ	guatemalan.a.01	guatemalan.a.01
-islandski	ADJ	icelandic.a.01	icelandic.a.01
-plemenski	ADJ	tribal.a.01	tribal.a.01
-perzijski	ADJ	iranian.a.01	iranian.a.01
-jamajkanski	ADJ	jamaican.a.01	jamaican.a.01
-novinarski	ADJ	journalistic.a.01	journalistic.a.01
-makedonski	ADJ	macedonian.a.01	macedonian.a.01
-membranski	ADJ	membranous.a.01	membranous.a.01
-pakistanski	ADJ	pakistani.a.01	pakistani.a.01
-farmaceutski	ADJ	pharmaceutical.a.01	pharmaceutical.a.01
-proceduralan	ADJ	procedural.a.01	procedural.a.01
-stambeni	ADJ	residential.a.02	residential.a.02
-romski	ADJ	romany.a.01	romany.a.01
-sakralan	ADJ	sacral.a.01	sacral.a.01
-anglosaski	ADJ	anglo-saxon.a.01	anglo-saxon.a.01
-sudanski	ADJ	sudanese.a.01	sudanese.a.01
-trovalentni	ADJ	trivalent.a.01	trivalent.a.01
-vaginalan	ADJ	vaginal.a.01	vaginal.a.01
-vijetnamski	ADJ	vietnamese.a.01	vietnamese.a.01
-vunen	ADJ	woolen.a.01	woolen.a.01
-zodijački	ADJ	zodiacal.a.01	zodiacal.a.01
-koštan	ADJ	osseous.a.01	osseous.a.01
+kadar	ADJ	able.a.01
+sposoban	ADJ	able.a.01	capable.a.01	competent.a.01
+umješan	ADJ	able.a.01
+nemoćan	ADJ	unable.a.01	impotent.a.01	powerless.a.01	weak.a.01
+nesposoban	ADJ	unable.a.01	incapable.a.01	incapable.a.03
+apsolutan	ADJ	absolute.a.01
+relativan	ADJ	relative.a.01
+apstraktan	ADJ	abstract.a.01
+konkretan	ADJ	concrete.a.01
+obilan	ADJ	abundant.a.01
+prihvatljiv	ADJ	acceptable.a.01
+dostupan	ADJ	accessible.a.01	available.a.01
+točan	ADJ	accurate.a.01	correct.a.01	exact.a.01	truthful.a.01
+netočan	ADJ	inaccurate.a.01
+kiseo	ADJ	acidic.a.01	sour.a.02
+aktivan	ADJ	active.a.05	active.a.14	active.a.07	active.a.01	active.a.03	active.a.13	active.a.12	active.a.06
+energičan	ADJ	active.a.05	energetic.a.01	spirited.a.01
+živ	ADJ	active.a.05	active.a.03	alive.a.01	animate.a.02	animate.a.01	lively.a.01
+živahan	ADJ	active.a.05	lively.a.01	spirited.a.01
+inertan	ADJ	inactive.a.09	passive.a.01
+neaktivan	ADJ	inactive.a.09	inactive.a.07	dormant.a.02	extinct.a.02
+pasivan	ADJ	inactive.a.09	passive.a.01
+trom	ADJ	inactive.a.09	passive.a.01
+djelatan	ADJ	active.a.07	active.a.03
+otvoren	ADJ	active.a.07	open.a.01	open.a.02	open.a.05	overt.a.01	receptive.a.02
+vrijedan	ADJ	active.a.07	rewarding.a.01	valuable.a.01
+vrijedeći	ADJ	active.a.07
+napušten	ADJ	inactive.a.07
+nedjelatan	ADJ	inactive.a.07
+neupotrebljen	ADJ	inactive.a.07
+zatvoren	ADJ	inactive.a.07	shut.a.01
+bezvoljan	ADJ	passive.a.01	spiritless.a.01	unwilling.a.01
+lijen	ADJ	passive.a.01
+miran	ADJ	dormant.a.02	peaceful.a.01	quiet.a.02	quiet.a.01
+uspavan	ADJ	dormant.a.02
+u_stanju_mirovanja	ADJ	dormant.a.02
+ugasli	ADJ	extinct.a.02
+aktualan	ADJ	actual.a.01
+postojeći	ADJ	actual.a.01	existent.a.01	extant.a.01	real.a.01
+prezentan	ADJ	actual.a.01
+prisutan	ADJ	actual.a.01	present.a.02
+sadašnji	ADJ	actual.a.01	existent.a.01	present.a.01
+stvaran	ADJ	actual.a.01	real.a.01
+zbiljski	ADJ	actual.a.01
+moguć	ADJ	potential.a.01	possible.a.01
+potencijalan	ADJ	potential.a.01	prospective.a.01
+akutan	ADJ	acute.a.01
+kroničan	ADJ	chronic.a.01
+ovisan	ADJ	addicted.a.01	dependent.a.01
+adekvatan	ADJ	adequate.a.01
+podoban	ADJ	adequate.a.01
+neadevkatan	ADJ	inadequate.a.01
+snalažljiv	ADJ	adroit.a.01
+povoljan	ADJ	advantageous.a.01	auspicious.a.01	favorable.a.02	favorable.a.01	positive.a.01
+poželjan	ADJ	advisable.a.01	desirable.a.01
+anaeroban	ADJ	anaerobic.a.01
+estetski	ADJ	aesthetic.a.02	aesthetic.a.01
+nepromijenjen	ADJ	unaffected.a.01	unchanged.a.01
+preplašen	ADJ	afraid.a.01
+prestrašen	ADJ	afraid.a.01
+ustrašen	ADJ	afraid.a.01
+bez_straha	ADJ	unafraid.a.01
+neustrašiv	ADJ	unafraid.a.01
+agresivan	ADJ	aggressive.a.01
+budan	ADJ	alert.a.01	awake.a.01
+pažljiv	ADJ	alert.a.01	careful.a.01	heedful.a.01
+mrtav	ADJ	dead.a.01	dead.a.02	inanimate.a.02
+abecedan	ADJ	alphabetic.a.02
+altruističan	ADJ	altruistic.a.01
+ambiciozan	ADJ	ambitious.a.01
+bez_ambicije	ADJ	unambitious.a.01
+neambiciozan	ADJ	unambitious.a.01
+digitalan	ADJ	digital.a.03
+analitički	ADJ	analytic.a.02	analytic.a.01
+ljut	ADJ	angry.a.01
+neživ	ADJ	inanimate.a.02
+anoniman	ADJ	anonymous.a.01
+sljedeći	ADJ	subsequent.a.01	succeeding.a.01
+voden	ADJ	aquatic.a.02	aqueous.a.01
+zemaljski	ADJ	terrestrial.a.03	earthly.a.01	planetary.a.02
+amfibijski	ADJ	amphibious.a.02
+prednji	ADJ	preceding.a.01	anterior.a.01	front.a.01	forward.a.01
+prethodan	ADJ	preceding.a.01
+idući	ADJ	succeeding.a.01
+naredni	ADJ	succeeding.a.01
+sukcesivan	ADJ	succeeding.a.01
+predratni	ADJ	prewar.a.01
+poslijeratan	ADJ	postwar.a.01
+retrogradan	ADJ	retrograde.a.02
+anterogradan	ADJ	anterograde.a.01
+prijepodnevni	ADJ	antemeridian.a.01
+popodnevni	ADJ	postmeridian.a.01
+poslijepodnevni	ADJ	postmeridian.a.01
+anteriorni_dio	ADJ	anterior.a.01
+prednji_dio	ADJ	anterior.a.01
+posteriorni_dio	ADJ	posterior.a.01
+stražnji_dio	ADJ	posterior.a.01
+odgovarajući	ADJ	appropriate.a.01
+neprikladan	ADJ	inappropriate.a.01	bad.a.01
+naplativo	ADJ	due.a.01
+neartikuliran	ADJ	inarticulate.a.01
+posramljen	ADJ	ashamed.a.01
+postiđen	ADJ	ashamed.a.01
+arogantan	ADJ	assertive.a.01
+nametljiv	ADJ	assertive.a.01
+napadan	ADJ	assertive.a.01
+oprezan	ADJ	wary.a.01	careful.a.01	cautious.a.01
+atraktivan	ADJ	attractive.a.01
+privlačan	ADJ	attractive.a.01	appealing.a.01	sympathetic.a.04
+neatraktivan	ADJ	unattractive.a.01
+neprivlačan	ADJ	unattractive.a.01
+atributivni	ADJ	attributive.a.01
+pridjevski	ADJ	attributive.a.01	adjectival.a.01
+trudan	ADJ	pregnant.a.01
+trudna	ADJ	pregnant.a.01
+zvučan	ADJ	audible.a.01
+neovlašten	ADJ	unauthorized.a.01
+automatski	ADJ	automatic.a.01
+manualan	ADJ	manual.a.02
+nedostupan	ADJ	unavailable.a.01
+zaspao	ADJ	asleep.a.01
+svjestan	ADJ	aware.a.01	conscious.a.02	mindful.a.01
+nesvjestan	ADJ	unaware.a.01	unwitting.a.02
+vodeći	ADJ	leading.a.03
+travnat	ADJ	grassy.a.01
+dlakav	ADJ	hairy.a.01
+krasan	ADJ	beautiful.a.01	good.a.03
+lijep	ADJ	beautiful.a.01	nice.a.01
+prekrasan	ADJ	beautiful.a.01
+gadan	ADJ	ugly.a.01	nasty.a.01
+odbojan	ADJ	ugly.a.01
+rugoban	ADJ	ugly.a.01
+ružan	ADJ	ugly.a.01
+zlonamjeran	ADJ	malicious.a.01
+jednostran	ADJ	unilateral.a.01
+crn	ADJ	black.a.02	black.a.01
+bijel	ADJ	white.a.02	white.a.01
+blond	ADJ	blond.a.01
+plavokos	ADJ	blond.a.01
+krvav	ADJ	bloody.a.01
+hrabar	ADJ	bold.a.01	brave.a.01
+odvažan	ADJ	bold.a.01
+iz_nižih_slojeva	ADJ	lower-class.a.01
+građanski	ADJ	middle-class.a.01	civil.a.03	civic.a.01
+iz_srednjeg_sloja	ADJ	middle-class.a.01
+iz_viših_slojeva	ADJ	upper-class.a.01
+kukavički	ADJ	cowardly.a.01
+kristalan	ADJ	crystalline.a.01
+svijetao	ADJ	light.a.06	light.a.02
+svjetleći	ADJ	light.a.06
+taman	ADJ	dark.a.01	dark.a.02
+uskogrudan	ADJ	narrow-minded.a.02
+zatucan	ADJ	narrow-minded.a.02
+razlomljen	ADJ	broken.a.01	fractional.a.01
+razoren	ADJ	broken.a.01
+slomljen	ADJ	broken.a.01
+cijeli	ADJ	unbroken.a.05	whole.a.01
+cio	ADJ	unbroken.a.05	whole.a.01
+čitav	ADJ	unbroken.a.05	whole.a.01
+neslomljen	ADJ	unbroken.a.05
+neprekinut	ADJ	unbroken.a.01
+bratski	ADJ	brotherly.a.01
+zauzet	ADJ	busy.a.01
+socijalistički	ADJ	socialistic.a.01
+nebrižan	ADJ	careless.a.01
+nemaran	ADJ	careless.a.01
+neobziran	ADJ	careless.a.01
+neoprezan	ADJ	careless.a.01
+nepažljiv	ADJ	careless.a.01	heedless.a.01
+nepromišljen	ADJ	careless.a.01
+porozan	ADJ	porous.a.02
+središnji	ADJ	central.a.02	inner.a.02
+periferan	ADJ	peripheral.a.01
+izvjestan	ADJ	certain.a.03
+jasan	ADJ	certain.a.03	clear.a.01	clear.a.11	well-defined.a.02	distinct.a.02	explicit.a.01
+siguran	ADJ	certain.a.03	certain.a.02	certain.a.04	safe.a.01
+neizvjestan	ADJ	uncertain.a.02
+nejasan	ADJ	uncertain.a.02	undefined.a.01	indistinct.a.01
+nesiguran	ADJ	uncertain.a.02	uncertain.a.01	diffident.a.02
+uvjeren	ADJ	certain.a.02	confident.a.01
+plašljiv	ADJ	diffident.a.02
+stidljiv	ADJ	diffident.a.02
+neizbježan	ADJ	inevitable.a.01
+promjenljiv	ADJ	mutable.a.01
+karakterističan	ADJ	characteristic.a.01	specific.a.01
+veseo	ADJ	cheerful.a.01	happy.a.01	glad.a.01
+neutralan	ADJ	achromatic.a.01	neutral.a.04
+čist	ADJ	saturated.a.03	clean.a.01	clean.a.08	pure.a.06	pure.a.01	solid.a.03
+obojen	ADJ	color.a.01	colored.a.01
+u_boji	ADJ	color.a.01	colored.a.01
+crno-bijel	ADJ	black-and-white.a.02
+bezbojan	ADJ	uncolored.a.01	colorless.a.02
+šaren	ADJ	colorful.a.01	colorful.a.02
+klasičan	ADJ	classical.a.01
+nečist	ADJ	dirty.a.01	impure.a.02
+prljav	ADJ	dirty.a.01	dirty.a.02	impure.a.02
+umrljan	ADJ	dirty.a.01
+uprljan	ADJ	dirty.a.01
+zamazan	ADJ	dirty.a.01
+zamrljan	ADJ	dirty.a.01
+zaprljan	ADJ	dirty.a.01
+nepristojan	ADJ	dirty.a.02
+neproziran	ADJ	opaque.a.01
+pametan	ADJ	smart.a.01	intelligent.a.01
+glup	ADJ	stupid.a.01	unintelligent.a.01
+dalek	ADJ	far.a.01	distant.a.01
+udaljen	ADJ	far.a.01	distant.a.01
+blizak	ADJ	near.a.01	close.a.01	close.a.02
+nedaleki	ADJ	near.a.01	close.a.01
+obližnji	ADJ	near.a.01	close.a.01
+vedar	ADJ	clear.a.11
+obalan	ADJ	coastal.a.02
+kolektivan	ADJ	collective.a.02
+eksplozivan	ADJ	explosive.a.01
+udoban	ADJ	comfortable.a.01
+ugodan	ADJ	comfortable.a.01	pleasant.a.01	pleasing.a.01	warm.a.02
+neudoban	ADJ	uncomfortable.a.02
+neugodan	ADJ	uncomfortable.a.02	uncomfortable.a.01	offensive.a.05	unpleasant.a.01	cool.a.04
+komercijalan	ADJ	commercial.a.01
+tržišni	ADJ	commercial.a.01
+nekomercijalan	ADJ	noncommercial.a.01
+stamben	ADJ	residential.a.01
+zajednički	ADJ	common.a.02	common.a.01	joint.a.01
+uobičajen	ADJ	usual.a.01	conventional.a.04	normal.a.01	orthodox.a.02	standard.a.01
+neobičan	ADJ	unusual.a.01	unconventional.a.02	unorthodox.a.02
+javni	ADJ	common.a.01
+opći	ADJ	common.a.01	general.a.01
+individualan	ADJ	individual.a.01
+osoban	ADJ	individual.a.01	personal.a.01
+pojedinačan	ADJ	individual.a.01
+zaseban	ADJ	individual.a.01	separate.a.01
+kompaktan	ADJ	compact.a.01
+usporediv	ADJ	comparable.a.01
+kompatibilan	ADJ	compatible.a.01
+kompetentan	ADJ	competent.a.01
+mjerodavan	ADJ	competent.a.01
+kompetitivan	ADJ	competitive.a.01
+sav	ADJ	whole.a.01
+djelomičan	ADJ	fractional.a.01
+frakcionalan	ADJ	fractional.a.01
+parcijalan	ADJ	fractional.a.01
+potpun	ADJ	complete.a.01	perfect.a.01
+nepotpun	ADJ	incomplete.a.01	imperfect.a.01
+sveobuhvatan	ADJ	comprehensive.a.01
+konkavan	ADJ	concave.a.01
+konveksan	ADJ	convex.a.01
+koncentričan	ADJ	concentric.a.01
+bezuvjetan	ADJ	unconditional.a.01
+neprimjeren	ADJ	incongruous.a.01
+povezan	ADJ	connected.a.02	related.a.02	related.a.01
+spojen	ADJ	connected.a.02
+vezan	ADJ	connected.a.02
+nepovezan	ADJ	unconnected.a.01	unrelated.a.01
+nevezan	ADJ	unconnected.a.01
+konzervativan	ADJ	conservative.a.01	conventional.a.01
+liberalan	ADJ	liberal.a.03
+slobodouman	ADJ	liberal.a.03
+dosljedan	ADJ	consistent.a.01
+upadljiv	ADJ	conspicuous.a.01
+neprimjetan	ADJ	inconspicuous.a.01	imperceptible.a.01
+čvrst	ADJ	constant.a.02	rugged.a.01	tight.a.01	solid.a.02	strong.a.01	tough.a.03
+konstantan	ADJ	constant.a.02
+postojan	ADJ	constant.a.02
+nestalan	ADJ	inconstant.a.01
+konstruktivan	ADJ	constructive.a.01
+destruktivan	ADJ	destructive.a.01
+sadržaj	ADJ	contented.a.01
+zadovoljan	ADJ	contented.a.01
+sporadičan	ADJ	sporadic.a.01
+kontinuiran	ADJ	continuous.a.01	continuous.a.02
+nekontroliran	ADJ	uncontrolled.a.01
+kontroverzan	ADJ	controversial.a.01
+podesan	ADJ	convenient.a.01
+pogodan	ADJ	convenient.a.01
+prikladan	ADJ	convenient.a.01	eligible.a.01	good.a.01
+konvencionalan	ADJ	conventional.a.01	conventional.a.04
+nekonvencionalan	ADJ	unconventional.a.01	unconventional.a.02
+neuobičajen	ADJ	unconventional.a.01	unconventional.a.02	abnormal.a.01	nonstandard.a.02
+nuklearan	ADJ	nuclear.a.01
+tradicionalan	ADJ	traditional.a.01
+divergentan	ADJ	divergent.a.02
+uvjerljiv	ADJ	convincing.a.01	persuasive.a.01
+neuvjerljiv	ADJ	unconvincing.a.01
+sirov	ADJ	raw.a.03	unrefined.a.01
+kooperativan	ADJ	cooperative.a.02
+korumpiran	ADJ	corrupt.a.01
+interaktivni	ADJ	synergistic.a.01
+sinergijski	ADJ	synergistic.a.01
+znatan	ADJ	considerable.a.01	major.a.03
+materijalan	ADJ	material.a.02	corporeal.a.01	tangible.a.03
+bestjelesan	ADJ	immaterial.a.03	incorporeal.a.01
+nematerijalan	ADJ	immaterial.a.03	incorporeal.a.01
+netvaran	ADJ	immaterial.a.03
+fizički	ADJ	corporeal.a.01	physical.a.01
+tjelesan	ADJ	corporeal.a.01	bodily.a.01
+netjelesan	ADJ	incorporeal.a.01
+pogrešan	ADJ	incorrect.a.01	wrong.a.05	wrong.a.02
+pokrajinski	ADJ	provincial.a.02	provincial.a.01
+obziran	ADJ	considerate.a.01
+bezobziran	ADJ	inconsiderate.a.01
+neuljudan	ADJ	discourteous.a.01	unkind.a.01
+pristojan	ADJ	polite.a.01
+kreativan	ADJ	creative.a.01
+maštovit	ADJ	creative.a.01
+stvaralački	ADJ	creative.a.01
+nekreativan	ADJ	uncreative.a.01
+nevjerojatan	ADJ	incredible.a.01	improbable.a.01	impossible.a.01
+kritičan	ADJ	critical.a.01	critical.a.06	critical.a.02
+kritički	ADJ	critical.a.03
+ključan	ADJ	critical.a.06	crucial.a.01	significant.a.01
+opasan	ADJ	critical.a.06	dangerous.a.01
+presudan	ADJ	critical.a.06
+nekritičan	ADJ	noncritical.a.02
+iskristaliziran	ADJ	crystallized.a.01
+kristaliziran	ADJ	crystallized.a.01
+nedovršen	ADJ	uncrystallized.a.01	imperfect.a.01
+neiskristaliziran	ADJ	uncrystallized.a.01
+nekristaliziran	ADJ	uncrystallized.a.01
+trodimenzionalan	ADJ	cubic.a.01
+linearan	ADJ	linear.a.02	linear.a.01
+znatiželjan	ADJ	curious.a.02
+današnji	ADJ	current.a.01	present.a.01
+suvremen	ADJ	current.a.01
+domaći	ADJ	homemade.a.01	domestic.a.01	domestic.a.03	domestic.a.02
+godišnji	ADJ	annual.a.01
+dvogodišnji	ADJ	biennial.a.01
+višegodišnji	ADJ	perennial.a.01
+dnevan	ADJ	diurnal.a.01
+noćni	ADJ	nocturnal.a.01	nocturnal.a.02
+gluh	ADJ	deaf.a.01
+odlučujući	ADJ	decisive.a.01
+neodlučan	ADJ	indecisive.a.02
+dubok	ADJ	deep.a.03	deep.a.01	profound.a.01
+plitak	ADJ	shallow.a.01	shallow.a.02
+prkosan	ADJ	defiant.a.01
+nedefiniran	ADJ	undefined.a.01
+definiran	ADJ	well-defined.a.02
+određen	ADJ	definite.a.01	distinct.a.02	specified.a.01
+neodređen	ADJ	indefinite.a.01	indeterminate.a.01	neutral.a.04
+delikatan	ADJ	delicate.a.01
+fin	ADJ	delicate.a.01	fine.a.05
+istančan	ADJ	delicate.a.01
+krhak	ADJ	delicate.a.01	weak.a.01
+nježan	ADJ	delicate.a.01	tender.a.01
+osjetljiv	ADJ	delicate.a.01	sensible.a.02	sensitive.a.01	sensitive.a.02	susceptible.a.01
+profinjen	ADJ	delicate.a.01	sophisticated.a.01
+slabašan	ADJ	delicate.a.01	powerless.a.01	weak.a.01
+grub	ADJ	rugged.a.01	coarse.a.01	rough.a.01	tough.a.01
+otporan	ADJ	rugged.a.01	unsusceptible.a.01
+zahtjevan	ADJ	demanding.a.01
+demokratski	ADJ	democratic.a.01
+nedemokratski	ADJ	undemocratic.a.01
+proizvoljan	ADJ	arbitrary.a.01
+pouzdan	ADJ	reliable.a.01
+neovisan	ADJ	independent.a.01
+nezavisan	ADJ	independent.a.01	separate.a.01
+glavni	ADJ	independent.a.03	major.a.03	major.a.02	major.a.05	major.a.01	major.a.06
+nerazvijen	ADJ	undeveloped.a.01	immature.a.04
+adijabatski	ADJ	adiabatic.a.01
+nediferenciran	ADJ	undifferentiated.a.01
+mučan	ADJ	difficult.a.01
+naporan	ADJ	difficult.a.01
+težak	ADJ	difficult.a.01	heavy.a.01	heavy.a.04	heavy.a.02	heavy.a.03
+jednostavan	ADJ	easy.a.01	simple.a.06	simple.a.01
+lagan	ADJ	easy.a.01	light.a.01	light.a.04
+lak	ADJ	easy.a.01	light.a.01	light.a.03
+diplomatical	ADJ	diplomatic.a.02
+diplomatski	ADJ	diplomatic.a.02	diplomatic.a.01
+izravan	ADJ	direct.a.01	direct.a.03	lineal.a.01
+neizravan	ADJ	indirect.a.04
+neposredan	ADJ	immediate.a.03
+diskretan	ADJ	discreet.a.01
+djeljiv	ADJ	divisible.a.01
+dominantan	ADJ	domineering.a.01	dominant.a.01
+pokoran	ADJ	submissive.a.01	humble.a.02	tractable.a.01
+nadmoćan	ADJ	dominant.a.01
+niže_razine	ADJ	subordinate.a.01
+podređen	ADJ	subordinate.a.01
+subordiniran	ADJ	subordinate.a.01
+zavisan	ADJ	subordinate.a.01
+kazališni	ADJ	theatrical.a.02	theatrical.a.01
+trijezan	ADJ	sober.a.01
+tup	ADJ	dull.a.09	unintelligent.a.01
+oštar	ADJ	sharp.a.09	sharp.a.08	sharp-pointed.a.01
+dosadan	ADJ	dull.a.01
+nezanimljiv	ADJ	dull.a.01	uninteresting.a.01
+sumoran	ADJ	dull.a.01
+tmuran	ADJ	dull.a.01
+dinamičan	ADJ	dynamic.a.01
+željan	ADJ	eager.a.01	willing.a.01
+prijevremen	ADJ	early.a.01
+ran	ADJ	early.a.01	early.a.02
+uranio	ADJ	early.a.01
+srednje_dobi	ADJ	middle.a.04
+srednji	ADJ	middle.a.04	intermediate.a.01	neutral.a.04
+sredovječan	ADJ	middle.a.04
+kasan	ADJ	late.a.01
+nelagodan	ADJ	uneasy.a.01
+istočan	ADJ	east.a.01	eastern.a.02
+zapadan	ADJ	west.a.01	western.a.01	western.a.02
+istočni	ADJ	eastern.a.04
+jestiv	ADJ	edible.a.01
+djelotvoran	ADJ	effective.a.01
+efektan	ADJ	effective.a.01
+efektivan	ADJ	effective.a.01
+efikasan	ADJ	effective.a.01
+učinkovit	ADJ	effective.a.01	efficient.a.01
+nedjelotvoran	ADJ	ineffective.a.01
+neefektan	ADJ	ineffective.a.01
+neefektivan	ADJ	ineffective.a.01
+neefikasan	ADJ	ineffective.a.01
+neučinkovit	ADJ	ineffective.a.01
+elastičan	ADJ	elastic.a.01
+fakultativan	ADJ	optional.a.01
+izborni	ADJ	optional.a.01
+opcionalan	ADJ	optional.a.01
+elegantan	ADJ	elegant.a.01
+emocionalan	ADJ	emotional.a.02	emotional.a.01
+emotivan	ADJ	emotional.a.02
+osjećajan	ADJ	emotional.a.02
+uzbuđen	ADJ	emotional.a.02	excited.a.02
+bezosjećajan	ADJ	unemotional.a.01
+neemocionalan	ADJ	unemotional.a.01
+neemotivan	ADJ	unemotional.a.01
+empirijski	ADJ	empirical.a.01
+teorijski	ADJ	theoretical.a.01
+primijenjen	ADJ	applied.a.01
+nezaposlen	ADJ	unemployed.a.01
+ohrabrujući	ADJ	encouraging.a.01
+istraživački	ADJ	exploratory.a.01
+poduzetan	ADJ	enterprising.a.01
+oduševljen	ADJ	enthusiastic.a.01
+jednak	ADJ	equal.a.01	even.a.03	same.a.02
+uravnotežen	ADJ	balanced.a.01
+dvosmislen	ADJ	equivocal.a.01
+nedvosmislen	ADJ	unequivocal.a.01
+ezoteričan	ADJ	esoteric.a.01
+bitan	ADJ	essential.a.02	important.a.01	significant.a.01
+etički	ADJ	ethical.a.02	ethical.a.01
+ravnomjeran	ADJ	even.a.03
+neujednačen	ADJ	uneven.a.01
+paran	ADJ	even.a.01
+neparan	ADJ	odd.a.01
+zimzelen	ADJ	evergreen.a.01
+listopadan	ADJ	deciduous.a.01
+uzbudljiv	ADJ	exciting.a.01
+nepostojeći	ADJ	nonexistent.a.01
+izumro	ADJ	extinct.a.01
+odumro	ADJ	extinct.a.01
+očekivan	ADJ	expected.a.01
+neočekivan	ADJ	unexpected.a.01
+skup	ADJ	expensive.a.01
+jeftin	ADJ	cheap.a.01
+iskusan	ADJ	experienced.a.01
+neiskusni	ADJ	inexperienced.a.01
+eksplicitan	ADJ	explicit.a.01
+implicitan	ADJ	implicit.a.01
+eksterni	ADJ	external.a.01	exterior.a.01
+vanjski	ADJ	external.a.01	outer.a.01	outward.a.01	exterior.a.01	outdoor.a.01
+interni	ADJ	internal.a.01	interior.a.01
+unutarnji	ADJ	internal.a.01	inner.a.02	interior.a.01	indoor.a.01
+unutrašnji	ADJ	internal.a.01	inner.a.02	indoor.a.01
+periferni	ADJ	outer.a.01
+rubni	ADJ	outer.a.01
+centralni	ADJ	inner.a.02
+pošten	ADJ	fair.a.01	pure.a.06	straight.a.06
+nepravedan	ADJ	unfair.a.01
+nepristran	ADJ	equitable.a.01	impartial.a.01
+pravedan	ADJ	equitable.a.01	righteous.a.01
+vjeran	ADJ	faithful.a.01	faithful.a.03	loyal.a.01
+odan	ADJ	loyal.a.01
+nepogrešiv	ADJ	infallible.a.01
+poznat	ADJ	familiar.a.01
+nepoznat	ADJ	unfamiliar.a.01	unknown.a.01
+čudan	ADJ	strange.a.01
+moderan	ADJ	fashionable.a.01	modern.a.01
+elegentan	ADJ	stylish.a.01
+otmjen	ADJ	stylish.a.01
+brz	ADJ	fast.a.01
+hitar	ADJ	fast.a.01
+polagan	ADJ	slow.a.01
+spor	ADJ	slow.a.01
+usporen	ADJ	slow.a.01
+brzo	ADJ	fast.a.03
+izbirljiv	ADJ	fastidious.a.01
+probirljjiv	ADJ	fastidious.a.01
+debeo	ADJ	fat.a.01	thick.a.01
+tanak	ADJ	thin.a.02	small.a.01	thin.a.01
+mastan	ADJ	fatty.a.01
+fatalan	ADJ	fatal.a.01
+nepovoljan	ADJ	unfavorable.a.02	negative.a.01
+plodan	ADJ	fertile.a.01
+sterilan	ADJ	sterile.a.01
+gotov	ADJ	finished.a.02
+završen	ADJ	finished.a.02	perfect.a.01
+konačan	ADJ	finite.a.01
+beskonačan	ADJ	infinite.a.01
+prvi	ADJ	first.a.01
+posljednji	ADJ	last.a.02
+krajnji	ADJ	terminal.a.03	ultimate.a.01
+završni	ADJ	terminal.a.03
+čio	ADJ	fit.a.03
+zdrav	ADJ	fit.a.03	healthful.a.01	healthy.a.01	constitutional.a.01
+fleksibilan	ADJ	flexible.a.02
+beskompromisan	ADJ	uncompromising.a.01
+kovrčav	ADJ	curly.a.01
+prirođen	ADJ	native.a.02
+urođen	ADJ	native.a.02	unconditioned.a.01
+stran	ADJ	foreign.a.02	foreign.a.01
+formalan	ADJ	formal.a.01	formal.a.03
+neformalan	ADJ	informal.a.01	informal.a.03
+sretan	ADJ	fortunate.a.01	happy.a.01	lucky.a.02
+nesretan	ADJ	unfortunate.a.01	unhappy.a.01
+mirisan	ADJ	fragrant.a.01	odorous.a.01	olfactory.a.01
+mirisav	ADJ	odorous.a.01
+mirišljav	ADJ	odorous.a.01
+bez_mirisa	ADJ	odorless.a.01
+bezmirisan	ADJ	odorless.a.01
+nemirisav	ADJ	odorless.a.01
+nemirišljav	ADJ	odorless.a.01
+slobodan	ADJ	free.a.02	free.a.01
+fiksiran	ADJ	fixed.a.03
+pričvršćen	ADJ	fixed.a.03
+učvršćen	ADJ	fixed.a.03
+neslobodan	ADJ	unfree.a.02
+ograničen	ADJ	unfree.a.02	limited.a.01	restricted.a.01
+čest	ADJ	frequent.a.01
+svjež	ADJ	fresh.a.01
+prijateljski	ADJ	friendly.a.01
+neprijateljski	ADJ	unfriendly.a.02	hostile.a.01
+pun	ADJ	full.a.01
+prazan	ADJ	empty.a.01
+stalan	ADJ	full-time.a.01	permanent.a.01	steady.a.01
+honoraran	ADJ	part-time.a.01
+povremen	ADJ	part-time.a.01
+funkcionalan	ADJ	functional.a.01
+nefunkcionalan	ADJ	nonfunctional.a.01
+generalan	ADJ	general.a.01
+općenit	ADJ	general.a.01
+prosječan	ADJ	general.a.01
+poseban	ADJ	specific.a.01	separate.a.01
+specifičan	ADJ	specific.a.01	specific.a.04
+svojstven	ADJ	specific.a.04
+nespecifičan	ADJ	nonspecific.a.01
+nacionalan	ADJ	national.a.03	national.a.02	national.a.01	national.a.06
+lokalan	ADJ	local.a.01	local.a.03	local.a.02
+kozmopolitski	ADJ	cosmopolitan.a.01
+federalni	ADJ	federal.a.04
+tehnički	ADJ	technical.a.02	technical.a.01	technical.a.03
+vlasnički	ADJ	proprietary.a.01
+darežljiv	ADJ	generous.a.01
+izdašan	ADJ	generous.a.01
+velikodušan	ADJ	generous.a.01	generous.a.02
+škrt	ADJ	stingy.a.01
+prav	ADJ	genuine.a.01	real.a.02
+talentiran	ADJ	talented.a.01
+slavan	ADJ	glorious.a.01
+dobar	ADJ	good.a.01	good.a.03	positive.a.01
+loš	ADJ	bad.a.01	negative.a.01
+negativan	ADJ	bad.a.01	negative.a.01	negative.a.05	negative.a.04
+slab	ADJ	bad.a.01	light.a.04	mild.a.01	impotent.a.01	powerless.a.01	weak.a.01
+divan	ADJ	good.a.03
+grješan	ADJ	evil.a.01
+opak	ADJ	evil.a.01
+pokvaren	ADJ	evil.a.01	impure.a.02
+zao	ADJ	evil.a.01
+zločest	ADJ	evil.a.01
+dobroćudan	ADJ	good-natured.a.01
+pakostan	ADJ	ill-natured.a.01
+zloban	ADJ	ill-natured.a.01
+graciozan	ADJ	graceful.a.01
+nespretan	ADJ	awkward.a.02
+nezgrapan	ADJ	awkward.a.02
+postupan	ADJ	gradual.a.01	gradual.a.02
+iznenadan	ADJ	sudden.a.01
+strm	ADJ	steep.a.01
+zahvalan	ADJ	grateful.a.01
+radostan	ADJ	happy.a.01	glad.a.01	joyous.a.01
+neveseo	ADJ	unhappy.a.01
+tužan	ADJ	unhappy.a.01	sad.a.01
+žalostan	ADJ	unhappy.a.01
+tvrd	ADJ	hard.a.03
+mekan	ADJ	soft.a.01	soft.a.03	tender.a.05
+alkoholan	ADJ	alcoholic.a.01
+bezalkoholan	ADJ	nonalcoholic.a.01
+bezopasan	ADJ	harmless.a.01
+štetan	ADJ	harmful.a.01	unhealthy.a.01	noxious.a.01
+skladan	ADJ	harmonious.a.01
+medicinski	ADJ	medical.a.02	medical.a.01
+nezdrav	ADJ	unhealthy.a.01
+masivan	ADJ	heavy.a.01
+bezbrižan	ADJ	heedless.a.01
+neobazriv	ADJ	heedless.a.01
+brižan	ADJ	heedful.a.01
+obazriv	ADJ	heedful.a.01
+koristan	ADJ	helpful.a.01	useful.a.01	constitutional.a.01
+heterogen	ADJ	heterogeneous.a.01
+homogen	ADJ	homogeneous.a.01
+heteroseksualan	ADJ	heterosexual.a.01
+homoseksualan	ADJ	homosexual.a.01
+biseksualan	ADJ	bisexual.a.01
+hijerarhijski	ADJ	hierarchical.a.01
+visok	ADJ	high.a.02	high.a.01	high.a.04	tall.a.01
+nizak	ADJ	low.a.02	low.a.01
+velik	ADJ	high.a.01	large.a.01	major.a.03
+iskren	ADJ	honest.a.01	sincere.a.01
+nepošten	ADJ	dishonest.a.01
+častan	ADJ	honorable.a.02	straight.a.06
+neutješan	ADJ	inconsolable.a.01
+horizontalan	ADJ	horizontal.a.01
+vertikalan	ADJ	vertical.a.01	erect.a.01
+okomit	ADJ	erect.a.01
+uspravan	ADJ	erect.a.01
+uspravljen	ADJ	erect.a.01
+uzdignut	ADJ	erect.a.01
+neuspravljen	ADJ	unerect.a.01
+topao	ADJ	hot.a.01	warm.a.01	warm.a.02
+vreo	ADJ	hot.a.01
+vruć	ADJ	hot.a.01	hot.a.03
+hladan	ADJ	cold.a.01	cold.a.02	cool.a.01	cool.a.04
+studen	ADJ	cold.a.01
+nagao	ADJ	hot.a.03
+žestok	ADJ	hot.a.03	intense.a.01
+ravnodušan	ADJ	cold.a.02	cool.a.04
+ljudski	ADJ	human.a.03	humane.a.02	human.a.01	human.a.02
+nadljudski	ADJ	superhuman.a.01
+čovječan	ADJ	humane.a.02
+nečovječan	ADJ	inhumane.a.01
+neljudski	ADJ	inhumane.a.01
+duhovit	ADJ	humorous.a.01
+gladan	ADJ	hungry.a.01
+žedan	ADJ	thirsty.a.02
+važan	ADJ	important.a.01	significant.a.01
+značajan	ADJ	important.a.01	significant.a.01	significant.a.03
+beznačajan	ADJ	unimportant.a.01	insignificant.a.04
+nebitan	ADJ	unimportant.a.01
+nevažan	ADJ	unimportant.a.01	irrelevant.a.01	insignificant.a.04
+impresivan	ADJ	impressive.a.01
+pristigao	ADJ	incoming.a.01
+ulazni	ADJ	incoming.a.01
+izlazni	ADJ	outgoing.a.01
+odlazeći	ADJ	outgoing.a.01
+industrijski	ADJ	industrial.a.02	industrial.a.01
+zarazan	ADJ	infectious.a.02
+nenaseljen	ADJ	uninhabited.a.01
+nevin	ADJ	innocent.a.01	pure.a.06
+kriv	ADJ	guilty.a.01	crooked.a.01
+integriran	ADJ	integrated.a.03
+intelektualan	ADJ	intellectual.a.02
+misaoni	ADJ	intellectual.a.02
+umni	ADJ	intellectual.a.02
+bezuman	ADJ	nonintellectual.a.01
+neintelektualan	ADJ	nonintellectual.a.01
+inteligentan	ADJ	intelligent.a.01
+razuman	ADJ	intelligent.a.01	reasonable.a.01
+uman	ADJ	intelligent.a.01
+neinteligentan	ADJ	unintelligent.a.01
+interesantan	ADJ	interesting.a.01
+zanimljiv	ADJ	interesting.a.01
+neinteresantan	ADJ	uninteresting.a.01
+sočan	ADJ	juicy.a.01
+ljubazan	ADJ	kind.a.01	warm.a.02
+prijazan	ADJ	kind.a.01	warm.a.02
+srdačan	ADJ	kind.a.01	warm.a.02
+susretljiv	ADJ	kind.a.01
+uljudan	ADJ	kind.a.01
+neljubazan	ADJ	unkind.a.01
+neprijazan	ADJ	unkind.a.01	cool.a.04
+morski	ADJ	marine.a.04	marine.a.01
+krupan	ADJ	large.a.01
+obiman	ADJ	large.a.01
+mal	ADJ	small.a.01	little.a.02
+malen	ADJ	small.a.01	minor.a.03
+sitan	ADJ	small.a.01
+zakonit	ADJ	lawful.a.01	legal.a.01	regular.a.01
+zakonski	ADJ	lawful.a.01	legal.a.01	statutory.a.01
+bespravan	ADJ	unlawful.a.02	illegal.a.01
+nezakonit	ADJ	unlawful.a.02	illegal.a.01	illicit.a.01	irregular.a.01
+protupravni	ADJ	unlawful.a.02
+beskvasan	ADJ	unleavened.a.01
+legalan	ADJ	legal.a.01
+pravan	ADJ	legal.a.01	legal.a.02	legal.a.04
+pravni	ADJ	legal.a.01
+ilegalan	ADJ	illegal.a.01
+nedopušten	ADJ	illegal.a.01
+nelegalan	ADJ	illegal.a.01
+protupravan	ADJ	illegal.a.01
+biološki	ADJ	biological.a.02	biological.a.01
+drugačiji	ADJ	unlike.a.01
+drukčiji	ADJ	unlike.a.01
+različit	ADJ	unlike.a.01	different.a.01	dissimilar.a.01
+sličan	ADJ	alike.a.01	similar.a.01
+isti	ADJ	like.a.02	same.a.02	same.a.01
+nejednak	ADJ	unlike.a.02
+vjerojatan	ADJ	likely.a.01	probable.a.01
+neograničen	ADJ	unlimited.a.01	unrestricted.a.01
+figurativan	ADJ	figurative.a.01
+nesnimljen	ADJ	live.a.01
+logičan	ADJ	logical.a.01
+dug	ADJ	long.a.02	long.a.01	old.a.02
+kratak	ADJ	short.a.02	short.a.01	short.a.03
+labav	ADJ	loose.a.03
+izgubljen	ADJ	lost.a.01	lost.a.03
+glasan	ADJ	loud.a.01
+tih	ADJ	soft.a.03
+voljen	ADJ	loved.a.01
+neznatan	ADJ	minor.a.03
+manji	ADJ	minor.a.02
+minoran	ADJ	minor.a.02
+sporedan	ADJ	minor.a.02
+punoljetan	ADJ	major.a.07
+muški	ADJ	male.a.01	masculine.a.02	masculine.a.01
+muško	ADJ	male.a.01
+ženski	ADJ	female.a.01	feminine.a.01
+žensko	ADJ	female.a.01
+androgin	ADJ	androgynous.a.02
+dvospolac	ADJ	androgynous.a.02
+vjenčan	ADJ	married.a.01
+nevjenčan	ADJ	unmarried.a.01
+ženstven	ADJ	womanly.a.01
+odrastao	ADJ	mature.a.03
+zreo	ADJ	mature.a.03	ripe.a.01
+nezreo	ADJ	immature.a.04	green.a.03	young.a.01
+nedozreo	ADJ	green.a.03
+zelen	ADJ	green.a.03
+sezonski	ADJ	seasonal.a.01
+maksimalan	ADJ	maximal.a.01
+minimalan	ADJ	minimal.a.01
+smislen	ADJ	meaningful.a.01
+besmislen	ADJ	meaningless.a.01
+izmjeriv	ADJ	measurable.a.01
+mjeriljiv	ADJ	measurable.a.01
+mjerljiv	ADJ	measurable.a.01
+neizmjeriv	ADJ	immeasurable.a.01
+nemjerljiv	ADJ	immeasurable.a.01
+mehanički	ADJ	mechanical.a.01	mechanical.a.03	mechanical.a.02
+glazben	ADJ	melodious.a.02	musical.a.03	musical.a.02	musical.a.01
+muzikalan	ADJ	musical.a.02
+nemilosrdan	ADJ	merciless.a.01
+blag	ADJ	mild.a.01	tender.a.01
+umjeren	ADJ	mild.a.01	moderate.a.01	temperate.a.01
+intenzivan	ADJ	intense.a.01
+izrazit	ADJ	intense.a.01
+jak	ADJ	intense.a.01	potent.a.03	powerful.a.01	strong.a.01
+moćan	ADJ	intense.a.01	potent.a.03	powerful.a.01	strong.a.01
+silan	ADJ	intense.a.01	powerful.a.01
+silovit	ADJ	intense.a.01
+snažan	ADJ	intense.a.01	potent.a.03	powerful.a.01	strong.a.01
+civilan	ADJ	civilian.a.01
+vojni	ADJ	military.a.02	military.a.01
+mobilan	ADJ	mobile.a.02
+pokretljiv	ADJ	mobile.a.02
+prijenosni	ADJ	portable.a.01
+metalan	ADJ	metallic.a.01
+nemetalni	ADJ	nonmetallic.a.01
+neumjeren	ADJ	immoderate.a.01
+čedan	ADJ	modest.a.04
+molekularan	ADJ	molecular.a.02	molecular.a.01
+jednovalentan	ADJ	monovalent.a.02
+monovalentan	ADJ	monovalent.a.02
+multivalentan	ADJ	polyvalent.a.02
+polivalentan	ADJ	polyvalent.a.02
+ćudoredan	ADJ	moral.a.01
+krepostan	ADJ	moral.a.01
+moralan	ADJ	moral.a.01
+amoralan	ADJ	immoral.a.01
+nećudoredan	ADJ	immoral.a.01
+nemoralan	ADJ	immoral.a.01
+dirljiv	ADJ	moving.a.02
+potresan	ADJ	moving.a.02
+pokretan	ADJ	moving.a.01
+pomični	ADJ	moving.a.01
+nepokretan	ADJ	nonmoving.a.01
+nepomičan	ADJ	nonmoving.a.01
+interkontinentalan	ADJ	intercontinental.a.01
+međunarodan	ADJ	international.a.01
+prirodan	ADJ	natural.a.01	natural.a.02
+neprirodan	ADJ	unnatural.a.01
+umjetan	ADJ	artificial.a.01
+nadnaravan	ADJ	supernatural.a.01
+neophodan	ADJ	necessary.a.01
+nužan	ADJ	necessary.a.01
+potreban	ADJ	necessary.a.01
+prijeko_potreban	ADJ	necessary.a.01
+bespotreban	ADJ	unnecessary.a.01
+izlišan	ADJ	unnecessary.a.01
+nepotreban	ADJ	unnecessary.a.01
+bruto	ADJ	gross.a.01
+plemenit	ADJ	noble.a.03	noble.a.02
+normalan	ADJ	normal.a.01	normal.a.03	standard.a.01
+običan	ADJ	normal.a.01	ordinary.a.01	plain.a.02
+abnormalan	ADJ	abnormal.a.01
+nenormalan	ADJ	abnormal.a.01
+sjeverni	ADJ	north.a.01	northern.a.01
+južni	ADJ	south.a.01	southern.a.03	southern.a.01
+poslušan	ADJ	obedient.a.01	tractable.a.01
+nesubjektivan	ADJ	objective.a.01
+objektivan	ADJ	objective.a.01
+subjektivan	ADJ	subjective.a.01
+očit	ADJ	obvious.a.01
+uvredljiv	ADJ	offensive.a.03
+ofenzivan	ADJ	offensive.a.02
+obramben	ADJ	defensive.a.01
+služben	ADJ	official.a.01
+neslužben	ADJ	unofficial.a.01
+konstituiran	ADJ	established.a.01
+ustanovljen	ADJ	established.a.01
+utemeljen	ADJ	established.a.01
+star	ADJ	old.a.02	old.a.01
+mlad	ADJ	new.a.01	young.a.01
+nov	ADJ	new.a.01
+protivan	ADJ	opposed.a.01
+suprotan	ADJ	opposed.a.01
+optimističan	ADJ	optimistic.a.01
+pesimističan	ADJ	pessimistic.a.01
+oralan	ADJ	oral.a.03	oral.a.02
+izvanredan	ADJ	extraordinary.a.01
+organski	ADJ	organic.a.01	organic.a.02
+anorganski	ADJ	inorganic.a.01
+izvoran	ADJ	original.a.03
+jedinstven	ADJ	original.a.03
+originalan	ADJ	original.a.03
+pravi	ADJ	original.a.03	proper.a.01
+prvobitan	ADJ	original.a.03
+neoriginalan	ADJ	unoriginal.a.01
+ortodoksan	ADJ	orthodox.a.02
+pravovjeran	ADJ	orthodox.a.02
+neortodoksan	ADJ	unorthodox.a.02
+netradicionalan	ADJ	unorthodox.a.02
+prekriven	ADJ	covered.a.01
+lisnat	ADJ	leafy.a.01
+neplaćen	ADJ	unpaid.a.01
+bolan	ADJ	painful.a.01
+bezbolan	ADJ	painless.a.02
+opipljiv	ADJ	palpable.a.01
+paralelan	ADJ	parallel.a.01
+roditeljski	ADJ	parental.a.02
+pristran	ADJ	partial.a.02
+strastven	ADJ	passionate.a.01
+minuli	ADJ	past.a.01
+povijesni	ADJ	past.a.01
+prošli	ADJ	past.a.01
+trenutačni	ADJ	present.a.01
+budući	ADJ	future.a.01
+strpljiv	ADJ	patient.a.01
+domoljuban	ADJ	patriotic.a.01
+besprijekoran	ADJ	perfect.a.01
+perfektan	ADJ	perfect.a.01
+savršen	ADJ	perfect.a.01
+nesavršen	ADJ	imperfect.a.01
+privremen	ADJ	impermanent.a.01
+trajan	ADJ	persistent.a.03
+zbunjen	ADJ	perplexed.a.01
+neprobojan	ADJ	impenetrable.a.01
+mentalan	ADJ	mental.a.01	mental.a.02
+monoteistički	ADJ	monotheistic.a.01
+pobožan	ADJ	pious.a.01
+bezbožan	ADJ	impious.a.01
+vjerski	ADJ	religious.a.02
+odvratan	ADJ	unpleasant.a.01
+politički	ADJ	politic.a.01	political.a.01	political.a.02	political.a.03
+omiljen	ADJ	popular.a.01
+popularan	ADJ	popular.a.01
+neomiljen	ADJ	unpopular.a.01
+nepopularan	ADJ	unpopular.a.01
+pozitivan	ADJ	positive.a.01	positive.a.04
+nemoguć	ADJ	impossible.a.01
+nezamisliv	ADJ	impossible.a.01
+potentan	ADJ	potent.a.03	strong.a.01
+bespomoćan	ADJ	impotent.a.01
+impotentan	ADJ	impotent.a.01	powerless.a.01
+nejak	ADJ	powerless.a.01	weak.a.01
+utjecajan	ADJ	influential.a.01
+praktičan	ADJ	practical.a.01
+nepraktičan	ADJ	impractical.a.01
+precizan	ADJ	precise.a.01
+predvidljiv	ADJ	predictable.a.01
+nazočan	ADJ	present.a.02
+odsutan	ADJ	absent.a.01
+rastresen	ADJ	absent.a.01
+primaran	ADJ	primary.a.01
+sekundaran	ADJ	secondary.a.01
+osnovan	ADJ	basic.a.01
+privatan	ADJ	private.a.01
+javan	ADJ	public.a.01
+ekskluzivan	ADJ	exclusive.a.02
+privilegiran	ADJ	privileged.a.01
+produktivan	ADJ	productive.a.01	generative.a.01
+neproduktivan	ADJ	unproductive.a.01
+profesionalan	ADJ	professional.a.01	professional.a.03	professional.a.04	professional.a.02
+unosan	ADJ	profitable.a.01
+površan	ADJ	superficial.a.01
+progresivan	ADJ	progressive.a.01
+retrospektivan	ADJ	retrospective.a.01
+zaštićen	ADJ	protected.a.01
+zaštitan	ADJ	protective.a.01
+dostojanstven	ADJ	proud.a.01
+gord	ADJ	proud.a.01
+ponosan	ADJ	proud.a.01
+ponosit	ADJ	proud.a.01
+ponizan	ADJ	humble.a.02
+skroman	ADJ	humble.a.02
+provokativan	ADJ	provocative.a.01
+bezgrešan	ADJ	pure.a.06
+bludan	ADJ	impure.a.02
+grešan	ADJ	impure.a.02
+kvalificiran	ADJ	qualified.a.01	skilled.a.01
+kvalitativan	ADJ	qualitative.a.01	qualitative.a.02
+kvantitativan	ADJ	quantitative.a.01	quantitative.a.02
+upitan	ADJ	questionable.a.01
+bučan	ADJ	noisy.a.01
+slučajan	ADJ	random.a.01
+racionalan	ADJ	rational.a.01
+iracionalan	ADJ	irrational.a.01
+rasan	ADJ	racial.a.02	racial.a.01
+spreman	ADJ	ready.a.01	willing.a.01
+realan	ADJ	real.a.06	realistic.a.01
+nerealan	ADJ	unrealistic.a.01
+recipročan	ADJ	reciprocal.a.01
+uzajaman	ADJ	reciprocal.a.01
+neobrađen	ADJ	unrefined.a.01
+nepročišćen	ADJ	unrefined.a.01
+nerafiniran	ADJ	unrefined.a.01
+pravilan	ADJ	regular.a.01	straight.a.02
+regularan	ADJ	regular.a.01
+iregularan	ADJ	irregular.a.01
+nepravilan	ADJ	irregular.a.01
+nepopravljiv	ADJ	irreparable.a.01
+jednoobrazan	ADJ	uniform.a.01
+nepromjenljiv	ADJ	uniform.a.01
+uniforman	ADJ	uniform.a.01
+srodan	ADJ	related.a.02	similar.a.01
+relevantan	ADJ	relevant.a.01
+reprezentativan	ADJ	representative.a.02
+renomiran	ADJ	reputable.a.01
+ugledan	ADJ	reputable.a.01	respectable.a.01
+zloglasan	ADJ	disreputable.a.01
+neodoljiv	ADJ	irresistible.a.01
+odlučan	ADJ	resolute.a.01
+odgovoran	ADJ	responsible.a.01
+neodgovoran	ADJ	irresponsible.a.01
+restriktivan	ADJ	restrictive.a.01
+revolucionaran	ADJ	revolutionary.a.04	revolutionary.a.03
+ritmički	ADJ	rhythmical.a.01
+bogat	ADJ	rich.a.01
+imućan	ADJ	rich.a.01
+oskudan	ADJ	poor.a.02
+potrebit	ADJ	poor.a.02
+siromašan	ADJ	poor.a.02	poor.a.03
+lijevi	ADJ	left.a.04	left.a.01
+desni	ADJ	right.a.01
+desno	ADJ	right.a.01
+nadesno	ADJ	right.a.01
+lijevo	ADJ	left.a.01
+nalijevo	ADJ	left.a.01
+kružan	ADJ	round.a.01
+kvadratni	ADJ	square.a.01
+pravokutni	ADJ	square.a.01
+ruralan	ADJ	rural.a.01	rural.a.02
+gradski	ADJ	urban.a.02	urban.a.01	metropolitan.a.01
+urban	ADJ	urban.a.02	urban.a.01
+svet	ADJ	holy.a.01	sacred.a.01
+raznolik	ADJ	different.a.01	dissimilar.a.01	varied.a.01
+raznovrstan	ADJ	different.a.01	dissimilar.a.01
+drugi	ADJ	other.a.01
+istovjetan	ADJ	similar.a.01
+nalik	ADJ	similar.a.01
+zadovoljavajući	ADJ	satisfactory.a.01
+nezadovoljavajući	ADJ	unsatisfactory.a.01
+znanstven	ADJ	scholarly.a.01	scientific.a.02	scientific.a.01
+neznanstven	ADJ	unscientific.a.01
+osiguran	ADJ	insured.a.01
+sebičan	ADJ	selfish.a.01
+senior	ADJ	senior.a.01
+stariji	ADJ	senior.a.01
+junior	ADJ	junior.a.01
+mlađi	ADJ	junior.a.01
+senzacionalan	ADJ	sensational.a.01
+odijeljen	ADJ	separate.a.01
+odvojen	ADJ	separate.a.01
+razdijeljen	ADJ	separate.a.01
+samostalan	ADJ	separate.a.01
+separiran	ADJ	separate.a.01
+skupan	ADJ	joint.a.01
+udružen	ADJ	joint.a.01
+združen	ADJ	joint.a.01
+sanitarni	ADJ	sanitary.a.01
+ozbiljan	ADJ	serious.a.01	unplayful.a.01
+neozbiljan	ADJ	frivolous.a.01
+razigran	ADJ	playful.a.01
+stanovnik	ADJ	resident.a.01
+žitelj	ADJ	resident.a.01
+seksualan	ADJ	sexual.a.02	sexual.a.01
+spolan	ADJ	sexual.a.02
+aseksualan	ADJ	asexual.a.01
+bespolan	ADJ	asexual.a.01
+neseksualan	ADJ	asexual.a.01
+slabovidan	ADJ	blind.a.01
+slijep	ADJ	blind.a.01
+neznačajan	ADJ	insignificant.a.04
+složen	ADJ	complex.a.01
+višestruk	ADJ	multiple.a.01
+verbalan	ADJ	verbal.a.04
+sklizak	ADJ	slippery.a.01
+gladak	ADJ	smooth.a.01
+društven	ADJ	social.a.02	gregarious.a.01	social.a.01	social.a.03
+krut	ADJ	solid.a.02	solid.a.03	tough.a.01
+tekuć	ADJ	liquid.a.01
+tekući	ADJ	liquid.a.01
+plinovit	ADJ	gaseous.a.01
+topljiv	ADJ	soluble.a.01
+neriješen	ADJ	unsolved.a.01
+sofisticiran	ADJ	sophisticated.a.01
+naivan	ADJ	naive.a.01
+neoštećen	ADJ	sound.a.03
+srčan	ADJ	spirited.a.01
+vatren	ADJ	spirited.a.01
+letargičan	ADJ	spiritless.a.01
+malodušan	ADJ	spiritless.a.01
+mlitav	ADJ	spiritless.a.01
+pokunjen	ADJ	spiritless.a.01
+spontan	ADJ	spontaneous.a.01
+napisan	ADJ	written.a.01
+nezaustavljiv	ADJ	unstoppable.a.01
+stabilan	ADJ	stable.a.01
+standardan	ADJ	standard.a.01
+nestandardan	ADJ	nonstandard.a.02	nonstandard.a.01
+zvjezdan	ADJ	starry.a.01
+pravocrtan	ADJ	straight.a.02
+ravan	ADJ	straight.a.02	straight.a.08
+iskrivljen	ADJ	crooked.a.01
+naheren	ADJ	crooked.a.01
+nakrivljen	ADJ	crooked.a.01
+vijugav	ADJ	crooked.a.01
+zavinut	ADJ	crooked.a.01
+čestit	ADJ	straight.a.06
+kršan	ADJ	strong.a.01
+tvrdoglav	ADJ	stubborn.a.01	intractable.a.01
+uspješan	ADJ	successful.a.01
+neuspješan	ADJ	unsuccessful.a.01
+dovoljan	ADJ	sufficient.a.01
+nedovoljan	ADJ	insufficient.a.01
+inferioran	ADJ	inferior.a.01	inferior.a.02
+superioran	ADJ	superior.a.01
+iznenađen	ADJ	surprised.a.01
+iznenađujući	ADJ	surprising.a.01
+podložan	ADJ	susceptible.a.01
+prijemčiv	ADJ	susceptible.a.01
+nepodložan	ADJ	unsusceptible.a.01
+neprijemčiv	ADJ	unsusceptible.a.01
+nepredviđen	ADJ	unscheduled.a.01
+suh	ADJ	dry.a.06	dry.a.01
+sladak	ADJ	sweet.a.01
+simetričan	ADJ	symmetrical.a.01
+asimetričan	ADJ	asymmetrical.a.01
+mio	ADJ	sympathetic.a.04
+simpatičan	ADJ	sympathetic.a.04
+suosjećajan	ADJ	sympathetic.a.04
+povijestan	ADJ	diachronic.a.01	historical.a.01
+istoznačan	ADJ	synonymous.a.01
+sistematičan	ADJ	systematic.a.01
+sistematski	ADJ	systematic.a.01
+sustavan	ADJ	systematic.a.01
+usustavljen	ADJ	systematic.a.01
+divlji	ADJ	wild.a.02	wild.a.01
+dobrog_ukusa	ADJ	tasteful.a.01
+ukusan	ADJ	tasteful.a.01	tasty.a.01
+bez_ukusa	ADJ	tasteless.a.02
+bezukusan	ADJ	tasteless.a.02
+neukusan	ADJ	tasteless.a.02
+oporeziv	ADJ	taxable.a.01
+napet	ADJ	tense.a.03	tense.a.01
+zategnut	ADJ	tense.a.03
+teritorijalni	ADJ	territorial.a.03
+gust	ADJ	thick.a.03
+uredan	ADJ	tidy.a.01
+neuredan	ADJ	untidy.a.01
+umoran	ADJ	tired.a.01
+tolerantan	ADJ	tolerant.a.01
+bezub	ADJ	toothless.a.01
+žilav	ADJ	tough.a.03
+otrovan	ADJ	toxic.a.01
+podatan	ADJ	tractable.a.01
+nepodatan	ADJ	intractable.a.01
+nepodesan	ADJ	intractable.a.01
+neukrotiv	ADJ	intractable.a.01
+istinit	ADJ	true.a.01
+lažan	ADJ	false.a.01
+tipičan	ADJ	typical.a.01	quintessential.a.01
+uporabiv	ADJ	useful.a.01
+uporabljiv	ADJ	useful.a.01
+upotrebljiv	ADJ	useful.a.01
+utilitaran	ADJ	useful.a.01
+beskoristan	ADJ	useless.a.01
+neupotrebljiv	ADJ	useless.a.01
+validan	ADJ	valid.a.01
+valjan	ADJ	valid.a.01
+promjenjiv	ADJ	variable.a.01
+nasilan	ADJ	violent.a.01
+vidljiv	ADJ	visible.a.01
+nevidljiv	ADJ	invisible.a.01
+dobrovoljan	ADJ	voluntary.a.01	willing.a.01
+dragovljan	ADJ	voluntary.a.01
+prisilan	ADJ	involuntary.a.01
+ranjiv	ADJ	vulnerable.a.01
+neželjen	ADJ	unwanted.a.01
+hladnjikav	ADJ	cool.a.01
+prohladan	ADJ	cool.a.01
+prozračan	ADJ	cool.a.01
+naklonjen	ADJ	warm.a.02
+flegmatičan	ADJ	cool.a.04
+indiferentan	ADJ	cool.a.04
+nenaklonjen	ADJ	cool.a.04
+dobrodošao	ADJ	welcome.a.01
+dobro	ADJ	well.a.01
+bolestan	ADJ	ill.a.01
+mokar	ADJ	wet.a.01
+navlažen	ADJ	wet.a.01
+vlažan	ADJ	wet.a.01
+isušen	ADJ	dry.a.01
+osušen	ADJ	dry.a.01
+posušen	ADJ	dry.a.01
+sasušen	ADJ	dry.a.01
+širok	ADJ	wide.a.01
+uzak	ADJ	narrow.a.01
+entuzijastičan	ADJ	willing.a.01
+voljan	ADJ	willing.a.01
+nevoljan	ADJ	unwilling.a.01
+mudar	ADJ	wise.a.01
+budalast	ADJ	foolish.a.01
+šumovit	ADJ	wooded.a.01
+drvenast	ADJ	woody.a.01
+dostojan	ADJ	worthy.a.01
+nedostojan	ADJ	unworthy.a.01
+benigan	ADJ	benign.a.01
+maligan	ADJ	malignant.a.01
+abhaski	ADJ	abkhaz.a.01
+akademski	ADJ	academic.a.01
+aeronautički	ADJ	aeronautical.a.01
+alergijski	ADJ	allergic.a.01
+armenski	ADJ	armenian.a.01
+arheološki	ADJ	archaeological.a.01
+arterijski	ADJ	arterial.a.01
+astronomski	ADJ	astronomic.a.01
+azerbejdžanski	ADJ	azerbaijani.a.01
+bjeloruski	ADJ	belarusian.a.01
+dobronamjeran	ADJ	benevolent.a.01
+biokemijski	ADJ	biochemical.a.01
+vapnenački	ADJ	calcareous.a.01
+kancerogen	ADJ	carcinogenic.a.01
+hrskavičan	ADJ	cartilaginous.a.01
+nebeski	ADJ	celestial.a.01
+dobrotvoran	ADJ	charitable.a.01
+kemijski	ADJ	chemical.a.01
+općinski	ADJ	municipal.a.01
+kolonijalan	ADJ	colonial.a.01	colonial.a.02
+ugovoran	ADJ	contractual.a.01
+kozmički	ADJ	cosmic.a.01
+digitalni	ADJ	digital.a.01
+dramski	ADJ	dramatic.a.03
+ekonomski	ADJ	economic.a.02
+socioekonomski	ADJ	socioeconomic.a.01
+izboran	ADJ	electoral.a.01
+elektronički	ADJ	electronic.a.01
+elementaran	ADJ	elemental.a.01
+feudalan	ADJ	feudal.a.01
+izmišljen	ADJ	fictional.a.01
+mesnat	ADJ	fleshy.a.02
+fosilan	ADJ	fossil.a.01
+genetički	ADJ	genetic.a.04
+genetski	ADJ	genic.a.01
+geometrijski	ADJ	geometric.a.02
+geostrateški	ADJ	geostrategic.a.01
+grafički	ADJ	graphic.a.04	graphic.a.03
+gravitacijski	ADJ	gravitational.a.01
+herojski	ADJ	heroic.a.02
+šesterokutan	ADJ	hexangular.a.01
+carski	ADJ	imperial.a.01
+institucionalan	ADJ	institutional.a.01
+sudski	ADJ	judicial.a.03
+makroekonomski	ADJ	macroeconomic.a.01
+paravojni	ADJ	paramilitary.a.01
+monotipski	ADJ	monotypic.a.01
+pomorski	ADJ	naval.a.01
+parlamentaran	ADJ	parliamentary.a.01
+monetaran	ADJ	monetary.a.01
+fonološki	ADJ	phonological.a.01
+izvanzemaljski	ADJ	extraterrestrial.a.01
+vanzemaljski	ADJ	extraterrestrial.a.01
+pozicijski	ADJ	positional.a.01
+romantičan	ADJ	romantic.a.01
+kraljevski	ADJ	royal.a.01	royal.a.02
+poljoprivredan	ADJ	agricultural.a.01
+scenski	ADJ	scenic.a.02
+solarni	ADJ	solar.a.01
+sunčani	ADJ	solar.a.01
+sportski	ADJ	sporting.a.02
+prigradski	ADJ	suburban.a.01
+vremenski	ADJ	temporal.a.02
+tematski	ADJ	thematic.a.01
+toplinski	ADJ	thermal.a.01
+tonski	ADJ	tonic.a.02
+jednostanični	ADJ	unicellular.a.01
+vokalan	ADJ	vocal.a.02	vocal.a.01
+instrumentalan	ADJ	instrumental.a.01
+vulkanski	ADJ	volcanic.a.01
+električan	ADJ	electrical.a.01	electric.a.01
+zakonodavan	ADJ	legislative.a.02	legislative.a.01
+književan	ADJ	literary.a.01
+atmosferski	ADJ	atmospheric.a.01
+gljivičan	ADJ	fungal.a.01
+bakterijski	ADJ	bacterial.a.01
+fotografski	ADJ	photographic.a.01
+feministički	ADJ	feminist.a.01
+strukovan	ADJ	vocational.a.01
+prostoran	ADJ	spatial.a.01
+semantički	ADJ	semantic.a.01
+jezičan	ADJ	linguistic.a.01
+prehramben	ADJ	dietary.a.01	nutritional.a.01
+financijski	ADJ	fiscal.a.01
+bračan	ADJ	marital.a.01
+algebarski	ADJ	algebraic.a.01
+biblijski	ADJ	biblical.a.01	biblical.a.02
+pjesnički	ADJ	poetic.a.01
+poetski	ADJ	poetic.a.01
+filozofski	ADJ	philosophic.a.01
+pastoralan	ADJ	pastoral.a.01
+patološki	ADJ	pathological.a.01
+slikovan	ADJ	pictorial.a.01
+optički	ADJ	optical.a.01
+nuklearni	ADJ	nuclear.a.02	nuclear.a.03
+opojan	ADJ	narcotic.a.01
+meteorološki	ADJ	meteorologic.a.01
+metafizički	ADJ	metaphysical.a.01
+akustičan	ADJ	acoustic.a.01
+slušan	ADJ	auditory.a.01
+taktilan	ADJ	haptic.a.01
+vizualan	ADJ	ocular.a.02
+očni	ADJ	ocular.a.01
+regionalan	ADJ	regional.a.01
+kulturan	ADJ	cultural.a.03	cultural.a.01
+multikulturalan	ADJ	multicultural.a.01
+vaskularni	ADJ	vascular.a.01
+zborski	ADJ	choral.a.01
+komunistički	ADJ	communist.a.01
+potkožan	ADJ	hypodermic.a.01
+papinski	ADJ	papal.a.01
+gramatički	ADJ	grammatical.a.01
+sintaktički	ADJ	syntactic.a.01
+genitalan	ADJ	genital.a.01
+atomski	ADJ	atomic.a.01
+klinički	ADJ	clinical.a.01
+poštanski	ADJ	postal.a.01
+kontinentalni	ADJ	continental.a.03
+leksički	ADJ	lexical.a.01
+nautički	ADJ	nautical.a.01
+živčani	ADJ	neural.a.02	nervous.a.03
+radni	ADJ	occupational.a.01
+strukturan	ADJ	structural.a.02	structural.a.01
+anatomski	ADJ	anatomic.a.01
+arhitektonski	ADJ	architectural.a.01
+organizacijski	ADJ	organizational.a.01
+crkven	ADJ	ecclesiastical.a.01
+administrativan	ADJ	administrative.a.01
+nadzoran	ADJ	supervisory.a.01
+firentinski	ADJ	florentine.a.01
+geološki	ADJ	geological.a.01
+psihološki	ADJ	psychological.a.02
+sociološki	ADJ	sociological.a.01
+demografski	ADJ	demographic.a.01
+ekološki	ADJ	ecological.a.02
+teološki	ADJ	theological.a.01
+antropološki	ADJ	anthropological.a.01
+geopolitički	ADJ	geopolitical.a.01
+statistički	ADJ	statistical.a.01
+operni	ADJ	operatic.a.01
+farmakološki	ADJ	pharmacological.a.01
+psihijatrijski	ADJ	psychiatric.a.01
+terapijski	ADJ	therapeutic.a.02
+neurološki	ADJ	neurological.a.01
+mikroskopski	ADJ	microscopic.a.01
+fašistički	ADJ	fascist.a.01
+rimski	ADJ	roman.a.02
+židovski	ADJ	jewish.a.01
+muslimanski	ADJ	muslim.a.01
+hindski	ADJ	hindu.a.01
+tekstualan	ADJ	textual.a.01
+magnetski	ADJ	magnetic.a.01
+elektromagnetski	ADJ	electromagnetic.a.01
+automobilski	ADJ	automotive.a.01
+američki	ADJ	american.a.02	american.a.01
+indijski	ADJ	indian.a.01
+tropski	ADJ	tropical.a.02
+trbušan	ADJ	abdominal.a.01
+hormonalan	ADJ	hormonal.a.01
+plućni	ADJ	pneumonic.a.02
+crijevan	ADJ	intestinal.a.01
+skeletni	ADJ	skeletal.a.01
+matematički	ADJ	mathematical.a.01
+eksperimentalan	ADJ	experimental.a.01
+afrički	ADJ	african.a.01
+okolišni	ADJ	environmental.a.01
+epileptički	ADJ	epileptic.a.01
+razvojan	ADJ	developmental.a.01
+edukacijski	ADJ	educational.a.01
+obrazovni	ADJ	educational.a.01
+fiziološki	ADJ	physiological.a.01
+strateški	ADJ	strategic.a.01
+taktički	ADJ	tactical.a.01
+anglikanski	ADJ	anglican.a.01
+orkestralan	ADJ	orchestral.a.01
+kronološki	ADJ	chronological.a.01
+talijanski	ADJ	italian.a.01
+ruski	ADJ	russian.a.01
+Ruski	ADJ	russian.a.01
+njemački	ADJ	german.a.01
+keltski	ADJ	celtic.a.01
+francuski	ADJ	french.a.01
+španjolski	ADJ	spanish.a.01
+portugalski	ADJ	portuguese.a.01
+sovjetski	ADJ	soviet.a.01
+finski	ADJ	finnish.a.01
+švedski	ADJ	swedish.a.01
+norveški	ADJ	norwegian.a.01
+danski	ADJ	danish.a.01
+belgijski	ADJ	belgian.a.01
+nizozemski	ADJ	dutch.a.01
+austrijski	ADJ	austrian.a.01
+poljski	ADJ	polish.a.01
+mađarski	ADJ	hungarian.a.01
+jugoslavenski	ADJ	yugoslavian.a.01
+litavski	ADJ	lithuanian.a.01
+srpski	ADJ	serbian.a.01
+hrvatski	ADJ	croatian.a.01
+kineski	ADJ	chinese.a.01
+japanski	ADJ	japanese.a.01
+brazilski	ADJ	brazilian.a.01
+argentinski	ADJ	argentine.a.01
+kolumbijski	ADJ	colombian.a.01
+korejski	ADJ	korean.a.01
+europski	ADJ	european.a.01
+azijski	ADJ	asian.a.01
+kubanski	ADJ	cuban.a.01
+egipatski	ADJ	egyptian.a.01
+indonezijski	ADJ	indonesian.a.01
+atenski	ADJ	athenian.a.01
+izraelski	ADJ	israeli.a.01
+tragičan	ADJ	tragic.a.02
+barokan	ADJ	baroque.a.02
+metabolički	ADJ	metabolic.a.01
+dijagnostički	ADJ	diagnostic.a.01
+neurotičan	ADJ	neurotic.a.01
+andorski	ADJ	andorran.a.01
+nosan	ADJ	rhinal.a.01
+kanadski	ADJ	canadian.a.01
+predsjednički	ADJ	presidential.a.01
+korporativni	ADJ	corporate.a.01
+logistički	ADJ	logistic.a.01
+srednjovjekovan	ADJ	medieval.a.01
+umjetnički	ADJ	artistic.a.01
+humanitaran	ADJ	humanitarian.a.02
+liturgijski	ADJ	liturgical.a.01
+metrički	ADJ	metric.a.01
+stogodišnji	ADJ	centennial.a.01
+kapitalistički	ADJ	capitalist.a.01
+evolucijski	ADJ	evolutionary.a.01
+simfonijski	ADJ	symphonic.a.01
+engleski	ADJ	english.a.01	english.a.02
+irski	ADJ	irish.a.01
+idiomatski	ADJ	idiomatic.a.01
+parasimpatički	ADJ	parasympathetic.a.01
+operativan	ADJ	operational.a.01
+lumbalan	ADJ	lumbar.a.01
+keramički	ADJ	ceramic.a.01
+grčki	ADJ	greek.a.01
+izvršan	ADJ	executive.a.01
+topografski	ADJ	topographical.a.01
+grmolik	ADJ	shrubby.a.01
+britanski	ADJ	british.a.01
+turski	ADJ	turkish.a.01
+marokanski	ADJ	moroccan.a.01
+alpski	ADJ	alpine.a.01
+meksički	ADJ	mexican.a.01
+antisemitski	ADJ	anti-semitic.a.01
+apelacijski	ADJ	appellate.a.01
+arapski	ADJ	arabic.a.01
+dvovalentni	ADJ	bivalent.a.01
+brunejski	ADJ	bruneian.a.01
+bugarski	ADJ	bulgarian.a.01
+birokratski	ADJ	bureaucratic.a.01
+burundijski	ADJ	burundi.a.01
+klimatski	ADJ	climatic.a.01
+konzularan	ADJ	consular.a.01
+etnografski	ADJ	ethnographic.a.01
+žljezdani	ADJ	glandular.a.01
+gvatemalski	ADJ	guatemalan.a.01
+islandski	ADJ	icelandic.a.01
+plemenski	ADJ	tribal.a.01
+perzijski	ADJ	iranian.a.01
+jamajkanski	ADJ	jamaican.a.01
+novinarski	ADJ	journalistic.a.01
+makedonski	ADJ	macedonian.a.01
+membranski	ADJ	membranous.a.01
+pakistanski	ADJ	pakistani.a.01
+farmaceutski	ADJ	pharmaceutical.a.01
+proceduralan	ADJ	procedural.a.01
+stambeni	ADJ	residential.a.02
+romski	ADJ	romany.a.01
+sakralan	ADJ	sacral.a.01
+anglosaski	ADJ	anglo-saxon.a.01
+sudanski	ADJ	sudanese.a.01
+trovalentni	ADJ	trivalent.a.01
+vaginalan	ADJ	vaginal.a.01
+vijetnamski	ADJ	vietnamese.a.01
+vunen	ADJ	woolen.a.01
+zodijački	ADJ	zodiacal.a.01
+koštan	ADJ	osseous.a.01
 teško	ADV	hardly.r.02	hard.r.01
 samo	ADV	merely.r.01	just.r.04
 jednostavno	ADV	simply.r.03	plainly.r.02

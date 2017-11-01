@@ -4943,837 +4943,837 @@ antända	VERB	ignite.v.01
 brinna	VERB	burn.v.05
 absorbera	VERB	absorb.v.06
 storma	VERB	storm.v.03
-duktig	ADJ	able.a.01	able.a.01
-absolut	ADJ	absolute.a.01	absolute.a.01
-relativ	ADJ	relative.a.01	relative.a.01
-glupsk	ADJ	gluttonous.a.01	gluttonous.a.01
-abstrakt	ADJ	abstract.a.01	abstract.a.01
-konkret	ADJ	concrete.a.01	concrete.a.01
-ymnig	ADJ	abundant.a.01	abundant.a.01
-knapp	ADJ	scarce.a.01	scarce.a.01
-acceptabel	ADJ	acceptable.a.01	acceptable.a.01
-tillgänglig	ADJ	accessible.a.01	available.a.01	accessible.a.01	available.a.01
-oåtkomlig	ADJ	inaccessible.a.01	inaccessible.a.01
-tillmötesgående	ADJ	accommodating.a.01	accommodating.a.01
-korrekt	ADJ	accurate.a.01	accurate.a.01
-ovan	ADJ	unaccustomed.a.01	unaccustomed.a.01
-aktiv	ADJ	active.a.05	active.a.05
-passiv	ADJ	passive.a.01	passive.a.01
-utdöd	ADJ	extinct.a.02	extinct.a.01	extinct.a.02	extinct.a.01
-möjlig	ADJ	potential.a.01	potential.a.01
-potentiell	ADJ	potential.a.01	potential.a.01
-akut	ADJ	acute.a.01	acute.a.01
-kronisk	ADJ	chronic.a.01	chronic.a.01
-beroende	ADJ	addicted.a.01	addicted.a.01
-vanebildande	ADJ	addictive.a.01	addictive.a.01
-fullvärdig	ADJ	adequate.a.01	adequate.a.01
-otillräcklig	ADJ	inadequate.a.01	insufficient.a.01	inadequate.a.01	insufficient.a.01
-habil	ADJ	adroit.a.01	adroit.a.01
-fördelaktig	ADJ	advantageous.a.01	advantageous.a.01
-tillrådlig	ADJ	advisable.a.01	advisable.a.01
-estetisk	ADJ	aesthetic.a.02	aesthetic.a.01	aesthetic.a.02	aesthetic.a.01
-rädd	ADJ	afraid.a.01	afraid.a.01
-aggressiv	ADJ	aggressive.a.01	aggressive.a.01
-alert	ADJ	alert.a.01	alert.a.01
-levande	ADJ	alive.a.01	alive.a.01
-egocentrisk	ADJ	egoistic.a.01	egoistic.a.01
-ambitiös	ADJ	ambitious.a.01	ambitious.a.01
-astigmatisk	ADJ	astigmatic.a.01	astigmatic.a.01
-arg	ADJ	angry.a.01	angry.a.01
-animerad	ADJ	animated.a.01	animated.a.01
-anonym	ADJ	anonymous.a.01	anonymous.a.01
-påföljande	ADJ	subsequent.a.01	subsequent.a.01
-föregående	ADJ	preceding.a.01	preceding.a.01
-exempellös	ADJ	unprecedented.a.01	unprecedented.a.01
-smaklig	ADJ	appetizing.a.01	appetizing.a.01
-osmaklig	ADJ	unappetizing.a.01	unappetizing.a.01
-lämplig	ADJ	appropriate.a.01	appropriate.a.01
-malplacerad	ADJ	inappropriate.a.01	inappropriate.a.01
-förfallen	ADJ	due.a.01	due.a.01
-sandig	ADJ	arenaceous.a.01	arenaceous.a.01
-skamsen	ADJ	ashamed.a.01	ashamed.a.01
-oblyg	ADJ	unashamed.a.01	unashamed.a.01
-påträngande	ADJ	assertive.a.01	assertive.a.01
-fristående	ADJ	detached.a.04	detached.a.04
-tilldragande	ADJ	attractive.a.01	attractive.a.01
-gravid	ADJ	pregnant.a.01	pregnant.a.01
-hörbar	ADJ	audible.a.01	audible.a.01
-gynnsam	ADJ	propitious.a.01	favorable.a.01	propitious.a.01	favorable.a.01
-berättigad	ADJ	authorized.a.01	authorized.a.01
-obehörig	ADJ	unauthorized.a.01	unauthorized.a.01
-automatisk	ADJ	automatic.a.01	automatic.a.01
-manuell	ADJ	manual.a.02	manual.a.01	manual.a.02	manual.a.01
-oanträffbar	ADJ	unavailable.a.01	unavailable.a.01
-vaken	ADJ	awake.a.01	awake.a.01
-sovande	ADJ	asleep.a.01	asleep.a.01
-omedveten	ADJ	unaware.a.01	unaware.a.01
-främre	ADJ	front.a.01	front.a.01
-följande	ADJ	following.a.03	following.a.03
-framfusig	ADJ	forward.a.01	forward.a.01
-vacker	ADJ	beautiful.a.01	beautiful.a.01
-ful	ADJ	ugly.a.01	foul.a.04	ugly.a.01	foul.a.04
-bäst	ADJ	best.a.01	best.a.01
-multilateral	ADJ	multilateral.a.01	multilateral.a.01
-vit	ADJ	white.a.02	white.a.01	white.a.02	white.a.01
-blond	ADJ	blond.a.01	blond.a.01
-blodig	ADJ	bloody.a.01	bloody.a.01
-djärv	ADJ	bold.a.01	bold.a.01
-snärjig	ADJ	tangled.a.01	tangled.a.01
-borgerlig	ADJ	middle-class.a.01	middle-class.a.01
-modig	ADJ	brave.a.01	brave.a.01
-feg	ADJ	cowardly.a.01	cowardly.a.01
-räddhågad	ADJ	cowardly.a.01	cowardly.a.01
-besutten	ADJ	landed.a.01	landed.a.01
-ljus	ADJ	light.a.06	light.a.02	light.a.06	light.a.02
-mörk	ADJ	dark.a.01	dark.a.01
-förutsättningslös	ADJ	unprejudiced.a.01	unprejudiced.a.01
-inskränkt	ADJ	narrow-minded.a.02	limited.a.01	restricted.a.01	narrow-minded.a.02	limited.a.01	restricted.a.01
-trasig	ADJ	broken.a.01	broken.a.01
-medmänsklig	ADJ	brotherly.a.01	brotherly.a.01
-identisk	ADJ	identical.a.03	identical.a.03
-upptagen	ADJ	busy.a.01	busy.a.01
-socialistisk	ADJ	socialistic.a.01	socialistic.a.01
-stormig	ADJ	stormy.a.01	stormy.a.01
-duglig	ADJ	capable.a.01	capable.a.01
-försiktig	ADJ	careful.a.01	careful.a.01
-aktsam	ADJ	cautious.a.01	cautious.a.01
-oförsiktig	ADJ	incautious.a.01	incautious.a.01
-porös	ADJ	porous.a.02	porous.a.02
-central	ADJ	central.a.02	central.a.02
-perifer	ADJ	peripheral.a.01	peripheral.a.01
-säker	ADJ	certain.a.02	safe.a.01	certain.a.02	safe.a.01
-trosviss	ADJ	confident.a.01	confident.a.01
-osäker	ADJ	diffident.a.02	diffident.a.02
-ofrånkomlig	ADJ	inevitable.a.01	inevitable.a.01
-karakteristisk	ADJ	characteristic.a.01	characteristic.a.01
-laddad	ADJ	charged.a.01	charged.a.01
-kysk	ADJ	chaste.a.01	chaste.a.01
-gladlynt	ADJ	cheerful.a.01	cheerful.a.01
-svart	ADJ	black.a.01	black.a.01
-färgrik	ADJ	colorful.a.01	colorful.a.01
-färgstark	ADJ	colorful.a.02	colorful.a.02
-okristlig	ADJ	unchristian.a.01	unchristian.a.01
-klassisk	ADJ	classical.a.01	classical.a.01
-ren	ADJ	clean.a.01	pure.a.01	clean.a.01	pure.a.01
-smutsig	ADJ	dirty.a.01	dirty.a.01
-solkig	ADJ	dirty.a.01	dirty.a.01
-snuskig	ADJ	dirty.a.02	dirty.a.02
-radioaktiv	ADJ	radioactive.a.01	radioactive.a.01
-smart	ADJ	smart.a.01	smart.a.01
-dum	ADJ	stupid.a.01	stupid.a.01
-avlägsen	ADJ	far.a.01	distant.a.01	far.a.01	distant.a.01
-nära	ADJ	near.a.01	near.a.01
-närstående	ADJ	close.a.02	close.a.02
-klar	ADJ	clear.a.11	clear.a.11
-hopfällbar	ADJ	collapsible.a.01	collapsible.a.01
-explosiv	ADJ	explosive.a.01	explosive.a.01
-bekväm	ADJ	comfortable.a.01	convenient.a.01	comfortable.a.01	convenient.a.01
-obekväm	ADJ	uncomfortable.a.01	uncomfortable.a.01
-kommersiell	ADJ	commercial.a.01	commercial.a.02	commercial.a.01	commercial.a.02
-vanlig	ADJ	common.a.02	ordinary.a.01	common.a.02	ordinary.a.01
-sällsynt	ADJ	uncommon.a.01	uncommon.a.01
-sedvanlig	ADJ	usual.a.01	usual.a.01
-allmän	ADJ	common.a.01	general.a.01	common.a.01	general.a.01
-kompakt	ADJ	compact.a.01	compact.a.01
-jämförbar	ADJ	comparable.a.01	comparable.a.01
-förenlig	ADJ	compatible.a.01	compatible.a.02	consistent.a.01	compatible.a.01	compatible.a.02	consistent.a.01
-kompetent	ADJ	competent.a.01	competent.a.01
-tävlingsmässig	ADJ	competitive.a.01	competitive.a.01
-hel	ADJ	whole.a.01	whole.a.01
-halv	ADJ	half.a.03	half.a.03
-fullständig	ADJ	complete.a.01	complete.a.01
-ofullständig	ADJ	incomplete.a.01	incomplete.a.01
-heltäckande	ADJ	comprehensive.a.01	comprehensive.a.01
-sansad	ADJ	composed.a.01	composed.a.01
-konkav	ADJ	concave.a.01	concave.a.01
-konvex	ADJ	convex.a.01	convex.a.01
-ogenerad	ADJ	unconcerned.a.01	unconcerned.a.01
-bortkastad	ADJ	atrophied.a.01	atrophied.a.01
-oförenlig	ADJ	incongruous.a.01	incongruous.a.01
-medveten	ADJ	conscious.a.02	mindful.a.01	conscious.a.02	mindful.a.01
-konservativ	ADJ	conservative.a.01	conservative.a.01
-frisinnad	ADJ	liberal.a.03	liberal.a.03
-inkonsekvent	ADJ	inconsistent.a.01	inconsistent.a.01
-iögonfallande	ADJ	conspicuous.a.01	conspicuous.a.01
-osynlig	ADJ	inconspicuous.a.01	invisible.a.01	inconspicuous.a.01	invisible.a.01
-beständig	ADJ	constant.a.02	constant.a.02
-konstruktiv	ADJ	constructive.a.01	constructive.a.01
-destruktiv	ADJ	destructive.a.01	destructive.a.01
-förnöjsam	ADJ	contented.a.01	contented.a.01
-nöjd	ADJ	contented.a.01	contented.a.01
-kontinuerlig	ADJ	continual.a.01	continual.a.01
-sporadisk	ADJ	sporadic.a.01	sporadic.a.01
-oavbruten	ADJ	continuous.a.01	continuous.a.01
-obehärskad	ADJ	uncontrolled.a.01	uncontrolled.a.01
-omstridd	ADJ	controversial.a.01	controversial.a.01
-konventionell	ADJ	conventional.a.01	conventional.a.01
-frireligiös	ADJ	nonconformist.a.01	nonconformist.a.01
-nukleär	ADJ	nuclear.a.01	nuclear.a.01
-traditionell	ADJ	traditional.a.01	traditional.a.01
-skiljaktig	ADJ	divergent.a.02	divergent.a.02
-rå	ADJ	raw.a.03	raw.a.03
-medgörlig	ADJ	cooperative.a.02	cooperative.a.02
-interaktiv	ADJ	synergistic.a.01	synergistic.a.01
-avsevärd	ADJ	considerable.a.01	considerable.a.01
-rätt	ADJ	correct.a.01	correct.a.01
-fel	ADJ	wrong.a.05	wrong.a.05
-oförbätterlig	ADJ	incorrigible.a.01	incorrigible.a.01
-provinsiell	ADJ	provincial.a.02	provincial.a.01	provincial.a.02	provincial.a.01
-oförsynt	ADJ	inconsiderate.a.01	inconsiderate.a.01
-artig	ADJ	polite.a.01	polite.a.01
-plump	ADJ	uncivil.a.01	uncivil.a.01
-kreativ	ADJ	creative.a.01	creative.a.01
-otrolig	ADJ	incredible.a.01	incredible.a.01
-godtrogen	ADJ	credulous.a.01	credulous.a.01
-kritisk	ADJ	critical.a.01	critical.a.06	critical.a.01	critical.a.06
-skelögd	ADJ	cross-eyed.a.01	cross-eyed.a.01
-linjär	ADJ	linear.a.02	linear.a.02
-nyfiken	ADJ	curious.a.02	curious.a.02
-aktuell	ADJ	current.a.01	topical.a.02	current.a.01	topical.a.02
-lagd	ADJ	endowed.a.01	endowed.a.01
-handgjord	ADJ	handmade.a.01	handmade.a.01
-årlig	ADJ	annual.a.01	annual.a.01
-ettårig	ADJ	annual.a.01	annual.a.01
-perenn	ADJ	perennial.a.01	perennial.a.01
-döv	ADJ	deaf.a.01	deaf.a.01
-hörselskadad	ADJ	hearing.a.01	hearing.a.01
-avgörande	ADJ	decisive.a.01	decisive.a.01
-djup	ADJ	deep.a.03	deep.a.03
-grund	ADJ	shallow.a.01	shallow.a.02	shallow.a.01	shallow.a.02
-trotsig	ADJ	defiant.a.01	defiant.a.01
-undfallande	ADJ	compliant.a.01	compliant.a.01
-vag	ADJ	undefined.a.01	undefined.a.01
-tydlig	ADJ	well-defined.a.02	well-defined.a.02
-bestämd	ADJ	definite.a.01	specified.a.01	definite.a.01	specified.a.01
-obestämd	ADJ	indefinite.a.01	indefinite.a.01
-upprymd	ADJ	elated.a.01	elated.a.01
-spröd	ADJ	delicate.a.01	delicate.a.01
-kvalificerad	ADJ	demanding.a.01	qualified.a.01	demanding.a.01	qualified.a.01
-demokratisk	ADJ	democratic.a.01	democratic.a.01
-odemokratisk	ADJ	undemocratic.a.01	undemocratic.a.01
-godtycklig	ADJ	arbitrary.a.01	arbitrary.a.01
-pålitlig	ADJ	reliable.a.01	reliable.a.01
-opålitlig	ADJ	unreliable.a.02	unreliable.a.02
-tillvand	ADJ	dependent.a.01	dependent.a.03	dependent.a.01	dependent.a.03
-självständig	ADJ	independent.a.01	independent.a.01
-begärlig	ADJ	desirable.a.01	desirable.a.01
-svår	ADJ	difficult.a.01	difficult.a.01
-lätt	ADJ	easy.a.01	light.a.01	easy.a.01	light.a.01
-slarvig	ADJ	negligent.a.01	negligent.a.01
-diplomatisk	ADJ	diplomatic.a.02	diplomatic.a.02
-direkt	ADJ	direct.a.01	direct.a.01
-indirekt	ADJ	indirect.a.04	indirect.a.04
-omdömesgill	ADJ	discerning.a.01	discerning.a.01
-diskret	ADJ	discreet.a.01	discreet.a.01
-distinkt	ADJ	distinct.a.02	distinct.a.02
-undergiven	ADJ	submissive.a.01	submissive.a.01
-servil	ADJ	servile.a.01	servile.a.01
-dominant	ADJ	dominant.a.01	dominant.a.01
-slö	ADJ	dull.a.09	dull.a.09
-vass	ADJ	sharp.a.09	sharp.a.09
-livlig	ADJ	lively.a.01	lively.a.01
-tråkig	ADJ	dull.a.01	dull.a.01
-dynamisk	ADJ	dynamic.a.01	dynamic.a.01
-ivrig	ADJ	eager.a.01	eager.a.01
-tidig	ADJ	early.a.01	early.a.01
-orolig	ADJ	uneasy.a.01	uneasy.a.01
-östlig	ADJ	east.a.01	east.a.01
-västra	ADJ	west.a.01	west.a.01
-ätbar	ADJ	edible.a.01	edible.a.01
-ätlig	ADJ	edible.a.01	edible.a.01
-effektiv	ADJ	effective.a.01	efficient.a.01	effective.a.01	efficient.a.01
-strong	ADJ	forceful.a.01	forceful.a.01
-valfri	ADJ	optional.a.01	optional.a.01
-elegant	ADJ	elegant.a.01	elegant.a.01
-valbar	ADJ	eligible.a.01	eligible.a.01
-empirisk	ADJ	empirical.a.01	empiric.a.01	empirical.a.01	empiric.a.01
-tillämpad	ADJ	applied.a.01	applied.a.01
-arbetslös	ADJ	unemployed.a.01	unemployed.a.01
-hoppfull	ADJ	encouraging.a.01	encouraging.a.01
-nedslående	ADJ	discouraging.a.01	discouraging.a.01
-upplyst	ADJ	enlightened.a.01	enlightened.a.01
-entusiastisk	ADJ	enthusiastic.a.01	enthusiastic.a.01
-lysten	ADJ	desirous.a.01	desirous.a.01
-balanserad	ADJ	balanced.a.01	balanced.a.01
-obalanserad	ADJ	unbalanced.a.01	unbalanced.a.01
-tvetydig	ADJ	equivocal.a.01	equivocal.a.01
-grundläggande	ADJ	essential.a.02	essential.a.02
-oväsentlig	ADJ	inessential.a.01	inessential.a.01
-föraktlig	ADJ	contemptible.a.01	contemptible.a.01
-etisk	ADJ	ethical.a.02	ethical.a.02
-jämn	ADJ	even.a.03	even.a.01	even.a.03	even.a.01
-udda	ADJ	odd.a.01	odd.a.01
-precis	ADJ	exact.a.01	precise.a.01	exact.a.01	precise.a.01
-lidelsefull	ADJ	excited.a.02	excited.a.02
-spännande	ADJ	exciting.a.01	exciting.a.01
-outtömlig	ADJ	inexhaustible.a.02	inexhaustible.a.02
-förväntad	ADJ	expected.a.01	expected.a.01
-oväntad	ADJ	unexpected.a.01	unexpected.a.01
-dyr	ADJ	expensive.a.01	expensive.a.01
-billig	ADJ	cheap.a.01	cheap.a.01
-erfaren	ADJ	experienced.a.01	experienced.a.01
-förklarlig	ADJ	explicable.a.01	explicable.a.01
-oförklarlig	ADJ	inexplicable.a.01	inexplicable.a.01
-explicit	ADJ	explicit.a.01	explicit.a.01
-implicit	ADJ	implicit.a.01	implicit.a.01
-expansiv	ADJ	expansive.a.01	expansive.a.01
-extern	ADJ	external.a.01	external.a.01
-inre	ADJ	internal.a.01	inner.a.02	interior.a.01	internal.a.01	inner.a.02	interior.a.01
-yttre	ADJ	outer.a.01	outer.a.01
-ojust	ADJ	unfair.a.01	unfair.a.01
-rättvis	ADJ	equitable.a.01	equitable.a.01
-trogen	ADJ	faithful.a.03	faithful.a.03
-lojal	ADJ	loyal.a.01	loyal.a.01
-ofelbar	ADJ	infallible.a.01	infallible.a.01
-familjär	ADJ	familiar.a.01	familiar.a.02	familiar.a.01	familiar.a.02
-säregen	ADJ	strange.a.01	strange.a.01
-otidsenlig	ADJ	unfashionable.a.01	unfashionable.a.01
-fashionabel	ADJ	stylish.a.01	stylish.a.01
-långsam	ADJ	slow.a.01	slow.a.01
-snabb	ADJ	fast.a.03	fast.a.03
-kräsen	ADJ	fastidious.a.01	fastidious.a.01
-fet	ADJ	fat.a.01	fat.a.01
-smal	ADJ	thin.a.02	thin.a.02
-obotlig	ADJ	incurable.a.01	incurable.a.01
-färdig	ADJ	finished.a.02	ready.a.01	finished.a.02	ready.a.01
-oändlig	ADJ	infinite.a.01	infinite.a.02	infinite.a.01	infinite.a.02
-en	ADJ	first.a.01	first.a.01
-sista	ADJ	last.a.02	last.a.02
-mellanliggande	ADJ	intermediate.a.01	intermediate.a.01
-slutlig	ADJ	terminal.a.03	ultimate.a.01	terminal.a.03	ultimate.a.01
-böjlig	ADJ	flexible.a.02	flexible.a.02
-stel	ADJ	rigid.a.04	rigid.a.04
-anpasslig	ADJ	adaptable.a.01	adaptable.a.01
-infödd	ADJ	native.a.02	native.a.02
-inhemsk	ADJ	domestic.a.01	domestic.a.01
-oförglömlig	ADJ	unforgettable.a.01	unforgettable.a.01
-formell	ADJ	formal.a.01	formal.a.03	formal.a.01	formal.a.03
-informell	ADJ	informal.a.01	informal.a.03	informal.a.01	informal.a.03
-olycklig	ADJ	unfortunate.a.01	unfortunate.a.01
-väldoftande	ADJ	fragrant.a.01	fragrant.a.01
-fri	ADJ	free.a.01	free.a.01
-frekvent	ADJ	frequent.a.01	frequent.a.01
-färsk	ADJ	fresh.a.01	fresh.a.01
-salt	ADJ	salty.a.02	salty.a.02
-vänlig	ADJ	friendly.a.01	friendly.a.01
-fientlig	ADJ	hostile.a.02	hostile.a.01	hostile.a.02	hostile.a.01
-frusen	ADJ	frozen.a.01	frozen.a.01
-full	ADJ	full.a.01	full.a.01
-tom	ADJ	empty.a.01	empty.a.01
-på_heltid	ADJ	full-time.a.01	full-time.a.01
-på_deltid	ADJ	part-time.a.01	part-time.a.01
-funktionell	ADJ	functional.a.01	functional.a.01
-omöblerad	ADJ	unfurnished.a.01	unfurnished.a.01
-federal	ADJ	federal.a.04	federal.a.02	federal.a.04	federal.a.02
-frikostig	ADJ	generous.a.02	generous.a.02
-autentisk	ADJ	genuine.a.01	genuine.a.01
-begåvad	ADJ	talented.a.01	talented.a.01
-ärofull	ADJ	glorious.a.01	glorious.a.01
-snöplig	ADJ	inglorious.a.02	inglorious.a.02
-avig	ADJ	awkward.a.02	awkward.a.02
-successiv	ADJ	gradual.a.01	gradual.a.02	gradual.a.01	gradual.a.02
-plötslig	ADJ	sudden.a.01	sudden.a.01
-brant	ADJ	steep.a.01	steep.a.01
-tacksam	ADJ	grateful.a.01	grateful.a.01
-otacksam	ADJ	ungrateful.a.01	ungrateful.a.01
-lycklig	ADJ	happy.a.01	happy.a.01
-hård	ADJ	hard.a.03	tough.a.03	tough.a.01	hard.a.03	tough.a.03	tough.a.01
-mjuk	ADJ	soft.a.01	soft.a.03	soft.a.06	soft.a.01	soft.a.03	soft.a.06
-hjärtlös	ADJ	hardhearted.a.01	hardhearted.a.01
-försupen	ADJ	alcoholic.a.01	alcoholic.a.01
-tung	ADJ	heavy.a.01	major.a.02	major.a.07	heavy.a.01	major.a.02	major.a.07
-tyngdlös	ADJ	weightless.a.01	weightless.a.01
-hjälpsam	ADJ	helpful.a.01	helpful.a.01
-homosexuell	ADJ	homosexual.a.01	homosexual.a.01
-låg	ADJ	low.a.02	low.a.02
-hög	ADJ	high.a.01	high.a.01
-bortrest	ADJ	away.a.02	away.a.02
-ärlig	ADJ	honest.a.01	honest.a.01
-förtvivlad	ADJ	inconsolable.a.01	inconsolable.a.01
-vågrät	ADJ	horizontal.a.01	horizontal.a.01
-vertikal	ADJ	vertical.a.01	vertical.a.01
-het	ADJ	hot.a.01	hot.a.03	hot.a.01	hot.a.03
-kall	ADJ	cold.a.01	cold.a.02	cold.a.01	cold.a.02
-humoristisk	ADJ	humorous.a.01	humorous.a.01
-hungrig	ADJ	hungry.a.01	hungry.a.01
-törstig	ADJ	thirsty.a.02	thirsty.a.02
-subjektiv	ADJ	immanent.a.01	subjective.a.01	immanent.a.01	subjective.a.01
-imponerande	ADJ	impressive.a.01	impressive.a.01
-strikt	ADJ	nonindulgent.a.01	nonindulgent.a.01
-industriell	ADJ	industrial.a.02	industrial.a.01	industrial.a.02	industrial.a.01
-à_jour	ADJ	informed.a.01	informed.a.01
-bebodd	ADJ	inhabited.a.01	inhabited.a.01
-hämmad	ADJ	inhibited.a.01	inhibited.a.01
-förorättad	ADJ	injured.a.01	injured.a.01
-oskyldig	ADJ	innocent.a.01	pure.a.06	innocent.a.01	pure.a.06
-lärorik	ADJ	instructive.a.01	instructive.a.01
-integrerande	ADJ	integrated.a.03	integrated.a.03
-intelligent	ADJ	intelligent.a.01	intelligent.a.01
-obegriplig	ADJ	unintelligible.a.01	unintelligible.a.01
-avsiktlig	ADJ	designed.a.01	designed.a.01
-intresserad	ADJ	interested.a.01	interested.a.01
-ointresserad	ADJ	uninterested.a.01	uninterested.a.01
-intressant	ADJ	interesting.a.01	interesting.a.01
-ointressant	ADJ	uninteresting.a.01	uninteresting.a.01
-glad	ADJ	glad.a.01	glad.a.01
-ledsen	ADJ	sad.a.01	sad.a.01
-saftig	ADJ	juicy.a.01	juicy.a.01
-snäll	ADJ	kind.a.01	nice.a.01	kind.a.01	nice.a.01
-bekant	ADJ	known.a.01	known.a.01
-stor	ADJ	large.a.01	large.a.01
-liten	ADJ	small.a.01	small.a.01
-rättmätig	ADJ	lawful.a.01	lawful.a.01
-gisten	ADJ	leaky.a.01	leaky.a.01
-laglig	ADJ	legal.a.01	legal.a.01
-olaglig	ADJ	illegal.a.01	illegal.a.01
-olik	ADJ	unlike.a.01	unlike.a.02	unlike.a.01	unlike.a.02
-lik	ADJ	alike.a.01	alike.a.01
-sannolik	ADJ	likely.a.01	probable.a.01	likely.a.01	probable.a.01
-osannolik	ADJ	unlikely.a.02	improbable.a.01	unlikely.a.02	improbable.a.01
-obegränsad	ADJ	unlimited.a.01	unlimited.a.01
-bokstavlig	ADJ	literal.a.03	literal.a.03
-live	ADJ	live.a.01	live.a.01
-barhuvad	ADJ	hatless.a.01	hatless.a.01
-logisk	ADJ	logical.a.01	logical.a.01
-kortkort	ADJ	mini.a.01	mini.a.01
-lång	ADJ	long.a.02	long.a.01	tall.a.01	long.a.02	long.a.01	tall.a.01
-kort	ADJ	short.a.02	short.a.01	short.a.02	short.a.01
-lös	ADJ	loose.a.03	loose.a.03
-snäv	ADJ	tight.a.01	tight.a.01
-borttappad	ADJ	lost.a.01	lost.a.01
-vilsen	ADJ	lost.a.03	lost.a.03
-högljudd	ADJ	loud.a.01	loud.a.01
-lyckosam	ADJ	lucky.a.02	lucky.a.02
-fatal	ADJ	unlucky.a.01	unlucky.a.01
-smärre	ADJ	minor.a.02	minor.a.02
-manlig	ADJ	male.a.01	male.a.01
-fjärrstyrd	ADJ	unmanned.a.01	unmanned.a.01
-obemannad	ADJ	unmanned.a.01	unmanned.a.01
-gift	ADJ	married.a.01	marital.a.01	married.a.01	marital.a.01
-ogift	ADJ	unmarried.a.01	unmarried.a.01
-kvinnlig	ADJ	womanly.a.01	womanly.a.01
-mogen	ADJ	mature.a.03	ripe.a.01	mature.a.03	ripe.a.01
-omogen	ADJ	green.a.03	green.a.03
-säsongsmässig	ADJ	seasonal.a.01	seasonal.a.01
-maximal	ADJ	maximal.a.01	maximal.a.01
-minimal	ADJ	minimal.a.01	minimal.a.01
-meningsfull	ADJ	meaningful.a.01	meaningful.a.01
-meningslös	ADJ	meaningless.a.01	meaningless.a.01
-mekanisk	ADJ	mechanical.a.01	mechanical.a.01
-musikalisk	ADJ	musical.a.02	musical.a.02
-likvid	ADJ	melted.a.01	liquid.a.01	melted.a.01	liquid.a.01
-mild	ADJ	mild.a.01	mild.a.01
-intensiv	ADJ	intense.a.01	intense.a.01
-civil	ADJ	civilian.a.01	civilian.a.01
-rörlig	ADJ	mobile.a.02	mobile.a.02
-orörlig	ADJ	immobile.a.01	immobile.a.01
-portabel	ADJ	portable.a.01	portable.a.01
-omåttlig	ADJ	immoderate.a.01	immoderate.a.01
-modern	ADJ	modern.a.01	modern.a.01
-sedesam	ADJ	modest.a.04	modest.a.04
-molekylär	ADJ	molecular.a.02	molecular.a.02
-omskriven	ADJ	much.a.01	much.a.01
-odödlig	ADJ	immortal.a.01	immortal.a.01
-rörande	ADJ	moving.a.02	moving.a.02
-internationell	ADJ	international.a.01	international.a.01
-artificiell	ADJ	artificial.a.01	artificial.a.01
-övernaturlig	ADJ	supernatural.a.01	supernatural.a.01
-nödvändig	ADJ	necessary.a.01	necessary.a.01
-onödig	ADJ	unnecessary.a.01	unnecessary.a.01
-hemsk	ADJ	nasty.a.01	nasty.a.01
-ädel	ADJ	noble.a.03	noble.a.02	noble.a.03	noble.a.02
-normal	ADJ	normal.a.01	normal.a.01
-abnorm	ADJ	abnormal.a.01	abnormal.a.01
-nordlig	ADJ	north.a.01	north.a.01
-lydig	ADJ	obedient.a.01	obedient.a.01
-olydig	ADJ	disobedient.a.01	disobedient.a.01
-beskäftig	ADJ	obtrusive.a.01	obtrusive.a.01
-saklig	ADJ	objective.a.01	objective.a.01
-uppenbar	ADJ	obvious.a.01	obvious.a.01
-anstötlig	ADJ	offensive.a.05	offensive.a.05
-offensiv	ADJ	offensive.a.02	offensive.a.02
-defensiv	ADJ	defensive.a.01	defensive.a.01
-officiell	ADJ	official.a.01	official.a.01
-inbiten	ADJ	confirmed.a.02	confirmed.a.02
-beskaffad	ADJ	established.a.01	established.a.01
-etablerad	ADJ	established.a.01	established.a.01
-lärd	ADJ	conditioned.a.01	conditioned.a.01
-ny	ADJ	new.a.01	new.a.06	new.a.01	new.a.06
-gammal	ADJ	old.a.01	old.a.01
-sluten	ADJ	shut.a.01	shut.a.01
-öppen	ADJ	open.a.02	overt.a.01	open.a.02	overt.a.01
-solbränd	ADJ	tanned.a.02	tanned.a.02
-opportun	ADJ	opportune.a.01	opportune.a.01
-motstridig	ADJ	opposed.a.01	opposed.a.01
-motsatt	ADJ	opposite.a.02	opposite.a.02
-optimistisk	ADJ	optimistic.a.01	optimistic.a.01
-pessimistisk	ADJ	pessimistic.a.01	pessimistic.a.01
-muntlig	ADJ	oral.a.03	verbal.a.04	oral.a.03	verbal.a.04
-inrutad	ADJ	structured.a.01	structured.a.01
-enastående	ADJ	extraordinary.a.01	extraordinary.a.01
-organisk	ADJ	organic.a.02	organic.a.02
-ursprunglig	ADJ	original.a.03	original.a.03
-ortodox	ADJ	orthodox.a.02	orthodox.a.02
-utomhus	ADJ	outdoor.a.01	outdoor.a.01
-inomhus	ADJ	indoor.a.01	indoor.a.01
-bar	ADJ	bare.a.04	bare.a.04
-kal	ADJ	leafless.a.01	leafless.a.01
-plågsam	ADJ	painful.a.01	painful.a.01
-handgriplig	ADJ	palpable.a.01	palpable.a.01
-parallell	ADJ	parallel.a.01	parallel.a.01
-oförlåtlig	ADJ	inexcusable.a.01	inexcusable.a.01
-förälderlig	ADJ	parental.a.02	parental.a.02
-passionerad	ADJ	passionate.a.01	passionate.a.01
-förfluten	ADJ	past.a.01	past.a.01
-nuvarande	ADJ	present.a.01	present.a.01
-boren	ADJ	born.a.01	born.a.01
-tålmodig	ADJ	patient.a.01	patient.a.01
-otålig	ADJ	impatient.a.01	impatient.a.01
-fredlig	ADJ	peaceful.a.01	peaceful.a.01
-fridfull	ADJ	peaceful.a.01	peaceful.a.01
-omärklig	ADJ	imperceptible.a.01	imperceptible.a.01
-perfekt	ADJ	perfect.a.01	perfect.a.01
-förgänglig	ADJ	perishable.a.01	perishable.a.01
-permanent	ADJ	permanent.a.01	permanent.a.01
-temporär	ADJ	impermanent.a.01	impermanent.a.01
-ihärdig	ADJ	persistent.a.03	persistent.a.03
-oåterkallelig	ADJ	irrevocable.a.01	irrevocable.a.01
-otillåtlig	ADJ	inadmissible.a.01	inadmissible.a.01
-preventiv	ADJ	preventive.a.02	preventive.a.02
-personlig	ADJ	personal.a.01	personal.a.01
-opersonlig	ADJ	impersonal.a.01	impersonal.a.01
-ogenomtränglig	ADJ	impenetrable.a.01	impenetrable.a.01
-fysisk	ADJ	physical.a.01	physical.a.01
-religiös	ADJ	religious.a.02	religious.a.02
-redig	ADJ	plain.a.03	plain.a.02	plain.a.03	plain.a.02
-planlös	ADJ	unplanned.a.01	random.a.01	unplanned.a.01	random.a.01
-utstuderad	ADJ	studied.a.01	studied.a.01
-angenäm	ADJ	pleasant.a.01	pleasant.a.01
-obehaglig	ADJ	unpleasant.a.01	unpleasant.a.01
-missbelåten	ADJ	displeased.a.01	displeased.a.01
-menlös	ADJ	pointless.a.01	pointless.a.01
-polerad	ADJ	polished.a.01	polished.a.01
-politisk	ADJ	political.a.01	political.a.01
-populär	ADJ	popular.a.01	popular.a.01
-impopulär	ADJ	unpopular.a.01	unpopular.a.01
-neutral	ADJ	neutral.a.04	neutral.a.04
-negativ	ADJ	negative.a.05	negative.a.04	negative.a.05	negative.a.04
-positiv	ADJ	positive.a.04	positive.a.04
-omöjlig	ADJ	impossible.a.01	impossible.a.01
-stark	ADJ	potent.a.03	potent.a.03
-viril	ADJ	potent.a.04	potent.a.04
-mäktig	ADJ	powerful.a.01	powerful.a.01
-maktlös	ADJ	powerless.a.01	powerless.a.01
-inflytelserik	ADJ	influential.a.01	influential.a.01
-praktisk	ADJ	practical.a.01	practical.a.01
-opraktisk	ADJ	impractical.a.01	impractical.a.01
-utvecklingsstörd	ADJ	retarded.a.01	retarded.a.01
-förutsägbar	ADJ	predictable.a.01	predictable.a.01
-oberäknelig	ADJ	unpredictable.a.01	unpredictable.a.01
-överlagd	ADJ	premeditated.a.01	premeditated.a.01
-närvarande	ADJ	present.a.02	present.a.02
-frånvarande	ADJ	absent.a.01	absent.a.01
-primär	ADJ	primary.a.01	primary.a.01
-sekundär	ADJ	secondary.a.01	secondary.a.01
-fundamental	ADJ	basic.a.01	basic.a.01
-offentlig	ADJ	public.a.01	public.a.01
-exklusiv	ADJ	exclusive.a.02	exclusive.a.02
-privilegierad	ADJ	privileged.a.01	privileged.a.01
-improduktiv	ADJ	unproductive.a.01	unproductive.a.01
-produktiv	ADJ	generative.a.01	generative.a.01
-djupsinnig	ADJ	profound.a.01	profound.a.01
-progressiv	ADJ	progressive.a.01	progressive.a.01
-passande	ADJ	proper.a.01	proper.a.01
-retrospektiv	ADJ	retrospective.a.01	retrospective.a.01
-stolt	ADJ	proud.a.01	proud.a.01
-punktlig	ADJ	punctual.a.01	punctual.a.01
-målmedveten	ADJ	purposeful.a.01	purposeful.a.01
-diskutabel	ADJ	questionable.a.01	questionable.a.01
-tyst	ADJ	quiet.a.02	quiet.a.02
-bullrig	ADJ	noisy.a.01	noisy.a.01
-vilsam	ADJ	restful.a.01	restful.a.01
-stillsam	ADJ	quiet.a.01	quiet.a.01
-rationell	ADJ	rational.a.01	rational.a.03	rational.a.01	rational.a.03
-känslomässig	ADJ	emotional.a.01	emotional.a.01
-rasmässig	ADJ	racial.a.02	racial.a.02
-verklig	ADJ	real.a.01	real.a.01
-realistisk	ADJ	realistic.a.01	realistic.a.03	realistic.a.01	realistic.a.03
-orealistisk	ADJ	unrealistic.a.01	unrealistic.a.01
-rimlig	ADJ	reasonable.a.01	reasonable.a.01
-ömsesidig	ADJ	reciprocal.a.01	reciprocal.a.01
-obearbetad	ADJ	unrefined.a.01	unrefined.a.01
-ordinarie	ADJ	regular.a.01	regular.a.01
-enhetlig	ADJ	uniform.a.01	uniform.a.01
-periodisk	ADJ	periodic.a.01	periodic.a.01
-besläktad	ADJ	related.a.02	related.a.01	related.a.02	related.a.01
-relevant	ADJ	relevant.a.01	relevant.a.01
-ovidkommande	ADJ	irrelevant.a.01	irrelevant.a.01
-oersättlig	ADJ	irreplaceable.a.01	irreplaceable.a.01
-representativ	ADJ	representative.a.02	representative.a.02
-oförsonlig	ADJ	irreconcilable.a.01	irreconcilable.a.01
-oemotståndlig	ADJ	irresistible.a.01	irresistible.a.01
-anständig	ADJ	respectable.a.01	respectable.a.01
-vanvördig	ADJ	disrespectful.a.01	disrespectful.a.01
-ansvarig	ADJ	responsible.a.01	responsible.a.01
-ohämmad	ADJ	unrestrained.a.01	unrestrained.a.01
-oinskränkt	ADJ	unrestricted.a.01	unrestricted.a.01
-restriktiv	ADJ	restrictive.a.01	restrictive.a.01
-revolutionär	ADJ	revolutionary.a.04	revolutionary.a.04
-rytmisk	ADJ	rhythmical.a.01	rhythmical.a.01
-rik	ADJ	rich.a.01	rich.a.01
-fattig	ADJ	poor.a.03	poor.a.03
-högerhänt	ADJ	right-handed.a.01	right-handed.a.01
-vänsterhänt	ADJ	left-handed.a.01	left-handed.a.01
-vänster	ADJ	left.a.04	left.a.04
-orätt	ADJ	wrong.a.02	wrong.a.02
-rund	ADJ	round.a.01	round.a.01
-fyrkantig	ADJ	square.a.01	square.a.01
-helig	ADJ	holy.a.01	holy.a.01
-sakral	ADJ	sacred.a.01	sacred.a.01
-sadistisk	ADJ	sadistic.a.01	sadistic.a.01
-farlig	ADJ	dangerous.a.01	dangerous.a.01
-andfådd	ADJ	out.a.01	out.a.01
-annan	ADJ	other.a.01	other.a.01
-omättlig	ADJ	insatiate.a.01	insatiate.a.01
-tillfredsställande	ADJ	satisfactory.a.01	satisfactory.a.01
-otillfredsställande	ADJ	unsatisfactory.a.01	unsatisfactory.a.01
-vetenskaplig	ADJ	scientific.a.02	scientific.a.01	scientific.a.02	scientific.a.01
-skrupelfri	ADJ	unscrupulous.a.01	unscrupulous.a.01
-hemlig	ADJ	concealed.a.02	concealed.a.02
-bestickande	ADJ	seductive.a.01	seductive.a.01
-osjälvisk	ADJ	unselfish.a.01	unselfish.a.01
-senior	ADJ	senior.a.01	senior.a.01
-junior	ADJ	junior.a.01	junior.a.01
-känslig	ADJ	sensitive.a.02	sensitive.a.02
-separat	ADJ	separate.a.01	separate.a.01
-gemensam	ADJ	joint.a.01	joint.a.01
-sanitär	ADJ	sanitary.a.01	sanitary.a.01
-antiseptisk	ADJ	antiseptic.a.01	antiseptic.a.01
-allvarlig	ADJ	unplayful.a.01	unplayful.a.01
-bosatt	ADJ	resident.a.01	living.a.01	resident.a.01	living.a.01
-sexuell	ADJ	sexual.a.02	sexual.a.01	sexual.a.02	sexual.a.01
-kortsynt	ADJ	nearsighted.a.01	nearsighted.a.01
-krympfri	ADJ	unshrinkable.a.01	unshrinkable.a.01
-blind	ADJ	blind.a.01	blind.a.01
-betydande	ADJ	significant.a.01	significant.a.01
-invecklad	ADJ	complex.a.01	complex.a.01
-multipel	ADJ	multiple.a.01	multiple.a.01
-skicklig	ADJ	skilled.a.01	skilled.a.01
-matematisk	ADJ	numerical.a.03	mathematical.a.01	numerical.a.03	mathematical.a.01
-skrovlig	ADJ	coarse.a.01	rough.a.01	coarse.a.01	rough.a.01
-fin	ADJ	fine.a.05	fine.a.05
-rökig	ADJ	smoky.a.01	smoky.a.01
-halkig	ADJ	slippery.a.01	slippery.a.01
-slät	ADJ	smooth.a.01	smooth.a.01
-stenig	ADJ	rough.a.09	rough.a.09
-social	ADJ	social.a.02	social.a.02
-sällskaplig	ADJ	gregarious.a.01	sociable.a.01	gregarious.a.01	sociable.a.01
-fast	ADJ	solid.a.02	solid.a.02
-solid	ADJ	solid.a.03	solid.a.03
-ihålig	ADJ	hollow.a.01	hollow.a.01
-besluten	ADJ	solved.a.01	solved.a.01
-olöst	ADJ	unsolved.a.01	unsolved.a.01
-sofistikerad	ADJ	sophisticated.a.01	sophisticated.a.01
-sund	ADJ	sound.a.03	sound.a.03
-spontan	ADJ	spontaneous.a.01	spontaneous.a.01
-skriftlig	ADJ	written.a.01	written.a.01
-oskriven	ADJ	unwritten.a.01	unwritten.a.01
-stabil	ADJ	stable.a.01	stable.a.01
-labil	ADJ	unstable.a.01	unstable.a.01
-standard	ADJ	standard.a.01	standard.a.01
-stadig	ADJ	steady.a.01	steady.a.01
-rät	ADJ	straight.a.08	straight.a.08
-buktig	ADJ	curved.a.01	curved.a.01
-rak	ADJ	straight.a.06	straight.a.06
-svag	ADJ	weak.a.01	weak.a.01
-envis	ADJ	stubborn.a.01	stubborn.a.01
-spak	ADJ	docile.a.01	docile.a.01
-lyckad	ADJ	successful.a.01	successful.a.01
-misslyckad	ADJ	unsuccessful.a.01	unsuccessful.a.01
-tillräcklig	ADJ	sufficient.a.01	sufficient.a.01
-sliskig	ADJ	sugary.a.01	sugary.a.01
-överlägsen	ADJ	superior.a.01	superior.a.01
-överkomlig	ADJ	surmountable.a.01	surmountable.a.01
-förvånad	ADJ	surprised.a.01	surprised.a.01
-överraskande	ADJ	surprising.a.01	surprising.a.01
-söt	ADJ	sweet.a.01	sweet.a.01
-sur	ADJ	sour.a.02	sour.a.02
-svuren	ADJ	sworn.a.02	sworn.a.02
-symmetrisk	ADJ	symmetrical.a.01	symmetrical.a.01
-sympatisk	ADJ	sympathetic.a.04	sympathetic.a.04
-systematisk	ADJ	systematic.a.01	taxonomic.a.01	systematic.a.01	taxonomic.a.01
-taktlös	ADJ	tactless.a.01	tactless.a.01
-vild	ADJ	wild.a.02	wild.a.01	wild.a.02	wild.a.01
-god	ADJ	tasty.a.01	tasty.a.01
-spänd	ADJ	tense.a.03	tense.a.01	tense.a.03	tense.a.01
-avspänd	ADJ	relaxed.a.01	relaxed.a.01
-tjock	ADJ	thick.a.01	thick.a.03	thick.a.01	thick.a.03
-otänkbar	ADJ	unthinkable.a.01	unthinkable.a.01
-oekonomisk	ADJ	wasteful.a.02	wasteful.a.02
-proper	ADJ	tidy.a.01	tidy.a.01
-otippad	ADJ	untipped.a.01	untipped.a.01
-trött	ADJ	tired.a.01	tired.a.01
-utvilad	ADJ	rested.a.01	rested.a.01
-tolerant	ADJ	tolerant.a.01	tolerant.a.01
-intolerant	ADJ	intolerant.a.01	intolerant.a.01
-tandad	ADJ	toothed.a.01	toothed.a.01
-mör	ADJ	tender.a.05	tender.a.05
-öm	ADJ	tender.a.01	tender.a.01
-giftig	ADJ	toxic.a.01	toxic.a.01
-sann	ADJ	true.a.01	true.a.01
-falsk	ADJ	false.a.01	false.a.01
-trovärdig	ADJ	trustworthy.a.01	trustworthy.a.01
-typisk	ADJ	typical.a.01	typical.a.01
-facklig	ADJ	union.a.02	union.a.02
-enig	ADJ	united.a.01	united.a.01
-nere	ADJ	down.a.01	down.a.01
-nyttig	ADJ	useful.a.01	useful.a.01
-värdelös	ADJ	useless.a.01	useless.a.01
-giltig	ADJ	valid.a.01	valid.a.01
-ogiltig	ADJ	invalid.a.01	invalid.a.01
-värdefull	ADJ	valuable.a.01	valuable.a.01
-omväxlande	ADJ	varied.a.01	varied.a.01
-oantastlig	ADJ	inviolable.a.01	inviolable.a.01
-våldsam	ADJ	violent.a.01	violent.a.01
-synlig	ADJ	visible.a.01	visible.a.01
-frivillig	ADJ	voluntary.a.01	voluntary.a.02	voluntary.a.01	voluntary.a.02
-sårbar	ADJ	vulnerable.a.01	vulnerable.a.01
-varm	ADJ	warm.a.01	warm.a.02	warm.a.01	warm.a.02
-sval	ADJ	cool.a.01	cool.a.04	cool.a.01	cool.a.04
-välkommen	ADJ	welcome.a.01	welcome.a.01
-frisk	ADJ	well.a.01	well.a.01
-sjuk	ADJ	ill.a.01	ill.a.01
-våt	ADJ	wet.a.01	wet.a.01
-torr	ADJ	dry.a.01	dry.a.01
-trång	ADJ	narrow.a.01	narrow.a.01
-tungrodd	ADJ	unwieldy.a.01	unwieldy.a.01
-bevingad	ADJ	winged.a.01	winged.a.01
-klok	ADJ	wise.a.01	wise.a.01
-enfaldig	ADJ	foolish.a.01	foolish.a.01
-världslig	ADJ	worldly.a.01	worldly.a.01
-sliten	ADJ	worn.a.01	worn.a.01
-värdig	ADJ	worthy.a.01	worthy.a.01
-fasetterad	ADJ	faceted.a.01	faceted.a.01
-framträdande	ADJ	salient.a.02	salient.a.02
-retroaktiv	ADJ	retroactive.a.01	retroactive.a.01
-akademisk	ADJ	academic.a.01	academic.a.01
-apokalyptisk	ADJ	apocalyptic.a.02	apocalyptic.a.02
-arkeologisk	ADJ	archaeological.a.01	archaeological.a.01
-välvd	ADJ	arched.a.01	arched.a.01
-välvillig	ADJ	benevolent.a.01	benevolent.a.01
-binär	ADJ	binary.a.01	binary.a.01
-karcinogen	ADJ	carcinogenic.a.01	carcinogenic.a.01
-räntabel	ADJ	interest-bearing.a.01	interest-bearing.a.01
-medborgerlig	ADJ	civil.a.04	civic.a.01	civil.a.04	civic.a.01
-kommunal	ADJ	municipal.a.01	municipal.a.01
-avtalsenlig	ADJ	contractual.a.01	contractual.a.01
-maktfullkomlig	ADJ	dictatorial.a.01	dictatorial.a.01
-digital	ADJ	digital.a.01	digital.a.01
-dramatisk	ADJ	dramatic.a.03	dramatic.a.03
-ekonomisk	ADJ	economic.a.02	economic.a.02
-elektronisk	ADJ	electronic.a.01	electronic.a.02	electronic.a.01	electronic.a.02
-statisk	ADJ	electrostatic.a.01	electrostatic.a.01
-elementär	ADJ	elementary.a.02	elementary.a.02
-feodal	ADJ	feudal.a.01	feudal.a.01
-febrig	ADJ	febrile.a.01	febrile.a.01
-febril	ADJ	febrile.a.01	febrile.a.01
-blommig	ADJ	flowery.a.01	flowery.a.01
-fossil	ADJ	fossil.a.01	fossil.a.01
-genetisk	ADJ	genetic.a.04	genetic.a.04
-gemytlig	ADJ	genial.a.02	genial.a.02
-mänsklig	ADJ	human.a.01	human.a.01
-ideell	ADJ	ideal.a.03	ideal.a.03
-ideologisk	ADJ	ideological.a.01	ideological.a.01
-immun	ADJ	immune.a.01	immune.a.01
-kejserlig	ADJ	imperial.a.01	imperial.a.01
-rättslig	ADJ	judicial.a.03	judicial.a.02	judicial.a.03	judicial.a.02
-militär	ADJ	military.a.01	military.a.01
-svulstig	ADJ	pompous.a.02	pompous.a.02
-pragmatisk	ADJ	pragmatic.a.02	pragmatic.a.02
-rabiat	ADJ	rabid.a.01	rabid.a.01
-romantisk	ADJ	romantic.a.01	romantic.a.01
-agrikulturell	ADJ	agricultural.a.01	agricultural.a.01
-lantlig	ADJ	rural.a.02	rural.a.02
-scenisk	ADJ	scenic.a.02	scenic.a.02
-solar	ADJ	solar.a.01	solar.a.01
-sportslig	ADJ	sporting.a.02	sporting.a.02
-lagstadgad	ADJ	statutory.a.01	statutory.a.01
-teknisk	ADJ	technical.a.01	technical.a.01
-lynnig	ADJ	temperamental.a.01	temperamental.a.01
-totalitär	ADJ	totalitarian.a.02	totalitarian.a.02
-urban	ADJ	urban.a.01	urban.a.01
-legislativ	ADJ	legislative.a.01	legislative.a.01
-litterär	ADJ	literary.a.01	literary.a.01
-pneumatisk	ADJ	pneumatic.a.01	pneumatic.a.01
-professionell	ADJ	professional.a.04	professional.a.04
-yrkesmässig	ADJ	vocational.a.01	vocational.a.01
-spatial	ADJ	spatial.a.01	spatial.a.01
-semantisk	ADJ	semantic.a.01	semantic.a.01
-finansiell	ADJ	fiscal.a.01	fiscal.a.01
-filosofisk	ADJ	philosophic.a.01	philosophic.a.01
-fenomenal	ADJ	phenomenal.a.01	phenomenal.a.01
-patologisk	ADJ	pathological.a.01	pathological.a.01
-possessiv	ADJ	possessive.a.01	possessive.a.01
-metafysisk	ADJ	metaphysical.a.01	metaphysical.a.01
-akustisk	ADJ	acoustic.a.01	acoustic.a.01
-visuell	ADJ	ocular.a.02	ocular.a.02
-skir	ADJ	ethereal.a.02	ethereal.a.02
-regional	ADJ	regional.a.01	regional.a.01
-burlesk	ADJ	burlesque.a.01	burlesque.a.01
-venerisk	ADJ	genital.a.01	genital.a.01
-kontinental	ADJ	continental.a.03	continental.a.03
-marin	ADJ	marine.a.01	marine.a.01
-sysselsättningsmässig	ADJ	occupational.a.01	occupational.a.01
-dokumentär	ADJ	documentary.a.01	documentary.a.01
-strukturell	ADJ	structural.a.02	structural.a.02
-psykisk	ADJ	mental.a.02	mental.a.02
-kulturell	ADJ	cultural.a.01	cultural.a.01
-administrativ	ADJ	administrative.a.01	administrative.a.01
-nervös	ADJ	nervous.a.03	nervous.a.03
-geologisk	ADJ	geological.a.01	geological.a.01
-statistisk	ADJ	statistical.a.01	statistical.a.01
-psykiatrisk	ADJ	psychiatric.a.01	psychiatric.a.01
-terapeutisk	ADJ	therapeutic.a.02	therapeutic.a.02
-dermatologisk	ADJ	dermatologic.a.01	dermatologic.a.01
-huslig	ADJ	domestic.a.02	domestic.a.02
-historisk	ADJ	historical.a.01	historical.a.01
-magnetisk	ADJ	magnetic.a.01	magnetic.a.01
-tropisk	ADJ	tropical.a.02	tropical.a.02
-experimentell	ADJ	experimental.a.01	experimental.a.01
-miljömässig	ADJ	environmental.a.01	environmental.a.01
-traumatisk	ADJ	traumatic.a.01	traumatic.a.01
-pedagogisk	ADJ	educational.a.01	educational.a.01
-förhistorisk	ADJ	prehistoric.a.02	prehistoric.a.02
-pluralistisk	ADJ	pluralistic.a.01	pluralistic.a.01
-fysiologisk	ADJ	physiological.a.01	physiological.a.01
-strategisk	ADJ	strategic.a.01	strategic.a.01
-kronologisk	ADJ	chronological.a.01	chronological.a.01
-tragisk	ADJ	tragic.a.02	tragic.a.02
-barock	ADJ	baroque.a.02	baroque.a.02
-diagnostisk	ADJ	diagnostic.a.01	diagnostic.a.01
-sinnlig	ADJ	carnal.a.02	carnal.a.02
-kvantitativ	ADJ	quantitative.a.02	quantitative.a.02
-nasal	ADJ	rhinal.a.01	rhinal.a.01
-aerodynamisk	ADJ	aerodynamic.a.01	aerodynamic.a.01
-presidentmässig	ADJ	presidential.a.01	presidential.a.01
-korporativ	ADJ	corporate.a.01	corporate.a.01
-nationell	ADJ	national.a.01	national.a.01
-medeltida	ADJ	medieval.a.01	medieval.a.01
-konstnärlig	ADJ	artistic.a.01	artistic.a.01
-heraldisk	ADJ	heraldic.a.02	heraldic.a.02
-humanitär	ADJ	humanitarian.a.02	humanitarian.a.02
-självlärd	ADJ	autodidactic.a.01	autodidactic.a.01
-operationell	ADJ	operational.a.01	operational.a.01
-episk	ADJ	epic.a.02	epic.a.02
-exekutiv	ADJ	executive.a.01	executive.a.01
-ordblind	ADJ	dyslexic.a.01	dyslexic.a.01
-byråkratisk	ADJ	bureaucratic.a.01	bureaucratic.a.01
-katalytisk	ADJ	catalytic.a.01	catalytic.a.01
-skrynkelfri	ADJ	creaseproof.a.01	creaseproof.a.01
-tvärvetenskaplig	ADJ	interdisciplinary.a.01	interdisciplinary.a.01
-ortopedisk	ADJ	orthopedic.a.01	orthopedic.a.01
-bostadsmässig	ADJ	residential.a.02	residential.a.02
-spastisk	ADJ	spastic.a.01	spastic.a.01
-fylld	ADJ	filled.a.02	filled.a.02
-skickad	ADJ	fitted.a.01	fitted.a.01
-förutfattad	ADJ	preconceived.a.01	preconceived.a.01
+duktig	ADJ	able.a.01
+absolut	ADJ	absolute.a.01
+relativ	ADJ	relative.a.01
+glupsk	ADJ	gluttonous.a.01
+abstrakt	ADJ	abstract.a.01
+konkret	ADJ	concrete.a.01
+ymnig	ADJ	abundant.a.01
+knapp	ADJ	scarce.a.01
+acceptabel	ADJ	acceptable.a.01
+tillgänglig	ADJ	accessible.a.01	available.a.01
+oåtkomlig	ADJ	inaccessible.a.01
+tillmötesgående	ADJ	accommodating.a.01
+korrekt	ADJ	accurate.a.01
+ovan	ADJ	unaccustomed.a.01
+aktiv	ADJ	active.a.05
+passiv	ADJ	passive.a.01
+utdöd	ADJ	extinct.a.02	extinct.a.01
+möjlig	ADJ	potential.a.01
+potentiell	ADJ	potential.a.01
+akut	ADJ	acute.a.01
+kronisk	ADJ	chronic.a.01
+beroende	ADJ	addicted.a.01
+vanebildande	ADJ	addictive.a.01
+fullvärdig	ADJ	adequate.a.01
+otillräcklig	ADJ	inadequate.a.01	insufficient.a.01
+habil	ADJ	adroit.a.01
+fördelaktig	ADJ	advantageous.a.01
+tillrådlig	ADJ	advisable.a.01
+estetisk	ADJ	aesthetic.a.02	aesthetic.a.01
+rädd	ADJ	afraid.a.01
+aggressiv	ADJ	aggressive.a.01
+alert	ADJ	alert.a.01
+levande	ADJ	alive.a.01
+egocentrisk	ADJ	egoistic.a.01
+ambitiös	ADJ	ambitious.a.01
+astigmatisk	ADJ	astigmatic.a.01
+arg	ADJ	angry.a.01
+animerad	ADJ	animated.a.01
+anonym	ADJ	anonymous.a.01
+påföljande	ADJ	subsequent.a.01
+föregående	ADJ	preceding.a.01
+exempellös	ADJ	unprecedented.a.01
+smaklig	ADJ	appetizing.a.01
+osmaklig	ADJ	unappetizing.a.01
+lämplig	ADJ	appropriate.a.01
+malplacerad	ADJ	inappropriate.a.01
+förfallen	ADJ	due.a.01
+sandig	ADJ	arenaceous.a.01
+skamsen	ADJ	ashamed.a.01
+oblyg	ADJ	unashamed.a.01
+påträngande	ADJ	assertive.a.01
+fristående	ADJ	detached.a.04
+tilldragande	ADJ	attractive.a.01
+gravid	ADJ	pregnant.a.01
+hörbar	ADJ	audible.a.01
+gynnsam	ADJ	propitious.a.01	favorable.a.01
+berättigad	ADJ	authorized.a.01
+obehörig	ADJ	unauthorized.a.01
+automatisk	ADJ	automatic.a.01
+manuell	ADJ	manual.a.02	manual.a.01
+oanträffbar	ADJ	unavailable.a.01
+vaken	ADJ	awake.a.01
+sovande	ADJ	asleep.a.01
+omedveten	ADJ	unaware.a.01
+främre	ADJ	front.a.01
+följande	ADJ	following.a.03
+framfusig	ADJ	forward.a.01
+vacker	ADJ	beautiful.a.01
+ful	ADJ	ugly.a.01	foul.a.04
+bäst	ADJ	best.a.01
+multilateral	ADJ	multilateral.a.01
+vit	ADJ	white.a.02	white.a.01
+blond	ADJ	blond.a.01
+blodig	ADJ	bloody.a.01
+djärv	ADJ	bold.a.01
+snärjig	ADJ	tangled.a.01
+borgerlig	ADJ	middle-class.a.01
+modig	ADJ	brave.a.01
+feg	ADJ	cowardly.a.01
+räddhågad	ADJ	cowardly.a.01
+besutten	ADJ	landed.a.01
+ljus	ADJ	light.a.06	light.a.02
+mörk	ADJ	dark.a.01
+förutsättningslös	ADJ	unprejudiced.a.01
+inskränkt	ADJ	narrow-minded.a.02	limited.a.01	restricted.a.01
+trasig	ADJ	broken.a.01
+medmänsklig	ADJ	brotherly.a.01
+identisk	ADJ	identical.a.03
+upptagen	ADJ	busy.a.01
+socialistisk	ADJ	socialistic.a.01
+stormig	ADJ	stormy.a.01
+duglig	ADJ	capable.a.01
+försiktig	ADJ	careful.a.01
+aktsam	ADJ	cautious.a.01
+oförsiktig	ADJ	incautious.a.01
+porös	ADJ	porous.a.02
+central	ADJ	central.a.02
+perifer	ADJ	peripheral.a.01
+säker	ADJ	certain.a.02	safe.a.01
+trosviss	ADJ	confident.a.01
+osäker	ADJ	diffident.a.02
+ofrånkomlig	ADJ	inevitable.a.01
+karakteristisk	ADJ	characteristic.a.01
+laddad	ADJ	charged.a.01
+kysk	ADJ	chaste.a.01
+gladlynt	ADJ	cheerful.a.01
+svart	ADJ	black.a.01
+färgrik	ADJ	colorful.a.01
+färgstark	ADJ	colorful.a.02
+okristlig	ADJ	unchristian.a.01
+klassisk	ADJ	classical.a.01
+ren	ADJ	clean.a.01	pure.a.01
+smutsig	ADJ	dirty.a.01
+solkig	ADJ	dirty.a.01
+snuskig	ADJ	dirty.a.02
+radioaktiv	ADJ	radioactive.a.01
+smart	ADJ	smart.a.01
+dum	ADJ	stupid.a.01
+avlägsen	ADJ	far.a.01	distant.a.01
+nära	ADJ	near.a.01
+närstående	ADJ	close.a.02
+klar	ADJ	clear.a.11
+hopfällbar	ADJ	collapsible.a.01
+explosiv	ADJ	explosive.a.01
+bekväm	ADJ	comfortable.a.01	convenient.a.01
+obekväm	ADJ	uncomfortable.a.01
+kommersiell	ADJ	commercial.a.01	commercial.a.02
+vanlig	ADJ	common.a.02	ordinary.a.01
+sällsynt	ADJ	uncommon.a.01
+sedvanlig	ADJ	usual.a.01
+allmän	ADJ	common.a.01	general.a.01
+kompakt	ADJ	compact.a.01
+jämförbar	ADJ	comparable.a.01
+förenlig	ADJ	compatible.a.01	compatible.a.02	consistent.a.01
+kompetent	ADJ	competent.a.01
+tävlingsmässig	ADJ	competitive.a.01
+hel	ADJ	whole.a.01
+halv	ADJ	half.a.03
+fullständig	ADJ	complete.a.01
+ofullständig	ADJ	incomplete.a.01
+heltäckande	ADJ	comprehensive.a.01
+sansad	ADJ	composed.a.01
+konkav	ADJ	concave.a.01
+konvex	ADJ	convex.a.01
+ogenerad	ADJ	unconcerned.a.01
+bortkastad	ADJ	atrophied.a.01
+oförenlig	ADJ	incongruous.a.01
+medveten	ADJ	conscious.a.02	mindful.a.01
+konservativ	ADJ	conservative.a.01
+frisinnad	ADJ	liberal.a.03
+inkonsekvent	ADJ	inconsistent.a.01
+iögonfallande	ADJ	conspicuous.a.01
+osynlig	ADJ	inconspicuous.a.01	invisible.a.01
+beständig	ADJ	constant.a.02
+konstruktiv	ADJ	constructive.a.01
+destruktiv	ADJ	destructive.a.01
+förnöjsam	ADJ	contented.a.01
+nöjd	ADJ	contented.a.01
+kontinuerlig	ADJ	continual.a.01
+sporadisk	ADJ	sporadic.a.01
+oavbruten	ADJ	continuous.a.01
+obehärskad	ADJ	uncontrolled.a.01
+omstridd	ADJ	controversial.a.01
+konventionell	ADJ	conventional.a.01
+frireligiös	ADJ	nonconformist.a.01
+nukleär	ADJ	nuclear.a.01
+traditionell	ADJ	traditional.a.01
+skiljaktig	ADJ	divergent.a.02
+rå	ADJ	raw.a.03
+medgörlig	ADJ	cooperative.a.02
+interaktiv	ADJ	synergistic.a.01
+avsevärd	ADJ	considerable.a.01
+rätt	ADJ	correct.a.01
+fel	ADJ	wrong.a.05
+oförbätterlig	ADJ	incorrigible.a.01
+provinsiell	ADJ	provincial.a.02	provincial.a.01
+oförsynt	ADJ	inconsiderate.a.01
+artig	ADJ	polite.a.01
+plump	ADJ	uncivil.a.01
+kreativ	ADJ	creative.a.01
+otrolig	ADJ	incredible.a.01
+godtrogen	ADJ	credulous.a.01
+kritisk	ADJ	critical.a.01	critical.a.06
+skelögd	ADJ	cross-eyed.a.01
+linjär	ADJ	linear.a.02
+nyfiken	ADJ	curious.a.02
+aktuell	ADJ	current.a.01	topical.a.02
+lagd	ADJ	endowed.a.01
+handgjord	ADJ	handmade.a.01
+årlig	ADJ	annual.a.01
+ettårig	ADJ	annual.a.01
+perenn	ADJ	perennial.a.01
+döv	ADJ	deaf.a.01
+hörselskadad	ADJ	hearing.a.01
+avgörande	ADJ	decisive.a.01
+djup	ADJ	deep.a.03
+grund	ADJ	shallow.a.01	shallow.a.02
+trotsig	ADJ	defiant.a.01
+undfallande	ADJ	compliant.a.01
+vag	ADJ	undefined.a.01
+tydlig	ADJ	well-defined.a.02
+bestämd	ADJ	definite.a.01	specified.a.01
+obestämd	ADJ	indefinite.a.01
+upprymd	ADJ	elated.a.01
+spröd	ADJ	delicate.a.01
+kvalificerad	ADJ	demanding.a.01	qualified.a.01
+demokratisk	ADJ	democratic.a.01
+odemokratisk	ADJ	undemocratic.a.01
+godtycklig	ADJ	arbitrary.a.01
+pålitlig	ADJ	reliable.a.01
+opålitlig	ADJ	unreliable.a.02
+tillvand	ADJ	dependent.a.01	dependent.a.03
+självständig	ADJ	independent.a.01
+begärlig	ADJ	desirable.a.01
+svår	ADJ	difficult.a.01
+lätt	ADJ	easy.a.01	light.a.01
+slarvig	ADJ	negligent.a.01
+diplomatisk	ADJ	diplomatic.a.02
+direkt	ADJ	direct.a.01
+indirekt	ADJ	indirect.a.04
+omdömesgill	ADJ	discerning.a.01
+diskret	ADJ	discreet.a.01
+distinkt	ADJ	distinct.a.02
+undergiven	ADJ	submissive.a.01
+servil	ADJ	servile.a.01
+dominant	ADJ	dominant.a.01
+slö	ADJ	dull.a.09
+vass	ADJ	sharp.a.09
+livlig	ADJ	lively.a.01
+tråkig	ADJ	dull.a.01
+dynamisk	ADJ	dynamic.a.01
+ivrig	ADJ	eager.a.01
+tidig	ADJ	early.a.01
+orolig	ADJ	uneasy.a.01
+östlig	ADJ	east.a.01
+västra	ADJ	west.a.01
+ätbar	ADJ	edible.a.01
+ätlig	ADJ	edible.a.01
+effektiv	ADJ	effective.a.01	efficient.a.01
+strong	ADJ	forceful.a.01
+valfri	ADJ	optional.a.01
+elegant	ADJ	elegant.a.01
+valbar	ADJ	eligible.a.01
+empirisk	ADJ	empirical.a.01	empiric.a.01
+tillämpad	ADJ	applied.a.01
+arbetslös	ADJ	unemployed.a.01
+hoppfull	ADJ	encouraging.a.01
+nedslående	ADJ	discouraging.a.01
+upplyst	ADJ	enlightened.a.01
+entusiastisk	ADJ	enthusiastic.a.01
+lysten	ADJ	desirous.a.01
+balanserad	ADJ	balanced.a.01
+obalanserad	ADJ	unbalanced.a.01
+tvetydig	ADJ	equivocal.a.01
+grundläggande	ADJ	essential.a.02
+oväsentlig	ADJ	inessential.a.01
+föraktlig	ADJ	contemptible.a.01
+etisk	ADJ	ethical.a.02
+jämn	ADJ	even.a.03	even.a.01
+udda	ADJ	odd.a.01
+precis	ADJ	exact.a.01	precise.a.01
+lidelsefull	ADJ	excited.a.02
+spännande	ADJ	exciting.a.01
+outtömlig	ADJ	inexhaustible.a.02
+förväntad	ADJ	expected.a.01
+oväntad	ADJ	unexpected.a.01
+dyr	ADJ	expensive.a.01
+billig	ADJ	cheap.a.01
+erfaren	ADJ	experienced.a.01
+förklarlig	ADJ	explicable.a.01
+oförklarlig	ADJ	inexplicable.a.01
+explicit	ADJ	explicit.a.01
+implicit	ADJ	implicit.a.01
+expansiv	ADJ	expansive.a.01
+extern	ADJ	external.a.01
+inre	ADJ	internal.a.01	inner.a.02	interior.a.01
+yttre	ADJ	outer.a.01
+ojust	ADJ	unfair.a.01
+rättvis	ADJ	equitable.a.01
+trogen	ADJ	faithful.a.03
+lojal	ADJ	loyal.a.01
+ofelbar	ADJ	infallible.a.01
+familjär	ADJ	familiar.a.01	familiar.a.02
+säregen	ADJ	strange.a.01
+otidsenlig	ADJ	unfashionable.a.01
+fashionabel	ADJ	stylish.a.01
+långsam	ADJ	slow.a.01
+snabb	ADJ	fast.a.03
+kräsen	ADJ	fastidious.a.01
+fet	ADJ	fat.a.01
+smal	ADJ	thin.a.02
+obotlig	ADJ	incurable.a.01
+färdig	ADJ	finished.a.02	ready.a.01
+oändlig	ADJ	infinite.a.01	infinite.a.02
+en	ADJ	first.a.01
+sista	ADJ	last.a.02
+mellanliggande	ADJ	intermediate.a.01
+slutlig	ADJ	terminal.a.03	ultimate.a.01
+böjlig	ADJ	flexible.a.02
+stel	ADJ	rigid.a.04
+anpasslig	ADJ	adaptable.a.01
+infödd	ADJ	native.a.02
+inhemsk	ADJ	domestic.a.01
+oförglömlig	ADJ	unforgettable.a.01
+formell	ADJ	formal.a.01	formal.a.03
+informell	ADJ	informal.a.01	informal.a.03
+olycklig	ADJ	unfortunate.a.01
+väldoftande	ADJ	fragrant.a.01
+fri	ADJ	free.a.01
+frekvent	ADJ	frequent.a.01
+färsk	ADJ	fresh.a.01
+salt	ADJ	salty.a.02
+vänlig	ADJ	friendly.a.01
+fientlig	ADJ	hostile.a.02	hostile.a.01
+frusen	ADJ	frozen.a.01
+full	ADJ	full.a.01
+tom	ADJ	empty.a.01
+på_heltid	ADJ	full-time.a.01
+på_deltid	ADJ	part-time.a.01
+funktionell	ADJ	functional.a.01
+omöblerad	ADJ	unfurnished.a.01
+federal	ADJ	federal.a.04	federal.a.02
+frikostig	ADJ	generous.a.02
+autentisk	ADJ	genuine.a.01
+begåvad	ADJ	talented.a.01
+ärofull	ADJ	glorious.a.01
+snöplig	ADJ	inglorious.a.02
+avig	ADJ	awkward.a.02
+successiv	ADJ	gradual.a.01	gradual.a.02
+plötslig	ADJ	sudden.a.01
+brant	ADJ	steep.a.01
+tacksam	ADJ	grateful.a.01
+otacksam	ADJ	ungrateful.a.01
+lycklig	ADJ	happy.a.01
+hård	ADJ	hard.a.03	tough.a.03	tough.a.01
+mjuk	ADJ	soft.a.01	soft.a.03	soft.a.06
+hjärtlös	ADJ	hardhearted.a.01
+försupen	ADJ	alcoholic.a.01
+tung	ADJ	heavy.a.01	major.a.02	major.a.07
+tyngdlös	ADJ	weightless.a.01
+hjälpsam	ADJ	helpful.a.01
+homosexuell	ADJ	homosexual.a.01
+låg	ADJ	low.a.02
+hög	ADJ	high.a.01
+bortrest	ADJ	away.a.02
+ärlig	ADJ	honest.a.01
+förtvivlad	ADJ	inconsolable.a.01
+vågrät	ADJ	horizontal.a.01
+vertikal	ADJ	vertical.a.01
+het	ADJ	hot.a.01	hot.a.03
+kall	ADJ	cold.a.01	cold.a.02
+humoristisk	ADJ	humorous.a.01
+hungrig	ADJ	hungry.a.01
+törstig	ADJ	thirsty.a.02
+subjektiv	ADJ	immanent.a.01	subjective.a.01
+imponerande	ADJ	impressive.a.01
+strikt	ADJ	nonindulgent.a.01
+industriell	ADJ	industrial.a.02	industrial.a.01
+à_jour	ADJ	informed.a.01
+bebodd	ADJ	inhabited.a.01
+hämmad	ADJ	inhibited.a.01
+förorättad	ADJ	injured.a.01
+oskyldig	ADJ	innocent.a.01	pure.a.06
+lärorik	ADJ	instructive.a.01
+integrerande	ADJ	integrated.a.03
+intelligent	ADJ	intelligent.a.01
+obegriplig	ADJ	unintelligible.a.01
+avsiktlig	ADJ	designed.a.01
+intresserad	ADJ	interested.a.01
+ointresserad	ADJ	uninterested.a.01
+intressant	ADJ	interesting.a.01
+ointressant	ADJ	uninteresting.a.01
+glad	ADJ	glad.a.01
+ledsen	ADJ	sad.a.01
+saftig	ADJ	juicy.a.01
+snäll	ADJ	kind.a.01	nice.a.01
+bekant	ADJ	known.a.01
+stor	ADJ	large.a.01
+liten	ADJ	small.a.01
+rättmätig	ADJ	lawful.a.01
+gisten	ADJ	leaky.a.01
+laglig	ADJ	legal.a.01
+olaglig	ADJ	illegal.a.01
+olik	ADJ	unlike.a.01	unlike.a.02
+lik	ADJ	alike.a.01
+sannolik	ADJ	likely.a.01	probable.a.01
+osannolik	ADJ	unlikely.a.02	improbable.a.01
+obegränsad	ADJ	unlimited.a.01
+bokstavlig	ADJ	literal.a.03
+live	ADJ	live.a.01
+barhuvad	ADJ	hatless.a.01
+logisk	ADJ	logical.a.01
+kortkort	ADJ	mini.a.01
+lång	ADJ	long.a.02	long.a.01	tall.a.01
+kort	ADJ	short.a.02	short.a.01
+lös	ADJ	loose.a.03
+snäv	ADJ	tight.a.01
+borttappad	ADJ	lost.a.01
+vilsen	ADJ	lost.a.03
+högljudd	ADJ	loud.a.01
+lyckosam	ADJ	lucky.a.02
+fatal	ADJ	unlucky.a.01
+smärre	ADJ	minor.a.02
+manlig	ADJ	male.a.01
+fjärrstyrd	ADJ	unmanned.a.01
+obemannad	ADJ	unmanned.a.01
+gift	ADJ	married.a.01	marital.a.01
+ogift	ADJ	unmarried.a.01
+kvinnlig	ADJ	womanly.a.01
+mogen	ADJ	mature.a.03	ripe.a.01
+omogen	ADJ	green.a.03
+säsongsmässig	ADJ	seasonal.a.01
+maximal	ADJ	maximal.a.01
+minimal	ADJ	minimal.a.01
+meningsfull	ADJ	meaningful.a.01
+meningslös	ADJ	meaningless.a.01
+mekanisk	ADJ	mechanical.a.01
+musikalisk	ADJ	musical.a.02
+likvid	ADJ	melted.a.01	liquid.a.01
+mild	ADJ	mild.a.01
+intensiv	ADJ	intense.a.01
+civil	ADJ	civilian.a.01
+rörlig	ADJ	mobile.a.02
+orörlig	ADJ	immobile.a.01
+portabel	ADJ	portable.a.01
+omåttlig	ADJ	immoderate.a.01
+modern	ADJ	modern.a.01
+sedesam	ADJ	modest.a.04
+molekylär	ADJ	molecular.a.02
+omskriven	ADJ	much.a.01
+odödlig	ADJ	immortal.a.01
+rörande	ADJ	moving.a.02
+internationell	ADJ	international.a.01
+artificiell	ADJ	artificial.a.01
+övernaturlig	ADJ	supernatural.a.01
+nödvändig	ADJ	necessary.a.01
+onödig	ADJ	unnecessary.a.01
+hemsk	ADJ	nasty.a.01
+ädel	ADJ	noble.a.03	noble.a.02
+normal	ADJ	normal.a.01
+abnorm	ADJ	abnormal.a.01
+nordlig	ADJ	north.a.01
+lydig	ADJ	obedient.a.01
+olydig	ADJ	disobedient.a.01
+beskäftig	ADJ	obtrusive.a.01
+saklig	ADJ	objective.a.01
+uppenbar	ADJ	obvious.a.01
+anstötlig	ADJ	offensive.a.05
+offensiv	ADJ	offensive.a.02
+defensiv	ADJ	defensive.a.01
+officiell	ADJ	official.a.01
+inbiten	ADJ	confirmed.a.02
+beskaffad	ADJ	established.a.01
+etablerad	ADJ	established.a.01
+lärd	ADJ	conditioned.a.01
+ny	ADJ	new.a.01	new.a.06
+gammal	ADJ	old.a.01
+sluten	ADJ	shut.a.01
+öppen	ADJ	open.a.02	overt.a.01
+solbränd	ADJ	tanned.a.02
+opportun	ADJ	opportune.a.01
+motstridig	ADJ	opposed.a.01
+motsatt	ADJ	opposite.a.02
+optimistisk	ADJ	optimistic.a.01
+pessimistisk	ADJ	pessimistic.a.01
+muntlig	ADJ	oral.a.03	verbal.a.04
+inrutad	ADJ	structured.a.01
+enastående	ADJ	extraordinary.a.01
+organisk	ADJ	organic.a.02
+ursprunglig	ADJ	original.a.03
+ortodox	ADJ	orthodox.a.02
+utomhus	ADJ	outdoor.a.01
+inomhus	ADJ	indoor.a.01
+bar	ADJ	bare.a.04
+kal	ADJ	leafless.a.01
+plågsam	ADJ	painful.a.01
+handgriplig	ADJ	palpable.a.01
+parallell	ADJ	parallel.a.01
+oförlåtlig	ADJ	inexcusable.a.01
+förälderlig	ADJ	parental.a.02
+passionerad	ADJ	passionate.a.01
+förfluten	ADJ	past.a.01
+nuvarande	ADJ	present.a.01
+boren	ADJ	born.a.01
+tålmodig	ADJ	patient.a.01
+otålig	ADJ	impatient.a.01
+fredlig	ADJ	peaceful.a.01
+fridfull	ADJ	peaceful.a.01
+omärklig	ADJ	imperceptible.a.01
+perfekt	ADJ	perfect.a.01
+förgänglig	ADJ	perishable.a.01
+permanent	ADJ	permanent.a.01
+temporär	ADJ	impermanent.a.01
+ihärdig	ADJ	persistent.a.03
+oåterkallelig	ADJ	irrevocable.a.01
+otillåtlig	ADJ	inadmissible.a.01
+preventiv	ADJ	preventive.a.02
+personlig	ADJ	personal.a.01
+opersonlig	ADJ	impersonal.a.01
+ogenomtränglig	ADJ	impenetrable.a.01
+fysisk	ADJ	physical.a.01
+religiös	ADJ	religious.a.02
+redig	ADJ	plain.a.03	plain.a.02
+planlös	ADJ	unplanned.a.01	random.a.01
+utstuderad	ADJ	studied.a.01
+angenäm	ADJ	pleasant.a.01
+obehaglig	ADJ	unpleasant.a.01
+missbelåten	ADJ	displeased.a.01
+menlös	ADJ	pointless.a.01
+polerad	ADJ	polished.a.01
+politisk	ADJ	political.a.01
+populär	ADJ	popular.a.01
+impopulär	ADJ	unpopular.a.01
+neutral	ADJ	neutral.a.04
+negativ	ADJ	negative.a.05	negative.a.04
+positiv	ADJ	positive.a.04
+omöjlig	ADJ	impossible.a.01
+stark	ADJ	potent.a.03
+viril	ADJ	potent.a.04
+mäktig	ADJ	powerful.a.01
+maktlös	ADJ	powerless.a.01
+inflytelserik	ADJ	influential.a.01
+praktisk	ADJ	practical.a.01
+opraktisk	ADJ	impractical.a.01
+utvecklingsstörd	ADJ	retarded.a.01
+förutsägbar	ADJ	predictable.a.01
+oberäknelig	ADJ	unpredictable.a.01
+överlagd	ADJ	premeditated.a.01
+närvarande	ADJ	present.a.02
+frånvarande	ADJ	absent.a.01
+primär	ADJ	primary.a.01
+sekundär	ADJ	secondary.a.01
+fundamental	ADJ	basic.a.01
+offentlig	ADJ	public.a.01
+exklusiv	ADJ	exclusive.a.02
+privilegierad	ADJ	privileged.a.01
+improduktiv	ADJ	unproductive.a.01
+produktiv	ADJ	generative.a.01
+djupsinnig	ADJ	profound.a.01
+progressiv	ADJ	progressive.a.01
+passande	ADJ	proper.a.01
+retrospektiv	ADJ	retrospective.a.01
+stolt	ADJ	proud.a.01
+punktlig	ADJ	punctual.a.01
+målmedveten	ADJ	purposeful.a.01
+diskutabel	ADJ	questionable.a.01
+tyst	ADJ	quiet.a.02
+bullrig	ADJ	noisy.a.01
+vilsam	ADJ	restful.a.01
+stillsam	ADJ	quiet.a.01
+rationell	ADJ	rational.a.01	rational.a.03
+känslomässig	ADJ	emotional.a.01
+rasmässig	ADJ	racial.a.02
+verklig	ADJ	real.a.01
+realistisk	ADJ	realistic.a.01	realistic.a.03
+orealistisk	ADJ	unrealistic.a.01
+rimlig	ADJ	reasonable.a.01
+ömsesidig	ADJ	reciprocal.a.01
+obearbetad	ADJ	unrefined.a.01
+ordinarie	ADJ	regular.a.01
+enhetlig	ADJ	uniform.a.01
+periodisk	ADJ	periodic.a.01
+besläktad	ADJ	related.a.02	related.a.01
+relevant	ADJ	relevant.a.01
+ovidkommande	ADJ	irrelevant.a.01
+oersättlig	ADJ	irreplaceable.a.01
+representativ	ADJ	representative.a.02
+oförsonlig	ADJ	irreconcilable.a.01
+oemotståndlig	ADJ	irresistible.a.01
+anständig	ADJ	respectable.a.01
+vanvördig	ADJ	disrespectful.a.01
+ansvarig	ADJ	responsible.a.01
+ohämmad	ADJ	unrestrained.a.01
+oinskränkt	ADJ	unrestricted.a.01
+restriktiv	ADJ	restrictive.a.01
+revolutionär	ADJ	revolutionary.a.04
+rytmisk	ADJ	rhythmical.a.01
+rik	ADJ	rich.a.01
+fattig	ADJ	poor.a.03
+högerhänt	ADJ	right-handed.a.01
+vänsterhänt	ADJ	left-handed.a.01
+vänster	ADJ	left.a.04
+orätt	ADJ	wrong.a.02
+rund	ADJ	round.a.01
+fyrkantig	ADJ	square.a.01
+helig	ADJ	holy.a.01
+sakral	ADJ	sacred.a.01
+sadistisk	ADJ	sadistic.a.01
+farlig	ADJ	dangerous.a.01
+andfådd	ADJ	out.a.01
+annan	ADJ	other.a.01
+omättlig	ADJ	insatiate.a.01
+tillfredsställande	ADJ	satisfactory.a.01
+otillfredsställande	ADJ	unsatisfactory.a.01
+vetenskaplig	ADJ	scientific.a.02	scientific.a.01
+skrupelfri	ADJ	unscrupulous.a.01
+hemlig	ADJ	concealed.a.02
+bestickande	ADJ	seductive.a.01
+osjälvisk	ADJ	unselfish.a.01
+senior	ADJ	senior.a.01
+junior	ADJ	junior.a.01
+känslig	ADJ	sensitive.a.02
+separat	ADJ	separate.a.01
+gemensam	ADJ	joint.a.01
+sanitär	ADJ	sanitary.a.01
+antiseptisk	ADJ	antiseptic.a.01
+allvarlig	ADJ	unplayful.a.01
+bosatt	ADJ	resident.a.01	living.a.01
+sexuell	ADJ	sexual.a.02	sexual.a.01
+kortsynt	ADJ	nearsighted.a.01
+krympfri	ADJ	unshrinkable.a.01
+blind	ADJ	blind.a.01
+betydande	ADJ	significant.a.01
+invecklad	ADJ	complex.a.01
+multipel	ADJ	multiple.a.01
+skicklig	ADJ	skilled.a.01
+matematisk	ADJ	numerical.a.03	mathematical.a.01
+skrovlig	ADJ	coarse.a.01	rough.a.01
+fin	ADJ	fine.a.05
+rökig	ADJ	smoky.a.01
+halkig	ADJ	slippery.a.01
+slät	ADJ	smooth.a.01
+stenig	ADJ	rough.a.09
+social	ADJ	social.a.02
+sällskaplig	ADJ	gregarious.a.01	sociable.a.01
+fast	ADJ	solid.a.02
+solid	ADJ	solid.a.03
+ihålig	ADJ	hollow.a.01
+besluten	ADJ	solved.a.01
+olöst	ADJ	unsolved.a.01
+sofistikerad	ADJ	sophisticated.a.01
+sund	ADJ	sound.a.03
+spontan	ADJ	spontaneous.a.01
+skriftlig	ADJ	written.a.01
+oskriven	ADJ	unwritten.a.01
+stabil	ADJ	stable.a.01
+labil	ADJ	unstable.a.01
+standard	ADJ	standard.a.01
+stadig	ADJ	steady.a.01
+rät	ADJ	straight.a.08
+buktig	ADJ	curved.a.01
+rak	ADJ	straight.a.06
+svag	ADJ	weak.a.01
+envis	ADJ	stubborn.a.01
+spak	ADJ	docile.a.01
+lyckad	ADJ	successful.a.01
+misslyckad	ADJ	unsuccessful.a.01
+tillräcklig	ADJ	sufficient.a.01
+sliskig	ADJ	sugary.a.01
+överlägsen	ADJ	superior.a.01
+överkomlig	ADJ	surmountable.a.01
+förvånad	ADJ	surprised.a.01
+överraskande	ADJ	surprising.a.01
+söt	ADJ	sweet.a.01
+sur	ADJ	sour.a.02
+svuren	ADJ	sworn.a.02
+symmetrisk	ADJ	symmetrical.a.01
+sympatisk	ADJ	sympathetic.a.04
+systematisk	ADJ	systematic.a.01	taxonomic.a.01
+taktlös	ADJ	tactless.a.01
+vild	ADJ	wild.a.02	wild.a.01
+god	ADJ	tasty.a.01
+spänd	ADJ	tense.a.03	tense.a.01
+avspänd	ADJ	relaxed.a.01
+tjock	ADJ	thick.a.01	thick.a.03
+otänkbar	ADJ	unthinkable.a.01
+oekonomisk	ADJ	wasteful.a.02
+proper	ADJ	tidy.a.01
+otippad	ADJ	untipped.a.01
+trött	ADJ	tired.a.01
+utvilad	ADJ	rested.a.01
+tolerant	ADJ	tolerant.a.01
+intolerant	ADJ	intolerant.a.01
+tandad	ADJ	toothed.a.01
+mör	ADJ	tender.a.05
+öm	ADJ	tender.a.01
+giftig	ADJ	toxic.a.01
+sann	ADJ	true.a.01
+falsk	ADJ	false.a.01
+trovärdig	ADJ	trustworthy.a.01
+typisk	ADJ	typical.a.01
+facklig	ADJ	union.a.02
+enig	ADJ	united.a.01
+nere	ADJ	down.a.01
+nyttig	ADJ	useful.a.01
+värdelös	ADJ	useless.a.01
+giltig	ADJ	valid.a.01
+ogiltig	ADJ	invalid.a.01
+värdefull	ADJ	valuable.a.01
+omväxlande	ADJ	varied.a.01
+oantastlig	ADJ	inviolable.a.01
+våldsam	ADJ	violent.a.01
+synlig	ADJ	visible.a.01
+frivillig	ADJ	voluntary.a.01	voluntary.a.02
+sårbar	ADJ	vulnerable.a.01
+varm	ADJ	warm.a.01	warm.a.02
+sval	ADJ	cool.a.01	cool.a.04
+välkommen	ADJ	welcome.a.01
+frisk	ADJ	well.a.01
+sjuk	ADJ	ill.a.01
+våt	ADJ	wet.a.01
+torr	ADJ	dry.a.01
+trång	ADJ	narrow.a.01
+tungrodd	ADJ	unwieldy.a.01
+bevingad	ADJ	winged.a.01
+klok	ADJ	wise.a.01
+enfaldig	ADJ	foolish.a.01
+världslig	ADJ	worldly.a.01
+sliten	ADJ	worn.a.01
+värdig	ADJ	worthy.a.01
+fasetterad	ADJ	faceted.a.01
+framträdande	ADJ	salient.a.02
+retroaktiv	ADJ	retroactive.a.01
+akademisk	ADJ	academic.a.01
+apokalyptisk	ADJ	apocalyptic.a.02
+arkeologisk	ADJ	archaeological.a.01
+välvd	ADJ	arched.a.01
+välvillig	ADJ	benevolent.a.01
+binär	ADJ	binary.a.01
+karcinogen	ADJ	carcinogenic.a.01
+räntabel	ADJ	interest-bearing.a.01
+medborgerlig	ADJ	civil.a.04	civic.a.01
+kommunal	ADJ	municipal.a.01
+avtalsenlig	ADJ	contractual.a.01
+maktfullkomlig	ADJ	dictatorial.a.01
+digital	ADJ	digital.a.01
+dramatisk	ADJ	dramatic.a.03
+ekonomisk	ADJ	economic.a.02
+elektronisk	ADJ	electronic.a.01	electronic.a.02
+statisk	ADJ	electrostatic.a.01
+elementär	ADJ	elementary.a.02
+feodal	ADJ	feudal.a.01
+febrig	ADJ	febrile.a.01
+febril	ADJ	febrile.a.01
+blommig	ADJ	flowery.a.01
+fossil	ADJ	fossil.a.01
+genetisk	ADJ	genetic.a.04
+gemytlig	ADJ	genial.a.02
+mänsklig	ADJ	human.a.01
+ideell	ADJ	ideal.a.03
+ideologisk	ADJ	ideological.a.01
+immun	ADJ	immune.a.01
+kejserlig	ADJ	imperial.a.01
+rättslig	ADJ	judicial.a.03	judicial.a.02
+militär	ADJ	military.a.01
+svulstig	ADJ	pompous.a.02
+pragmatisk	ADJ	pragmatic.a.02
+rabiat	ADJ	rabid.a.01
+romantisk	ADJ	romantic.a.01
+agrikulturell	ADJ	agricultural.a.01
+lantlig	ADJ	rural.a.02
+scenisk	ADJ	scenic.a.02
+solar	ADJ	solar.a.01
+sportslig	ADJ	sporting.a.02
+lagstadgad	ADJ	statutory.a.01
+teknisk	ADJ	technical.a.01
+lynnig	ADJ	temperamental.a.01
+totalitär	ADJ	totalitarian.a.02
+urban	ADJ	urban.a.01
+legislativ	ADJ	legislative.a.01
+litterär	ADJ	literary.a.01
+pneumatisk	ADJ	pneumatic.a.01
+professionell	ADJ	professional.a.04
+yrkesmässig	ADJ	vocational.a.01
+spatial	ADJ	spatial.a.01
+semantisk	ADJ	semantic.a.01
+finansiell	ADJ	fiscal.a.01
+filosofisk	ADJ	philosophic.a.01
+fenomenal	ADJ	phenomenal.a.01
+patologisk	ADJ	pathological.a.01
+possessiv	ADJ	possessive.a.01
+metafysisk	ADJ	metaphysical.a.01
+akustisk	ADJ	acoustic.a.01
+visuell	ADJ	ocular.a.02
+skir	ADJ	ethereal.a.02
+regional	ADJ	regional.a.01
+burlesk	ADJ	burlesque.a.01
+venerisk	ADJ	genital.a.01
+kontinental	ADJ	continental.a.03
+marin	ADJ	marine.a.01
+sysselsättningsmässig	ADJ	occupational.a.01
+dokumentär	ADJ	documentary.a.01
+strukturell	ADJ	structural.a.02
+psykisk	ADJ	mental.a.02
+kulturell	ADJ	cultural.a.01
+administrativ	ADJ	administrative.a.01
+nervös	ADJ	nervous.a.03
+geologisk	ADJ	geological.a.01
+statistisk	ADJ	statistical.a.01
+psykiatrisk	ADJ	psychiatric.a.01
+terapeutisk	ADJ	therapeutic.a.02
+dermatologisk	ADJ	dermatologic.a.01
+huslig	ADJ	domestic.a.02
+historisk	ADJ	historical.a.01
+magnetisk	ADJ	magnetic.a.01
+tropisk	ADJ	tropical.a.02
+experimentell	ADJ	experimental.a.01
+miljömässig	ADJ	environmental.a.01
+traumatisk	ADJ	traumatic.a.01
+pedagogisk	ADJ	educational.a.01
+förhistorisk	ADJ	prehistoric.a.02
+pluralistisk	ADJ	pluralistic.a.01
+fysiologisk	ADJ	physiological.a.01
+strategisk	ADJ	strategic.a.01
+kronologisk	ADJ	chronological.a.01
+tragisk	ADJ	tragic.a.02
+barock	ADJ	baroque.a.02
+diagnostisk	ADJ	diagnostic.a.01
+sinnlig	ADJ	carnal.a.02
+kvantitativ	ADJ	quantitative.a.02
+nasal	ADJ	rhinal.a.01
+aerodynamisk	ADJ	aerodynamic.a.01
+presidentmässig	ADJ	presidential.a.01
+korporativ	ADJ	corporate.a.01
+nationell	ADJ	national.a.01
+medeltida	ADJ	medieval.a.01
+konstnärlig	ADJ	artistic.a.01
+heraldisk	ADJ	heraldic.a.02
+humanitär	ADJ	humanitarian.a.02
+självlärd	ADJ	autodidactic.a.01
+operationell	ADJ	operational.a.01
+episk	ADJ	epic.a.02
+exekutiv	ADJ	executive.a.01
+ordblind	ADJ	dyslexic.a.01
+byråkratisk	ADJ	bureaucratic.a.01
+katalytisk	ADJ	catalytic.a.01
+skrynkelfri	ADJ	creaseproof.a.01
+tvärvetenskaplig	ADJ	interdisciplinary.a.01
+ortopedisk	ADJ	orthopedic.a.01
+bostadsmässig	ADJ	residential.a.02
+spastisk	ADJ	spastic.a.01
+fylld	ADJ	filled.a.02
+skickad	ADJ	fitted.a.01
+förutfattad	ADJ	preconceived.a.01

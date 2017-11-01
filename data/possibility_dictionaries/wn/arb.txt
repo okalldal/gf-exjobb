@@ -17068,687 +17068,687 @@ S	NOUN	sulfur.n.01
 أصاء	VERB	shine.v.02
 شعّ	VERB	radiate.v.01
 هبّ	VERB	blow.v.02
-قادِر	ADJ	able.a.01	capable.a.01	able.a.01	capable.a.01
-مُخْتصر	ADJ	abridged.a.01	abridged.a.01
-مُلخّص	ADJ	abridged.a.01	abridged.a.01
-مُوْجز	ADJ	abridged.a.01	abridged.a.01
-وَجِيْز	ADJ	abridged.a.01	abridged.a.01
-ماصْ	ADJ	absorbent.a.01	absorbent.a.01
-مصّاص	ADJ	absorbent.a.01	absorbent.a.01
-مُمْتصْ	ADJ	absorbent.a.01	absorbent.a.01
-مُجرّد	ADJ	abstract.a.01	abstract.a.01
-نظرِي	ADJ	abstract.a.01	abstract.a.01
-مُتعوِّد	ADJ	accustomed.a.01	accustomed.a.01
-حامِضِيّ	ADJ	acidic.a.01	acidic.a.01
-حمْضِيّ	ADJ	acidic.a.01	acidic.a.01
-قاعِدِيّ	ADJ	alkaline.a.01	alkaline.a.01
-قلوِيّ	ADJ	alkaline.a.01	alkaline.a.01
-نشِط	ADJ	active.a.05	active.a.05
-جائِز	ADJ	potential.a.01	possible.a.01	potential.a.01	possible.a.01
-مُحْتمل	ADJ	potential.a.01	likely.a.01	possible.a.01	potential.a.01	likely.a.01	possible.a.01
-مُمْكِن	ADJ	potential.a.01	possible.a.01	potential.a.01	possible.a.01
-ميِّت	ADJ	dead.a.01	dead.a.01
-حانِق	ADJ	angry.a.01	angry.a.01
-غاضِب	ADJ	angry.a.01	angry.a.01
-حيّ	ADJ	animate.a.02	living.a.01	animate.a.02	living.a.01
-برْمائِيّ	ADJ	amphibious.a.02	amphibious.a.01	amphibious.a.02	amphibious.a.01
-مُسلّح	ADJ	armed.a.01	armed.a.01
-أعْزل	ADJ	unarmed.a.01	unarmed.a.01
-مُدرّع	ADJ	armored.a.01	armored.a.01
-مُصفّح	ADJ	armored.a.01	armored.a.01
-مُطمْئِن	ADJ	reassuring.a.01	reassuring.a.01
-جمِيل	ADJ	beautiful.a.01	beautiful.a.01
-قبِيح	ADJ	ugly.a.01	ugly.a.01
-أبْيض	ADJ	white.a.02	white.a.01	white.a.02	white.a.01
-قوْقازِي	ADJ	white.a.02	white.a.02
-طبقة_مُتوسِّطة	ADJ	middle-class.a.01	middle-class.a.01
-تنفُّسِي	ADJ	breathing.a.01	breathing.a.01
-مُتنفِّس	ADJ	breathing.a.01	breathing.a.01
-مُحطّم	ADJ	broken.a.01	broken.a.01
-مكْسُور	ADJ	broken.a.01	broken.a.01
-حذِر	ADJ	careful.a.01	careful.a.01
-مُنْتبِه	ADJ	careful.a.01	careful.a.01
-عَاشِب	ADJ	herbivorous.a.01	herbivorous.a.01
-سببِي	ADJ	causative.a.01	causative.a.01
-قانُونِيّ	ADJ	certified.a.01	certified.a.01
-مُجاز	ADJ	certified.a.01	certified.a.01
-مُعْتمد	ADJ	certified.a.01	certified.a.01
-لوْنِي	ADJ	chromatic.a.03	chromatic.a.03
-مُلوّن	ADJ	chromatic.a.03	color.a.01	chromatic.a.03	color.a.01
-أسْود	ADJ	black.a.01	black.a.01
-داكِن	ADJ	dark.a.02	dark.a.02
-قاتِم	ADJ	dark.a.02	dark.a.02
-مُظْلِم	ADJ	dark.a.02	dark.a.02
-مُعًتِم	ADJ	dark.a.02	dark.a.02
-طاهِر	ADJ	clean.a.01	clean.a.01
-نظِيف	ADJ	clean.a.01	clean.a.01
-بعِيد	ADJ	far.a.01	distant.a.01	far.a.01	distant.a.01
-قرِيب	ADJ	near.a.01	near.a.01
-جماعِيّ	ADJ	collective.a.02	collective.a.02
-جمْعِيّ	ADJ	collective.a.02	collective.a.02
-مطْبُوع	ADJ	published.a.01	published.a.01
-منْشُور	ADJ	published.a.01	published.a.01
-غيْر_مطْبُوع	ADJ	unpublished.a.01	unpublished.a.01
-غيْر_منْشُور	ADJ	unpublished.a.01	unpublished.a.01
-مُدْمج	ADJ	combinative.a.01	combinative.a.01
-مُركّب	ADJ	combinative.a.01	combinative.a.01
-قابِل_للاٍحْتِراق	ADJ	combustible.a.01	combustible.a.01
-قابٍل_للاِشْتِعال	ADJ	combustible.a.01	combustible.a.01
-تِجارِيّ	ADJ	commercial.a.01	commercial.a.01
-غيْر_تِجاريّ	ADJ	noncommercial.a.01	noncommercial.a.01
-سكنِي	ADJ	residential.a.01	residential.a.01
-شائِع	ADJ	common.a.01	common.a.01
-عام	ADJ	common.a.01	general.a.01	general.a.04	common.a.01	general.a.01	general.a.04
-مُتداول	ADJ	common.a.01	common.a.01
-مُشْترك	ADJ	common.a.01	combined.a.01	corporate.a.01	common.a.01	combined.a.01	corporate.a.01
-فرْدِي	ADJ	individual.a.01	odd.a.01	individual.a.01	odd.a.01
-مُلْتزِم	ADJ	committed.a.01	committed.a.01
-قلِق	ADJ	concerned.a.01	uneasy.a.01	concerned.a.01	uneasy.a.01
-مُتّصِل	ADJ	connected.a.02	connected.a.02
-فاقِد_الوعِي	ADJ	unconscious.a.01	unconscious.a.01
-مُحافِظ	ADJ	conservative.a.01	conservative.a.01
-مُقاوِم_للتغْييِر	ADJ	conservative.a.01	conservative.a.01
-تحرُّريّ	ADJ	liberal.a.03	liberal.a.03
-حُرّ	ADJ	liberal.a.03	free.a.02	free.a.01	liberal.a.03	free.a.02	free.a.01
-لِيبراليّ	ADJ	liberal.a.03	liberal.a.03
-مُتحرِّر	ADJ	liberal.a.03	liberal.a.03
-مُتتابِع	ADJ	continued.a.01	continued.a.01
-مُتواصِل	ADJ	continued.a.01	continued.a.01
-مُسْتمِرّ	ADJ	continued.a.01	continued.a.01
-غيْر_تقْلِيدي	ADJ	unconventional.a.02	unconventional.a.02
-غيْر_شائِع	ADJ	unconventional.a.02	unconventional.a.02
-غيْر_عادي	ADJ	unconventional.a.02	unconventional.a.02
-ذرِّي	ADJ	nuclear.a.01	nuclear.a.01
-نووِي	ADJ	nuclear.a.01	nuclear.a.01
-مطْبُوخ	ADJ	cooked.a.01	cooked.a.01
-مطْهِي	ADJ	cooked.a.01	cooked.a.01
-تعاوُنِي	ADJ	cooperative.a.02	cooperative.a.02
-ماذِّي	ADJ	material.a.02	material.a.02
-بدنِي	ADJ	corporeal.a.01	corporeal.a.01
-جِسْمانِي	ADJ	corporeal.a.01	corporeal.a.01
-مادِّي	ADJ	corporeal.a.01	corporeal.a.01
-صحِيح	ADJ	correct.a.01	right.a.04	true.a.01	correct.a.01	right.a.04	true.a.01
-صادِق	ADJ	right.a.05	right.a.05
-حاسِم	ADJ	critical.a.06	critical.a.06
-حرِج	ADJ	critical.a.06	critical.a.02	critical.a.06	critical.a.02
-خَطِر	ADJ	critical.a.06	dangerous.a.01	critical.a.06	dangerous.a.01
-خَطِير	ADJ	critical.a.06	critical.a.06
-مُبلْور	ADJ	crystallized.a.01	crystallized.a.01
-فُضُولِيّ	ADJ	curious.a.02	curious.a.02
-تالِف	ADJ	damaged.a.01	damaged.a.01
-مُتضرِّر	ADJ	damaged.a.01	damaged.a.01
-معْطُوب	ADJ	damaged.a.01	damaged.a.01
-عمِيق	ADJ	deep.a.03	deep.a.01	deep.a.03	deep.a.01
-ضحْل	ADJ	shallow.a.01	shallow.a.01
-سطْحي	ADJ	shallow.a.02	shallow.a.02
-حالِي	ADJ	de_facto.a.01	de_facto.a.01
-فٍعْلِيّ	ADJ	de_facto.a.01	de_facto.a.01
-وَاقِعِيّ	ADJ	de_facto.a.01	de_facto.a.01
-قابِل_للكسْر	ADJ	breakable.a.01	breakable.a.01
-هشّ	ADJ	breakable.a.01	breakable.a.01
-غيْر_قابِل_لِلْكسْر	ADJ	unbreakable.a.01	unbreakable.a.01
-مُسْتحِيل_الكسْر	ADJ	unbreakable.a.01	unbreakable.a.01
-دِيْمُقْراطِي	ADJ	democratic.a.01	democratic.a.01
-صعْب	ADJ	difficult.a.01	difficult.a.01
-سهْل	ADJ	easy.a.01	easy.a.01
-مُباشر	ADJ	direct.a.01	direct.a.01
-مُثِير	ADJ	lively.a.01	lively.a.01
-مُفْعم_بِالحياة	ADJ	lively.a.01	living.a.01	lively.a.01	living.a.01
-مُتحمِّس	ADJ	eager.a.01	eager.a.01
-مُتلهِّف	ADJ	eager.a.01	eager.a.01
-باكِر	ADJ	early.a.01	early.a.01
-مُبكِّر	ADJ	early.a.01	early.a.01
-عصبِي	ADJ	uneasy.a.01	uneasy.a.01
-مُحْرج	ADJ	uneasy.a.01	uneasy.a.01
-مُضْطرِب	ADJ	uneasy.a.01	uneasy.a.01
-شرْقِيّ	ADJ	east.a.01	east.a.01
-مشْرِقِي	ADJ	east.a.01	east.a.01
-غرْباً	ADJ	west.a.01	west.a.01
-غرْبِيّ	ADJ	western.a.01	western.a.01
-صالِح_لِلْأكْل	ADJ	edible.a.01	edible.a.01
-مُتعِلِّم	ADJ	educated.a.01	educated.a.01
-مُسْتخْدم	ADJ	applied.a.01	used.a.01	applied.a.01	used.a.01
-مُطبّق	ADJ	applied.a.01	applied.a.01
-بطّال	ADJ	unemployed.a.01	unemployed.a.01
-عاطِل	ADJ	unemployed.a.01	unemployed.a.01
-عاطِل_عن_العمل	ADJ	unemployed.a.01	unemployed.a.01
-غيْر_عامِل	ADJ	unemployed.a.01	unemployed.a.01
-ماصّ_لِلْطّاقة	ADJ	endoergic.a.01	endoergic.a.01
-مُطْلِق_لِلْطاقة	ADJ	exoergic.a.01	exoergic.a.01
-زَائِد	ADJ	increased.a.01	increased.a.01
-مُتزايِد	ADJ	increased.a.01	increasing.a.01	increased.a.01	increasing.a.01
-مُخفّض	ADJ	decreased.a.01	decreased.a.01
-ناقِص	ADJ	decreased.a.01	decreased.a.01
-توّاق	ADJ	desirous.a.01	desirous.a.01
-راغِب_ب	ADJ	desirous.a.01	desirous.a.01
-مُتكافِئ	ADJ	equal.a.01	equal.a.01
-مُساو	ADJ	equal.a.01	equal.a.01
-مُعادِل	ADJ	equal.a.01	equal.a.01
-مُماثِل	ADJ	equal.a.01	like.a.02	equal.a.01	like.a.02
-زَوْجِي	ADJ	even.a.01	even.a.01
-باطِنِيّ	ADJ	internal.a.01	internal.a.01
-داخِلِي	ADJ	internal.a.01	internal.a.01
-سرِيع	ADJ	fast.a.01	fast.a.01
-بدِين	ADJ	fat.a.01	fat.a.01
-سمِين	ADJ	fatty.a.01	fatty.a.01
-مُحدّد	ADJ	finite.a.01	known.a.01	finite.a.01	known.a.01
-مُقيّد	ADJ	finite.a.01	listed.a.01	finite.a.01	listed.a.01
-مُنْتهٍ	ADJ	finite.a.01	finite.a.01
-أوّل	ADJ	first.a.01	first.a.01
-أُولى	ADJ	first.a.01	first.a.01
-آخِر	ADJ	last.a.02	last.a.02
-أخِير	ADJ	last.a.02	last.a.02
-مُتوسِّط	ADJ	intermediate.a.01	intermediate.a.01
-مُسْتقِيم	ADJ	straight.a.03	straight.a.02	straight.a.08	straight.a.03	straight.a.02	straight.a.08
-أجْنبِي	ADJ	foreign.a.01	foreign.a.01
-خَارِجِي	ADJ	foreign.a.01	foreign.a.01
-رسْمِي	ADJ	formal.a.01	formal.a.01
-مُرْتبِط	ADJ	bound.a.02	bound.a.02
-طلِيق	ADJ	free.a.06	free.a.06
-مُتجمِّد	ADJ	frozen.a.01	frozen.a.01
-مُجمّد	ADJ	frozen.a.01	frozen.a.01
-خَاوٍ	ADJ	empty.a.01	empty.a.01
-فارِغ	ADJ	empty.a.01	empty.a.01
-تفرُّغ_تام	ADJ	full-time.a.01	full-time.a.01
-دوام_كامِل	ADJ	full-time.a.01	full-time.a.01
-دوام_جُزْئي	ADJ	part-time.a.01	part-time.a.01
-غيْر_مُتفرّغ	ADJ	part-time.a.01	part-time.a.01
-نِصْف_تفرّثغ	ADJ	part-time.a.01	part-time.a.01
-لانوْعِيّ	ADJ	nonspecific.a.01	nonspecific.a.01
-قوْمِي	ADJ	national.a.03	national.a.03
-وَطَنِي	ADJ	national.a.03	national.a.03
-غيرُ_مُسجّلِ	ADJ	nonproprietary.a.01	nonproprietary.a.01
-غيرُ_مُسجّلِ_المِلْكِيّة	ADJ	nonproprietary.a.01	nonproprietary.a.01
-مُسجّل	ADJ	proprietary.a.01	listed.a.01	proprietary.a.01	listed.a.01
-مُسَجَّل	ADJ	proprietary.a.01	proprietary.a.01
-مُسجّلُ_المِلْكِيّة	ADJ	proprietary.a.01	proprietary.a.01
-سعِيد	ADJ	happy.a.01	glad.a.01	happy.a.01	glad.a.01
-صلْب	ADJ	hard.a.03	solid.a.02	hard.a.03	solid.a.02
-قاسٍ	ADJ	hard.a.03	hard.a.03
-رخْو	ADJ	soft.a.01	soft.a.01
-ليِّن	ADJ	soft.a.01	soft.a.01
-ثقِيل	ADJ	heavy.a.02	heavy.a.02
-زَائِد_الوَزْن	ADJ	heavy.a.02	heavy.a.02
-شدِيد	ADJ	heavy.a.02	intense.a.01	heavy.a.02	intense.a.01
-ضخْم	ADJ	heavy.a.02	heavy.a.02
-وَافِر	ADJ	heavy.a.02	heavy.a.02
-أُفُقِي	ADJ	horizontal.a.01	horizontal.a.01
-رأسِي	ADJ	vertical.a.01	vertical.a.01
-عمُودِي	ADJ	vertical.a.01	vertical.a.01
-مُتعامِد	ADJ	vertical.a.01	vertical.a.01
-ساخِن	ADJ	hot.a.01	hot.a.03	hot.a.01	hot.a.03
-بارِد	ADJ	cold.a.01	cold.a.02	cold.a.01	cold.a.02
-فاتِر	ADJ	cold.a.02	spiritless.a.01	cold.a.02	spiritless.a.01
-آدَمِي	ADJ	human.a.03	human.a.02	human.a.03	human.a.02
-إِنْسانِي	ADJ	human.a.03	human.a.01	human.a.03	human.a.01
-بشرِي	ADJ	human.a.03	human.a.03
-مُثبّطة	ADJ	inhibited.a.01	inhibited.a.01
-مكْبُوت	ADJ	inhibited.a.01	inhibited.a.01
-مكْبُوح	ADJ	inhibited.a.01	inhibited.a.01
-جانٍ	ADJ	guilty.a.01	guilty.a.01
-مُجْرِم	ADJ	guilty.a.01	guilty.a.01
-مُذْنِب	ADJ	guilty.a.01	guilty.a.01
-مُتّحِد	ADJ	combined.a.01	corporate.a.01	combined.a.01	corporate.a.01
-عقْلِيّ	ADJ	intellectual.a.02	mental.a.02	intellectual.a.02	mental.a.02
-فِكْرِيّ	ADJ	intellectual.a.02	intellectual.a.02
-راغِب	ADJ	interested.a.01	willing.a.01	interested.a.01	willing.a.01
-مُهْتم	ADJ	interested.a.01	interested.a.01
-فرِح	ADJ	glad.a.01	glad.a.01
-مُبْتهِج	ADJ	glad.a.01	glad.a.01
-مسْرُور	ADJ	glad.a.01	glad.a.01
-معْرُوف	ADJ	known.a.01	known.a.01
-كبِير	ADJ	large.a.01	large.a.01
-دقِيق	ADJ	small.a.01	small.a.01
-مِجْهرِي	ADJ	small.a.01	small.a.01
-أضْخم	ADJ	greater.a.01	greater.a.01
-أعْظم	ADJ	greater.a.01	greater.a.01
-قانُونِي	ADJ	legal.a.01	legal.a.01
-مِثْل	ADJ	like.a.02	like.a.02
-مُرادِف	ADJ	like.a.02	like.a.02
-مُساوٍ	ADJ	like.a.02	like.a.02
-مُكافِئ	ADJ	like.a.02	like.a.02
-نفْس	ADJ	like.a.02	like.a.02
-مُتوقّع	ADJ	likely.a.01	likely.a.01
-مِن_المُحْتمل	ADJ	likely.a.01	likely.a.01
-غيْر_مُحْتمل	ADJ	unlikely.a.02	unlikely.a.02
-مِن_غيْر_المُحْتمل	ADJ	unlikely.a.02	unlikely.a.02
-مُدْرج	ADJ	listed.a.01	listed.a.01
-مُلقّم	ADJ	loaded.a.02	loaded.a.02
-غيْر_مُلقّم	ADJ	unloaded.a.01	unloaded.a.01
-ذكرِي	ADJ	male.a.01	male.a.01
-مُذّكّر	ADJ	male.a.01	male.a.01
-أنْثوِي	ADJ	female.a.01	female.a.01
-مُؤنّت	ADJ	female.a.01	female.a.01
-ثُنائي_الجِنْس	ADJ	androgynous.a.02	androgynous.a.02
-خُنْثَوِيّ	ADJ	androgynous.a.02	androgynous.a.02
-مُتزوِّج	ADJ	married.a.01	married.a.01
-مُكْتمِل	ADJ	mature.a.03	mature.a.03
-ناضِج	ADJ	mature.a.03	mature.a.03
-غيْر_ناضِج	ADJ	immature.a.04	immature.a.04
-مُذاب	ADJ	melted.a.01	melted.a.01
-مُذوّب	ADJ	melted.a.01	melted.a.01
-مُسال	ADJ	melted.a.01	melted.a.01
-مُسيّل	ADJ	melted.a.01	melted.a.01
-مُميّع	ADJ	melted.a.01	melted.a.01
-مُتورِّط	ADJ	involved.a.01	involved.a.01
-مُشْترِك	ADJ	involved.a.01	involved.a.01
-عسْكرِيّ	ADJ	military.a.03	military.a.01	military.a.03	military.a.01
-مدنِيّ	ADJ	civilian.a.01	civilian.a.01
-عسْكرِي	ADJ	military.a.02	military.a.02
-غيْر_عسْكرِيّ	ADJ	unmilitary.a.01	unmilitary.a.01
-معْدنِي	ADJ	metallic.a.01	metallic.a.01
-حدِيث	ADJ	modern.a.01	modern.a.01
-أخْلاقِي	ADJ	moral.a.01	moral.a.01
-عدِيد	ADJ	many.a.01	many.a.01
-كثِير	ADJ	many.a.01	many.a.01
-مُتعدِّد	ADJ	many.a.01	many.a.01
-مُتحرِّك	ADJ	moving.a.01	motional.a.01	moving.a.01	motional.a.01
-قارِّي	ADJ	continental.a.04	continental.a.04
-أساسِي	ADJ	necessary.a.01	necessary.a.01
-ضرُورِي	ADJ	necessary.a.01	necessary.a.01
-فرِض	ADJ	necessary.a.01	necessary.a.01
-لازِم	ADJ	necessary.a.01	necessary.a.01
-مُتطلّب	ADJ	necessary.a.01	necessary.a.01
-مُهِم	ADJ	necessary.a.01	necessary.a.01
-وَاجِب	ADJ	necessary.a.01	necessary.a.01
-طبِيعِيّ	ADJ	normal.a.01	normal.a.01
-عادِيّ	ADJ	normal.a.01	normal.a.01
-قِياسِيّ	ADJ	normal.a.01	mensural.a.01	normal.a.01	mensural.a.01
-نِظامِيّ	ADJ	normal.a.01	regular.a.08	normal.a.01	regular.a.08
-شمالِيّ	ADJ	north.a.01	north.a.01
-جنُوبِيّ	ADJ	south.a.01	south.a.01
-شمالِي	ADJ	northern.a.01	northern.a.01
-جنُوبِي	ADJ	southern.a.01	southern.a.01
-جلِيّ	ADJ	noticed.a.01	noticed.a.01
-مُلاحظ	ADJ	noticed.a.01	noticed.a.01
-ملْحُوظ	ADJ	noticed.a.01	noticed.a.01
-شخْصِي	ADJ	subjective.a.01	subjective.a.01
-غيْر_موْضُوعِي	ADJ	subjective.a.01	subjective.a.01
-رسْمِيّ	ADJ	official.a.01	official.a.01
-جدِيد	ADJ	new.a.01	original.a.03	new.a.01	original.a.03
-حدث	ADJ	young.a.01	young.a.01
-شاب	ADJ	young.a.01	young.a.01
-ناشِئ	ADJ	young.a.01	young.a.01
-يَافِع	ADJ	young.a.01	young.a.01
-تشْغِيلِي	ADJ	operational.a.03	operational.a.03
-جاهِز_لِلْعمل	ADJ	operational.a.03	operational.a.03
-مُعد_لِلْتنْفِيذ	ADJ	operational.a.03	operational.a.03
-مُعد_لِلْعملِيّات_الحرْبِيّة	ADJ	operational.a.03	operational.a.03
-غيْر_مُعد_لِلْعملِيّات_الحرْبِيّة	ADJ	nonoperational.a.01	nonoperational.a.01
-عُضْوِي	ADJ	organic.a.01	organic.a.02	organic.a.01	organic.a.02
-عُضْوِيّ	ADJ	organic.a.02	organic.a.02
-أصْلِي	ADJ	original.a.03	original.a.03
-أصِيْل	ADJ	original.a.03	original.a.03
-مُبْتكر	ADJ	original.a.03	original.a.03
-مُحجّب	ADJ	covered.a.01	covered.a.01
-مسْتُور	ADJ	covered.a.01	covered.a.01
-مُغطّى	ADJ	covered.a.01	covered.a.01
-مكْسُو	ADJ	covered.a.01	covered.a.01
-مدْفُوع	ADJ	paid.a.01	paid.a.01
-غيْر_مدْفُوع	ADJ	unpaid.a.01	unpaid.a.01
-مُحْزِن	ADJ	painful.a.01	painful.a.01
-مقِيت	ADJ	painful.a.01	painful.a.01
-مُوجِع	ADJ	painful.a.01	painful.a.01
-مُؤْلِم	ADJ	painful.a.01	painful.a.01
-مُتوازِي	ADJ	parallel.a.01	parallel.a.01
-مُحاذِي	ADJ	parallel.a.01	parallel.a.01
-مُواز	ADJ	parallel.a.01	parallel.a.01
-ماضِي	ADJ	past.a.01	past.a.01
-مُسْتقْبل	ADJ	future.a.01	future.a.01
-موْلُود	ADJ	born.a.01	born.a.01
-وِقَائِي	ADJ	preventive.a.02	preventive.a.02
-سِياسِي	ADJ	political.a.01	political.a.01
-قويّ	ADJ	potent.a.03	strong.a.01	potent.a.03	strong.a.01
-جبّار	ADJ	powerful.a.01	powerful.a.01
-عظِيم	ADJ	powerful.a.01	powerful.a.01
-قوِيّ	ADJ	powerful.a.01	powerful.a.01
-خِصْب	ADJ	productive.a.01	productive.a.01
-غزِير_الإِنْتاج	ADJ	productive.a.01	productive.a.01
-مُنْتِج	ADJ	productive.a.01	productive.a.01
-وَافِر_الإِنْتَاج	ADJ	productive.a.01	productive.a.01
-غيْر_خِصْب	ADJ	unproductive.a.01	unproductive.a.01
-غيْر_غزِير_الإِنْتاج	ADJ	unproductive.a.01	unproductive.a.01
-غيْرمُنْتِج	ADJ	unproductive.a.01	unproductive.a.01
-غيْر_وافِر_الإِنْتاج	ADJ	unproductive.a.01	unproductive.a.01
-اِحْتِرافِيّ	ADJ	professional.a.01	professional.a.01
-حِرفِيّ	ADJ	professional.a.01	professional.a.01
-مُحْترِف	ADJ	professional.a.01	professional.a.01
-مسْلكِيّ	ADJ	professional.a.01	professional.a.01
-مِهْنِيّ	ADJ	professional.a.01	occupational.a.01	professional.a.01	occupational.a.01
-فخُور	ADJ	proud.a.01	proud.a.01
-مُعْتزّ	ADJ	proud.a.01	proud.a.01
-مُفْتخِر	ADJ	proud.a.01	proud.a.01
-نوْعِي	ADJ	qualitative.a.01	qualitative.a.01
-كمّي	ADJ	quantitative.a.01	quantitative.a.01
-مِقْدارِي	ADJ	quantitative.a.01	quantitative.a.01
-اِنْفِعالِيّ	ADJ	emotional.a.01	emotional.a.01
-عاطِفِيّ	ADJ	emotional.a.01	emotional.a.03	emotional.a.01	emotional.a.03
-تفاعُلِيّ	ADJ	reactive.a.01	reactive.a.01
-مُتفاعِل	ADJ	reactive.a.01	reactive.a.01
-غيْر_مُتفاعِل	ADJ	unreactive.a.01	unreactive.a.01
-لاتفاعُلي	ADJ	unreactive.a.01	unreactive.a.01
-حقِيقِي	ADJ	real.a.01	true.a.01	real.a.01	true.a.01
-وَاقِعِي	ADJ	real.a.01	real.a.01
-مُعالج	ADJ	treated.a.01	treated.a.01
-غيْرُ_مُعالج	ADJ	untreated.a.02	untreated.a.02
-مطْلُوب	ADJ	requested.a.01	wanted.a.01	requested.a.01	wanted.a.01
-منْشُود	ADJ	requested.a.01	sought.a.01	requested.a.01	sought.a.01
-سلِيم	ADJ	right.a.04	right.a.04
-صائِب	ADJ	right.a.04	right.a.04
-قوِيم	ADJ	right.a.04	right.a.04
-خَاطِئ	ADJ	wrong.a.02	false.a.01	wrong.a.02	false.a.01
-طالِح	ADJ	wrong.a.02	wrong.a.02
-غيْر_صالِح	ADJ	wrong.a.02	wrong.a.02
-غيْر_مُناسِب	ADJ	wrong.a.02	wrong.a.02
-فاسِد	ADJ	wrong.a.02	wrong.a.02
-مُخالِف	ADJ	wrong.a.02	wrong.a.02
-دائِرِي	ADJ	round.a.01	round.a.01
-كُروِي	ADJ	round.a.01	round.a.01
-مبْرُوم	ADJ	round.a.01	round.a.01
-مُدوّر	ADJ	round.a.01	round.a.01
-مُسْتدِير	ADJ	round.a.01	round.a.01
-مُكوّر	ADJ	round.a.01	round.a.01
-آمِن	ADJ	safe.a.01	safe.a.01
-رائِج	ADJ	salable.a.01	salable.a.01
-قابِل_للْبيْع	ADJ	salable.a.01	salable.a.01
-كاسِد	ADJ	unsalable.a.01	unsalable.a.01
-ذاته	ADJ	same.a.01	same.a.01
-عيْنه	ADJ	same.a.01	same.a.01
-نفْسه	ADJ	same.a.01	same.a.01
-عِلْمي	ADJ	scientific.a.02	scientific.a.01	scientific.a.02	scientific.a.01
-مُسْتقِلّ	ADJ	separate.a.01	separate.a.01
-مُنْفصِل	ADJ	separate.a.01	separate.a.01
-مُخْتار	ADJ	selected.a.01	selected.a.01
-مُنْتخب	ADJ	selected.a.01	selected.a.01
-مُنْتقًى	ADJ	selected.a.01	selected.a.01
-لاتزاوُجِي	ADJ	asexual.a.01	asexual.a.01
-لاجِنْسِي	ADJ	asexual.a.01	asexual.a.01
-بارِع	ADJ	skilled.a.01	skilled.a.01
-ماهِر	ADJ	skilled.a.01	skilled.a.01
-مُتمرِّس	ADJ	skilled.a.01	skilled.a.01
-مُتمكِّن	ADJ	skilled.a.01	skilled.a.01
-أمْلس	ADJ	smooth.a.01	smooth.a.01
-ناعِم	ADJ	smooth.a.01	smooth.a.01
-مُباع	ADJ	sold.a.01	sold.a.01
-مبِيع	ADJ	sold.a.01	sold.a.01
-جامِد	ADJ	solid.a.02	solid.a.02
-سائِل	ADJ	liquid.a.01	liquid.a.01
-مائِع	ADJ	liquid.a.01	liquid.a.01
-غازِيّ	ADJ	gaseous.a.01	gaseous.a.01
-ذَوَّاب	ADJ	soluble.a.01	soluble.a.01
-قابلٌ_للذوَبان	ADJ	soluble.a.01	soluble.a.01
-مُفْعم_بِالحيوِيّة	ADJ	spirited.a.01	spirited.a.01
-نشِيط	ADJ	spirited.a.01	spirited.a.01
-خَائِر	ADJ	spiritless.a.01	spiritless.a.01
-وَاهِن	ADJ	spiritless.a.01	spiritless.a.01
-كِتابِيّ	ADJ	written.a.01	written.a.01
-مخْطُوط	ADJ	written.a.01	written.a.01
-مُدوّن	ADJ	written.a.01	written.a.01
-مكْتُوب	ADJ	written.a.01	written.a.01
-مُؤلّف	ADJ	written.a.01	written.a.01
-مُنْدهِش	ADJ	surprised.a.01	surprised.a.01
-مُتزامِن	ADJ	synchronous.a.01	synchronous.a.01
-عالِي	ADJ	tall.a.01	tall.a.01
-مادِّيّ	ADJ	tangible.a.03	tangible.a.03
-طيِّب_المذاق	ADJ	tasteful.a.01	tasteful.a.01
-لذِيذ	ADJ	tasteful.a.01	tasteful.a.01
-لذِيذ_الطّعْم	ADJ	tasteful.a.01	tasteful.a.01
-ملْمُوس	ADJ	touched.a.01	haptic.a.01	touched.a.01	haptic.a.01
-ممْسُوس	ADJ	touched.a.01	touched.a.01
-زَائِف	ADJ	false.a.01	false.a.01
-مُزوّر	ADJ	false.a.01	false.a.01
-مُضلِّل	ADJ	false.a.01	false.a.01
-مُنْقسِم	ADJ	divided.a.01	divided.a.01
-قلْب_المدِينة	ADJ	downtown.a.01	downtown.a.01
-وَسَط_البَلَد	ADJ	downtown.a.01	downtown.a.01
-وَسَطَ_المَدِينَة	ADJ	downtown.a.01	downtown.a.01
-مُسْتعْمل	ADJ	used.a.01	used.a.01
-مُسْتغلّ	ADJ	used.a.01	used.a.01
-فقارِيّ	ADJ	vertebrate.a.01	vertebral.a.01	vertebrate.a.01	vertebral.a.01
-فِقْرِي	ADJ	vertebrate.a.01	vertebrate.a.01
-لافقارِيّ	ADJ	invertebrate.a.01	invertebrate.a.01
-طيّار	ADJ	volatile.a.01	volatile.a.01
-مُتطايِر	ADJ	volatile.a.01	volatile.a.01
-اِخْتِيارِي	ADJ	voluntary.a.01	voluntary.a.01
-تطوُّعِي	ADJ	voluntary.a.01	voluntary.a.01
-طوْعِي	ADJ	voluntary.a.01	voluntary.a.01
-مُبْتغى	ADJ	wanted.a.01	wanted.a.01
-مُراد	ADJ	wanted.a.01	wanted.a.01
-ثابِث_الحرارة	ADJ	warm-blooded.a.01	warm-blooded.a.01
-ذُو_دمّ_حار	ADJ	warm-blooded.a.01	warm-blooded.a.01
-بارِد_الدّم	ADJ	cold-blooded.a.02	cold-blooded.a.02
-مُتغيِّر_الحرارة	ADJ	cold-blooded.a.02	cold-blooded.a.02
-مُتناقِص	ADJ	decreasing.a.01	decreasing.a.01
-مرِيض	ADJ	ill.a.01	ill.a.01
-رطِب	ADJ	wet.a.01	wet.a.01
-مُبْتلّ	ADJ	wet.a.01	wet.a.01
-مُبلّل	ADJ	wet.a.01	wet.a.01
-مبْلُول	ADJ	wet.a.01	wet.a.01
-جاف	ADJ	dry.a.01	dry.a.01
-قاحِل	ADJ	dry.a.01	dry.a.01
-مُجْدِب	ADJ	dry.a.01	dry.a.01
-مُسْتعِدّ	ADJ	willing.a.01	willing.a.01
-أكادِيمِي	ADJ	academic.a.01	academic.a.01
-جامِعِي	ADJ	academic.a.01	academic.a.01
-عامِل	ADJ	agential.a.01	agential.a.01
-شبِيه_بِالطحْلب	ADJ	algoid.a.01	algoid.a.01
-طحْلبانِي	ADJ	algoid.a.01	algoid.a.01
-اِرْتِفاعِيّ	ADJ	altitudinal.a.01	altitudinal.a.01
-تحْلِيلِي	ADJ	analytic.a.01	analytic.a.01
-مُتعلِق_ب_كاسِياتِ_البُذور	ADJ	angiospermous.a.01	angiospermous.a.01
-مائِيّ	ADJ	aqueous.a.01	aqueous.a.01
-عنْكبُوتِي	ADJ	arachnoid.a.01	arachnoid.a.01
-مساحِي	ADJ	areal.a.01	areal.a.01
-مفْصِلِي	ADJ	arthropodal.a.01	arthropodal.a.01
-طيْرِيّ	ADJ	avian.a.01	avian.a.01
-بكْتِيرِي	ADJ	bacteroidal.a.01	bacteroidal.a.01
-جُرْثُومِي	ADJ	bacteroidal.a.01	bacteroidal.a.01
-أحْيائِي	ADJ	biological.a.01	biological.a.01
-بيُولُوجِي	ADJ	biological.a.01	biological.a.01
-حيوِي	ADJ	biological.a.01	biological.a.01
-حرارِي	ADJ	caloric.a.02	caloric.a.02
-سُعْرِي	ADJ	caloric.a.02	caloric.a.02
-كلْبِيّ	ADJ	canine.a.02	canine.a.02
-آكِل_اللُحُوم	ADJ	carnivorous.a.01	carnivorous.a.01
-لاحِم	ADJ	carnivorous.a.01	carnivorous.a.01
-خَلَوِي	ADJ	cellular.a.01	cellular.a.01
-كِيْماوِي	ADJ	chemical.a.01	chemical.a.01
-كِيْميائِي	ADJ	chemical.a.01	chemical.a.01
-حبْلِي	ADJ	chordate.a.01	chordate.a.01
-حبْلِيّات	ADJ	chordate.a.01	chordate.a.01
-ذو_حبْل_ظهْرِي	ADJ	chordate.a.01	chordate.a.01
-سِينمائِي	ADJ	cinematic.a.01	cinematic.a.01
-مدنِي	ADJ	civic.a.01	civic.a.01
-مدِينِي	ADJ	civic.a.01	civic.a.01
-بلدِيّ	ADJ	municipal.a.01	municipal.a.01
-محلّي	ADJ	municipal.a.01	municipal.a.01
-تعاقُدِي	ADJ	contractual.a.01	contractual.a.01
-طبْخِيّ	ADJ	culinary.a.01	culinary.a.01
-طهْوِيّ	ADJ	culinary.a.01	culinary.a.01
-اِقْتِصادِي	ADJ	economic.a.02	economic.a.02
-إِنْتِخابِي	ADJ	electoral.a.01	electoral.a.01
-عُنْصُرِيّ	ADJ	elemental.a.01	elemental.a.01
-ساعِيّ	ADJ	horary.a.01	horary.a.01
-كل_ساعة	ADJ	horary.a.01	horary.a.01
-اِنْسانِي	ADJ	human.a.02	human.a.02
-بشرِيّ	ADJ	human.a.02	human.a.02
-صِناعِي	ADJ	industrial.a.01	industrial.a.01
-إِسْتِنْتاجِي	ADJ	inferential.a.01	inferential.a.01
-جزِيرِيّ	ADJ	insular.a.01	insular.a.01
-طِبِّيّ	ADJ	medical.a.01	medical.a.01
-حرْبِي	ADJ	military.a.01	military.a.01
-وِلَادِي	ADJ	natal.a.01	natal.a.01
-عددِيّ	ADJ	numeral.a.01	numeral.a.01
-خَاص_بالشَمّ	ADJ	olfactory.a.01	olfactory.a.01
-شمّيّ	ADJ	olfactory.a.01	olfactory.a.01
-موْضِعِي	ADJ	positional.a.01	positional.a.01
-موْقِعِي	ADJ	positional.a.01	positional.a.01
-برُتِيْنِي	ADJ	proteinaceous.a.01	proteinaceous.a.01
-شبِيْه_بالبروتين	ADJ	proteinaceous.a.01	proteinaceous.a.01
-حِسّي	ADJ	sensational.a.03	sensational.a.03
-رِياضِيّ	ADJ	sportive.a.01	sporting.a.02	sportive.a.01	sporting.a.02
-ضاحِوِيّ	ADJ	suburban.a.01	suburban.a.01
-ضاحِيِي	ADJ	suburban.a.01	suburban.a.01
-حرارِيّ	ADJ	thermal.a.01	thermal.a.01
-فِعْلِي	ADJ	verbal.a.03	verbal.a.03
-شفهِي	ADJ	verbal.a.02	verbal.a.02
-كلامِي	ADJ	verbal.a.02	verbal.a.02
-لفْظِي	ADJ	verbal.a.02	verbal.a.02
-كهْربائِي	ADJ	electrical.a.01	electrical.a.01
-كهْربِيّ	ADJ	electrical.a.01	electrical.a.01
-أدبِيّ	ADJ	literary.a.01	literary.a.01
-حشرِيّ	ADJ	insectan.a.01	insectan.a.01
-ثدْيِيّ	ADJ	mammalian.a.01	mammalian.a.01
-سمكِيّ	ADJ	piscine.a.01	piscine.a.01
-زَاحِف	ADJ	reptilian.a.01	reptilian.a.01
-زَاحِفِي	ADJ	reptilian.a.01	reptilian.a.01
-طُحْلُبِيّ	ADJ	algal.a.01	algal.a.01
-فُطْرِيّ	ADJ	fungal.a.01	fungal.a.01
-نباتِيّ	ADJ	plantal.a.01	plantal.a.01
-بكْتِيرِيّ	ADJ	bacterial.a.01	bacterial.a.01
-جُرْثُومِيّ	ADJ	bacterial.a.01	bacterial.a.01
-إِشْعاعِيّ	ADJ	radial.a.03	radio.a.01	radial.a.03	radio.a.01
-شُعاعِيّ	ADJ	radial.a.03	radial.a.03
-اِحْتِرافِي	ADJ	professional.a.02	professional.a.02
-مِهنِي	ADJ	professional.a.02	professional.a.02
-حيِّزِيّ	ADJ	spatial.a.01	spatial.a.01
-فضائِيّ	ADJ	spatial.a.01	spatial.a.01
-لِسانِيّ	ADJ	linguistic.a.01	linguistic.a.01
-لُغوِيّ	ADJ	linguistic.a.01	linguistic.a.01
-مُتعلِّق_بِيوْم_الأحد	ADJ	dominical.a.02	dominical.a.02
-مالِيّ	ADJ	fiscal.a.01	fiscal.a.01
-سِياسِيّ	ADJ	political.a.02	political.a.02
-ماخِض	ADJ	parturient.a.01	parturient.a.01
-مُتمخِض	ADJ	parturient.a.01	parturient.a.01
-مخاضِي	ADJ	parturient.a.01	parturient.a.01
-وِلادِي	ADJ	parturient.a.01	parturient.a.01
-ذرِّيّ	ADJ	nuclear.a.02	atomic.a.01	nuclear.a.02	atomic.a.01
-نووِيّ	ADJ	nuclear.a.02	nuclear.a.02
-حضرِيّ	ADJ	metropolitan.a.01	metropolitan.a.01
-مُوسِيقِيّ	ADJ	musical.a.01	musical.a.01
-سمْعِيّ	ADJ	auditory.a.01	auditory.a.01
-ذوْقِي	ADJ	gustatory.a.01	gustatory.a.01
-لمْسِيّ	ADJ	haptic.a.01	haptic.a.01
-بصرِي	ADJ	ocular.a.02	ocular.a.02
-عيْنِيّ	ADJ	ocular.a.02	ocular.a.02
-فيْرُوسِي	ADJ	viral.a.01	viral.a.01
-سِنّوْرِيّ	ADJ	feline.a.01	feline.a.01
-مُتعلِّق_بالقِطط	ADJ	feline.a.01	feline.a.01
-هِرّيّ	ADJ	feline.a.01	feline.a.01
-عضلِيّ	ADJ	muscular.a.01	muscular.a.01
-أبوِيّ	ADJ	parental.a.01	parental.a.01
-دُون_الذّرِّيّ	ADJ	subatomic.a.01	subatomic.a.01
-سرِيرِيّ	ADJ	clinical.a.01	clinical.a.01
-قارِّيّ	ADJ	continental.a.03	continental.a.03
-مُعْجمِيّ	ADJ	lexical.a.01	lexical.a.01
-مُفْرداتِيّ	ADJ	lexical.a.01	lexical.a.01
-جِنْسِيّ	ADJ	sexual.a.01	sexual.a.01
-حيوانِي	ADJ	zoological.a.02	zoological.a.02
-مُؤسّسِيّ	ADJ	organizational.a.01	organizational.a.01
-ذِهْنِيّ	ADJ	mental.a.02	mental.a.02
-كُتْلٍي	ADJ	molar.a.03	molar.a.03
-جُزيْئي	ADJ	molecular.a.01	molecular.a.01
-إِدارِيّ	ADJ	administrative.a.01	managerial.a.01	administrative.a.01	managerial.a.01
-مُدِيرِيّ	ADJ	managerial.a.01	managerial.a.01
-لاهُوتِيّ	ADJ	theological.a.01	theological.a.01
-عِلاجِيّ	ADJ	therapeutic.a.02	therapeutic.a.02
-تارِيْخِي	ADJ	historical.a.01	historical.a.01
-كاثُولِيْكِي	ADJ	catholic.a.01	catholic.a.01
-نصِّيّ	ADJ	textual.a.01	textual.a.01
-أمْرِيكِيّ	ADJ	american.a.01	american.a.01
-أمِيركِيّ	ADJ	american.a.01	american.a.01
-قابِل_للقِسْمة	ADJ	rational.a.03	rational.a.03
-غيْر_قابِل_للقِسْمة	ADJ	irrational.a.02	irrational.a.02
-زَاوِيّ	ADJ	angular.a.01	angular.a.01
-هُرْمُونِيّ	ADJ	hormonal.a.01	hormonal.a.01
-هيْكلِيّ	ADJ	skeletal.a.01	skeletal.a.01
-نعْتِي	ADJ	adjectival.a.01	adjectival.a.01
-ظرْفِيّ	ADJ	adverbial.a.01	adverbial.a.01
-شكْلِيّ	ADJ	morphemic.a.01	morphemic.a.01
-صٍيغِيّ	ADJ	morphemic.a.01	morphemic.a.01
-تعْبِيرِيّ	ADJ	phrasal.a.01	phrasal.a.01
-لفْظِيّ	ADJ	phrasal.a.01	phrasal.a.01
-تحْرِيرِيّ	ADJ	scriptural.a.02	scriptural.a.02
-كِتابِي	ADJ	scriptural.a.02	scriptural.a.02
-اِخْتِبارِيّ	ADJ	experimental.a.01	experimental.a.01
-تجْرِيبِي	ADJ	experimental.a.01	experimental.a.01
-عائِلِيّ	ADJ	familial.a.01	familial.a.01
-تعْلِيمي	ADJ	educational.a.01	educational.a.01
-فِسْيُولُوجِيّ	ADJ	physiological.a.01	physiological.a.01
-وَظَائِفِيّ	ADJ	physiological.a.01	physiological.a.01
-أومِيّ	ADJ	ohmic.a.01	ohmic.a.01
-مُتعلِّق_بالموْت	ADJ	mortuary.a.01	mortuary.a.01
-موْتِيّ	ADJ	mortuary.a.01	mortuary.a.01
-مسِيْحِي	ADJ	christian.a.01	christian.a.01
-نصْرانِي	ADJ	christian.a.01	christian.a.01
-برُتِسْتانْتِي	ADJ	protestant.a.01	protestant.a.01
-تواصُلِي	ADJ	communicative.a.01	communicative.a.01
-إِيْطالِي	ADJ	italian.a.01	italian.a.01
-رُوسِيّ	ADJ	russian.a.01	russian.a.01
-ألْمانِيّ	ADJ	german.a.01	german.a.01
-جُرْمانِيّ	ADJ	german.a.01	german.a.01
-أُسِّي	ADJ	exponential.a.01	exponential.a.01
-دلِيْلِي	ADJ	exponential.a.01	exponential.a.01
-أورُبِّيّ	ADJ	european.a.01	european.a.01
-فلسْطِينِي	ADJ	palestinian.a.01	palestinian.a.01
-تشْخِيْصِي	ADJ	diagnostic.a.01	diagnostic.a.01
-كمِّيّ	ADJ	quantitative.a.02	quantitative.a.02
-وَطَائِيّ	ADJ	hypothalamic.a.01	hypothalamic.a.01
-حجْمِيّ	ADJ	volumetric.a.01	volumetric.a.01
-عُضْوانِي	ADJ	organismal.a.01	organismal.a.01
-اِصْطِِناعِيّ	ADJ	artifactual.a.01	artifactual.a.01
-قوْمِيّ	ADJ	national.a.01	national.a.01
-وَطَنِيّ	ADJ	national.a.01	national.a.01
-مُقارن	ADJ	comparative.a.01	comparative.a.01
-فنِّيّ	ADJ	artistic.a.01	artistic.a.01
-جُمْلِيّ	ADJ	sentential.a.01	sentential.a.01
-قِرْدِيّ	ADJ	simian.a.01	simian.a.01
-لُوغارِيتْمِي	ADJ	logarithmic.a.01	logarithmic.a.01
-لُوغارِيثْمِي	ADJ	logarithmic.a.01	logarithmic.a.01
-مِيزُونِي	ADJ	mesonic.a.01	mesonic.a.01
-جِرابِيّ	ADJ	marsupial.a.01	marsupial.a.01
-طبِيْعِي	ADJ	normative.a.01	normative.a.01
-مألُوف	ADJ	normative.a.01	normative.a.01
-تعهُّدِيّ	ADJ	promissory.a.01	promissory.a.01
-مُمغْطس	ADJ	paramagnetic.a.01	paramagnetic.a.01
-حركِي	ADJ	motional.a.01	motional.a.01
-إِنْجِلِيزِيّ	ADJ	english.a.01	english.a.01
-إِنْكِلِيزِيّ	ADJ	english.a.01	english.a.01
-إِيرْلنْدِي	ADJ	irish.a.01	irish.a.01
-إِنْزِيمِيّ	ADJ	enzymatic.a.01	enzymatic.a.01
-سِمْبتاوِيّ	ADJ	sympathetic.a.01	sympathetic.a.01
-وُدَّيّ	ADJ	sympathetic.a.01	sympathetic.a.01
-فِقرِيّ	ADJ	vertebral.a.01	vertebral.a.01
-أوّلِي	ADJ	prime.a.04	prime.a.04
-أَوَّلِي	ADJ	prime.a.04	prime.a.04
-عضلانِيّ	ADJ	myoid.a.01	myoid.a.01
-يَرَقَانِيّ	ADJ	larval.a.02	larval.a.02
-يَرَقِيّ	ADJ	larval.a.02	larval.a.02
-تصْنِيفِيّ	ADJ	classificatory.a.01	classificatory.a.01
-برِيْطانِيّ	ADJ	british.a.01	british.a.01
-ثُنَائِيَ_التَسْمِيَة	ADJ	binomial.a.01	binomial.a.01
-ذُو_حدّيْن	ADJ	binomial.a.01	binomial.a.01
-قَائِم_بَين_الأقْسام	ADJ	interdepartmental.a.01	interdepartmental.a.01
-ما_بَيْن_الأقْسام	ADJ	interdepartmental.a.01	interdepartmental.a.01
-هضْمِيّ	ADJ	digestive.a.01	digestive.a.01
-غُدّيّ	ADJ	glandular.a.01	glandular.a.01
-نامِ	ADJ	growing.a.01	growing.a.01
-معْدِنِي	ADJ	mineral.a.01	mineral.a.01
-اِحْتِمالِيّ	ADJ	probabilistic.a.02	probabilistic.a.02
-إِجْرائِيّ	ADJ	procedural.a.01	procedural.a.01
-إِعلانِي	ADJ	promotional.a.01	promotional.a.01
-ترْوِيْجِي	ADJ	promotional.a.01	promotional.a.01
-دِعائِي	ADJ	promotional.a.01	promotional.a.01
-تنفُّسِيّ	ADJ	respiratory.a.01	respiratory.a.01
-اِسْمِيّ	ADJ	substantival.a.01	substantival.a.01
-مُتعلِّق_بالرّقْص	ADJ	terpsichorean.a.01	terpsichorean.a.01
-منْسُوج	ADJ	textile.a.01	textile.a.01
-نسْجِيّ	ADJ	textile.a.01	textile.a.01
-فِيتْنامِي	ADJ	vietnamese.a.01	vietnamese.a.01
-عظْمِيّ	ADJ	osseous.a.01	osteal.a.01	osseous.a.01	osteal.a.01
-مُعظِّم	ADJ	ossiferous.a.01	ossiferous.a.01
-مأمُول	ADJ	sought.a.01	sought.a.01
-مُتوخّى	ADJ	sought.a.01	sought.a.01
+قادِر	ADJ	able.a.01	capable.a.01
+مُخْتصر	ADJ	abridged.a.01
+مُلخّص	ADJ	abridged.a.01
+مُوْجز	ADJ	abridged.a.01
+وَجِيْز	ADJ	abridged.a.01
+ماصْ	ADJ	absorbent.a.01
+مصّاص	ADJ	absorbent.a.01
+مُمْتصْ	ADJ	absorbent.a.01
+مُجرّد	ADJ	abstract.a.01
+نظرِي	ADJ	abstract.a.01
+مُتعوِّد	ADJ	accustomed.a.01
+حامِضِيّ	ADJ	acidic.a.01
+حمْضِيّ	ADJ	acidic.a.01
+قاعِدِيّ	ADJ	alkaline.a.01
+قلوِيّ	ADJ	alkaline.a.01
+نشِط	ADJ	active.a.05
+جائِز	ADJ	potential.a.01	possible.a.01
+مُحْتمل	ADJ	potential.a.01	likely.a.01	possible.a.01
+مُمْكِن	ADJ	potential.a.01	possible.a.01
+ميِّت	ADJ	dead.a.01
+حانِق	ADJ	angry.a.01
+غاضِب	ADJ	angry.a.01
+حيّ	ADJ	animate.a.02	living.a.01
+برْمائِيّ	ADJ	amphibious.a.02	amphibious.a.01
+مُسلّح	ADJ	armed.a.01
+أعْزل	ADJ	unarmed.a.01
+مُدرّع	ADJ	armored.a.01
+مُصفّح	ADJ	armored.a.01
+مُطمْئِن	ADJ	reassuring.a.01
+جمِيل	ADJ	beautiful.a.01
+قبِيح	ADJ	ugly.a.01
+أبْيض	ADJ	white.a.02	white.a.01
+قوْقازِي	ADJ	white.a.02
+طبقة_مُتوسِّطة	ADJ	middle-class.a.01
+تنفُّسِي	ADJ	breathing.a.01
+مُتنفِّس	ADJ	breathing.a.01
+مُحطّم	ADJ	broken.a.01
+مكْسُور	ADJ	broken.a.01
+حذِر	ADJ	careful.a.01
+مُنْتبِه	ADJ	careful.a.01
+عَاشِب	ADJ	herbivorous.a.01
+سببِي	ADJ	causative.a.01
+قانُونِيّ	ADJ	certified.a.01
+مُجاز	ADJ	certified.a.01
+مُعْتمد	ADJ	certified.a.01
+لوْنِي	ADJ	chromatic.a.03
+مُلوّن	ADJ	chromatic.a.03	color.a.01
+أسْود	ADJ	black.a.01
+داكِن	ADJ	dark.a.02
+قاتِم	ADJ	dark.a.02
+مُظْلِم	ADJ	dark.a.02
+مُعًتِم	ADJ	dark.a.02
+طاهِر	ADJ	clean.a.01
+نظِيف	ADJ	clean.a.01
+بعِيد	ADJ	far.a.01	distant.a.01
+قرِيب	ADJ	near.a.01
+جماعِيّ	ADJ	collective.a.02
+جمْعِيّ	ADJ	collective.a.02
+مطْبُوع	ADJ	published.a.01
+منْشُور	ADJ	published.a.01
+غيْر_مطْبُوع	ADJ	unpublished.a.01
+غيْر_منْشُور	ADJ	unpublished.a.01
+مُدْمج	ADJ	combinative.a.01
+مُركّب	ADJ	combinative.a.01
+قابِل_للاٍحْتِراق	ADJ	combustible.a.01
+قابٍل_للاِشْتِعال	ADJ	combustible.a.01
+تِجارِيّ	ADJ	commercial.a.01
+غيْر_تِجاريّ	ADJ	noncommercial.a.01
+سكنِي	ADJ	residential.a.01
+شائِع	ADJ	common.a.01
+عام	ADJ	common.a.01	general.a.01	general.a.04
+مُتداول	ADJ	common.a.01
+مُشْترك	ADJ	common.a.01	combined.a.01	corporate.a.01
+فرْدِي	ADJ	individual.a.01	odd.a.01
+مُلْتزِم	ADJ	committed.a.01
+قلِق	ADJ	concerned.a.01	uneasy.a.01
+مُتّصِل	ADJ	connected.a.02
+فاقِد_الوعِي	ADJ	unconscious.a.01
+مُحافِظ	ADJ	conservative.a.01
+مُقاوِم_للتغْييِر	ADJ	conservative.a.01
+تحرُّريّ	ADJ	liberal.a.03
+حُرّ	ADJ	liberal.a.03	free.a.02	free.a.01
+لِيبراليّ	ADJ	liberal.a.03
+مُتحرِّر	ADJ	liberal.a.03
+مُتتابِع	ADJ	continued.a.01
+مُتواصِل	ADJ	continued.a.01
+مُسْتمِرّ	ADJ	continued.a.01
+غيْر_تقْلِيدي	ADJ	unconventional.a.02
+غيْر_شائِع	ADJ	unconventional.a.02
+غيْر_عادي	ADJ	unconventional.a.02
+ذرِّي	ADJ	nuclear.a.01
+نووِي	ADJ	nuclear.a.01
+مطْبُوخ	ADJ	cooked.a.01
+مطْهِي	ADJ	cooked.a.01
+تعاوُنِي	ADJ	cooperative.a.02
+ماذِّي	ADJ	material.a.02
+بدنِي	ADJ	corporeal.a.01
+جِسْمانِي	ADJ	corporeal.a.01
+مادِّي	ADJ	corporeal.a.01
+صحِيح	ADJ	correct.a.01	right.a.04	true.a.01
+صادِق	ADJ	right.a.05
+حاسِم	ADJ	critical.a.06
+حرِج	ADJ	critical.a.06	critical.a.02
+خَطِر	ADJ	critical.a.06	dangerous.a.01
+خَطِير	ADJ	critical.a.06
+مُبلْور	ADJ	crystallized.a.01
+فُضُولِيّ	ADJ	curious.a.02
+تالِف	ADJ	damaged.a.01
+مُتضرِّر	ADJ	damaged.a.01
+معْطُوب	ADJ	damaged.a.01
+عمِيق	ADJ	deep.a.03	deep.a.01
+ضحْل	ADJ	shallow.a.01
+سطْحي	ADJ	shallow.a.02
+حالِي	ADJ	de_facto.a.01
+فٍعْلِيّ	ADJ	de_facto.a.01
+وَاقِعِيّ	ADJ	de_facto.a.01
+قابِل_للكسْر	ADJ	breakable.a.01
+هشّ	ADJ	breakable.a.01
+غيْر_قابِل_لِلْكسْر	ADJ	unbreakable.a.01
+مُسْتحِيل_الكسْر	ADJ	unbreakable.a.01
+دِيْمُقْراطِي	ADJ	democratic.a.01
+صعْب	ADJ	difficult.a.01
+سهْل	ADJ	easy.a.01
+مُباشر	ADJ	direct.a.01
+مُثِير	ADJ	lively.a.01
+مُفْعم_بِالحياة	ADJ	lively.a.01	living.a.01
+مُتحمِّس	ADJ	eager.a.01
+مُتلهِّف	ADJ	eager.a.01
+باكِر	ADJ	early.a.01
+مُبكِّر	ADJ	early.a.01
+عصبِي	ADJ	uneasy.a.01
+مُحْرج	ADJ	uneasy.a.01
+مُضْطرِب	ADJ	uneasy.a.01
+شرْقِيّ	ADJ	east.a.01
+مشْرِقِي	ADJ	east.a.01
+غرْباً	ADJ	west.a.01
+غرْبِيّ	ADJ	western.a.01
+صالِح_لِلْأكْل	ADJ	edible.a.01
+مُتعِلِّم	ADJ	educated.a.01
+مُسْتخْدم	ADJ	applied.a.01	used.a.01
+مُطبّق	ADJ	applied.a.01
+بطّال	ADJ	unemployed.a.01
+عاطِل	ADJ	unemployed.a.01
+عاطِل_عن_العمل	ADJ	unemployed.a.01
+غيْر_عامِل	ADJ	unemployed.a.01
+ماصّ_لِلْطّاقة	ADJ	endoergic.a.01
+مُطْلِق_لِلْطاقة	ADJ	exoergic.a.01
+زَائِد	ADJ	increased.a.01
+مُتزايِد	ADJ	increased.a.01	increasing.a.01
+مُخفّض	ADJ	decreased.a.01
+ناقِص	ADJ	decreased.a.01
+توّاق	ADJ	desirous.a.01
+راغِب_ب	ADJ	desirous.a.01
+مُتكافِئ	ADJ	equal.a.01
+مُساو	ADJ	equal.a.01
+مُعادِل	ADJ	equal.a.01
+مُماثِل	ADJ	equal.a.01	like.a.02
+زَوْجِي	ADJ	even.a.01
+باطِنِيّ	ADJ	internal.a.01
+داخِلِي	ADJ	internal.a.01
+سرِيع	ADJ	fast.a.01
+بدِين	ADJ	fat.a.01
+سمِين	ADJ	fatty.a.01
+مُحدّد	ADJ	finite.a.01	known.a.01
+مُقيّد	ADJ	finite.a.01	listed.a.01
+مُنْتهٍ	ADJ	finite.a.01
+أوّل	ADJ	first.a.01
+أُولى	ADJ	first.a.01
+آخِر	ADJ	last.a.02
+أخِير	ADJ	last.a.02
+مُتوسِّط	ADJ	intermediate.a.01
+مُسْتقِيم	ADJ	straight.a.03	straight.a.02	straight.a.08
+أجْنبِي	ADJ	foreign.a.01
+خَارِجِي	ADJ	foreign.a.01
+رسْمِي	ADJ	formal.a.01
+مُرْتبِط	ADJ	bound.a.02
+طلِيق	ADJ	free.a.06
+مُتجمِّد	ADJ	frozen.a.01
+مُجمّد	ADJ	frozen.a.01
+خَاوٍ	ADJ	empty.a.01
+فارِغ	ADJ	empty.a.01
+تفرُّغ_تام	ADJ	full-time.a.01
+دوام_كامِل	ADJ	full-time.a.01
+دوام_جُزْئي	ADJ	part-time.a.01
+غيْر_مُتفرّغ	ADJ	part-time.a.01
+نِصْف_تفرّثغ	ADJ	part-time.a.01
+لانوْعِيّ	ADJ	nonspecific.a.01
+قوْمِي	ADJ	national.a.03
+وَطَنِي	ADJ	national.a.03
+غيرُ_مُسجّلِ	ADJ	nonproprietary.a.01
+غيرُ_مُسجّلِ_المِلْكِيّة	ADJ	nonproprietary.a.01
+مُسجّل	ADJ	proprietary.a.01	listed.a.01
+مُسَجَّل	ADJ	proprietary.a.01
+مُسجّلُ_المِلْكِيّة	ADJ	proprietary.a.01
+سعِيد	ADJ	happy.a.01	glad.a.01
+صلْب	ADJ	hard.a.03	solid.a.02
+قاسٍ	ADJ	hard.a.03
+رخْو	ADJ	soft.a.01
+ليِّن	ADJ	soft.a.01
+ثقِيل	ADJ	heavy.a.02
+زَائِد_الوَزْن	ADJ	heavy.a.02
+شدِيد	ADJ	heavy.a.02	intense.a.01
+ضخْم	ADJ	heavy.a.02
+وَافِر	ADJ	heavy.a.02
+أُفُقِي	ADJ	horizontal.a.01
+رأسِي	ADJ	vertical.a.01
+عمُودِي	ADJ	vertical.a.01
+مُتعامِد	ADJ	vertical.a.01
+ساخِن	ADJ	hot.a.01	hot.a.03
+بارِد	ADJ	cold.a.01	cold.a.02
+فاتِر	ADJ	cold.a.02	spiritless.a.01
+آدَمِي	ADJ	human.a.03	human.a.02
+إِنْسانِي	ADJ	human.a.03	human.a.01
+بشرِي	ADJ	human.a.03
+مُثبّطة	ADJ	inhibited.a.01
+مكْبُوت	ADJ	inhibited.a.01
+مكْبُوح	ADJ	inhibited.a.01
+جانٍ	ADJ	guilty.a.01
+مُجْرِم	ADJ	guilty.a.01
+مُذْنِب	ADJ	guilty.a.01
+مُتّحِد	ADJ	combined.a.01	corporate.a.01
+عقْلِيّ	ADJ	intellectual.a.02	mental.a.02
+فِكْرِيّ	ADJ	intellectual.a.02
+راغِب	ADJ	interested.a.01	willing.a.01
+مُهْتم	ADJ	interested.a.01
+فرِح	ADJ	glad.a.01
+مُبْتهِج	ADJ	glad.a.01
+مسْرُور	ADJ	glad.a.01
+معْرُوف	ADJ	known.a.01
+كبِير	ADJ	large.a.01
+دقِيق	ADJ	small.a.01
+مِجْهرِي	ADJ	small.a.01
+أضْخم	ADJ	greater.a.01
+أعْظم	ADJ	greater.a.01
+قانُونِي	ADJ	legal.a.01
+مِثْل	ADJ	like.a.02
+مُرادِف	ADJ	like.a.02
+مُساوٍ	ADJ	like.a.02
+مُكافِئ	ADJ	like.a.02
+نفْس	ADJ	like.a.02
+مُتوقّع	ADJ	likely.a.01
+مِن_المُحْتمل	ADJ	likely.a.01
+غيْر_مُحْتمل	ADJ	unlikely.a.02
+مِن_غيْر_المُحْتمل	ADJ	unlikely.a.02
+مُدْرج	ADJ	listed.a.01
+مُلقّم	ADJ	loaded.a.02
+غيْر_مُلقّم	ADJ	unloaded.a.01
+ذكرِي	ADJ	male.a.01
+مُذّكّر	ADJ	male.a.01
+أنْثوِي	ADJ	female.a.01
+مُؤنّت	ADJ	female.a.01
+ثُنائي_الجِنْس	ADJ	androgynous.a.02
+خُنْثَوِيّ	ADJ	androgynous.a.02
+مُتزوِّج	ADJ	married.a.01
+مُكْتمِل	ADJ	mature.a.03
+ناضِج	ADJ	mature.a.03
+غيْر_ناضِج	ADJ	immature.a.04
+مُذاب	ADJ	melted.a.01
+مُذوّب	ADJ	melted.a.01
+مُسال	ADJ	melted.a.01
+مُسيّل	ADJ	melted.a.01
+مُميّع	ADJ	melted.a.01
+مُتورِّط	ADJ	involved.a.01
+مُشْترِك	ADJ	involved.a.01
+عسْكرِيّ	ADJ	military.a.03	military.a.01
+مدنِيّ	ADJ	civilian.a.01
+عسْكرِي	ADJ	military.a.02
+غيْر_عسْكرِيّ	ADJ	unmilitary.a.01
+معْدنِي	ADJ	metallic.a.01
+حدِيث	ADJ	modern.a.01
+أخْلاقِي	ADJ	moral.a.01
+عدِيد	ADJ	many.a.01
+كثِير	ADJ	many.a.01
+مُتعدِّد	ADJ	many.a.01
+مُتحرِّك	ADJ	moving.a.01	motional.a.01
+قارِّي	ADJ	continental.a.04
+أساسِي	ADJ	necessary.a.01
+ضرُورِي	ADJ	necessary.a.01
+فرِض	ADJ	necessary.a.01
+لازِم	ADJ	necessary.a.01
+مُتطلّب	ADJ	necessary.a.01
+مُهِم	ADJ	necessary.a.01
+وَاجِب	ADJ	necessary.a.01
+طبِيعِيّ	ADJ	normal.a.01
+عادِيّ	ADJ	normal.a.01
+قِياسِيّ	ADJ	normal.a.01	mensural.a.01
+نِظامِيّ	ADJ	normal.a.01	regular.a.08
+شمالِيّ	ADJ	north.a.01
+جنُوبِيّ	ADJ	south.a.01
+شمالِي	ADJ	northern.a.01
+جنُوبِي	ADJ	southern.a.01
+جلِيّ	ADJ	noticed.a.01
+مُلاحظ	ADJ	noticed.a.01
+ملْحُوظ	ADJ	noticed.a.01
+شخْصِي	ADJ	subjective.a.01
+غيْر_موْضُوعِي	ADJ	subjective.a.01
+رسْمِيّ	ADJ	official.a.01
+جدِيد	ADJ	new.a.01	original.a.03
+حدث	ADJ	young.a.01
+شاب	ADJ	young.a.01
+ناشِئ	ADJ	young.a.01
+يَافِع	ADJ	young.a.01
+تشْغِيلِي	ADJ	operational.a.03
+جاهِز_لِلْعمل	ADJ	operational.a.03
+مُعد_لِلْتنْفِيذ	ADJ	operational.a.03
+مُعد_لِلْعملِيّات_الحرْبِيّة	ADJ	operational.a.03
+غيْر_مُعد_لِلْعملِيّات_الحرْبِيّة	ADJ	nonoperational.a.01
+عُضْوِي	ADJ	organic.a.01	organic.a.02
+عُضْوِيّ	ADJ	organic.a.02
+أصْلِي	ADJ	original.a.03
+أصِيْل	ADJ	original.a.03
+مُبْتكر	ADJ	original.a.03
+مُحجّب	ADJ	covered.a.01
+مسْتُور	ADJ	covered.a.01
+مُغطّى	ADJ	covered.a.01
+مكْسُو	ADJ	covered.a.01
+مدْفُوع	ADJ	paid.a.01
+غيْر_مدْفُوع	ADJ	unpaid.a.01
+مُحْزِن	ADJ	painful.a.01
+مقِيت	ADJ	painful.a.01
+مُوجِع	ADJ	painful.a.01
+مُؤْلِم	ADJ	painful.a.01
+مُتوازِي	ADJ	parallel.a.01
+مُحاذِي	ADJ	parallel.a.01
+مُواز	ADJ	parallel.a.01
+ماضِي	ADJ	past.a.01
+مُسْتقْبل	ADJ	future.a.01
+موْلُود	ADJ	born.a.01
+وِقَائِي	ADJ	preventive.a.02
+سِياسِي	ADJ	political.a.01
+قويّ	ADJ	potent.a.03	strong.a.01
+جبّار	ADJ	powerful.a.01
+عظِيم	ADJ	powerful.a.01
+قوِيّ	ADJ	powerful.a.01
+خِصْب	ADJ	productive.a.01
+غزِير_الإِنْتاج	ADJ	productive.a.01
+مُنْتِج	ADJ	productive.a.01
+وَافِر_الإِنْتَاج	ADJ	productive.a.01
+غيْر_خِصْب	ADJ	unproductive.a.01
+غيْر_غزِير_الإِنْتاج	ADJ	unproductive.a.01
+غيْرمُنْتِج	ADJ	unproductive.a.01
+غيْر_وافِر_الإِنْتاج	ADJ	unproductive.a.01
+اِحْتِرافِيّ	ADJ	professional.a.01
+حِرفِيّ	ADJ	professional.a.01
+مُحْترِف	ADJ	professional.a.01
+مسْلكِيّ	ADJ	professional.a.01
+مِهْنِيّ	ADJ	professional.a.01	occupational.a.01
+فخُور	ADJ	proud.a.01
+مُعْتزّ	ADJ	proud.a.01
+مُفْتخِر	ADJ	proud.a.01
+نوْعِي	ADJ	qualitative.a.01
+كمّي	ADJ	quantitative.a.01
+مِقْدارِي	ADJ	quantitative.a.01
+اِنْفِعالِيّ	ADJ	emotional.a.01
+عاطِفِيّ	ADJ	emotional.a.01	emotional.a.03
+تفاعُلِيّ	ADJ	reactive.a.01
+مُتفاعِل	ADJ	reactive.a.01
+غيْر_مُتفاعِل	ADJ	unreactive.a.01
+لاتفاعُلي	ADJ	unreactive.a.01
+حقِيقِي	ADJ	real.a.01	true.a.01
+وَاقِعِي	ADJ	real.a.01
+مُعالج	ADJ	treated.a.01
+غيْرُ_مُعالج	ADJ	untreated.a.02
+مطْلُوب	ADJ	requested.a.01	wanted.a.01
+منْشُود	ADJ	requested.a.01	sought.a.01
+سلِيم	ADJ	right.a.04
+صائِب	ADJ	right.a.04
+قوِيم	ADJ	right.a.04
+خَاطِئ	ADJ	wrong.a.02	false.a.01
+طالِح	ADJ	wrong.a.02
+غيْر_صالِح	ADJ	wrong.a.02
+غيْر_مُناسِب	ADJ	wrong.a.02
+فاسِد	ADJ	wrong.a.02
+مُخالِف	ADJ	wrong.a.02
+دائِرِي	ADJ	round.a.01
+كُروِي	ADJ	round.a.01
+مبْرُوم	ADJ	round.a.01
+مُدوّر	ADJ	round.a.01
+مُسْتدِير	ADJ	round.a.01
+مُكوّر	ADJ	round.a.01
+آمِن	ADJ	safe.a.01
+رائِج	ADJ	salable.a.01
+قابِل_للْبيْع	ADJ	salable.a.01
+كاسِد	ADJ	unsalable.a.01
+ذاته	ADJ	same.a.01
+عيْنه	ADJ	same.a.01
+نفْسه	ADJ	same.a.01
+عِلْمي	ADJ	scientific.a.02	scientific.a.01
+مُسْتقِلّ	ADJ	separate.a.01
+مُنْفصِل	ADJ	separate.a.01
+مُخْتار	ADJ	selected.a.01
+مُنْتخب	ADJ	selected.a.01
+مُنْتقًى	ADJ	selected.a.01
+لاتزاوُجِي	ADJ	asexual.a.01
+لاجِنْسِي	ADJ	asexual.a.01
+بارِع	ADJ	skilled.a.01
+ماهِر	ADJ	skilled.a.01
+مُتمرِّس	ADJ	skilled.a.01
+مُتمكِّن	ADJ	skilled.a.01
+أمْلس	ADJ	smooth.a.01
+ناعِم	ADJ	smooth.a.01
+مُباع	ADJ	sold.a.01
+مبِيع	ADJ	sold.a.01
+جامِد	ADJ	solid.a.02
+سائِل	ADJ	liquid.a.01
+مائِع	ADJ	liquid.a.01
+غازِيّ	ADJ	gaseous.a.01
+ذَوَّاب	ADJ	soluble.a.01
+قابلٌ_للذوَبان	ADJ	soluble.a.01
+مُفْعم_بِالحيوِيّة	ADJ	spirited.a.01
+نشِيط	ADJ	spirited.a.01
+خَائِر	ADJ	spiritless.a.01
+وَاهِن	ADJ	spiritless.a.01
+كِتابِيّ	ADJ	written.a.01
+مخْطُوط	ADJ	written.a.01
+مُدوّن	ADJ	written.a.01
+مكْتُوب	ADJ	written.a.01
+مُؤلّف	ADJ	written.a.01
+مُنْدهِش	ADJ	surprised.a.01
+مُتزامِن	ADJ	synchronous.a.01
+عالِي	ADJ	tall.a.01
+مادِّيّ	ADJ	tangible.a.03
+طيِّب_المذاق	ADJ	tasteful.a.01
+لذِيذ	ADJ	tasteful.a.01
+لذِيذ_الطّعْم	ADJ	tasteful.a.01
+ملْمُوس	ADJ	touched.a.01	haptic.a.01
+ممْسُوس	ADJ	touched.a.01
+زَائِف	ADJ	false.a.01
+مُزوّر	ADJ	false.a.01
+مُضلِّل	ADJ	false.a.01
+مُنْقسِم	ADJ	divided.a.01
+قلْب_المدِينة	ADJ	downtown.a.01
+وَسَط_البَلَد	ADJ	downtown.a.01
+وَسَطَ_المَدِينَة	ADJ	downtown.a.01
+مُسْتعْمل	ADJ	used.a.01
+مُسْتغلّ	ADJ	used.a.01
+فقارِيّ	ADJ	vertebrate.a.01	vertebral.a.01
+فِقْرِي	ADJ	vertebrate.a.01
+لافقارِيّ	ADJ	invertebrate.a.01
+طيّار	ADJ	volatile.a.01
+مُتطايِر	ADJ	volatile.a.01
+اِخْتِيارِي	ADJ	voluntary.a.01
+تطوُّعِي	ADJ	voluntary.a.01
+طوْعِي	ADJ	voluntary.a.01
+مُبْتغى	ADJ	wanted.a.01
+مُراد	ADJ	wanted.a.01
+ثابِث_الحرارة	ADJ	warm-blooded.a.01
+ذُو_دمّ_حار	ADJ	warm-blooded.a.01
+بارِد_الدّم	ADJ	cold-blooded.a.02
+مُتغيِّر_الحرارة	ADJ	cold-blooded.a.02
+مُتناقِص	ADJ	decreasing.a.01
+مرِيض	ADJ	ill.a.01
+رطِب	ADJ	wet.a.01
+مُبْتلّ	ADJ	wet.a.01
+مُبلّل	ADJ	wet.a.01
+مبْلُول	ADJ	wet.a.01
+جاف	ADJ	dry.a.01
+قاحِل	ADJ	dry.a.01
+مُجْدِب	ADJ	dry.a.01
+مُسْتعِدّ	ADJ	willing.a.01
+أكادِيمِي	ADJ	academic.a.01
+جامِعِي	ADJ	academic.a.01
+عامِل	ADJ	agential.a.01
+شبِيه_بِالطحْلب	ADJ	algoid.a.01
+طحْلبانِي	ADJ	algoid.a.01
+اِرْتِفاعِيّ	ADJ	altitudinal.a.01
+تحْلِيلِي	ADJ	analytic.a.01
+مُتعلِق_ب_كاسِياتِ_البُذور	ADJ	angiospermous.a.01
+مائِيّ	ADJ	aqueous.a.01
+عنْكبُوتِي	ADJ	arachnoid.a.01
+مساحِي	ADJ	areal.a.01
+مفْصِلِي	ADJ	arthropodal.a.01
+طيْرِيّ	ADJ	avian.a.01
+بكْتِيرِي	ADJ	bacteroidal.a.01
+جُرْثُومِي	ADJ	bacteroidal.a.01
+أحْيائِي	ADJ	biological.a.01
+بيُولُوجِي	ADJ	biological.a.01
+حيوِي	ADJ	biological.a.01
+حرارِي	ADJ	caloric.a.02
+سُعْرِي	ADJ	caloric.a.02
+كلْبِيّ	ADJ	canine.a.02
+آكِل_اللُحُوم	ADJ	carnivorous.a.01
+لاحِم	ADJ	carnivorous.a.01
+خَلَوِي	ADJ	cellular.a.01
+كِيْماوِي	ADJ	chemical.a.01
+كِيْميائِي	ADJ	chemical.a.01
+حبْلِي	ADJ	chordate.a.01
+حبْلِيّات	ADJ	chordate.a.01
+ذو_حبْل_ظهْرِي	ADJ	chordate.a.01
+سِينمائِي	ADJ	cinematic.a.01
+مدنِي	ADJ	civic.a.01
+مدِينِي	ADJ	civic.a.01
+بلدِيّ	ADJ	municipal.a.01
+محلّي	ADJ	municipal.a.01
+تعاقُدِي	ADJ	contractual.a.01
+طبْخِيّ	ADJ	culinary.a.01
+طهْوِيّ	ADJ	culinary.a.01
+اِقْتِصادِي	ADJ	economic.a.02
+إِنْتِخابِي	ADJ	electoral.a.01
+عُنْصُرِيّ	ADJ	elemental.a.01
+ساعِيّ	ADJ	horary.a.01
+كل_ساعة	ADJ	horary.a.01
+اِنْسانِي	ADJ	human.a.02
+بشرِيّ	ADJ	human.a.02
+صِناعِي	ADJ	industrial.a.01
+إِسْتِنْتاجِي	ADJ	inferential.a.01
+جزِيرِيّ	ADJ	insular.a.01
+طِبِّيّ	ADJ	medical.a.01
+حرْبِي	ADJ	military.a.01
+وِلَادِي	ADJ	natal.a.01
+عددِيّ	ADJ	numeral.a.01
+خَاص_بالشَمّ	ADJ	olfactory.a.01
+شمّيّ	ADJ	olfactory.a.01
+موْضِعِي	ADJ	positional.a.01
+موْقِعِي	ADJ	positional.a.01
+برُتِيْنِي	ADJ	proteinaceous.a.01
+شبِيْه_بالبروتين	ADJ	proteinaceous.a.01
+حِسّي	ADJ	sensational.a.03
+رِياضِيّ	ADJ	sportive.a.01	sporting.a.02
+ضاحِوِيّ	ADJ	suburban.a.01
+ضاحِيِي	ADJ	suburban.a.01
+حرارِيّ	ADJ	thermal.a.01
+فِعْلِي	ADJ	verbal.a.03
+شفهِي	ADJ	verbal.a.02
+كلامِي	ADJ	verbal.a.02
+لفْظِي	ADJ	verbal.a.02
+كهْربائِي	ADJ	electrical.a.01
+كهْربِيّ	ADJ	electrical.a.01
+أدبِيّ	ADJ	literary.a.01
+حشرِيّ	ADJ	insectan.a.01
+ثدْيِيّ	ADJ	mammalian.a.01
+سمكِيّ	ADJ	piscine.a.01
+زَاحِف	ADJ	reptilian.a.01
+زَاحِفِي	ADJ	reptilian.a.01
+طُحْلُبِيّ	ADJ	algal.a.01
+فُطْرِيّ	ADJ	fungal.a.01
+نباتِيّ	ADJ	plantal.a.01
+بكْتِيرِيّ	ADJ	bacterial.a.01
+جُرْثُومِيّ	ADJ	bacterial.a.01
+إِشْعاعِيّ	ADJ	radial.a.03	radio.a.01
+شُعاعِيّ	ADJ	radial.a.03
+اِحْتِرافِي	ADJ	professional.a.02
+مِهنِي	ADJ	professional.a.02
+حيِّزِيّ	ADJ	spatial.a.01
+فضائِيّ	ADJ	spatial.a.01
+لِسانِيّ	ADJ	linguistic.a.01
+لُغوِيّ	ADJ	linguistic.a.01
+مُتعلِّق_بِيوْم_الأحد	ADJ	dominical.a.02
+مالِيّ	ADJ	fiscal.a.01
+سِياسِيّ	ADJ	political.a.02
+ماخِض	ADJ	parturient.a.01
+مُتمخِض	ADJ	parturient.a.01
+مخاضِي	ADJ	parturient.a.01
+وِلادِي	ADJ	parturient.a.01
+ذرِّيّ	ADJ	nuclear.a.02	atomic.a.01
+نووِيّ	ADJ	nuclear.a.02
+حضرِيّ	ADJ	metropolitan.a.01
+مُوسِيقِيّ	ADJ	musical.a.01
+سمْعِيّ	ADJ	auditory.a.01
+ذوْقِي	ADJ	gustatory.a.01
+لمْسِيّ	ADJ	haptic.a.01
+بصرِي	ADJ	ocular.a.02
+عيْنِيّ	ADJ	ocular.a.02
+فيْرُوسِي	ADJ	viral.a.01
+سِنّوْرِيّ	ADJ	feline.a.01
+مُتعلِّق_بالقِطط	ADJ	feline.a.01
+هِرّيّ	ADJ	feline.a.01
+عضلِيّ	ADJ	muscular.a.01
+أبوِيّ	ADJ	parental.a.01
+دُون_الذّرِّيّ	ADJ	subatomic.a.01
+سرِيرِيّ	ADJ	clinical.a.01
+قارِّيّ	ADJ	continental.a.03
+مُعْجمِيّ	ADJ	lexical.a.01
+مُفْرداتِيّ	ADJ	lexical.a.01
+جِنْسِيّ	ADJ	sexual.a.01
+حيوانِي	ADJ	zoological.a.02
+مُؤسّسِيّ	ADJ	organizational.a.01
+ذِهْنِيّ	ADJ	mental.a.02
+كُتْلٍي	ADJ	molar.a.03
+جُزيْئي	ADJ	molecular.a.01
+إِدارِيّ	ADJ	administrative.a.01	managerial.a.01
+مُدِيرِيّ	ADJ	managerial.a.01
+لاهُوتِيّ	ADJ	theological.a.01
+عِلاجِيّ	ADJ	therapeutic.a.02
+تارِيْخِي	ADJ	historical.a.01
+كاثُولِيْكِي	ADJ	catholic.a.01
+نصِّيّ	ADJ	textual.a.01
+أمْرِيكِيّ	ADJ	american.a.01
+أمِيركِيّ	ADJ	american.a.01
+قابِل_للقِسْمة	ADJ	rational.a.03
+غيْر_قابِل_للقِسْمة	ADJ	irrational.a.02
+زَاوِيّ	ADJ	angular.a.01
+هُرْمُونِيّ	ADJ	hormonal.a.01
+هيْكلِيّ	ADJ	skeletal.a.01
+نعْتِي	ADJ	adjectival.a.01
+ظرْفِيّ	ADJ	adverbial.a.01
+شكْلِيّ	ADJ	morphemic.a.01
+صٍيغِيّ	ADJ	morphemic.a.01
+تعْبِيرِيّ	ADJ	phrasal.a.01
+لفْظِيّ	ADJ	phrasal.a.01
+تحْرِيرِيّ	ADJ	scriptural.a.02
+كِتابِي	ADJ	scriptural.a.02
+اِخْتِبارِيّ	ADJ	experimental.a.01
+تجْرِيبِي	ADJ	experimental.a.01
+عائِلِيّ	ADJ	familial.a.01
+تعْلِيمي	ADJ	educational.a.01
+فِسْيُولُوجِيّ	ADJ	physiological.a.01
+وَظَائِفِيّ	ADJ	physiological.a.01
+أومِيّ	ADJ	ohmic.a.01
+مُتعلِّق_بالموْت	ADJ	mortuary.a.01
+موْتِيّ	ADJ	mortuary.a.01
+مسِيْحِي	ADJ	christian.a.01
+نصْرانِي	ADJ	christian.a.01
+برُتِسْتانْتِي	ADJ	protestant.a.01
+تواصُلِي	ADJ	communicative.a.01
+إِيْطالِي	ADJ	italian.a.01
+رُوسِيّ	ADJ	russian.a.01
+ألْمانِيّ	ADJ	german.a.01
+جُرْمانِيّ	ADJ	german.a.01
+أُسِّي	ADJ	exponential.a.01
+دلِيْلِي	ADJ	exponential.a.01
+أورُبِّيّ	ADJ	european.a.01
+فلسْطِينِي	ADJ	palestinian.a.01
+تشْخِيْصِي	ADJ	diagnostic.a.01
+كمِّيّ	ADJ	quantitative.a.02
+وَطَائِيّ	ADJ	hypothalamic.a.01
+حجْمِيّ	ADJ	volumetric.a.01
+عُضْوانِي	ADJ	organismal.a.01
+اِصْطِِناعِيّ	ADJ	artifactual.a.01
+قوْمِيّ	ADJ	national.a.01
+وَطَنِيّ	ADJ	national.a.01
+مُقارن	ADJ	comparative.a.01
+فنِّيّ	ADJ	artistic.a.01
+جُمْلِيّ	ADJ	sentential.a.01
+قِرْدِيّ	ADJ	simian.a.01
+لُوغارِيتْمِي	ADJ	logarithmic.a.01
+لُوغارِيثْمِي	ADJ	logarithmic.a.01
+مِيزُونِي	ADJ	mesonic.a.01
+جِرابِيّ	ADJ	marsupial.a.01
+طبِيْعِي	ADJ	normative.a.01
+مألُوف	ADJ	normative.a.01
+تعهُّدِيّ	ADJ	promissory.a.01
+مُمغْطس	ADJ	paramagnetic.a.01
+حركِي	ADJ	motional.a.01
+إِنْجِلِيزِيّ	ADJ	english.a.01
+إِنْكِلِيزِيّ	ADJ	english.a.01
+إِيرْلنْدِي	ADJ	irish.a.01
+إِنْزِيمِيّ	ADJ	enzymatic.a.01
+سِمْبتاوِيّ	ADJ	sympathetic.a.01
+وُدَّيّ	ADJ	sympathetic.a.01
+فِقرِيّ	ADJ	vertebral.a.01
+أوّلِي	ADJ	prime.a.04
+أَوَّلِي	ADJ	prime.a.04
+عضلانِيّ	ADJ	myoid.a.01
+يَرَقَانِيّ	ADJ	larval.a.02
+يَرَقِيّ	ADJ	larval.a.02
+تصْنِيفِيّ	ADJ	classificatory.a.01
+برِيْطانِيّ	ADJ	british.a.01
+ثُنَائِيَ_التَسْمِيَة	ADJ	binomial.a.01
+ذُو_حدّيْن	ADJ	binomial.a.01
+قَائِم_بَين_الأقْسام	ADJ	interdepartmental.a.01
+ما_بَيْن_الأقْسام	ADJ	interdepartmental.a.01
+هضْمِيّ	ADJ	digestive.a.01
+غُدّيّ	ADJ	glandular.a.01
+نامِ	ADJ	growing.a.01
+معْدِنِي	ADJ	mineral.a.01
+اِحْتِمالِيّ	ADJ	probabilistic.a.02
+إِجْرائِيّ	ADJ	procedural.a.01
+إِعلانِي	ADJ	promotional.a.01
+ترْوِيْجِي	ADJ	promotional.a.01
+دِعائِي	ADJ	promotional.a.01
+تنفُّسِيّ	ADJ	respiratory.a.01
+اِسْمِيّ	ADJ	substantival.a.01
+مُتعلِّق_بالرّقْص	ADJ	terpsichorean.a.01
+منْسُوج	ADJ	textile.a.01
+نسْجِيّ	ADJ	textile.a.01
+فِيتْنامِي	ADJ	vietnamese.a.01
+عظْمِيّ	ADJ	osseous.a.01	osteal.a.01
+مُعظِّم	ADJ	ossiferous.a.01
+مأمُول	ADJ	sought.a.01
+مُتوخّى	ADJ	sought.a.01
 نِصْف	ADV	half.r.01
 لا	ADV	not.r.01
 ليْس	ADV	not.r.01

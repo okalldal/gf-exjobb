@@ -3430,7 +3430,7 @@ utlikne	VERB	offset.v.01
 regne	VERB	rain.v.01
 absorbere	VERB	absorb.v.06
 reflektere	VERB	reflect.v.04
-single	ADJ	unmarried.a.01	unmarried.a.01
-senior	ADJ	senior.a.01	senior.a.01
-yngling	ADJ	junior.a.01	junior.a.01
-springe	ADJ	straight.a.06	straight.a.06
+single	ADJ	unmarried.a.01
+senior	ADJ	senior.a.01
+yngling	ADJ	junior.a.01
+springe	ADJ	straight.a.06
