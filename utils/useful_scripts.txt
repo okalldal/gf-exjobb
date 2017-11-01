@@ -1,5 +1,8 @@
-#Fix UD-gold-trees
+# Fix UD-gold-trees
 for file in *.txt; do cat $file | awk 'NF==8{print}NF!=8{print $1 "\t" $2 "\t" $3 "\t" $4 "\tROOT\tROOT\t" $5}'>"fixed/$file"; done
 
-#Fix prasanths autoparsed trees
+# Fix prasanths autoparsed trees
 'NF==6{print}NF!=6{print $1 "\t" $2 "\t" $3 "\t" $4 "\tROOT\tROOT" }'>"fixed/$file"; done
+
+# Remove probs less than some threshold
+awk 'BEGIN{FS = "\t" }{if($2>1e-10)print $0;}'
