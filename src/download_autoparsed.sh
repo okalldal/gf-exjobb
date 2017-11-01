@@ -7,7 +7,7 @@ do
         if [ ! -f ../data/feature_counts/autoparsed/$thresh/${lang}.txt ]; then
             mkdir -p ../data/feature_counts/autoparsed/$thresh
             curl "http://old-darcs.grammaticalframework.org/~prakol/scratch/tree-disambiguation/uploads/conll17-autoparsed/${lang}-edge-lempos_${thresh}-counts.txt.gz" |
-            gzcat > "../data/feature_counts/autoparsed/${thresh}/${lang}.txt"
+            zcat > "../data/feature_counts/autoparsed/${thresh}/${lang}.txt"
         fi
     done
 done

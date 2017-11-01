@@ -41,7 +41,6 @@ for l in sys.stdin:
 
     if len(l_split) < row_length and row_length>0:
         l_split = l_split + [args.r]*(row_length-len(l_split))
-
     count = int(l_split[count_column])
     multigram_possibilities = []
     multigram_features = []
@@ -67,8 +66,9 @@ for l in sys.stdin:
     if skip is True:
         #print(l_split, file=sys.stderr)
         continue
-    multigram_possibilities = product(*multigram_possibilities)
 
+    multigram_possibilities = [unigram for ngram in product(*multigram_possibilities) for unigram in ngram]
+    multigram_features = [f_col for feature in multigram_features for f_col in feature]
     split_id = tuple([l_split[col] for col in splitcols])
 
     if split_id not in file_pool.keys():
@@ -78,10 +78,10 @@ for l in sys.stdin:
         file_pool[split_id] = file
         split_counts[split_id] = 0
     split_counts[split_id] = split_counts[split_id] + count
-    print(*([count, multigram_features]+list(multigram_possibilities)), sep='\t', file=file_pool[split_id])
+    print(*([count]+multigram_features+multigram_possibilities), sep='\t', file=file_pool[split_id])
 
 for file in file_pool.values():
     file.close()
-with open(outpath + '/' + 'splits.txt', mode='w+', encoding='utf-8') as f:
+with open(outpath + '/' + '1_splits.txt', mode='w+', encoding='utf-8') as f:
     for split, count in split_counts.items():
         print(count,'_'.join(split), sep='\t', file=f)

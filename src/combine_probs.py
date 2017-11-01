@@ -8,7 +8,7 @@ args = parser.parse_args()
 directory = args.directory
 total_count = 0
 split_counts = list()
-with open(directory+'total_splits.txt', mode='r',encoding='utf-8') as file:
+with open(directory+'1_splits.txt', mode='r',encoding='utf-8') as file:
     for l in file:
         l_split = l.strip('\n').split('\t')
         count = int(l_split[0])
@@ -16,9 +16,9 @@ with open(directory+'total_splits.txt', mode='r',encoding='utf-8') as file:
         split_counts.append((split,count))
         total_count = total_count + count
 for split, count in split_counts:
-    with open(directory+split+'.txt', mode='r',encoding='utf-8') as file:
+    with open(directory+split+'.probs', mode='r',encoding='utf-8') as file:
         for l in file:
             l_split = l.strip('\n').split('\t')
-            prob = float(l_split[1])
-            word = l_split[0]
-            print(word, prob*count/total_count, sep='\t')
+            prob = float(l_split[0])
+            word = l_split[1:]
+            print(*([prob*count/total_count]+ word), sep='\t')
