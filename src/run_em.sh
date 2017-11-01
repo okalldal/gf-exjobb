@@ -31,9 +31,23 @@ echo "GF Parsed th50"
 run_em ../data/em_data/gf_autoparsed_th50 ../results/gf_autoparsed_th50
 echo "GF Parsed th10"
 run_em ../data/em_data/gf_autoparsed_th10 ../results/gf_autoparsed_th10
-echo "noeng GF Parsed th50"
-run_em ../data/em_data/noeng_gf_parsed ../results/noeng_gf_parsed
+
+echo "Noeng GF Parsed th50"
+mkdir ../data/em_data/no_eng_gf_parsed
+for lang in ../data/em_data/gf_autoparsed_th50
+do
+ln -s $lang ../data/em_data/no_eng_gf_parsed/$(basename $lang)
+done
+rm ../data/em_data/no_eng_gf_parsed/eng
+run_em ../data/em_data/no_eng_gf_parsed ../results/no_eng_gf_parsed
+
+echo "Only eng GF Parsed th50"
+mkdir ../data/em_data/only_eng_gf_parsed
+ln -s ../results/gf_autoparsed_th50/eng ../data/em_data/only_eng_gf_parsed/eng
+run_em ../data/em_data/only_eng_gf_parsed ../results/only_eng_gf_parsed
+
 echo "Unigram GF UD-GOLD"
 run_em ../data/em_data/gf_uni_udgold ../results/gf_uni_udgold "${unigram_opts}"
+
 echo "Unigram GF Parsed th50"
 run_em ../data/em_data/gf_uni_autoparsed_th50 ../results/gf_uni_autoparsed_th50 "${unigram_opts}"
