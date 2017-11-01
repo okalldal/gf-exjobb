@@ -7,3 +7,5 @@ work/__pycache__/
 work/*.ipynb
 results/*
 **/__pycache__
+data/TRAIN-O-MATIC-DATA
+data/*.pgf
