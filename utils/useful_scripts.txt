@@ -2,4 +2,19 @@
 for file in *.txt; do cat $file | awk 'NF==8{print}NF!=8{print $1 "\t" $2 "\t" $3 "\t" $4 "\tROOT\tROOT\t" $5}'>"fixed/$file"; done
 
 #Fix prasanths autoparsed trees
-'NF==6{print}NF!=6{print $1 "\t" $2 "\t" $3 "\t" $4 "\tROOT\tROOT" }'>"fixed/$file"; done
+for file in *.txt; do cat $file | awk 'NF==6{print}NF!=6{print $1 "\t" $2 "\t" $3 "\t" $4 "\tROOT\tROOT" }'>"fixed/$file"; done
+
+# Combine counts
+for file in *.txt; do cat $file | awk -v OFS='\t' '{print $8,$1,$3,$5,$7}' | sort -k2 | python src/merge_counts.py > "combined/$file"; done
+
+#Filter out relevant columns, remember to put counts first
+awk {print $8, $1, $2, $
+
+#Filter out oov items
+awk 'NR == FNR{a[$1","$2];next}; {if ($1","$3 in a){print} else{$1="OOV"; print $0}}' file1.txt file2.txt
+
+#Print possibilities from poss dicts
+awk 'NR == FNR{a[$1","$2]=;next}; {if ($1","$3 in a){print} else{$1="OOV"; print $0}}' file1.txt file2.txt
+
+#Transform bigrams to unigrams
+sed "s/('\([^']*\)', '\([^']*\)')/\1/g" | sed "s/(\"\([^\"]*\)\", '\([^']*\)')/\1/g" | sed "s/(\"\([^\"]*\)\", \"\([^\"]*\)\")/\1/g" | sed "s/(\'\([^\']*\)\', \"\([^\"]*\)\")/\1/g"
