@@ -113,13 +113,14 @@ def init():
 
     return spacy_en, probs, possdict, linearize, wn2fun
 
-def wordnet_examples():
+def wordnet_examples(pos_filter=None):
     for s in wn.all_synsets():
-        for ex in s.examples():
-            yield (s.offset(), ex)
+        if not pos_filter or s.pos() == pos_filter:
+            for ex in s.examples():
+                yield (s.offset(), ex)
 
 def test(spacy_en, probs, possdict, linearize, wn2fun):
-    sentences = wordnet_examples()
+    sentences = wordnet_examples(pos_filter='n')
 
     lemma_not_found = 0
     prob_not_found = 0
