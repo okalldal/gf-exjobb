@@ -5,7 +5,8 @@ from itertools import product, groupby
 from utils import read_probs
 from numpy import log
 import logging 
-import pgf
+# import pgf
+from nltk.corpus import wordnet as wn
 
 
 # TODO fix Pron
@@ -25,9 +26,9 @@ class Word:
     def __hash__(self):
         return hash(self.__repr__())
 
-def get_bigrams_for_lemma(lemma, sentence, parser):
+def get_bigrams_for_lemma(lemmas, sentence, parser):
     bigrams = [(w,h) for w, h in get_bigrams(sentence, parser) 
-               if w.lemma == lemma or h.lemma == lemma]
+               if w.lemma in lemmas or h.lemma in lemmas]
     return list(set(bigrams))
 
 
@@ -96,25 +97,29 @@ def init():
     logging.info('Loading Spacy')
     spacy_en = spacy.load('en_depent_web_md')
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs('../results/prasanth_counts_Eng.probs'))
+    probs = defaultdict(lambda: 0, read_probs('../results/wn_total.probs'))
+    possdict = read_poss_dict(path='../data/possibility_dictionaries/wn/eng.txt')
+    """ GF 
     logging.info('Loading GF')
-    possdict = read_poss_dict(path='../data/possibility_dictionaries/gf/eng.txt')
-    gr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf')
-    lgr = gr.languages['TranslateEng']
-    logging.info('Loading GF to wordnet')
-    """ GF """
+    lgr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
     wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
-    """ Wordnet
-    from nltk.corpus import wordnet as wn
-    wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
+    linearize = lambda x: [lgr.linearize(pgf.ReadExpr(x))]
     """
+    """ Wordnet """
+    logging.info('Loading Wordnet')
+    wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
+    linearize = lambda x: wn.synset(x).lemma_names()
     logging.info('Initialization finished')
 
-    return spacy_en, probs, possdict, gr, lgr, wn2fun
+    return spacy_en, probs, possdict, linearize, wn2fun
 
+def wordnet_examples():
+    for s in wn.all_synsets():
+        for ex in s.examples():
+            yield (s.offset(), ex)
 
-def test(spacy_en, probs, possdict, gr, lgr, wn2fun):
-    sentences = trainomatic.parse_dir()
+def test(spacy_en, probs, possdict, linearize, wn2fun):
+    sentences = wordnet_examples()
 
     lemma_not_found = 0
     prob_not_found = 0
@@ -129,8 +134,8 @@ def test(spacy_en, probs, possdict, gr, lgr, wn2fun):
         fun = wn2fun[wnid] 
         if not fun:
             continue
-        lemma = lgr.linearize(pgf.readExpr(fun))
-        bigrams = get_bigrams_for_lemma(lemma, sentence, spacy_en)
+        lemmas = linearize(fun) 
+        bigrams = get_bigrams_for_lemmas(lemmas, sentence, spacy_en)
 
         if not bigrams:
             lemma_not_found += 1
@@ -140,6 +145,9 @@ def test(spacy_en, probs, possdict, gr, lgr, wn2fun):
                 for b in possible_bigrams(bigrams, possdict)]
         is_ambig = len(rank) > 1
         rank = sorted(rank, key=lambda x: x[0])
+       
+        if is_ambig:
+            success += 1 
         
         """ FIRST """
         p, first = rank[0]
@@ -155,9 +163,6 @@ def test(spacy_en, probs, possdict, gr, lgr, wn2fun):
         else:
             if in_top and is_ambig:
                 ambig += 1
-                success += 1
-            if is_ambig:
-                ambig_total += 1
             if in_top:
                 success += 1
 
