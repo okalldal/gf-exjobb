@@ -26,7 +26,7 @@ class Word:
     def __hash__(self):
         return hash(self.__repr__())
 
-def get_bigrams_for_lemma(lemmas, sentence, parser):
+def get_bigrams_for_lemmas(lemmas, sentence, parser):
     bigrams = [(w,h) for w, h in get_bigrams(sentence, parser) 
                if w.lemma in lemmas or h.lemma in lemmas]
     return list(set(bigrams))
@@ -97,7 +97,7 @@ def init():
     logging.info('Loading Spacy')
     spacy_en = spacy.load('en_depent_web_md')
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs('../results/wn_total.probs'))
+    probs = defaultdict(lambda: 0, read_probs('../results/wn_noun2.probs'))
     possdict = read_poss_dict(path='../data/possibility_dictionaries/wn/eng.txt')
     """ GF 
     logging.info('Loading GF')
@@ -148,7 +148,7 @@ def test(spacy_en, probs, possdict, linearize, wn2fun):
         rank = sorted(rank, key=lambda x: x[0])
        
         if is_ambig:
-            success += 1 
+            ambig_total += 1 
         
         """ FIRST """
         p, first = rank[0]
