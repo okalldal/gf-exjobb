@@ -63,11 +63,9 @@ def tree_prob(tree_tuples, bigramprobs, unigramprobs, unigram_fallback=True):
     logging.debug(msg % (bigram_count, unigram_count))
     return total
 
-def rerank(sentence, grammar, bigramprobs, unigramprobs):
-    eng = grammar.languages['TranslateEng']
-    
+def rerank(sentence, lgr, bigramprobs, unigramprobs):
     try:
-        p = eng.parse(sentence)
+        p = lgr.parse(sentence)
     except pgf.ParseError as ex:
         logging.error(ex)
         return []
@@ -81,9 +79,10 @@ def rerank(sentence, grammar, bigramprobs, unigramprobs):
         rerank = tree_prob(bigrams, bigramprobs, unigramprobs)
         yield {'parser_prob': p, 'rerank_prob': rerank, 'bigrams': bigrams, 'expr': ex}
 
-def run(sentences, answers, translateLang, show_trees, niter, grammar, *args, **kwargs):
+def run(sentences, answers, parseLang, translateLang, show_trees, niter, grammar, *args, **kwargs):
     total_tests = 0
     success = 0
+    lgr = grammar.languages[parseLang]
 
     for i, sentence in enumerate(sentences):
         concr = grammar.languages[translateLang]
@@ -93,7 +92,7 @@ def run(sentences, answers, translateLang, show_trees, niter, grammar, *args, **
         expr = []
         print(sentence)
         print('Correct\tParser\tRerank\tTotal\tTranslation')
-        for j, result in enumerate(rerank(sentence, grammar, *args, **kwargs)):
+        for j, result in enumerate(rerank(sentence, lgr, *args, **kwargs)):
             rerank_probs.append(result['rerank_prob'])
             expr.append(str(result['expr']))
             if j < niter:
@@ -142,21 +141,29 @@ if __name__ == "__main__":
         type=argparse.FileType(mode='r', encoding='utf-8'), 
         default=sys.stdin,
         help='file with sentences on each row')
-    parser.add_argument('--unigram',
+    parser.add_argument('--unigram', '-u'
         nargs=1, 
         metavar='PROB_FILE', 
         default='../results/prasanth_counts_total_unigram.probs',
         help='file with unigram probabilities')
-    parser.add_argument('--bigram',  
+    parser.add_argument('--bigram', '-b' 
         nargs=1, 
         metavar='PROB_FILE',
         default='../results/prasanth_counts_total.probs',
         help='file with bigram probabilities')
-    parser.add_argument('--grammar', 
+    parser.add_argument('--grammar', '-g'
         nargs=1,
         metavar='PGF_FILE',
         default='../data/TranslateEngSwe.pgf',
         help='Portable grammar file from GF')
+    parser.add_argument('--language', '-l',
+        nargs=1,
+        metavar='LANG',
+        type=lambda s: 'Translate' + s
+        choices={'Swe', 'Eng', 'Hin', 'Fin', 'Bul', 'Fre', 'Dut'},
+        default='Eng',
+        help='The language of the input sentences'
+    )
     parser.add_argument('--verbose', '-v',
         action='store_true',
         help='print debug messages')
@@ -173,7 +180,7 @@ if __name__ == "__main__":
         nargs=1,
         metavar='LANG', 
         type = lambda s: 'Translate' + s,
-        choices={'Swe', 'Eng', 'Hin', 'Fin', 'Bul'}, 
+        choices={'Swe', 'Eng', 'Hin', 'Fin', 'Bul', 'Fre', 'Dut'}, 
         help='linearize the sentences into this language',
         default='Swe')
 
@@ -187,4 +194,4 @@ if __name__ == "__main__":
         input_data = [l.strip().split('\t') for l in f]
         sentences = [s[0] for s in input_data]
         answers   = [s[1] if len(s) > 1 else None for s in input_data]
-        run(sentences, answers, args.translate, args.trees, nparses, *init(args.grammar, args.bigram, args.unigram)) 
+        run(sentences, answers, args.language, args.translate, args.trees, nparses, *init(args.grammar, args.bigram, args.unigram)) 

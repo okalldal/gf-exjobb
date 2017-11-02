@@ -23,4 +23,4 @@ sed "s/('\([^']*\)', '\([^']*\)')/\1/g" | sed "s/(\"\([^\"]*\)\", '\([^']*\)')/\
 awk 'BEGIN{FS = "\t" }{if($2>1e-10)print $0;}'
 
 # upload files to box
-curl --basic --user $BOXAUT -v -T LOCALFILE 'https://dav.box.com/dav/REMOTEFILE'
+curl --basic --user $BOXUSER:$BOXPASS -v -T $LOCALFILE 'https://dav.box.com/dav/$REMOTEFILE'
