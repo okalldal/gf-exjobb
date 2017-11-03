@@ -1,13 +1,3 @@
-woman that sleeps	UttNP (MassNP (RelCN (UseN woman_N) (UseRCl (TTAnt TPres ASimul) PPos (RelVP IdRP (UseV sleep_V)))))
-woman who sleeps	UttCN (SentCN (UseN woman_N) (EmbedQS (UseQCl (TTAnt TPres ASimul) PPos (QuestVP whoSg_IP (UseV sleep_V)))))
-woman who sleeps here	UttNP (MassNP (SentCN (UseN woman_N) (EmbedQS (UseQCl (TTAnt TPres ASimul) PPos (QuestVP whoSg_IP (AdvVP (UseV sleep_V) here_Adv))))))
-woman that sleeps here	UttCN (AdvCN (RelCN (UseN woman_N) (UseRCl (TTAnt TPres ASimul) PPos (RelVP IdRP (UseV sleep_V)))) here_Adv
-woman that is very old	UttCN (RelCN (UseN woman_N) (UseRCl (TTAnt TPres ASimul) PPos (RelVP IdRP (UseComp (CompAP (AdAP very_AdA (PositA old_A)))))))
-woman that is old	UttCN (RelCN (UseN woman_N) (UseRCl (TTAnt TPres ASimul) PPos (RelVP IdRP (UseComp (CompAP (PositA old_A))))))
-whom does she see 	UttQS (UseQCl (TTAnt TPres ASimul) PPos (QuestSlash whoPl_IP (SlashVP (UsePron she_Pron) (SlashV2a see_V2))))
-because she sleeps	UttAdv (SubjS because_Subj (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron she_Pron) (UseV sleep_V))))
-between you and me	UttAdv (PrepNP between_Prep (ConjNP and_Conj (BaseNP (UsePron youPl_Pron) (UsePron i_Pron))))
-both here and there	UttAdv (ConjAdv both7and_DConj (BaseAdv here_Adv there_Adv))
 he works at the bank	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron he_Pron) (AdvVP (UseV work_1_V) (PrepNP at_Prep (DetCN (DetQuant DefArt NumSg) (UseN bank_2_N))))))) NoVoc
 he works every day	ChunkPhr (PlusChunk (S_Chunk (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron he_Pron) (UseV work_1_V)))) (OneChunk (NP_Acc_Chunk (DetCN every_Det (UseN day_N)))))
 she works with many people	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron she_Pron) (AdvVP (UseV work_1_V) (PrepNP with_Prep (DetCN many_Det (UseN people_N))))))) NoVoc
@@ -25,6 +15,10 @@ he plays the trumpet	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (Pred
 the child plays with a doll	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN child_N)) (AdvVP (UseV play_2_V) (PrepNP with_Prep (DetCN (DetQuant IndefArt NumSg) (UseN doll_N))))))) NoVoc
 the children play in the park	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumPl) (UseN child_N)) (AdvVP (UseV play_2_V) (PrepNP in_Prep (DetCN (DetQuant DefArt NumSg) (UseN park_N))))))) NoVoc
 the play is over soon	PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN play_N)) (AdvVP (UseComp (CompAdv soon_Adv)) over_Adv)))) NoVoc
+woman that sleeps	UttNP (MassNP (RelCN (UseN woman_N) (UseRCl (TTAnt TPres ASimul) PPos (RelVP IdRP (UseV sleep_V)))))
+woman who sleeps	UttCN (SentCN (UseN woman_N) (EmbedQS (UseQCl (TTAnt TPres ASimul) PPos (QuestVP whoSg_IP (UseV sleep_V)))))
+whom does she see 	UttQS (UseQCl (TTAnt TPres ASimul) PPos (QuestSlash whoPl_IP (SlashVP (UsePron she_Pron) (SlashV2a see_V2))))
+because she sleeps	UttAdv (SubjS because_Subj (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron she_Pron) (UseV sleep_V))))
 I went to school this morning
 he is in the cooking area
 area of the circle is small

@@ -141,17 +141,17 @@ if __name__ == "__main__":
         type=argparse.FileType(mode='r', encoding='utf-8'), 
         default=sys.stdin,
         help='file with sentences on each row')
-    parser.add_argument('--unigram', '-u'
+    parser.add_argument('--unigram', '-u',
         nargs=1, 
         metavar='PROB_FILE', 
         default='../results/prasanth_counts_total_unigram.probs',
         help='file with unigram probabilities')
-    parser.add_argument('--bigram', '-b' 
+    parser.add_argument('--bigram', '-b',
         nargs=1, 
         metavar='PROB_FILE',
         default='../results/prasanth_counts_total.probs',
         help='file with bigram probabilities')
-    parser.add_argument('--grammar', '-g'
+    parser.add_argument('--grammar', '-g',
         nargs=1,
         metavar='PGF_FILE',
         default='../data/TranslateEngSwe.pgf',
@@ -159,7 +159,6 @@ if __name__ == "__main__":
     parser.add_argument('--language', '-l',
         nargs=1,
         metavar='LANG',
-        type=lambda s: 'Translate' + s
         choices={'Swe', 'Eng', 'Hin', 'Fin', 'Bul', 'Fre', 'Dut'},
         default='Eng',
         help='The language of the input sentences'
@@ -179,7 +178,6 @@ if __name__ == "__main__":
     parser.add_argument('--translate', 
         nargs=1,
         metavar='LANG', 
-        type = lambda s: 'Translate' + s,
         choices={'Swe', 'Eng', 'Hin', 'Fin', 'Bul', 'Fre', 'Dut'}, 
         help='linearize the sentences into this language',
         default='Swe')
@@ -194,4 +192,6 @@ if __name__ == "__main__":
         input_data = [l.strip().split('\t') for l in f]
         sentences = [s[0] for s in input_data]
         answers   = [s[1] if len(s) > 1 else None for s in input_data]
-        run(sentences, answers, args.language, args.translate, args.trees, nparses, *init(args.grammar, args.bigram, args.unigram)) 
+        lang = 'Translate' + args.language[0]
+        trans = 'Translate' + args.translate[0]
+        run(sentences, answers, lang, trans, args.trees, nparses, *init(args.grammar, args.bigram, args.unigram)) 
