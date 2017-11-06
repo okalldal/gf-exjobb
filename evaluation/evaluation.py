@@ -2,7 +2,7 @@ import trainomatic
 import spacy
 from collections import defaultdict
 from itertools import product, groupby
-from utils import read_probs
+from utils import read_probs as read_probs_old
 from numpy import log
 import logging 
 # import pgf
@@ -97,7 +97,7 @@ def init():
     logging.info('Loading Spacy')
     spacy_en = spacy.load('en_depent_web_md')
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs('../results/wn_noun2.probs'))
+    probs = defaultdict(lambda: 0, read_probs('../results/wn_noeng_noun.probs'))
     possdict = read_poss_dict(path='../data/possibility_dictionaries/wn/eng.txt')
     """ GF 
     logging.info('Loading GF')

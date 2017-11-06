@@ -3,7 +3,7 @@ from ast import literal_eval
 from tqdm import tqdm
 import re
 
-def read_probs(path, progress_bar=True):
+def read_probs_old(path, progress_bar=True):
     """Reads a probability file and returns tuples"""
     if progress_bar:
         nlines = get_num_lines(path)
@@ -15,6 +15,14 @@ def read_probs(path, progress_bar=True):
             x, p = line.strip().split('\t')
             yield (tuple(rexp.findall(x)), float(p))
 
+
+def read_probs(filepath, progress_bar=True):
+    with open(filepath) as f:
+        if progress_bar:
+            f = tqdm(f, total=nlines)
+        lines = (l.strip().split('\t') for l in f)
+        d = {tuple(l[1:3]): float(l[0]) for l in lines}
+    return d
 
 def get_num_lines(file_path):
     """Return the number of lines in a file"""
