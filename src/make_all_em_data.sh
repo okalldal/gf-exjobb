@@ -39,6 +39,8 @@ make_em_data $gf_pd_dir $parsed_count_dir/th050 ../data/em_data/gf_autoparsed_th
 make_em_data $gf_pd_dir $parsed_count_dir/th050 ../data/em_data/gf_uni_autoparsed_th50 "${parsed_uni_options}"
 
 make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_autoparsed_th50 "${parsed_options}"
+make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_uni_autoparsed_th50 "${parsed_uni_options}"
+
 
 make_em_data $gf_pd_dir $parsed_count_dir/th010 ../data/em_data/gf_autoparsed_th10 "${parsed_options}"
 
