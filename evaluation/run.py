@@ -61,7 +61,11 @@ def tree_prob(tree_tuples, bigramprobs, unigramprobs, unigram_fallback=False):
 
     msg = 'Generated tree probability with %d bigrams and %d unigrams'
     logging.debug(msg % (bigram_count, unigram_count))
-    return total
+    count = bigram_count
+    if count == 0:
+        return 0
+    else:
+        return total/count
 
 def tree_prob_unigram(unigrams, unigramprobs):
     total = 0
@@ -71,8 +75,10 @@ def tree_prob_unigram(unigrams, unigramprobs):
         if unigram_prob != 0:
             total += 1
             prob += -log(unigram_prob)
-    
-    return prob
+    if total == 0:
+        return 0
+    else:
+        return prob/total
 
 def rerank(sentence, lgr, bigramprobs, unigramprobs):
     try:
