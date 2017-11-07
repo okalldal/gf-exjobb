@@ -1,7 +1,24 @@
 import mmap
 from ast import literal_eval
 from tqdm import tqdm
+from collections import defaultdict
 import re
+
+class Word:
+    def __init__(self, lemma, UDPOS=''):
+        self.is_root = lemma == 'ROOT'
+        self.lemma = lemma
+        self.UDPOS = UDPOS
+
+    def __repr__(self):
+        return self.lemma + '_' + self.UDPOS
+
+    def __eq__(self, other):
+        return self.__repr__() == other.__repr__()
+
+    def __hash__(self):
+        return hash(self.__repr__())
+
 
 def read_probs_old(path, progress_bar=True):
     """Reads a probability file and returns tuples"""
@@ -16,13 +33,24 @@ def read_probs_old(path, progress_bar=True):
             yield (tuple(rexp.findall(x)), float(p))
 
 
-def read_probs(filepath, progress_bar=True):
+def read_probs(filepath, dim=2, progress_bar=True):
+    if progress_bar:
+        nlines = get_num_lines(filepath)
     with open(filepath) as f:
         if progress_bar:
             f = tqdm(f, total=nlines)
         lines = (l.strip().split('\t') for l in f)
-        d = {tuple(l[1:3]): float(l[0]) for l in lines}
+        d = defaultdict(lambda: 0, {tuple(l[1:1+dim]): float(l[0]) for l in lines})
     return d
+
+
+def read_poss_dict(path):
+    with open(path, encoding='utf-8') as f:
+        # format: 
+        #    columnist \t NOUN \t columnistFem_N \t columnistMasc_N
+        lines = [l.strip().split('\t') for l in f]
+    return defaultdict(lambda: [], {Word(l[0], l[1]): l[2:] for l in lines})
+
 
 def get_num_lines(file_path):
     """Return the number of lines in a file"""

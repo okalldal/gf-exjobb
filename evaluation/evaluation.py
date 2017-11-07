@@ -2,7 +2,7 @@ import trainomatic
 import spacy
 from collections import defaultdict
 from itertools import product, groupby
-from utils import read_probs as read_probs_old
+from utils import read_probs, read_poss_dict, Word
 from numpy import log
 import logging 
 # import pgf
@@ -11,20 +11,6 @@ from nltk.corpus import wordnet as wn
 
 # TODO fix Pron
 
-class Word:
-    def __init__(self, lemma, UDPOS=''):
-        self.is_root = lemma == 'ROOT'
-        self.lemma = lemma
-        self.UDPOS = UDPOS
-
-    def __repr__(self):
-        return self.lemma + '_' + self.UDPOS
-
-    def __eq__(self, other):
-        return self.__repr__() == other.__repr__()
-
-    def __hash__(self):
-        return hash(self.__repr__())
 
 def get_bigrams_for_lemmas(lemmas, sentence, parser):
     bigrams = [(w,h) for w, h in get_bigrams(sentence, parser) 
@@ -36,14 +22,6 @@ def get_bigrams(sentence, parser):
     tree = parser(sentence)
     return [(Word(w.lemma_, w.pos_), Word(w.head.lemma_, w.head.pos_) if w.dep_ != 'ROOT' else Word('ROOT')) 
             for w in tree]
-
-
-def read_poss_dict(path):
-    with open(path, encoding='utf-8') as f:
-        # format: 
-        #    columnist \t NOUN \t columnistFem_N \t columnistMasc_N
-        lines = [l.strip().split('\t') for l in f]
-    return defaultdict(lambda: [], {Word(l[0], l[1]): l[2:] for l in lines})
 
 
 def possible_bigrams(bigrams, possdict):
@@ -97,7 +75,7 @@ def init():
     logging.info('Loading Spacy')
     spacy_en = spacy.load('en_depent_web_md')
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs('../results/wn_noeng_noun.probs'))
+    probs = defaultdict(lambda: 0, read_probs('../results/wn_eng_noun.probs'))
     possdict = read_poss_dict(path='../data/possibility_dictionaries/wn/eng.txt')
     """ GF 
     logging.info('Loading GF')

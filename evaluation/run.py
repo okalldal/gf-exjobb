@@ -5,7 +5,7 @@ import argparse
 from itertools import takewhile, repeat
 from collections import defaultdict
 from scipy import log
-from utils import Memoize, read_probs
+from utils import Memoize, read_probs_old
 
 
 @Memoize
@@ -37,7 +37,7 @@ def find_heads(expression, prev_heads = [], label='root'):
         return out, head
 
 
-def tree_prob(tree_tuples, bigramprobs, unigramprobs, unigram_fallback=True):
+def tree_prob(tree_tuples, bigramprobs, unigramprobs, unigram_fallback=False):
     total = 0
     bigram_count = 0
     unigram_count = 0
@@ -63,6 +63,17 @@ def tree_prob(tree_tuples, bigramprobs, unigramprobs, unigram_fallback=True):
     logging.debug(msg % (bigram_count, unigram_count))
     return total
 
+def tree_prob_unigram(unigrams, unigramprobs):
+    total = 0
+    prob = 0
+    for node in unigrams:
+        unigram_prob = unigramprobs[node]
+        if unigram_prob != 0:
+            total += 1
+            prob += -log(unigram_prob)
+    
+    return prob
+
 def rerank(sentence, lgr, bigramprobs, unigramprobs):
     try:
         p = lgr.parse(sentence)
@@ -76,34 +87,34 @@ def rerank(sentence, lgr, bigramprobs, unigramprobs):
         logging.debug('GF tree: ' + str(ex))
         tuples, _ = find_heads(ex)
         bigrams = [(n, hs[0] if hs else 'ROOT') for n, hs, l in tuples]
+        unigrams = [n for n, hs, l in tuples]
         rerank = tree_prob(bigrams, bigramprobs, unigramprobs)
-        yield {'parser_prob': p, 'rerank_prob': rerank, 'bigrams': bigrams, 'expr': ex}
+        unigram_prob = tree_prob_unigram(unigrams, unigramprobs)
+        yield {'parser_prob': p, 'rerank_prob': rerank, 'unigram_prob': unigram_prob, 'bigrams': bigrams, 'expr': ex}
 
-def run(sentences, answers, parseLang, translateLang, show_trees, niter, grammar, *args, **kwargs):
+def run(sentences, answers, show_trees, niter, parseLang, translateLang, *args, **kwargs):
     total_tests = 0
     success = 0
-    lgr = grammar.languages[parseLang]
 
     for i, sentence in enumerate(sentences):
-        concr = grammar.languages[translateLang]
         logging.debug('=================================')
         logging.debug('Parsing sentence: ' + sentence)
         rerank_probs = []
         expr = []
         print(sentence)
-        print('Correct\tParser\tRerank\tTotal\tTranslation')
-        for j, result in enumerate(rerank(sentence, lgr, *args, **kwargs)):
+        print('Correct\tParser\tRerank\tRerank Unigram\tTranslation')
+        for j, result in enumerate(rerank(sentence, parseLang, *args, **kwargs)):
             rerank_probs.append(result['rerank_prob'])
             expr.append(str(result['expr']))
             if j < niter:
-                result['trans'] = concr.linearize(result['expr'])
+                result['trans'] = translateLang.linearize(result['expr'])
                 result['total'] = result['parser_prob'] + result['rerank_prob']
                 result['correct'] = '✓' if answers[i] and answers[i] == str(result['expr']) else ''
                 if show_trees:
-                    print('{correct}\t{parser_prob}\t{rerank_prob}\t{total}\t{trans}\t{expr}'
+                    print('{correct}\t{parser_prob}\t{rerank_prob}\t{unigram_prob}\t{trans}\t{expr}'
                         .format(**result))
                 else:
-                    print('{correct}\t{parser_prob}\t{rerank_prob}\t{total}\t{trans}'
+                    print('{correct}\t{parser_prob}\t{rerank_prob}\t{unigram_prob}\t{trans}'
                         .format(**result))
         print('')
 
@@ -119,18 +130,17 @@ def run(sentences, answers, parseLang, translateLang, show_trees, niter, grammar
 
 
 
-def init(grammar_file, bigram_file, unigram_file):
-    # GF
-    grammar = pgf.readPGF(grammar_file)
+def init(bigram_file, unigram_file):
+    
     # bigram
     # filter out non bigram probabilities, sometimes we get these
-    bigramprobs = defaultdict(lambda: 0, ((t, p) for (t, p) in read_probs(bigram_file) 
+    bigramprobs = defaultdict(lambda: 0, ((t, p) for (t, p) in read_probs_old(bigram_file) 
                                            if len(t) == 2 ))
     # unigram
     with open(unigram_file) as f:
         data = (l.strip().split('\t') for l in f)
         unigramprobs = defaultdict(lambda: 0, ((t, float(p)) for (t, p) in data))
-    return grammar, bigramprobs, unigramprobs
+    return bigramprobs, unigramprobs
 
 
 if __name__ == "__main__":
@@ -151,18 +161,11 @@ if __name__ == "__main__":
         metavar='PROB_FILE',
         default='../results/prasanth_counts_total.probs',
         help='file with bigram probabilities')
-    parser.add_argument('--grammar', '-g',
-        nargs=1,
-        metavar='PGF_FILE',
-        default='../data/TranslateEngSwe.pgf',
-        help='Portable grammar file from GF')
     parser.add_argument('--language', '-l',
         nargs=1,
-        metavar='LANG',
-        choices={'Swe', 'Eng', 'Hin', 'Fin', 'Bul', 'Fre', 'Dut'},
-        default='Eng',
-        help='The language of the input sentences'
-    )
+        metavar='PGF_FILE',
+        default=['../data/UnigramEng.pgf'],
+        help='Portable grammar file from GF used for parsing')
     parser.add_argument('--verbose', '-v',
         action='store_true',
         help='print debug messages')
@@ -177,10 +180,9 @@ if __name__ == "__main__":
         help='show the generated GF trees')
     parser.add_argument('--translate', 
         nargs=1,
-        metavar='LANG', 
-        choices={'Swe', 'Eng', 'Hin', 'Fin', 'Bul', 'Fre', 'Dut'}, 
-        help='linearize the sentences into this language',
-        default='Swe')
+        metavar='PGF_FILE',
+        default=['../data/UnigramSwe.pgf'],
+        help='Portable grammar file used to linearize the sentences')
 
     args = parser.parse_args()
     if args.verbose:
@@ -194,4 +196,6 @@ if __name__ == "__main__":
         answers   = [s[1] if len(s) > 1 else None for s in input_data]
         lang = 'Translate' + args.language[0]
         trans = 'Translate' + args.translate[0]
-        run(sentences, answers, lang, trans, args.trees, nparses, *init(args.grammar, args.bigram, args.unigram)) 
+        lang = list(pgf.readPGF(args.language[0]).languages.values())[0]
+        trans = list(pgf.readPGF(args.translate[0]).languages.values())[0]
+        run(sentences, answers, args.trees, nparses, lang, trans, *init(args.bigram, args.unigram)) 
