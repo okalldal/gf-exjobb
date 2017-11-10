@@ -1,6 +1,8 @@
+from signal import signal, SIGPIPE, SIG_DFL
 import argparse
 PYTHONIOENCODING="UTF-8"
 
+signal(SIGPIPE, SIG_DFL)
 
 parser = argparse.ArgumentParser()
 parser.add_argument('directory', type=str, help='Probability directory')
