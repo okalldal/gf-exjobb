@@ -1,0 +1,23 @@
+digraph G {
+  Sentence [label="Sentence" xlabel=100]
+  Pronoun [label="Pronoun" xlabel=20]
+  I_PRON [label="I_PRON" xlabel=50]
+  VerbPhrase [label="VerbPhrase" xlabel=40]
+  TransitiveVerb [label="TransitiveVerb" xlabel=50]
+  eat_V2 [label="eat_V2"]
+  Noun [label="Noun" xlabel=30]
+  bass_N [label="bass_2_N"]
+  Sentence -> Pronoun
+  Pronoun -> I_PRON
+  Sentence -> VerbPhrase
+  VerbPhrase -> TransitiveVerb
+  TransitiveVerb -> eat_V2 
+  VerbPhrase -> Noun
+  Noun -> bass_N
+  subgraph cluster_1 {
+		node [style=filled];
+		eat_V2
+                bass_N
+		label = "90";
+	}
+}

@@ -8,3 +8,4 @@ results/*
 **/__pycache__
 data/TRAIN-O-MATIC-DATA
 data/*.pgf
+report/graphs/*.png
