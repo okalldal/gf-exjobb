@@ -33,31 +33,45 @@ fi
 }
 
 em_and_recount () {
-echo $1
-run_em ../data/em_data/$1 ../results/$1.cnt
-echo "Recount no deprel"
+echo $1>&2
+run_em ../data/em_data/$1 ../results/$1.cnt "${2}"
+echo "Recount no deprel">&2
 recount_no_deprel ../results/$1.cnt ../results/$1_nodep.cnt
 }
 
 no_lang_em_recount () {
 mkdir ../data/em_data/no_$1_$2
-ln -rs ../data/$2/* ../data/em_data/no_$1_$2
+for lang in ../data/em_data/$2/*
+do
+ln -rs $lang ../data/em_data/no_$1_$2
+done
 rm ../data/em_data/no_$1_$2/$1
-em_and_recount ../data/em_data/no_$1_$2
+em_and_recount no_$1_$2 "${3}"
 rm -r ../data/em_data/no_$1_$2
 }
 
 only_lang_em_recount () {
 mkdir ../data/em_data/only_$1_$2
-ln -rs ../data/$2/$1 ../data/em_data/only_$1_$2
-em_and_recount ../data/em_data/only_$1_$2
+ln -rs ../data/em_data/$2/$1 ../data/em_data/only_$1_$2
+em_and_recount only_$1_$2 "${3}"
 rm -r ../data/em_data/only_$1_$2
 }
 
-em_and_recount gf_udgold
-em_and_recount wn_udgold
-#em_and_recount gf_autoparsed_th50
-#em_and_recount wn_autoparsed_th50
-#em_and_recount gf_uni_autoparsed_th50
-#em_and_recount wn_uni_autoparsed_th50
+run_all () {
+em_and_recount $1 "${2}"
+no_lang_em_recount eng $1 "${2}"
+only_lang_em_recount eng $1 "${2}"
+}
+
+run_all gf_udgold
+run_all gf_uni_udgold "$unigram_opts"
+
+run_all wn_udgold
+run_all wn_uni_udgold "$unigram_opts"
+
+run_all gf_uni_autoparsed_th50 "$unigram_opts"
+run_all gf_autoparsed_th50
+
+run_all wn_uni_autoparsed_th50 "$unigram_opts"
+run_all wn_autoparsed_th50
 
