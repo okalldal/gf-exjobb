@@ -69,9 +69,15 @@ run_all gf_uni_udgold "$unigram_opts"
 run_all wn_udgold
 run_all wn_uni_udgold "$unigram_opts"
 
+run_all kras_udgold
+run_all kras_uni_udgold "$unigram_opts"
+
 run_all gf_uni_autoparsed_th50 "$unigram_opts"
 run_all gf_autoparsed_th50
 
 run_all wn_uni_autoparsed_th50 "$unigram_opts"
 run_all wn_autoparsed_th50
+
+run_all kras_uni_autoparsed_th50 "$unigram_opts"
+run_all kras_autoparsed_th50
 

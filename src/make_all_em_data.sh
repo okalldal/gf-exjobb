@@ -12,6 +12,7 @@ parsed_uni_options="-l 6 -c 0 -s 2,3 -f 1:2" #Autoparsed
 wn_gf_pd_dir="../data/possibility_dictionaries/gf_wn"
 wn_pd_dir="../data/possibility_dictionaries/wn2"
 gf_pd_dir="../data/possibility_dictionaries/gf/"
+kras_pd_dir="../data/possibility_dictionaries/kras/"
 gold_count_dir="../data/feature_counts/UD_gold_counts"
 parsed_count_dir="../data/feature_counts/autoparsed"
 out_dir="../data/em_data/wn_udgold"
@@ -35,16 +36,15 @@ make_em_data $gf_pd_dir $gold_count_dir ../data/em_data/gf_uni_udgold "${gold_un
 make_em_data $wn_gf_pd_dir $gold_count_dir ../data/em_data/wn_udgold "${gold_options}"
 make_em_data $wn_gf_pd_dir $gold_count_dir ../data/em_data/wn_uni_udgold "${gold_uni_options}"
 
+make_em_data $kras_pd_dir $gold_count_dir ../data/em_data/kras_udgold "${gold_options}"
+make_em_data $kras_pd_dir $gold_count_dir ../data/em_data/kras_uni_udgold "${gold_uni_options}"
+
 make_em_data $gf_pd_dir $parsed_count_dir/th050 ../data/em_data/gf_autoparsed_th50 "${parsed_options}"
 make_em_data $gf_pd_dir $parsed_count_dir/th050 ../data/em_data/gf_uni_autoparsed_th50 "${parsed_uni_options}"
 
 make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_autoparsed_th50 "${parsed_options}"
 make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_uni_autoparsed_th50 "${parsed_uni_options}"
 
-
-make_em_data $gf_pd_dir $parsed_count_dir/th010 ../data/em_data/gf_autoparsed_th10 "${parsed_options}"
-
-make_em_data $wn_gf_pd_dir $parsed_count_dir/th010 ../data/em_data/wn_autoparsed_th10 "${parsed_options}"
-
-
+make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_autoparsed_th50 "${parsed_options}"
+make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_uni_autoparsed_th50 "${parsed_options}"
 
