@@ -7,11 +7,9 @@ from numpy import log
 import logging 
 # import pgf
 from nltk.corpus import wordnet as wn
-
+import argparse
 
 # TODO fix Pron
-
-
 def get_bigrams_for_lemmas(lemmas, sentence, parser):
     bigrams = [(w,h) for w, h in get_bigrams(sentence, parser) 
                if w.lemma in lemmas or h.lemma in lemmas]
@@ -70,26 +68,6 @@ def read_wnid2fun(path):
             except ValueError:
                 continue
 
-def init():
-    logging.basicConfig(level=logging.INFO)
-    logging.info('Loading Spacy')
-    spacy_en = spacy.load('en_depent_web_md')
-    logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs('../results/wn_eng_noun.probs'))
-    possdict = read_poss_dict(path='../data/possibility_dictionaries/wn/eng.txt')
-    """ GF 
-    logging.info('Loading GF')
-    lgr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
-    wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
-    linearize = lambda x: [lgr.linearize(pgf.ReadExpr(x))]
-    """
-    """ Wordnet """
-    logging.info('Loading Wordnet')
-    wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
-    linearize = lambda x: wn.synset(x).lemma_names()
-    logging.info('Initialization finished')
-
-    return spacy_en, probs, possdict, linearize, wn2fun
 
 def wordnet_examples(pos_filter=None):
     for s in wn.all_synsets():
@@ -97,9 +75,8 @@ def wordnet_examples(pos_filter=None):
             for ex in s.examples():
                 yield (s.offset(), ex)
 
-def test(spacy_en, probs, possdict, linearize, wn2fun):
-    sentences = wordnet_examples(pos_filter='n')
 
+def run(sentences, spacy_en, probs, possdict, linearize, wn2fun):
     lemma_not_found = 0
     prob_not_found = 0
     success = 0
@@ -148,6 +125,47 @@ def test(spacy_en, probs, possdict, linearize, wn2fun):
     print('total: {}, success: {}, total ambig: {}, ambig: {}, lemma errors: {}, prob error: {}'
         .format(total, success, ambig_total, ambig, lemma_not_found, prob_not_found))
 
+
+def init(args):
+    logging.basicConfig(level=logging.INFO)
+    logging.info('Loading Spacy')
+    spacy_en = spacy.load('en_depent_web_md')
+    logging.info('Loading Probabilities')
+    probs = defaultdict(lambda: 0, read_probs('../results/wn_eng_noun.probs'))
+    possdict = read_poss_dict(path=args.possdict)
+    """ GF 
+    logging.info('Loading GF')
+    lgr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
+    wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
+    linearize = lambda x: [lgr.linearize(pgf.ReadExpr(x))]
+    """
+    """ Wordnet """
+    logging.info('Loading Wordnet')
+    wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
+    linearize = lambda x: wn.synset(x).lemma_names()
+    logging.info('Initialization finished')
+
+    return spacy_en, probs, possdict, linearize, wn2fun
+
+
 if __name__ == "__main__":
-    res = test(*init())
-    pass
+    parser = ArgumentParser()
+    parser.add_argument('--possdict', 
+        nargs='?',
+        default='../data/possibility_dictionaries/wn/eng.txt'
+    )
+    parser.add_argument('--dict', '-d'
+        choices=['wn', 'gf']
+    )
+    parser.add_argument('--probs',
+        nargs='?'
+        default='../results/'
+    )
+    args = parser.parse_args()
+        
+    res = subprocess.run(['awk', '{a=a+$1}END{print a}', 'gf_autoparsed_th50.cnt'],
+            stdout=subprocess.PIPE)
+    total = float(res.stdout.decode().strip())
+
+    sentences = wordnet_examples(pos_filter='n')
+    run(sentences, *init(args))

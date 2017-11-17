@@ -2,7 +2,21 @@ import xml.etree.ElementTree as ET
 import os
 from itertools import chain
 from tqdm import tqdm
+import bz2
 
+# FUNCTIONS TO HANDLE UD PARSED TRAINOMATIC DATA
+
+def trainomatic(data_file, sense_file):
+    data = bz2.open(data_file)
+    sense = open(sense_file)
+
+    for sense_line in sense:
+        wnid = int(sense_line.strip().split('\t')[0].split(':')[1])
+    data.close()
+    sense.close()
+
+
+# FUNCTIONS TO HANDLE RAW TRAINOMATIC DATA
 DATA_DIR = '../data/TRAIN-O-MATIC-DATA/EN/EN.500-2.0'
 
 def parse(filepath):
