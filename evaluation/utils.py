@@ -3,6 +3,7 @@ from ast import literal_eval
 from tqdm import tqdm
 from collections import defaultdict
 import re
+from os.path import splitext
 
 class Word:
     def __init__(self, lemma, UDPOS=''):
@@ -34,13 +35,21 @@ def read_probs_old(path, progress_bar=True):
 
 
 def read_probs(filepath, dim=2, progress_bar=True):
+    ext = splitext(filepath)[1]
+    if ext == '.cnt':
+        awk = subprocess.run(['awk', '{a=a+$1}END{print a}', 'gf_autoparsed_th50.cnt'],
+            stdout=subprocess.PIPE)
+        total_count = float(awk.stdout.decode().strip())
+    else:
+        total_count = 1
+
     if progress_bar:
         nlines = get_num_lines(filepath)
     with open(filepath) as f:
         if progress_bar:
             f = tqdm(f, total=nlines)
         lines = (l.strip().split('\t') for l in f)
-        d = defaultdict(lambda: 0, {tuple(l[1:1+dim]): float(l[0]) for l in lines})
+        d = defaultdict(lambda: 0, {tuple(l[1:1+dim]): float(l[0])/total_counts for l in lines})
     return d
 
 
