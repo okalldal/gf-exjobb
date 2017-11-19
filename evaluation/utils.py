@@ -1,6 +1,9 @@
 import mmap
 from ast import literal_eval
-from tqdm import tqdm
+try
+    from tqdm import tqdm
+except:
+    tqdm = lambda x: x
 from collections import defaultdict
 import re
 from os.path import splitext
