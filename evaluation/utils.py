@@ -38,19 +38,20 @@ def read_probs_old(path, progress_bar=True):
 def read_probs(filepath, dim=2, progress_bar=True):
     ext = splitext(filepath)[1]
     if ext == '.cnt':
-        awk = subprocess.run(['awk', '{a=a+$1}END{print a}', 'gf_autoparsed_th50.cnt'],
+        awk = subprocess.run(['awk', '{a=a+$1}END{print a}', filepath],
             stdout=subprocess.PIPE)
+        print(awk.stdout.decode().strip())
         total_count = float(awk.stdout.decode().strip())
     else:
         total_count = 1
 
     if progress_bar:
         nlines = get_num_lines(filepath)
-    with open(filepath) as f:
+    with open(filepath, 'r') as f:
         if progress_bar:
             f = tqdm(f, total=nlines)
         lines = (l.strip().split('\t') for l in f)
-        d = defaultdict(lambda: 0, {tuple(l[1:1+dim]): float(l[0])/total_counts for l in lines})
+        d = defaultdict(lambda: 0, {tuple(l[1:1+dim]): float(l[0])/total_count for l in lines})
     return d
 
 
@@ -64,7 +65,7 @@ def read_poss_dict(path):
 
 def get_num_lines(file_path):
     """Return the number of lines in a file"""
-    with open(file_path, "r+") as f:
+    with open(file_path, "r") as f:
         buf = mmap.mmap(f.fileno(), 0)
         lines = 0
         while buf.readline():
