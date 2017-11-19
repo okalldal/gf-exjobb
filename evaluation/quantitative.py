@@ -133,14 +133,14 @@ def init(args):
     logging.info('Loading Probabilities')
     probs = defaultdict(lambda: 0, read_probs(args.probs))
     possdict = read_poss_dict(path=args.possdict)
-    """ GF """
     if args.dict == 'gf':
+        """ GF """
         logging.info('Loading GF')
         lgr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
         wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
         linearize = lambda x: [lgr.linearize(pgf.ReadExpr(x))]
-    """ Wordnet """
     elif args.dict == 'wn':
+        """ Wordnet """
         logging.info('Loading Wordnet')
         wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
         linearize = lambda x: wn.synset(x).lemma_names()
