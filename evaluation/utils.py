@@ -4,6 +4,7 @@ from tqdm import tqdm
 from collections import defaultdict
 import re
 from os.path import splitext
+import subprocess
 
 class Word:
     def __init__(self, lemma, UDPOS=''):
