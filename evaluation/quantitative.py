@@ -131,18 +131,19 @@ def init(args):
     logging.info('Loading Spacy')
     spacy_en = spacy.load('en_depent_web_md')
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs('../results/wn_eng_noun.probs'))
+    probs = defaultdict(lambda: 0, read_probs(args.probs))
     possdict = read_poss_dict(path=args.possdict)
-    """ GF 
-    logging.info('Loading GF')
-    lgr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
-    wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
-    linearize = lambda x: [lgr.linearize(pgf.ReadExpr(x))]
-    """
+    """ GF """
+    if args.dict == 'gf':
+        logging.info('Loading GF')
+        lgr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
+        wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
+        linearize = lambda x: [lgr.linearize(pgf.ReadExpr(x))]
     """ Wordnet """
-    logging.info('Loading Wordnet')
-    wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
-    linearize = lambda x: wn.synset(x).lemma_names()
+    elif args.dict == 'wn':
+        logging.info('Loading Wordnet')
+        wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
+        linearize = lambda x: wn.synset(x).lemma_names()
     logging.info('Initialization finished')
 
     return spacy_en, probs, possdict, linearize, wn2fun
