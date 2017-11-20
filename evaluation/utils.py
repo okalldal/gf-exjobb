@@ -62,9 +62,21 @@ def read_poss_dict(path):
     with open(path, encoding='utf-8') as f:
         # format: 
         #    columnist \t NOUN \t columnistFem_N \t columnistMasc_N
-        lines = [l.strip().split('\t') for l in f]
-    return defaultdict(lambda: [], {Word(l[0], l[1]): l[2:] for l in lines})
+        lines = (l.strip().split('\t') for l in f)
+        return defaultdict(lambda: [], {Word(l[0], l[1]): l[2:] for l in lines})
 
+def reverse_poss_dict(poss_dict_path):
+    out = dict()
+    with open(poss_dict_path, encoding='utf-8') as f:
+        lines = (l.strip().split('\t') for l in f)
+        for c in lines:
+            for fun in c[2:]:
+                if fun in out:
+                    out[fun].append(Word(c[0], c[1]))
+                else:
+                    out[fun] = [Word(c[0], c[1])]
+    return out
+                
 
 def get_num_lines(file_path):
     """Return the number of lines in a file"""
