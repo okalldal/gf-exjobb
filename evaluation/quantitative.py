@@ -6,7 +6,7 @@ from numpy import log
 import logging 
 # import pgf
 from nltk.corpus import wordnet as wn
-import argparse
+from argparse import ArgumentParser
 
 # TODO fix Pron
 def get_bigrams_for_lemmas(lemmas, sentence, parser):
@@ -163,9 +163,5 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
         
-    res = subprocess.run(['awk', '{a=a+$1}END{print a}', 'gf_autoparsed_th50.cnt'],
-            stdout=subprocess.PIPE)
-    total = float(res.stdout.decode().strip())
-
     sentences = wordnet_examples(pos_filter='n')
     run(sentences, *init(args))
