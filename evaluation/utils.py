@@ -1,6 +1,6 @@
 import mmap
 from ast import literal_eval
-try
+try:
     from tqdm import tqdm
 except:
     tqdm = lambda x: x

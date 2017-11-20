@@ -1,5 +1,4 @@
 import trainomatic
-import spacy
 from collections import defaultdict
 from itertools import product, groupby
 from utils import read_probs, read_poss_dict, Word
@@ -155,11 +154,11 @@ if __name__ == "__main__":
         nargs='?',
         default='../data/possibility_dictionaries/wn/eng.txt'
     )
-    parser.add_argument('--dict', '-d'
+    parser.add_argument('--dict', '-d',
         choices=['wn', 'gf']
     )
     parser.add_argument('--probs',
-        nargs='?'
+        nargs='?',
         default='../results/'
     )
     args = parser.parse_args()
