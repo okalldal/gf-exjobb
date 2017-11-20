@@ -8,15 +8,19 @@ from collections import defaultdict
 import re
 from os.path import splitext
 import subprocess
+import logging
 
 class Word:
     def __init__(self, lemma, UDPOS=''):
         self.is_root = lemma == 'ROOT'
-        self.lemma = lemma
-        self.UDPOS = UDPOS
+        self.lemma = lemma.lower()
+        self.UDPOS = UDPOS.lower()
 
     def __repr__(self):
-        return self.lemma + '_' + self.UDPOS
+        if self.is_root:
+            return 'ROOT'
+        else:
+            return self.lemma + '_' + self.UDPOS
 
     def __eq__(self, other):
         return self.__repr__() == other.__repr__()
@@ -43,8 +47,8 @@ def read_probs(filepath, dim=2, progress_bar=True):
     if ext == '.cnt':
         awk = subprocess.run(['awk', '{a=a+$1}END{print a}', filepath],
             stdout=subprocess.PIPE)
-        print(awk.stdout.decode().strip())
         total_count = float(awk.stdout.decode().strip())
+        logging.info('total prob count: {}'.format(total_count))
     else:
         total_count = 1
 
