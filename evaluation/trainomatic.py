@@ -19,13 +19,13 @@ def trainomatic(data_file, sense_file):
         conllu = [] 
         while True:
             data_line = data.readline().decode()
-            if data_line == '\n':
+            if not data_line or data_line == '\n':
                 break
             elif not data_line.startswith('#'): 
                 conllu.append(data_line)
         ud_tree = [UDNode(l) for l in conllu]
         
-        yield wnid, sent, ud_tree
+        yield wnid, ud_tree
 
     data.close()
     sense.close()
