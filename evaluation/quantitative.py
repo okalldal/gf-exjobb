@@ -1,24 +1,24 @@
-import trainomatic
-import spacy
+from trainomatic import trainomatic
 from collections import defaultdict
-from itertools import product, groupby
-from utils import read_probs, read_poss_dict, Word
+from itertools import product, groupby, islice
+from utils import read_probs, read_poss_dict, Word, reverse_poss_dict
 from numpy import log
 import logging 
-# import pgf
 from nltk.corpus import wordnet as wn
-import argparse
+from argparse import ArgumentParser
 
-# TODO fix Pron
-def get_bigrams_for_lemmas(lemmas, sentence, parser):
-    bigrams = [(w,h) for w, h in get_bigrams(sentence, parser) 
-               if w.lemma in lemmas or h.lemma in lemmas]
+def get_bigrams_for_lemmas(lemmas, tree):
+    bigrams = [(w,h) for w, h in get_bigrams(tree) 
+               if w in lemmas or h in lemmas]
     return list(set(bigrams))
 
 
-def get_bigrams(sentence, parser):
-    tree = parser(sentence)
-    return [(Word(w.lemma_, w.pos_), Word(w.head.lemma_, w.head.pos_) if w.dep_ != 'ROOT' else Word('ROOT')) 
+def get_bigrams(tree):
+    return [(
+             Word(w.lemma, w.upostag), 
+             Word(tree[w.head].lemma, tree[w.head].upostag) 
+                 if w.deprel != 'root' else Word('ROOT')
+            ) 
             for w in tree]
 
 
@@ -34,7 +34,6 @@ def possible_bigrams(bigrams, possdict):
         yield [(swap(w), swap(h)) for w, h in bigrams]
 
 
-# TODO make this nicer
 def bigrams_prob(bigrams, probdict):
     prob = 0
     total = 0
@@ -76,7 +75,7 @@ def wordnet_examples(pos_filter=None):
                 yield (s.offset(), ex)
 
 
-def run(sentences, spacy_en, probs, possdict, linearize, wn2fun):
+def run(trees, probs, possdict, linearize, wn2fun):
     lemma_not_found = 0
     prob_not_found = 0
     success = 0
@@ -84,14 +83,14 @@ def run(sentences, spacy_en, probs, possdict, linearize, wn2fun):
     ambig = 0
     ambig_total = 0
 
-    for i, (wnid, sentence) in enumerate(sentences):
+    for i, (wnid, tree) in enumerate(trees):
         total += 1
 
         fun = wn2fun[wnid] 
         if not fun:
             continue
-        lemmas = linearize(fun) 
-        bigrams = get_bigrams_for_lemmas(lemmas, sentence, spacy_en)
+        lemmas = linearize[fun] 
+        bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
         if not bigrams:
             lemma_not_found += 1
@@ -105,14 +104,13 @@ def run(sentences, spacy_en, probs, possdict, linearize, wn2fun):
         if is_ambig:
             ambig_total += 1 
         
-        """ FIRST """
+        """ FIRST 
         p, first = rank[0]
         in_top = any(w == fun or h == fun for (w, h) in first)
-                
-        """ ORACLE
+        """
+        """ ORACLE """
         p, top = next(groupby(rank, lambda x: x[0]))
         in_top = any(any(w == fun or h == fun for w, h in b) for p, b in top)
-        """
 
         if p == 0:
             prob_not_found += 1
@@ -128,25 +126,17 @@ def run(sentences, spacy_en, probs, possdict, linearize, wn2fun):
 
 def init(args):
     logging.basicConfig(level=logging.INFO)
-    logging.info('Loading Spacy')
-    spacy_en = spacy.load('en_depent_web_md')
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs(args.probs))
+    probs = defaultdict(lambda: 0, read_probs(args.probs, progress_bar=False))
     possdict = read_poss_dict(path=args.possdict)
+    linearize = reverse_poss_dict(args.possdict)
     if args.dict == 'gf':
-        """ GF """
-        logging.info('Loading GF')
-        lgr  = pgf.readPGF('../data/translate-pgfs/TranslateEng.pgf').languages['TranslateEng']
         wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
-        linearize = lambda x: [lgr.linearize(pgf.ReadExpr(x))]
     elif args.dict == 'wn':
-        """ Wordnet """
-        logging.info('Loading Wordnet')
         wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
-        linearize = lambda x: wn.synset(x).lemma_names()
     logging.info('Initialization finished')
 
-    return spacy_en, probs, possdict, linearize, wn2fun
+    return probs, possdict, linearize, wn2fun
 
 
 if __name__ == "__main__":
@@ -155,18 +145,28 @@ if __name__ == "__main__":
         nargs='?',
         default='../data/possibility_dictionaries/wn/eng.txt'
     )
-    parser.add_argument('--dict', '-d'
-        choices=['wn', 'gf']
+    parser.add_argument('--dict', '-d',
+        choices=['wn', 'gf'],
+        default='wn'
     )
     parser.add_argument('--probs',
-        nargs='?'
-        default='../results/'
+        nargs='?',
+        default='../results/wn_udgold_nodep.cnt'
+    )
+    parser.add_argument('--sentence-data',
+        nargs='?',
+        default='../../trainomatic/en.conllu.bz2'
+    )
+    parser.add_argument('--sentence-answer',
+        nargs='?',
+        default='../../trainomatic/en_egs.tsv'
+    )
+    parser.add_argument('--num', '-n',
+        nargs='?',
+        type=int,
+        default=1000
     )
     args = parser.parse_args()
-        
-    res = subprocess.run(['awk', '{a=a+$1}END{print a}', 'gf_autoparsed_th50.cnt'],
-            stdout=subprocess.PIPE)
-    total = float(res.stdout.decode().strip())
-
-    sentences = wordnet_examples(pos_filter='n')
-    run(sentences, *init(args))
+    trees = trainomatic(args.sentence_data, args.sentence_answer)
+    top = islice(trees, args.num)
+    run(top, *init(args))
