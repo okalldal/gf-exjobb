@@ -75,7 +75,7 @@ def wordnet_examples(pos_filter=None):
                 yield (s.offset(), ex)
 
 
-def run(trees, spacy_en, probs, possdict, linearize, wn2fun):
+def run(trees, probs, possdict, linearize, wn2fun):
     lemma_not_found = 0
     prob_not_found = 0
     success = 0
@@ -90,7 +90,7 @@ def run(trees, spacy_en, probs, possdict, linearize, wn2fun):
         if not fun:
             continue
         lemmas = linearize[fun] 
-        bigrams = get_bigrams_for_lemmas(lemmas, tree, spacy_en)
+        bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
         if not bigrams:
             lemma_not_found += 1
@@ -127,7 +127,7 @@ def run(trees, spacy_en, probs, possdict, linearize, wn2fun):
 def init(args):
     logging.basicConfig(level=logging.INFO)
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs(args.probs))
+    probs = defaultdict(lambda: 0, read_probs(args.probs, progress_bar=False))
     possdict = read_poss_dict(path=args.possdict)
     linearize = reverse_poss_dict(args.possdict)
     if args.dict == 'gf':
@@ -146,21 +146,27 @@ if __name__ == "__main__":
         default='../data/possibility_dictionaries/wn/eng.txt'
     )
     parser.add_argument('--dict', '-d',
-        choices=['wn', 'gf']
+        choices=['wn', 'gf'],
+        default='wn'
     )
     parser.add_argument('--probs',
         nargs='?',
-        default='../results/'
+        default='../results/wn_udgold_nodep.cnt'
     )
     parser.add_argument('--sentence-data',
         nargs='?',
-        default='example_data/test_en.conllu.bz2'
+        default='../../trainomatic/en.conllu.bz2'
     )
     parser.add_argument('--sentence-answer',
         nargs='?',
-        default='example_data/test_en_egs.tsv'
+        default='../../trainomatic/en_egs.tsv'
+    )
+    parser.add_argument('--num', '-n',
+        nargs='?',
+        type=int,
+        default=1000
     )
     args = parser.parse_args()
     trees = trainomatic(args.sentence_data, args.sentence_answer)
-    top = islice(trees, 10)
+    top = islice(trees, args.num)
     run(top, *init(args))
