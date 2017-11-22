@@ -85,7 +85,7 @@ def run(trees, probs, possdict, linearize, wn2fun):
     ambig_total = 0
 
     for i, (wnid, tree) in enumerate(trees):
-        if i % 1000 == 0:
+        if i % 100 == 0 or i<10:
             logging.info('i={}'.format(i))
 
         if i % 5000 == 0:
@@ -163,7 +163,7 @@ if __name__ == "__main__":
     )
     parser.add_argument('--sentence-data',
         nargs='?',
-        default='../../trainomatic/en.conllu.bz2'
+        default='../../trainomatic/en.conllu'
     )
     parser.add_argument('--sentence-answer',
         nargs='?',
@@ -176,6 +176,7 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     with open(args.sentence_answer) as sense:
-        trees = trainomatic(sys.stdin, sense)
-        top = islice(trees, args.num)
-        run(top, *init(args))
+        with open(args.sentence_data) as data:
+            trees = trainomatic(data, sense)
+            top = islice(trees, args.num)
+            run(top, *init(args))
