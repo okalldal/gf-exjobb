@@ -10,15 +10,12 @@ import bz2
 # FUNCTIONS TO HANDLE UD PARSED TRAINOMATIC DATA
 
 def trainomatic(data_file, sense_file):
-    data = bz2.open(data_file)
-    sense = open(sense_file)
-
     for sense_line in sense:
         wnid = int(sense_line.strip().split('\t')[0].split(':')[1])
         sent = sense_line.strip().split('\t')[1]
         conllu = [] 
         while True:
-            data_line = data.readline().decode()
+            data_line = data.readline()
             if not data_line or data_line == '\n':
                 break
             elif not data_line.startswith('#'): 
@@ -26,9 +23,6 @@ def trainomatic(data_file, sense_file):
         ud_tree = [UDNode(l) for l in conllu]
         
         yield wnid, ud_tree
-
-    data.close()
-    sense.close()
 
 #CONLLU_FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
 class UDNode:

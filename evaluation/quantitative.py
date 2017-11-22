@@ -4,6 +4,7 @@ from itertools import product, groupby, islice
 from utils import read_probs, read_poss_dict, Word, reverse_poss_dict
 from numpy import log
 import logging 
+import sys
 from nltk.corpus import wordnet as wn
 from argparse import ArgumentParser
 
@@ -167,6 +168,7 @@ if __name__ == "__main__":
         default=1000
     )
     args = parser.parse_args()
-    trees = trainomatic(args.sentence_data, args.sentence_answer)
-    top = islice(trees, args.num)
-    run(top, *init(args))
+    with open(args.sentence_answer as sense):
+        trees = trainomatic(sys.stdin, sense)
+        top = islice(trees, args.num)
+        run(top, *init(args))
