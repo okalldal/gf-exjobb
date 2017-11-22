@@ -85,6 +85,13 @@ def run(trees, probs, possdict, linearize, wn2fun):
     ambig_total = 0
 
     for i, (wnid, tree) in enumerate(trees):
+        if i % 1000 == 0:
+            logging.info('i={}'.format(i))
+
+        if i % 5000 == 0:
+            from IPython import embed
+            embed()
+
         total += 1
 
         fun = wn2fun[wnid] 
