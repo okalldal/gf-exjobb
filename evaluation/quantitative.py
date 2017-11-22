@@ -29,10 +29,12 @@ def possible_bigrams(bigrams, possdict):
     vocab.update(h for _, h in bigrams if not h.is_root and possdict[h])
     reduced_dict = [[(w, poss) for poss in possdict[w]] for w in vocab]
     permutations = product(*reduced_dict)
+    out = []
     for replacements in permutations:
         swapdict = dict(replacements) # swap word for abstract function
         swap = lambda w: swapdict[w] if w in vocab else w.lemma # Don't swap 'ROOT' etc
-        yield [(swap(w), swap(h)) for w, h in bigrams]
+        out.append([(swap(w), swap(h)) for w, h in bigrams])
+    return out
 
 
 def bigrams_prob(bigrams, probdict):
@@ -84,14 +86,14 @@ def run(trees, probs, possdict, linearize, wn2fun):
     ambig = 0
     ambig_total = 0
 
+    import resource
+
     for i, (wnid, tree) in enumerate(trees):
         if i % 100 == 0 or i<10:
             logging.info('i={}'.format(i))
 
-        if i % 5000 == 0:
-            from IPython import embed
-            embed()
-
+        if i % 100 == 0:
+            print('Memory usage: %s (kb)' % resource.getrusage(resource.RUSAGE_SELF).ru_maxrss)
         total += 1
 
         fun = wn2fun[wnid] 
