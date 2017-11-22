@@ -168,7 +168,7 @@ if __name__ == "__main__":
         default=1000
     )
     args = parser.parse_args()
-    with open(args.sentence_answer as sense):
+    with open(args.sentence_answer) as sense:
         trees = trainomatic(sys.stdin, sense)
         top = islice(trees, args.num)
         run(top, *init(args))

@@ -10,12 +10,12 @@ import bz2
 # FUNCTIONS TO HANDLE UD PARSED TRAINOMATIC DATA
 
 def trainomatic(data_file, sense_file):
-    for sense_line in sense:
+    for sense_line in sense_file:
         wnid = int(sense_line.strip().split('\t')[0].split(':')[1])
         sent = sense_line.strip().split('\t')[1]
         conllu = [] 
         while True:
-            data_line = data.readline()
+            data_line = data_file.readline()
             if not data_line or data_line == '\n':
                 break
             elif not data_line.startswith('#'): 
