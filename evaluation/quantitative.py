@@ -23,14 +23,16 @@ def get_bigrams(tree):
             for w in tree]
 
 
-def possible_bigrams(bigrams, possdict):
+def possible_bigrams(bigrams, possdict, max_perms=1000):
     vocab = set()
     vocab.update(w for w, _ in bigrams if not w.is_root and possdict[w])
     vocab.update(h for _, h in bigrams if not h.is_root and possdict[h])
     reduced_dict = [[(w, poss) for poss in possdict[w]] for w in vocab]
     permutations = product(*reduced_dict)
     out = []
-    for replacements in islice(permutations, 1000):
+    for i, replacements in enumerate(permutations):
+        if i > max_perms:
+            return None
         swapdict = dict(replacements) # swap word for abstract function
         swap = lambda w: swapdict[w] if w in vocab else w.lemma # Don't swap 'ROOT' etc
         out.append([(swap(w), swap(h)) for w, h in bigrams])
@@ -85,15 +87,16 @@ def run(trees, probs, possdict, linearize, wn2fun):
     total = 0
     ambig = 0
     ambig_total = 0
+    permutation_overflow = 0
 
     import resource
 
     for i, (wnid, tree) in enumerate(trees):
-        if i % 100 == 0 or i<10:
-            logging.info('i={}'.format(i))
 
         if i % 100 == 0:
+            logging.info('i={}'.format(i))
             print('Memory usage: %s (kb)' % resource.getrusage(resource.RUSAGE_SELF).ru_maxrss)
+
         total += 1
 
         fun = wn2fun[wnid] 
@@ -106,8 +109,14 @@ def run(trees, probs, possdict, linearize, wn2fun):
             lemma_not_found += 1
             continue
 
+        poss_bigrams = possible_bigrams(bigrams, possdict)
+        
+        if not poss_bigrams:
+            permutation_overflow += 1
+            continue
+
         rank = [(bigrams_prob(b, probs), b) 
-                for b in possible_bigrams(bigrams, possdict)]
+                for b in poss_bigrams]
         is_ambig = len(rank) > 1
         rank = sorted(rank, key=lambda x: x[0])
        
@@ -130,8 +139,10 @@ def run(trees, probs, possdict, linearize, wn2fun):
             if in_top:
                 success += 1
 
-    print('total: {}, success: {}, total ambig: {}, ambig: {}, lemma errors: {}, prob error: {}'
-        .format(total, success, ambig_total, ambig, lemma_not_found, prob_not_found))
+    print(('total: {}, success: {}, total ambig: {}, success ambig: {}, lemma errors:' 
+          '{}, prob error: {}, permutation overflow: {} ')
+            .format(total, success, ambig_total, ambig, lemma_not_found,
+            prob_not_found, permutation_overflow))
 
 
 def init(args):
