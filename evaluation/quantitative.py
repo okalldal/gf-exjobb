@@ -30,7 +30,7 @@ def possible_bigrams(bigrams, possdict):
     reduced_dict = [[(w, poss) for poss in possdict[w]] for w in vocab]
     permutations = product(*reduced_dict)
     out = []
-    for replacements in permutations:
+    for replacements in islice(permutations, 1000):
         swapdict = dict(replacements) # swap word for abstract function
         swap = lambda w: swapdict[w] if w in vocab else w.lemma # Don't swap 'ROOT' etc
         out.append([(swap(w), swap(h)) for w, h in bigrams])
