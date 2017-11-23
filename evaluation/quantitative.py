@@ -9,24 +9,22 @@ from nltk.corpus import wordnet as wn
 from argparse import ArgumentParser
 
 def get_bigrams_for_lemmas(lemmas, tree):
-    bigrams = [(w,h) for w, h in get_bigrams(tree) 
-               if w.lemma in lemmas or h.lemma in lemmas]
+    bigrams = [w for w in get_bigrams(tree) 
+               if w[0].lemma in lemmas or w[1].lemma in lemmas]
     return list(set(bigrams))
 
 
 def get_bigrams(tree):
-    return [(
-             Word(w.lemma, w.upostag, w.deprel), 
-             Word(tree[w.head].lemma, tree[w.head].upostag) 
-                 if w.deprel != 'root' else Word('ROOT')
-            ) 
-            for w in tree]
+    for w in tree:
+        dep = Word(w.lemma, w.upostag)
+        head = Word(tree[w.head].lemma, tree[w.head].upostag)
+        yield (dep, head, w.deprel)
 
 
 def possible_bigrams(bigrams, possdict, deprel, max_perms=1000):
     vocab = set()
-    vocab.update(w for w, _ in bigrams if not w.is_root and possdict[w])
-    vocab.update(h for _, h in bigrams if not h.is_root and possdict[h])
+    vocab.update(w[0] for w in bigrams if not w.is_root and possdict[w[0]])
+    vocab.update(w[1] for w in bigrams if not w.is_root and possdict[w[1]])
     reduced_dict = [[(w, poss) for poss in possdict[w]] for w in vocab]
     permutations = product(*reduced_dict)
     out = []
@@ -36,9 +34,9 @@ def possible_bigrams(bigrams, possdict, deprel, max_perms=1000):
         swapdict = dict(replacements) # swap word for abstract function
         swap = lambda w: swapdict[w] if w in vocab else w.lemma # Don't swap 'ROOT' etc
         if not deprel:
-            out.append([(swap(w), swap(h)) for w, h in bigrams])
+            out.append([(swap(w), swap(h)) for w, h, rel in bigrams])
         else:
-            out.append([(swap(w), swap(h), w.deprel) for w, h in bigrams])
+            out.append([(swap(w), swap(h), rel) for w, h, rel in bigrams])
     return out
 
 
