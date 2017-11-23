@@ -9,31 +9,34 @@ from nltk.corpus import wordnet as wn
 from argparse import ArgumentParser
 
 def get_bigrams_for_lemmas(lemmas, tree):
-    bigrams = [(w,h) for w, h in get_bigrams(tree) 
-               if w in lemmas or h in lemmas]
+    bigrams = [w for w in get_bigrams(tree) 
+               if w[0].lemma in lemmas or w[1].lemma in lemmas]
     return list(set(bigrams))
 
 
 def get_bigrams(tree):
-    return [(
-             Word(w.lemma, w.upostag), 
-             Word(tree[w.head].lemma, tree[w.head].upostag) 
-                 if w.deprel != 'root' else Word('ROOT')
-            ) 
-            for w in tree]
+    for w in tree:
+        dep = Word(w.lemma, w.upostag)
+        head = Word(tree[w.head].lemma, tree[w.head].upostag)
+        yield (dep, head, w.deprel)
 
 
-def possible_bigrams(bigrams, possdict):
+def possible_bigrams(bigrams, possdict, deprel, max_perms=1000):
     vocab = set()
-    vocab.update(w for w, _ in bigrams if not w.is_root and possdict[w])
-    vocab.update(h for _, h in bigrams if not h.is_root and possdict[h])
+    vocab.update(w[0] for w in bigrams if not w.is_root and possdict[w[0]])
+    vocab.update(w[1] for w in bigrams if not w.is_root and possdict[w[1]])
     reduced_dict = [[(w, poss) for poss in possdict[w]] for w in vocab]
     permutations = product(*reduced_dict)
     out = []
-    for replacements in permutations:
+    for i, replacements in enumerate(permutations):
+        if i > max_perms:
+            return None
         swapdict = dict(replacements) # swap word for abstract function
         swap = lambda w: swapdict[w] if w in vocab else w.lemma # Don't swap 'ROOT' etc
-        out.append([(swap(w), swap(h)) for w, h in bigrams])
+        if not deprel:
+            out.append([(swap(w), swap(h)) for w, h, rel in bigrams])
+        else:
+            out.append([(swap(w), swap(h), rel) for w, h, rel in bigrams])
     return out
 
 
@@ -78,36 +81,43 @@ def wordnet_examples(pos_filter=None):
                 yield (s.offset(), ex)
 
 
-def run(trees, probs, possdict, linearize, wn2fun):
+def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
     lemma_not_found = 0
     prob_not_found = 0
     success = 0
     total = 0
     ambig = 0
     ambig_total = 0
+    permutation_overflow = 0
 
     import resource
 
     for i, (wnid, tree) in enumerate(trees):
-        if i % 100 == 0 or i<10:
-            logging.info('i={}'.format(i))
 
         if i % 100 == 0:
+            logging.info('i={}'.format(i))
             print('Memory usage: %s (kb)' % resource.getrusage(resource.RUSAGE_SELF).ru_maxrss)
+
         total += 1
 
         fun = wn2fun[wnid] 
         if not fun:
             continue
-        lemmas = linearize[fun] 
+        lemmas = [w.lemma for w in linearize[fun]] 
         bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
         if not bigrams:
             lemma_not_found += 1
             continue
 
+        poss_bigrams = possible_bigrams(bigrams, possdict, deprel=use_deprel)
+        
+        if not poss_bigrams:
+            permutation_overflow += 1
+            continue
+
         rank = [(bigrams_prob(b, probs), b) 
-                for b in possible_bigrams(bigrams, possdict)]
+                for b in poss_bigrams]
         is_ambig = len(rank) > 1
         rank = sorted(rank, key=lambda x: x[0])
        
@@ -130,8 +140,10 @@ def run(trees, probs, possdict, linearize, wn2fun):
             if in_top:
                 success += 1
 
-    print('total: {}, success: {}, total ambig: {}, ambig: {}, lemma errors: {}, prob error: {}'
-        .format(total, success, ambig_total, ambig, lemma_not_found, prob_not_found))
+    print(('total: {}, success: {}, total ambig: {}, success ambig: {}, lemma errors:' 
+          '{}, prob error: {}, permutation overflow: {} ')
+            .format(total, success, ambig_total, ambig, lemma_not_found,
+            prob_not_found, permutation_overflow))
 
 
 def init(args):
@@ -159,17 +171,20 @@ if __name__ == "__main__":
         choices=['wn', 'gf'],
         default='wn'
     )
+    parser.add_argument('--deprel',
+        action='store_true'
+    )
     parser.add_argument('--probs',
         nargs='?',
-        default='../results/wn_udgold_nodep.cnt'
+        default='../results/kras_udgold_nodep.cnt'
     )
     parser.add_argument('--sentence-data',
         nargs='?',
-        default='../../trainomatic/en.conllu'
+        default='example_data/test_en.conllu'
     )
     parser.add_argument('--sentence-answer',
         nargs='?',
-        default='../../trainomatic/en_egs.tsv'
+        default='example_data/test_en_egs.tsv'
     )
     parser.add_argument('--num', '-n',
         nargs='?',
@@ -181,4 +196,4 @@ if __name__ == "__main__":
         with open(args.sentence_data) as data:
             trees = trainomatic(data, sense)
             top = islice(trees, args.num)
-            run(top, *init(args))
+            run(top, args.deprel, *init(args))

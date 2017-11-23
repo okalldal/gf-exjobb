@@ -20,7 +20,8 @@ class Word:
         if self.is_root:
             return 'ROOT'
         else:
-            return self.lemma + '_' + self.UDPOS
+            return (self.lemma +
+                ('_' + self.UDPOS if self.UDPOS else ''))
 
     def __eq__(self, other):
         return self.__repr__() == other.__repr__()
@@ -42,7 +43,7 @@ def read_probs_old(path, progress_bar=True):
             yield (tuple(rexp.findall(x)), float(p))
 
 
-def read_probs(filepath, dim=2, progress_bar=True):
+def read_probs(filepath, progress_bar=True):
     ext = splitext(filepath)[1]
     if ext == '.cnt':
         awk = subprocess.run(['awk', '{a=a+$1}END{print a}', filepath],
@@ -58,7 +59,7 @@ def read_probs(filepath, dim=2, progress_bar=True):
         if progress_bar:
             f = tqdm(f, total=nlines)
         lines = (l.strip().split('\t') for l in f)
-        d = defaultdict(lambda: 0, {tuple(l[1:1+dim]): float(l[0])/total_count for l in lines})
+        d = defaultdict(lambda: 0, {tuple(l[1:]): float(l[0])/total_count for l in lines})
     return d
 
 
