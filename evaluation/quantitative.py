@@ -132,7 +132,7 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         """
         """ ORACLE """
         p, top = next(groupby(rank, lambda x: x[0]))
-        in_top = any(any(w == fun or h == fun for w, h in b) for p, b in top)
+        in_top = any(any(w[0] == fun or w[1] == fun for w in b) for p, b in top)
 
         if p == 0:
             prob_not_found += 1
