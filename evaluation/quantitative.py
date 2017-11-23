@@ -16,7 +16,7 @@ def get_bigrams_for_lemmas(lemmas, tree):
 
 def get_bigrams(tree):
     return [(
-             Word(w.lemma, w.upostag), 
+             Word(w.lemma, w.upostag, w.deprel), 
              Word(tree[w.head].lemma, tree[w.head].upostag) 
                  if w.deprel != 'root' else Word('ROOT')
             ) 
@@ -78,7 +78,7 @@ def wordnet_examples(pos_filter=None):
                 yield (s.offset(), ex)
 
 
-def run(trees, probs, possdict, linearize, wn2fun):
+def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
     lemma_not_found = 0
     prob_not_found = 0
     success = 0
@@ -159,17 +159,20 @@ if __name__ == "__main__":
         choices=['wn', 'gf'],
         default='wn'
     )
+    parser.add_argument('--deprel',
+        action='store_true'
+    )
     parser.add_argument('--probs',
         nargs='?',
-        default='../results/wn_udgold_nodep.cnt'
+        default='../results/kras_udgold_nodep.cnt'
     )
     parser.add_argument('--sentence-data',
         nargs='?',
-        default='../../trainomatic/en.conllu'
+        default='example_data/test_en.conllu'
     )
     parser.add_argument('--sentence-answer',
         nargs='?',
-        default='../../trainomatic/en_egs.tsv'
+        default='example_data/test_en_egs.tsv'
     )
     parser.add_argument('--num', '-n',
         nargs='?',
@@ -181,4 +184,4 @@ if __name__ == "__main__":
         with open(args.sentence_data) as data:
             trees = trainomatic(data, sense)
             top = islice(trees, args.num)
-            run(top, *init(args))
+            run(top, args.deprel, *init(args))

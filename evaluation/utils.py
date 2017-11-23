@@ -11,16 +11,19 @@ import subprocess
 import logging
 
 class Word:
-    def __init__(self, lemma, UDPOS=''):
+    def __init__(self, lemma, UDPOS='', deprel=''):
         self.is_root = lemma == 'ROOT'
         self.lemma = lemma.lower()
         self.UDPOS = UDPOS.lower()
+        self.deprel = deprel.lower()
 
     def __repr__(self):
         if self.is_root:
             return 'ROOT'
         else:
-            return self.lemma + '_' + self.UDPOS
+            return self.lemma + 
+                ('_' + self.UDPOS if self.UDPOS else '') +
+                ('-' + self.deprel if self.deprel else '')
 
     def __eq__(self, other):
         return self.__repr__() == other.__repr__()
