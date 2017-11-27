@@ -27,7 +27,7 @@ def run(sentences, wndict, probdict, possdict, linearize):
             continue
             
         probs = (((probdict[(poss,)], poss) for poss in possdict[l]) for l in lemmas)
-        rerank = sorted(chain(*probs), key=lambda x: x[0], reverse=True)
+        rerank = list(sorted(chain(*probs), key=lambda x: x[0], reverse=True))
         p_rand, top_rand = random.choice(rerank)
         p, top = rerank[0]
         if p == 0:

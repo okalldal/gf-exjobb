@@ -69,7 +69,7 @@ def read_probs(filepath, progress_bar=False, discount=0.4):
         if progress_bar:
             f = tqdm(f, total=nlines)
         lines = (l.strip().split('\t') for l in f)
-        d = StupidDict((tuple(l[1:]), float(l[0])/total_count for l in lines))
+        d = StupidDict((tuple(l[1:]), float(l[0])/total_count) for l in lines)
         d.discount=discount
     return d
 
