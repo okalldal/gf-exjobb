@@ -53,7 +53,7 @@ class StupidDict(dict):
             return 0 #  raise KeyError('no element or backoffs available for this ngram: {}'.format(element))
 
 
-def read_probs(filepath, progress_bar=True, discount=0.4):
+def read_probs(filepath, progress_bar=False, discount=0.4):
     ext = splitext(filepath)[1]
     if ext == '.cnt':
         awk = subprocess.run(['awk', '{a=a+$1}END{print a}', filepath],
