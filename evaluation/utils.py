@@ -43,7 +43,17 @@ def read_probs_old(path, progress_bar=True):
             yield (tuple(rexp.findall(x)), float(p))
 
 
-def read_probs(filepath, progress_bar=True):
+class StupidDict(dict):
+    def __missing__(self, element):
+        if element is tuple and len(element)>1:
+            return self[element[:-1]]*self.discount
+        #elif element is tuple:
+        #    return self[element[0]]
+        else:
+            return 0 #  raise KeyError('no element or backoffs available for this ngram: {}'.format(element))
+
+
+def read_probs(filepath, progress_bar=True, discount=0.4):
     ext = splitext(filepath)[1]
     if ext == '.cnt':
         awk = subprocess.run(['awk', '{a=a+$1}END{print a}', filepath],
@@ -59,7 +69,8 @@ def read_probs(filepath, progress_bar=True):
         if progress_bar:
             f = tqdm(f, total=nlines)
         lines = (l.strip().split('\t') for l in f)
-        d = defaultdict(lambda: 0, {tuple(l[1:]): float(l[0])/total_count for l in lines})
+        d = StupidDict((tuple(l[1:]), float(l[0])/total_count for l in lines))
+        d.discount=discount
     return d
 
 
