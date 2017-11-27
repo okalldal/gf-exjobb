@@ -43,7 +43,7 @@ def read_probs_old(path, progress_bar=True):
             yield (tuple(rexp.findall(x)), float(p))
 
 
-def read_probs(filepath, progress_bar=True):
+def read_probs(filepath, progress_bar=False):
     ext = splitext(filepath)[1]
     if ext == '.cnt':
         awk = subprocess.run(['awk', '{a=a+$1}END{print a}', filepath],
