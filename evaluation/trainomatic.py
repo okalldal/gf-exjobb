@@ -12,7 +12,6 @@ import bz2
 def trainomatic(data_file, sense_file):
     for sense_line in sense_file:
         wnid = int(sense_line.strip().split('\t')[0].split(':')[1])
-        sent = sense_line.strip().split('\t')[1]
         conllu = [] 
         while True:
             data_line = data_file.readline()
@@ -23,6 +22,13 @@ def trainomatic(data_file, sense_file):
         ud_tree = [UDNode(l) for l in conllu]
         
         yield wnid, ud_tree
+
+def trainomatic_sentences(sense_file):
+    for sense_line in sense_file:
+        wnid = int(sense_line.strip().split('\t')[0].split(':')[1])
+        sent = sense_line.strip().split('\t')[1]
+        
+        yield wnid, sent
 
 #CONLLU_FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
 class UDNode:
