@@ -5,12 +5,14 @@ import logging
 class EM:
 
     def __init__(self, poss_dict_by_lang_and_ngram_position,
+                 total_fun_ngrams,
                  fun_vocab_size_by_position,
                  word_vocab_size_by_lang_and_position,
                  counts_by_lang,
                  ngrams_by_lang,
                  convergence_threshold=1e-5):
         self.poss_dict_by_lang_and_ngram_position = poss_dict_by_lang_and_ngram_position
+        self.total_fun_ngrams = total_fun_ngrams
         self.fun_vocab_size_by_position = fun_vocab_size_by_position
         self.word_vocab_size_by_lang_and_position = word_vocab_size_by_lang_and_position
         self.counts_by_lang = counts_by_lang
@@ -49,16 +51,15 @@ class EM:
         return convergence_diff
 
     def update_counts(self, lang, count, ngram):
-        fun_ngrams = self.possible_fun_ngrams(lang, ngram)
-        logging.debug("Possible ngrams: {}".format(fun_ngrams))
+        #fun_ngrams = self.possible_fun_ngrams(lang, ngram)
+        #logging.debug("Possible ngrams: {}".format(fun_ngrams))
         joint_probs = [self.get_fun_ngram_count(fun_ngram) * self.get_ngram_conditional(ngram, fun_ngram, lang) for
-                       fun_ngram in fun_ngrams]
+                       fun_ngram in ngram]
         logging.debug("Joint probs: {}".format(joint_probs))
         total_prob = sum(joint_probs)
         fun_ngram_probs = [prob / total_prob for prob in
                            joint_probs]  # =P(Y|X) = \phi_{si.}*\pi / (\sum_k \phi_{sik}*\pi_k
-        for i, fun_ngram in enumerate(fun_ngrams):
-            expected_count = count * fun_ngram_probs[i]
+        for expected_count, fun_ngram in zip(fun_ngram_probs, ngram):
             logging.debug("Updateing: {}, {}, {}".format(expected_count,ngram,fun_ngram))
             self.update_fun_ngram_counts(fun_ngram, expected_count)
             self.update_word_conditionals(lang, ngram, fun_ngram, expected_count)
@@ -67,27 +68,24 @@ class EM:
         return product(*[poss_dict[word] for word, poss_dict in zip(ngram,self.poss_dict_by_lang_and_ngram_position[lang])])
 
     def get_fun_ngram_count(self, fun_ngram):
-        return self.fun_ngram_counts[fun_ngram]
+        return self.fun_ngram_counts[fun_ngram.id]
 
     def get_ngram_conditional(self, ngram,fun_ngram,lang):
         probability = 1
-        for ngram_position, fun in enumerate(fun_ngram):
-            word = ngram[ngram_position]
-            fun_conditional_index = self.poss_dict_by_lang_and_ngram_position[lang][ngram_position][word].index(fun)
+        for ngram_position, fun in enumerate(fun_ngram.funs):
+            word = fun_ngram.words[ngram_position]
+            fun_conditional_index = fun_ngram.fun_conditionals[ngram_position]
             probability = probability*self.word_conditionals[lang][ngram_position][word][fun_conditional_index]\
                           /self.fun_by_lang_and_position[lang][ngram_position][fun]
         return probability
 
     def update_fun_ngram_counts(self, fun_ngram, expected_count):
-        if fun_ngram not in self.new_fun_ngram_counts.keys():
-            self.new_fun_ngram_counts[fun_ngram] = expected_count
-        else:
-            self.new_fun_ngram_counts[fun_ngram] = self.new_fun_ngram_counts[fun_ngram] + expected_count
+        self.new_fun_ngram_counts[fun_ngram.id] = self.new_fun_ngram_counts[fun_ngram.id] + expected_count
 
     def update_word_conditionals(self, lang, ngram, fun_ngram, expected_count):
-        for ngram_position, fun in enumerate(fun_ngram):
-            word = ngram[ngram_position]
-            fun_conditional_index = self.poss_dict_by_lang_and_ngram_position[lang][ngram_position][word].index(fun)
+        for ngram_position, fun in enumerate(fun_ngram.funs):
+            word = fun_ngram.words[ngram_position]
+            fun_conditional_index = fun_ngram.fun_conditionals[ngram_position]
             self.new_word_conditionals[lang][ngram_position][word][fun_conditional_index] = \
                     self.new_word_conditionals[lang][ngram_position][word][fun_conditional_index] + expected_count
 
@@ -102,7 +100,7 @@ class EM:
         self.fun_by_lang_and_position = [[[1]*fun_vocab_size
                                               for fun_vocab_size in self.fun_vocab_size_by_position]
                                              for _ in range(self.langs)]
-        self.fun_ngram_counts = defaultdict(lambda : 1)
+        self.fun_ngram_counts = [1]*self.total_fun_ngrams
 
 
     def init_new_counters(self):
@@ -112,7 +110,7 @@ class EM:
         self.new_fun_by_lang_and_position = [[[0] * fun_vocab_size
                                           for fun_vocab_size in self.fun_vocab_size_by_position]
                                          for _ in range(self.langs)]
-        self.new_fun_ngram_counts = dict()
+        self.new_fun_ngram_counts = [0]*self.total_fun_ngrams
 
 
     def save_counters(self):
@@ -122,7 +120,7 @@ class EM:
 
 
     def get_convergence_diff(self):
-        return max(abs(self.new_fun_ngram_counts[fun]-self.fun_ngram_counts[fun]) for fun in self.new_fun_ngram_counts.keys())
+        return 0#max(abs(self.new_fun_ngram_counts[fun]-self.fun_ngram_counts[fun]) for fun in self.new_fun_ngram_counts.keys())
 
 
 class EMPossibility:
@@ -145,7 +143,7 @@ class EMRecordCreater:
             if fun_ngram not in self.fun_ngram2id.keys():
                 self.fun_ngram2id[fun_ngram]=self.current_id
                 self.id2fun_ngram.append(fun_ngram)
-                current_id = current_id + 1
+                self.current_id = self.current_id + 1
             conditionals = tuple(poss_dicts_by_position[i][word_ids[i]].index(fun) for i, fun in enumerate(fun_ngram))
             yield EMPossibility(self.fun_ngram2id[fun_ngram],word_ids,fun_ngram,conditionals)
 
@@ -219,6 +217,7 @@ if __name__ == '__main__':
     ngrams = []
     counts = []
     current_lang = 0
+    record_creater = EMRecordCreater()
     for l in sys.stdin:
         if l.strip('\n') == '---': #new language
             current_lang = current_lang + 1
@@ -234,14 +233,15 @@ if __name__ == '__main__':
             for position, word in enumerate(words):
                 pos = position2pos[position]
                 word_ids.append(word2id_by_pos_and_lang[current_lang][pos][word])
-            ngrams.append(tuple(word_ids))
+            ngrams.append(list(record_creater.make_em_records(word_ids, poss_dicts_by_lang_and_position[current_lang])))
 
         n_grams_by_lang.append(ngrams)
         counts_by_lang.append(counts)
 
     print(current_fun_id_by_position, file=sys.stderr)
     print(current_word_id_by_lang_and_position, file=sys.stderr)
-    em = EM(poss_dicts_by_lang_and_position, current_fun_id_by_position, current_word_id_by_lang_and_position, counts_by_lang,n_grams_by_lang)
+    total_fun_ngrams = record_creater.current_id
+    em = EM(poss_dicts_by_lang_and_position, total_fun_ngrams, current_fun_id_by_position, current_word_id_by_lang_and_position, counts_by_lang,n_grams_by_lang)
     em.run()
     em_probs = em.fun_ngram_counts
     for fun, probability in em_probs.items():
