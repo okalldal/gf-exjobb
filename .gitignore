@@ -11,3 +11,4 @@ data/*.pgf
 report/graphs/*.png
 results
 **/*.pyc
+*.db
