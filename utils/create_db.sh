@@ -30,5 +30,4 @@ for f in $FILES; do
   echo "DELETE FROM total_probs WHERE name='$name'"
   echo "INSERT INTO total_probs(name, total) " \
        "SELECT '$name' AS name, SUM(prob) AS total FROM $name;"
-  echo ".schema $name"
 done
