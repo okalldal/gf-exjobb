@@ -1,5 +1,7 @@
 from itertools import product
 from collections import defaultdict
+from math import log
+import sys
 
 
 class EM:
@@ -10,6 +12,7 @@ class EM:
                  convergence_threshold=1e-5):
         self.poss_dict_by_lang_and_ngram_position = poss_dict_by_lang_and_ngram_position
         self.counts_by_lang = counts_by_lang
+        self.total_counts = sum([sum(counts) for counts in counts_by_lang])
         self.ngrams_by_lang = ngrams_by_lang
         self.langs = len(poss_dict_by_lang_and_ngram_position)
         self.positions = len(poss_dict_by_lang_and_ngram_position[0])
@@ -104,7 +107,9 @@ class EM:
 
 
     def get_convergence_diff(self):
-        return max(abs(self.new_fun_ngram_counts[fun]-self.fun_ngram_counts[fun]) for fun in self.new_fun_ngram_counts.keys())
+        return sum(self.new_fun_ngram_counts[fun]*log(self.new_fun_ngram_counts[fun]/self.fun_ngram_counts[fun])
+                   for fun in self.new_fun_ngram_counts.keys()
+                   if self.fun_ngram_counts[fun]>1e-10 and self.new_fun_ngram_counts[fun]>1e-10)/self.total_counts
 
 
 class EMPossibility:
@@ -136,33 +141,39 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-p', nargs='+', help='parts of speech column wise')
     parser.add_argument('-l', nargs='+', help='languages in order of input')
-    parser.add_argument('-d', type=str, required=True, help='path to folder with possibility dictionaries')
+    parser.add_argument('-d', type=str, required=False, help='path to folder with possibility dictionaries')
+    parser.add_argument('-o', type=int,
+                        help='Ngram order',
+                        default=2)
+    parser.add_argument('-f', type=int, help='Number of features', default=2)
     args = parser.parse_args()
-    position2pos = args.p
-    parts_of_speech = set(args.p)
-    pd_path=args.d
-    langs = args.l
-    n_gram_order=len(parts_of_speech)
 
-    poss_dicts_by_lang_and_pos = list()
-    for s, lang in enumerate(langs):
-        poss_dicts_by_pos = {pos : dict() for pos in parts_of_speech}
-        with open(pd_path+"/"+lang+".txt", mode='r', encoding="utf-8") as file:
-            for line in file:
-                l_split = line.strip('\n').split('\t')
-                word = l_split[0]
-                pos = l_split[1]
-                funs = l_split[2:]
-                if pos in parts_of_speech:
-                    if word in poss_dicts_by_pos[pos].keys():
-                        poss_dicts_by_pos[pos][word] = list(set(poss_dicts_by_pos[pos][word]+funs))
-                    else:
-                        poss_dicts_by_pos[pos][word]=funs
-        poss_dicts_by_lang_and_pos.append(poss_dicts_by_pos)
-    poss_dicts_by_lang_and_position = \
-        [[poss_dicts_by_lang_and_pos[lang][pos] for pos in position2pos] for lang in range(len(langs))]
+    if args.d:
+        position2pos = args.p
+        parts_of_speech = set(args.p)
+        pd_path=args.d
+        langs = args.l
+        n_gram_order=len(parts_of_speech)
 
-    import sys
+        poss_dicts_by_lang_and_pos = list()
+        for s, lang in enumerate(langs):
+            poss_dicts_by_pos = {pos : dict() for pos in parts_of_speech}
+            with open(pd_path+"/"+lang+".txt", mode='r', encoding="utf-8") as file:
+                for line in file:
+                    l_split = line.strip('\n').split('\t')
+                    word = l_split[0]
+                    pos = l_split[1]
+                    funs = l_split[2:]
+                    if pos in parts_of_speech:
+                        if word in poss_dicts_by_pos[pos].keys():
+                            poss_dicts_by_pos[pos][word] = list(set(poss_dicts_by_pos[pos][word]+funs))
+                        else:
+                            poss_dicts_by_pos[pos][word]=funs
+            poss_dicts_by_lang_and_pos.append(poss_dicts_by_pos)
+        poss_dicts_by_lang_and_position = \
+            [[poss_dicts_by_lang_and_pos[lang][pos] for pos in position2pos] for lang in range(len(langs))]
+
+
 
     if sys.stdin.__next__().strip('\n') != '---':
         print('Input must start with ---', file=sys.stderr)
@@ -174,24 +185,34 @@ if __name__ == '__main__':
     ngrams = []
     counts = []
     current_lang = 0
+    em_data_poss_dicts_by_lang_and_position = []
+    poss_dicts = [defaultdict(list) for _ in range(args.o)]
     for l in sys.stdin:
         if l.strip('\n') == '---': #new language
             current_lang = current_lang + 1
             n_grams_by_lang.append(ngrams)
             counts_by_lang.append(counts)
+            em_data_poss_dicts_by_lang_and_position.append(poss_dicts)
             ngrams = []
             counts = []
+            poss_dicts = [defaultdict(list) for _ in range(args.o)]
         else:
             l_split = l.strip('\n').split('\t')
             counts.append(int(l_split[0]))
-            words = l_split[1:n_gram_order+1]
-            word_ids = []
+            words = []
+            for i in range(1,1+args.o*args.f,args.o):
+                words.append(tuple(l_split[i:i+args.o]))
+            for i in range(args.o):
+                for j in range(1+args.o * args.f+i, len(l_split), args.o):
+                    fun = l_split[j]
+                    if fun not in poss_dicts[i][words[i]]:
+                        poss_dicts[i][words[i]].append(fun)
             ngrams.append(tuple(words))
 
-        n_grams_by_lang.append(ngrams)
-        counts_by_lang.append(counts)
-
-    em = EM(poss_dicts_by_lang_and_position, counts_by_lang, n_grams_by_lang)
+    n_grams_by_lang.append(ngrams)
+    counts_by_lang.append(counts)
+    em_data_poss_dicts_by_lang_and_position.append(poss_dicts)
+    em = EM(em_data_poss_dicts_by_lang_and_position, counts_by_lang, n_grams_by_lang)
     em.run()
     em_probs = em.fun_ngram_counts
     for fun, probability in em_probs.items():
