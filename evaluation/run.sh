@@ -1,12 +1,14 @@
 #!/bin/bash
 
 NUM=1000
-RUN=false
+RUN=true
+DB=""
 
 usage () {
-  echo "usage: $(basename "$0") [-hr] [-n NUM] FILES";
+  echo "usage: $(basename "$0") [-hnd] [-n NUM] FILES";
   echo "  -h      show this help"
-  echo "  -r      run the commands (default is to print)"
+  echo "  -t      dry run"
+  echo "  -d FILE use database"
   echo "  -n NUM  run NUM evaluation sentences"
 }
 
@@ -14,7 +16,8 @@ while getopts ':rn:h' flag; do
   case "${flag}" in 
     h) usage; exit;;
     n) NUM="${OPTARG}" ;;
-    r) RUN=true ;;
+    t) RUN=false ;;
+    d) DB="--database ${OPTARG}" ;;
     \?) echo "Unexpected option ${flag}" >&2; exit 1 ;;
     :) echo "Missing option argument for -$OPTARG" >&2; exit 1 ;;
   esac
@@ -48,6 +51,7 @@ do
     possdict='wn'
   fi
 
+  args="$DB $args"
   args="--num $NUM $args"
   args="--sentence-data $data_file --sentence-answer $sense_file $args"
   args="--dict $dict $args"
