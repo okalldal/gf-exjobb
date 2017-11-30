@@ -154,7 +154,10 @@ if __name__ == '__main__':
                 pos = l_split[1]
                 funs = l_split[2:]
                 if pos in parts_of_speech:
-                    poss_dicts_by_pos[pos][word]=funs
+                    if word in poss_dicts_by_pos[pos].keys():
+                        poss_dicts_by_pos[pos][word] = list(set(poss_dicts_by_pos[pos][word]+funs))
+                    else:
+                        poss_dicts_by_pos[pos][word]=funs
         poss_dicts_by_lang_and_pos.append(poss_dicts_by_pos)
     poss_dicts_by_lang_and_position = \
         [[poss_dicts_by_lang_and_pos[lang][pos] for pos in position2pos] for lang in range(len(langs))]
