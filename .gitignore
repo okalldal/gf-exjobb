@@ -10,3 +10,4 @@ data/TRAIN-O-MATIC-DATA
 data/*.pgf
 report/graphs/*.png
 results
+*.db

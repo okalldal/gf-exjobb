@@ -1,0 +1,3929 @@
+物	NOUN	object.n.01	thing.n.08	value.n.02
+人員	NOUN	person.n.01
+人士	NOUN	person.n.01
+員	NOUN	article.n.01	member.n.01	person.n.01
+某某	NOUN	person.n.01
+者	NOUN	person.n.01
+動	NOUN	animal.n.01	content_word.n.01
+動物	NOUN	animal.n.01
+獸	NOUN	animal.n.01
+株	NOUN	plant.n.02
+植	NOUN	plant.n.02	prosthesis.n.01
+物質	NOUN	matter.n.03
+食物	NOUN	food.n.01
+養分	NOUN	food.n.01
+境	NOUN	area.n.01	environment.n.02	kingdom.n.01	state.n.02
+境地	NOUN	situation.n.01	state.n.02
+實況	NOUN	state.n.02
+情況	NOUN	situation.n.01	state.n.02
+狀態	NOUN	state.n.02
+感受	NOUN	feeling.n.01
+位	NOUN	digit.n.01	location.n.01	position.n.06	rank.n.02	support.n.10
+位置	NOUN	location.n.01	point.n.02	position.n.06
+處	NOUN	agency.n.01	location.n.01
+時	NOUN	drift.n.05	hour.n.01	opportunity.n.01	time.n.02	time.n.05	time.n.06
+歲	NOUN	age.n.03	crop.n.01	drift.n.05	jupiter.n.01	time.n.02	time.n.05	year.n.01	year.n.03
+空	NOUN	bear_market.n.01	hole.n.01	military_service.n.01	sky.n.01	space.n.01	worthlessness.n.01
+事件	NOUN	event.n.01
+團	NOUN	group.n.01	mass.n.05
+大我	NOUN	group.n.01
+小組	NOUN	group.n.01
+族	NOUN	family.n.04	group.n.01	population.n.02	race.n.03
+班	NOUN	class.n.02	group.n.01	school.n.01	shift.n.03	squad.n.01	standdown.n.02
+組	NOUN	group.n.01	set.n.01
+群	NOUN	group.n.01	multitude.n.02
+集團	NOUN	group.n.01
+脂	NOUN	adipose_tissue.n.01	makeup.n.01	possession.n.02
+象	NOUN	animal_material.n.01	appearance.n.01	elephant.n.01	phenomenon.n.01
+事	NOUN	business.n.04	matter.n.01	occupation.n.01	thing.n.02	thing.n.05
+事情	NOUN	business.n.04	matter.n.01	occupation.n.01	thing.n.02
+幹	NOUN	ability.n.01	matter.n.01	set.n.01	thing.n.02	torso.n.01	trunk.n.01
+事蹟	NOUN	accomplishment.n.01
+功	NOUN	accomplishment.n.01	consequence.n.01	credit.n.04	effort.n.02	practice.n.03	skill.n.02	work.n.05
+成	NOUN	accomplishment.n.01	whole.n.01
+交通	NOUN	conveyance.n.03	dealings.n.01	traffic.n.01
+送	NOUN	farewell.n.01	farewell.n.02	push.n.01
+送行	NOUN	bon_voyage.n.01	farewell.n.01	farewell.n.02
+目標	NOUN	reference_point.n.01	success.n.02
+失	NOUN	mistake.n.01
+尤	NOUN	mistake.n.01
+解放	NOUN	liberation.n.01
+服	NOUN	clothing.n.01	dose.n.01	service.n.15
+罰	NOUN	basketball_shot.n.01
+推	NOUN	push.n.01	treatment.n.01
+騰	NOUN	jump.n.06
+射	NOUN	shoot.n.02
+啵	NOUN	kiss.n.01
+結紮	NOUN	fastening.n.02
+證	NOUN	authentication.n.02	badge.n.01	evidence.n.03
+證明	NOUN	authentication.n.02
+暗示	NOUN	hint.n.02	influence.n.02
+提名	NOUN	nomination.n.01
+一手	NOUN	handful.n.02	maneuver.n.04
+軌	NOUN	means.n.01	orbit.n.01	rule.n.01	track.n.07	track.n.09
+辦法	NOUN	means.n.01	regulation.n.01
+道	NOUN	crime.n.01	means.n.01	road.n.01	source.n.04
+工具	NOUN	creature.n.03	instrument.n.02	tool.n.01
+管道	NOUN	road.n.02	source.n.04
+道路	NOUN	road.n.01	road.n.02	way.n.05
+票	NOUN	amateur.n.01	ballot.n.01	hostage.n.01	summons.n.03	ticket.n.01	vote.n.01	warrant.n.01
+反動	NOUN	political_orientation.n.01	resistance.n.01
+交代	NOUN	explanation.n.01	relinquishment.n.02
+譜	NOUN	advancement.n.03	array.n.01	history.n.02	manual.n.01	musical_composition.n.01	plan.n.01
+成長	NOUN	advancement.n.03
+跨	NOUN	advancement.n.03
+進	NOUN	advancement.n.03	public_service.n.02
+邁	NOUN	advancement.n.03	mile.n.01
+糾正	NOUN	correction.n.01
+無所謂	NOUN	care.n.06
+汙	NOUN	contamination.n.03	waste.n.01
+散步	NOUN	walk.n.01
+逛	NOUN	walk.n.04
+步	NOUN	degree.n.02	phase.n.01	step.n.03
+圈	NOUN	circle.n.03	hoop.n.02	lap.n.05	pen.n.02	profession.n.01	rotation.n.01	zone.n.01
+陣	NOUN	army_unit.n.01	procession.n.02
+階段	NOUN	stage.n.06
+拉	NOUN	clasp.n.02	drive.n.08
+輾轉	NOUN	journey.n.01
+催	NOUN	pursuit.n.01
+輸血	NOUN	insertion.n.02
+式	NOUN	activity.n.01	construction.n.02	motion.n.03	statement.n.01	style.n.03
+轉	NOUN	change_of_direction.n.01	passage.n.02	rotation.n.01	telephone.n.01
+波	NOUN	wave.n.01	wave.n.02	wave.n.03
+回頭	NOUN	turn.n.02
+和解	NOUN	detente.n.01
+省	NOUN	shortening.n.02
+簡稱	NOUN	shortening.n.02
+統一	NOUN	union.n.11
+節目	NOUN	activity.n.01	program.n.08	schedule.n.02	show.n.01
+養	NOUN	convalescence.n.01	practice.n.03
+習慣	NOUN	habit.n.02
+糗	NOUN	mistreatment.n.01	scandal.n.02
+舞	NOUN	dancing.n.01
+樂	NOUN	entertainment.n.01	joy.n.02	music.n.01
+興趣	NOUN	interest.n.01	pastime.n.01
+劈	NOUN	acrobatic_stunt.n.01
+賽	NOUN	competition.n.03	contest.n.01	racing.n.01
+務農	NOUN	occupation.n.01
+局	NOUN	agency.n.01	game.n.01	scam.n.01	situation.n.01
+球	NOUN	ball.n.01	ball.n.03	ball.n.06	ball.n.08	breast.n.02	game.n.01	round_shape.n.01
+輪	NOUN	organic_phenomenon.n.01	turn.n.03	wheel.n.01
+電動玩具	NOUN	game.n.03	scientific_instrument.n.01
+躲貓貓	NOUN	child's_game.n.01
+棋	NOUN	board_game.n.01	go.n.04	man.n.10
+彩	NOUN	banner.n.01	blood.n.01	glory.n.01	lottery.n.02	pigment.n.01	prize.n.01	symptom.n.01
+嘉年華	NOUN	festival.n.02
+吃	NOUN	depth.n.01	play.n.14
+奧運	NOUN	olympian_games.n.01	olympic_games.n.01
+秀	NOUN	show.n.01
+弓	NOUN	bow.n.05	down-bow.n.01	skeletal_structure.n.01	stick.n.01	stroke.n.12	up-bow.n.01	weapon.n.01
+演出	NOUN	performance.n.02
+股	NOUN	activity.n.01	bone.n.01	department.n.01	line.n.18	share.n.02	stock.n.01	stream.n.04
+匆匆忙忙	NOUN	haste.n.02
+匆忙	NOUN	haste.n.02
+吊	NOUN	return.n.11
+殺	NOUN	penetration.n.01	return.n.11
+公司	NOUN	company.n.01	job.n.03	occupation.n.01
+外	NOUN	occupation.n.01
+崗	NOUN	hill.n.01	occupation.n.01	post.n.01
+次	NOUN	ordering.n.01	position.n.06	time.n.01
+法律	NOUN	law.n.01	learned_profession.n.01
+醫學	NOUN	medical_science.n.01	medicine.n.03
+勞	NOUN	contribution.n.01	effort.n.02	labor.n.01	labor.n.02
+力	NOUN	ability.n.01	ability.n.02	efficacy.n.01	effort.n.02	force.n.02	force.n.03
+勁	NOUN	appearance.n.01	attitude.n.01	efficacy.n.01	effort.n.02	force.n.03	interest.n.01
+推舉	NOUN	bench_press.n.01
+剖析	NOUN	analysis.n.01
+實驗	NOUN	experiment.n.01
+探	NOUN	investigator.n.02	research.n.01
+整容	NOUN	medical_procedure.n.01
+分香	NOUN	mission.n.04
+冤	NOUN	wrongdoing.n.02
+欺	NOUN	evil.n.01
+弊	NOUN	disadvantage.n.01	fraud.n.03
+慾	NOUN	mortal_sin.n.01
+分	NOUN	contribution.n.01
+試	NOUN	examination.n.02	test.n.05
+婦運	NOUN	campaign.n.02
+自保	NOUN	self-preservation.n.01
+防範	NOUN	precaution.n.01
+自衛	NOUN	protection.n.01
+呼吸	NOUN	breath.n.01	suggestion.n.02
+息	NOUN	breath.n.01	breath.n.02	interest.n.04
+電	NOUN	electricity.n.01	electricity.n.02	lightning.n.02	reflex.n.01	telegram.n.01
+牧	NOUN	eating.n.01
+姦	NOUN	sexual_intercourse.n.01
+響應	NOUN	reaction.n.03
+反射	NOUN	reflex.n.01
+估計	NOUN	estimate.n.01	estimate.n.02
+回味	NOUN	sensing.n.02
+教	NOUN	education.n.01	educator.n.01	religion.n.02
+節	NOUN	course.n.01	festival.n.01	joint.n.01	measure.n.07	nautical_mile.n.02	section.n.01	time_unit.n.01	wood.n.01
+課	NOUN	course.n.01	duty.n.03	lesson.n.01	levy.n.01	moral.n.01	prediction.n.01	tax.n.01
+回顧	NOUN	exercise.n.03
+斷層	NOUN	crack.n.01	imaging.n.02	opening.n.10
+產業	NOUN	estate.n.01	industry.n.02
+藝術	NOUN	art.n.02	art.n.03
+畫	NOUN	art.n.02	painting.n.01	stroke.n.10
+套	NOUN	approach.n.01	closed_curve.n.01	package.n.01	plan.n.01	shell.n.08
+術	NOUN	manner.n.01	technology.n.01
+仗	NOUN	battle.n.01	competition.n.03
+防空	NOUN	air_defense.n.01
+戰爭	NOUN	war.n.01	war.n.03
+轟炸	NOUN	bombing.n.01
+組織	NOUN	administration.n.02	arrangement.n.03	design.n.04	organization.n.06	structure.n.03	tissue.n.01
+儀	NOUN	apparatus.n.01	carriage.n.03	etiquette.n.01	model.n.06	present.n.02	ritual.n.02	rule.n.01
+割禮	NOUN	rite.n.01
+求	NOUN	demand.n.04
+賜	NOUN	giving.n.01
+福利	NOUN	privilege.n.01	social_welfare.n.01
+商	NOUN	businessperson.n.01	commercial_enterprise.n.02
+行銷	NOUN	market.n.01
+投資	NOUN	investing.n.01
+合作社	NOUN	association.n.01	commercial_enterprise.n.01
+讓	NOUN	transfer.n.06
+消費	NOUN	spending.n.01
+權責	NOUN	duty.n.01
+責任	NOUN	duty.n.01	responsibility.n.03
+名	NOUN	name.n.01	name.n.05	rank.n.02	record.n.01	reputation.n.03
+名為	NOUN	name.n.05
+比賽	NOUN	competition.n.03
+劍	NOUN	fight.n.02	sword.n.01
+公訴	NOUN	prosecution.n.01
+捧場	NOUN	support.n.01
+求援	NOUN	support.n.01
+青睞	NOUN	blessing.n.01
+行動	NOUN	behavior.n.01
+疏	NOUN	release.n.09
+紓解	NOUN	release.n.09
+頭	NOUN	advantage.n.01	beginning.n.01	domestic_animal.n.01	end.n.01	end.n.10	front.n.01	hair.n.06	hairdo.n.01	head.n.01	head.n.07	individual.n.02	leader.n.01	mind.n.01	vicinity.n.01
+女生	NOUN	daughter.n.01	female.n.01	female.n.02	female_child.n.01
+雌	NOUN	female.n.01	femaleness.n.01
+男生	NOUN	male.n.01	male.n.02	male_child.n.01	son.n.01
+雄	NOUN	male.n.01	sex.n.04
+仔	NOUN	baby.n.06	child.n.02	reproductive_structure.n.01	son.n.01	young.n.01
+冠	NOUN	crown.n.04	first.n.01	hat.n.01	process.n.05
+寄生	NOUN	parasite.n.01
+介	NOUN	armor.n.01	testacean.n.01
+胎	NOUN	fetus.n.01	padding.n.01	pregnancy.n.01	source.n.03	tire.n.01
+鳥	NOUN	bird.n.01	penis.n.01
+烏龜	NOUN	anapsid.n.01	determination.n.02	husband.n.01	person.n.01
+龜	NOUN	anapsid.n.01
+蛇	NOUN	snake.n.01
+蜘蛛	NOUN	spider.n.01
+杜鵑	NOUN	bird.n.01	shrub.n.01
+鵝	NOUN	anseriform_bird.n.01	fathead.n.01	poultry.n.02
+皮	NOUN	bark.n.01	disparity.n.01	hide.n.02	leather.n.01	skin.n.01	surface.n.01
+羽毛	NOUN	feather.n.01	reputation.n.03
+鱗	NOUN	covering.n.01
+甲	NOUN	armor.n.01	carapace.n.01
+蟲	NOUN	insect.n.01	worm.n.01
+蟹	NOUN	decapod_crustacean.n.01	shellfish.n.01
+鷺	NOUN	wading_bird.n.01
+鷗	NOUN	seabird.n.01
+鯨魚	NOUN	whale.n.02
+海豚	NOUN	dolphin.n.02
+海獅	NOUN	aquatic_mammal.n.01
+導盲犬	NOUN	guide_dog.n.01
+喵	NOUN	cat.n.01	sound.n.04
+獵物	NOUN	game.n.04	prey.n.01	prey.n.02
+足	NOUN	animal_foot.n.01	organ.n.01	support.n.10	vertebrate_foot.n.01
+爪	NOUN	claw.n.01	nail.n.01
+尾	NOUN	end.n.03	rear.n.05	tail.n.01
+螢	NOUN	insect.n.01
+蜂	NOUN	hymenopterous_insect.n.01
+浮游	NOUN	mayfly.n.01
+蛹	NOUN	insect.n.01
+鼠	NOUN	mouse.n.01	mouse.n.04	rodent.n.01
+種	NOUN	backbone.n.02	kind.n.01	male.n.01	offspring.n.01	reproductive_structure.n.01	source.n.03	species.n.01	sperm.n.01
+豬	NOUN	hog.n.03	selfish_person.n.01	swine.n.01
+鹿	NOUN	deer.n.01
+駝	NOUN	even-toed_ungulate.n.01
+手	NOUN	forepaw.n.01	hand.n.01
+鰓	NOUN	respiratory_organ.n.01
+魚類	NOUN	fish.n.01
+吹	NOUN	air_conditioner.n.01
+夾道	NOUN	street.n.01
+安	NOUN	ampere.n.02	amphetamine.n.01	greeting.n.01
+寓	NOUN	apartment.n.01
+器	NOUN	apparatus.n.01	equipment.n.01	organ.n.01	permissiveness.n.01
+藏	NOUN	archive.n.01	scripture.n.02	tibet.n.01	tibetan.n.01
+箭	NOUN	arrow.n.02
+機器	NOUN	automaton.n.02	machine.n.01	organization.n.01
+機械	NOUN	automaton.n.02	machine.n.01	mechanical_engineering.n.01
+包	NOUN	bag.n.01	bun.n.01	bundle.n.02	pack.n.02	package.n.02	swelling.n.01
+袋	NOUN	bag.n.01	containerful.n.01	pouch.n.03
+皮包	NOUN	bag.n.04
+酒店	NOUN	barroom.n.01	hotel.n.01	package_store.n.01
+座	NOUN	base.n.08	natural_object.n.01	sign_of_the_zodiac.n.01	support.n.10
+盆	NOUN	vessel.n.03
+擔	NOUN	basket.n.01	weight.n.04
+梁	NOUN	beam.n.02	bridge.n.01	convex_shape.n.01
+床	NOUN	bed.n.01	bed.n.03
+鈴	NOUN	bell.n.01	bell.n.05	doorbell.n.01	sound.n.04
+鋪	NOUN	bed.n.01	shop.n.01	station.n.01
+被	NOUN	blanket.n.01
+褲子	NOUN	bloomers.n.01
+船	NOUN	boat.n.01	ship.n.01	spacecraft.n.01
+集	NOUN	book.n.02	volume.n.04
+集成	NOUN	book.n.02
+坊間	NOUN	bookshop.n.01	institution.n.01	street.n.01
+靴	NOUN	boot.n.01
+亭	NOUN	booth.n.02	building.n.01	shop.n.01	stop.n.05
+瓶	NOUN	bottle.n.01
+二胡	NOUN	bowed_stringed_instrument.n.01
+胡琴	NOUN	bowed_stringed_instrument.n.01
+碗	NOUN	bowl.n.03
+盒子	NOUN	box.n.01
+鐵齒	NOUN	dental_appliance.n.01
+釧	NOUN	bracelet.n.02
+磚	NOUN	block.n.03	brick.n.01
+錦	NOUN	fabric.n.01
+廈	NOUN	building.n.01
+樓	NOUN	building.n.01	floor.n.02
+逼	NOUN	digital_computer.n.01
+庵	NOUN	bungalow.n.01	religious_residence.n.01
+營地	NOUN	camp.n.01	camp.n.03
+帆	NOUN	fabric.n.01	sail.n.01	sailing_vessel.n.01
+坐車	NOUN	car.n.01
+汽車	NOUN	car.n.01
+矩	NOUN	artifact.n.01	carpenter's_square.n.01	rule.n.01
+大駕	NOUN	carriage.n.02	sir.n.01
+椅	NOUN	chair.n.01
+變	NOUN	change.n.06	incident.n.02
+變化	NOUN	change.n.06
+鎖	NOUN	fastener.n.02	lockstitch.n.01	object.n.01
+紡	NOUN	fabric.n.01
+電路	NOUN	circuit.n.01
+教室	NOUN	classroom.n.01	school_term.n.01
+課堂	NOUN	classroom.n.01	school_term.n.01
+衣服	NOUN	clothing.n.01
+裝	NOUN	clothing.n.01	package.n.01
+外套	NOUN	coat.n.01	shell.n.08
+材	NOUN	ability.n.01	coffin.n.01	endowment.n.01	expert.n.01	fuel.n.01	lumber.n.01	material.n.01
+螺旋	NOUN	coil.n.01	fastener.n.02	mechanical_device.n.01
+棟	NOUN	column.n.07
+柱	NOUN	regulator.n.01	structure.n.01
+精品	NOUN	commodity.n.01
+片	NOUN	compact_disk.n.01	helping.n.01	slice.n.05
+成份	NOUN	component.n.03
+館	NOUN	building.n.01	diplomatic_building.n.01	embassy.n.01
+影	NOUN	copy.n.02	film.n.02	movie.n.01	shadow.n.01	shape.n.01
+繩	NOUN	cord.n.01
+台	NOUN	counter.n.01	elegance.n.01	stage.n.03	television_station.n.01
+臺	NOUN	counter.n.01	elegance.n.01	stage.n.03	television_station.n.01
+跟	NOUN	leather.n.01
+霜	NOUN	frosting.n.01	ice.n.01	toiletry.n.01
+晶	NOUN	component.n.03	crystal.n.01
+丁	NOUN	artifact.n.01	cube.n.05	man.n.01	time_of_life.n.01
+杆	NOUN	golf_club.n.02	pole.n.01	pole.n.09	rod.n.01	sports_implement.n.01
+杯	NOUN	cup.n.01	cup.n.08	glass.n.02
+杯子	NOUN	cup.n.01	glass.n.02
+盃	NOUN	cup.n.01	cup.n.08	glass.n.02
+盞	NOUN	cup.n.01
+幕	NOUN	act.n.03	curtain.n.01	photograph.n.01	screen.n.03
+標	NOUN	projectile.n.01	sign.n.02	surface.n.04
+圖	NOUN	diagram.n.01	graph.n.01	plan.n.01
+餐廳	NOUN	restaurant.n.01	room.n.01
+斗	NOUN	vessel.n.03
+碟子	NOUN	dish.n.01
+櫥窗	NOUN	display_window.n.01
+圳	NOUN	ditch.n.01
+戶	NOUN	account.n.03	door.n.01	door.n.04	family.n.01	house.n.01	user.n.01
+門口	NOUN	doorway.n.01
+宿舍	NOUN	dormitory.n.01
+打	NOUN	sketch.n.01
+稿	NOUN	sketch.n.01	text.n.01
+籤	NOUN	draw.n.04	hand_tool.n.01	number.n.02
+人家	NOUN	dwelling.n.01	resident.n.01
+居	NOUN	dwelling.n.01
+邊	NOUN	edge.n.01	edge.n.03	flange.n.01	party.n.03	side.n.01	side.n.07	wilderness.n.03
+像	NOUN	effigy.n.01
+急診	NOUN	emergency.n.01	room.n.01
+入口	NOUN	entrance.n.01
+口	NOUN	entrance.n.01	geological_formation.n.01	mouth.n.01	mouth.n.02	opening.n.10
+器具	NOUN	equipment.n.01
+用具	NOUN	equipment.n.01
+擦	NOUN	eraser.n.01
+公路	NOUN	expressway.n.01	highway.n.01
+前	NOUN	face.n.08	first.n.01	front.n.01	future.n.01	past.n.01	position.n.01	presence.n.02
+前面	NOUN	face.n.08	first.n.01	front.n.01	future.n.01	past.n.01	position.n.01	presence.n.02	surface.n.04
+正	NOUN	face.n.08	front.n.01	pro.n.02
+面	NOUN	characteristic.n.02	external_body_part.n.01	face.n.01	face.n.08	plane.n.02	side.n.01
+硬體	NOUN	facility.n.01	hardware.n.03
+傳真	NOUN	facsimile.n.02
+通訊	NOUN	address.n.06	communication.n.03	facsimile.n.02	newsletter.n.01	phone_number.n.01
+鞭	NOUN	firework.n.01	instrument.n.01	penis.n.01
+桿	NOUN	golf_club.n.02	pole.n.01	pole.n.09	rod.n.01
+旗	NOUN	flag.n.01	manchu.n.01
+層	NOUN	class.n.03	class.n.07	floor.n.02	rival.n.01
+腿	NOUN	ham.n.01	leg.n.01	leg.n.02	support.n.10
+叉子	NOUN	fork.n.01
+廣場	NOUN	area.n.05	forum.n.02	plaza.n.01	plaza.n.02	public_square.n.01
+基層	NOUN	foundation.n.01	foundation.n.03
+爐	NOUN	furnace.n.01	heater.n.01
+畫廊	NOUN	gallery.n.03
+園	NOUN	garden.n.01	kindergarten.n.01	park.n.01	park.n.02
+紗	NOUN	net.n.06	thread.n.01
+雜貨店	NOUN	grocery_store.n.01
+宮	NOUN	building.n.01	palace.n.04	temple.n.01	uterus.n.01
+廳	NOUN	agency.n.01	hall.n.03	room.n.01
+殿	NOUN	hall.n.03
+殿堂	NOUN	area.n.02	discipline.n.01	hall.n.03	palace.n.04
+把	NOUN	handle.n.01
+龍頭	NOUN	bar.n.03	first.n.01	formation.n.01	leader.n.01	water_faucet.n.01
+鐵	NOUN	hardware.n.02	iron.n.01	railroad_track.n.01	railway.n.01	weapon.n.01
+總部	NOUN	headquarters.n.02	military_unit.n.01	office.n.01
+勾	NOUN	check_mark.n.01	curve.n.01	mechanical_device.n.01
+窩	NOUN	cavity.n.04	depression.n.08	habitat.n.01	house.n.01	nest.n.01	topographic_point.n.01
+壺	NOUN	kettle.n.01	pot.n.01
+廚房	NOUN	kitchen.n.01
+灶	NOUN	kitchen.n.01	stove.n.01
+結	NOUN	complex.n.03	knot.n.02
+實驗室	NOUN	lab.n.01
+勺	NOUN	spoon.n.01	vessel.n.03
+勺子	NOUN	spoon.n.01	vessel.n.03
+杓	NOUN	spoon.n.01	vessel.n.03
+杓子	NOUN	spoon.n.01	vessel.n.03
+巷	NOUN	lane.n.01
+線	NOUN	lane.n.02	latitude.n.03	line.n.02	line.n.11	line.n.18	path.n.03	straight_line.n.01	telephone_line.n.02	verge.n.02
+洗衣服	NOUN	laundry.n.02
+便服	NOUN	leisure_wear.n.01
+鐵將軍	NOUN	fastener.n.02	general.n.01
+信箱	NOUN	box.n.01	compartment.n.01
+表	NOUN	form.n.08	inscription.n.01	measuring_instrument.n.01	model.n.06	surface.n.04	table.n.01	watch.n.01
+表面	NOUN	measuring_instrument.n.01	surface.n.01	surface.n.04	watch.n.01
+機構	NOUN	institution.n.01	mechanism.n.05
+機關	NOUN	design.n.02	mechanism.n.05	scheme.n.01
+商品	NOUN	merchandise.n.01
+礦	NOUN	mine.n.01	mineral.n.01
+池	NOUN	ditch.n.01	lake.n.01	pond.n.01
+寺	NOUN	man.n.01	mosque.n.01	temple.n.01
+山路	NOUN	mountain_trail.n.01
+琴	NOUN	musical_instrument.n.01
+釘	NOUN	nail.n.02
+名牌	NOUN	name_tag.n.01	plate.n.02
+報紙	NOUN	newspaper.n.01	newspaper.n.02	newspaper.n.03
+障礙	NOUN	disability.n.01	obstacle.n.01	obstacle.n.02
+故宮	NOUN	forbidden_city.n.02	palace.n.04
+徑	NOUN	pathway.n.02
+照	NOUN	accord.n.02	license.n.01	photograph.n.01
+相	NOUN	appearance.n.01	head_of_state.n.01	photograph.n.01	prediction.n.01
+鋼琴	NOUN	piano.n.01
+盤子	NOUN	plate.n.04
+折	NOUN	booklet.n.01	fold.n.01	structure.n.04
+尖	NOUN	end.n.01	grimace.n.01	peak.n.04
+撐竿	NOUN	pole.n.01	pole.n.09	pole_vault.n.01
+兩極	NOUN	end.n.01	polar_opposition.n.01	pole.n.07	terminal.n.02
+極	NOUN	degree.n.02	end.n.01	terminal.n.02
+警察局	NOUN	government_department.n.01	station.n.01
+警局	NOUN	government_department.n.01	station.n.01
+鍋子	NOUN	pot.n.01
+粉	NOUN	chromatic_color.n.01	powder.n.01	toiletry.n.01
+鋸	NOUN	power_tool.n.01
+版畫	NOUN	print.n.02
+牢	NOUN	prison.n.01
+監獄	NOUN	prison.n.01
+生產線	NOUN	production_line.n.01
+偶	NOUN	doll.n.01	spouse.n.01
+跑道	NOUN	horizontal_surface.n.01	path.n.04	racetrack.n.01
+后	NOUN	back.n.03	biological_group.n.01	champion.n.01	female_aristocrat.n.01	future.n.01	past.n.01	rear.n.05	side.n.04
+後	NOUN	back.n.03	biological_group.n.01	future.n.01	past.n.01	rear.n.05	side.n.04
+遺址	NOUN	antiquity.n.03	ruin.n.02
+索	NOUN	ridge_rope.n.01
+棍	NOUN	rod.n.01
+室	NOUN	agency.n.01	cavity.n.04	room.n.01	royalty.n.02	wife.n.01
+房間	NOUN	room.n.01
+間	NOUN	room.n.01	while.n.01
+帛	NOUN	fabric.n.01
+掃瞄器	NOUN	electronic_equipment.n.01
+景	NOUN	dramatic_composition.n.01	potential.n.01	scenery.n.01	stage_set.n.01	view.n.02
+學校	NOUN	school.n.01	school.n.02
+剪	NOUN	edge_tool.n.01
+螺絲	NOUN	fastener.n.02
+印	NOUN	india.n.01	indonesia.n.01	seal.n.02	stamp.n.03
+段	NOUN	grade.n.02	part.n.09	period.n.02	section.n.03	section.n.04
+部份	NOUN	section.n.04
+部分	NOUN	section.n.04
+伺服	NOUN	server.n.03
+棚	NOUN	shed.n.01
+盾	NOUN	shield.n.01	shield.n.02
+商店	NOUN	shop.n.01
+庄	NOUN	card_player.n.01	manor.n.02	money_handler.n.01	shop.n.01	village.n.01
+舖	NOUN	shop.n.01
+號	NOUN	alias.n.01	kind.n.01	number.n.09	positive_identification.n.01	shop.n.01
+行	NOUN	line.n.03	occupational_group.n.01	shop.n.01	strip.n.01
+捷徑	NOUN	shortcut.n.01
+近路	NOUN	shortcut.n.01
+練	NOUN	silk.n.01
+速寫	NOUN	snapshot.n.01
+湯匙	NOUN	containerful.n.01	spoon.n.01
+調羹	NOUN	containerful.n.01	spoon.n.01
+跳板	NOUN	board.n.03
+級	NOUN	class.n.05	class.n.06	grade.n.02	stairway.n.01
+階級	NOUN	rank.n.02	social_station.n.01	step.n.04
+串	NOUN	collection.n.01	string_of_words.n.01
+條	NOUN	article.n.03	line.n.02	mark.n.04	path.n.03	song.n.01	strip.n.02
+結構	NOUN	structure.n.01
+總計	NOUN	sum.n.05
+秋	NOUN	fall.n.01	period.n.02	plaything.n.01	year.n.03
+系統	NOUN	operating_system.n.01	system.n.01	system.n.02	system.n.08
+案	NOUN	note.n.07	problem.n.02	project.n.02	record.n.01	table.n.02	tray.n.01
+剎	NOUN	temple.n.01
+廟宇	NOUN	temple.n.01
+制服	NOUN	uniform.n.01
+車子	NOUN	vehicle.n.01
+藤	NOUN	stalk.n.02	vine.n.01	wood.n.01	work.n.02
+笛	NOUN	sound.n.04	woodwind.n.01
+院	NOUN	hospital.n.02	yard.n.02
+魂	NOUN	feeling.n.01	self.n.01	spirit.n.03
+質	NOUN	nature.n.04	quality.n.01	quality.n.03
+彈性	NOUN	ability.n.01	elasticity.n.01	recoil.n.02
+賬	NOUN	account.n.07	bill.n.02	ledger.n.01	responsibility.n.03
+容	NOUN	appearance.n.01	expression.n.01	look.n.03
+樣	NOUN	appearance.n.01	exemplar.n.01	manner.n.01	shape.n.01	style.n.03
+臉色	NOUN	appearance.n.01	expression.n.01
+透視	NOUN	perspective.n.02
+美	NOUN	america.n.02	beauty.n.01	smasher.n.02	united_states.n.01
+號召	NOUN	appeal.n.02
+骯髒	NOUN	appearance.n.01
+魄	NOUN	causal_agent.n.01	feeling.n.01	physical_property.n.01
+資	NOUN	capital.n.01	endowment.n.01	expense.n.01	experience.n.02	qualification.n.01
+便利	NOUN	convenience.n.02
+方面	NOUN	characteristic.n.02
+多樣性	NOUN	diversity.n.02
+一如	NOUN	oneness.n.01
+異質性	NOUN	heterogeneity.n.01
+不等	NOUN	disparity.n.01
+呼聲	NOUN	acclaim.n.01	likelihood.n.01	noise.n.01	snore.n.01
+體制	NOUN	expressive_style.n.01	organization.n.05
+正統	NOUN	quality.n.01
+達	NOUN	quality.n.01
+大量	NOUN	kindness.n.01	quantity.n.02
+競爭力	NOUN	aggressiveness.n.01
+閏	NOUN	good.n.02	year.n.01
+理	NOUN	natural_science.n.01	physics.n.01	physics_department.n.01	right.n.07
+膽	NOUN	bladder.n.01	courage.n.01
+志於	NOUN	resoluteness.n.01
+決心	NOUN	resoluteness.n.01
+立志	NOUN	resoluteness.n.01
+虛情假意	NOUN	dishonesty.n.01
+信	NOUN	honesty.n.01	tongue.n.01
+誠	NOUN	honesty.n.01
+諱	NOUN	restraint.n.02
+孬	NOUN	spinelessness.n.01
+智慧	NOUN	intelligence.n.01	wisdom.n.02
+禮	NOUN	ceremony.n.01	greeting.n.01	present.n.02	propriety.n.01
+下屬	NOUN	follower.n.01	tractability.n.01
+屬下	NOUN	follower.n.01	tractability.n.01
+品種	NOUN	ancestry.n.02	breed.n.01	kind.n.01
+年紀	NOUN	age.n.01	age.n.03
+方式	NOUN	manner.n.01
+良方	NOUN	manner.n.01	written_communication.n.01
+傾向	NOUN	tendency.n.03
+貪	NOUN	desire.n.02
+白	NOUN	funeral.n.01	non-standard_speech.n.01	person.n.01	white.n.02
+灰	NOUN	ash.n.01	dust.n.01	gray.n.01
+橘	NOUN	citrus.n.02	orange.n.02
+紫	NOUN	bruise.n.01	chromatic_color.n.01
+靛	NOUN	chromatic_color.n.01
+棕	NOUN	brown.n.01	palm.n.03
+褐	NOUN	brown.n.01
+鳴	NOUN	sound.n.01	sound.n.04
+聲	NOUN	audio.n.01	pitch.n.01	speech.n.02
+調	NOUN	expressive_style.n.01	musical_notation.n.01	opinion.n.01	pitch.n.01	pronunciation.n.01	tune.n.01
+個	NOUN	individual.n.02	stature.n.02
+丰采	NOUN	carriage.n.03
+風采	NOUN	carriage.n.03
+支	NOUN	branch.n.02	luminosity.n.01
+價	NOUN	power.n.01	price.n.02
+先	NOUN	ancestor.n.01	earliness.n.01
+年代	NOUN	contemporaneity.n.02	era.n.01	period.n.02
+長	NOUN	advantage.n.01	duration.n.03	leader.n.01	length.n.01	length.n.03
+佈局	NOUN	design.n.02	placement.n.01
+布局	NOUN	design.n.02	placement.n.01
+不約而同	NOUN	position.n.07
+距	NOUN	distance.n.01
+距離	NOUN	distance.n.01	distance.n.03	distance.n.05
+可能	NOUN	probability.n.01
+希望	NOUN	hope.n.04	probability.n.01	wish.n.02
+機會	NOUN	opportunity.n.01	probability.n.01
+大小	NOUN	degree.n.01	magnitude_relation.n.01	size.n.01	young.n.09
+度	NOUN	angular_distance.n.01	capacity.n.03	degree.n.01	degree.n.04	degree.n.06	interval.n.04	line.n.11	rule.n.01	work_unit.n.01	written_communication.n.01
+指數	NOUN	degree.n.01	exponent.n.03	index.n.02	scale.n.01
+程度	NOUN	degree.n.01	extent.n.01
+半	NOUN	degree.n.07
+終究	NOUN	degree.n.01
+幅	NOUN	magnitude.n.01
+腰	NOUN	kidney.n.01	size.n.01	sum.n.01	waist.n.01
+數	NOUN	amount.n.02	destiny.n.01	mathematics.n.01	mathematics_department.n.01	more.n.01	number.n.01
+數量	NOUN	amount.n.02
+補給	NOUN	increase.n.04
+補貼	NOUN	increase.n.04
+赤字	NOUN	deficit.n.01
+人數	NOUN	number.n.01
+數字	NOUN	number.n.01	numeral.n.01
+大多數	NOUN	majority.n.01
+少數	NOUN	fewness.n.01	minority.n.02
+範疇	NOUN	scope.n.01
+佔地	NOUN	area.n.06
+面積	NOUN	area.n.06
+內容	NOUN	content.n.05	value.n.02
+意義	NOUN	meaning.n.01	value.n.02
+垢	NOUN	dirt.n.02	shame.n.02	worth.n.02
+病	NOUN	failure.n.02	illness.n.01	worth.n.02
+利益	NOUN	benefit.n.02	profit.n.02	sake.n.01
+用	NOUN	function.n.02
+用處	NOUN	function.n.02
+用途	NOUN	function.n.02
+本錢	NOUN	asset.n.01	capital.n.01	cost.n.01	debt.n.02
+資產	NOUN	asset.n.01
+資源	NOUN	resource.n.02
+助力	NOUN	aid.n.01
+便	NOUN	advantage.n.01
+優勢	NOUN	advantage.n.01
+方便	NOUN	favor.n.02
+祥	NOUN	advantage.n.01	sadness.n.02
+禧	NOUN	advantage.n.01
+成本	NOUN	cost.n.01	price.n.03
+急	NOUN	importance.n.01
+火力	NOUN	capability.n.01	power.n.01
+才	NOUN	ability.n.01	endowment.n.01	expert.n.01
+能力	NOUN	ability.n.01	ability.n.02
+體能	NOUN	ability.n.01
+能	NOUN	capability.n.01	energy.n.01
+內	NOUN	body.n.01
+皮膚	NOUN	skin.n.01
+燙	NOUN	wave.n.06
+筋	NOUN	connective_tissue.n.01	vein.n.01
+舌	NOUN	tongue.n.01
+發聲器官	NOUN	speech_organ.n.01
+耳	NOUN	ear.n.01	hearing.n.06
+肝	NOUN	liver.n.01	liver.n.02
+心	NOUN	conscience.n.01	core.n.02	heart.n.01	heart.n.02	idea.n.01	mind.n.02	mind.n.06	opinion.n.01	plane_figure.n.01
+肚	NOUN	abdomen.n.01	heart.n.01	mind.n.06	stomach.n.01	surface.n.02	uterus.n.01	variety_meat.n.01
+肚子	NOUN	abdomen.n.01	heart.n.01	mind.n.06	stomach.n.01	surface.n.02	uterus.n.01	variety_meat.n.01
+胃	NOUN	stomach.n.01
+乳	NOUN	breast.n.02	milk.n.02
+血	NOUN	blood.n.01	lineage.n.01
+泣	NOUN	tear.n.01
+經	NOUN	blood_vessel.n.01	economy.n.01	handbook.n.01	menstruation.n.01	scripture.n.02
+血管	NOUN	blood_vessel.n.01
+核	NOUN	center.n.04	core.n.02	organ.n.01	rock.n.01
+腦	NOUN	brain.n.01	brain.n.02	brain.n.05	head.n.01	judgment.n.01
+泡	NOUN	bubble.n.01	sac.n.04
+子宮	NOUN	uterus.n.01
+十二指腸	NOUN	intestine.n.01
+頭部	NOUN	head.n.01	head.n.07
+首	NOUN	beginning.n.01	head.n.01	head.n.04	leader.n.01	part.n.09	side.n.01
+脖	NOUN	neck.n.01
+指甲	NOUN	nail.n.01
+頷	NOUN	chin.n.01
+太陽	NOUN	feature.n.02	sun.n.01	sunlight.n.01
+自我	NOUN	mind.n.01	self.n.02
+技巧	NOUN	skill.n.02
+才藝	NOUN	skill.n.01
+藝	NOUN	degree.n.02	skill.n.01
+絕	NOUN	art.n.03	cheer.n.01
+注意力	NOUN	attention.n.05
+聲光	NOUN	sense.n.03
+平衡	NOUN	sensitivity.n.01	situation.n.01
+解	NOUN	solution.n.02	solution.n.03
+奏	NOUN	method.n.01	request.n.01
+俗	NOUN	custom.n.02
+傳統	NOUN	content.n.05	custom.n.02
+慣	NOUN	custom.n.02
+傳世	NOUN	heritage.n.01
+意識	NOUN	awareness.n.01	consciousness.n.01
+靈	NOUN	self.n.01	spirit.n.04
+靈魂	NOUN	causal_agent.n.01	self.n.01	spirit.n.04
+自覺	NOUN	awareness.n.01
+感	NOUN	respiratory_disease.n.01	sense.n.01
+感覺	NOUN	sensation.n.01	sense.n.01	spirit.n.02
+責任感	NOUN	sense_of_responsibility.n.01
+祕	NOUN	mystery.n.01	secret.n.02	secretary.n.02
+掙扎	NOUN	dilemma.n.01
+問題	NOUN	problem.n.01	question.n.01	question.n.03	trouble.n.01
+對方	NOUN	counterpart.n.01
+香	NOUN	aroma.n.02	smasher.n.02
+臭	NOUN	smell.n.01
+音	NOUN	phone.n.02	pronunciation.n.01	sound.n.02
+象徵	NOUN	symbol.n.02
+算命	NOUN	prediction.n.01
+看相	NOUN	palmistry.n.01
+煉丹	NOUN	fallacy.n.01
+歸納	NOUN	theorization.n.01
+反省	NOUN	contemplation.n.02
+情有獨鍾	NOUN	choice.n.01
+當然	NOUN	default_option.n.01
+依據	NOUN	basis.n.02
+據	NOUN	basis.n.02	proof.n.01
+根據	NOUN	basis.n.02
+上	NOUN	estimate.n.01	superior.n.01
+識	NOUN	understanding.n.01
+一知半解	NOUN	understanding.n.01
+日子	NOUN	day.n.03	life.n.02	time_period.n.01
+生活	NOUN	life.n.02
+紀念品	NOUN	reminder.n.02
+詳	NOUN	detail.n.01
+例子	NOUN	example.n.01
+比方	NOUN	example.n.01
+頭疼	NOUN	concern.n.04	pain.n.01
+政	NOUN	business.n.04	policy.n.01	politics.n.01
+想	NOUN	idea.n.01
+版面	NOUN	layout.n.01
+看法	NOUN	opinion.n.01
+見	NOUN	opinion.n.01
+決定	NOUN	decision.n.02
+等	NOUN	class.n.05	grade.n.02	kind.n.01
+類	NOUN	kind.n.01
+類型	NOUN	kind.n.01
+般	NOUN	kind.n.01	type.n.01
+一般	NOUN	kind.n.01
+則	NOUN	rule.n.01
+規定	NOUN	rule.n.01
+限制	NOUN	limit.n.06	restriction.n.01
+地方	NOUN	aspect.n.01	region.n.01
+注意	NOUN	attention.n.03
+值	NOUN	value.n.01
+和	NOUN	harmony.n.03	sum.n.02	sum.n.03
+之初	NOUN	part.n.09
+中間	NOUN	center.n.01	part.n.09	precedence.n.01	surface.n.02
+居中	NOUN	part.n.09
+末	NOUN	end.n.02	end.n.05	powder.n.01	rank.n.02
+全	NOUN	whole.n.01
+全部	NOUN	whole.n.01
+悉皆	NOUN	whole.n.01
+整	NOUN	whole.n.01
+整體	NOUN	entirety.n.01	whole.n.01
+滿	NOUN	whole.n.01
+輪廓	NOUN	outline.n.01	outline.n.03
+設定	NOUN	assumption.n.02
+命	NOUN	destiny.n.02	order.n.01	organic_phenomenon.n.01	requirement.n.01
+命令	NOUN	instruction.n.04	order.n.01	requirement.n.01
+計	NOUN	plan.n.01
+謀	NOUN	plan.n.01
+建議	NOUN	suggestion.n.01
+中	NOUN	center.n.01	center.n.04	china.n.01	heart.n.01	middle_age.n.01	natural_language.n.01	point.n.06	taiwan.n.01
+意味	NOUN	significance.n.02
+核心	NOUN	core.n.02	kernel.n.03	rock.n.01
+師	NOUN	division.n.01	exemplar.n.01	master.n.09	teacher.n.01
+引以為鑑	NOUN	example.n.04	exemplar.n.01
+引以為鑒	NOUN	example.n.04	exemplar.n.01
+底	NOUN	background.n.02	base.n.04	base.n.11	bottom.n.01	degree.n.02	details.n.01	end.n.01	end.n.02	end.n.06	record.n.01
+回憶	NOUN	memory.n.01
+典型	NOUN	prototype.n.01
+使命感	NOUN	belief.n.01
+主義	NOUN	doctrine.n.01	rule.n.03
+民意	NOUN	public_opinion.n.01
+理論	NOUN	belief.n.01	explanation.n.02
+論	NOUN	belief.n.01
+孔子	NOUN	confucius.n.01	philosophical_doctrine.n.01
+目的地	NOUN	destination.n.02
+企圖	NOUN	purpose.n.01
+意圖	NOUN	purpose.n.01
+經驗	NOUN	experience.n.02
+領域	NOUN	district.n.01	region.n.05
+自然	NOUN	natural_phenomenon.n.01	natural_science.n.01
+外科	NOUN	surgery.n.01
+化	NOUN	chemistry.n.01
+航太	NOUN	physics.n.01
+資訊	NOUN	computer_science.n.01	information.n.01
+哲	NOUN	philosophy.n.02	philosophy_department.n.01
+文學	NOUN	literature.n.01	literature.n.02
+心態	NOUN	mentality.n.01
+潮	NOUN	drift.n.05	periodic_event.n.01
+名聲	NOUN	reputation.n.03
+共識	NOUN	orientation.n.02
+回教	NOUN	islam.n.02
+禪	NOUN	religion.n.01	religion.n.02
+禪宗	NOUN	religion.n.01	religion.n.02
+訊息	NOUN	message.n.01
+說話	NOUN	message.n.01
+講話	NOUN	lecture.n.01	message.n.01
+廣播	NOUN	broadcast.n.01
+頁	NOUN	page.n.01
+電影	NOUN	film.n.02	movie.n.01
+篇	NOUN	article.n.01
+聲音	NOUN	affirmation.n.02	audio.n.01
+言語	NOUN	language.n.01	speech.n.02	wording.n.01
+字	NOUN	character.n.08	font.n.01	handwriting.n.01	pronunciation.n.01	script.n.03	signature.n.01	word.n.01
+名字	NOUN	name.n.01
+稱	NOUN	name.n.01
+稱呼	NOUN	name.n.01
+姓	NOUN	surname.n.01
+太太	NOUN	mrs.n.01	wife.n.01
+資料	NOUN	data.n.01	matter.n.06
+對	NOUN	couple.n.01	pair.n.01	text.n.01
+款項	NOUN	article.n.03	payment.n.01
+續集	NOUN	sequel.n.02
+補	NOUN	addendum.n.01
+寫	NOUN	handwriting.n.01	skilled_worker.n.01
+初步	NOUN	textbook.n.01
+詞典	NOUN	dictionary.n.01
+指引	NOUN	manual.n.01	scout.n.04	sign.n.02
+聖經	NOUN	bible.n.01	handbook.n.01
+編號	NOUN	positive_identification.n.01
+大概	NOUN	outline.n.02
+獎狀	NOUN	certificate.n.01
+編目	NOUN	catalog.n.02
+引得	NOUN	index.n.04
+券	NOUN	contract.n.01	security.n.04	ticket.n.01
+法規	NOUN	act.n.01
+刑事	NOUN	criminal_law.n.01
+法令	NOUN	decree.n.01
+授權	NOUN	license.n.01
+軟體	NOUN	software.n.01
+漫畫	NOUN	magazine.n.01
+重點	NOUN	point.n.03
+紀錄片	NOUN	documentary.n.01
+記錄片	NOUN	documentary.n.01
+來信	NOUN	letter.n.01
+批	NOUN	letter.n.01
+哈囉	NOUN	greeting.n.01
+喂	NOUN	greeting.n.01
+嗨	NOUN	greeting.n.01
+早	NOUN	good_morning.n.01	morning.n.01
+資料庫	NOUN	database.n.01
+案底	NOUN	record.n.01
+勸告	NOUN	advice.n.01
+引以為惕	NOUN	example.n.04
+密	NOUN	secret.n.01
+來源	NOUN	beginning.n.04	document.n.01
+報導	NOUN	report.n.03
+保證	NOUN	guarantee.n.01
+憑藉	NOUN	assurance.n.02
+頌	NOUN	praise.n.01
+博士	NOUN	academic_degree.n.01	doctor.n.04	doctor_of_philosophy.n.01
+碩	NOUN	academic_degree.n.01	master.n.08
+自責	NOUN	self-reproach.n.02
+怨	NOUN	blame.n.02
+訓話	NOUN	rebuke.n.01
+表示	NOUN	statement.n.01
+證據	NOUN	evidence.n.03
+說詞	NOUN	explanation.n.01	utterance.n.01
+論述	NOUN	explanation.n.01
+答案	NOUN	answer.n.03	solution.n.02
+答覆	NOUN	answer.n.01
+鐵口直斷	NOUN	prediction.n.02
+按	NOUN	note.n.07
+註	NOUN	note.n.07
+對照	NOUN	citation.n.03
+觀點	NOUN	opinion.n.02
+標示	NOUN	sign.n.02
+警告	NOUN	mark.n.06	warning.n.01
+阿拉伯數字	NOUN	arabic_numeral.n.01
+逗	NOUN	comma.n.01
+幢	NOUN	flag.n.04
+反映	NOUN	expression.n.02
+敕	NOUN	insignia.n.01	order.n.01
+蒙	NOUN	asian.n.01	mongolia.n.02	ural-altaic.n.01
+蒙古語	NOUN	ural-altaic.n.01
+日文	NOUN	ural-altaic.n.01
+英	NOUN	english.n.01	english_department.n.01	flower.n.02	united_kingdom.n.01
+英文	NOUN	english.n.01	english_department.n.01
+音樂	NOUN	music.n.01	music_department.n.01	musical_composition.n.01
+頻率	NOUN	expressive_style.n.01	frequency.n.02	frequency.n.03
+風格	NOUN	expressive_style.n.01
+比喻	NOUN	trope.n.01
+比	NOUN	belgium.n.01	metaphor.n.01	ratio.n.01	trope.n.01
+口語	NOUN	speech.n.02
+發言	NOUN	speech.n.02
+口中	NOUN	utterance.n.01
+咯	NOUN	laugh.n.01	noise.n.01	sound.n.04	utterance.n.01
+咯咯	NOUN	laugh.n.01	noise.n.01	sound.n.04	utterance.n.01
+表達出來	NOUN	expression.n.03
+討論	NOUN	discussion.n.02
+約談	NOUN	consultation.n.01
+臨床	NOUN	session.n.01
+俗語	NOUN	saying.n.01
+誤會	NOUN	interpretation.n.03
+商量	NOUN	compromise.n.02
+採訪	NOUN	interview.n.01
+考	NOUN	examination.n.02
+回答	NOUN	answer.n.03
+烽	NOUN	visual_signal.n.01
+罐	NOUN	reference_point.n.01
+罐子	NOUN	reference_point.n.01
+奧斯卡	NOUN	award.n.02
+點頭	NOUN	gesture.n.02
+之秋	NOUN	time.n.06
+結束	NOUN	end.n.03
+果	NOUN	result.n.03
+成果	NOUN	fruit.n.03
+意外	NOUN	accident.n.01	accident.n.02
+故	NOUN	accident.n.02	cause.n.01	friend.n.01
+可惜	NOUN	pity.n.02
+惜	NOUN	pity.n.02
+醜	NOUN	scandal.n.02
+回	NOUN	chapter.n.05
+遭	NOUN	time.n.01
+劫	NOUN	calamity.n.01	destiny.n.01
+滑	NOUN	slip.n.07
+出發點	NOUN	start.n.01
+開始	NOUN	start.n.01
+肇始	NOUN	cause.n.01
+起因於	NOUN	cause.n.01
+滔	NOUN	wave.n.01
+霸	NOUN	overlord.n.01	win.n.01
+鼾聲	NOUN	snore.n.01
+通通	NOUN	sound.n.04
+嗚	NOUN	sound.n.04
+揉	NOUN	sound.n.04
+逝	NOUN	flow.n.01
+流	NOUN	class.n.05	current.n.01	current.n.02	faction.n.02	grade.n.02	light_unit.n.01	natural_process.n.01	stream.n.04
+損失	NOUN	damage.n.01
+預賽	NOUN	athletic_contest.n.01
+決賽	NOUN	match.n.02
+總決賽	NOUN	match.n.02
+準決賽	NOUN	semifinal.n.01
+三鐵	NOUN	match.n.02	shot_put.n.01
+交戰	NOUN	feeling.n.01
+劇毒	NOUN	addiction.n.01	craving.n.01	poison.n.01
+喜好	NOUN	preference.n.01
+氣	NOUN	anger.n.01	breath.n.02	gas.n.01	natural_gas.n.01	steam.n.01
+歸屬	NOUN	happiness.n.02
+傷心	NOUN	grief.n.01
+遺憾	NOUN	sorrow.n.02
+恨	NOUN	hate.n.01
+嫌	NOUN	grudge.n.01	hostility.n.02	suspect.n.01
+隙	NOUN	crack.n.01	depression.n.08	grudge.n.01	opportunity.n.01	respite.n.04
+同情	NOUN	sympathy.n.02
+珍	NOUN	dainty.n.01	possession.n.02
+罐頭	NOUN	foodstuff.n.02
+飯	NOUN	meal.n.01	rice.n.01
+餐	NOUN	meal.n.01
+宴	NOUN	banquet.n.02	dinner.n.02
+汁	NOUN	beverage.n.01	juice.n.01	soup.n.01
+凍	NOUN	dainty.n.01
+卷	NOUN	bun.n.01
+豆	NOUN	bean.n.01	bean.n.02	drop.n.01	part.n.03
+梅	NOUN	drupe.n.01	edible_fruit.n.01	fruit_tree.n.01
+梅子	NOUN	drupe.n.01	edible_fruit.n.01
+飼	NOUN	feed.n.01
+穀	NOUN	grain.n.02
+鹽	NOUN	salt.n.01	salt.n.02
+飲	NOUN	beverage.n.01
+可	NOUN	soft_drink.n.01
+用水	NOUN	water.n.06
+界	NOUN	boundary.n.01	kingdom.n.01	kingdom.n.06	set.n.05
+老人	NOUN	age_group.n.01	high_status.n.01
+瞎	NOUN	people.n.01
+清	NOUN	chemical_process.n.01	hand.n.06	manchu.n.01
+堆	NOUN	pile.n.01
+世界	NOUN	earth.n.01	kingdom.n.01	populace.n.01	universe.n.01	world.n.02
+代	NOUN	coevals.n.01	dynasty.n.01	era.n.02	generation.n.02	house.n.06
+朝	NOUN	court.n.03	day.n.01	dynasty.n.01	house.n.06	korea.n.01	morning.n.01
+朝代	NOUN	dynasty.n.01	house.n.06
+婚	NOUN	marriage.n.02
+會	NOUN	association.n.01	meeting.n.01	moment.n.02	occasion.n.05
+朝廷	NOUN	court.n.03
+醫院	NOUN	hospital.n.02
+企	NOUN	enterprise.n.02
+企業	NOUN	enterprise.n.02
+基金	NOUN	fund.n.01	mutual_fund.n.02
+圈子	NOUN	circle.n.03	profession.n.01
+消防	NOUN	government_department.n.01
+州	NOUN	state.n.03
+全球	NOUN	earth.n.01	populace.n.01
+平民	NOUN	multitude.n.03
+戎	NOUN	military.n.01
+山頭	NOUN	force.n.08	line.n.11	mountain.n.01
+警	NOUN	police.n.01	policeman.n.01
+警察	NOUN	police.n.01
+警方	NOUN	police.n.01
+人力	NOUN	work_force.n.01
+特	NOUN	special_agent.n.01	special_forces.n.01
+先發	NOUN	army_unit.n.01
+鄰	NOUN	neighbor.n.02	neighborhood.n.02
+隔壁	NOUN	neighborhood.n.02
+村	NOUN	village.n.01
+村莊	NOUN	village.n.01
+農村	NOUN	village.n.01
+公會	NOUN	club.n.02
+工會	NOUN	union.n.01
+遊說	NOUN	clique.n.01
+大學	NOUN	college.n.02	university.n.03
+大專	NOUN	college.n.02	university.n.03
+醫學院	NOUN	college.n.02	medical_school.n.01
+研究所	NOUN	graduate_school.n.01	institute.n.01
+研究院	NOUN	graduate_school.n.01	institute.n.01
+聯盟	NOUN	league.n.02
+市議會	NOUN	council.n.01
+國會	NOUN	congress.n.03
+委員會	NOUN	committee.n.01
+生態系	NOUN	ecosystem.n.01
+子孫	NOUN	biological_group.n.01
+後代	NOUN	biological_group.n.01
+共產	NOUN	gathering.n.01
+約會	NOUN	date.n.03
+很少	NOUN	few.n.01
+反對黨	NOUN	opposition.n.05
+在野黨	NOUN	opposition.n.05
+野	NOUN	opposition.n.05	wilderness.n.03
+所	NOUN	institute.n.01
+初中	NOUN	junior_high_school.n.01
+小學	NOUN	school.n.01
+左	NOUN	east.n.01	left.n.01	left.n.02	left_bank.n.01
+右	NOUN	right.n.04	right_bank.n.01	west.n.02
+成行	NOUN	line.n.03
+雨林	NOUN	forest.n.01
+派員	NOUN	staff.n.01
+序列	NOUN	sequence.n.01
+天	NOUN	date.n.01	day.n.01	day.n.02	deity.n.01	outer_space.n.01	sky.n.01	weather.n.01
+垂	NOUN	wilderness.n.03
+沙漠	NOUN	desert.n.01
+發源	NOUN	beginning.n.04
+旁邊	NOUN	side.n.04
+國界	NOUN	boundary.n.01
+界線	NOUN	barrier.n.03	boundary.n.01	line.n.20
+畔	NOUN	boundary_line.n.01
+校園	NOUN	campus.n.01
+盆地	NOUN	geographical_area.n.01
+當中	NOUN	center.n.01	inside.n.01
+市中心	NOUN	center.n.01
+都會	NOUN	city.n.01
+郊	NOUN	section.n.03
+廣州	NOUN	canton.n.02
+區	NOUN	district.n.01	region.n.01
+東西	NOUN	east.n.01	east.n.02	location.n.01	west.n.02
+西	NOUN	location.n.01	west.n.02
+凡	NOUN	location.n.01
+東	NOUN	east.n.01	east.n.02
+東方	NOUN	east.n.01	east.n.02
+東亞	NOUN	far_east.n.01
+遠東	NOUN	far_east.n.01
+北	NOUN	north.n.03	region.n.03	taipei.n.01
+南	NOUN	region.n.03	south.n.03
+西北	NOUN	northwest.n.01	northwest.n.03
+周圍	NOUN	edge.n.01
+崖	NOUN	cliff.n.01	end.n.09
+畝	NOUN	acre.n.01	are.n.01	field.n.01
+尖端	NOUN	front.n.01	tip.n.01
+寒帶	NOUN	frigid_zone.n.01
+前方	NOUN	battlefront.n.01
+後方	NOUN	battlefront.n.01
+保護區	NOUN	administrative_district.n.01
+之中	NOUN	inside.n.01
+公園	NOUN	park.n.01	park.n.02
+山頂	NOUN	peak.n.04
+峰	NOUN	bulge.n.01	peak.n.04	point.n.08
+攻	NOUN	peak.n.04
+定位	NOUN	point.n.02
+落後	NOUN	side.n.04
+地	NOUN	earth.n.01	earth.n.02	land.n.04	region.n.01
+流域	NOUN	region.n.01
+膝下	NOUN	vicinity.n.01
+現場	NOUN	scene.n.01
+東區	NOUN	east_side.n.01
+北區	NOUN	side.n.01
+南區	NOUN	south_side.n.01
+西區	NOUN	west_side.n.01
+溫帶	NOUN	temperate_zone.n.01
+頂	NOUN	top.n.01	top.n.02
+熱帶	NOUN	torrid_zone.n.01
+亞熱帶	NOUN	subtropics.n.01
+副熱帶	NOUN	subtropics.n.01
+場地	NOUN	venue.n.01
+昌	NOUN	vertex.n.02
+茂	NOUN	vertex.n.02
+走向	NOUN	tendency.n.04
+牡羊座	NOUN	aries.n.02	aries.n.03
+雙子座	NOUN	gemini.n.02	gemini.n.03
+東北	NOUN	manchuria.n.01	northeast.n.01
+中國	NOUN	china.n.01
+對岸	NOUN	china.n.01
+北平	NOUN	beijing.n.01
+平	NOUN	beijing.n.01
+故宮博物院	NOUN	forbidden_city.n.02
+滇	NOUN	yunnan.n.01
+上海	NOUN	shanghai.n.01
+滬	NOUN	shanghai.n.01
+台灣	NOUN	taiwan.n.01
+島	NOUN	island.n.01	taiwan.n.01
+臺灣	NOUN	taiwan.n.01
+台北市	NOUN	taipei.n.01
+台中	NOUN	taichung.n.01
+澳	NOUN	australia.n.01	australia.n.02	macao.n.01
+德國	NOUN	germany.n.01
+義大利	NOUN	italy.n.01
+巴西	NOUN	brazil.n.01
+英國	NOUN	united_kingdom.n.01
+印尼	NOUN	indonesia.n.01
+蒙古	NOUN	asian.n.01	mongolia.n.01	mongolia.n.02
+新	NOUN	singapore.n.02
+星	NOUN	singapore.n.02
+俄羅斯	NOUN	native.n.01	russia.n.04
+西班牙	NOUN	spain.n.01
+泰國	NOUN	thailand.n.01
+殖民地	NOUN	geographical_area.n.01
+紐約	NOUN	new_york.n.01	new_york.n.02
+怎地	NOUN	reason.n.01
+怎的	NOUN	reason.n.01
+為什麼	NOUN	reason.n.01
+為甚麼	NOUN	reason.n.01
+亞	NOUN	asia.n.01	rival.n.01
+兩岸	NOUN	bank.n.01
+鬆	NOUN	bit.n.02
+水體	NOUN	body_of_water.n.01	volume.n.01
+魔羯座	NOUN	capricornus.n.01
+縫	NOUN	crack.n.01	depression.n.08
+天下	NOUN	earth.n.01	kingdom.n.01	universe.n.01
+歐洲	NOUN	europe.n.01
+森林	NOUN	forest.n.02
+巨星	NOUN	star.n.01
+峽	NOUN	ravine.n.01
+顆	NOUN	atom.n.02
+木	NOUN	fuel.n.01	jupiter.n.01	lumber.n.01	tree.n.01
+岡	NOUN	hill.n.01
+月	NOUN	month.n.02	moon.n.06
+金	NOUN	bronze.n.01	gold.n.03	metallic_element.n.01	money.n.01	planet.n.01
+需求	NOUN	demand.n.02	necessity.n.02	need.n.01
+需要	NOUN	demand.n.02	necessity.n.02
+太平洋	NOUN	pacific.n.01
+河川	NOUN	river.n.01
+裂	NOUN	crack.n.01
+坡	NOUN	slope.n.01
+明星	NOUN	ace.n.03	star.n.03
+伸	NOUN	stretch.n.01
+日	NOUN	day.n.01	day.n.03	day.n.04	sun.n.01	sunlight.n.01
+旭	NOUN	sun.n.01
+凍原	NOUN	plain.n.01
+苔原	NOUN	plain.n.01
+織女	NOUN	vega.n.02
+瀕	NOUN	bank.n.01
+命運	NOUN	destiny.n.02	fortune.n.04	luck.n.02
+神	NOUN	deity.n.01	superior.n.01
+妃	NOUN	goddess.n.01	wife.n.01
+婆	NOUN	goddess.n.01	grandma.n.01	mother.n.01	old_woman.n.01	wife.n.01
+孤	NOUN	causal_agent.n.01	child.n.01	man.n.01
+個人	NOUN	individual.n.02	self.n.02
+己身	NOUN	self.n.02
+本人	NOUN	self.n.02
+自	NOUN	self.n.02
+自身	NOUN	self.n.02
+消費者	NOUN	consumer.n.01
+內行	NOUN	expert.n.01
+通	NOUN	expert.n.01
+原住民	NOUN	native.n.01
+為首	NOUN	leader.n.01
+中國人	NOUN	asian.n.01
+法國人	NOUN	european.n.01	french.n.02
+德國人	NOUN	european.n.01
+院士	NOUN	recipient.n.01
+歌星	NOUN	ace.n.03	singer.n.01
+友人	NOUN	acquaintance.n.03
+朋	NOUN	acquaintance.n.03
+朋友	NOUN	acquaintance.n.03
+顧問	NOUN	adviser.n.01
+低	NOUN	bass.n.03	singer.n.01
+大學生	NOUN	alumnus.n.01	undergraduate.n.01
+令祖	NOUN	ancestor.n.01
+祖	NOUN	ancestor.n.01	grandparent.n.01
+議員	NOUN	representative.n.01
+他媽的	NOUN	asshole.n.01
+姨	NOUN	aunt.n.01
+媽媽	NOUN	aunt.n.01	mother.n.01
+匪	NOUN	thief.n.01
+丐	NOUN	pauper.n.01
+親愛的	NOUN	beloved.n.01
+姐	NOUN	female_sibling.n.01	sister.n.03
+老闆娘	NOUN	employer.n.01	wife.n.01
+乃兄	NOUN	kinsman.n.01
+伯仲	NOUN	kinsman.n.01	sibling.n.01
+兄弟	NOUN	brother.n.04	buddy.n.01	kinsman.n.01	member.n.01
+弟兄	NOUN	brother.n.04	buddy.n.01	kinsman.n.01	member.n.01	monk.n.01
+同志	NOUN	brother.n.04	buddy.n.01	homosexual.n.01	socialist.n.01
+好兄弟	NOUN	buddy.n.01
+妹妹	NOUN	buddy.n.01	female_child.n.01	female_sibling.n.01	girl.n.01
+弟弟	NOUN	buddy.n.01	kinsman.n.01	male_child.n.01	young_buck.n.01
+望	NOUN	celebrity.n.01
+兒童	NOUN	child.n.01
+孩子	NOUN	child.n.01	child.n.02
+小孩子	NOUN	child.n.01	child.n.02
+幼	NOUN	child.n.01	childhood.n.01
+子女	NOUN	child.n.02
+經理	NOUN	coach.n.01	director.n.01
+同仁	NOUN	colleague.n.01
+校	NOUN	commissioned_naval_officer.n.01
+身邊	NOUN	friend.n.01
+臣	NOUN	attendant.n.01
+匠	NOUN	craftsman.n.03
+媳	NOUN	daughter-in-law.n.01
+使	NOUN	diplomat.n.01
+理事長	NOUN	director.n.02
+皇	NOUN	emperor.n.01
+迷	NOUN	enthusiast.n.01	lover.n.01	sports_fan.n.01
+公公	NOUN	father.n.01	grandfather.n.01	man.n.01	old_man.n.01
+農民	NOUN	farmer.n.01
+先父	NOUN	father.n.01
+父	NOUN	father.n.01
+父母	NOUN	father.n.01	mother.n.01
+爸	NOUN	father.n.01	uncle.n.01
+爸爸	NOUN	father.n.01	uncle.n.01
+親	NOUN	father.n.01	marriage.n.01	mother.n.01
+新生	NOUN	lowerclassman.n.01	newcomer.n.01
+老衲	NOUN	monk.n.01
+好朋友	NOUN	friend.n.01	menstruation.n.01
+祖父	NOUN	grandfather.n.01
+夫	NOUN	husband.n.01	man.n.01
+小我	NOUN	individual.n.02
+私人	NOUN	individual.n.02
+下	NOUN	follower.n.01
+下面	NOUN	follower.n.01
+所屬	NOUN	follower.n.01
+大盤	NOUN	distributor.n.01
+工人	NOUN	laborer.n.01
+學生	NOUN	learner.n.01	student.n.01
+漢	NOUN	man.n.01
+漢子	NOUN	man.n.01
+成員	NOUN	member.n.01
+魔	NOUN	monster.n.04
+姪	NOUN	nephew.n.01	niece.n.01
+吏	NOUN	official.n.01
+進香	NOUN	religious_person.n.01
+主力	NOUN	supporter.n.01
+警員	NOUN	policeman.n.01
+警官	NOUN	policeman.n.01
+影響	NOUN	influence.n.05
+牛郎	NOUN	prostitute.n.01
+委托	NOUN	proxy.n.01
+委託	NOUN	proxy.n.01
+公	NOUN	employee.n.01
+基督	NOUN	money_handler.n.01
+判	NOUN	referee.n.01
+居民	NOUN	resident.n.01
+廢物	NOUN	scapegrace.n.01	waste.n.01
+同學	NOUN	schoolmate.n.01
+歌手	NOUN	singer.n.01
+閣下	NOUN	sir.n.01
+姐妹	NOUN	female_sibling.n.01	sister.n.03
+水水	NOUN	smasher.n.02
+花	NOUN	cotton.n.03	flower.n.02	smasher.n.02
+少爺	NOUN	attendant.n.01	person.n.01	son.n.01
+專門	NOUN	specialist.n.01
+球迷	NOUN	sports_fan.n.01
+偷渡	NOUN	passenger.n.01
+讀者	NOUN	subscriber.n.02
+上面	NOUN	superior.n.01
+調查員	NOUN	calculator.n.01
+教師	NOUN	teacher.n.01
+遊客	NOUN	tourist.n.01
+偽	NOUN	wrongdoer.n.01
+吃素	NOUN	vegetarian.n.01
+某	NOUN	wife.n.01
+賢妻	NOUN	wife.n.01
+福特	NOUN	ford.n.05	ford.n.06
+甘地	NOUN	gandhi.n.02
+多	NOUN	more.n.01
+多數	NOUN	majority.n.02	more.n.01
+更多	NOUN	more.n.01
+餘	NOUN	more.n.01	remainder.n.01	time_off.n.01
+史達林	NOUN	stalin.n.01
+維多利亞	NOUN	victoria.n.01
+效應	NOUN	consequence.n.01
+後果	NOUN	aftermath.n.01
+吉	NOUN	luck.n.03
+直流	NOUN	direct_current.n.01
+光電	NOUN	energy.n.01
+紅外線	NOUN	actinic_radiation.n.01
+紫外線	NOUN	actinic_radiation.n.01
+松	NOUN	pine.n.01
+柏	NOUN	conifer.n.01
+花兒	NOUN	flower.n.02
+菊	NOUN	flower.n.01
+蘭花	NOUN	orchid.n.01
+竹	NOUN	gramineous_plant.n.01
+杜鵑樹	NOUN	shrub.n.01
+杜鵑花	NOUN	shrub.n.01
+紅樹林	NOUN	angiospermous_tree.n.01
+梅樹	NOUN	fruit_tree.n.01
+梅花	NOUN	fruit_tree.n.01
+梅花樹	NOUN	fruit_tree.n.01
+楓	NOUN	angiospermous_tree.n.01
+樹	NOUN	tree.n.01	tree.n.02
+莖	NOUN	stalk.n.02
+分派	NOUN	branch.n.02
+分班	NOUN	branch.n.02
+枝	NOUN	branch.n.02
+財	NOUN	wealth.n.04
+禮品	NOUN	gift.n.01
+獎品	NOUN	prize.n.01
+禮物	NOUN	present.n.02
+撥款	NOUN	expense.n.01
+費用	NOUN	expense.n.01
+補償	NOUN	recompense.n.01
+賠償	NOUN	recompense.n.01
+罰款	NOUN	fine.n.01
+罰錢	NOUN	fine.n.01
+價格	NOUN	price.n.02
+外資	NOUN	capital.n.01
+信託	NOUN	property.n.01
+金錢	NOUN	money.n.03
+欠	NOUN	debt.n.02
+貸	NOUN	loan.n.01
+貸款	NOUN	loan.n.01
+坐	NOUN	capacity.n.03	convalescence.n.01
+坐月子	NOUN	convalescence.n.01
+糞	NOUN	defecation.n.01
+遺傳	NOUN	organic_process.n.01
+代謝	NOUN	organic_process.n.01
+新陳代謝	NOUN	organic_process.n.01
+不到	NOUN	enough.n.01
+秒	NOUN	angular_unit.n.01	second.n.01
+秒角	NOUN	angular_unit.n.01
+角秒	NOUN	angular_unit.n.01
+分角	NOUN	angular_unit.n.01
+角分	NOUN	angular_unit.n.01
+公頃	NOUN	hectare.n.01
+合	NOUN	deciliter.n.01	turn.n.09
+位元	NOUN	bit.n.06
+流明	NOUN	light_unit.n.01
+歐	NOUN	electromagnetic_unit.n.01
+吋	NOUN	inch.n.01
+公分	NOUN	centimeter.n.01
+公里	NOUN	kilometer.n.01
+美元	NOUN	united_states_dollar.n.01
+摳	NOUN	monetary_unit.n.01
+塊	NOUN	monetary_unit.n.01
+公斤	NOUN	kilogram.n.01
+噸	NOUN	metric_ton.n.01
+一半	NOUN	one-half.n.01
+半數	NOUN	one-half.n.01
+數位	NOUN	digit.n.01
+二	NOUN	second.n.05	two.n.01
+五	NOUN	five.n.01	rank.n.02
+六	NOUN	digit.n.01	rank.n.02
+七	NOUN	digit.n.01	seventh.n.01
+柒	NOUN	digit.n.01	seventh.n.01
+八	NOUN	digit.n.01	eighth.n.01
+捌	NOUN	digit.n.01	eighth.n.01
+九	NOUN	digit.n.01	ninth.n.01
+玖	NOUN	digit.n.01	ninth.n.01
+十	NOUN	ten.n.01	tenth.n.02
+仟	NOUN	thousand.n.01
+千	NOUN	thousand.n.01
+萬	NOUN	large_integer.n.01
+體積	NOUN	volume.n.01
+乘	NOUN	capacity.n.03
+根本	NOUN	foundation.n.01
+關聯	NOUN	connection.n.01
+關連	NOUN	connection.n.01
+份子	NOUN	member.n.02
+其餘	NOUN	remainder.n.01
+排行	NOUN	kinship.n.02	rank.n.02
+對比	NOUN	ratio.n.01
+率	NOUN	ratio.n.01
+垂直	NOUN	orientation.n.03
+縱	NOUN	orientation.n.03
+東南	NOUN	southeast.n.01
+西南	NOUN	southwest.n.01
+頭號	NOUN	first.n.01
+前者	NOUN	first.n.01
+後者	NOUN	second.n.05
+相反	NOUN	reverse.n.01
+差	NOUN	change.n.02
+切	NOUN	straight_line.n.01	tangency.n.01
+隆	NOUN	bulge.n.01
+況	NOUN	situation.n.01
+伴	NOUN	company.n.03
+情誼	NOUN	friendship.n.01
+偷	NOUN	affair.n.02
+危機	NOUN	crisis.n.01	danger.n.03
+尖峰	NOUN	acme.n.01
+優先	NOUN	precedence.n.01
+事實	NOUN	fact.n.03
+實際	NOUN	fact.n.03
+就業	NOUN	employment.n.01
+和諧	NOUN	harmony.n.03
+自由	NOUN	freedom.n.01
+眠	NOUN	sleep.n.01
+睡	NOUN	sleep.n.01
+覺	NOUN	sleep.n.01
+疾病	NOUN	illness.n.01
+併發症	NOUN	disease.n.01
+傷	NOUN	injury.n.01
+療效	NOUN	effect.n.06
+痛	NOUN	pain.n.01
+炎	NOUN	inflammation.n.01
+燒	NOUN	fever.n.01
+理智	NOUN	psychological_state.n.01
+年輕	NOUN	maturity.n.02
+置	NOUN	stress.n.03
+聲望	NOUN	standing.n.01
+名氣	NOUN	repute.n.01
+恥	NOUN	shame.n.02
+不足	NOUN	failing.n.01
+短	NOUN	failing.n.01
+泰	NOUN	prosperity.n.02
+前瞻性	NOUN	potential.n.01
+轉機	NOUN	opportunity.n.01
+期望	NOUN	condition.n.01
+硼	NOUN	boron.n.01
+碳	NOUN	carbon.n.01
+氦	NOUN	noble_gas.n.01
+鈾	NOUN	uranium.n.01
+活潑	NOUN	chemical_agent.n.01
+廢料	NOUN	waste.n.01
+廢棄物	NOUN	waste.n.01
+污水	NOUN	waste.n.01
+冰	NOUN	ice.n.01
+冰雹	NOUN	hailstone.n.01
+沙泥	NOUN	mud.n.01	sand.n.01
+包裝	NOUN	packing_material.n.01
+柴	NOUN	fuel.n.01
+現	NOUN	present.n.01
+現在	NOUN	present.n.01
+之前	NOUN	past.n.01
+以前	NOUN	past.n.01
+往	NOUN	past.n.01
+年頭	NOUN	time.n.03	year.n.01
+時值	NOUN	value.n.05
+閒	NOUN	leisure.n.01
+假	NOUN	leave.n.01
+一生	NOUN	life.n.05
+人生	NOUN	life.n.05
+生	NOUN	life.n.05
+生平	NOUN	life.n.05
+年	NOUN	age.n.03	year.n.01	year.n.03
+兒時	NOUN	childhood.n.01
+幼時	NOUN	childhood.n.01
+少時	NOUN	youth.n.03
+丁年	NOUN	time_of_life.n.01
+週末	NOUN	saturday.n.01	weekend.n.01
+午前	NOUN	morning.n.01
+夙	NOUN	morning.n.01
+午間	NOUN	noon.n.01
+午后	NOUN	afternoon.n.01
+午後	NOUN	afternoon.n.01
+夕	NOUN	evening.n.01	night.n.01
+晚間	NOUN	evening.n.01
+晚	NOUN	night.n.01
+晚上	NOUN	night.n.01
+曉	NOUN	dawn.n.01
+週	NOUN	week.n.01
+明月	NOUN	month.n.02
+學期	NOUN	school_term.n.01	semester.n.01	term.n.02
+期中	NOUN	point.n.06
+小時	NOUN	hour.n.01
+分鐘	NOUN	minute.n.01
+秒鐘	NOUN	second.n.01
+之間	NOUN	while.n.01
+期	NOUN	historic_period.n.01	period.n.02
+初	NOUN	beginning.n.02
+水流量	NOUN	rate.n.01
+流量	NOUN	rate.n.01
+速	NOUN	speed.n.01
+時期	NOUN	period.n.02
+期間	NOUN	period.n.02
+任	NOUN	tenure.n.01
+那	NOUN	then.n.01
+呼吸	VERB	breathe.v.01
+嗐	VERB	sigh.v.01
+吐	VERB	come_out.v.05	exhale.v.01	spit.v.01	stick_out.v.01	talk.v.02	vomit.v.01
+吐出	VERB	come_out.v.05	exhale.v.01	render.v.07	spit.v.01	talk.v.02	vomit.v.01
+吐出來	VERB	come_out.v.05	exhale.v.01	render.v.07	spit.v.01	talk.v.02	vomit.v.01
+噴	VERB	exhale.v.01	run.v.06
+打	VERB	abandon.v.05	acquire.v.05	act_involuntarily.v.01	action.v.01	advertise.v.02	appropriate.v.02	battle.v.01	bestow.v.02	blast.v.07	blend.v.03	box.v.01	break.v.05	break.v.42	breathe.v.01	build.v.03	build.v.07	buy.v.01	cable.v.01	call.v.03	cast.v.07	change.v.01	clock_in.v.01	clock_out.v.01	communicate.v.02	compare.v.01	denounce.v.04	design.v.05	develop.v.13	discount.v.02	end.v.01	establish.v.08	estimate.v.01	exercise.v.04	exhale.v.01	express.v.01	fall.v.01	fire.v.02	flick.v.08	forge.v.01	get_rid_of.v.01	grade.v.03	grant.v.07	greet.v.01	hit.v.03	hold.v.02	hollow.v.02	hunt.v.01	insert.v.02	interrupt.v.03	knit.v.01	make.v.15	make.v.38	mark.v.02	move_involuntarily.v.01	nod.v.03	operate.v.03	pierce.v.04	play.v.01	play.v.07	play.v.16	process.v.01	project.v.10	promise.v.01	pull.v.01	put_on.v.07	put_up.v.02	read.v.08	ride.v.02	rob.v.01	scatter.v.03	scheme.v.01	sign.v.05	sign.v.07	snog.v.01	state.v.01	steer.v.01	stimulate.v.04	strike.v.01	suppress.v.01	tap.v.07	throw.v.06	tie.v.01	traverse.v.01	twist.v.04	type.v.01	war.v.01	whisk.v.04	work.v.01	work.v.02	write.v.01
+吹	VERB	blow.v.02	blow.v.14	exhale.v.01	overstate.v.01	play.v.07	send.v.01	shape.v.03	snuff_out.v.02	sound.v.06
+眨	VERB	blink.v.01	twinkle.v.02
+鐵	VERB	ache.v.03	act.v.02	brace.v.01
+下	VERB	add.v.01	bet_on.v.01	demote.v.01	descend.v.01	drop.v.08	flatten.v.03	gain.v.05	get_off.v.01	give.v.05	give.v.20	land.v.01	lay.v.02	leave.v.01	leave.v.08	make.v.16	perform.v.01	play.v.16	precipitate.v.03	put.v.01	put.v.04	strike.v.01	submit.v.01
+走	VERB	become.v.02	choose.v.01	die.v.01	experience.v.01	fail.v.02	leak.v.01	leave.v.01	make.v.01	play.v.16	process.v.01	prosecute.v.03	run.v.13	start.v.09	travel.v.01	visit.v.01	walk.v.01
+抖	VERB	move.v.03	move_involuntarily.v.01	shake.v.01
+安養	VERB	care.v.02	rest.v.05
+鬆	VERB	loosen.v.01	rest.v.05	undo.v.01
+動	VERB	act.v.01	arouse.v.01	be_active.v.01	change.v.03	contend.v.06	function.v.01	move.v.02	operate_on.v.01	start.v.09	touch.v.03	use.v.01
+行動	VERB	act.v.01	be_active.v.01
+熟睡	VERB	sleep.v.01
+眠	VERB	sleep.v.01
+睏	VERB	sleep.v.01
+睡	VERB	accommodate.v.04	convert.v.02	die.v.01	sleep.v.01	sleep_together.v.01
+睡覺	VERB	convert.v.02	die.v.01	sleep.v.01	sleep_together.v.01
+打瞌睡	VERB	nod.v.03
+點頭	VERB	communicate.v.02	nod.v.01	nod.v.03
+起	VERB	act.v.01	arise.v.03	bring.v.03	construct.v.01	erupt.v.08	establish.v.01	get_down.v.07	get_up.v.02	name.v.01	raise.v.02	remove.v.01	rise.v.01	start.v.09
+染	VERB	affect.v.02	contract.v.04	dye.v.01	eat.v.01	reflect.v.03
+激	VERB	affect.v.01	arouse.v.01	rise.v.01	stimulate.v.04
+伸	VERB	affect.v.02	carry_through.v.01
+伸手	VERB	affect.v.02	demand.v.01	help.v.01	intervene.v.01
+展開	VERB	affect.v.02	open.v.04	unfold.v.04
+咯	VERB	laugh.v.01
+咯咯	VERB	laugh.v.01
+大笑	VERB	laugh.v.01
+冷笑	VERB	smile.v.01
+看起來	VERB	be.v.01	look.v.02
+長	VERB	add.v.01	attract.v.01	be.v.01	chew_the_fat.v.01	dish_the_dirt.v.01	grow.v.02	grow.v.03	grow.v.08	lengthen.v.01	turn.v.07
+長成	VERB	be.v.01	grow.v.02	grow.v.03	grow.v.08
+潔淨	VERB	cleanse.v.01
+洗把臉	VERB	wash.v.02
+推	VERB	advertise.v.02	agree.v.02	bend.v.01	cut.v.01	deduce.v.01	estimate.v.01	postpone.v.01	push.v.01	put_on.v.07	recommend.v.01	refuse.v.02	rub.v.01	shave.v.01	shirk.v.02
+祝	VERB	celebrate.v.02	shave.v.01	wish.v.06
+綁	VERB	dress.v.16	oblige.v.02	tie.v.01	wear.v.05
+燙	VERB	ache.v.03	bite.v.02	boil.v.02	dress.v.16	heat.v.01	iron.v.01	print.v.04
+化	VERB	become.v.02	change.v.01	change.v.03	disintegrate.v.01	groom.v.03	impoverish.v.01
+畫	VERB	draw.v.06	groom.v.03	sign.v.02	trace.v.02
+磨	VERB	change.v.01	cut.v.01	decay.v.02	drill.v.03	grind.v.05	labor.v.02	rub.v.01
+理	VERB	groom.v.03	manage.v.02	organize.v.04	shorten.v.03	tidy.v.01
+瘦	VERB	reduce.v.20
+套	VERB	cover.v.26	get.v.11	oblige.v.02	wear.v.09	wheedle.v.01
+揭	VERB	announce.v.01	gestate.v.01	peel_off.v.02	raise.v.02	remove.v.01	uncover.v.02
+剝	VERB	exploit.v.01	remove.v.01	skin.v.04
+扒	VERB	construct.v.01	dig.v.01	excavate.v.04	exploit.v.01	grasp.v.01	push.v.01	remove.v.01	skin.v.04
+冠	VERB	come_of_age.v.01	label.v.01	lie.v.01	wear.v.09
+踏	VERB	operate.v.03	travel.v.01	tread.v.02	treadle.v.02	walk.v.08	wear.v.09
+種	VERB	breed.v.04	immunize.v.02	plant.v.01
+生	VERB	attract.v.01	be.v.11	emerge.v.04	feel.v.01	give_birth.v.01	grow.v.03	grow.v.08	happen.v.01	help.v.03	produce.v.03	produce.v.06	turn.v.07
+生下來	VERB	create_by_mental_act.v.01	give_birth.v.01
+生育	VERB	give_birth.v.01	grow.v.08
+墮胎	VERB	exhaust.v.05
+打下來	VERB	beat.v.01	blast.v.07	exhaust.v.05	fall.v.01	fall.v.08	hit.v.03	invade.v.01	lower.v.01	record.v.01
+宮	VERB	sterilize.v.02
+來	VERB	arrive.v.01	can.v.01	come.v.01	come.v.03	come.v.16	derive.v.03	do.v.04	exhaust.v.05	perform.v.01
+孵化	VERB	change_state.v.01	promote.v.01
+止痛	VERB	relieve.v.01	rid.v.01
+罹	VERB	suffer.v.06	suffer.v.10
+罹患	VERB	suffer.v.06
+承受	VERB	bear.v.04	suffer.v.02
+泣	VERB	cry.v.02
+濕	VERB	cry.v.02	wet.v.01
+落	VERB	affix.v.01	arrive.v.01	belong.v.01	complete.v.01	cry.v.02	decline.v.05	decrease.v.01	descend.v.01	fail.v.02	fall.v.01	get.v.01	lag.v.01	leave.v.02	lower.v.01	miss.v.01	precipitate.v.03	show.v.04	trap.v.01
+嗚	VERB	cry.v.02
+流	VERB	act_involuntarily.v.01	exhaust.v.05	exude.v.01	run.v.06	secrete.v.01	sweat.v.01
+傷	VERB	affect.v.05	consume.v.05	hurt.v.05	injure.v.01	use.v.04
+傷害	VERB	hurt.v.05	injure.v.01	use.v.04
+上	VERB	appear.v.02	appear.v.03	attend.v.01	board.v.01	carry.v.15	change.v.02	control.v.01	enroll.v.01	excrete.v.01	install.v.01	learn.v.04	load.v.04	pass.v.14	present.v.04	put_on.v.07	reach.v.02	reach.v.07	rise.v.01	serve.v.06	sleep_together.v.01	start.v.09	teach.v.01	wind_up.v.02
+拉	VERB	attract.v.02	change_shape.v.01	chew_the_fat.v.01	connect.v.08	excrete.v.01	increase.v.02	lengthen.v.01	make.v.08	miss.v.01	play.v.07	pull.v.04	steal.v.01	stretch.v.04
+解	VERB	break.v.02	cut.v.01	excrete.v.01	extinguish.v.04	interpret.v.01	resolve.v.06	solve.v.01	understand.v.01	undo.v.01
+嗯	VERB	stool.v.04
+勞	VERB	exhaust.v.01	labor.v.02	trouble.v.02
+凍	VERB	freeze.v.03	solidify.v.02
+挨	VERB	suffer.v.08	suffer.v.10	survive.v.01
+求診	VERB	treat.v.03
+治病	VERB	bring_around.v.02
+緩和	VERB	decrease.v.01	hush.v.02	relieve.v.01
+打針	VERB	inject.v.01
+患	VERB	contract.v.04	worry.v.01
+傳給	VERB	bequeath.v.01	communicate.v.01	infect.v.01	teach.v.01	transfer.v.02
+演變成	VERB	break.v.53	grow.v.08
+留	VERB	grow.v.08	leave.v.03	leave.v.07	memorize.v.01	refrain.v.01	request.v.01	retain.v.02	save.v.02	stay.v.04
+結	VERB	bear.v.05	bind.v.02	change_state.v.01	create_from_raw_material.v.01	end.v.02	grow.v.08	talk.v.02	tie.v.05
+結為	VERB	bear.v.05	bind.v.02	change_state.v.01	create_from_raw_material.v.01	end.v.02	grow.v.08	tie.v.05	unify.v.01
+養	VERB	accumulate.v.02	conserve.v.02	cultivate.v.01	develop.v.03	grow.v.08	pay.v.01	rear.v.02
+吊	VERB	change.v.01	exercise.v.04	hang.v.01	hang.v.02	raise.v.02	tease.v.03	tow.v.01
+練	VERB	exercise.v.04	rehearse.v.01
+訓練	VERB	exercise.v.04
+滾	VERB	change_state.v.01	decorate.v.01	exercise.v.04	sweep.v.03	turn.v.01
+輾轉	VERB	exercise.v.04
+引	VERB	head.v.02	induce.v.02	move.v.03	pull.v.01	quote.v.01
+烤	VERB	change.v.01	discolor.v.03	heat.v.01	roast.v.01
+晒	VERB	dry.v.01	lie.v.02	subject.v.01	sun.v.02
+感	VERB	be.v.01
+感到	VERB	be.v.01	feel.v.01	feel.v.03	feel.v.12	find.v.05	think.v.01
+發	VERB	arouse.v.01	be.v.01	become.v.01	blast.v.07	communicate.v.02	decide.v.01	dispatch.v.01	distribute.v.04	emit.v.02	erupt.v.08	express.v.02	gain.v.08	give.v.05	happen.v.01	initiate.v.02	inspire.v.02	make_noise.v.01	pronounce.v.01	publish.v.02	publish.v.03	raise.v.15	send.v.06	shoot.v.19	start.v.08	talk.v.02	use.v.01
+覺	VERB	be.v.01	feel.v.01	feel.v.03	feel.v.12	find.v.05	think.v.01
+覺得	VERB	be.v.01	feel.v.01	feel.v.03	feel.v.12	think.v.01
+捨	VERB	abstain.v.02	accept.v.03	change.v.01	depart.v.04
+施	VERB	accept.v.03	coerce.v.01	enrich.v.01	exploit.v.02	give.v.20	greet.v.01	perform.v.01	put_on.v.07	use.v.01
+易	VERB	change.v.02	contemn.v.01	exchange.v.01
+變更為	VERB	change.v.02
+轉化	VERB	convert.v.02	turn.v.07
+轉化為	VERB	convert.v.02	turn.v.07
+轉成	VERB	convert.v.02	switch.v.03	turn.v.07
+固定	VERB	fixate.v.03	stay.v.01
+達	VERB	continue.v.10	go.v.25	reach.v.01	reach.v.02
+使	VERB	exploit.v.02	make.v.02	order.v.03	perform.v.01	spend.v.02	use.v.01
+惹得	VERB	make.v.02
+讓	VERB	concede.v.04	make.v.02	permit.v.01
+交	VERB	act.v.01	consort.v.01	contend.v.06	intersect.v.01	pass.v.05
+交代	VERB	act.v.01	remind.v.01
+交替	VERB	act.v.01	supplant.v.01
+輪流	VERB	act.v.01
+打成	VERB	beat.v.02	beat.v.10	change.v.03	get.v.20	weave.v.02
+爰	VERB	change.v.03
+變	VERB	become.v.01	change.v.03	transform.v.02
+跳出來	VERB	appear.v.02	beat.v.04	dance.v.02	defend.v.01	escape.v.01	leap_out.v.02	pop_out.v.01	scroll.v.01
+轉	VERB	become.v.02	change.v.01	change.v.06	change_state.v.01	forward.v.01	move.v.02	plunge.v.05	surround.v.01	switch.v.03	transfer.v.02	transfer.v.05	transfer.v.06	turn.v.01	turn.v.07	turn.v.09	watch.v.02	wind_up.v.02
+平衡	VERB	balance.v.01	be.v.01	change_state.v.01
+漸染	VERB	affect.v.01
+衝擊	VERB	affect.v.01	attack.v.03	flick.v.08
+對調	VERB	switch_over.v.01
+變形	VERB	change_shape.v.01	fail.v.02
+構成	VERB	shape.v.03
+轉向	VERB	change_state.v.01	turn.v.01
+衰竭	VERB	fall_off.v.03
+成為	VERB	become.v.01	become.v.02
+變化	VERB	become.v.01
+轉變成	VERB	become.v.01	become.v.02
+轉變為	VERB	become.v.01	become.v.02
+習慣	VERB	adjust.v.03	habituate.v.02
+依循	VERB	follow.v.07
+照辦	VERB	follow.v.07
+遵循	VERB	follow.v.07
+隨同	VERB	accompany.v.02	follow.v.07
+順	VERB	follow.v.07	modify.v.01	obey.v.01	smooth.v.01
+下降	VERB	decrease.v.01	descend.v.01	devalue.v.02
+縮減	VERB	decrease.v.01
+退	VERB	cancel.v.03	decrease.v.01	discolor.v.01	leave.v.01	regress.v.03	reject.v.01	render.v.07	retire.v.01	vanish.v.04	weaken.v.02
+降為	VERB	decrease.v.01	devalue.v.02
+增	VERB	increase.v.02
+添	VERB	add.v.01	include.v.03	increase.v.02	write.v.01
+上升	VERB	change.v.02	rise.v.01	rise.v.02
+上昇	VERB	change.v.02	rise.v.01	rise.v.02
+升	VERB	change.v.02	raise.v.02	rise.v.01	rise.v.02
+居	VERB	accumulate.v.02	act_as.v.01	assume.v.05	have.v.01	populate.v.01	rank.v.01	stop.v.01
+揮	VERB	accumulate.v.02	aim.v.01	beckon.v.01	chase_away.v.01	dominate.v.03
+積累	VERB	accumulate.v.02
+積聚	VERB	accumulate.v.02
+聚集	VERB	accumulate.v.02	gather.v.01	meet.v.07
+替代	VERB	replace.v.01
+重整	VERB	reform.v.06	reorganize.v.01	restore.v.05
+新生	VERB	re-create.v.01
+復興	VERB	revive.v.04
+整治	VERB	better.v.02	oversee.v.01	punish.v.01
+發掘	VERB	better.v.02	excavate.v.02
+研發	VERB	better.v.02	research.v.02
+清除	VERB	clean.v.01	clean.v.02	erase.v.03	purify.v.01
+清	VERB	clean.v.01	clear_up.v.04	complete.v.01	count.v.01	extinguish.v.04	persecute.v.01	purify.v.01	remove.v.01
+扯	VERB	connect.v.08	pluck.v.01	tear_away.v.01
+加上	VERB	add.v.01	add.v.04	include.v.03
+饒	VERB	add.v.01	forgive.v.01	have.v.01
+和	VERB	compare.v.01	equal.v.03	mix.v.04	relate.v.05
+對	VERB	adjust.v.01	answer.v.01	correct.v.01	front.v.01	match.v.01	match.v.03	meet.v.10	mix.v.04	resist.v.02	suit.v.01	treat.v.01
+洗	VERB	change.v.01	change.v.06	erase.v.03	extinguish.v.04	remove.v.01	scatter.v.03
+餵	VERB	feed.v.02	insert.v.02	rear.v.02
+閏	VERB	add.v.01
+合	VERB	compound.v.02	fit.v.02	join.v.02	match.v.01	meet.v.05	suit.v.01
+合成	VERB	compound.v.02	synthesize.v.01
+組合成	VERB	compound.v.02
+組成	VERB	compound.v.02
+燒	VERB	bake.v.02	burn.v.03	cook.v.01	copy.v.04	damage.v.01	grill.v.01	heat.v.01	use.v.03
+正	VERB	change.v.01	correct.v.01
+糾正	VERB	correct.v.01	rectify.v.04
+好	VERB	better.v.03
+改善	VERB	better.v.02
+變質	VERB	decay.v.03	deteriorate.v.01
+潮	VERB	change.v.02
+潮濕	VERB	change.v.02
+不容	VERB	can.v.01	react.v.01
+不要	VERB	can.v.01	necessitate.v.01	ordain.v.04	plan.v.01
+容	VERB	accept.v.07	can.v.01	dress_up.v.02	hold.v.11	permit.v.01
+容許	VERB	can.v.01
+成	VERB	achieve.v.01	become.v.02	can.v.01	complete.v.01	establish.v.02	help.v.01	succeed.v.01
+會	VERB	befriend.v.01	can.v.01	have.v.02	know.v.02	meet.v.09
+能	VERB	can.v.01
+能否	VERB	can.v.01
+能夠	VERB	can.v.01
+許可	VERB	can.v.01
+沾	VERB	dunk.v.01	eat.v.01	manage.v.02	refer.v.02	wet.v.01
+沉浸	VERB	drench.v.04	steep.v.01
+泡	VERB	drench.v.04	initiate.v.02	loiter.v.01
+淹沒	VERB	flood.v.02	submerge.v.02	use.v.01
+乾	VERB	dry.v.01	empty.v.01	toast.v.02
+炮	VERB	dry.v.01	stir_fry.v.01
+確定	VERB	act.v.01	confirm.v.03	guarantee.v.02
+確認	VERB	confirm.v.03
+嗚呼哀哉	VERB	die.v.11
+故	VERB	die.v.11
+散去	VERB	collapse.v.07	disperse.v.02
+殺	VERB	beat_down.v.01	cut.v.01	decrease.v.01	erase.v.03	hit.v.03	kill.v.01	penetrate.v.01	process.v.01	weaken.v.01
+成長	VERB	grow.v.03	mature.v.01
+壓縮	VERB	compress.v.02	restrict.v.03	wedge.v.02
+窘	VERB	embarrass.v.01	restrict.v.03
+延	VERB	carry.v.09	continue.v.06	postpone.v.01	prolong.v.01
+侷限	VERB	enclose.v.02	limit.v.02	restrict.v.02
+拘	VERB	confine.v.05	limit.v.02
+濃縮	VERB	abridge.v.01	concentrate.v.01
+統合	VERB	consolidate.v.01
+簡稱	VERB	simplify.v.01
+番	VERB	double.v.01
+成熟	VERB	mature.v.01
+出於	VERB	derive.v.04	originate.v.01
+柔	VERB	change.v.01
+暴	VERB	change_integrity.v.01	emerge.v.01	fry.v.02	grow.v.04
+損壞	VERB	damage.v.01
+損失	VERB	damage.v.01
+毀	VERB	damage.v.01	fail.v.02	hurt.v.05
+病	VERB	damage.v.01	displease.v.01	fail.v.04	knock.v.06
+肇禍	VERB	damage.v.01
+補	VERB	compensate.v.01	compensate.v.02	complete.v.01	hire.v.01	nourish.v.01	repair.v.01	supplement.v.01	supply.v.01
+隆	VERB	boom.v.05	change_shape.v.01	implant.v.01	stress.v.01
+革新	VERB	better.v.02
+上市	VERB	issue.v.02	market.v.03
+放出	VERB	emit.v.02	free.v.01	go_around.v.02	issue.v.02	play.v.18
+放出來	VERB	emit.v.02	free.v.01	issue.v.02	play.v.18
+動員	VERB	change.v.01	gather.v.01
+起伏	VERB	change_state.v.01
+穩定	VERB	stabilize.v.01
+慣	VERB	habituate.v.02	pamper.v.01
+訓導	VERB	punish.v.01	teach.v.02
+整	VERB	flim-flam.v.01	tidy.v.01
+漂白	VERB	change.v.01	whiten.v.01
+染色	VERB	dye.v.01
+著色	VERB	color.v.01
+切	VERB	chime_in.v.01	cut.v.01	drive.v.14	interrupt.v.01	match.v.01	penetrate.v.01	prosecute.v.03	sell.v.01	separate.v.08	switch.v.03
+調	VERB	adapt.v.01	adjust.v.01	blend.v.03	delegate.v.02	exchange.v.01	request.v.03	seek.v.01	transfer.v.01
+調整	VERB	adapt.v.01	adjust.v.01
+伏	VERB	change.v.01	crouch.v.01	descend.v.01	plead.v.03	put.v.01
+發出	VERB	blast.v.07	communicate.v.02	dispatch.v.01	distribute.v.04	emit.v.02	erupt.v.08	express.v.02	make_noise.v.01	pronounce.v.01	publish.v.02	send.v.06	shoot.v.19
+瞎	VERB	change.v.01
+短	VERB	chew_the_fat.v.01	decrease.v.01	dish_the_dirt.v.01
+矮	VERB	decrease.v.01	devalue.v.02
+拖	VERB	absorb.v.04	carry.v.05	delay.v.02	drag.v.05	embroil.v.01	haul.v.01	prolong.v.01	prolong.v.02	pull.v.01	trace.v.02	travel.v.01
+拖延	VERB	delay.v.02	prolong.v.01
+悶	VERB	cook.v.03	stay.v.02
+炒	VERB	displace.v.03	promote.v.01	sleep_together.v.01	speculate.v.04	stir_fry.v.01
+解體	VERB	break.v.02	crumble.v.01
+打斷	VERB	act.v.01	break.v.05
+砸	VERB	break.v.05	fail.v.02	hurt.v.05	spend.v.02	thrust.v.01
+裂	VERB	change.v.01	crack.v.01	grant.v.07
+案發	VERB	happen.v.01
+發生	VERB	happen.v.01
+行事	VERB	proceed.v.04
+誕生	VERB	proceed.v.04
+進行	VERB	advance.v.01	make.v.01	proceed.v.04
+臨	VERB	arrive.v.01	come.v.03	find.v.01
+臨到	VERB	come.v.03
+臨近	VERB	approach.v.01	come.v.03
+著手	VERB	begin.v.02	get_down.v.07
+踏上	VERB	get_down.v.07	travel.v.01
+開始	VERB	begin.v.02	get_down.v.07
+步	VERB	stick_to.v.02	walk.v.01
+亡	VERB	die.v.01	die.v.10	end.v.02	kill.v.01
+結束	VERB	end.v.01	end.v.02
+絕	VERB	end.v.01	end.v.02
+解禁	VERB	end.v.02
+死亡	VERB	die.v.01	die.v.10
+哀哉	VERB	die.v.01
+嗚呼	VERB	die.v.01
+回去	VERB	die.v.01	return.v.01
+崩	VERB	collapse.v.01	crumble.v.01	die.v.01	drop.v.03
+逝	VERB	die.v.01	elapse.v.01	evanesce.v.01	vanish.v.02
+孤	VERB	deprive.v.01	leave.v.12
+勾	VERB	catch.v.04	change_surface.v.01	check.v.06	control.v.01	join.v.04	knit.v.01	trace.v.02
+止住	VERB	break.v.10	stop.v.05
+統一	VERB	harmonize.v.05	unify.v.01
+冷卻	VERB	change.v.02	cool.v.01
+溫暖	VERB	change.v.01	warm.v.01
+增溫	VERB	increase.v.02	warm.v.01
+冰	VERB	change.v.01	dismiss.v.01
+燃	VERB	arouse.v.01	burn.v.03	feel.v.01
+燒香灰	VERB	change_integrity.v.01
+回頭	VERB	reform.v.02	return.v.01	turn.v.01
+倒	VERB	fall.v.23	oust.v.01	pour.v.01	turn_back.v.05
+挽回	VERB	turn_back.v.05
+回	VERB	act.v.01	react.v.01	retort.v.01	return.v.01	revert.v.01	turn.v.01
+復	VERB	revert.v.01
+還	VERB	act.v.01	react.v.01	render.v.07	return.v.01	revert.v.01
+尖	VERB	intensify.v.03	sharpen.v.08
+伴	VERB	accompany.v.02	attach_to.v.01	blend.v.03
+拌	VERB	blend.v.03
+組織	VERB	organize.v.04
+訂	VERB	fasten.v.01	fix.v.12	legislate.v.01	order.v.02	place.v.11	reserve.v.04	subscribe.v.05	vow.v.01
+空	VERB	change_state.v.01	despair.v.01	evanesce.v.01	stop.v.01
+呈現	VERB	appear.v.02	present.v.02	reflect.v.01
+曝	VERB	appear.v.02	leak.v.01	subject.v.01	sun.v.02
+現	VERB	appear.v.02	flaunt.v.01	present.v.02
+跳出	VERB	appear.v.02	dance.v.02	escape.v.01	exit.v.01	jump.v.01	leap_out.v.02
+飛	VERB	appear.v.02	diffuse.v.01	fly.v.01	propel.v.01	show.v.04	travel.v.01	travel.v.05
+鬧	VERB	act.v.01	appear.v.02	appear.v.05	make.v.01	quarrel.v.01
+漸	VERB	appear.v.05
+登陸	VERB	appear.v.05	arrive.v.01
+失	VERB	lose.v.01	lose.v.02	miss.v.05	vanish.v.04
+省	VERB	avoid.v.01	chew_over.v.01	reduce.v.01	save.v.02	travel_to.v.01
+摔	VERB	close.v.01	crash.v.03	crash.v.09	drop.v.02	drop.v.03	extinguish.v.04	fall.v.01	move.v.03	sink.v.01	slap.v.01
+加速	VERB	accelerate.v.02	help.v.01	intensify.v.03
+盡	VERB	carry_through.v.01	empty.v.01	end.v.01
+汎	VERB	flush.v.07	move.v.02	present.v.02
+喜	VERB	like.v.02	match.v.05
+加工	VERB	rush.v.04	work.v.05
+急於	VERB	rush.v.04
+賴	VERB	calculate.v.02	decelerate.v.01	defame.v.01	impute.v.01
+鎮壓	VERB	compress.v.02	suppress.v.01
+定位	VERB	align.v.04	locate.v.01	situate.v.01	think_of.v.03
+卸	VERB	cut.v.01	disassemble.v.01	extinguish.v.04	remove.v.01
+去除	VERB	exclude.v.01	extinguish.v.04	get_rid_of.v.01	rule_out.v.03
+掃	VERB	clean.v.01	extinguish.v.04	glance.v.01	move.v.02	move.v.03	sweep.v.03
+定案	VERB	finalize.v.01
+和諧	VERB	relate.v.05
+完全	VERB	complete.v.01
+建成	VERB	complete.v.01
+竟	VERB	complete.v.01
+造成	VERB	cause.v.01	complete.v.01
+耀	VERB	change.v.01	flash.v.01	twinkle.v.02
+灌輸	VERB	fill.v.01	inculcate.v.01
+都市化	VERB	change.v.01
+糞	VERB	enrich.v.01
+得以	VERB	enable.v.01
+跑	VERB	carry_through.v.01	flee.v.01	leave.v.01	process.v.01	race.v.02	run.v.01	run.v.13	run_away.v.02	rush_off.v.01	travel.v.01	travel.v.03
+便	VERB	facilitate.v.01
+便利	VERB	facilitate.v.01
+方便	VERB	facilitate.v.01
+吵	VERB	act.v.01	badger.v.02	quarrel.v.01
+奏	VERB	play.v.07	take_effect.v.01
+奏效	VERB	take_effect.v.01
+收	VERB	absorb.v.04	accept.v.02	bury.v.02	buy.v.01	change_shape.v.01	derive.v.02	determine.v.03	discontinue.v.01	end.v.02	meet.v.07	memorize.v.01	reap.v.01	receive.v.02	restrain.v.04	withdraw.v.01
+恢復	VERB	compensate.v.01	regenerate.v.01	restore.v.05	revert.v.01
+低	VERB	devalue.v.02	lower.v.01
+廣	VERB	increase.v.02
+停	VERB	concentrate.v.02	discontinue.v.01	end.v.01	park.v.02	stay.v.02	stay.v.04	suspend.v.05
+省下	VERB	prevent.v.01
+省下來	VERB	prevent.v.01
+昂	VERB	better.v.02	raise.v.02
+進階	VERB	better.v.02	promote.v.02
+飛躍	VERB	jump.v.01	switch.v.03
+剪	VERB	censor.v.02	cut.v.04	shorten.v.03	switch_off.v.01
+想到	VERB	consider.v.05	desire.v.01	think.v.13
+折	VERB	change.v.02
+不解	VERB	sympathize.v.02	understand.v.01
+悟	VERB	understand.v.01
+摸	VERB	catch.v.04	move.v.15	play.v.01	probe.v.01	procrastinate.v.01	steal.v.01	stroke.v.01	touch.v.01	try.v.01	understand.v.01	win.v.01
+曉得	VERB	know.v.01	know.v.02	know.v.03	understand.v.01
+清楚	VERB	understand.v.01
+知道	VERB	know.v.01	know.v.02	know.v.03	understand.v.01
+認識到	VERB	know.v.04	know.v.07	understand.v.01
+消化	VERB	grok.v.01	impoverish.v.01	process.v.01
+不自覺	VERB	perceive.v.02
+識	VERB	know.v.04	know.v.07	recognize.v.09
+曉	VERB	enlighten.v.01	know.v.01
+涉	VERB	intersect.v.01	know.v.01	refer.v.02	walk.v.01
+詳	VERB	know.v.01	specify.v.04
+聞	VERB	hear.v.01	know.v.03	smell.v.01
+通	VERB	correspond.v.03	free.v.07	go.v.25	know.v.02
+回味	VERB	know.v.05
+學習	VERB	learn.v.01
+師	VERB	learn.v.01	train.v.02
+效	VERB	learn.v.01
+課	VERB	enforce.v.01	learn.v.01	monitor.v.01	sentence.v.01	tax.v.01	teach.v.01
+得知	VERB	learn.v.02
+上學	VERB	enroll.v.01	learn.v.04
+上課	VERB	learn.v.04	teach.v.01
+浸淫	VERB	penetrate.v.01	steep.v.01
+吸收	VERB	absorb.v.02	absorb.v.04	accept.v.02	accept.v.05	fund.v.06
+記下來	VERB	memorize.v.01	record.v.01
+念書	VERB	study.v.02	study.v.05
+攻	VERB	attack.v.02	attack.v.03	quest_for.v.01	reach.v.01	score.v.01	study.v.05
+遺忘	VERB	forget.v.01
+認得	VERB	recognize.v.04
+回憶	VERB	remember.v.03
+不捨	VERB	abandon.v.04
+留給	VERB	bequeath.v.01	leave.v.02	leave.v.07
+棄	VERB	abandon.v.02	abandon.v.05	discard.v.01	drop_out.v.01	sacrifice.v.01
+之外	VERB	exclude.v.01
+以外	VERB	exclude.v.01
+外	VERB	estrange.v.02	exclude.v.01
+而外	VERB	exclude.v.01
+除此之外	VERB	exclude.v.01
+除此以外	VERB	exclude.v.01
+疏忽	VERB	neglect.v.03
+認屍	VERB	identify.v.01
+誤會	VERB	misconstrue.v.01
+說成	VERB	interpret.v.01	speak.v.03
+想	VERB	consider.v.04	consider.v.05	desire.v.01	plan.v.01	think.v.01	think.v.02	think.v.11
+嚼	VERB	chew.v.01	chew_over.v.01
+反省	VERB	chew_over.v.01
+以為	VERB	assume.v.01	think.v.01
+認定	VERB	assume.v.01	attest.v.01
+歸納	VERB	belong.v.01	categorize.v.01	generalize.v.01	reason.v.01
+救	VERB	rescue.v.01	salvage.v.01	save.v.03	solve.v.01
+作答	VERB	solve.v.01
+回答	VERB	answer.v.01	react.v.01	solve.v.01
+依據	VERB	establish.v.08
+打下	VERB	appropriate.v.02	blast.v.07	build.v.03	buy.v.01	establish.v.08	fall.v.01	hit.v.03	insert.v.02	lower.v.01	play.v.01	succeed.v.01
+根據	VERB	establish.v.08
+扣	VERB	keep.v.03	subtract.v.01
+乘	VERB	accommodate.v.04	capitalize.v.01	multiply.v.01	pack.v.01	ride.v.02
+除	VERB	divide.v.02	get_rid_of.v.01
+剖析	VERB	analyze.v.01	parse.v.01
+檢討	VERB	analyze.v.01
+索	VERB	demand.v.01	diagnose.v.02	research.v.02
+度	VERB	measure.v.01
+比	VERB	compare.v.01	compare.v.02	compete.v.01	indicate.v.02	measure.v.01	sign.v.07
+測	VERB	measure.v.01	measure.v.04	predict.v.01
+稱	VERB	call.v.02	measure.v.01	say.v.08
+調查	VERB	analyze.v.01	probe.v.01
+究	VERB	research.v.02
+探	VERB	be.v.03	come.v.01	explore.v.02	feel.v.09	move.v.03	probe.v.01	search.v.01	travel_to.v.01
+分	VERB	classify.v.01	distinguish.v.01	partake.v.02	separate.v.07	separate.v.08	separate.v.09
+區	VERB	distinguish.v.01
+同	VERB	compare.v.01
+比較	VERB	compare.v.01
+與	VERB	attend.v.01	compare.v.01	relate.v.05
+跟	VERB	attach.v.03	compare.v.01	follow.v.01	follow.v.18	postdate.v.01	pursue.v.02	take_after.v.02
+比喻	VERB	compare.v.01
+況	VERB	compare.v.01
+好比	VERB	compare.v.03
+列為	VERB	classify.v.01
+分班	VERB	group.v.01
+排行	VERB	rate.v.01
+數	VERB	rate.v.01	recite.v.02
+次	VERB	rate.v.01
+淪為	VERB	downgrade.v.01
+對照	VERB	contrast.v.01
+核	VERB	approve.v.01	check.v.01
+說話	VERB	decide.v.01	defend.v.01	knock.v.06	persuade.v.02	prove.v.02	speak.v.03
+講話	VERB	defend.v.01	knock.v.06	lecture.v.01	persuade.v.02	prove.v.02	speak.v.03
+證	VERB	attest.v.01	prove.v.02
+證明	VERB	attest.v.01	prove.v.02
+闢	VERB	create.v.02	disprove.v.01
+容忍	VERB	digest.v.03
+忍受	VERB	digest.v.03	inhibit.v.04
+忍耐	VERB	digest.v.03	inhibit.v.04
+挺	VERB	digest.v.03	raise.v.02	second.v.01
+禁	VERB	avoid.v.03	digest.v.03	forbid.v.01
+經	VERB	digest.v.03	elapse.v.01	experience.v.01	pass.v.01
+耐	VERB	digest.v.03	weather.v.01
+飽受	VERB	digest.v.03
+包容	VERB	accept.v.07	hold.v.11
+考	VERB	investigate.v.01	measure.v.04	quiz.v.01	test.v.05	test.v.07
+試	VERB	probe.v.01	sample.v.01	test.v.07	try.v.01
+判	VERB	determine.v.03	evaluate.v.02	judge.v.01	sentence.v.01
+估計	VERB	estimate.v.01
+吃	VERB	accept.v.02	appropriate.v.02	buy.v.01	chew.v.01	consume.v.05	cozen.v.03	drug.v.02	eat.v.01	eat_out.v.01	estimate.v.01	fail.v.04	feed.v.02	gain.v.08	react.v.01	retain.v.02	see.v.05	smoke.v.01	suffer.v.10	survive.v.01	twist.v.04	use.v.03	wheedle.v.01
+射	VERB	blast.v.07	emit.v.02	estimate.v.01	hint.v.01	hit.v.01
+頭	VERB	agree.v.02	evaluate.v.02
+取	VERB	achieve.v.01	adopt.v.02	choose.v.01	depend_on.v.01	name.v.01	quote.v.01	receive.v.01	supplant.v.01	take.v.04	target.v.01
+抄	VERB	choose.v.01	pass.v.07	take.v.20
+挑	VERB	carry.v.05	choose.v.01	knock.v.06	pick.v.01	transport.v.02
+相	VERB	assist.v.02	choose.v.01	observe.v.04
+選取	VERB	choose.v.01
+靠邊	VERB	choose.v.01	choose.v.02
+揀	VERB	pick.v.01	raise.v.02
+撿	VERB	pick.v.01	raise.v.02
+評估	VERB	measure.v.04
+刮目相看	VERB	measure.v.04
+翻案	VERB	measure.v.04	overrule.v.01	revoke.v.02
+信	VERB	believe.v.01
+相信	VERB	believe.v.01
+信以為真	VERB	misbelieve.v.01
+納	VERB	accept.v.02	accept.v.03	hold.v.11	include.v.02	marry.v.01	meet.v.07	pay.v.01	sew.v.01
+打回票	VERB	reject.v.01
+失信	VERB	dismiss.v.01
+信託	VERB	trust.v.01
+信賴	VERB	calculate.v.02	trust.v.01
+當作	VERB	see.v.05	think.v.01
+當做	VERB	see.v.05	think.v.01
+當成	VERB	act.v.03	see.v.05	think.v.01
+視作	VERB	see.v.05	think.v.01
+視為	VERB	see.v.05	think.v.01
+感覺	VERB	feel.v.03	look.v.02	think.v.01
+看作	VERB	see.v.05
+看做	VERB	see.v.05
+看成	VERB	see.v.05
+論	VERB	comment.v.02	determine.v.03	see.v.05
+奉	VERB	obey.v.01	respect.v.01	serve.v.07	worship.v.02
+回顧	VERB	remember.v.03
+送審	VERB	review.v.03
+決議	VERB	conclude.v.03	decide.v.01
+立	VERB	build.v.03	decide.v.01	designate.v.01	establish.v.02	exist.v.01	invest.v.04	legislate.v.01	put.v.01	resist.v.02	rest.v.01	write.v.01
+決定	VERB	decide.v.02	determine.v.02	induce.v.02
+決心	VERB	decide.v.01
+決意	VERB	decide.v.01
+裁	VERB	cut.v.04	design.v.03	determine.v.03	displace.v.03
+引以為憂	VERB	worry.v.02
+急	VERB	rush.v.01	worry.v.02
+擔	VERB	carry.v.05	transport.v.02	worry.v.02
+構	VERB	construct.v.01	plan.v.02	produce.v.02	write.v.01
+計	VERB	consider.v.04	plan.v.02	total.v.02
+設計	VERB	deceive.v.01	design.v.03	plan.v.02
+謀	VERB	plan.v.02	search.v.01
+有意	VERB	plan.v.01
+計算	VERB	count.v.01	plan.v.01	scheme.v.01
+預定	VERB	plan.v.01	request.v.01
+鎖定	VERB	draw_a_bead_on.v.02	engage.v.10
+寄	VERB	entrust.v.02	express.v.01	mail.v.02	plan.v.01
+寄予	VERB	express.v.02	plan.v.01
+希望	VERB	plan.v.01
+想要	VERB	demand.v.01	plan.v.01
+望	VERB	come.v.01	front.v.01	go.v.03	plan.v.01
+期	VERB	plan.v.01
+期使	VERB	plan.v.01
+期望	VERB	plan.v.01
+企圖	VERB	intend.v.01
+圖	VERB	intend.v.01
+待	VERB	expect.v.03	intend.v.01	need.v.03	stay.v.02	treat.v.01	wait.v.01	wait.v.02
+意圖	VERB	intend.v.01
+有心	VERB	intend.v.01
+試圖	VERB	intend.v.01
+玩	VERB	dally.v.04	dismiss.v.01	gull.v.02	manipulate.v.02	play.v.01	play.v.11	play.v.20	travel_to.v.01
+仰賴	VERB	calculate.v.02
+依賴	VERB	calculate.v.02
+憑	VERB	calculate.v.02	lean_on.v.01
+憑藉	VERB	calculate.v.02
+抓	VERB	blame.v.02	calculate.v.02	collar.v.01	get.v.11	move.v.03	represent.v.09	search.v.01	touch.v.05
+託	VERB	calculate.v.02	entrust.v.01
+賴以	VERB	calculate.v.02
+串	VERB	assemble.v.01	associate.v.01	chew_the_fat.v.01	string.v.01	travel.v.01
+接過來	VERB	associate.v.01	assume.v.02	bring.v.01	connect.v.04	receive.v.01
+銜接	VERB	associate.v.01	connect.v.03	connect.v.04
+關聯	VERB	associate.v.01
+關連	VERB	associate.v.01
+感覺到	VERB	feel.v.03	find.v.05
+規定	VERB	rule.v.02
+應戰	VERB	meet.v.10	react.v.01
+響應	VERB	react.v.01
+憧憬	VERB	expect.v.03
+有待	VERB	expect.v.03
+展望	VERB	anticipate.v.03
+停留	VERB	concentrate.v.02	stay.v.02	stay.v.04
+注意	VERB	beware.v.01
+留意	VERB	beware.v.01
+驚訝	VERB	surprise.v.01
+歸功	VERB	impute.v.01
+尤	VERB	impute.v.01
+意識到	VERB	recognize.v.02
+體會到	VERB	recognize.v.02
+體認	VERB	recognize.v.02
+求解	VERB	resolve.v.06
+植	VERB	communicate.v.01	cultivate.v.01	implant.v.01	plant.v.01
+支	VERB	hold.v.10	pay.v.09
+唱	VERB	call.v.25	sing.v.02
+喝	VERB	call.v.25	drink.v.01	drink.v.02	feed.v.02
+流傳	VERB	circulate.v.02	communicate.v.01
+接棒	VERB	buy.v.01	relay.v.01
+進	VERB	admit.v.03	enter.v.01	gain.v.08	offer.v.09	order.v.02	promote.v.02	recommend.v.01
+勿	VERB	necessitate.v.01	ordain.v.04
+毋	VERB	ordain.v.04
+示	VERB	express.v.02	instruct.v.02	label.v.01	order.v.01	uncover.v.01
+命	VERB	demand.v.01	order.v.03
+命令	VERB	demand.v.01	order.v.03
+敕	VERB	order.v.03
+加諸	VERB	inflict.v.01
+安	VERB	calm.v.01	calm.v.03	cling.v.02	confer.v.02	delegate.v.02	inflict.v.01	install.v.01
+指引	VERB	guide.v.03	instruct.v.03
+凹	VERB	ask.v.02	flex.v.05
+討	VERB	arouse.v.01	ask.v.02	claim.v.03	desire.v.01	marry.v.01	obtain.v.01
+函請	VERB	request.v.01
+求援	VERB	help.v.01	request.v.01
+求助	VERB	help.v.01	request.v.02
+求救	VERB	help.v.01	request.v.02
+下令	VERB	request.v.02
+號召	VERB	request.v.02
+陳請	VERB	petition.v.01
+呼籲	VERB	appeal.v.02
+籲	VERB	appeal.v.02
+聲稱	VERB	claim.v.01
+自稱	VERB	claim.v.01
+號稱	VERB	claim.v.01
+求	VERB	beg.v.01	desire.v.01	quest_for.v.01
+求饒	VERB	beg.v.01
+哀求	VERB	bid.v.03
+央求	VERB	bid.v.03
+懇求	VERB	bid.v.03
+交通	VERB	negociate.v.06
+商量	VERB	hash_out.v.01	negociate.v.06
+諮商	VERB	negociate.v.06	rede.v.02
+和解	VERB	agree.v.01
+允許	VERB	agree.v.02	permit.v.01
+答應	VERB	agree.v.02	answer.v.01
+肯	VERB	agree.v.02
+贊成	VERB	agree.v.02	support.v.01
+提請	VERB	apply.v.03
+申	VERB	apply.v.03	elaborate.v.01
+催	VERB	help.v.01	urge.v.01
+催促	VERB	urge.v.01
+勸	VERB	urge.v.01
+勸說	VERB	urge.v.01
+敦促	VERB	urge.v.01
+哄	VERB	comfort.v.01	deceive.v.02	flim-flam.v.01	wheedle.v.01
+洗腦	VERB	persuade.v.02
+引得	VERB	induce.v.02
+引起	VERB	induce.v.02
+惹	VERB	exacerbate.v.02	induce.v.02
+碰	VERB	find.v.01	induce.v.02	meet.v.01	touch.v.01	touch.v.05	try.v.01
+理論	VERB	argue.v.01
+呈	VERB	present.v.02	present.v.04
+呈現出	VERB	present.v.02	show.v.08
+寫	VERB	compose.v.02	describe.v.01	present.v.02	program.v.02	read.v.02	write.v.01	write.v.07	write.v.08
+陳	VERB	dispatch.v.01	present.v.02	show.v.01	state.v.01
+規勸	VERB	argue.v.01
+計較	VERB	argue.v.02	negociate.v.06
+吵架	VERB	quarrel.v.01
+為敵	VERB	oppose.v.01
+迷	VERB	capture.v.02	charm.v.04
+中斷	VERB	pause.v.02
+乞求	VERB	solicit.v.01
+啖	VERB	eat.v.01	entice.v.01	feed.v.02
+誘	VERB	cause.v.01	entice.v.01
+誘使	VERB	entice.v.01
+約談	VERB	interrogate.v.02
+摳	VERB	call.v.03
+電	VERB	call.v.03
+邀請	VERB	invite.v.04
+促進	VERB	promote.v.01	provoke.v.03
+擇期	VERB	schedule.v.02
+抗	VERB	compete.v.01	prevent.v.01	refuse.v.01	refuse.v.02	resist.v.02
+拒	VERB	refuse.v.01	refuse.v.02	resist.v.02
+拒絕	VERB	refuse.v.01	refuse.v.02
+聽見	VERB	accept.v.03	hear.v.01	hear.v.04
+忽視	VERB	dismiss.v.01
+掉以輕心	VERB	dismiss.v.01
+漠視	VERB	dismiss.v.01
+視而不見	VERB	dismiss.v.01
+輕視	VERB	contemn.v.01	dismiss.v.01
+允	VERB	permit.v.01
+准	VERB	permit.v.01
+獲准	VERB	permit.v.01
+追認	VERB	approve.v.01
+通過	VERB	approve.v.01	evaluate.v.02	pass.v.01
+訪	VERB	consult.v.01	interview.v.01	search.v.02	travel_to.v.01	visit.v.01	visit.v.04
+遠	VERB	avoid.v.01
+避	VERB	avoid.v.01	prevent.v.01
+避免	VERB	avoid.v.01
+踢	VERB	challenge.v.02	dance.v.02	kick.v.03	propel.v.01	shirk.v.02
+面對	VERB	confront.v.02	front.v.01
+面臨	VERB	confront.v.02	front.v.01
+思考	VERB	consider.v.05
+想起	VERB	consider.v.05	desire.v.01
+主導	VERB	moderate.v.01
+討論	VERB	discourse.v.01	hash_out.v.01
+談論	VERB	hash_out.v.01
+回信	VERB	answer.v.01
+回覆	VERB	answer.v.01
+回話	VERB	answer.v.01	retort.v.01
+答覆	VERB	answer.v.01
+頂	VERB	grant.v.07	prop_up.v.01	retort.v.01	transport.v.02
+否認	VERB	deny.v.01
+執意	VERB	insist.v.01
+供認	VERB	confess.v.01
+為證	VERB	attest.v.01	witness.v.01
+表	VERB	attest.v.01	enclose.v.02	express.v.02	express.v.04
+訓話	VERB	call_on_the_carpet.v.01
+幹	VERB	crusade.v.01	eat_up.v.01	kill.v.01	knock.v.06	make.v.01	sleep_together.v.01	steal.v.01	work.v.01
+批	VERB	comment.v.01	knock.v.06	sell.v.01
+發揚	VERB	preach.v.02
+傳教	VERB	lecture.v.01	teach.v.01
+授	VERB	confer.v.02	teach.v.01
+教	VERB	teach.v.01
+教授	VERB	teach.v.01
+教給	VERB	teach.v.01
+告知	VERB	inform.v.01
+撒謊	VERB	lie.v.05
+說謊	VERB	lie.v.05
+象徵	VERB	typify.v.02
+假裝	VERB	feign.v.01
+裝	VERB	accommodate.v.04	feign.v.01	install.v.01	pack.v.01
+裝作	VERB	feign.v.01
+裝做	VERB	feign.v.01
+胡說	VERB	talk_through_one's_hat.v.01
+捉	VERB	blame.v.02	collar.v.01	get.v.11	move.v.03	represent.v.09	search.v.01	touch.v.05
+告訴	VERB	accuse.v.01	prompt.v.03	tell.v.02
+刁	VERB	knock.v.06
+矇	VERB	cover.v.02	deceive.v.02	flim-flam.v.01
+騙	VERB	deceive.v.02	flim-flam.v.01	victimize.v.03
+稱道	VERB	praise.v.01
+表揚	VERB	praise.v.01
+頌	VERB	perform.v.01	praise.v.01
+致敬	VERB	praise.v.01
+助陣	VERB	cheer.v.03
+捧場	VERB	applaud.v.02	support.v.01
+轟炸	VERB	attack.v.02	bombard.v.02
+鞭	VERB	attack.v.02	flog.v.01
+咒	VERB	control.v.01	curse.v.03
+質	VERB	challenge.v.02	owe.v.03
+警	VERB	warn.v.01
+警告	VERB	warn.v.01
+威脅	VERB	endanger.v.01	threaten.v.02
+恐嚇	VERB	threaten.v.02
+勸告	VERB	rede.v.02
+勸導	VERB	rede.v.02
+奉勸	VERB	rede.v.02
+建議	VERB	propose.v.01	recommend.v.01
+請益	VERB	rede.v.02
+顧問	VERB	rede.v.02
+諮詢	VERB	consult.v.01
+提名	VERB	baptize.v.01	nominate.v.01	nominate.v.02	sign.v.03
+恭喜	VERB	congratulate.v.02
+字	VERB	promise.v.02	write.v.04
+鎖	VERB	envelop.v.01	fasten.v.01	hold.v.02	lock_in.v.02	oblige.v.02	sleep_together.v.01
+致	VERB	cause.v.01	give.v.03	give.v.18
+致力	VERB	give.v.18
+鍾情	VERB	give.v.18
+保證	VERB	guarantee.v.01	undertake.v.03
+包	VERB	buy.v.01	change.v.02	control.v.01	cover.v.01	give.v.08	guarantee.v.02	include.v.01	surround.v.01	undertake.v.03
+確保	VERB	guarantee.v.01	guarantee.v.02
+致謝	VERB	thank.v.01
+謝謝	VERB	thank.v.01
+賠	VERB	apologize.v.01	compensate.v.02	lose.v.07
+陳情	VERB	apologize.v.02
+挺身而出	VERB	defend.v.01
+問	VERB	ask.v.05
+頷	VERB	communicate.v.02
+俯	VERB	bow.v.01
+行禮	VERB	greet.v.01
+歡迎	VERB	welcome.v.02
+原諒	VERB	forgive.v.01
+貸	VERB	forgive.v.01	lend.v.02
+對不起	VERB	forgive.v.01
+處	VERB	act.v.01	exist.v.01	get_along_with.v.01	sentence.v.01	treat.v.01
+抗議	VERB	complain.v.01
+引以為憾	VERB	deplore.v.02
+喧嘩	VERB	express.v.02
+表示	VERB	bespeak.v.01	express.v.02	state.v.01	suggest.v.03
+驚	VERB	annoy.v.01	express.v.02	fear.v.02	trouble.v.02
+暗示	VERB	hint.v.01	suggest.v.03
+意指	VERB	mean.v.03
+抖出	VERB	shed.v.01	unwrap.v.02
+抖出來	VERB	shed.v.01	unwrap.v.02
+透露	VERB	uncover.v.01	unwrap.v.02
+祕	VERB	leak.v.01
+發揮	VERB	exploit.v.02	rede.v.01
+發揮出	VERB	exploit.v.02	rede.v.01
+論述	VERB	explain.v.01
+名	VERB	express.v.02	name.v.01
+置	VERB	buy.v.01	equip.v.01	express.v.02	put.v.01	put.v.02
+表達	VERB	express.v.02	represent.v.05	state.v.01	uncover.v.01
+表達出來	VERB	express.v.02	represent.v.05	uncover.v.01
+鳴	VERB	express.v.02	sound.v.04	sound.v.06	utter.v.02
+發言	VERB	talk.v.02
+借	VERB	express.v.01	get.v.01	lend.v.02
+有感而發	VERB	express.v.01
+演出	VERB	express.v.01	perform.v.01	perform.v.03
+發洩	VERB	express.v.01
+列出來	VERB	list.v.01	show.v.01
+設定	VERB	specify.v.02
+編號	VERB	number.v.02
+累計	VERB	total.v.02
+說出	VERB	read.v.02	state.v.01	tell.v.02	uncover.v.01
+述	VERB	tell.v.03
+傳世	VERB	publicize.v.01
+意在	VERB	mean.v.01
+譯成	VERB	translate.v.01
+津津樂道	VERB	talk.v.01
+滔滔不絕	VERB	spiel.v.02
+口操	VERB	speak.v.03
+口語	VERB	speak.v.03
+操	VERB	control.v.01	hold.v.02	operate.v.03	speak.v.03	use.v.01
+用	VERB	eat.v.01	hire.v.01	speak.v.03	spend.v.01	spend.v.02	use.v.01	want.v.02
+言語	VERB	speak.v.03
+反映	VERB	reflect.v.01	reflect.v.03	report.v.01
+報導	VERB	report.v.01
+頒	VERB	announce.v.02	award.v.01
+採訪	VERB	report.v.05
+發放	VERB	communicate.v.02	distribute.v.04	emit.v.02	expatriate.v.01	publish.v.02
+廣播	VERB	air.v.02	air.v.03	circulate.v.02
+播	VERB	air.v.03	circulate.v.02	initiate.v.02	sow.v.01
+馳	VERB	care_for.v.02	circulate.v.02	exist.v.01	ride_horseback.v.01
+釋放	VERB	emit.v.02	free.v.01	go_around.v.02
+叫作	VERB	call.v.02	name.v.01
+名叫	VERB	call.v.02
+名為	VERB	call.v.02
+曰	VERB	call.v.02	name.v.01	read.v.02	say.v.08	state.v.01
+稱作	VERB	call.v.02
+稱呼	VERB	call.v.02
+稱為	VERB	call.v.02
+第	VERB	pronounce.v.02
+推出	VERB	advertise.v.02
+結巴	VERB	talk.v.02
+鳴唱	VERB	utter.v.02
+形容	VERB	describe.v.01
+張貼	VERB	post.v.02	post.v.10
+登錄	VERB	log_in.v.01	record.v.01
+載入	VERB	record.v.01
+建檔	VERB	record.v.01
+照	VERB	examine.v.02	mirror.v.01	photograph.v.01	shine.v.07	turn.v.01
+敲	VERB	cheat.v.01	hit.v.01	play.v.01	tap.v.07	type.v.01
+速寫	VERB	sketch.v.02
+通訊	VERB	correspond.v.03	e-mail.v.01
+傳真	VERB	telecommunicate.v.01
+一言以蔽之	VERB	sum_up.v.01
+宣稱	VERB	declare.v.01
+強調	VERB	stress.v.01
+援	VERB	help.v.01	hold.v.02	pull.v.04	quote.v.01
+付諸	VERB	mention.v.01	perform.v.01	spend.v.01
+命名	VERB	name.v.01
+定型	VERB	label.v.01
+標	VERB	label.v.01	offer.v.07
+標示	VERB	label.v.01
+來信	VERB	mail.v.02
+寄來	VERB	mail.v.02	send.v.02
+寄回	VERB	mail.v.02
+寄發	VERB	mail.v.02
+寄給	VERB	mail.v.02	send.v.02
+聊	VERB	chew_the_fat.v.01
+聊天	VERB	chew_the_fat.v.01
+侃侃而談	VERB	talk.v.02
+揮手	VERB	beckon.v.01
+哼	VERB	sing.v.02	utter.v.02
+咕嚕	VERB	mumble.v.01
+吟	VERB	perform.v.01	utter.v.02
+啼	VERB	utter.v.02
+不聞不問	VERB	treat.v.01
+給與	VERB	give.v.21
+發送	VERB	distribute.v.04	impart.v.03	send.v.06
+送	VERB	deliver.v.02	give.v.08	sacrifice.v.01	see.v.22	send.v.02	send.v.06	transport.v.02
+送來	VERB	deliver.v.02	lend.v.01	send.v.02	send.v.06
+送出	VERB	send.v.02	send.v.06
+送往	VERB	send.v.02	send.v.06
+供給	VERB	stipulate.v.01
+商請	VERB	invite.v.07
+恭請	VERB	invite.v.07
+應邀	VERB	invite.v.07
+搭	VERB	attach_to.v.01	collaborate.v.01	connect.v.03	connect.v.04	connect.v.08	fit.v.02	hang.v.01	install.v.01	lose.v.07	match.v.03	put.v.01
+交戰	VERB	compete.v.01	war.v.01
+比賽	VERB	compete.v.01
+爭奪	VERB	compete.v.01
+競賽	VERB	compete.v.01
+賽	VERB	compete.v.01	surpass.v.02
+較量	VERB	compete.v.01	negociate.v.06
+連戰	VERB	compete.v.01
+繳	VERB	pay.v.01	put_in.v.05
+爭取	VERB	try_for.v.01
+棋	VERB	play.v.01
+耍	VERB	cheat.v.01	perform.v.01	perform.v.03	play.v.01	throw.v.01	use.v.01
+遊	VERB	march.v.01	play.v.01	roll.v.12	travel.v.02
+先發	VERB	start.v.11
+死心	VERB	drop_out.v.01
+奮戰	VERB	contend.v.06	crusade.v.01
+掙扎	VERB	contend.v.06
+反撲	VERB	fight_back.v.01	turn.v.01
+參選	VERB	campaign.v.01
+任	VERB	let.v.01	serve.v.02
+任職	VERB	serve.v.02
+服	VERB	admire.v.01	comply.v.01	consume.v.02	serve.v.02	serve.v.09
+北	VERB	lose.v.02
+克	VERB	win.v.01
+抱	VERB	cling.v.02	hold.v.02	win.v.01
+勝過	VERB	surpass.v.02
+超	VERB	pass.v.07	surpass.v.02
+超越	VERB	get_the_better_of.v.01	pass.v.01	surpass.v.02
+渡	VERB	elapse.v.01	get_the_better_of.v.01	intersect.v.01
+渡過	VERB	elapse.v.01	get_the_better_of.v.01
+制伏	VERB	beat.v.01
+制服	VERB	beat.v.01
+征服	VERB	appropriate.v.02	get_the_better_of.v.01
+讓出	VERB	surrender.v.01
+抵	VERB	amount.v.01	prevent.v.01	prop_up.v.01	resist.v.02
+攔截	VERB	obstruct.v.01	resist.v.02
+侵	VERB	advance.v.01	attack.v.03	intrude_on.v.01	invade.v.01	rape.v.01
+佔領	VERB	invade.v.01	predominate.v.01
+占	VERB	invade.v.01	occupy.v.03	perceive.v.01	take.v.02
+據	VERB	invade.v.01	occupy.v.03
+日據	VERB	invade.v.01
+捕撈	VERB	fish.v.02
+釣	VERB	fish.v.02	search.v.01
+垂釣	VERB	fish.v.02
+犯規	VERB	play.v.01	transgress.v.01
+追趕	VERB	overtake.v.01
+食用	VERB	consume.v.02
+吃掉	VERB	appropriate.v.02	buy.v.01	consume.v.05	eat_up.v.01
+消耗	VERB	consume.v.05
+耗費	VERB	use.v.03
+花	VERB	philander.v.01	rub.v.01	scratch.v.02	spend.v.02	use.v.03
+使出	VERB	use.v.01
+善用	VERB	use.v.01
+挾	VERB	accompany.v.02	coerce.v.01	fail.v.04	grasp.v.01	harbor.v.01	hold.v.02	insert.v.01	mix.v.05	use.v.01	wedge.v.02
+用來	VERB	use.v.01
+用到	VERB	apply.v.02	hire.v.01	spend.v.02	use.v.01
+用水	VERB	use.v.01
+運用	VERB	use.v.01
+投資	VERB	invest.v.01	put.v.04
+剝削	VERB	exploit.v.01
+勉強	VERB	cause.v.01	use.v.01
+吃飯	VERB	eat.v.02	exist.v.02
+入口	VERB	eat.v.01
+吸血	VERB	absorb.v.04	suck.v.01
+吸食	VERB	attract.v.02	drug.v.02	receive.v.01	retain.v.02	smoke.v.01	suck.v.01
+飲	VERB	drink.v.01	drink.v.02	supply.v.01
+敬酒	VERB	toast.v.02
+予以	VERB	provide.v.02
+給予	VERB	provide.v.02
+給以	VERB	provide.v.02
+補給	VERB	issue.v.02	provide.v.02
+宴	VERB	host.v.01
+應當	VERB	need.v.03
+胖	VERB	change.v.01
+吸毒	VERB	drug.v.02
+接觸	VERB	touch.v.01	touch.v.05
+碰到	VERB	find.v.01	meet.v.01	touch.v.01
+見	VERB	look.v.01	meet.v.09	spot.v.02	touch.v.01
+蒙	VERB	accept.v.02	cover.v.01	cover.v.02
+覆蓋	VERB	cover.v.02
+按	VERB	control.v.02	grip.v.01	press.v.01	strike.v.10
+拿給	VERB	take.v.04
+執筆	VERB	hold.v.02	write.v.01
+握	VERB	control.v.01	hold.v.02	press.v.01
+秉	VERB	cling.v.02	hold.v.02
+扛	VERB	carry.v.05	raise.v.02
+駝	VERB	carry.v.05	change_posture.v.01	transport.v.02
+翻開	VERB	examine.v.02	open.v.01	open.v.03	turn.v.01
+把	VERB	wield.v.02
+開動	VERB	operate.v.03
+透過	VERB	penetrate.v.01
+團	VERB	knead.v.01
+揉	VERB	knead.v.01	rub.v.01
+鐵肩	VERB	transport.v.02
+撞	VERB	hit.v.02
+劈	VERB	chop.v.05	flick.v.08
+片	VERB	slice.v.03
+刻	VERB	carve.v.01	carve.v.02
+割	VERB	carve.v.02	concede.v.03	cut.v.01	incise.v.01	separate.v.08	surrender.v.02
+刖	VERB	chop.v.05
+鋪	VERB	cover.v.01	overlay.v.01	pave.v.01	spread.v.01
+印	VERB	print.v.04	reflect.v.03	stamp.v.02	stay.v.02
+弓	VERB	flex.v.05
+繫	VERB	concern.v.02	tie.v.01
+脫節	VERB	disconnect.v.02	disjoint.v.02	separate.v.12
+縫合	VERB	join.v.02
+附屬	VERB	attach.v.01
+附設	VERB	attach.v.01
+剪下	VERB	cut.v.04	detach.v.03	shape.v.02
+剪下來	VERB	cut.v.04	detach.v.03	shape.v.02
+擦	VERB	erase.v.02	move.v.03	put_on.v.07	scratch.v.02	wipe.v.01
+撈	VERB	gather.v.01	get.v.01	obtain.v.01	profit.v.01	remove.v.01
+覓	VERB	search.v.01	search.v.02
+掃瞄	VERB	move.v.02	search.v.04
+縫	VERB	sew.v.01
+黏附	VERB	glue.v.01
+披	VERB	cover.v.01	move.v.02
+被	VERB	cover.v.01
+封閉	VERB	close.v.01	close.v.14
+宅	VERB	confine.v.03
+強行	VERB	force.v.08
+迫使	VERB	force.v.08
+釘	VERB	attach.v.01	oversee.v.01	restrict.v.02
+畫圖	VERB	draw.v.06	paint.v.02
+繪圖	VERB	draw.v.06	paint.v.02
+搽	VERB	put_on.v.07
+撐竿	VERB	propel.v.01
+部署	VERB	deploy.v.02
+集	VERB	gather.v.01
+混為一談	VERB	roll_up.v.02
+桿	VERB	shape.v.03
+拭	VERB	wipe.v.01
+啵	VERB	snog.v.01
+親	VERB	prosecute.v.03	snog.v.01
+香	VERB	cause_to_be_perceived.v.01	snog.v.01
+帶給	VERB	bring.v.06
+傳送	VERB	send.v.02
+鑽	VERB	attend.v.01	bore.v.02	get_in.v.03
+舞	VERB	brandish.v.01	dance.v.02	move.v.03
+搾	VERB	harass.v.01	pinch.v.01
+榨	VERB	harass.v.01	pinch.v.01
+控	VERB	action.v.01	control.v.01	filter.v.01
+澄	VERB	filter.v.01	move.v.02
+糾纏	VERB	twist.v.04
+圈	VERB	encircle.v.01	surround.v.01
+阻	VERB	obstruct.v.01	obstruct.v.02
+暢	VERB	free.v.07
+疏	VERB	free.v.07
+包裝	VERB	box.v.01
+窩	VERB	coil.v.03	dislike.v.01	harbor.v.02	shelve.v.02	stay.v.02
+堆	VERB	arrange.v.01	stack.v.02
+扔	VERB	discard.v.01	throw.v.01
+拽	VERB	pull.v.04	throw.v.01
+推動	VERB	promote.v.01	propel.v.01
+紡	VERB	twist.v.04
+編成	VERB	compose.v.04	fabricate.v.02	organize.v.02	twist.v.04
+靈	VERB	function.v.01
+固	VERB	fasten.v.01
+清潔	VERB	clean.v.01
+汙	VERB	cozen.v.03	dirty.v.01	tarnish.v.01
+骯髒	VERB	dirty.v.01
+髒	VERB	dirty.v.01
+淘金	VERB	separate.v.05
+垂	VERB	hang.v.05
+坐	VERB	bear.v.11	change_posture.v.01	front.v.01	imprison.v.01	ride.v.02	sit.v.01
+躺	VERB	lay.v.02	lie.v.02	put.v.01
+倨	VERB	crouch.v.01	sit.v.01
+跪	VERB	rest.v.01
+隔	VERB	separate.v.01	separate.v.02
+鋸	VERB	cut.v.01
+使得	VERB	cause.v.01	destroy.v.02
+可	VERB	destroy.v.02	meet.v.05
+可以	VERB	destroy.v.02
+斷頭	VERB	guillotine.v.01
+牧	VERB	crop.v.04	crop.v.05
+張	VERB	unfold.v.04
+倚	VERB	lean_on.v.01	put.v.01
+毀滅	VERB	destroy.v.01
+作成	VERB	produce.v.02	reach.v.07
+做成	VERB	achieve.v.01	produce.v.02	reach.v.07
+製成	VERB	become.v.03	produce.v.02
+起意	VERB	gestate.v.01
+掰	VERB	fabricate.v.02	push.v.01
+圓夢	VERB	carry_through.v.01
+畫成	VERB	belong.v.01	create.v.03	separate.v.07
+償還	VERB	act.v.01	realize.v.03	refund.v.01
+實現	VERB	realize.v.03
+導致	VERB	cause.v.01
+引致	VERB	cause.v.01
+肇致	VERB	cause.v.01
+致使	VERB	cause.v.01
+感召	VERB	inspire.v.02
+挑釁	VERB	pick.v.04
+成立	VERB	establish.v.02
+佈局	VERB	set.v.09	stage.v.02
+布局	VERB	set.v.09	stage.v.02
+結實	VERB	bear.v.05
+仿冒	VERB	re-create.v.01
+樹	VERB	build.v.03
+燒飯	VERB	cook.v.01
+鍍金	VERB	gild.v.01
+落款	VERB	write.v.07
+照抄	VERB	copy.v.04
+譜	VERB	compose.v.02	flaunt.v.01
+上台	VERB	perform.v.03	start.v.10
+上臺	VERB	perform.v.03	start.v.10
+登台	VERB	introduce.v.02	perform.v.03
+登臺	VERB	introduce.v.02	perform.v.03
+二胡	VERB	play.v.07
+琴	VERB	play.v.07
+胡琴	VERB	play.v.07
+耕	VERB	plow.v.01	till.v.01
+飼	VERB	cultivate.v.01
+仿照	VERB	imitate.v.01
+影	VERB	imitate.v.01	obscure.v.01	print.v.04
+跟不上	VERB	delay.v.02	lag.v.01	take_after.v.02
+發表	VERB	publish.v.03
+欠	VERB	arouse.v.01	miss.v.06	owe.v.03	want.v.05
+靜	VERB	calm.v.03	change_intensity.v.01
+體會	VERB	feel.v.01
+冤	VERB	hate.v.01
+恨	VERB	desire.v.01	hate.v.01
+熱愛	VERB	love.v.01
+愛上	VERB	change.v.02
+心疼	VERB	care_for.v.02
+惜	VERB	care_for.v.02
+珍	VERB	care_for.v.02	take_care.v.01
+嫌	VERB	dislike.v.01
+討厭	VERB	dislike.v.01
+喜好	VERB	like.v.02
+樂	VERB	enjoy.v.01	like.v.02
+嚮往	VERB	care_for.v.02
+傾心	VERB	adore.v.01
+愛不釋手	VERB	adore.v.01
+恐懼	VERB	fear.v.02
+懼	VERB	fear.v.02
+讋	VERB	fear.v.02
+震撼	VERB	dismay.v.02
+歡	VERB	annoy.v.01	rejoice.v.01
+不以為忤	VERB	pique.v.01
+痛	VERB	pain.v.02
+諱	VERB	scruple.v.02
+氣	VERB	feel.v.01
+後悔	VERB	repent.v.02
+抱憾	VERB	repent.v.02
+遺憾	VERB	desire.v.01
+哀	VERB	feel_for.v.01	observe.v.06
+孝	VERB	observe.v.06
+侮辱	VERB	humiliate.v.01
+逗	VERB	stay.v.02	tease.v.03
+感激	VERB	acknowledge.v.04
+提神	VERB	elate.v.01
+悲	VERB	affect.v.05	feel_for.v.01
+歡喜	VERB	rejoice.v.01
+放心	VERB	still.v.03
+滿意	VERB	satisfy.v.02
+滿足	VERB	satisfy.v.02
+怨	VERB	displease.v.01
+享受	VERB	enjoy.v.01
+享受到	VERB	enjoy.v.01
+享用	VERB	enjoy.v.01
+醉心	VERB	enjoy.v.01
+惹到	VERB	exacerbate.v.02
+悲憫	VERB	feel_for.v.01
+在乎	VERB	care.v.01
+在意	VERB	care.v.01
+無謂	VERB	care.v.01
+關愛	VERB	care.v.01	care.v.02
+但願	VERB	wish.v.01
+渴望	VERB	desire.v.01
+無心	VERB	desire.v.01
+偏好	VERB	like.v.02
+寧肯	VERB	like.v.02
+佩服	VERB	admire.v.01	prize.v.01
+慕名	VERB	admire.v.01
+渴求	VERB	hanker.v.01
+愛好	VERB	love.v.02
+成行	VERB	start.v.09	travel.v.01
+乘機	VERB	use.v.01
+造訪	VERB	travel_to.v.01
+顧	VERB	attend.v.05	benefit.v.02	look.v.01	travel_to.v.01	visit.v.01
+往	VERB	go.v.03
+遷	VERB	move.v.04
+龜	VERB	move.v.03	stay.v.02
+息	VERB	end.v.01	rest.v.11	stop.v.05
+止	VERB	stop.v.01	stop.v.05
+剎	VERB	stop.v.05
+搖搖晃晃	VERB	move.v.03
+搖晃	VERB	rock.v.01
+游	VERB	roll.v.12	swim.v.01
+跑來跑去	VERB	play.v.05
+湧起	VERB	emerge.v.04	rise.v.01	spurt.v.01
+滑	VERB	slither.v.01
+搖擺	VERB	hesitate.v.01	wag.v.01
+迴	VERB	travel.v.01
+邁	VERB	stride.v.02
+跑去	VERB	go.v.16	pass.v.01
+登山	VERB	mountaineer.v.01
+短跑	VERB	run.v.01
+跨	VERB	be.v.03	pass.v.01	step.v.01
+跨越	VERB	cross.v.05	pass.v.01	step.v.01
+導航	VERB	navigate.v.02
+運載	VERB	transport.v.01
+派出	VERB	dispatch.v.01
+派遣	VERB	dispatch.v.01
+坐車	VERB	ride.v.02
+浮潛	VERB	swim.v.01
+騰	VERB	rise.v.01	spare.v.03	withhold.v.01
+舉起	VERB	move.v.02	raise.v.02
+到任	VERB	assume.v.05
+摔倒	VERB	sink.v.01
+垮	VERB	collapse.v.01	crumble.v.01
+湧出	VERB	emerge.v.04	stream.v.05
+走下去	VERB	continue.v.01	proceed.v.02
+落後	VERB	delay.v.02	lag.v.01
+領先	VERB	lead.v.08	precede.v.04
+回國	VERB	return.v.01
+回家	VERB	go_home.v.01
+至	VERB	arrive.v.01
+到	VERB	reach.v.01	reach.v.02
+屆	VERB	reach.v.02
+有沒有	VERB	reach.v.02
+極	VERB	reach.v.02
+談不上	VERB	reach.v.02
+達到	VERB	reach.v.02
+離	VERB	depart.v.04	separate.v.09
+跑掉	VERB	deviate.v.02	leave.v.01	run_away.v.02	rush_off.v.01
+下車	VERB	get_off.v.01
+入港	VERB	enter.v.01
+上船	VERB	board.v.01
+越	VERB	pass.v.01
+逾	VERB	pass.v.01
+滿	VERB	reach.v.07
+常見	VERB	meet.v.09
+逢	VERB	find.v.01	meet.v.01
+遇上	VERB	find.v.01	meet.v.01
+遇見	VERB	find.v.01	meet.v.01
+結伴	VERB	accompany.v.02
+隨	VERB	accompany.v.02
+隨著	VERB	accompany.v.02
+送客	VERB	see.v.22
+蜂	VERB	pour.v.02
+傾向	VERB	lean.v.01	tend.v.01
+躬	VERB	bend.v.01	change_posture.v.01
+幾近	VERB	approach.v.01
+近	VERB	approach.v.01
+逼	VERB	approach.v.01	coerce.v.01	prosecute.v.03
+趕路	VERB	travel_rapidly.v.01
+趕在	VERB	rush.v.01
+趕緊	VERB	rush.v.01
+繞道	VERB	deviate.v.01
+歸還	VERB	return.v.05
+處處	VERB	circulate.v.03
+遍佈	VERB	circulate.v.03
+遍及	VERB	circulate.v.03
+遍野	VERB	circulate.v.03
+轉機	VERB	transfer.v.06
+扭轉	VERB	move.v.02
+矬	VERB	bend.v.01
+颳	VERB	blow.v.02	blow.v.14
+意味	VERB	entail.v.01	feel.v.03
+自覺	VERB	feel.v.03
+時有所聞	VERB	hear.v.04
+聞名	VERB	hear.v.04
+占卜	VERB	perceive.v.01
+求籤	VERB	perceive.v.01
+慘遭	VERB	suffer.v.10
+遭	VERB	suffer.v.10
+遭到	VERB	suffer.v.10
+遭受	VERB	suffer.v.10
+經驗	VERB	experience.v.01
+不覺	VERB	feel.v.06
+感受	VERB	feel.v.06
+感受到	VERB	feel.v.06
+囑目	VERB	notice.v.02
+注意到	VERB	notice.v.02
+矚目	VERB	notice.v.02
+忽略	VERB	ignore.v.03
+臭	VERB	smell.v.02
+覽	VERB	look.v.01
+盯	VERB	gaze.v.01	oversee.v.01
+顯得	VERB	look.v.02
+聽起來	VERB	sound.v.01
+反射	VERB	reflect.v.01	reflect.v.03
+反射出	VERB	reflect.v.01	reflect.v.03
+反映出	VERB	reflect.v.01	reflect.v.03
+反映到	VERB	reflect.v.01
+放映	VERB	show.v.04
+藏	VERB	hide.v.02	store.v.01
+呈獻	VERB	offer.v.09	show.v.01
+獻	VERB	donate.v.01	offer.v.09	show.v.01
+秀	VERB	show.v.01
+觀賞	VERB	watch.v.03
+跟蹤	VERB	observe.v.04	search.v.02
+監測	VERB	monitor.v.01
+督促	VERB	monitor.v.01
+觀察	VERB	observe.v.04
+聆	VERB	hear.v.01	listen.v.01	listen.v.02
+聽	VERB	hear.v.01	listen.v.01	listen.v.02
+聽講	VERB	listen.v.01
+聽取	VERB	listen.v.02
+六親不認	VERB	spot.v.02
+認清	VERB	spot.v.02
+似	VERB	appear.v.04
+致贈	VERB	give.v.08
+贈	VERB	give.v.08
+贈送	VERB	give.v.08
+遺	VERB	give.v.08
+附贈	VERB	give.v.08
+分發	VERB	delegate.v.02	distribute.v.04
+保有	VERB	have.v.01
+具有	VERB	have.v.01	have.v.02
+包含	VERB	have.v.01	include.v.01	incorporate.v.02
+持有	VERB	have.v.01
+蘊含	VERB	have.v.01	incorporate.v.02
+所有	VERB	own.v.01
+討回	VERB	take.v.08
+買下	VERB	buy.v.01
+買下來	VERB	buy.v.01
+買進	VERB	buy.v.01
+領取	VERB	receive.v.01
+奪得	VERB	get.v.01
+補助	VERB	subsidize.v.01
+交付	VERB	delegate.v.02	transfer.v.05
+傳家	VERB	bequeath.v.01
+遞給	VERB	pass.v.05
+提撥	VERB	allocate.v.01
+討生活	VERB	gain.v.08
+招致	VERB	engage.v.08	lead.v.03
+求才	VERB	engage.v.08
+販售	VERB	sell.v.01
+販賣	VERB	sell.v.01
+賣出	VERB	sell.v.01
+賣給	VERB	sell.v.01
+拍賣	VERB	discount.v.02	sell.v.01
+預售	VERB	pay.v.01
+理賠	VERB	compensate.v.02
+補償	VERB	compensate.v.02
+賠償	VERB	compensate.v.02
+付	VERB	pay.v.01
+授予	VERB	accord.v.02
+頒獎	VERB	award.v.01
+頒發	VERB	award.v.01
+頒給	VERB	award.v.01
+送交	VERB	present.v.04
+送請	VERB	present.v.04
+勸募	VERB	donate.v.01
+捐獻	VERB	donate.v.01
+捐贈	VERB	donate.v.01
+賜	VERB	bestow.v.02
+賜給	VERB	bestow.v.02
+畢業	VERB	graduate.v.01
+消費	VERB	spend.v.02
+佔地	VERB	occupy.v.02	take.v.02
+耗時	VERB	take.v.02
+節約	VERB	save.v.02
+白	VERB	obtain.v.01
+丐	VERB	request.v.01
+乞討	VERB	request.v.01
+出嫁	VERB	buy.v.01	marry.v.01
+嫁	VERB	buy.v.01	marry.v.01
+盜版	VERB	steal.v.01
+囤	VERB	store.v.01
+少	VERB	lose.v.01	miss.v.06	want.v.05
+牟利	VERB	profit.v.01
+便於	VERB	benefit.v.02
+俾利	VERB	benefit.v.02
+利益	VERB	benefit.v.02
+有益	VERB	benefit.v.02
+福利	VERB	benefit.v.02
+獲取	VERB	derive.v.02
+法辦	VERB	hand_over.v.01
+共同	VERB	share.v.02
+傳授	VERB	impart.v.01
+撥款	VERB	pay.v.01
+所屬	VERB	affiliate.v.02	belong.v.01
+歸屬	VERB	be.v.01	belong.v.01
+搜集	VERB	roll_up.v.02
+收集	VERB	roll_up.v.02
+蒐集	VERB	roll_up.v.02
+籌措	VERB	collect.v.02
+罰款	VERB	mulct.v.02
+退還	VERB	render.v.07
+提交	VERB	render.v.06
+救災	VERB	rid.v.01
+繼	VERB	continue.v.01	continue.v.03	inherit.v.01	postdate.v.01
+劫	VERB	rob.v.01
+擄	VERB	rob.v.01
+偷	VERB	steal.v.01
+借來	VERB	get.v.01
+借貸	VERB	lend.v.02
+貸款	VERB	lend.v.02
+位	VERB	locate.v.03
+補貼	VERB	supplement.v.01
+貼補	VERB	supplement.v.01
+私	VERB	export.v.01
+借用	VERB	adopt.v.02
+委托	VERB	entrust.v.01
+委託	VERB	entrust.v.01
+前	VERB	act.v.01
+互動	VERB	interact.v.01
+為伍	VERB	company.v.01	interact.v.01
+禪	VERB	abdicate.v.01
+就任	VERB	start.v.10
+退休	VERB	retire.v.01
+下台	VERB	leave_office.v.01
+下臺	VERB	leave_office.v.01
+輟學	VERB	drop_out.v.03
+分手	VERB	leave.v.08	separate.v.08
+教化	VERB	educate.v.03
+加冕	VERB	crown.v.01
+分派	VERB	delegate.v.02
+調派	VERB	delegate.v.02
+派員	VERB	delegate.v.02
+轉任	VERB	transfer.v.01
+代為	VERB	substitute.v.03
+授權	VERB	delegate.v.02	license.v.01
+改名	VERB	rename.v.02
+甄選	VERB	choose.v.01
+推選	VERB	elect.v.01
+連任	VERB	reelect.v.01
+撤職	VERB	displace.v.03
+解雇	VERB	displace.v.03
+奮鬥	VERB	fight.v.03
+打拼	VERB	fight.v.03
+禮聘	VERB	hire.v.01
+聘	VERB	hire.v.01
+雇	VERB	hire.v.01
+出神	VERB	daydream.v.02
+務農	VERB	work.v.02
+解放	VERB	change_state.v.01	free.v.01	free.v.06
+任憑	VERB	let.v.01
+任由	VERB	let.v.01
+放任	VERB	let.v.01
+忍	VERB	inhibit.v.04
+自願	VERB	volunteer.v.03
+自告奮勇	VERB	volunteer.v.02
+打烊	VERB	close_up.v.01
+開國	VERB	establish.v.01
+族	VERB	meet.v.07
+群	VERB	meet.v.07
+管理	VERB	administer.v.01	control.v.01	manage.v.02
+編組	VERB	organize.v.02
+聯盟	VERB	confederate.v.02
+經營	VERB	manage.v.02
+經理	VERB	manage.v.02
+為首	VERB	head.v.02
+率	VERB	head.v.02
+率同	VERB	head.v.02
+率領	VERB	head.v.02
+掌握	VERB	control.v.01
+營運	VERB	operate.v.01
+黨營	VERB	operate.v.01
+組	VERB	form.v.01
+參與	VERB	participate.v.01
+防止	VERB	prevent.v.01
+巡	VERB	watch.v.02
+共處	VERB	get_along_with.v.01
+拉票	VERB	canvass.v.02
+遊說	VERB	solicit.v.01
+承租	VERB	rent.v.01
+發包	VERB	hire.v.01
+投票	VERB	vote.v.01	vote.v.02
+入學	VERB	enroll.v.01
+註冊	VERB	enroll.v.01	register.v.01
+註	VERB	register.v.01
+委任	VERB	authorize.v.01
+任用	VERB	appoint.v.02
+弋	VERB	kill.v.01
+約會	VERB	leave.v.01
+娶	VERB	marry.v.01
+婚	VERB	marry.v.01
+慶生	VERB	celebrate.v.02
+參觀	VERB	visit.v.01
+坐牢	VERB	imprison.v.01
+牢	VERB	imprison.v.01
+罰	VERB	punish.v.01	ticket.v.01
+流放	VERB	expatriate.v.01
+遣送	VERB	expatriate.v.01	extradite.v.01
+懲罰	VERB	punish.v.01
+聽審	VERB	hear.v.03
+脅迫	VERB	coerce.v.01
+勒令	VERB	compel.v.01
+強制	VERB	compel.v.01
+限制	VERB	restrict.v.02
+管制	VERB	regulate.v.02
+虐	VERB	mistreat.v.01
+虐待	VERB	mistreat.v.01
+移送法辦	VERB	indict.v.01
+成功	VERB	succeed.v.01
+嘗試	VERB	try.v.01
+嚐試	VERB	try.v.01
+設法	VERB	try.v.01
+試試	VERB	try.v.01
+力	VERB	endeavor.v.01
+加把勁	VERB	endeavor.v.01
+努力	VERB	endeavor.v.01
+實驗	VERB	experiment.v.01
+影響	VERB	influence.v.01
+服從	VERB	obey.v.01
+不惜	VERB	gamble.v.01
+豈敢	VERB	dare.v.02
+幫	VERB	help.v.01
+幫忙	VERB	help.v.01
+促使	VERB	help.v.01
+促成	VERB	help.v.01
+幼	VERB	care.v.02
+醫護	VERB	care.v.02
+賣淫	VERB	sell.v.01
+有助於	VERB	help.v.06
+樂觀其成	VERB	support.v.01
+贊同	VERB	support.v.01
+違規	VERB	transgress.v.01
+姦	VERB	rape.v.01
+性騷擾	VERB	assail.v.01
+欺	VERB	victimize.v.03
+詐騙	VERB	victimize.v.03
+技巧	VERB	flim-flam.v.01
+作案	VERB	perpetrate.v.01
+起義	VERB	protest.v.02
+縱容	VERB	connive.v.01
+打定	VERB	act.v.01
+確立	VERB	act.v.01
+肇始	VERB	begin.v.02
+與會	VERB	attend.v.01
+昌	VERB	be.v.11
+生存	VERB	be.v.11	exist.v.02	survive.v.02
+生活	VERB	live.v.02
+賴以為生	VERB	exist.v.02
+形成	VERB	form.v.02
+間	VERB	separate.v.01
+接合	VERB	connect.v.03
+接連	VERB	connect.v.03
+連成	VERB	connect.v.03
+連接	VERB	connect.v.03
+來源	VERB	originate.v.01
+取自	VERB	originate.v.01
+源自	VERB	originate.v.01
+發源	VERB	originate.v.01
+產生	VERB	come_forth.v.02
+改為	VERB	become.v.02
+流於	VERB	become.v.02
+蔚為	VERB	become.v.02
+不必	VERB	necessitate.v.01
+必需	VERB	necessitate.v.01
+必須	VERB	necessitate.v.01
+需	VERB	have.v.10	necessitate.v.01
+需要	VERB	have.v.10	necessitate.v.01
+毫無	VERB	miss.v.06
+差	VERB	differ.v.01	want.v.05
+內	VERB	include.v.01
+包括	VERB	include.v.01
+印證	VERB	prove.v.01
+遺留	VERB	leave.v.03	leave.v.07
+以致	VERB	lead.v.03
+剩	VERB	remain.v.03
+剩下	VERB	remain.v.03
+剩餘	VERB	remain.v.03
+等	VERB	equal.v.01	wait.v.01
+等候	VERB	wait.v.01
+等待	VERB	wait.v.01
+延誤	VERB	delay.v.02
+霸	VERB	occupy.v.03	predominate.v.01
+攸關	VERB	count.v.02
+無所謂	VERB	count.v.02
+住	VERB	populate.v.01	stay.v.04
+寓	VERB	populate.v.01
+寄生	VERB	inhabit.v.02
+比對	VERB	match.v.01
+向	VERB	collocate_with.v.01	front.v.01	tend.v.01
+立國	VERB	repose_on.v.01
+相當於	VERB	amount.v.01
+像	VERB	resemble.v.01
+不同	VERB	differ.v.01
+異	VERB	differ.v.01
+相差	VERB	differ.v.01
+對比	VERB	contrast.v.02
+合乎	VERB	meet.v.05
+違背	VERB	violate.v.01
+超出	VERB	exceed.v.02
+充當	VERB	act_as.v.01
+引人注目	VERB	look.v.02
+有關	VERB	refer.v.02
+涉及	VERB	involve.v.01
+罷	VERB	discontinue.v.01
+敬而遠之	VERB	distance.v.01
+無以為繼	VERB	continue.v.01
+難以為繼	VERB	continue.v.01
+座	VERB	front.v.01
+朝	VERB	front.v.01
+面	VERB	front.v.01
+危害	VERB	endanger.v.01
+威脅到	VERB	endanger.v.01
+容納	VERB	hold.v.11
+值	VERB	cost.v.01
+瀕	VERB	enclose.v.02
+瀕臨	VERB	enclose.v.02
+歷時	VERB	last.v.01
+勇往直前	VERB	weather.v.01
+付出	VERB	spend.v.01
+度假	VERB	spend.v.01
+過冬	VERB	spend.v.01
+交會	VERB	converge.v.01
+陪伴	VERB	company.v.01
+走向	VERB	tend.v.01
+相干	VERB	relate.v.04
+相關	VERB	relate.v.04
+不由自主	VERB	help_oneself.v.01
+不禁	VERB	help_oneself.v.01
+比得上	VERB	compare.v.02
+餘	VERB	leave.v.11
+蜿蜒	VERB	be.v.01
+持續	VERB	continue.v.06
+莫	ADJ	unable.a.01
+具體	ADJ	concrete.a.01	specific.a.01
+豐厚	ADJ	abundant.a.01
+切實	ADJ	accurate.a.01
+真的	ADJ	accurate.a.01
+確實	ADJ	accurate.a.01
+主動	ADJ	active.a.05
+急性	ADJ	acute.a.01
+不足	ADJ	inadequate.a.01	insufficient.a.01
+動心	ADJ	affected.a.01
+進取	ADJ	aggressive.a.01
+亡	ADJ	dead.a.01
+自我	ADJ	egoistic.a.01
+數位	ADJ	digital.a.03
+數字	ADJ	digital.a.03
+假	ADJ	counterfeit.a.01	false.a.01	frivolous.a.01	impractical.a.01	insincere.a.01	synthetic.a.02	unrealistic.a.01
+偽	ADJ	counterfeit.a.01	false.a.01	synthetic.a.02
+引以為怒	ADJ	angry.a.01
+惱怒	ADJ	angry.a.01
+氣呼呼	ADJ	angry.a.01
+戰前	ADJ	prewar.a.01
+戰後	ADJ	postwar.a.01
+身後	ADJ	posterior.a.01
+宜	ADJ	appropriate.a.01
+對	ADJ	appropriate.a.01	right.a.05
+適合	ADJ	appropriate.a.01
+適時	ADJ	appropriate.a.01
+訥於言詞	ADJ	inarticulate.a.01
+吉	ADJ	auspicious.a.01
+祥	ADJ	auspicious.a.01
+禧	ADJ	auspicious.a.01
+現成	ADJ	available.a.01	ready-made.a.01
+前	ADJ	front.a.01
+前面	ADJ	front.a.01
+漂亮	ADJ	beautiful.a.01
+美	ADJ	beautiful.a.01
+醜	ADJ	ugly.a.01
+陋	ADJ	bad.a.01	poor.a.03	ugly.a.01	unintelligent.a.01
+最佳	ADJ	best.a.01
+雙向	ADJ	bidirectional.a.01
+鬆	ADJ	loose.a.01	loose.a.03	uncrowded.a.01	untied.a.01
+狹隘	ADJ	narrow-minded.a.02	narrow.a.01
+柴	ADJ	bad.a.01	bony.a.03	rough.a.01	tough.a.07
+清	ADJ	calm.a.02	clear.a.01	clear.a.11	delicate.a.01	peaceful.a.01	quiet.a.02	saturated.a.03	unvoiced.a.01
+下	ADJ	capable.a.01	down.a.01	inferior.a.02	latter.a.01
+粗心	ADJ	careless.a.01
+不一定	ADJ	uncertain.a.02
+不見得	ADJ	uncertain.a.02
+說不定	ADJ	uncertain.a.02
+未定	ADJ	uncertain.a.01	unstable.a.01
+深信不疑	ADJ	convinced.a.02
+白	ADJ	light.a.02	misused.a.01	plain.a.02	white.a.01
+粉	ADJ	white.a.01
+純	ADJ	pure.a.01	saturated.a.03	skilled.a.01
+彩	ADJ	color.a.01	colored.a.01	colorful.a.01
+花	ADJ	colorful.a.01
+淺	ADJ	light.a.02	shallow.a.01	shallow.a.02	short.a.01
+潔淨	ADJ	clean.a.01
+垢	ADJ	dirty.a.01
+汙	ADJ	dirty.a.01	unfair.a.01
+骯髒	ADJ	dirty.a.01	dirty.a.02	unethical.a.01
+髒	ADJ	dirty.a.01	dirty.a.02	unethical.a.01
+清楚	ADJ	clear.a.01
+清清楚楚	ADJ	clear.a.01
+明朗	ADJ	clear.a.04
+聰明	ADJ	smart.a.01
+頑	ADJ	stubborn.a.01	stupid.a.01
+遠	ADJ	far.a.01
+將近	ADJ	near.a.01
+近	ADJ	near.a.01
+邊	ADJ	close.a.01
+附近	ADJ	close.a.01
+好	ADJ	close.a.02	good.a.01	kind.a.01
+密	ADJ	close.a.02
+相親	ADJ	close.a.02
+親	ADJ	close.a.02
+平滑	ADJ	uncrannied.a.01
+集體	ADJ	collective.a.02
+舒適	ADJ	comfortable.a.01	comfortable.a.02	easy.a.03
+差	ADJ	bad.a.01	uncomfortable.a.02	unkind.a.01
+難過	ADJ	intolerable.a.01	uncomfortable.a.02	unhappy.a.01
+住宅	ADJ	residential.a.01
+宅	ADJ	residential.a.01
+慣常	ADJ	usual.a.01
+個	ADJ	individual.a.01
+疏	ADJ	infrequent.a.01	loose.a.01
+全	ADJ	complete.a.01
+完全	ADJ	complete.a.01
+偏心	ADJ	eccentric.a.02
+操	ADJ	concerned.a.01
+格格不入	ADJ	uncongenial.a.01
+暢	ADJ	connected.a.02	happy.a.01
+通	ADJ	connected.a.02
+接連	ADJ	continuous.a.01
+連續	ADJ	continuous.a.01
+便利	ADJ	convenient.a.01
+方便	ADJ	convenient.a.01
+不便	ADJ	difficult.a.01	inconvenient.a.01
+傳統	ADJ	conventional.a.01	conventional.a.04
+固有	ADJ	intrinsic.a.01	traditional.a.01
+腐	ADJ	corrupt.a.01
+有沒有	ADJ	correct.a.01
+左	ADJ	incorrect.a.01	left-handed.a.01
+正	ADJ	pure.a.01	real.a.01	right.a.05
+難以置信	ADJ	incredible.a.01
+成	ADJ	good.a.01	ready-made.a.01
+手	ADJ	handmade.a.01
+起	ADJ	elated.a.01
+牢	ADJ	reliable.a.01	secure.a.03
+主從	ADJ	dependent.a.03
+容易	ADJ	easy.a.01
+易	ADJ	easy.a.01	friendly.a.01
+勤	ADJ	diligent.a.02
+激	ADJ	direct.a.03
+一視同仁	ADJ	undiscriminating.a.01
+隱隱	ADJ	indistinct.a.01
+沈醉	ADJ	intoxicated.a.01
+沉醉	ADJ	intoxicated.a.01
+茫	ADJ	intoxicated.a.01
+尖	ADJ	sharp.a.09
+快	ADJ	sharp.a.09
+活潑	ADJ	lively.a.01
+躍躍欲試	ADJ	eager.a.01
+早	ADJ	early.a.01	early.a.02
+中等	ADJ	middle.a.04	normal.a.01
+晚	ADJ	late.a.01
+西	ADJ	western.a.01
+西式	ADJ	western.a.01
+東	ADJ	eastern.a.04
+東方	ADJ	eastern.a.04
+食用	ADJ	edible.a.01
+蠢	ADJ	inefficient.a.01	unskilled.a.01
+入選	ADJ	elective.a.01
+當選	ADJ	elective.a.01
+理論	ADJ	theoretical.a.01
+受雇	ADJ	employed.a.01
+濃	ADJ	enthusiastic.a.01	heavy.a.01	thick.a.03
+熱中	ADJ	enthusiastic.a.01
+熱衷	ADJ	enthusiastic.a.01
+一律	ADJ	equal.a.01
+一致	ADJ	equal.a.01
+同等	ADJ	equal.a.01	like.a.02
+對等	ADJ	equal.a.01
+平衡	ADJ	balanced.a.01
+俗	ADJ	cheap.a.01	exoteric.a.01
+不可或缺	ADJ	indispensable.a.01
+偶	ADJ	even.a.01
+空	ADJ	empty.a.01	exhausted.a.02	meaningless.a.01	thin.a.06
+不解	ADJ	inextricable.a.01
+不公	ADJ	unfair.a.01
+耳熟能詳	ADJ	familiar.a.01
+陌生	ADJ	unfamiliar.a.01
+怪	ADJ	strange.a.01
+異	ADJ	strange.a.01
+潮	ADJ	fashionable.a.01
+慢慢	ADJ	slow.a.01
+龜	ADJ	slow.a.01
+胖	ADJ	fat.a.01
+瘦	ADJ	narrow.a.01	poor.a.04	thin.a.02
+不利	ADJ	unfavorable.a.01
+靈	ADJ	felicitous.a.01	flexible.a.01
+閉幕	ADJ	closing.a.01
+領先	ADJ	first.a.01
+首	ADJ	first.a.01
+彈性	ADJ	flexible.a.01	flexible.a.02
+靈活	ADJ	flexible.a.01
+六親不認	ADJ	uncompromising.a.01
+絕	ADJ	uncompromising.a.01
+柔	ADJ	compromising.a.01	soft.a.01	soft.a.09
+異國	ADJ	foreign.a.02
+外	ADJ	foreign.a.01	outside.a.01	undomestic.a.01
+內	ADJ	domestic.a.01	domestic.a.03	inside.a.01
+居家	ADJ	domestic.a.03	residential.a.02
+非正式	ADJ	informal.a.01
+下面	ADJ	latter.a.01
+后	ADJ	latter.a.01
+後	ADJ	latter.a.01
+糞	ADJ	unfortunate.a.01
+香	ADJ	fragrant.a.01
+自由	ADJ	free.a.01
+青	ADJ	fresh.a.01
+足	ADJ	full.a.01	sufficient.a.01
+全職	ADJ	full-time.a.01
+專任	ADJ	full-time.a.01
+專職	ADJ	full-time.a.01
+兼職	ADJ	part-time.a.01
+大量	ADJ	generous.a.02	large.a.01
+佳	ADJ	good.a.01
+良	ADJ	good.a.01
+不良	ADJ	bad.a.01
+孬	ADJ	bad.a.01
+忽然	ADJ	sudden.a.01
+猛	ADJ	sudden.a.01
+安	ADJ	happy.a.01	relaxed.a.01	safe.a.01
+快樂	ADJ	happy.a.01
+樂	ADJ	happy.a.01
+哀	ADJ	unhappy.a.01
+悲	ADJ	unhappy.a.01
+對不起	ADJ	regretful.a.01
+剛	ADJ	hard.a.03	tough.a.01
+堅硬	ADJ	hard.a.03
+鐵	ADJ	hard.a.03
+軟性	ADJ	nonalcoholic.a.01
+傷	ADJ	harmful.a.01
+乾	ADJ	dry.a.01	dry.a.07
+斷頭	ADJ	headless.a.01
+駝	ADJ	heavy.a.04
+勁	ADJ	heavy.a.02	rhythmical.a.01
+豪	ADJ	heavy.a.02	large.a.01
+細微	ADJ	heedful.a.01
+低	ADJ	low.a.01
+矮	ADJ	low.a.01	short.a.03
+賤	ADJ	low.a.01
+亢	ADJ	high.a.04
+垂直	ADJ	top-down.a.01	vertical.a.01
+立	ADJ	erect.a.01
+炎	ADJ	hot.a.01
+燒	ADJ	hot.a.01	warm.a.01
+冰	ADJ	cold.a.01
+凍	ADJ	cold.a.01
+天	ADJ	important.a.01
+有意	ADJ	interested.a.01
+歡	ADJ	joyous.a.01
+美麗	ADJ	kind.a.01
+碩	ADJ	large.a.01
+多半	ADJ	greater.a.01
+發	ADJ	leavened.a.01
+養	ADJ	adoptive.a.01
+正統	ADJ	legitimate.a.01
+迥異	ADJ	unlike.a.01
+雷同	ADJ	alike.a.01
+適	ADJ	lineal.a.01
+上市	ADJ	listed.a.01
+實地	ADJ	live.a.01
+長	ADJ	long.a.01	long.a.02	long.a.06	old.a.01
+短	ADJ	short.a.01	short.a.02	short.a.07
+垮	ADJ	loose.a.03
+特	ADJ	male.a.01
+雄	ADJ	male.a.01
+雌	ADJ	female.a.01
+男生	ADJ	masculine.a.02
+女生	ADJ	feminine.a.01
+成熟	ADJ	mature.a.01
+無謂	ADJ	meaningless.a.01
+機動	ADJ	mechanical.a.01	mobile.a.02
+厲害	ADJ	intense.a.01
+可以	ADJ	intense.a.01
+戎	ADJ	military.a.02
+游	ADJ	mobile.a.02
+中	ADJ	moderate.a.01
+中階	ADJ	moderate.a.01
+多	ADJ	many.a.01
+眾多	ADJ	many.a.01
+繁	ADJ	complex.a.01	many.a.01
+許多	ADJ	many.a.01
+許許多多	ADJ	many.a.01
+少	ADJ	few.a.01	young.a.01
+不止	ADJ	more.a.01
+似	ADJ	more.a.01
+豈只	ADJ	more.a.01
+豈止	ADJ	more.a.01
+還要	ADJ	more.a.01
+人造物	ADJ	artificial.a.01
+終究	ADJ	ultimate.a.01
+高尚	ADJ	noble.a.03	superior.a.01
+北	ADJ	north.a.01
+野	ADJ	unofficial.a.01
+故	ADJ	old.a.02
+邁	ADJ	old.a.01	old.a.02
+年輕	ADJ	new.a.01
+新	ADJ	new.a.01	new.a.06
+新興	ADJ	new.a.01
+大小	ADJ	old.a.01	young.a.01
+乳	ADJ	young.a.01
+幼	ADJ	young.a.01
+上	ADJ	on-line.a.02
+展開	ADJ	open.a.02
+封閉	ADJ	closed.a.02
+凌亂	ADJ	disordered.a.03
+一般	ADJ	ordinary.a.01
+過人	ADJ	extraordinary.a.01
+有機	ADJ	organic.a.01	organic.a.02
+之外	ADJ	outside.a.01
+以外	ADJ	outside.a.01
+之內	ADJ	inside.a.01
+以內	ADJ	inside.a.01
+直立	ADJ	perpendicular.a.01
+私	ADJ	partial.a.02	personal.a.01	private.a.01
+允	ADJ	impartial.a.01
+公	ADJ	impartial.a.01	public.a.01
+公平	ADJ	impartial.a.01
+日後	ADJ	future.a.01
+生	ADJ	born.a.01	ill.a.01
+誕生	ADJ	born.a.01
+安詳	ADJ	peaceful.a.01
+私人	ADJ	personal.a.01	private.a.01
+人力	ADJ	physical.a.01
+樸	ADJ	plain.a.02
+自然	ADJ	unstudied.a.01
+引以為樂	ADJ	pleased.a.01
+幹	ADJ	displeased.a.01
+歡迎	ADJ	popular.a.01	welcome.a.01
+可能	ADJ	possible.a.01
+不可能	ADJ	impossible.a.01
+怎能	ADJ	impossible.a.01
+無可奈何	ADJ	powerless.a.01
+基層	ADJ	basic.a.01
+根本	ADJ	basic.a.01
+私立	ADJ	private.a.01
+公用	ADJ	public.a.01
+進	ADJ	inclusive.a.01
+業餘	ADJ	professional.a.01
+為傲	ADJ	proud.a.01
+成立	ADJ	proved.a.01
+草率	ADJ	imprudent.a.01
+訓練出	ADJ	trained.a.01
+靜	ADJ	quiet.a.02
+吵	ADJ	noisy.a.01
+理智	ADJ	rational.a.01
+實	ADJ	real.a.01	true.a.01
+實際	ADJ	real.a.01
+真正	ADJ	real.a.02
+例行	ADJ	regular.a.01
+定期	ADJ	regular.a.01	scheduled.a.01
+連帶	ADJ	related.a.01
+有心人	ADJ	resolute.a.01
+有心人士	ADJ	resolute.a.01
+痛	ADJ	unrestricted.a.01
+富有	ADJ	rich.a.01	rich.a.02
+右	ADJ	right-handed.a.01
+同	ADJ	same.a.01
+同樣	ADJ	same.a.01
+其他	ADJ	other.a.01
+其它	ADJ	other.a.01
+另	ADJ	other.a.01
+另外	ADJ	other.a.01
+自私	ADJ	selfish.a.01
+認真	ADJ	serious.a.01
+重點	ADJ	selected.a.01
+公有	ADJ	shared.a.01
+瞎	ADJ	blind.a.01
+閒	ADJ	insignificant.a.04
+誠	ADJ	sincere.a.01
+不實	ADJ	insincere.a.01
+練	ADJ	skilled.a.01
+拙	ADJ	unskilled.a.01
+矬	ADJ	unskilled.a.01
+滑	ADJ	slippery.a.01
+順	ADJ	smooth.a.01
+木	ADJ	rough.a.01	tough.a.07
+結實	ADJ	solid.a.03
+幾	ADJ	some.a.01
+一切	ADJ	all.a.01
+有聲	ADJ	voiced.a.01
+無聲	ADJ	unvoiced.a.01
+穩定	ADJ	stable.a.01
+正規	ADJ	standard.a.01
+強	ADJ	stubborn.a.01
+有成	ADJ	successful.a.01
+意外	ADJ	surprised.a.01
+驚人	ADJ	surprising.a.01
+涉嫌	ADJ	suspected.a.01
+縱	ADJ	diachronic.a.01	longitudinal.a.01
+系統	ADJ	systematic.a.01
+荒唐	ADJ	wild.a.01
+溫帶	ADJ	temperate.a.01
+懶	ADJ	tired.a.01
+不堪	ADJ	intolerable.a.01
+懼	ADJ	intolerable.a.01
+禁不起	ADJ	intolerable.a.01
+典型	ADJ	typical.a.01
+旭	ADJ	rising.a.01
+伏	ADJ	falling.a.02
+暴	ADJ	violent.a.01
+自願	ADJ	voluntary.a.01
+溫暖	ADJ	warm.a.01	warm.a.02
+病	ADJ	ill.a.01
+濕	ADJ	wet.a.01
+無意	ADJ	unwilling.a.01
+無線	ADJ	wireless.a.01
+過敏	ADJ	allergic.a.01
+穀	ADJ	cereal.a.01
+必備	ADJ	essential.a.04
+分封	ADJ	feudal.a.01
+住	ADJ	living.a.01
+地方	ADJ	local.a.02
+就地	ADJ	local.a.02
+醫護	ADJ	medical.a.01
+火力	ADJ	thermal.a.01
+電氣	ADJ	electric.a.01
+共產	ADJ	communist.a.01
+孝	ADJ	filial.a.01
+孝順	ADJ	filial.a.01
+機械	ADJ	mechanical.a.03
+美式	ADJ	american.a.01
+亞熱帶	ADJ	subtropical.a.01
+副熱帶	ADJ	subtropical.a.01
+變質	ADJ	metamorphic.a.01
+管弦	ADJ	orchestral.a.01
+中式	ADJ	chinese.a.01
+公所	ADJ	chinese.a.01
+中古	ADJ	medieval.a.01
+藝術	ADJ	artistic.a.01
+英式	ADJ	british.a.01
+維多利亞	ADJ	victorian.a.01
+婚前	ADJ	prenuptial.a.01
+婚後	ADJ	postnuptial.a.01
+不外	ADV	merely.r.01
+不多不少	ADV	merely.r.01	precisely.r.03
+不過	ADV	however.r.02	merely.r.01
+乾	ADV	merely.r.01
+僅	ADV	alone.r.02	merely.r.01
+僅僅	ADV	merely.r.01
+僅只	ADV	merely.r.01
+只	ADV	alone.r.02	merely.r.01
+只是	ADV	merely.r.01
+只有	ADV	entirely.r.02	merely.r.01	only.r.06
+惟有	ADV	merely.r.01	only.r.06
+祇	ADV	merely.r.01
+大半	ADV	largely.r.01
+大多	ADV	largely.r.01
+來	ADV	approximately.r.01
+大約	ADV	approximately.r.01	credibly.r.01
+幾	ADV	about.r.07	approximately.r.01
+幾乎	ADV	about.r.07	approximately.r.01
+近乎	ADV	about.r.07	approximately.r.01	closely.r.03
+根本	ADV	absolutely.r.02	actually.r.01	thoroughly.r.02
+絕	ADV	absolutely.r.02	extremely.r.02
+絕對	ADV	absolutely.r.02
+全	ADV	wholly.r.01
+全然	ADV	wholly.r.01
+完全	ADV	wholly.r.01
+所有	ADV	wholly.r.01
+渾然	ADV	naturally.r.04	wholly.r.01
+盡	ADV	wholly.r.01
+統統	ADV	wholly.r.01
+諸	ADV	wholly.r.01
+通通	ADV	wholly.r.01
+都	ADV	already.r.01	even.r.01	wholly.r.01
+生	ADV	absolutely.r.01
+唯一	ADV	only.r.03
+好	ADV	easily.r.01	so.r.01	very_well.r.02	well.r.01
+容易	ADV	well.r.03
+易	ADV	well.r.03
+大幅	ADV	well.r.07
+大幅度	ADV	well.r.07
+甚或	ADV	even.r.01	even.r.03
+甚而	ADV	even.r.01	even.r.03
+甚至	ADV	even.r.01	even.r.03
+甚至於	ADV	even.r.01	even.r.03
+還	ADV	by_chance.r.03	even.r.01	even.r.03	so_far.r.01	still.r.01	yet.r.01
+乃至	ADV	even.r.03
+尤有進者	ADV	even.r.03
+一向	ADV	always.r.01
+向	ADV	always.r.01
+向來	ADV	always.r.01
+從來	ADV	always.r.01
+老是	ADV	always.r.01
+長	ADV	always.r.01
+永	ADV	always.r.05
+一直	ADV	constantly.r.01	directly.r.01
+未曾	ADV	never.r.01
+絕不	ADV	never.r.02
+偶	ADV	occasionally.r.01
+偶爾	ADV	occasionally.r.01
+時	ADV	occasionally.r.01
+間	ADV	between.r.01	in.r.01	occasionally.r.01
+有時	ADV	sometimes.r.01
+不予	ADV	not.r.01
+不必	ADV	not.r.01
+毋	ADV	not.r.01
+沒	ADV	not.r.01	so_far.r.01
+無	ADV	not.r.01	regardless.r.01
+隨地	ADV	anywhere.r.01
+隨處	ADV	anywhere.r.01
+何	ADV	however.r.04	somewhere.r.01
+哪	ADV	however.r.04	somewhere.r.01
+到處	ADV	everywhere.r.01
+四下	ADV	everywhere.r.01
+四處	ADV	everywhere.r.01
+又	ADV	again.r.01	besides.r.02	however.r.01
+還是	ADV	better.r.01	however.r.01	still.r.01
+尚	ADV	so_far.r.01	still.r.01
+安	ADV	however.r.04
+怎麼	ADV	however.r.04	very.r.01
+焉能	ADV	however.r.04
+偏偏	ADV	however.r.02	unfortunately.r.01
+可	ADV	credibly.r.01	however.r.02	indeed.r.01
+兼	ADV	furthermore.r.01
+加上	ADV	furthermore.r.01
+另	ADV	furthermore.r.01
+另外	ADV	furthermore.r.01
+此外	ADV	furthermore.r.01
+還有	ADV	furthermore.r.01
+仍	ADV	still.r.01
+仍然	ADV	still.r.01
+仍舊	ADV	still.r.01
+依然	ADV	still.r.01
+依舊	ADV	still.r.01
+照	ADV	still.r.01
+即已	ADV	already.r.01
+已然	ADV	already.r.01
+業經	ADV	already.r.01
+很	ADV	very.r.01
+得很	ADV	very.r.01
+怪	ADV	very.r.01
+激	ADV	fast.r.01	very.r.01
+特	ADV	specifically.r.01	very.r.01
+特別	ADV	particularly.r.01	specifically.r.01	very.r.01
+真正	ADV	surely.r.01	very.r.01
+粉	ADV	very.r.01
+萬	ADV	very.r.01
+萬萬	ADV	very.r.01
+超	ADV	very.r.01
+頂	ADV	very.r.01
+伊	ADV	just.r.03
+初	ADV	early_on.r.01	first.r.02	just.r.03
+才	ADV	just.r.03	therefore.r.01
+新	ADV	just.r.03
+一些	ADV	a_bit.r.01
+一點	ADV	a_bit.r.01	remotely.r.02
+些	ADV	a_bit.r.01
+有一些	ADV	a_bit.r.01
+有一點	ADV	a_bit.r.01
+有些	ADV	a_bit.r.01
+有點	ADV	a_bit.r.01
+點兒	ADV	a_bit.r.01
+曾幾何時	ADV	soon.r.01
+勤	ADV	frequently.r.01
+多	ADV	frequently.r.01	more.r.01	much.r.01
+很少	ADV	frequently.r.01
+慣常	ADV	frequently.r.01
+數	ADV	frequently.r.01
+時常	ADV	frequently.r.01
+少	ADV	rarely.r.01
+挺	ADV	reasonably.r.01
+淺	ADV	lightly.r.07	profoundly.r.01	slightly.r.01
+怎不	ADV	decidedly.r.01
+果	ADV	truly.r.01
+果然	ADV	truly.r.01
+真的	ADV	truly.r.01
+不用說	ADV	let_alone.r.01	naturally.r.01
+當然	ADV	naturally.r.01
+自然	ADV	naturally.r.01	naturally.r.04
+再次	ADV	again.r.01
+復	ADV	again.r.01
+想不到	ADV	unexpectedly.r.01
+意外	ADV	unexpectedly.r.01
+意想不到	ADV	unexpectedly.r.01
+竟	ADV	unexpectedly.r.01
+竟是	ADV	unexpectedly.r.01
+竟然	ADV	unexpectedly.r.01
+專程	ADV	specially.r.01	specifically.r.01
+專門	ADV	specially.r.01	specifically.r.01
+特地	ADV	specifically.r.01
+特意	ADV	specifically.r.01
+一般來說	ADV	generally.r.02
+一般而言	ADV	generally.r.02
+大致	ADV	generally.r.02
+總算	ADV	generally.r.02	ultimately.r.01
+哀哉	ADV	unfortunately.r.01
+嗚呼	ADV	unfortunately.r.01
+嗚呼哀哉	ADV	unfortunately.r.01
+因之	ADV	therefore.r.01
+所以	ADV	therefore.r.01
+故	ADV	intentionally.r.01	therefore.r.01
+故而	ADV	therefore.r.01
+於此	ADV	therefore.r.01
+由此可見	ADV	therefore.r.01
+而	ADV	therefore.r.01
+職是之故	ADV	therefore.r.01
+從此	ADV	hence.r.03
+當面	ADV	face_to_face.r.01
+要不	ADV	otherwise.r.01
+要不然	ADV	otherwise.r.01
+到家	ADV	extremely.r.02	proficiently.r.01
+暴	ADV	extremely.r.02	precipitously.r.01
+極	ADV	extremely.r.02
+極了	ADV	extremely.r.02
+極其	ADV	extremely.r.02
+極度	ADV	extremely.r.02
+極端	ADV	extremely.r.02
+殺	ADV	extremely.r.02
+滿	ADV	extremely.r.02
+至	ADV	extremely.r.02
+瘋狂	ADV	madly.r.03
+有夠	ADV	excessively.r.01
+過份	ADV	excessively.r.01
+過分	ADV	excessively.r.01
+過度	ADV	excessively.r.01
+之外	ADV	besides.r.02
+之餘	ADV	besides.r.02	subsequently.r.01
+以外	ADV	besides.r.02
+外	ADV	besides.r.02
+還要	ADV	besides.r.02
+除此之外	ADV	besides.r.02
+除此以外	ADV	besides.r.02
+終於	ADV	ultimately.r.01
+終究	ADV	after_all.r.01	ultimately.r.01
+正	ADV	due.r.01	precisely.r.01	presently.r.02	very.r.02
+及時	ADV	immediately.r.01
+現	ADV	immediately.r.01
+立	ADV	immediately.r.01
+這	ADV	here.r.01	immediately.r.01	now.r.04
+隨時	ADV	immediately.r.01
+固	ADV	firm.r.01
+成	ADV	very_well.r.02
+旁邊	ADV	indirectly.r.01
+切	ADV	a_lot.r.01
+愈來愈	ADV	increasingly.r.01
+越來越	ADV	increasingly.r.01
+先	ADV	ahead.r.04	previously.r.01
+之前	ADV	ahead.r.01	earlier.r.01
+以前	ADV	earlier.r.01
+前	ADV	ahead.r.01	ahead.r.03	earlier.r.01	first.r.03
+前面	ADV	ahead.r.01	ahead.r.03	earlier.r.01	first.r.03
+之后	ADV	after.r.02	subsequently.r.01
+之後	ADV	after.r.02	subsequently.r.01
+以后	ADV	subsequently.r.01
+以後	ADV	subsequently.r.01
+以降	ADV	subsequently.r.01
+后	ADV	after.r.02	back.r.02	subsequently.r.01	then.r.01
+後	ADV	after.r.02	back.r.02	subsequently.r.01	then.r.01
+此後	ADV	subsequently.r.01
+過後	ADV	subsequently.r.01
+一手	ADV	abruptly.r.01
+剎那間	ADV	abruptly.r.01
+轉眼之間	ADV	abruptly.r.01
+轉眼間	ADV	abruptly.r.01
+轉瞬間	ADV	abruptly.r.01
+頓時	ADV	abruptly.r.01
+突然	ADV	suddenly.r.01
+故意	ADV	intentionally.r.01
+便於	ADV	consequently.r.01
+於是	ADV	consequently.r.01
+爰	ADV	consequently.r.01
+何況	ADV	let_alone.r.01
+更何況	ADV	let_alone.r.01
+況	ADV	let_alone.r.01
+一共	ADV	altogether.r.02
+凡	ADV	altogether.r.02
+合	ADV	altogether.r.02
+總共	ADV	altogether.r.02
+瞎	ADV	blindly.r.02
+事先	ADV	ahead.r.04
+前方	ADV	ahead.r.03
+進	ADV	ahead.r.03
+循	ADV	along.r.05
+沿	ADV	along.r.05
+順	ADV	along.r.05
+宏	ADV	loudly.r.01
+悄悄	ADV	softly.r.01	stealthily.r.01
+就近	ADV	nearby.r.01
+將近	ADV	about.r.07
+幾近	ADV	about.r.07
+快	ADV	about.r.07	promptly.r.01	quickly.r.01
+近	ADV	about.r.07	recently.r.01
+後方	ADV	back.r.02
+回	ADV	back.r.03
+回去	ADV	back.r.03
+回頭	ADV	back.r.03	by_and_by.r.01
+退	ADV	backward.r.02
+隆	ADV	dearly.r.03
+無疑	ADV	undoubtedly.r.01
+上	ADV	above.r.02	sincerely.r.02	up.r.01	up.r.04
+上面	ADV	above.r.02	up.r.01
+之上	ADV	above.r.02
+天天	ADV	daily.r.01
+日	ADV	daily.r.01
+尤	ADV	particularly.r.01
+尤以	ADV	particularly.r.01
+尤其	ADV	extra.r.01	particularly.r.01
+份外	ADV	extra.r.01
+分外	ADV	extra.r.01
+速	ADV	promptly.r.03	quickly.r.01
+急	ADV	fast.r.01
+初步	ADV	temporarily.r.01
+暫時	ADV	temporarily.r.01
+且	ADV	ad_interim.r.01
+下	ADV	below.r.03	down.r.01	down.r.02	down.r.06	off.r.03	under.r.01	under.r.04	underneath.r.02
+下面	ADV	below.r.03	down.r.01	under.r.01	under.r.04	underneath.r.02
+伏	ADV	down.r.01	down.r.05
+起	ADV	up.r.01	up.r.02
+回家	ADV	home.r.01
+不如	ADV	rather.r.01
+毋寧	ADV	preferably.r.01	rather.r.01
+還不如	ADV	rather.r.01
+愈	ADV	more.r.01
+越	ADV	more.r.01
+愈趨	ADV	more.r.02
+更加	ADV	more.r.02
+更多	ADV	more.r.02
+益發	ADV	more.r.02
+逾	ADV	more.r.02
+過多	ADV	more.r.02
+及早	ADV	early.r.02
+提前	ADV	early.r.02
+提早	ADV	early.r.02
+大老遠	ADV	afar.r.01
+老遠	ADV	afar.r.01
+遼	ADV	far.r.02
+遠	ADV	far.r.01
+二來	ADV	second.r.01
+其次	ADV	second.r.01
+一舉	ADV	first.r.02	simultaneously.r.01
+首度	ADV	first.r.02
+以來	ADV	forth.r.02
+多少	ADV	at_least.r.02
+至少	ADV	at_least.r.01	at_least.r.02
+起碼	ADV	at_least.r.02
+急性	ADV	promptly.r.01
+通	ADV	normally.r.01
+近來	ADV	recently.r.01
+久而久之	ADV	gradually.r.01
+慢慢	ADV	gradually.r.01
+漸	ADV	gradually.r.01
+漸漸	ADV	gradually.r.01
+逐漸	ADV	gradually.r.01
+斯	ADV	here.r.01
+此	ADV	here.r.01	here.r.02
+這兒	ADV	here.r.01	here.r.02
+這裡	ADV	here.r.01	here.r.02
+那	ADV	there.r.03
+之內	ADV	inside.r.02
+以內	ADV	inside.r.02
+內	ADV	inside.r.02
+其中	ADV	inside.r.02
+世界	ADV	most.r.01
+否則	ADV	differently.r.01
+寧可	ADV	preferably.r.01
+寧願	ADV	preferably.r.01
+同	ADV	in_common.r.01	together.r.04
+集體	ADV	together.r.05
+一併	ADV	together.r.01
+一同	ADV	together.r.01	together.r.03
+一塊	ADV	together.r.01	together.r.03
+一塊兒	ADV	together.r.01	together.r.03
+一起	ADV	together.r.01	together.r.03
+共同	ADV	together.r.01
+不管	ADV	regardless.r.01
+不論	ADV	regardless.r.01
+任	ADV	regardless.r.01
+任憑	ADV	regardless.r.01
+或	ADV	possibly.r.01	regardless.r.01
+無論	ADV	regardless.r.01
+無論如何	ADV	regardless.r.01
+儘管	ADV	at_will.r.01	though.r.01
+雖	ADV	though.r.01
+雖然	ADV	though.r.01
+饒	ADV	though.r.01
+一面	ADV	simultaneously.r.01
+一齊	ADV	simultaneously.r.01
+切身	ADV	personally.r.04
+親	ADV	personally.r.04
+親口	ADV	personally.r.04
+親手	ADV	personally.r.04
+親眼	ADV	personally.r.04
+親耳	ADV	personally.r.04
+親自	ADV	personally.r.04
+親身	ADV	personally.r.04
+分	ADV	respectively.r.01
+彼此彼此	ADV	similarly.r.01
+多半	ADV	probably.r.01
+狂	ADV	ferociously.r.01	intensively.r.01
+猛	ADV	ferociously.r.01	intensively.r.01
+離島	ADV	offshore.r.01
+實	ADV	surely.r.01
+實在	ADV	actually.r.02	surely.r.01
+必	ADV	necessarily.r.03	surely.r.01
+是	ADV	i.e..r.01	surely.r.01
+會	ADV	surely.r.01
+殊為	ADV	surely.r.01
+的的確確	ADV	surely.r.01
+的確	ADV	surely.r.01
+確	ADV	surely.r.01
+確實	ADV	surely.r.01
+能	ADV	surely.r.01
+能夠	ADV	surely.r.01
+誠	ADV	surely.r.01
+足	ADV	sufficiently.r.01
+足以	ADV	sufficiently.r.01
+足堪	ADV	sufficiently.r.01
+夠	ADV	enough.r.01
+如此	ADV	so.r.01	so.r.03
+這樣	ADV	so.r.01	so.r.03
+這麼	ADV	so.r.01
+那樣	ADV	so.r.01
+那麼樣	ADV	so.r.01
+這樣子	ADV	so.r.03
+隨手	ADV	easily.r.01
+順手	ADV	easily.r.01	smoothly.r.01
+原來	ADV	actually.r.01	originally.r.01
+到底	ADV	after_all.r.01
+畢竟	ADV	after_all.r.01
+究竟	ADV	after_all.r.01
+總之	ADV	all_in_all.r.01
+總而言之	ADV	all_in_all.r.01
+閒	ADV	at_will.r.01
+原	ADV	originally.r.01
+原先	ADV	originally.r.01
+稍後	ADV	behind.r.01	below.r.03	by_and_by.r.01	later.r.03
+一般	ADV	by_and_large.r.01
+不時	ADV	every_so_often.r.01
+清	ADV	completely.r.02
+個	ADV	alone.r.02
+孤	ADV	alone.r.02
+私	ADV	alone.r.02	privately.r.01
+整	ADV	precisely.r.01
+例如	ADV	for_example.r.01
+例如說	ADV	for_example.r.01
+取	ADV	for_example.r.01
+好比	ADV	for_example.r.01
+比如	ADV	for_example.r.01
+比如說	ADV	for_example.r.01
+比方說	ADV	for_example.r.01
+諸如	ADV	for_example.r.01
+譬如	ADV	for_example.r.01
+譬如說	ADV	for_example.r.01
+比較	ADV	relatively.r.01
+相對於	ADV	relatively.r.01
+較	ADV	relatively.r.01
+暗暗	ADV	secretly.r.02
+認真	ADV	seriously.r.01
+鄭重	ADV	seriously.r.01
+名	ADV	in_name.r.01
+暗中	ADV	secretly.r.01
+白	ADV	askance.r.02	vainly.r.01
+倒	ADV	contrarily.r.02
+反倒	ADV	contrarily.r.02
+反而	ADV	contrarily.r.02
+反過來說	ADV	contrarily.r.02
+實地	ADV	on_the_spot.r.03
+當場	ADV	on_the_spot.r.03
+一路	ADV	on_the_way.r.01
+沿街	ADV	on_the_way.r.01
+沿路	ADV	on_the_way.r.01
+沿途	ADV	on_the_way.r.01
+至今	ADV	up_to_now.r.02
+一再	ADV	repeatedly.r.01
+每	ADV	once.r.02	repeatedly.r.01
+頻頻	ADV	repeatedly.r.01
+日益	ADV	day_by_day.r.01
+日趨	ADV	day_by_day.r.01
+純	ADV	strictly.r.01
+換句話說	ADV	in_other_words.r.01
+換言之	ADV	in_other_words.r.01
+輕度	ADV	lightly.r.07
+一旦	ADV	once.r.02
+待	ADV	once.r.02
+待到	ADV	once.r.02
+等	ADV	once.r.02
+等到	ADV	once.r.02
+臨到	ADV	once.r.02
+聰明	ADV	cleverly.r.01
+為宜	ADV	best.r.02
+亦即	ADV	i.e..r.01
+就是	ADV	i.e..r.01
+垂	ADV	mercifully.r.01
+偷	ADV	stealthily.r.01
+普天之下	ADV	universally.r.01
+據報	ADV	reportedly.r.01
+誠如	ADV	rightly.r.01
+急忙	ADV	hurriedly.r.01
+急急忙忙	ADV	hurriedly.r.01
+暢	ADV	freely.r.01
+迎面	ADV	head-on.r.02
+由衷	ADV	heartily.r.02
+衷心	ADV	heartily.r.02
+落後	ADV	behind.r.01
+跟不上	ADV	behind.r.01
+茫	ADV	vaguely.r.01
+走	ADV	away.r.01
+隔	ADV	off.r.02
+無心	ADV	unwittingly.r.01
+漂亮	ADV	beautifully.r.01
+不自覺	ADV	unconsciously.r.01
+不覺	ADV	unconsciously.r.01
+南	ADV	south.r.01
+北	ADV	north.r.01
+勁	ADV	ferociously.r.01
+臭	ADV	ferociously.r.01
+簡直	ADV	just.r.04
+一律	ADV	uniformly.r.01
+中間	ADV	between.r.01	between.r.02
+介於	ADV	between.r.02
+起初	ADV	foremost.r.01
+首	ADV	first.r.03	foremost.r.01
+一半	ADV	halfway.r.01
+特此	ADV	hereby.r.01
+就地	ADV	in_situ.r.01
+現場	ADV	live.r.01
+批發	ADV	wholesale.r.02
+坡	ADV	obliquely.r.02
+不停	ADV	endlessly.r.02
+因而	ADV	consequently.r.02
+從而	ADV	consequently.r.02
+是故	ADV	consequently.r.02
+連帶	ADV	consequently.r.02
+大概	ADV	credibly.r.01
+也許	ADV	possibly.r.01
+或者	ADV	possibly.r.01
+搞不好	ADV	possibly.r.01
+說不定	ADV	possibly.r.01
+勉強	ADV	unwillingly.r.01
+晚	ADV	late.r.03	later.r.03
+老實說	ADV	honestly.r.01
+說真的	ADV	honestly.r.01
+禮	ADV	respectfully.r.01
+東西	ADV	horizontally.r.01
+冥冥中	ADV	imperceptibly.r.01
+冥冥之中	ADV	imperceptibly.r.01
+縱	ADV	lengthways.r.01
+低	ADV	low.r.01
+矮	ADV	low.r.01
+哀	ADV	sadly.r.02
+悲	ADV	sadly.r.02
+必定	ADV	necessarily.r.03
+必然	ADV	necessarily.r.03
+鐵	ADV	necessarily.r.03
+倚	ADV	near.r.01
+界	ADV	near.r.01
+臨	ADV	near.r.01
+鄰	ADV	near.r.01
+從頭	ADV	primitively.r.01
+濃	ADV	thickly.r.03
+從中	ADV	through.r.01
+透過	ADV	through.r.01
+鑽	ADV	through.r.01
+之下	ADV	under.r.01	under.r.04	under.r.05	underneath.r.02
+低於	ADV	under.r.05
+過於	ADV	unduly.r.01
+自	ADV	naturally.r.04
+自然而然	ADV	naturally.r.04
+順其自然	ADV	naturally.r.04
+傾心	ADV	wholeheartedly.r.01
+全力	ADV	wholeheartedly.r.01
+全力以赴	ADV	wholeheartedly.r.01
+全心	ADV	wholeheartedly.r.01
+全心全意	ADV	wholeheartedly.r.01
+極力	ADV	wholeheartedly.r.01
+哪來	ADV	whence.r.01
+廣	ADV	wide.r.04	widely.r.03
+汎	ADV	wide.r.04
+之交	ADV	between.r.01
+之間	ADV	between.r.01	in.r.01
+輾轉	ADV	directly.r.02
+整整	ADV	in_full.r.01
+只要	ADV	only.r.06
+祇要	ADV	only.r.06
+一一	ADV	one_by_one.r.01
+逐一	ADV	one_by_one.r.01
+一口氣	ADV	straight.r.03
+剛好	ADV	coincidentally.r.01
+恰好	ADV	coincidentally.r.01
+正好	ADV	coincidentally.r.01

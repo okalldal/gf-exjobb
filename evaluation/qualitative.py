@@ -5,7 +5,7 @@ import argparse
 from itertools import takewhile, repeat
 from collections import defaultdict
 from scipy import log
-from utils import Memoize, read_probs_old as read_probs
+from utils import Memoize, read_probs 
 
 
 @Memoize
@@ -43,12 +43,12 @@ def tree_prob(tree_tuples, bigramprobs, unigramprobs, unigram_fallback=False):
     unigram_count = 0
     for node, head in tree_tuples:
         bigram_prob = bigramprobs[(node, head)]
-        unigram_prob = unigramprobs[node]
+        unigram_prob = unigramprobs[(node,)]
 
         if bigram_prob != 0:
             logging.debug("({},{}): {}".format(node, head, bigram_prob))
             bigram_count += 1
-            prob = log(bigram_prob) - log(unigramprobs[head])
+            prob = log(bigram_prob) - log(unigramprobs[(head,)])
         elif unigram_fallback and unigram_prob != 0:
             logging.debug("({},): {}".format(node, unigram_prob))
             unigram_count += 1
@@ -72,7 +72,7 @@ def tree_prob_unigram(unigrams, unigramprobs):
     total = 0
     prob = 0
     for node in unigrams:
-        unigram_prob = unigramprobs[node]
+        unigram_prob = unigramprobs[(node,)]
         if unigram_prob != 0:
             total += 1
             prob += -log(unigram_prob)
@@ -156,8 +156,8 @@ class EvaluationConfig():
             logging.basicConfig(level=logging.DEBUG)
     
     def read_prob_files(self):
-        self.bigramprobs = defaultdict(lambda: 0, read_probs(self.bigram), dim=2)
-        self.unigramprobs = defaultdict(lambda: 0, read_probs(self.unigram), dim=1)
+        self.bigramprobs = defaultdict(lambda: 0, read_probs(self.bigram))
+        self.unigramprobs = defaultdict(lambda: 0, read_probs(self.unigram))
 
 
 def parse_args():
