@@ -32,7 +32,10 @@ for file, cols in zip(args.p, feature_columns):
         l_split = l.strip('\n').split('\t')
         word = tuple(l_split[:len(cols)])
         funs = l_split[len(cols):]
-        possibilities[word] = funs
+        if word in possibilities.keys():
+            possibilities[word]=list(set(possibilities[word]+funs))
+        else:
+            possibilities[word] = funs
     poss_dicts.append(possibilities)
 file_pool=dict()
 split_counts = dict()
