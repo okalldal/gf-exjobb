@@ -36,7 +36,7 @@ em_and_recount () {
 echo $1>&2
 run_em ../data/em_data/$1 ../results/$1.cnt "${2}"
 echo "Recount no deprel">&2
-recount_no_deprel ../results/$1.cnt ../results/$1_nodep.cnt
+recount_no_deprel ../results/$1.cnt ../results/nodep_$1.cnt
 }
 
 no_lang_em_recount () {
@@ -64,20 +64,20 @@ only_lang_em_recount eng $1 "${2}"
 }
 
 run_all gf_udgold
-run_all gf_uni_udgold "$unigram_opts"
+run_all gf_udgold_uni "$unigram_opts"
 
 run_all wn_udgold
-run_all wn_uni_udgold "$unigram_opts"
+run_all wn_udgold_uni "$unigram_opts"
 
 run_all kras_udgold
-run_all kras_uni_udgold "$unigram_opts"
+run_all kras_udgold_uni "$unigram_opts"
 
-run_all gf_uni_autoparsed_th50 "$unigram_opts"
+run_all gf_autoparsed_th50_uni "$unigram_opts"
 run_all gf_autoparsed_th50
 
-run_all wn_uni_autoparsed_th50 "$unigram_opts"
+run_all wn_autoparsed_th50_uni "$unigram_opts"
 run_all wn_autoparsed_th50
 
-run_all kras_uni_autoparsed_th50 "$unigram_opts"
+run_all kras_autoparsed_th50_uni "$unigram_opts"
 run_all kras_autoparsed_th50
 

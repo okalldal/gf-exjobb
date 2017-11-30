@@ -31,20 +31,20 @@ done
 }
 
 make_em_data $gf_pd_dir $gold_count_dir ../data/em_data/gf_udgold "${gold_options}"
-make_em_data $gf_pd_dir $gold_count_dir ../data/em_data/gf_uni_udgold "${gold_uni_options}"
+make_em_data $gf_pd_dir $gold_count_dir ../data/em_data/gf_udgold_uni "${gold_uni_options}"
 
 make_em_data $wn_gf_pd_dir $gold_count_dir ../data/em_data/wn_udgold "${gold_options}"
-make_em_data $wn_gf_pd_dir $gold_count_dir ../data/em_data/wn_uni_udgold "${gold_uni_options}"
+make_em_data $wn_gf_pd_dir $gold_count_dir ../data/em_data/wn_udgold_uni "${gold_uni_options}"
 
 make_em_data $kras_pd_dir $gold_count_dir ../data/em_data/kras_udgold "${gold_options}"
-make_em_data $kras_pd_dir $gold_count_dir ../data/em_data/kras_uni_udgold "${gold_uni_options}"
+make_em_data $kras_pd_dir $gold_count_dir ../data/em_data/kras_udgold_uni "${gold_uni_options}"
 
 make_em_data $gf_pd_dir $parsed_count_dir/th050 ../data/em_data/gf_autoparsed_th50 "${parsed_options}"
-make_em_data $gf_pd_dir $parsed_count_dir/th050 ../data/em_data/gf_uni_autoparsed_th50 "${parsed_uni_options}"
+make_em_data $gf_pd_dir $parsed_count_dir/th050 ../data/em_data/gf_autoparsed_th50_uni "${parsed_uni_options}"
 
 make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_autoparsed_th50 "${parsed_options}"
-make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_uni_autoparsed_th50 "${parsed_uni_options}"
+make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_autoparsed_th50_uni "${parsed_uni_options}"
 
 make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_autoparsed_th50 "${parsed_options}"
-make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_uni_autoparsed_th50 "${parsed_options}"
+make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_autoparsed_th50_uni "${parsed_options}"
 
