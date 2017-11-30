@@ -8,10 +8,18 @@ class ProbDatabase():
     def open(self, filename):
         self.conn = sqlite3.connect(filename)
         self.cursor = self.conn.cursor()
-        self.total = self.fetch_total()
         self.check()
+        self.total = self.fetch_total()
 
     def check(self):
+        # check that table exists
+        self.cursor.execute(("SELECT name FROM sqlite_master WHERE "
+        "type='table' AND name=?"), (self.tablename,))
+        if not self.cursor.fetchone():
+            raise Exception('Table {} does not exist in database'
+                    .format(self.tablename))
+
+        # save information about table
         self.cursor.execute('pragma table_info(%s)' % self.tablename)
         cols = [c[1] for c in self.cursor.fetchall()]
         self._ncols = len(cols)

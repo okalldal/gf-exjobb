@@ -12,7 +12,7 @@ usage () {
   echo "  -n NUM  run NUM evaluation sentences"
 }
 
-while getopts ':rn:h' flag; do
+while getopts ':htd:n:' flag; do
   case "${flag}" in 
     h) usage; exit;;
     n) NUM="${OPTARG}" ;;

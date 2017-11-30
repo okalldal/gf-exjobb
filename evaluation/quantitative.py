@@ -2,12 +2,14 @@ from trainomatic import trainomatic
 from collections import defaultdict
 from itertools import product, groupby, islice
 from utils import read_probs, read_poss_dict, Word, reverse_poss_dict
+from database import ProbDatabase
 from numpy import log
 import logging 
 import sys
 import random
 from nltk.corpus import wordnet as wn
 from argparse import ArgumentParser
+from os.path import basename, splitext
 
 def get_bigrams_for_lemmas(lemmas, tree):
     bigrams = [w for w in get_bigrams(tree) 
@@ -178,7 +180,8 @@ def init(args):
     logging.basicConfig(level=logging.INFO)
     logging.info('Loading Probabilities')
     if args.database:
-        probs = ProbDatabase(args.database, args.probs)
+        tablename = splitext(basename(args.probs))[0]
+        probs = ProbDatabase(args.database, tablename)
     else:
         probs = ProbDict(args.probs)
     possdict = read_poss_dict(path=args.possdict)
