@@ -41,12 +41,12 @@ def possible_bigrams(bigrams, possdict, deprel, max_perms=1000):
     return out
 
 
-def bigrams_prob(bigrams, probdict):
+def bigrams_prob(bigrams, probs):
     prob = 0
     total = 0
     for bigram in bigrams:
         try:
-            p = probdict[bigram]
+            p = probs.get(bigram)
             if not p == 0:
                 prob += -log(p)
                 total += 1
@@ -160,11 +160,27 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         .format(total, success, ambig_total, ambig, random_success, lemma_not_found,
             prob_not_found, permutation_overflow))
 
+# ProbDictionary with same interface as the ProbDatabase
+class ProbDict():
+    def __init__(self, filename):
+        self.d = read_probs(filename)
+    
+    def get(self, key):
+        try:
+            return self.d[key]
+        except KeyError:
+            return 0
+
+    def close(self):
+        del self.d
 
 def init(args):
     logging.basicConfig(level=logging.INFO)
     logging.info('Loading Probabilities')
-    probs = defaultdict(lambda: 0, read_probs(args.probs, progress_bar=False))
+    if args.database:
+        probs = ProbDatabase(args.database, args.probs)
+    else:
+        probs = ProbDict(args.probs)
     possdict = read_poss_dict(path=args.possdict)
     linearize = reverse_poss_dict(args.possdict)
     if args.dict == 'gf':
@@ -200,6 +216,10 @@ if __name__ == "__main__":
     parser.add_argument('--sentence-answer',
         nargs='?',
         default='example_data/test_en_egs.tsv'
+    )
+    parser.add_argument('--database',
+        nargs='?',
+        help='Use a database instead of reading the probfiles directly'
     )
     parser.add_argument('--num', '-n',
         nargs='?',
