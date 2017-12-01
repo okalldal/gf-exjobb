@@ -13,6 +13,7 @@ wn_gf_pd_dir="../data/possibility_dictionaries/gf_wn"
 wn_pd_dir="../data/possibility_dictionaries/wn2"
 gf_pd_dir="../data/possibility_dictionaries/gf/"
 kras_pd_dir="../data/possibility_dictionaries/kras/"
+clust_pd_dir="../data/possibility_dictionaries/wn_clust/"
 gold_count_dir="../data/feature_counts/UD_gold_counts"
 parsed_count_dir="../data/feature_counts/autoparsed"
 out_dir="../data/em_data/wn_udgold"
@@ -47,4 +48,7 @@ make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_autoparsed
 
 make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_autoparsed_th50 "${parsed_options}"
 make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_autoparsed_th50_uni "${parsed_options}"
+
+make_em_data $clust_pd_dir $parsed_count_dir/th050 ../data/em_data/clust_autoparsed_th50 "${parsed_options}"
+make_em_data $clust_pd_dir $parsed_count_dir/th050 ../data/em_data/clust_autoparsed_th50_uni "${parsed_options}"
 

@@ -34,7 +34,9 @@ def em_algorithm(word_counts,
             for i in range(len(word_counts[s])):
                 #print(word_possibilities[s][i], file=sys.stderr)
                 joint_probs = word_probs[s][i]*probs[word_possibilities[s][i]] #=P(Y,X) = \phi_{si.}*\pi_.
-                fun_probs = joint_probs/np.sum(joint_probs) #=P(Y|X) = \phi_{si.}*\pi / (\sum_k \phi_{sik}*\pi_k
+                total_prob = np.sum(joint_probs)
+                if total_prob > 0:
+                    fun_probs = joint_probs/np.sum(joint_probs) #=P(Y|X) = \phi_{si.}*\pi / (\sum_k \phi_{sik}*\pi_k
                 expected_counts[s][i]=word_counts[s][i]*fun_probs #=\hat c_{si.}
                 expected_fun_counts[s][word_possibilities[s][i]]=\
                     expected_fun_counts[s][word_possibilities[s][i]]+expected_counts[s][i] #\sum_i c_{si.}
@@ -44,18 +46,18 @@ def em_algorithm(word_counts,
                                             # b/c we have normalization constant in numerator denumerator in the
                                             # expression for fun_probs above
 
+        #new_probs[new_probs < 0.001] = 0
         for s in langs:
             for i in range(len(word_counts[s])):
-                word_probs[s][i] = expected_counts[s][i]/expected_fun_counts[s][word_possibilities[s][i]]
+                with np.errstate(invalid='ignore'):
+                    word_probs[s][i] = np.nan_to_num(expected_counts[s][i]/expected_fun_counts[s][word_possibilities[s][i]])
 
         ##  Termination criteria
         if first:
             first = False
         else:
-            prob_quotients = new_probs / probs
-            threshold_mask = np.abs(prob_quotients) > 1e-50*total_counts    # used for numpy advanced indexing to remove differences
-                                                                    # caused by numerical imprecision
-            convergence_diff = np.sum(new_probs[threshold_mask]*np.log(prob_quotients[threshold_mask]))/total_counts
+            prob_quotients = new_probs[new_probs>0] / probs[new_probs>0]
+            convergence_diff = np.sum(new_probs[new_probs>0]*np.log(prob_quotients))/total_counts
         probs = new_probs
         #print(convergence_diff)
     return probs, word_probs #note normalization of probs here, see comment above
@@ -119,7 +121,7 @@ if __name__ == '__main__':
                         unambiguous_counts.append(0)
                     funs.append(fun2id[fun])
                 wp.append(np.array(funs))
-                wprob.append(np.ones([len(funs)])/(len(funs)))
+                wprob.append(np.ones([len(funs)]))
 
 
     word_counts.append(wc)

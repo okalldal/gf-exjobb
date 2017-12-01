@@ -81,3 +81,5 @@ run_all wn_autoparsed_th50
 run_all kras_autoparsed_th50_uni "$unigram_opts"
 run_all kras_autoparsed_th50
 
+run_all clust_autoparsed_th50_uni "$unigram_opts"
+run_all clust_autoparsed_th50
