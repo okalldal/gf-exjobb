@@ -1,6 +1,11 @@
 import sqlite3
 import logging
 
+SQL=['SELECT prob FROM ? WHERE CHILD=?',
+     'SELECT prob FROM ? WHERE CHILD=? AND DEPREL=?',
+     'SELECT prob FROM ? WHERE CHILD=? AND HEAD=?',
+     'SELECT prob FROM ? WHERE CHILD=? AND HEAD=? AND DEPREL=?']
+
 class ProbDatabase():
     def __init__(self, filename, table):
         self.tablename = table
