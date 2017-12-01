@@ -39,16 +39,16 @@ do
   if [[ $name == *"clust"* ]]; then
     sense_file='../../trainomatic/wnids_clust5'
     dict='wn'
-    possdict='wn-clust'
+    possdict='wn_clust'
   elif [[ $name == *"wn"* ]]; then
     dict='wn'
-    possdict='wn'
+    possdict='wn_gf'
   elif [[ $name == *"gf"* ]]; then
     dict='gf'
     possdict='gf'
   elif [[ $name == *"kras"* ]]; then
     dict='wn'
-    possdict='wn'
+    possdict='wn_gf'
   fi
 
   args="$DB $args"

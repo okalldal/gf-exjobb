@@ -96,7 +96,7 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
 
     for i, (wnid, tree) in enumerate(trees):
 
-        if i % 1000 == 0:
+        if i % 5000 == 0:
             logging.info('i={}'.format(i))
 
         total += 1

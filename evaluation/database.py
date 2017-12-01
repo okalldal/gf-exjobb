@@ -1,4 +1,5 @@
 import sqlite3
+import logging
 
 class ProbDatabase():
     def __init__(self, filename, table):
@@ -53,7 +54,10 @@ class ProbDatabase():
             query += ' AND deprel=?'
         self.cursor.execute(query, key)
         res = self.cursor.fetchone()
-        if res:
-            return res[0]/self.total
-        else:
+        if not res:
             return 0
+        elif res[0] == 'nan':
+            logging.warn('Found NaN prob')
+            return 0
+        else:
+            return res[0]/self.total
