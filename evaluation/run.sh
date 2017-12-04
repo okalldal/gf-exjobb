@@ -42,13 +42,13 @@ do
     possdict='wn_clust'
   elif [[ $name == *"wn"* ]]; then
     dict='wn'
-    possdict='wn_gf'
+    possdict='gf_wn'
   elif [[ $name == *"gf"* ]]; then
     dict='gf'
     possdict='gf'
   elif [[ $name == *"kras"* ]]; then
     dict='wn'
-    possdict='wn_gf'
+    possdict='gf_wn'
   fi
 
   args="$DB $args"
