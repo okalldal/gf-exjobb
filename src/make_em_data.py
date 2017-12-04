@@ -5,7 +5,17 @@ PYTHONIOENCODING="UTF-8"
 
 
 
-parser = argparse.ArgumentParser()
+parser = argparse.ArgumentParser(description='''
+This script generates data files to be fed to wn_em.py or new_em.py from a possibility dictionary and count files in tsv format.
+ Specify which columns are feature columns with the f flag. In an n-gram model, each lexical item is separated with : and
+ each feature within these lexical items separated by ,. The data is written to separate files based on the columns given 
+  in the s flag, for example if one wants to process words with different pos tags or deprel tags separately.
+  Example: A bigram model on the form: count <tab> lemma1 <tab> pos1 <tab> deprel <tab> lemma2 <tab> pos2, with both 
+  lexical items having their possibility info taken from the possibility dictionary dict.tsv and one wants to split the 
+  data into separate files according to deprel the script can be run with:
+  python make_em_data -c 0 -s 3 -f 1:2,4:5 -p dict.tsv dict.tsv" 
+  Please refer to make_all_em_data.sh for further examples of usage.
+''')
 parser.add_argument('-l', type=int, help='Number of fields of proper rows, rows with fewer columns will be filled with root symbols.', default=0)
 parser.add_argument('-r', type=str, help='Root symbol', default='ROOT')
 parser.add_argument('-m', type=str, help='Out of vocabulary items will be given this value in first feature column,other feature columns are carried', default=None)
