@@ -47,8 +47,8 @@ make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_autoparsed
 make_em_data $wn_gf_pd_dir $parsed_count_dir/th050 ../data/em_data/wn_autoparsed_th50_uni "${parsed_uni_options}"
 
 make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_autoparsed_th50 "${parsed_options}"
-make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_autoparsed_th50_uni "${parsed_options}"
+make_em_data $kras_pd_dir $parsed_count_dir/th050 ../data/em_data/kras_autoparsed_th50_uni "${parsed_uni_options}"
 
 make_em_data $clust_pd_dir $parsed_count_dir/th050 ../data/em_data/clust_autoparsed_th50 "${parsed_options}"
-make_em_data $clust_pd_dir $parsed_count_dir/th050 ../data/em_data/clust_autoparsed_th50_uni "${parsed_options}"
+make_em_data $clust_pd_dir $parsed_count_dir/th050 ../data/em_data/clust_autoparsed_th50_uni "${parsed_uni_options}"
 

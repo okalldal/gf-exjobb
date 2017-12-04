@@ -36,7 +36,7 @@ def em_algorithm(word_counts,
                 joint_probs = word_probs[s][i]*probs[word_possibilities[s][i]] #=P(Y,X) = \phi_{si.}*\pi_.
                 total_prob = np.sum(joint_probs)
                 if total_prob > 0:
-                    fun_probs = joint_probs/np.sum(joint_probs) #=P(Y|X) = \phi_{si.}*\pi / (\sum_k \phi_{sik}*\pi_k
+                    fun_probs = joint_probs/total_prob #=P(Y|X) = \phi_{si.}*\pi / (\sum_k \phi_{sik}*\pi_k
                 expected_counts[s][i]=word_counts[s][i]*fun_probs #=\hat c_{si.}
                 expected_fun_counts[s][word_possibilities[s][i]]=\
                     expected_fun_counts[s][word_possibilities[s][i]]+expected_counts[s][i] #\sum_i c_{si.}
@@ -56,8 +56,9 @@ def em_algorithm(word_counts,
         if first:
             first = False
         else:
-            prob_quotients = new_probs[new_probs>0] / probs[new_probs>0]
-            convergence_diff = np.sum(new_probs[new_probs>0]*np.log(prob_quotients))/total_counts
+            non_zero_probs = probs[probs>0]
+            prob_quotients = new_probs[probs>0] / non_zero_probs
+            convergence_diff = np.sum(non_zero_probs[prob_quotients>1e-20]*np.log(prob_quotients[prob_quotients>1e-20]))/total_counts
         probs = new_probs
         #print(convergence_diff)
     return probs, word_probs #note normalization of probs here, see comment above

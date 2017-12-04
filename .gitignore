@@ -1,14 +1,8 @@
 .idea/*
 data/*
-work/.ipynb_checkpoints/*
-.vscode/
-work/__pycache__/
-work/*.ipynb
 results/*
+.vscode/
 **/__pycache__
-data/TRAIN-O-MATIC-DATA
-data/*.pgf
 report/graphs/*.png
-results
 **/*.pyc
 *.db
