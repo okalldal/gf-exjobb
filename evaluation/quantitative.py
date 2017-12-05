@@ -85,46 +85,51 @@ def wordnet_examples(pos_filter=None):
 
 
 def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
-    lemma_not_found = 0
-    prob_not_found = 0
+    total = 0
     success = 0
     random_success = 0
-    total = 0
-    ambig = 0
-    ambig_total = 0
-    permutation_overflow = 0
+    prob_not_found = 0
+    tree_unambig = 0
+
+    data_error = 0
+    unambig_error = 0
+    lemma_error = 0
+    overflow_error = 0
 
     for i, (wnid, tree) in enumerate(trees):
 
         if i % 5000 == 0:
             logging.info('i={}'.format(i))
 
-        total += 1
-
         fun = wn2fun[wnid] 
         if not fun:
+            # wnid not found
+            data_error += 1
             continue
         
         try:
             lemmas = [w.lemma for w in linearize[fun]]
         except KeyError:
-            lemma_not_found += 1
+            # cant linearize function
+            data_error += 1
             continue
         
         if sum(len(possdict[l]) for l in linearize[fun]) == len(lemmas):
-            lemma_not_found += 1
+            # lemma not ambigiuous
+            unambig_error += 1
             continue
 
         bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
         if not bigrams:
-            lemma_not_found += 1
+            # didnt find the lemma in the tree
+            lemma_error += 1
             continue
 
         poss_bigrams = possible_bigrams(bigrams, possdict, deprel=use_deprel)
         
         if not poss_bigrams:
-            permutation_overflow += 1
+            overflow_error += 1
             continue
 
         rank = [(bigrams_prob(b, probs), b) 
@@ -132,7 +137,6 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         is_ambig = len(rank) > 1
         rank = sorted(rank, key=lambda x: x[0])
        
-        
         
         """ FIRST 
         p, first = rank[0]
@@ -144,23 +148,22 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         in_top  = any(any(w[0] == fun or w[1] == fun for w in b) for p, b in top)
         in_rand = any(w[0] == fun or w[1] == fun for w in b_rand) 
 
-        if is_ambig:
-            ambig_total += 1 
+        if not is_ambig:
+            tree_unambig += 1
+            continue
         if p == 0:
             prob_not_found += 1
         else:
-            if in_top and is_ambig:
-                ambig += 1
             if in_top:
                 success += 1
-            if in_rand and is_ambig:
+            if in_rand:
                 random_success += 1
 
-    print(('total: {}, success: {}, total ambig: {}, success ambig: {}, ' 
-        'success random: {}, lemma errors: {}, prob error: {}, ' 
-        'permutation overflow: {} ')
-        .format(total, success, ambig_total, ambig, random_success, lemma_not_found,
-            prob_not_found, permutation_overflow))
+    print(('total: {}, success: {}, success random: {}, prob_not_found: {}, ' 
+        'tree unambig: {}, overflow error: {}, lemma error: {}, data error: {}, '
+        'unambig error: {}')
+        .format(total, success, random_success, prob_not_found, tree_unambig,
+            overflow_error, lemma_error, data_error, unambig_error))
 
 # ProbDictionary with same interface as the ProbDatabase
 class ProbDict():
