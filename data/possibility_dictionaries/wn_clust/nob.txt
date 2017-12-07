@@ -3,11 +3,11 @@ gjenstand	NOUN	object.n.01	thing.n.08
 ting	NOUN	object.n.01	thing.n.01	thing.n.05	thing.n.08
 celle	NOUN	cell.n.02	cell.n.07
 årsak	NOUN	causal_agent.n.01	reason.n.02
-hode	NOUN	head.n.01	man.n.03	person.n.01
-individ	NOUN	individual.n.02	man.n.03	person.n.01
-mann	NOUN	husband.n.01	male.n.02	man.n.01	man.n.03	person.n.01
-menneske	NOUN	homo.n.02	man.n.03	person.n.01
-person	NOUN	man.n.03	person.n.01
+hode	NOUN	head.n.01	person.n.01
+individ	NOUN	individual.n.02	person.n.01
+mann	NOUN	husband.n.01	male.n.02	man.n.01	person.n.01
+menneske	NOUN	homo.n.02	person.n.01
+person	NOUN	person.n.01
 dyr	NOUN	animal.n.01
 dyreart	NOUN	animal.n.01
 krek	NOUN	animal.n.01
@@ -25,11 +25,11 @@ motivasjon	NOUN	motivation.n.01
 stilling	NOUN	condition.n.01	profession.n.02	rank.n.02	score.n.03	state.n.02	state_of_matter.n.01
 tilstand	NOUN	condition.n.01	health.n.02	physical_condition.n.01	state.n.02	state_of_matter.n.01
 sted	NOUN	location.n.01	site.n.01	topographic_point.n.01	vicinity.n.01
-periode	NOUN	clock_time.n.01	historic_period.n.01	stretch.n.06	time.n.05	time_period.n.01
-tid	NOUN	clock_time.n.01	historic_period.n.01	hour.n.02	season.n.03	stretch.n.06	time.n.02	time.n.03	time.n.05	time_period.n.01	time_slot.n.01
-tidsrom	NOUN	clock_time.n.01	historic_period.n.01	stretch.n.06	time.n.05	time_period.n.01
+periode	NOUN	clock_time.n.01	duration.n.01	historic_period.n.01	time.n.05	time_period.n.01
+tid	NOUN	clock_time.n.01	duration.n.01	historic_period.n.01	hour.n.02	season.n.03	time.n.02	time.n.03	time.n.05	time_period.n.01	time_slot.n.01
+tidsrom	NOUN	clock_time.n.01	duration.n.01	historic_period.n.01	time.n.05	time_period.n.01
 prosess	NOUN	chemical_reaction.n.01	process.n.06
-handling	NOUN	act.n.02	action.n.05	ceremony.n.01
+handling	NOUN	act.n.02	ceremony.n.01	plot.n.03
 relasjon	NOUN	relation.n.01	social_relation.n.01
 sammenheng	NOUN	relation.n.01	setting.n.02
 besittelse	NOUN	ownership.n.01	possession.n.02	property.n.01
@@ -48,7 +48,7 @@ hjemkomst	NOUN	return.n.02
 avskjed	NOUN	farewell.n.02
 innvandring	NOUN	immigration.n.01
 rekord	NOUN	record.n.06
-framgang	NOUN	grade.n.03	increase.n.04	success.n.01	success.n.02
+framgang	NOUN	increase.n.04	success.n.01	success.n.02	upgrade.n.04
 suksess	NOUN	success.n.01	success.n.02
 feil	NOUN	mistake.n.01
 fordreining	NOUN	mistake.n.01
@@ -68,10 +68,10 @@ fristelse	NOUN	enticement.n.03
 formål	NOUN	choice.n.02	purpose.n.01
 hensikt	NOUN	choice.n.02	purpose.n.01
 tur	NOUN	move.n.05
-sjakk	NOUN	move.n.05
-knep	NOUN	maneuver.n.04
+sjakk	NOUN	check.n.13
+knep	NOUN	device.n.03
 måte	NOUN	means.n.01	way.n.10
-skritt	NOUN	footstep.n.03	measure.n.01	step.n.03
+skritt	NOUN	footstep.n.03	locomotion.n.02	measure.n.01
 forsett	NOUN	resolution.n.11
 aksept	NOUN	adoption.n.01
 valg	NOUN	election.n.01
@@ -92,14 +92,14 @@ dispensasjon	NOUN	exemption.n.03
 mord	NOUN	murder.n.01
 blodsutgytelse	NOUN	murder.n.01
 selvmord	NOUN	suicide.n.01
-offer	NOUN	casualty.n.01	sacrifice.n.04	victim.n.01
-omslag	NOUN	reversal.n.01
+offer	NOUN	casualty.n.01	killing.n.02	victim.n.01
+omslag	NOUN	change_of_state.n.01
 initiativ	NOUN	first_step.n.01
 framskritt	NOUN	advancement.n.03
 rettelse	NOUN	correction.n.01
 reform	NOUN	reform.n.01
 vedlikehold	NOUN	care.n.06
-service	NOUN	care.n.06	tableware.n.01
+service	NOUN	overhaul.n.01	tableware.n.01
 forurensning	NOUN	contamination.n.03
 bevegelse	NOUN	motion.n.03	motion.n.06	movement.n.03	movement.n.04
 gå	NOUN	walk.n.01
@@ -123,7 +123,7 @@ vending	NOUN	reversion.n.04	saying.n.01	turning.n.04
 riste	NOUN	motion.n.03
 omkjøring	NOUN	diversion.n.02
 reduksjon	NOUN	decrease.n.04
-rabatt	NOUN	discount.n.01	edge.n.06
+rabatt	NOUN	discount.n.01	shoulder.n.05
 utvidelse	NOUN	expansion.n.01
 sammentrekning	NOUN	shortening.n.02
 lager	NOUN	repositing.n.01	reserve.n.02
@@ -134,8 +134,8 @@ splittelse	NOUN	schism.n.01
 sensur	NOUN	removal.n.01
 atspredelse	NOUN	attraction.n.02	refreshment.n.02
 moro	NOUN	attraction.n.02	fun.n.01	refreshment.n.02
-såre	NOUN	damage.n.03
-operasjon	NOUN	activity.n.01	mathematical_process.n.01	operation.n.05	operation.n.06
+såre	NOUN	change_of_integrity.n.01
+operasjon	NOUN	activity.n.01	mathematical_process.n.01	medical_procedure.n.01	operation.n.05
 praksis	NOUN	practice.n.01
 skikk	NOUN	practice.n.01	practice.n.05
 samarbeid	NOUN	cooperation.n.02	partnership.n.03
@@ -194,14 +194,14 @@ anstrengelse	NOUN	struggle.n.03
 strev	NOUN	pursuit.n.02	struggle.n.03
 problem	NOUN	difficulty.n.04	problem.n.02	trouble.n.01	trouble.n.03	trouble.n.04
 mosjon	NOUN	exercise.n.01
-prøve	NOUN	examination.n.05	exercise.n.03	sample.n.01	trial.n.02
+prøve	NOUN	examination.n.05	rehearsal.n.01	sample.n.01	trial.n.02
 forskning	NOUN	research.n.01
 undersøkelse	NOUN	investigation.n.02	probe.n.01	proceeding.n.01	research.n.01	search.n.02
-avlytting	NOUN	wiretap.n.01
+avlytting	NOUN	investigation.n.02
 pleie	NOUN	care.n.01
 legehjelp	NOUN	medical_care.n.01
 behandling	NOUN	discussion.n.01	processing.n.01	therapy.n.01	treatment.n.01	treatment.n.02
-inngrep	NOUN	operation.n.06
+inngrep	NOUN	medical_procedure.n.01
 vaksinasjon	NOUN	injection.n.03
 rehabilitering	NOUN	rehabilitation.n.04
 analyse	NOUN	psychoanalysis.n.01
@@ -264,8 +264,8 @@ krig	NOUN	war.n.01	war.n.03
 innfall	NOUN	foray.n.01
 orden	NOUN	order.n.03	order.n.15	ordering.n.01	orderliness.n.02
 rekkefølge	NOUN	order.n.15	ordering.n.01	succession.n.03
-prosedyre	NOUN	proceeding.n.01
-protokoll	NOUN	proceeding.n.01
+prosedyre	NOUN	procedure.n.04
+protokoll	NOUN	procedure.n.04
 rutine	NOUN	routine.n.01
 ritual	NOUN	religious_ceremony.n.01	rite.n.01	ritual.n.01	ritual.n.02
 tilbe	NOUN	worship.n.01
@@ -297,7 +297,7 @@ godstransport	NOUN	transportation.n.05
 transport	NOUN	transportation.n.05
 frakt	NOUN	freight.n.02
 transaksjon	NOUN	transaction.n.01
-bytte	NOUN	barter.n.01	loot.n.01	prey.n.02
+bytte	NOUN	animal.n.01	barter.n.01	loot.n.01
 markedsføring	NOUN	marketing.n.02
 salg	NOUN	mercantile_establishment.n.01	sale.n.02	sale.n.03
 betaling	NOUN	payment.n.01	payment.n.02
@@ -311,7 +311,7 @@ diskriminering	NOUN	discrimination.n.01
 innkalling	NOUN	conscription.n.01
 avstraffelse	NOUN	discipline.n.05	punishment.n.01
 straff	NOUN	punishment.n.01
-henrettelse	NOUN	punishment.n.01
+henrettelse	NOUN	corporal_punishment.n.01
 utveksling	NOUN	exchange.n.02	exchange.n.03
 konkurranse	NOUN	competition.n.03	contest.n.01	contest.n.02	race.n.01
 motstandsbevegelse	NOUN	resistance.n.11
@@ -362,7 +362,7 @@ foster	NOUN	animal.n.01
 hai	NOUN	shark.n.01
 fugl	NOUN	bird.n.01
 ørn	NOUN	bird_of_prey.n.01
-fugleunge	NOUN	young_bird.n.01
+fugleunge	NOUN	young.n.01
 ugle	NOUN	owl.n.01
 frosk	NOUN	frog.n.01
 krypdyr	NOUN	reptile.n.01
@@ -372,15 +372,15 @@ nebb	NOUN	beak.n.02
 edderkopp	NOUN	spider.n.01
 høns	NOUN	chicken.n.02
 høne	NOUN	chicken.n.02
-kalkun	NOUN	turkey.n.01
+kalkun	NOUN	domestic_fowl.n.01
 due	NOUN	pigeon.n.01
 and	NOUN	duck.n.01
 pattedyr	NOUN	mammal.n.01
-besetning	NOUN	livestock.n.01	unit.n.03
-mannskap	NOUN	livestock.n.01	unit.n.03
+besetning	NOUN	crew.n.01	livestock.n.01
+mannskap	NOUN	crew.n.01	livestock.n.01
 kalv	NOUN	young_mammal.n.01
 muldvarp	NOUN	placental.n.01	spy.n.01
-skall	NOUN	covering.n.01	hide.n.02	peel.n.02	shell.n.04	shell.n.05
+skall	NOUN	hide.n.02	hull.n.01	peel.n.02	shell.n.05	shell.n.10
 skinn	NOUN	hide.n.02
 fjær	NOUN	feather.n.01	spring.n.02
 fuglefjær	NOUN	feather.n.01
@@ -389,8 +389,8 @@ orm	NOUN	malevolent_program.n.01	worm.n.01
 bløtdyr	NOUN	mollusk.n.01
 mollusk	NOUN	mollusk.n.01
 snegl	NOUN	snail.n.01
-musling	NOUN	covering.n.01
-muslingskall	NOUN	covering.n.01
+musling	NOUN	shell.n.10
+muslingskall	NOUN	shell.n.10
 hval	NOUN	whale.n.02
 hvalfisk	NOUN	whale.n.02
 delfin	NOUN	dolphin.n.02
@@ -401,7 +401,7 @@ bisk	NOUN	dog.n.01
 hund	NOUN	dog.n.01
 kjøter	NOUN	dog.n.01
 ulv	NOUN	wolf.n.01
-rev	NOUN	canine.n.02
+rev	NOUN	fox.n.01
 katt	NOUN	cat.n.01
 pus	NOUN	cat.n.01
 pusekatt	NOUN	cat.n.01
@@ -412,12 +412,12 @@ bamse	NOUN	bear.n.01	plaything.n.01
 bjørn	NOUN	bear.n.01
 flaggermus	NOUN	bat.n.01
 vinge	NOUN	airfoil.n.01	wing.n.01
-rovdyr	NOUN	animal.n.01
+rovdyr	NOUN	predator.n.02
 hale	NOUN	buttocks.n.01	tail.n.01
 insekt	NOUN	insect.n.01
 flue	NOUN	fly.n.01
 mygg	NOUN	mosquito.n.01
-bie	NOUN	hymenopterous_insect.n.01
+bie	NOUN	bee.n.01
 arbeider	NOUN	laborer.n.01	worker.n.01	worker.n.03
 arbeidsbie	NOUN	worker_bee.n.01
 maur	NOUN	ant.n.01
@@ -429,7 +429,7 @@ dronning	NOUN	insect.n.01	queen.n.02
 sjøpinnsvin	NOUN	invertebrate.n.01
 kanin	NOUN	rabbit.n.01
 mus	NOUN	mouse.n.01	mouse.n.04
-rotte	NOUN	rodent.n.01
+rotte	NOUN	rat.n.01
 hest	NOUN	horse.n.01	knight.n.02
 ponni	NOUN	horse.n.01
 sebra	NOUN	equine.n.01
@@ -459,8 +459,8 @@ flyselskap	NOUN	airline.n.02
 fly	NOUN	airplane.n.01
 flyver	NOUN	airplane.n.01
 flyplass	NOUN	airport.n.01
-klokke	NOUN	clock.n.01	doorbell.n.01	watch.n.01
-vekkerklokke	NOUN	clock.n.01
+klokke	NOUN	alarm_clock.n.01	clock.n.01	doorbell.n.01	watch.n.01
+vekkerklokke	NOUN	alarm_clock.n.01
 album	NOUN	album.n.02
 alter	NOUN	altar.n.02
 ambulanse	NOUN	ambulance.n.01
@@ -488,7 +488,7 @@ ball	NOUN	ball.n.01	ball.n.04	head.n.01
 klatt	NOUN	ball.n.01
 ballong	NOUN	balloon.n.02
 barre	NOUN	bar.n.13
-tønne	NOUN	barrel.n.03	drum.n.01	vessel.n.03
+tønne	NOUN	barrel.n.03	percussion_instrument.n.01	vessel.n.03
 bar	NOUN	barroom.n.01
 fot	NOUN	base.n.08	foot.n.02
 kjeller	NOUN	basement.n.01
@@ -505,24 +505,24 @@ seng	NOUN	bed.n.01
 slede	NOUN	bed.n.01	car.n.01
 bed	NOUN	bed.n.02	plot.n.02
 soverom	NOUN	bedroom.n.01
-belte	NOUN	accessory.n.01
+belte	NOUN	belt.n.02
 benk	NOUN	bench.n.01	table.n.02
 sykkel	NOUN	bicycle.n.01
 bøtte	NOUN	bin.n.01	head.n.01
-blad	NOUN	cutting_implement.n.01	leaf.n.01	magazine.n.02
+blad	NOUN	blade.n.09	leaf.n.01	magazine.n.02
 dyne	NOUN	blanket.n.01
 brett	NOUN	board.n.09	tray.n.01
 båt	NOUN	boat.n.01
-bolt	NOUN	fastener.n.02
+bolt	NOUN	screw.n.04
 bombe	NOUN	bomb.n.01
-bombefly	NOUN	bomber.n.01
+bombefly	NOUN	military_vehicle.n.01
 bok	NOUN	book.n.01	book.n.02
 støvel	NOUN	boot.n.01
 bås	NOUN	booth.n.02
 flaske	NOUN	bottle.n.01
 fraktskip	NOUN	ship.n.01
 sløyfe	NOUN	decoration.n.01
-skål	NOUN	vessel.n.03
+skål	NOUN	bowl.n.01
 kasse	NOUN	box.n.01	head.n.01	television_receiver.n.01
 bremse	NOUN	brake.n.01
 bryggerivirksomhet	NOUN	brewery.n.01
@@ -548,7 +548,7 @@ kabel	NOUN	cable.n.03
 kafé	NOUN	cafe.n.01
 bur	NOUN	cage.n.01
 kamera	NOUN	camera.n.01
-boks	NOUN	container.n.01
+boks	NOUN	can.n.01
 lys	NOUN	lamp.n.01	light.n.02
 stearinlys	NOUN	lamp.n.01
 stokk	NOUN	stick.n.01
@@ -563,7 +563,7 @@ togvogn	NOUN	car.n.02
 kort	NOUN	calling_card.n.02	card.n.01	card.n.02
 spillkort	NOUN	card.n.01
 monter	NOUN	case.n.20
-kassaapparat	NOUN	box.n.01
+kassaapparat	NOUN	cash_register.n.01
 båndkassett	NOUN	cassette.n.01
 kassett	NOUN	cassette.n.01
 musikkassett	NOUN	cassette.n.01
@@ -583,13 +583,13 @@ kritt	NOUN	writing_implement.n.01
 kanal	NOUN	channel.n.07
 amulett	NOUN	object.n.01
 kommode	NOUN	chest_of_drawers.n.01
-skorstein	NOUN	conduit.n.01
+skorstein	NOUN	chimney.n.01
 chip	NOUN	chip.n.07
 Guds_hus	NOUN	church.n.02
 kirke	NOUN	church.n.02
 kirkebygning	NOUN	church.n.02
 sigarett	NOUN	cigarette.n.01
-kino	NOUN	theater.n.01
+kino	NOUN	cinema.n.02
 klasserom	NOUN	classroom.n.01
 kølle	NOUN	club.n.03
 kløver	NOUN	playing_card.n.01
@@ -610,13 +610,13 @@ bomull	NOUN	cotton.n.02
 disk	NOUN	counter.n.01
 gård	NOUN	court.n.10	enclosure.n.01	farm.n.01
 gårdsanlegg	NOUN	court.n.10
-krem	NOUN	toiletry.n.01
+krem	NOUN	cream.n.03
 kors	NOUN	cross.n.01
 fotgjengerfelt	NOUN	crossing.n.05
 fotgjengerovergang	NOUN	crossing.n.05
 krone	NOUN	crown.n.04
 krykke	NOUN	staff.n.02
-krystall	NOUN	glassware.n.01	natural_glass.n.01
+krystall	NOUN	glassware.n.01	quartz_glass.n.01
 krystallglass	NOUN	glassware.n.01
 kopp	NOUN	cup.n.01	cup.n.02
 gardin	NOUN	curtain.n.01
@@ -630,7 +630,7 @@ figur	NOUN	diagram.n.01	representation.n.02
 disko	NOUN	ballroom.n.01
 diskotek	NOUN	ballroom.n.01
 fat	NOUN	dish.n.01
-parabol	NOUN	dish.n.05
+parabol	NOUN	antenna.n.01
 skive	NOUN	disk.n.02	slice.n.05
 dukke	NOUN	doll.n.01
 kuppel	NOUN	brain.n.01	roof.n.01
@@ -652,7 +652,7 @@ innkjørsel	NOUN	driveway.n.01
 narko	NOUN	drug.n.01
 narkotikum	NOUN	drug.n.01
 rusmiddel	NOUN	drug.n.01
-tromme	NOUN	drum.n.01
+tromme	NOUN	percussion_instrument.n.01
 bopæl	NOUN	dwelling.n.01	residence.n.01
 bopel	NOUN	dwelling.n.01	residence.n.01
 hjem	NOUN	dwelling.n.01	housing.n.01	prison.n.01	residence.n.01
@@ -661,7 +661,7 @@ hus	NOUN	dwelling.n.01	family.n.01	house.n.01	house.n.05	housing.n.01	residence.
 privatbolig	NOUN	dwelling.n.01	residence.n.01
 residens	NOUN	dwelling.n.01	residence.n.01
 stue	NOUN	dwelling.n.01	residence.n.01
-kant	NOUN	boundary.n.02	edge.n.03
+kant	NOUN	brink.n.01	edge.n.03
 kjøler	NOUN	electric_refrigerator.n.01
 kjøleskap	NOUN	electric_refrigerator.n.01
 heis	NOUN	elevator.n.01
@@ -692,7 +692,7 @@ filter	NOUN	filter.n.01
 kamin	NOUN	fireplace.n.01
 peis	NOUN	fireplace.n.01
 flagg	NOUN	flag.n.01
-blits	NOUN	flash.n.10
+blits	NOUN	lamp.n.01
 håndlampe	NOUN	flashlight.n.01
 lommelykt	NOUN	flashlight.n.01
 bestikk	NOUN	flatware.n.02
@@ -706,7 +706,7 @@ formgivning	NOUN	formation.n.05
 front	NOUN	battlefront.n.01	front.n.04
 møbel	NOUN	furniture.n.01
 galleri	NOUN	gallery.n.03
-revne	NOUN	crack.n.01	opening.n.10
+revne	NOUN	crack.n.01	gap.n.03
 garasje	NOUN	garage.n.01
 bilverksted	NOUN	garage.n.02
 port	NOUN	gate.n.01
@@ -721,43 +721,43 @@ marked	NOUN	grocery_store.n.01
 gitar	NOUN	guitar.n.01
 skytevåpen	NOUN	gun.n.01
 rennestein	NOUN	channel.n.02
-sal	NOUN	building.n.01	hall.n.03
+sal	NOUN	hall.n.03	hall.n.13
 gang	NOUN	hallway.n.01
 korridor	NOUN	hallway.n.01
 hammer	NOUN	hammer.n.02
 maskinvare	NOUN	hardware.n.03
 hatt	NOUN	hat.n.01
 slør	NOUN	garment.n.01
-hovedkontor	NOUN	office.n.01
-hovedsete	NOUN	office.n.01
-hjerter	NOUN	playing_card.n.01
+hovedkontor	NOUN	headquarters.n.01
+hovedsete	NOUN	headquarters.n.01
+hjerter	NOUN	heart.n.10
 oppvarmingsanlegg	NOUN	heating_system.n.01
 varmeanlegg	NOUN	heating_system.n.01
-hekk	NOUN	fence.n.01
+hekk	NOUN	hedge.n.01
 helikopter	NOUN	helicopter.n.01
 hjelm	NOUN	helmet.n.02
 heroin	NOUN	heroin.n.01
 tilfluktssted	NOUN	hideaway.n.02
-hindring	NOUN	difficulty.n.04	obstruction.n.01
+hindring	NOUN	difficulty.n.04	hindrance.n.02
 krok	NOUN	hook.n.05
 sykestue	NOUN	hospital.n.01
 kro	NOUN	hostel.n.01
 hotell	NOUN	hotel.n.01
 bolig	NOUN	housing.n.01
-bosetning	NOUN	body.n.02	housing.n.01
+bosetning	NOUN	colony.n.01	housing.n.01
 bildestoff	NOUN	illustration.n.04
 illustrasjon	NOUN	illustration.n.04
 importvare	NOUN	import.n.01
 ingrediens	NOUN	ingredient.n.01
 redskap	NOUN	instrument.n.01	utensil.n.01
 Internett	NOUN	internet.n.01
-nett	NOUN	communication_system.n.02	game_equipment.n.01	internet.n.01	net.n.06	network.n.01
+nett	NOUN	internet.n.01	net.n.05	net.n.06	network.n.01	network.n.02
 kryss	NOUN	intersection.n.02
 veikryss	NOUN	intersection.n.02
 innovasjon	NOUN	invention.n.02
 nyskapning	NOUN	invention.n.02
 jakke	NOUN	jacket.n.01
-krukke	NOUN	jar.n.01	population.n.02	pot.n.03
+krukke	NOUN	containerful.n.01	jar.n.01	population.n.02
 dongeribukser	NOUN	jean.n.01
 jeans	NOUN	jean.n.01
 T-skjorte	NOUN	jersey.n.03
@@ -789,10 +789,10 @@ fyrtøy	NOUN	lighter.n.02
 lighter	NOUN	lighter.n.02
 linje	NOUN	line.n.05	road.n.01	straight_line.n.01
 lintøy	NOUN	linen.n.03
-lass	NOUN	weight.n.04
-lås	NOUN	fastener.n.02
+lass	NOUN	load.n.01
+lås	NOUN	lock.n.01
 lokomotiv	NOUN	locomotive.n.01
-loft	NOUN	loft.n.02
+loft	NOUN	floor.n.02
 speil	NOUN	looking_glass.n.01	mirror.n.01
 høyttaler	NOUN	loudspeaker.n.01
 ventehall	NOUN	room.n.01
@@ -806,7 +806,7 @@ kart	NOUN	map.n.01
 glasskule	NOUN	ball.n.01
 maske	NOUN	face.n.01	mask.n.01
 fyrstikk	NOUN	lighter.n.02
-materiale	NOUN	equipment.n.01	material.n.01	material.n.02
+materiale	NOUN	material.n.01	material.n.02	material.n.04
 labyrint	NOUN	system.n.01
 middel	NOUN	means.n.02
 indikator	NOUN	measuring_instrument.n.01
@@ -823,7 +823,7 @@ mikrofon	NOUN	microphone.n.01
 kvern	NOUN	mill.n.04	mouth.n.01
 mine	NOUN	mine.n.02
 gruve	NOUN	mine.n.01
-modell	NOUN	assistant.n.01	mannequin.n.01	model.n.01	model.n.04
+modell	NOUN	mannequin.n.01	model.n.01	model.n.03	model.n.04
 mosaikk	NOUN	mosaic.n.01
 moské	NOUN	mosque.n.01
 mc	NOUN	motorcycle.n.01
@@ -834,7 +834,7 @@ instrument	NOUN	musical_instrument.n.01
 spiker	NOUN	nail.n.02
 slips	NOUN	garment.n.01
 nål	NOUN	needle.n.02
-nettverk	NOUN	communication_system.n.02	network.n.01
+nettverk	NOUN	network.n.01	network.n.02
 bærbar	NOUN	notebook.n.02
 laptop	NOUN	notebook.n.02
 atomreaktor	NOUN	nuclear_reactor.n.01
@@ -849,7 +849,7 @@ kledebon	NOUN	outfit.n.02
 klesdrakt	NOUN	outfit.n.02
 påkledning	NOUN	outfit.n.02
 ovn	NOUN	oven.n.01
-overall	NOUN	clothing.n.01
+overall	NOUN	overall.n.01
 bylt	NOUN	bundle.n.02
 brev	NOUN	letter.n.01	packet.n.03
 malerfarge	NOUN	paint.n.01
@@ -915,7 +915,7 @@ radio	NOUN	radio_receiver.n.01
 radioapparat	NOUN	radio_receiver.n.01
 radiomottaker	NOUN	radio_receiver.n.01
 tømmerflåte	NOUN	float.n.06
-spor	NOUN	lead.n.03	mark.n.04	railroad_track.n.01
+spor	NOUN	lead.n.03	railroad_track.n.01	trace.n.06
 jernbane	NOUN	railway.n.01
 kvegfarm	NOUN	ranch.n.01
 bakside	NOUN	disadvantage.n.01	rear.n.05
@@ -925,7 +925,7 @@ speilbilde	NOUN	picture.n.01
 reflektor	NOUN	reflector.n.01
 asyl	NOUN	refuge.n.03
 reproduksjon	NOUN	replica.n.01
-basseng	NOUN	lake.n.01
+basseng	NOUN	reservoir.n.02
 matsted	NOUN	restaurant.n.01
 restaurant	NOUN	restaurant.n.01
 spisested	NOUN	restaurant.n.01
@@ -939,8 +939,8 @@ rep	NOUN	rope.n.01
 gulvteppe	NOUN	rug.n.01
 teppe	NOUN	rug.n.01
 ruin	NOUN	ruin.n.02
-linjal	NOUN	measuring_instrument.n.01
-seil	NOUN	sail.n.01
+linjal	NOUN	rule.n.12
+seil	NOUN	piece_of_cloth.n.01
 salong	NOUN	salon.n.02
 sandal	NOUN	sandal.n.01
 drabant	NOUN	satellite.n.01
@@ -948,7 +948,7 @@ satellitt	NOUN	satellite.n.01
 vekt	NOUN	emphasis.n.01	scale.n.07	significance.n.01	weight.n.01	weight.n.02	weight_unit.n.02
 skole	NOUN	school.n.02	science.n.01
 stump	NOUN	piece.n.01
-skrue	NOUN	fastener.n.02
+skrue	NOUN	screw.n.04
 skulptur	NOUN	sculpture.n.01
 sittemøbel	NOUN	seat.n.03
 sitteplass	NOUN	seating.n.01
@@ -987,14 +987,14 @@ rutsjebane	NOUN	plaything.n.01
 spalte	NOUN	depression.n.08	opening.n.10
 sprekk	NOUN	opening.n.10
 småbåt	NOUN	small_boat.n.01
-såpe	NOUN	cleansing_agent.n.01
+såpe	NOUN	soap.n.01
 sokk	NOUN	sock.n.01
 sofa	NOUN	sofa.n.01
 kilde	NOUN	beginning.n.04	informant.n.01	reference.n.08	source.n.04
 lysgiver	NOUN	source_of_illumination.n.01
 lyskilde	NOUN	source_of_illumination.n.01
-brille	NOUN	optical_instrument.n.01
-briller	NOUN	optical_instrument.n.01
+brille	NOUN	spectacles.n.01
+briller	NOUN	spectacles.n.01
 skje	NOUN	spoon.n.01
 stall	NOUN	stable.n.01
 idrettspark	NOUN	stadium.n.01
@@ -1003,7 +1003,7 @@ scene	NOUN	dramatic_composition.n.01	fit.n.01	scene.n.01	stage.n.03
 dekorasjon	NOUN	stage_set.n.01
 kulisse	NOUN	stage_set.n.01
 trapp	NOUN	stairway.n.01
-stand	NOUN	shop.n.01
+stand	NOUN	stall.n.03
 billedstøtte	NOUN	statue.n.01
 statue	NOUN	statue.n.01
 damper	NOUN	ship.n.01
@@ -1013,8 +1013,8 @@ pinne	NOUN	stick.n.01
 joystick	NOUN	stick.n.03
 sting	NOUN	stitch.n.01
 inventar	NOUN	stock.n.02
-krakk	NOUN	stool.n.01
-skammel	NOUN	stool.n.01
+krakk	NOUN	seat.n.03
+skammel	NOUN	seat.n.03
 komfyr	NOUN	stove.n.01
 rem	NOUN	strap.n.03
 sugerør	NOUN	tube.n.01
@@ -1022,7 +1022,7 @@ gate	NOUN	street.n.02
 snor	NOUN	cord.n.01
 strengeinstrument	NOUN	stringed_instrument.n.01
 strimmel	NOUN	strip.n.01	strip.n.02
-arbeidsrom	NOUN	room.n.01
+arbeidsrom	NOUN	study.n.05
 dress	NOUN	suit.n.01
 suite	NOUN	suite.n.02
 supermarked	NOUN	supermarket.n.01
@@ -1032,7 +1032,7 @@ huske	NOUN	plaything.n.01
 sverd	NOUN	sword.n.01
 system	NOUN	body.n.01	system.n.01	system.n.02	system.n.04
 bord	NOUN	table.n.02	table.n.03
-mynt	NOUN	coin.n.01	reverse.n.04
+mynt	NOUN	coin.n.01	side.n.05
 stridsvogn	NOUN	tank.n.01
 tank	NOUN	tank.n.01
 klisterpapir	NOUN	tape.n.01
@@ -1044,8 +1044,8 @@ målebånd	NOUN	measuring_instrument.n.01
 knokkel	NOUN	bone.n.01	telephone.n.01
 telefon	NOUN	telephone.n.01
 telefonkabel	NOUN	telephone_line.n.02
-fjernsyn	NOUN	communication_system.n.01	television_receiver.n.01
-tv	NOUN	communication_system.n.01	television_receiver.n.01
+fjernsyn	NOUN	telecommunication_system.n.01	television_receiver.n.01
+tv	NOUN	telecommunication_system.n.01	television_receiver.n.01
 skjerm	NOUN	television_receiver.n.01
 tv-apparat	NOUN	television_receiver.n.01
 tv-skjerm	NOUN	television_receiver.n.01
@@ -1070,7 +1070,7 @@ tårn	NOUN	tower.n.01
 traktor	NOUN	tractor.n.01
 jernbanetog	NOUN	train.n.01
 tog	NOUN	procession.n.02	train.n.01
-girkasse	NOUN	gear.n.03
+girkasse	NOUN	transmission.n.05
 felle	NOUN	trap.n.01
 grøft	NOUN	trench.n.03
 premie	NOUN	payment.n.01	trophy.n.02
@@ -1079,7 +1079,7 @@ bukse	NOUN	garment.n.01
 bukser	NOUN	garment.n.01
 lastebil	NOUN	truck.n.01
 tunnel	NOUN	tunnel.n.01
-paraply	NOUN	canopy.n.03
+paraply	NOUN	umbrella.n.01
 undertøy	NOUN	underwear.n.01
 uniform	NOUN	uniform.n.01
 universitet	NOUN	university.n.02
@@ -1089,7 +1089,7 @@ hvelv	NOUN	roof.n.01
 hvelving	NOUN	roof.n.01
 befordringsmiddel	NOUN	vehicle.n.01
 transportmiddel	NOUN	vehicle.n.01
-fløyel	NOUN	velvet.n.01
+fløyel	NOUN	fabric.n.01
 vifte	NOUN	device.n.01	wind_instrument.n.01
 beholder	NOUN	vessel.n.03
 video	NOUN	video_recording.n.01
@@ -1132,7 +1132,7 @@ kvalitet	NOUN	physical_property.n.01	property.n.02	property.n.04	quality.n.01	qu
 natur	NOUN	disposition.n.01	nature.n.01	nature.n.02	nature.n.03	physical_property.n.01	property.n.02	property.n.04	quality.n.01	thing.n.09	wild.n.01
 personlighet	NOUN	personality.n.01
 identitet	NOUN	identity.n.01
-sjel	NOUN	causal_agent.n.01	spirit.n.03
+sjel	NOUN	soul.n.01	spirit.n.01	spirit.n.03
 privatliv	NOUN	privacy.n.01
 gemytt	NOUN	disposition.n.01
 menneskehjerte	NOUN	disposition.n.01
@@ -1171,27 +1171,27 @@ tvetydighet	NOUN	incomprehensibility.n.01
 rettskaffenhet	NOUN	righteousness.n.01
 medlidenhet	NOUN	compassion.n.02
 drive	NOUN	drive.n.05
-ambisjon	NOUN	ambition.n.02
+ambisjon	NOUN	drive.n.05
 frekkhet	NOUN	boldness.n.02
 dyd	NOUN	virtue.n.04
 godhet	NOUN	good.n.02
 mot	NOUN	courage.n.01
-karakter	NOUN	imaginary_being.n.01	mark.n.01	mind.n.01	repute.n.01	resoluteness.n.01
-karakterstyrke	NOUN	repute.n.01	resoluteness.n.01
-viljekraft	NOUN	repute.n.01	resoluteness.n.01
-viljestyrke	NOUN	repute.n.01	resoluteness.n.01
+karakter	NOUN	character.n.06	fictional_character.n.01	mark.n.01	mind.n.01	resoluteness.n.01
+karakterstyrke	NOUN	character.n.06	resoluteness.n.01
+viljekraft	NOUN	character.n.06	resoluteness.n.01
+viljestyrke	NOUN	character.n.06	resoluteness.n.01
 flid	NOUN	diligence.n.02
 ære	NOUN	glory.n.01	honor.n.03
 integritet	NOUN	integrity.n.02
 lojalitet	NOUN	loyalty.n.01
-aktelse	NOUN	admiration.n.01	pride.n.01	standing.n.01
-selvrespekt	NOUN	pride.n.01
-verdighet	NOUN	pride.n.01
-sparsommelighet	NOUN	discretion.n.05
-sløsing	NOUN	carelessness.n.01
+aktelse	NOUN	admiration.n.01	dignity.n.01	standing.n.01
+selvrespekt	NOUN	dignity.n.01
+verdighet	NOUN	dignity.n.01
+sparsommelighet	NOUN	economy.n.03
+sløsing	NOUN	thriftlessness.n.01
 væremåte	NOUN	bearing.n.03	manner.n.02
 symmetri	NOUN	property.n.02
-bakgrunn	NOUN	background.n.01	background.n.02
+bakgrunn	NOUN	background.n.02	inheritance.n.04
 opprinnelse	NOUN	origin.n.02
 alder	NOUN	age.n.01	historic_period.n.01
 levealder	NOUN	age.n.01
@@ -1206,15 +1206,15 @@ tone	NOUN	manner_of_speaking.n.01	note.n.03	shade.n.02
 sølv	NOUN	ash_grey.n.01	silver.n.01
 rødfarget	NOUN	red.n.01
 rødt	NOUN	red.n.01
-grønn	NOUN	chromatic_color.n.01	reformer.n.01
-grønt	NOUN	chromatic_color.n.01	vegetable.n.01
+grønn	NOUN	green.n.01	reformer.n.01
+grønt	NOUN	green.n.01	vegetable.n.01
 marineblå	NOUN	dark_blue.n.01
 pastell	NOUN	chromatic_color.n.01
 pastellfarge	NOUN	chromatic_color.n.01
 lukt	NOUN	olfactory_property.n.01	smell.n.04
 lyd	NOUN	sound.n.01	sound.n.02
-røst	NOUN	ability.n.01	sound.n.01	voice.n.02
-stemme	NOUN	ability.n.01	sound.n.01	voice.n.02	vote.n.04
+røst	NOUN	sound.n.01	voice.n.02	voice.n.09
+stemme	NOUN	body.n.02	sound.n.01	voice.n.02	voice.n.09
 fred	NOUN	peace.n.01	silence.n.02
 ro	NOUN	easiness.n.01	peace.n.03	silence.n.02
 stillhet	NOUN	silence.n.02
@@ -1223,7 +1223,7 @@ tonehøyde	NOUN	pitch.n.01
 volum	NOUN	volume.n.01	volume.n.06
 fett	NOUN	fat.n.01	fatness.n.01
 kjønn	NOUN	reproductive_organ.n.01	sex.n.04
-ekko	NOUN	physical_property.n.01
+ekko	NOUN	echo.n.01
 temperatur	NOUN	temperature.n.01
 kulde	NOUN	coldness.n.03
 lysstyrke	NOUN	luminosity.n.01
@@ -1241,9 +1241,9 @@ lengde	NOUN	duration.n.01	duration.n.03	length.n.03
 varighet	NOUN	duration.n.01	duration.n.03
 romlighet	NOUN	spatial_property.n.01
 helning	NOUN	pitch.n.05	tilt.n.04
-stigning	NOUN	grade.n.03	increase.n.04
-vekst	NOUN	grade.n.03	growth.n.04	increase.n.03	increase.n.04
-balanse	NOUN	balance.n.02	proportion.n.05	situation.n.01
+stigning	NOUN	increase.n.04	upgrade.n.04
+vekst	NOUN	growth.n.04	increase.n.03	increase.n.04	upgrade.n.04
+balanse	NOUN	balance.n.02	equilibrium.n.01	proportion.n.05
 mellomrom	NOUN	space.n.05	spacing.n.02
 avstand	NOUN	distance.n.01
 distanse	NOUN	distance.n.01	distance.n.04
@@ -1279,7 +1279,7 @@ ulempe	NOUN	disadvantage.n.01
 viktighet	NOUN	importance.n.01
 rett	NOUN	dish.n.02	entitlement.n.01	right.n.01
 rettighet	NOUN	entitlement.n.01	right.n.01
-adgang	NOUN	entree.n.02	right.n.01
+adgang	NOUN	access.n.02	entree.n.02
 stemmerett	NOUN	right_to_vote.n.01
 innflytelse	NOUN	influence.n.01
 grep	NOUN	grip.n.04	grip.n.06
@@ -1298,8 +1298,8 @@ hårstrå	NOUN	hair.n.01
 frisyre	NOUN	haircut.n.01
 klipp	NOUN	haircut.n.01
 flette	NOUN	hairdo.n.01
-skjegg	NOUN	facial_hair.n.01
-skjeggvekst	NOUN	facial_hair.n.01
+skjegg	NOUN	beard.n.01
+skjeggvekst	NOUN	beard.n.01
 vev	NOUN	tissue.n.01
 kjøtt	NOUN	flesh.n.01	meat.n.01	pulp.n.02
 legeme	NOUN	flesh.n.01
@@ -1315,10 +1315,10 @@ tunge	NOUN	tongue.n.01
 gap	NOUN	mouth.n.01
 kjeft	NOUN	mouth.n.01
 munn	NOUN	mouth.n.01
-leppe	NOUN	articulator.n.02
+leppe	NOUN	lip.n.01
 øye	NOUN	eye.n.01
 øyenbryn	NOUN	eyebrow.n.01
-øyelokk	NOUN	animal_tissue.n.01
+øyelokk	NOUN	eyelid.n.01
 pupill	NOUN	hole.n.01
 øre	NOUN	ear.n.01
 nyre	NOUN	kidney.n.01
@@ -1379,7 +1379,7 @@ bakdel	NOUN	buttocks.n.01
 ende	NOUN	buttocks.n.01	end.n.09
 lem	NOUN	limb.n.01
 lår	NOUN	cut.n.06	thigh.n.01
-fang	NOUN	thigh.n.01
+fang	NOUN	lap.n.01
 skinnbein	NOUN	body_part.n.01
 arm	NOUN	arm.n.01
 overekstremitet	NOUN	arm.n.01
@@ -1392,7 +1392,7 @@ tommeltott	NOUN	thumb.n.01
 pekefinger	NOUN	index.n.05
 kne	NOUN	knee.n.01
 tå	NOUN	toe.n.01
-hæl	NOUN	skeletal_structure.n.01
+hæl	NOUN	heel.n.02
 ankel	NOUN	ankle.n.01
 albue	NOUN	hinge_joint.n.01
 negl	NOUN	nail.n.01
@@ -1412,12 +1412,12 @@ tryne	NOUN	face.n.01
 ansiktstrekk	NOUN	feature.n.02
 tinning	NOUN	feature.n.02
 kinn	NOUN	feature.n.02
-fornuft	NOUN	psychological_state.n.01	sagacity.n.01
+fornuft	NOUN	common_sense.n.01	rationality.n.01	sanity.n.01
 forsiktighet	NOUN	caution.n.03
 intelligens	NOUN	intelligence.n.01
-fatteevne	NOUN	intelligence.n.01
-forstand	NOUN	intelligence.n.01
-intellekt	NOUN	intelligence.n.01
+fatteevne	NOUN	mind.n.07
+forstand	NOUN	mind.n.07
+intellekt	NOUN	mind.n.07
 geni	NOUN	intelligence.n.01
 list	NOUN	shrewdness.n.01
 instinkt	NOUN	instinct.n.01
@@ -1438,7 +1438,7 @@ metodikk	NOUN	method.n.01
 metodologi	NOUN	methodology.n.02
 tradisjon	NOUN	custom.n.02
 regel	NOUN	convention.n.02	rule.n.01
-vane	NOUN	habit.n.01
+vane	NOUN	custom.n.02
 begeistring	NOUN	enthusiasm.n.03
 bevissthet	NOUN	consciousness.n.01
 selv	NOUN	self.n.01
@@ -1451,9 +1451,9 @@ tvil	NOUN	doubt.n.01
 mistanke	NOUN	intuition.n.02	misgiving.n.03
 opptatthet	NOUN	idea.n.01	preoccupation.n.02
 drømmeri	NOUN	reverie.n.02
-følelse	NOUN	emotion.n.01	emotional_state.n.01	intuition.n.01	sensation.n.01	touch.n.10
-føling	NOUN	emotion.n.01	emotional_state.n.01	intuition.n.01	sensation.n.01	touch.n.10
-fornemmelse	NOUN	emotion.n.01	emotional_state.n.01	intuition.n.01	sensation.n.01
+følelse	NOUN	emotion.n.01	emotional_state.n.01	feeling.n.06	sensation.n.01	touch.n.10
+føling	NOUN	emotion.n.01	emotional_state.n.01	feeling.n.06	sensation.n.01	touch.n.10
+fornemmelse	NOUN	emotion.n.01	emotional_state.n.01	feeling.n.06	sensation.n.01
 sansing	NOUN	perception.n.03
 bemerkning	NOUN	remark.n.02
 sinnsstemning	NOUN	emotion.n.01	emotional_state.n.01	sensation.n.01
@@ -1475,11 +1475,11 @@ profeti	NOUN	prediction.n.01
 ettertanke	NOUN	consideration.n.01
 beslutning	NOUN	settlement.n.05
 vedtak	NOUN	regulation.n.01	settlement.n.05
-bedømmelse	NOUN	decision_making.n.01
+bedømmelse	NOUN	judgment.n.04
 alternativ	NOUN	option.n.02
 valgmulighet	NOUN	option.n.02
-anledning	NOUN	context.n.02	occasion.n.04	opportunity.n.01	option.n.02	possibility.n.02
-mulighet	NOUN	option.n.02	possibility.n.02
+anledning	NOUN	context.n.02	occasion.n.04	opportunity.n.01	possibility.n.02	possibility.n.04
+mulighet	NOUN	possibility.n.02	possibility.n.04
 basis	NOUN	basis.n.02	evidence.n.01	foundation.n.01
 grunnlag	NOUN	basis.n.02	evidence.n.01	foundation.n.01
 beregning	NOUN	calculation.n.02	calculation.n.03
@@ -1513,13 +1513,13 @@ mengde	NOUN	crowd.n.01	helping.n.01	quantity.n.03	set.n.02
 variabel	NOUN	variable.n.02
 fordobling	NOUN	double.n.04
 vektor	NOUN	vector.n.01
-begynnelse	NOUN	beginning.n.02	part.n.09	start.n.01
-start	NOUN	beginning.n.02	part.n.09	start.n.01
+begynnelse	NOUN	beginning.n.02	beginning.n.03	start.n.01
+start	NOUN	beginning.n.02	beginning.n.03	start.n.01
 midt	NOUN	center.n.01	part.n.09
 naturlov	NOUN	law.n.03	principle.n.04
 logikk	NOUN	logic.n.03
 prinsipp	NOUN	principle.n.03
-teori	NOUN	explanation.n.02	hypothesis.n.02
+teori	NOUN	hypothesis.n.02	theory.n.01
 feiltagelse	NOUN	error.n.03
 feiltrinn	NOUN	error.n.03
 tankeverden	NOUN	illusion.n.02
@@ -1534,9 +1534,9 @@ utsikt	NOUN	view.n.02
 erindring	NOUN	memory.n.01
 illusjon	NOUN	illusion.n.01
 innbilning	NOUN	illusion.n.01
-overbevisning	NOUN	belief.n.01
+overbevisning	NOUN	conviction.n.01
 filosofi	NOUN	doctrine.n.01	philosophy.n.02
-mening	NOUN	meaning.n.01	opinion.n.01	sense.n.02	sentiment.n.01
+mening	NOUN	feeling.n.01	meaning.n.01	opinion.n.01	sense.n.02
 tro	NOUN	religion.n.01
 opinion	NOUN	public_opinion.n.01
 resultat	NOUN	goal.n.01	product.n.05	result.n.03
@@ -1554,8 +1554,8 @@ matematikk	NOUN	mathematics.n.01
 statistikk	NOUN	applied_mathematics.n.01
 post	NOUN	mail.n.01	mail.n.02	mailman.n.01	population.n.03	post.n.01
 kirurgi	NOUN	surgery.n.01
-skogbruk	NOUN	forestry.n.01
-skogdrift	NOUN	forestry.n.01
+skogbruk	NOUN	biology.n.01
+skogdrift	NOUN	biology.n.01
 kjemi	NOUN	chemical.n.01	chemistry.n.01
 fysikk	NOUN	physics.n.01
 elektronikk	NOUN	electronics.n.01
@@ -1591,7 +1591,7 @@ ark	NOUN	sheet.n.02
 papir	NOUN	document.n.01	paper.n.01	record.n.07	sheet.n.02
 papirark	NOUN	sheet.n.02
 frekvensområde	NOUN	band.n.06
-medie	NOUN	transmission.n.02
+medie	NOUN	medium.n.10
 presse	NOUN	estate_of_the_realm.n.01	press.n.02
 postvesen	NOUN	mail.n.02
 avis	NOUN	newspaper.n.01
@@ -1608,7 +1608,7 @@ stavelse	NOUN	syllable.n.01
 substantiv	NOUN	noun.n.01
 navn	NOUN	name.n.01	name.n.02
 tittel	NOUN	championship.n.01	title.n.03	title.n.06
-adelstittel	NOUN	title.n.09
+adelstittel	NOUN	appellation.n.01
 overskrift	NOUN	headline.n.01
 bildetekst	NOUN	caption.n.03
 skriftspråk	NOUN	written_communication.n.01
@@ -1619,7 +1619,7 @@ skrift	NOUN	writing.n.02
 litteratur	NOUN	literature.n.01
 lektyre	NOUN	matter.n.06
 lesestoff	NOUN	matter.n.06
-resept	NOUN	written_communication.n.01
+resept	NOUN	prescription.n.04
 fiksjon	NOUN	fiction.n.01
 roman	NOUN	novel.n.01
 myte	NOUN	myth.n.01
@@ -1653,7 +1653,7 @@ guide	NOUN	guide.n.02	guidebook.n.01
 adresseliste	NOUN	directory.n.01
 telefonnummer	NOUN	phone_number.n.01
 bibel	NOUN	bible.n.01
-oppsummering	NOUN	overview.n.01	recapitulation.n.03	summary.n.01
+oppsummering	NOUN	overview.n.01	summary.n.01
 referat	NOUN	overview.n.01	summary.n.01
 resymé	NOUN	overview.n.01	summary.n.01
 sammenkok	NOUN	overview.n.01	summary.n.01
@@ -1676,12 +1676,12 @@ meny	NOUN	fare.n.04	menu.n.01
 liste	NOUN	roll.n.02
 tidsplan	NOUN	schedule.n.02
 tidstabell	NOUN	schedule.n.02
-rutetabell	NOUN	schedule.n.02
+rutetabell	NOUN	timetable.n.02
 pass	NOUN	passport.n.02
 reisepass	NOUN	passport.n.02
 patent	NOUN	patent.n.01
 patentrett	NOUN	patent.n.01
-oppsigelse	NOUN	document.n.01	notice.n.04
+oppsigelse	NOUN	dismissal.n.02	notice.n.04	resignation.n.03
 søknad	NOUN	application.n.02
 anmodning	NOUN	request.n.01
 forespørsel	NOUN	request.n.01
@@ -1705,13 +1705,13 @@ bevilling	NOUN	license.n.01	permission.n.01
 lov	NOUN	license.n.01	permission.n.01
 tillatelse	NOUN	license.n.01	permission.n.01
 votum	NOUN	opinion.n.04
-benådning	NOUN	warrant.n.01
+benådning	NOUN	pardon.n.02
 edb-program	NOUN	software.n.01
 programvare	NOUN	software.n.01
 dataprogram	NOUN	program.n.07
 program	NOUN	broadcast.n.02	program.n.05	program.n.07
 publikasjon	NOUN	publication.n.01
-utgave	NOUN	impression.n.06
+utgave	NOUN	edition.n.01
 serie	NOUN	serial.n.01	series.n.01	series.n.03
 tidsskrift	NOUN	journal.n.02
 emne	NOUN	subject.n.01
@@ -1730,7 +1730,7 @@ hilsen	NOUN	greeting.n.01
 reaksjon	NOUN	chemical_reaction.n.01	reaction.n.04	reaction.n.05	reception.n.01
 velkommen	NOUN	welcome.n.02
 visittkort	NOUN	calling_card.n.02
-unnskyldning	NOUN	acknowledgment.n.03	defense.n.04
+unnskyldning	NOUN	acknowledgment.n.03	excuse.n.01
 opplysning	NOUN	information.n.01
 faktum	NOUN	fact.n.02
 format	NOUN	format.n.01
@@ -1805,13 +1805,13 @@ smil	NOUN	smile.n.01
 projeksjon	NOUN	projection.n.02	projection.n.05
 konsert	NOUN	concert.n.01
 graf	NOUN	graph.n.01	plot.n.04
-kurve	NOUN	curve.n.01	curve.n.02	round_shape.n.01
+kurve	NOUN	curve.n.01	line.n.04	round_shape.n.01
 teater	NOUN	dramaturgy.n.01
 drama	NOUN	drama.n.02	play.n.01
 akt	NOUN	act.n.03
 dialog	NOUN	dialogue.n.01	dialogue.n.02
 komedie	NOUN	comedy.n.01
-tragedie	NOUN	drama.n.03
+tragedie	NOUN	tragedy.n.02
 musikk	NOUN	music.n.01
 melodi	NOUN	tune.n.01
 stykke	NOUN	helping.n.01	musical_composition.n.01	part.n.03
@@ -1829,7 +1829,7 @@ rytme	NOUN	rhythm.n.01
 poesi	NOUN	poetry.n.01
 samtale	NOUN	conversation.n.01	speech.n.04
 rop	NOUN	cry.n.01
-tale	NOUN	address.n.03	lecture.n.01	talk.n.01
+tale	NOUN	address.n.03	talk.n.01
 krangling	NOUN	argument.n.03
 forhandling	NOUN	negotiation.n.01
 slagord	NOUN	motto.n.01
@@ -1850,9 +1850,9 @@ intervju	NOUN	interview.n.01
 eksamen	NOUN	examination.n.02
 utsagn	NOUN	affirmation.n.02
 ytring	NOUN	affirmation.n.02
-tilbaketrekning	NOUN	denial.n.01
+tilbaketrekning	NOUN	disavowal.n.01
 motsigelse	NOUN	contradiction.n.02
-tilståelse	NOUN	admission.n.02
+tilståelse	NOUN	confession.n.01
 rapport	NOUN	report.n.01
 sladder	NOUN	gossip.n.02
 rykte	NOUN	rumor.n.01
@@ -1891,7 +1891,7 @@ syklus	NOUN	cycle.n.03
 soloppgang	NOUN	periodic_event.n.01
 bølge	NOUN	wave.n.01
 bølgegang	NOUN	wave.n.01
-sjø	NOUN	body_of_water.n.01	lake.n.01	ocean.n.02	sea.n.01	wave.n.01
+sjø	NOUN	lake.n.01	ocean.n.01	ocean.n.02	sea.n.01	wave.n.01
 smitte	NOUN	infection.n.04
 fall	NOUN	descent.n.05	drop.n.06	waterfall.n.01
 nedstigning	NOUN	descent.n.01
@@ -1902,7 +1902,7 @@ trommevirvel	NOUN	sound.n.04
 knirking	NOUN	noise.n.01
 tidevann	NOUN	periodic_event.n.01
 overgang	NOUN	conversion.n.01
-nød	NOUN	emergency.n.01	poverty.n.01
+nød	NOUN	emergency.n.01	indigence.n.01
 nødssituasjon	NOUN	emergency.n.01
 mutasjon	NOUN	mutation.n.02
 jordskjelv	NOUN	earthquake.n.01
@@ -1918,7 +1918,7 @@ sportsbegivenhet	NOUN	match.n.02
 valgkamp	NOUN	political_campaign.n.01
 seier	NOUN	victory.n.01
 lidenskap	NOUN	passion.n.01
-glød	NOUN	passion.n.01
+glød	NOUN	ardor.n.03
 apati	NOUN	feeling.n.01
 likegyldighet	NOUN	feeling.n.01
 ønske	NOUN	desire.n.01
@@ -1932,7 +1932,7 @@ lidelse	NOUN	disease.n.01	illness.n.01	suffering.n.04
 pine	NOUN	suffering.n.04
 beundring	NOUN	admiration.n.01
 respekt	NOUN	admiration.n.01
-forakt	NOUN	dislike.n.02
+forakt	NOUN	contempt.n.01
 avsky	NOUN	repugnance.n.01
 deltakelse	NOUN	concern.n.03
 medfølelse	NOUN	concern.n.03
@@ -1943,7 +1943,7 @@ selvbevissthet	NOUN	pride.n.01	pride.n.02
 stolthet	NOUN	pride.n.01	pride.n.02
 egoisme	NOUN	pride.n.01
 sjokk	NOUN	daze.n.01
-forventning	NOUN	anticipation.n.01	condition.n.01
+forventning	NOUN	anticipation.n.01	anticipation.n.04
 følsomhet	NOUN	sensitivity.n.03
 sensibilitet	NOUN	sensitivity.n.03
 sensitivitet	NOUN	sensitivity.n.03
@@ -1983,10 +1983,10 @@ mel	NOUN	flour.n.01
 måltid	NOUN	meal.n.01
 frokost	NOUN	breakfast.n.01
 lunsj	NOUN	lunch.n.01
-middag	NOUN	banquet.n.02	dinner.n.01
+middag	NOUN	dinner.n.01	meal.n.01
 middagsbord	NOUN	dinner.n.01
 middagsmat	NOUN	dinner.n.01
-buffé	NOUN	meal.n.01
+buffé	NOUN	buffet.n.02
 mellommåltid	NOUN	bite.n.04
 suppe	NOUN	soup.n.01
 sjokolade	NOUN	chocolate.n.02
@@ -2011,7 +2011,7 @@ olje	NOUN	vegetable_oil.n.01
 pølse	NOUN	sausage.n.01
 bolle	NOUN	bun.n.01
 sandwich	NOUN	bomber.n.03
-frokostsprodukt	NOUN	food.n.02
+frokostsprodukt	NOUN	cereal.n.03
 avling	NOUN	crop.n.01	produce.n.01
 grønnsak	NOUN	vegetable.n.01
 chips	NOUN	chip.n.04
@@ -2019,7 +2019,7 @@ aspargeskål	NOUN	cruciferous_vegetable.n.01
 brokkoli	NOUN	cruciferous_vegetable.n.01
 agurk	NOUN	vegetable.n.01
 bønne	NOUN	bean.n.01
-korn	NOUN	atom.n.02	corn.n.03
+korn	NOUN	corn.n.03	grain.n.01
 kornsort	NOUN	corn.n.03
 tomat	NOUN	tomato.n.01
 gresskar	NOUN	pumpkin.n.02
@@ -2027,7 +2027,7 @@ spinat	NOUN	greens.n.01
 peanøtt	NOUN	edible_nut.n.01
 eple	NOUN	apple.n.01
 jordbær	NOUN	berry.n.01
-appelsin	NOUN	citrus.n.01
+appelsin	NOUN	orange.n.01
 sitron	NOUN	lemon.n.01
 fiken	NOUN	edible_fruit.n.01
 banan	NOUN	banana.n.02
@@ -2048,7 +2048,7 @@ hvitløk	NOUN	garlic.n.02
 saus	NOUN	sauce.n.01
 egg	NOUN	egg.n.02
 melk	NOUN	milk.n.01
-fløte	NOUN	dairy_product.n.01
+fløte	NOUN	cream.n.02
 smør	NOUN	butter.n.01
 ost	NOUN	cheese.n.01
 ostetype	NOUN	cheese.n.01
@@ -2068,7 +2068,7 @@ mjød	NOUN	beer.n.01
 druevin	NOUN	wine.n.01
 vin	NOUN	vine.n.01	wine.n.01
 whisky	NOUN	whiskey.n.01
-brus	NOUN	soft_drink.n.01
+brus	NOUN	pop.n.02
 kaffe	NOUN	coffee.n.01
 mokka	NOUN	coffee.n.01
 punsj	NOUN	punch.n.02
@@ -2108,7 +2108,7 @@ hoff	NOUN	court.n.03
 klinikk	NOUN	clinic.n.01
 byrå	NOUN	agency.n.02
 filialnett	NOUN	chain.n.04
-konsern	NOUN	conglomerate.n.02
+konsern	NOUN	corporation.n.01
 forlag	NOUN	publisher.n.01
 sivilisasjon	NOUN	civilization.n.01
 presteskap	NOUN	priesthood.n.01
@@ -2145,7 +2145,7 @@ landsby	NOUN	village.n.01
 fagforbund	NOUN	union.n.01
 fagforening	NOUN	union.n.01
 trust	NOUN	trust.n.04
-rollebesetning	NOUN	gathering.n.01
+rollebesetning	NOUN	cast.n.01
 valgkrets	NOUN	constituency.n.01
 klikk	NOUN	clique.n.01
 orkester	NOUN	orchestra.n.01
@@ -2171,12 +2171,12 @@ domstol	NOUN	court.n.01
 etterretningstjeneste	NOUN	intelligence.n.02
 etterretningsvesen	NOUN	intelligence.n.02
 stevne	NOUN	rally.n.01
-republikk	NOUN	political_system.n.01
+republikk	NOUN	republic.n.02
 kapitalisme	NOUN	capitalism.n.01
 privatkapitalisme	NOUN	capitalism.n.01
 generasjon	NOUN	coevals.n.01
 lobby	NOUN	political_unit.n.01
-hierarki	NOUN	organization.n.01
+hierarki	NOUN	hierarchy.n.02
 avtale	NOUN	date.n.03
 elite	NOUN	elite.n.01
 fåtall	NOUN	few.n.01
@@ -2190,7 +2190,7 @@ monarki	NOUN	kingdom.n.04
 imperium	NOUN	empire.n.03
 utstilling	NOUN	exhibition.n.02
 messe	NOUN	gathering.n.01
-ekspedisjon	NOUN	unit.n.03
+ekspedisjon	NOUN	expedition.n.02
 jury	NOUN	jury.n.01
 panel	NOUN	jury.n.02
 høyrefløy	NOUN	right.n.04
@@ -2202,7 +2202,7 @@ parade	NOUN	parade.n.01
 parade-	NOUN	parade.n.01
 rekke	NOUN	file.n.02	line.n.03	row.n.01	series.n.01	strip.n.01
 geledd	NOUN	row.n.01
-kø	NOUN	line.n.03
+kø	NOUN	queue.n.01
 kolonne	NOUN	column.n.03
 vegetasjon	NOUN	vegetation.n.01
 medarbeiderstab	NOUN	staff.n.01
@@ -2212,7 +2212,7 @@ jus	NOUN	law.n.01
 sekvens	NOUN	sequence.n.01
 skatt	NOUN	beloved.n.01	tax.n.01	treasure.n.04
 adresse	NOUN	address.n.02
-jord	NOUN	earth.n.01	geographical_area.n.01	soil.n.02	universe.n.01
+jord	NOUN	earth.n.01	soil.n.02	territory.n.03	universe.n.01
 arena	NOUN	arena.n.02
 koloni	NOUN	colony.n.05
 ørken	NOUN	desert.n.01
@@ -2227,14 +2227,14 @@ sentrum	NOUN	center.n.04
 kjerne	NOUN	core.n.02
 by	NOUN	city.n.01	town.n.01
 distrikt	NOUN	city_district.n.01	district.n.01	ward.n.02
-utgraving	NOUN	site.n.01
+utgraving	NOUN	dig.n.01
 vest	NOUN	location.n.01	west.n.02
 østen	NOUN	east.n.02
 østerland	NOUN	east.n.02
 himmel	NOUN	eden.n.01	sky.n.01
 omgivelse	NOUN	environment.n.02
 mark	NOUN	field.n.01
-eng	NOUN	grassland.n.01	pasture.n.01
+eng	NOUN	hayfield.n.01	pasture.n.01
 frontlinje	NOUN	battlefront.n.01
 halvkule	NOUN	geographical_area.n.01
 horisont	NOUN	horizon.n.01
@@ -2288,7 +2288,7 @@ boble	NOUN	bubble.n.01
 hule	NOUN	cave.n.01
 skråning	NOUN	cliff.n.01
 sky	NOUN	cloud.n.02
-komet	NOUN	natural_object.n.01
+komet	NOUN	extraterrestrial_object.n.01
 stjernebilde	NOUN	natural_object.n.01
 avleiring	NOUN	mass.n.05
 jordklode	NOUN	earth.n.01	universe.n.01
@@ -2301,12 +2301,12 @@ hull	NOUN	hole.n.01
 øy	NOUN	island.n.01
 landjord	NOUN	land.n.04
 myr	NOUN	wetland.n.01
-måne	NOUN	moon.n.06
-måneskive	NOUN	moon.n.06
+måne	NOUN	satellite.n.03
+måneskive	NOUN	satellite.n.03
 fjell	NOUN	mountain.n.01
 nødvendighet	NOUN	necessity.n.02
 rede	NOUN	nest.n.01
-hav	NOUN	body_of_water.n.01	ocean.n.02	sea.n.01
+hav	NOUN	ocean.n.01	ocean.n.02	sea.n.01
 partikkel	NOUN	particle.n.02
 klode	NOUN	planet.n.01
 planet	NOUN	planet.n.01
@@ -2315,7 +2315,7 @@ pytt	NOUN	body_of_water.n.01
 vannpytt	NOUN	body_of_water.n.01
 regnbue	NOUN	bow.n.05
 fjellkjede	NOUN	range.n.04
-bakkedrag	NOUN	geological_formation.n.01
+bakkedrag	NOUN	ridge.n.04
 flenge	NOUN	opening.n.01
 elv	NOUN	river.n.01
 bekk	NOUN	stream.n.01
@@ -2334,13 +2334,13 @@ sol	NOUN	sun.n.01	sunlight.n.01
 dal	NOUN	valley.n.01
 vulkan	NOUN	volcano.n.02
 foss	NOUN	waterfall.n.01
-romvesen	NOUN	imaginary_being.n.01
+romvesen	NOUN	extraterrestrial_being.n.01
 gud	NOUN	deity.n.01	spiritual_being.n.01
-engel	NOUN	spiritual_being.n.01
+engel	NOUN	angel.n.01
 ånd	NOUN	spirit.n.04
-gjenferd	NOUN	causal_agent.n.01
-gjenganger	NOUN	causal_agent.n.01
-spøkelse	NOUN	causal_agent.n.01
+gjenferd	NOUN	soul.n.01
+gjenganger	NOUN	soul.n.01
+spøkelse	NOUN	soul.n.01
 voksen	NOUN	adult.n.01
 søker	NOUN	applicant.n.01
 forbruker	NOUN	consumer.n.01
@@ -2381,7 +2381,7 @@ biskop	NOUN	bishop.n.01
 bisp	NOUN	bishop.n.01
 bombemann	NOUN	person.n.01
 brud	NOUN	bride.n.03
-bror	NOUN	kinsman.n.01	monk.n.01
+bror	NOUN	brother.n.01	monk.n.01
 betjent	NOUN	bull.n.05	policeman.n.01
 funksjonær	NOUN	bull.n.05	official.n.01	policeman.n.01
 ordenshåndhever	NOUN	bull.n.05	policeman.n.01
@@ -2420,7 +2420,7 @@ fatter	NOUN	dad.n.01	father.n.01
 yndling	NOUN	darling.n.01
 date	NOUN	date.n.02
 datter	NOUN	daughter.n.01
-kriminalbetjent	NOUN	policeman.n.01
+kriminalbetjent	NOUN	detective.n.01
 diplomat	NOUN	diplomat.n.01
 bestyrer	NOUN	caretaker.n.01	director.n.01
 formann	NOUN	director.n.01	foreman.n.01
@@ -2459,15 +2459,15 @@ general	NOUN	general.n.01
 gentleman	NOUN	man.n.01
 neger	NOUN	writer.n.01
 kjempe	NOUN	giant.n.04
-keeper	NOUN	hockey_player.n.01
-målvakt	NOUN	hockey_player.n.01
+keeper	NOUN	goalkeeper.n.01
+målvakt	NOUN	goalkeeper.n.01
 guvernør	NOUN	governor.n.01
 bestefar	NOUN	grandfather.n.01
 bestemor	NOUN	grandma.n.01
 gerilja	NOUN	guerrilla.n.01
 gjest	NOUN	guest.n.01	visitor.n.01
 overhode	NOUN	head.n.04
-arving	NOUN	recipient.n.01
+arving	NOUN	heir.n.01
 historiker	NOUN	historian.n.01
 vert	NOUN	adult.n.01	landlord.n.01
 gissel	NOUN	hostage.n.01
@@ -2480,7 +2480,7 @@ insider	NOUN	insider.n.01
 opprører	NOUN	insurgent.n.01
 designer	NOUN	interior_designer.n.01
 investor	NOUN	investigator.n.02
-narr	NOUN	comedian.n.01
+narr	NOUN	clown.n.02
 dommer	NOUN	judge.n.01	referee.n.01
 morder	NOUN	killer.n.01
 slektning	NOUN	relative.n.01
@@ -2507,7 +2507,7 @@ medlem	NOUN	member.n.01
 kjøpmann	NOUN	merchant.n.01
 gruvearbeider	NOUN	miner.n.01
 statsråd	NOUN	minister.n.02
-helt	NOUN	leader.n.01
+helt	NOUN	hero.n.01
 mor	NOUN	mother.n.01
 bilist	NOUN	driver.n.01
 musiker	NOUN	musician.n.01	musician.n.02
@@ -2519,8 +2519,8 @@ sykepleier	NOUN	nurse.n.01
 nonne	NOUN	nun.n.01
 besitter	NOUN	owner.n.02
 eier	NOUN	owner.n.02
-kunstmaler	NOUN	artist.n.01
-maler	NOUN	artist.n.01
+kunstmaler	NOUN	painter.n.01
+maler	NOUN	painter.n.01
 deltaker	NOUN	participant.n.01
 medskyldig	NOUN	party.n.05
 part	NOUN	party.n.05	share.n.01
@@ -2528,7 +2528,7 @@ passasjer	NOUN	passenger.n.01
 pasient	NOUN	patient.n.01
 nasjonalist	NOUN	patriot.n.01
 fotgjenger	NOUN	pedestrian.n.01
-pensjonist	NOUN	recipient.n.01
+pensjonist	NOUN	pensioner.n.01
 performer	NOUN	performer.n.01
 idiot	NOUN	oppressor.n.01
 tosk	NOUN	oppressor.n.01
@@ -2539,7 +2539,7 @@ pioner	NOUN	pioneer.n.01
 saksøker	NOUN	plaintiff.n.01
 politiker	NOUN	politician.n.02
 bærebjelke	NOUN	laborer.n.01
-forgjenger	NOUN	person.n.01
+forgjenger	NOUN	predecessor.n.01
 president	NOUN	president.n.03
 direktør	NOUN	corporate_executive.n.01	president.n.04
 rektor	NOUN	academic_administrator.n.01
@@ -2637,8 +2637,8 @@ tåke	NOUN	fog.n.01
 storm	NOUN	storm.n.01
 uvær	NOUN	storm.n.01
 skjær	NOUN	light.n.01
-tyngde	NOUN	gravity.n.01
-tyngdekraft	NOUN	gravity.n.01
+tyngde	NOUN	attraction.n.01
+tyngdekraft	NOUN	attraction.n.01
 solstråle	NOUN	sunlight.n.01
 stråling	NOUN	radiation.n.01
 regn	NOUN	rain.n.01
@@ -2661,7 +2661,7 @@ palme	NOUN	palm.n.03
 rose	NOUN	rose.n.01
 potet	NOUN	potato.n.02
 potetslag	NOUN	potato.n.02
-sopp	NOUN	basidiomycete.n.01
+sopp	NOUN	mushroom.n.03
 mugg	NOUN	fungus.n.01
 stueplante	NOUN	plant.n.02
 karsporeplante	NOUN	vascular_plant.n.01
@@ -2698,7 +2698,7 @@ belønning	NOUN	recompense.n.01
 vederlag	NOUN	recompense.n.01
 kvote	NOUN	allotment.n.01	number.n.02
 husleie	NOUN	annuity_in_advance.n.01
-drikkepenger	NOUN	gratuity.n.01
+drikkepenger	NOUN	fringe_benefit.n.01
 billettpris	NOUN	fare.n.02
 toll	NOUN	duty.n.03
 rente	NOUN	interest.n.04
@@ -2711,8 +2711,8 @@ aksje	NOUN	share.n.02	stock.n.01
 innsats	NOUN	stake.n.04
 dekning	NOUN	coverage.n.01
 prioritetslån	NOUN	mortgage.n.01
-gull	NOUN	gold.n.03	wealth.n.01	wealth.n.03
-rikdom	NOUN	wealth.n.01	wealth.n.03
+gull	NOUN	gold.n.03	material_resource.n.01	wealth.n.01
+rikdom	NOUN	material_resource.n.01	wealth.n.01
 kapital	NOUN	capital.n.02
 kontoutskrift	NOUN	account.n.07
 underhold	NOUN	support.n.06
@@ -2777,18 +2777,18 @@ sør	NOUN	south.n.03
 kontrast	NOUN	contrast.n.01
 motsetning	NOUN	contrary.n.02	reverse.n.01
 sylinder	NOUN	cylinder.n.01
-hjerte	NOUN	plane_figure.n.01
+hjerte	NOUN	heart.n.07
 dreining	NOUN	curve.n.01
 diameter	NOUN	diameter.n.02
 tverrmål	NOUN	diameter.n.02
 sirkel	NOUN	circle.n.01
-løkke	NOUN	loop.n.02
+løkke	NOUN	closed_curve.n.01
 trekant	NOUN	triangle.n.01
 triangel	NOUN	triangle.n.01
 vinkel	NOUN	angle.n.01
 grunnlinje	NOUN	base.n.11
 rynke	NOUN	wrinkle.n.01
-fold	NOUN	fold.n.01
+fold	NOUN	angular_shape.n.01
 pyramide	NOUN	pyramid.n.01
 middelvei	NOUN	state.n.02
 helse	NOUN	health.n.01	health.n.02	physical_condition.n.01
@@ -2804,13 +2804,13 @@ kjærlighetsaffære	NOUN	affair.n.02
 utfordring	NOUN	challenge.n.01
 krise	NOUN	crisis.n.01
 krisesituasjon	NOUN	crisis.n.01
-likevekt	NOUN	situation.n.01
+likevekt	NOUN	equilibrium.n.01
 naturtilstand	NOUN	wild.n.01
 hastesak	NOUN	situation.n.03
 rang	NOUN	social_station.n.01
 anseelse	NOUN	standing.n.01
 ry	NOUN	standing.n.01
-nasjonalitet	NOUN	nationality.n.02
+nasjonalitet	NOUN	status.n.01
 realitet	NOUN	reality.n.02
 virkelighet	NOUN	reality.n.02
 nærvær	NOUN	presence.n.01
@@ -2820,7 +2820,7 @@ ansettelse	NOUN	employment.n.01
 arbeidsløshet	NOUN	unemployment.n.01
 kaos	NOUN	chaos.n.01
 sinnsbevegelse	NOUN	disturbance.n.03
-spenning	NOUN	condition.n.01	hostility.n.02
+spenning	NOUN	hostility.n.02	tension.n.02
 divergens	NOUN	disagreement.n.01
 strid	NOUN	disagreement.n.01
 uenighet	NOUN	disagreement.n.01
@@ -2835,7 +2835,7 @@ selvstendighet	NOUN	autonomy.n.02
 resesjon	NOUN	economic_condition.n.01
 søvn	NOUN	sleep.n.01
 beredskap	NOUN	readiness.n.01
-sensasjon	NOUN	sensation.n.04
+sensasjon	NOUN	excitement.n.02
 tørst	NOUN	drive.n.09
 sykdom	NOUN	disease.n.01	illness.n.01
 syke	NOUN	disease.n.01	illness.n.01
@@ -2843,8 +2843,8 @@ sammenbrudd	NOUN	illness.n.01
 slagtilfelle	NOUN	stroke.n.03
 influensa	NOUN	influenza.n.01
 aids	NOUN	infectious_disease.n.01
-forkjølelse	NOUN	respiratory_disease.n.01
-snue	NOUN	respiratory_disease.n.01
+forkjølelse	NOUN	cold.n.01
+snue	NOUN	cold.n.01
 lungebetennelse	NOUN	pneumonia.n.01
 pneumoni	NOUN	pneumonia.n.01
 sår	NOUN	cut.n.05	pathology.n.02	wound.n.01
@@ -2853,7 +2853,7 @@ kreft	NOUN	cancer.n.01
 kreftsykdom	NOUN	cancer.n.01
 plantesykdom	NOUN	disease.n.01
 skade	NOUN	injury.n.01
-brannsår	NOUN	injury.n.01
+brannsår	NOUN	burn.n.03
 solbrenthet	NOUN	physical_condition.n.01
 stikk	NOUN	injury.n.01
 symptom	NOUN	symptom.n.01
@@ -2877,11 +2877,11 @@ heder	NOUN	fame.n.01	honor.n.02
 berømmelse	NOUN	fame.n.01
 berømthet	NOUN	fame.n.01
 kjendis	NOUN	fame.n.01
-omdømme	NOUN	dishonor.n.01
+omdømme	NOUN	reputation.n.02
 kontroll	NOUN	dominance.n.02
 herredømme	NOUN	domination.n.02
 velbefinnende	NOUN	comfort.n.01	wellbeing.n.01
-lettelse	NOUN	comfort.n.01
+lettelse	NOUN	relief.n.02
 elendighet	NOUN	ill-being.n.01
 behov	NOUN	need.n.01
 mangel	NOUN	dearth.n.01	lack.n.01
@@ -2889,7 +2889,7 @@ skjebne	NOUN	fortune.n.04
 motgang	NOUN	adversity.n.01
 fiasko	NOUN	failure.n.03
 gass	NOUN	gas.n.01
-velstand	NOUN	economic_condition.n.01
+velstand	NOUN	prosperity.n.01
 uorden	NOUN	disorderliness.n.01
 forbindelse	NOUN	context.n.02
 omstendighet	NOUN	context.n.02
@@ -2932,7 +2932,7 @@ elfenben	NOUN	animal_material.n.01
 lær	NOUN	leather.n.01
 pels	NOUN	fur.n.01
 aske	NOUN	ash.n.01
-stål	NOUN	alloy.n.01
+stål	NOUN	steel.n.01
 strå	NOUN	plant_material.n.01
 kjemikalie	NOUN	chemical.n.01
 leire	NOUN	clay.n.01
@@ -3027,80 +3027,80 @@ hyppighet	NOUN	frequency.n.01
 fase	NOUN	phase.n.01
 puste	VERB	breathe.v.01
 sukke	VERB	sigh.v.01
-stønne	VERB	exhale.v.01
+stønne	VERB	pant.v.01
 hoste	VERB	cough.v.01
-gjespe	VERB	breathe.v.01
+gjespe	VERB	yawn.v.01
 rykke	VERB	twitch.v.01
 oppføre_seg	VERB	act.v.02
-skjelve	VERB	move_involuntarily.v.01	tremble.v.01
+skjelve	VERB	shiver.v.02	shudder.v.02	tremble.v.01
 stå_opp	VERB	get_up.v.02
 våkne	VERB	wake_up.v.02
-besvime	VERB	change_state.v.01
-bekymre	VERB	affect.v.02
+besvime	VERB	faint.v.01
+bekymre	VERB	tense.v.04
 slappe_av	VERB	relax.v.01
 smile	VERB	smile.v.01
 le	VERB	laugh.v.01
 vaske	VERB	wash.v.02	wash.v.03
 barbere	VERB	shave.v.01
-unnfange	VERB	change_state.v.01
+unnfange	VERB	conceive.v.03
 gråte	VERB	cry.v.02
 skade	VERB	harm.v.01	injure.v.01
-blø	VERB	exhaust.v.05
-kvele	VERB	compress.v.02	kill.v.01
+blø	VERB	shed_blood.v.02
+kvele	VERB	choke.v.04	strangle.v.01
 fryse	VERB	freeze.v.02	freeze.v.03
 behandle	VERB	cover.v.05	treat.v.01	treat.v.03
 helbrede	VERB	bring_around.v.02
 hele	VERB	bring_around.v.02
-forgifte	VERB	drug.v.01
+forgifte	VERB	poison.v.05
 smitte	VERB	infect.v.01
 komme_seg	VERB	recuperate.v.04
 mosjonere	VERB	exercise.v.03
-strekke	VERB	move.v.03
+strekke	VERB	stretch.v.11
 rødme	VERB	blush.v.01
 spøke	VERB	joke.v.02
 kjøre_ned	VERB	run_down.v.03
 veksle	VERB	change.v.03
 påvirke	VERB	affect.v.01
 forme	VERB	shape.v.03
-vikle	VERB	coil.v.03	shape.v.03
+vikle	VERB	coil.v.03	twist.v.05
 justere	VERB	adjust.v.03
 tørke	VERB	shrink.v.05	wipe.v.01
 stige	VERB	rise.v.02
 tilta	VERB	increase.v.01
 vokse	VERB	increase.v.01	mature.v.01
-øke	VERB	increase.v.02
+øke	VERB	raise.v.01
 erstatte	VERB	replace.v.01	substitute.v.01
 fjerne	VERB	remove.v.01
-forbedre	VERB	better.v.02	enhance.v.02
-styrke	VERB	better.v.02	enhance.v.02
-utvikle	VERB	better.v.02	develop.v.01	enhance.v.02	foster.v.03
-råtne	VERB	decay.v.03
+forbedre	VERB	better.v.02	enhance.v.02	reform.v.05
+styrke	VERB	better.v.02	enhance.v.02	reform.v.05
+utvikle	VERB	better.v.02	develop.v.01	enhance.v.02	foster.v.03	reform.v.05
+råtne	VERB	spoil.v.02
 svekke	VERB	weaken.v.01
-tynne_ut	VERB	weaken.v.01
+tynne_ut	VERB	dilute.v.01
 begrense	VERB	restrict.v.02	restrict.v.03
 forstørre	VERB	blow_up.v.02
-skrumpe	VERB	decrease.v.01	shrink.v.03
+skrumpe	VERB	shrink.v.03	shrivel.v.01
 forene	VERB	consolidate.v.01	unite.v.01
 forkorte	VERB	abridge.v.01
-eldes	VERB	develop.v.10
-modne	VERB	mature.v.01
+eldes	VERB	age.v.01
+modne	VERB	ripen.v.02
 fornye	VERB	repair.v.01
 reparere	VERB	repair.v.01
 utbedre	VERB	repair.v.01
 stabilisere_seg	VERB	stabilize.v.03
-regulere	VERB	arrange.v.01
-flekke	VERB	change.v.01
+regulere	VERB	regularize.v.02
+flekke	VERB	stain.v.02
 eskalere	VERB	escalate.v.01
-lyse	VERB	light.v.01	radiate.v.05
+lyse	VERB	glow.v.01	light.v.01
 innstille	VERB	adjust.v.01
 stille_inn	VERB	adjust.v.01
 utvide	VERB	widen.v.03
-avkorte	VERB	reduce.v.01
+avkorte	VERB	shorten.v.01
 kok	VERB	boil.v.02
 forgreine_seg	VERB	branch.v.02
 knuse	VERB	grind.v.05	smash.v.02
-briste	VERB	break.v.02
-smadre	VERB	break.v.02	break.v.05	destroy.v.01
+briste	VERB	burst.v.08
+smadre	VERB	break.v.05	demolish.v.01	shatter.v.01
 knekke	VERB	snap.v.03
 hende	VERB	happen.v.01
 skje	VERB	happen.v.01
@@ -3108,28 +3108,28 @@ begynne	VERB	begin.v.03
 starte	VERB	begin.v.03
 sette_inn	VERB	inaugurate.v.03	tuck.v.01
 skyte	VERB	blast.v.07	fire.v.02	launch.v.02	shoot.v.19
-dø	VERB	die.v.01	suffer.v.01
+dø	VERB	die.v.01	die.v.02
 etterlate	VERB	bequeath.v.01	leave.v.12
 drukne	VERB	drown.v.03
-varme_opp	VERB	change.v.01
+varme_opp	VERB	warm.v.02
 endre	VERB	transform.v.03
 forandre	VERB	transform.v.03
 konvertere	VERB	convert.v.03
 blande	VERB	blend.v.03	shuffle.v.03
-ordne	VERB	arrange.v.01	arrange.v.07	organize.v.04
+ordne	VERB	arrange.v.01	arrange.v.07	organize.v.04	settle.v.11
 slå_seg_ned	VERB	settle.v.07
 stivne	VERB	stiffen.v.01
 stramme	VERB	tighten.v.02
-falme	VERB	disappear.v.01
+falme	VERB	fade.v.02
 forsvinne	VERB	disappear.v.01
 redusere	VERB	decrease.v.02	reduce.v.01
 størkne	VERB	solidify.v.02
-rydde	VERB	empty.v.01
+rydde	VERB	clear.v.23
 fylle	VERB	fill.v.01
-svare_til	VERB	adjust.v.03
-forsinke	VERB	decelerate.v.01
+svare_til	VERB	match.v.09
+forsinke	VERB	delay.v.01
 undertrykke	VERB	suppress.v.01
-kommersialisere	VERB	change.v.01
+kommersialisere	VERB	commercialize.v.02
 forfine	VERB	polish.v.02
 spolere	VERB	mar.v.01
 avslutte	VERB	complete.v.01
@@ -3137,15 +3137,15 @@ kvantifisere	VERB	quantify.v.02
 merke	VERB	feel.v.01	mark.v.05	notice.v.02	sign.v.06
 avbryte	VERB	interrupt.v.03
 lekke	VERB	leak.v.03
-bryte_sammen	VERB	change.v.02	collapse.v.01
-bosette_seg	VERB	better.v.02
+bryte_sammen	VERB	collapse.v.01	die.v.09
+bosette_seg	VERB	settle.v.09
 skifte_ut	VERB	substitute.v.01	switch.v.03
 forstå	VERB	recognize.v.02	sympathize.v.02	understand.v.01	understand.v.02
 kjenne	VERB	feel.v.01	know.v.04	recognize.v.04
 vite	VERB	know.v.03
 kunne	VERB	know.v.02
-mestre	VERB	know.v.02
-sluke	VERB	believe.v.01	consume.v.02
+mestre	VERB	master.v.01
+sluke	VERB	swallow.v.01	swallow.v.08
 trene	VERB	train.v.01
 huske	VERB	remember.v.01	remember.v.02	remember.v.03	retain.v.04
 minnes	VERB	remember.v.01	remember.v.02	remember.v.03	retain.v.04
@@ -3178,14 +3178,14 @@ mene	VERB	think.v.01
 synes	VERB	appear.v.04	think.v.01
 regne	VERB	rain.v.01	respect.v.01
 respektere	VERB	respect.v.01
-avgjøre	VERB	agree.v.01	decide.v.01	settle.v.14
+avgjøre	VERB	decide.v.01	settle.v.13	settle.v.14
 bestemme	VERB	decide.v.01
 fastsette	VERB	decide.v.01
 vedta	VERB	decide.v.01
 planere	VERB	plan.v.02
 planlegge	VERB	plan.v.02
 forbinde	VERB	associate.v.01	connect.v.01
-eksplodere	VERB	react.v.01
+eksplodere	VERB	explode.v.03
 forvente	VERB	ask.v.04	expect.v.01
 konsentrere_seg	VERB	concentrate.v.02
 befale	VERB	command.v.02
@@ -3194,8 +3194,8 @@ forlange	VERB	demand.v.01
 kreve	VERB	demand.v.01
 påstå	VERB	claim.v.01
 fornekte	VERB	disown.v.02
-tigge	VERB	beg.v.01	request.v.01
-forsone	VERB	agree.v.01
+tigge	VERB	beg.v.01	beg.v.03
+forsone	VERB	reconcile.v.03
 presse	VERB	press.v.01	urge.v.01
 overtale	VERB	convert.v.09	persuade.v.02
 overbevise	VERB	convert.v.09
@@ -3206,7 +3206,7 @@ spørre_ut	VERB	interrogate.v.02
 utspørre	VERB	interrogate.v.02
 ringe	VERB	call.v.03	ring.v.01
 telekommunikasjon	VERB	telecommunicate.v.01
-reservere	VERB	request.v.01	reserve.v.04
+reservere	VERB	reserve.v.03	reserve.v.04
 bestride	VERB	challenge.v.01	forbid.v.01
 forby	VERB	forbid.v.01
 nekte	VERB	deny.v.03	deny.v.04	deprive.v.02	refuse.v.01	resist.v.06
@@ -3226,7 +3226,7 @@ vedgå	VERB	admit.v.01
 vedkjenne	VERB	admit.v.01
 vedstå	VERB	admit.v.01
 insistere	VERB	insist.v.01
-preke	VERB	lecture.v.01
+preke	VERB	preach.v.01
 lære	VERB	teach.v.01
 oppdatere	VERB	update.v.02
 villede	VERB	misinform.v.01
@@ -3252,23 +3252,23 @@ gratulere	VERB	congratulate.v.02
 anbefale	VERB	commend.v.04
 skryte	VERB	boast.v.01
 sverge	VERB	pledge.v.01
-tilegne	VERB	give.v.21
+tilegne	VERB	dedicate.v.03
 vie	VERB	give.v.18
 sikre	VERB	guarantee.v.02
 takke	VERB	thank.v.01
 unnskylde	VERB	apologize.v.01
-nikke	VERB	communicate.v.02
+nikke	VERB	nod.v.02
 introdusere	VERB	bring_in.v.01	introduce.v.01
 presentere	VERB	introduce.v.01
 ønske	VERB	desire.v.01	wish.v.03	wish.v.04
 frikjenne	VERB	acquit.v.01
-tilgi	VERB	forgive.v.01
+tilgi	VERB	excuse.v.01
 dømme	VERB	convict.v.01
 klage	VERB	complain.v.01
 rope	VERB	shout.v.01	shout.v.02
 skrike	VERB	yell.v.02
 hviske	VERB	whisper.v.01
-snerre	VERB	talk.v.02
+snerre	VERB	snap.v.01
 gjette	VERB	guess.v.02
 ane	VERB	predict.v.01
 forutse	VERB	predict.v.01
@@ -3277,7 +3277,7 @@ undre_seg	VERB	wonder.v.02
 spekulere	VERB	speculate.v.02	speculate.v.04
 bevirke	VERB	arouse.v.01	suggest.v.05
 framkalle	VERB	arouse.v.01	suggest.v.05
-gjøre	VERB	arouse.v.01	confront.v.02	suggest.v.05
+gjøre	VERB	arouse.v.01	suggest.v.05	undertake.v.02
 utføre	VERB	arouse.v.01	suggest.v.05
 bety	VERB	mean.v.03
 forklare	VERB	explain.v.01
@@ -3289,15 +3289,15 @@ definere	VERB	define.v.02
 avgi_rapport	VERB	report.v.02
 rapportere	VERB	report.v.02
 utgi	VERB	publish.v.02
-spre	VERB	circulate.v.02	circulate.v.03
+spre	VERB	circulate.v.02	spread.v.07
 sende	VERB	air.v.03	mail.v.02	send.v.02	transport.v.04
 reklamere	VERB	advertise.v.02
 erklære	VERB	proclaim.v.02
-artikulere	VERB	state.v.01
+artikulere	VERB	articulate.v.05
 formulere	VERB	give_voice.v.01
 utstøte	VERB	banish.v.01	utter.v.02
 beskrive	VERB	describe.v.01
-representere	VERB	represent.v.01	represent.v.05	serve.v.02
+representere	VERB	represent.v.01	represent.v.04	represent.v.05
 skrive	VERB	publish.v.03	write.v.02
 revidere	VERB	revise.v.01
 signere	VERB	sign.v.01
@@ -3314,13 +3314,13 @@ sitere	VERB	quote.v.01
 nevne	VERB	mention.v.01	name.v.02
 kalle	VERB	name.v.01
 vinke	VERB	beckon.v.01
-fløyte	VERB	sound.v.02
+fløyte	VERB	whistle.v.05
 mumle	VERB	mumble.v.01
-grynte	VERB	utter.v.02
-bjeffe	VERB	utter.v.02
-gjø	VERB	utter.v.02
-brøle	VERB	utter.v.02
-rulle	VERB	pronounce.v.01	roll.v.14	turn.v.01	wheel.v.03
+grynte	VERB	groan.v.01
+bjeffe	VERB	bark.v.04
+gjø	VERB	bark.v.04
+brøle	VERB	bellow.v.02
+rulle	VERB	roll.v.01	roll.v.14	roll.v.15	wheel.v.03
 dele	VERB	divide.v.01	share.v.02	share.v.05
 spille	VERB	act.v.10	perform.v.03	play.v.01	play.v.03
 gi_opp	VERB	drop_out.v.01	foreswear.v.02
@@ -3329,11 +3329,11 @@ krige	VERB	war.v.01
 være	VERB	serve.v.02
 miste	VERB	drop.v.01	lose.v.01	lose.v.02	lose.v.05
 tape	VERB	lose.v.02
-vinne	VERB	tighten.v.01	win.v.01
-slå	VERB	beat.v.01	beat.v.03	beat.v.04	hit.v.03
+vinne	VERB	win.v.01	wind.v.05
+slå	VERB	beat.v.01	beat.v.03	hit.v.03	pulsate.v.01	punch.v.01
 lure	VERB	cheat.v.02
 gå_over	VERB	exceed.v.02	surpass.v.02
-overvelde	VERB	beat.v.01
+overvelde	VERB	overpower.v.01
 motsette_seg	VERB	resist.v.02
 storme	VERB	storm.v.05
 beskytte	VERB	protect.v.01
@@ -3343,12 +3343,12 @@ bevokte	VERB	guard.v.02
 passe	VERB	fit.v.07	guard.v.02	match.v.01	suit.v.02
 avfyre	VERB	fire.v.02	launch.v.02
 satse	VERB	bet.v.02
-kaste_bort	VERB	use.v.01	waste.v.01
+kaste_bort	VERB	waste.v.01	waste.v.02
 utnytte	VERB	exploit.v.01	exploit.v.02
 spise	VERB	eat.v.01
 suge	VERB	suck.v.01
 drikke	VERB	drink.v.01
-nippe	VERB	drink.v.01
+nippe	VERB	sip.v.01
 servere	VERB	serve.v.06
 trenge	VERB	want.v.02
 prøve	VERB	sample.v.01	try.v.01
@@ -3360,21 +3360,21 @@ gripe	VERB	catch.v.04	seize.v.01
 bære	VERB	bear.v.04	hold.v.10	transport.v.02
 støtte	VERB	hold.v.10	second.v.01
 snurre	VERB	spin.v.01	twist.v.04
-klappe	VERB	strike.v.01
-begrave	VERB	situate.v.02
+klappe	VERB	dab.v.02
+begrave	VERB	bury.v.03
 elte	VERB	knead.v.01
 treffe	VERB	hit.v.02
-smekke	VERB	close.v.01
+smekke	VERB	slam.v.01
 børste	VERB	brush.v.01
 pusse	VERB	polish.v.01
 gni	VERB	rub.v.01
 bløtgjøre	VERB	smooth.v.01
-amputere	VERB	remove.v.01
+amputere	VERB	amputate.v.01
 skjære_ut	VERB	carve.v.03
 brette	VERB	fold.v.01
-bøye	VERB	flex.v.05	move.v.03
-pakke_inn	VERB	cover.v.01
-løsne	VERB	undo.v.01
+bøye	VERB	flex.v.04	flex.v.05
+pakke_inn	VERB	wrap.v.01
+løsne	VERB	untie.v.01
 binde	VERB	bind.v.03
 risse	VERB	scratch.v.02
 skrape_av	VERB	scratch.v.02
@@ -3388,21 +3388,21 @@ dekke	VERB	cover.v.01
 feste	VERB	fasten.v.01
 lukke	VERB	close.v.01	close.v.04
 åpne	VERB	open.v.01
-låse	VERB	fasten.v.01
+låse	VERB	lock.v.01
 skru	VERB	screw.v.04
 forsegle	VERB	seal.v.01
 male	VERB	paint.v.01	paint.v.02
-knappe_opp	VERB	undo.v.01
+knappe_opp	VERB	unbutton.v.01
 rette	VERB	straighten.v.02
 sparke	VERB	kick.v.03
 strø	VERB	scatter.v.03
 plukke	VERB	pick.v.02
 piske	VERB	whip.v.04
-banke	VERB	beat.v.04	knock.v.02
+banke	VERB	knock.v.02	pulsate.v.01
 stoppe	VERB	plug.v.01
 omfamne	VERB	embrace.v.02
 kjæle	VERB	cuddle.v.01
-ale_opp	VERB	produce.v.02
+ale_opp	VERB	breed.v.03
 kysse	VERB	snog.v.01
 overføre	VERB	transfer.v.02	transmit.v.04
 levere	VERB	deliver.v.02
@@ -3414,7 +3414,7 @@ gi_etter	VERB	give.v.33
 transportere	VERB	haul.v.02	transport.v.01
 slepe	VERB	drag.v.01
 omringe	VERB	surround.v.01
-rote_sammen	VERB	disorder.v.02
+rote_sammen	VERB	scramble.v.03
 fange	VERB	capture.v.06
 henge	VERB	hang.v.02	loiter.v.01
 pakke	VERB	pack.v.01
@@ -3422,24 +3422,24 @@ sette	VERB	put.v.01
 merke_av	VERB	sign.v.06
 så	VERB	sow.v.01
 forlegge	VERB	misplace.v.01
-bryte	VERB	contend.v.06
+bryte	VERB	wrestle.v.04
 tiltrekke	VERB	attract.v.01	attract.v.02
-slynge	VERB	throw.v.01
+slynge	VERB	hurl.v.01
 kaste	VERB	flip.v.06	throw.v.01
 kyle	VERB	fling.v.01
-kjøre	VERB	function.v.01	run.v.13
+kjøre	VERB	roll.v.07	run.v.13
 skylle	VERB	rinse.v.01
-søle	VERB	move.v.02
-sitte	VERB	be.v.03	sit.v.01
-plassere	VERB	position.v.01	put.v.01
+søle	VERB	spill.v.03
+sitte	VERB	sit.v.01	sit.v.02
+plassere	VERB	position.v.01	seat.v.01
 legge	VERB	lay.v.02
-knele	VERB	rest.v.01
-stå	VERB	be.v.01	rest.v.01
-sage	VERB	cut.v.01
+knele	VERB	kneel.v.01
+stå	VERB	stand.v.01	stand.v.02
+sage	VERB	saw.v.01
 plante	VERB	plant.v.01
-smøre	VERB	cover.v.01	spread.v.10
+smøre	VERB	smother.v.01	spread.v.10
 montere	VERB	install.v.01
-halshogge	VERB	kill.v.01
+halshogge	VERB	decapitate.v.01
 gresse	VERB	crop.v.04
 dryppe	VERB	dribble.v.02
 lesse	VERB	load.v.04
@@ -3451,12 +3451,12 @@ lede	VERB	generate.v.01	head.v.02
 medføre	VERB	generate.v.01
 skape	VERB	create.v.02	generate.v.01
 forestille_seg	VERB	imagine.v.01
-oppdage	VERB	gestate.v.01
-spinne	VERB	create_from_raw_material.v.01
+oppdage	VERB	discover.v.03
+spinne	VERB	spin.v.05
 designe	VERB	design.v.04
 formgi	VERB	design.v.04
 bygge	VERB	manufacture.v.01	raise.v.09
-forfalske	VERB	fudge.v.01	re-create.v.01
+forfalske	VERB	forge.v.02	fudge.v.01
 danne	VERB	form.v.01	shape.v.02
 jevne_med_jorden	VERB	level.v.02
 bake	VERB	bake.v.02
@@ -3468,20 +3468,20 @@ kopiere	VERB	copy.v.04	imitate.v.01
 stave	VERB	spell.v.03
 komponere	VERB	compose.v.02
 danse	VERB	dance.v.02
-caste	VERB	delegate.v.02
+caste	VERB	cast.v.03
 filme	VERB	film.v.02
 opptre	VERB	perform.v.03
 drive	VERB	rehearse.v.01
 synge	VERB	sing.v.02
 gjenta	VERB	duplicate.v.01	repeat.v.05
-fotokopiere	VERB	reproduce.v.01
+fotokopiere	VERB	photocopy.v.01
 gjengi	VERB	reproduce.v.01
 reprodusere	VERB	reproduce.v.01
 etterligne	VERB	imitate.v.01
 herme	VERB	imitate.v.01
 publisere	VERB	print.v.01
 trykke	VERB	print.v.04
-utarbeide	VERB	make.v.03
+utarbeide	VERB	prepare.v.03
 berolige	VERB	calm.v.01
 bekymre_seg	VERB	care.v.01	worry.v.01
 grue	VERB	worry.v.01
@@ -3490,9 +3490,9 @@ opprøre	VERB	disturb.v.01
 sjokkere	VERB	disturb.v.01	shock.v.02
 bevege	VERB	move.v.11
 føle	VERB	feel.v.01
-avsky	VERB	dislike.v.01
+avsky	VERB	resent.v.01
 forakte	VERB	contemn.v.01
-elske	VERB	like.v.03	love.v.01
+elske	VERB	like.v.03	love.v.03
 bry_seg_om	VERB	like.v.03
 holde_av	VERB	like.v.03
 kunne_bruke	VERB	like.v.03
@@ -3504,7 +3504,7 @@ irritere	VERB	annoy.v.01
 fornærme	VERB	hurt.v.05	pique.v.01
 lide	VERB	hurt.v.06	suffer.v.03
 angre	VERB	repent.v.02
-savne	VERB	desire.v.01
+savne	VERB	miss.v.02
 trøste	VERB	comfort.v.01
 håpe	VERB	wish.v.01
 beundre	VERB	admire.v.01
@@ -3520,29 +3520,29 @@ vri_seg	VERB	writhe.v.01
 vriste	VERB	writhe.v.01
 skli	VERB	skid.v.04
 tvinge	VERB	coerce.v.01	push.v.01
-gynge	VERB	move.v.02	rock.v.01
+gynge	VERB	rock.v.01	rock.v.02
 vugge	VERB	rock.v.01
-svinge	VERB	move.v.02	swing.v.02	turn.v.01
-pulsere	VERB	beat.v.04
+svinge	VERB	swing.v.01	swing.v.02	turn.v.01
+pulsere	VERB	pulsate.v.01
 streife	VERB	roll.v.12
-vifte	VERB	shake.v.01
+vifte	VERB	fan.v.03
 krype	VERB	crawl.v.01	fawn.v.01
 gli	VERB	glide.v.01	slither.v.01
-liste	VERB	list.v.02	move.v.02	slither.v.01
+liste	VERB	list.v.02	slide.v.03	slither.v.01
 smette	VERB	steal.v.02
 riste	VERB	shake.v.01	tremble.v.01
 hoppe	VERB	bounce.v.03
-røre	VERB	move.v.02
-fare	VERB	run.v.01
-fly	VERB	fly.v.01	run.v.01
+røre	VERB	stir.v.01
+fare	VERB	scurry.v.01
+fly	VERB	fly.v.01	scurry.v.01
 flyte	VERB	float.v.02
 gå	VERB	elapse.v.01	walk.v.01
-løpe	VERB	pass.v.01	run.v.01
-vade	VERB	walk.v.01
+løpe	VERB	run.v.01	run.v.29
+vade	VERB	wade.v.01
 slentre	VERB	stroll.v.01
 spasere	VERB	stroll.v.01
 marsjere	VERB	march.v.03
-trå	VERB	travel.v.01	tread.v.02
+trå	VERB	step.v.02	tread.v.02
 parkere	VERB	park.v.02
 skøyte	VERB	skate.v.01
 seile	VERB	sail.v.03
@@ -3554,14 +3554,14 @@ stige_opp	VERB	rise.v.01
 synke	VERB	sink.v.05
 falle	VERB	fall.v.01
 løfte	VERB	raise.v.02
-velte	VERB	descend.v.01
+velte	VERB	tumble.v.01
 lande	VERB	land.v.01
-steile	VERB	change_posture.v.01
+steile	VERB	rear.v.01
 reise_seg	VERB	arise.v.03
 ligge	VERB	lie_down.v.01
-senke	VERB	move.v.02
-legge_seg	VERB	put.v.01
-synke_sammen	VERB	sag.v.01
+senke	VERB	sink.v.02
+legge_seg	VERB	settle.v.01
+synke_sammen	VERB	slump.v.01
 trekke_seg_tilbake	VERB	withdraw.v.01	withdraw.v.09
 følge	VERB	follow.v.01
 forfølge	VERB	chase.v.01
@@ -3572,14 +3572,14 @@ strømme	VERB	pour.v.02	pour.v.04	run.v.06
 vrimle	VERB	pour.v.02
 skille_seg	VERB	divorce.v.02	separate.v.09
 skråne	VERB	dip.v.09
-bukke	VERB	change_posture.v.01
+bukke	VERB	bow.v.03
 falle_sammen	VERB	crumble.v.01
 passere	VERB	pass.v.01	pass.v.07
 nærme_seg	VERB	approach.v.01
 sakke_akterut	VERB	drag.v.05
 skynde_seg	VERB	rush.v.01
-helle	VERB	pour.v.01	supply.v.01
-flyte_over	VERB	run.v.06
+helle	VERB	pour.v.01	pour.v.05
+flyte_over	VERB	spill.v.02
 utvide_seg	VERB	expand.v.01
 bringe	VERB	bring.v.01
 utbringe	VERB	bring.v.01
@@ -3587,8 +3587,8 @@ returnere	VERB	return.v.05
 dreie	VERB	turn.v.09
 oppfatte	VERB	perceive.v.01
 brenne	VERB	bite.v.02	burn.v.05
-stikke	VERB	hurt.v.06
-lukte	VERB	smell.v.01	smell.v.02
+stikke	VERB	prick.v.02
+lukte	VERB	smell.v.01	smell.v.02	smell.v.03
 beskue	VERB	watch.v.04
 betrakte	VERB	watch.v.04
 iaktta	VERB	watch.v.04
@@ -3598,20 +3598,20 @@ se	VERB	see.v.01
 kikke	VERB	look.v.01
 se_ut	VERB	look.v.02
 vise	VERB	exhibit.v.01	expose.v.03	uncover.v.01
-stemple	VERB	qualify.v.06
+stemple	VERB	stamp.v.03
 gjemme	VERB	hide.v.01	obscure.v.01	save.v.02
 skjule	VERB	hide.v.01	obscure.v.01
 demonstrere	VERB	demonstrate.v.04	show.v.01
 skumlese	VERB	scan.v.02
-granske	VERB	examine.v.02
+granske	VERB	size_up.v.01
 blinke	VERB	flash.v.01
 stråle	VERB	radiate.v.05
 skinne	VERB	glitter.v.01
 få_på_øye	VERB	spy.v.03
 høre	VERB	hear.v.01	listen.v.01
 lytte	VERB	listen.v.01
-klapre	VERB	sound.v.02
-rasle	VERB	sound.v.02
+klapre	VERB	rattle.v.01
+rasle	VERB	rattle.v.01	rustle.v.01
 gjenlyde	VERB	resonate.v.01
 smake	VERB	taste.v.02
 forære	VERB	give.v.08
@@ -3626,19 +3626,19 @@ droppe	VERB	dump.v.02
 avslå	VERB	refuse.v.02
 takke_nei	VERB	refuse.v.02
 oppnå	VERB	obtain.v.01
-ansette	VERB	engage.v.08	hire.v.01
-utpresse	VERB	overcharge.v.01
+ansette	VERB	hire.v.01	recruit.v.02
+utpresse	VERB	extort.v.02
 selge	VERB	sell.v.01	sell.v.02
 gjenfinne	VERB	recover.v.01
 forsikre	VERB	insure.v.04
 betale	VERB	pay.v.01
 skylde	VERB	owe.v.01
-kjøpslå	VERB	negociate.v.06
+kjøpslå	VERB	dicker.v.01
 overrekke	VERB	present.v.04
 donere	VERB	donate.v.01
 spare_opp	VERB	save.v.05
-flotte_seg	VERB	consume.v.03
-betle	VERB	request.v.01
+flotte_seg	VERB	splurge.v.01
+betle	VERB	beg.v.03
 beslaglegge	VERB	impound.v.01
 plagiere	VERB	plagiarize.v.01
 refundere	VERB	refund.v.01
@@ -3646,26 +3646,26 @@ tjene	VERB	gain.v.08	serve.v.07	service.v.01
 by	VERB	offer.v.07
 tilhøre	VERB	belong.v.01
 hente	VERB	collect.v.05
-samle_inn	VERB	collect.v.02
-befri	VERB	rid.v.01
+samle_inn	VERB	raise.v.04
+befri	VERB	relieve.v.08
 arve	VERB	inherit.v.01
 røve	VERB	rob.v.01
-låne	VERB	get.v.01	lend.v.02
+låne	VERB	borrow.v.01	lend.v.02
 utstyre	VERB	equip.v.01	supply.v.01
-blomstre	VERB	be.v.01	thrive.v.02
-belønne	VERB	act.v.01
-påskjønne	VERB	act.v.01	recognize.v.09
-premiere	VERB	act.v.01
+blomstre	VERB	shine.v.04	thrive.v.02
+belønne	VERB	reward.v.03
+påskjønne	VERB	recognize.v.09	reward.v.03
+premiere	VERB	reward.v.03
 importere	VERB	import.v.01
 eksportere	VERB	export.v.01
 ta_til_seg	VERB	adopt.v.02
-pantsette	VERB	consign.v.02
+pantsette	VERB	pawn.v.01
 gå_av	VERB	leave_office.v.01
 invitere	VERB	invite.v.02
 utnevne	VERB	appoint.v.01
 begunstige	VERB	prefer.v.03
 foretrekke	VERB	prefer.v.03
-screene	VERB	choose.v.01
+screene	VERB	screen.v.03
 si_opp	VERB	displace.v.03
 arbeide	VERB	work.v.02
 samarbeid	VERB	collaborate.v.01
@@ -3688,11 +3688,11 @@ anke	VERB	appeal.v.04
 straffe	VERB	punish.v.01
 utvise	VERB	exhibit.v.01	extradite.v.01
 forvise	VERB	banish.v.03
-hemmeligstemple	VERB	restrict.v.02
+hemmeligstemple	VERB	classify.v.02
 diskriminere	VERB	discriminate.v.02
 klare	VERB	pull_off.v.03
 bestå	VERB	pass.v.14
-nå	VERB	achieve.v.01	be.v.03
+nå	VERB	achieve.v.01	reach.v.06
 forsøke	VERB	try.v.01
 forråde	VERB	betray.v.02
 svike	VERB	betray.v.02
@@ -3707,8 +3707,8 @@ redde	VERB	rescue.v.01
 blokkere	VERB	obstruct.v.01
 benytte	VERB	practice.v.04
 bruke	VERB	practice.v.04
-foreta	VERB	confront.v.02
-bryte_inn	VERB	transgress.v.01
+foreta	VERB	undertake.v.02
+bryte_inn	VERB	break_in.v.01
 regjere	VERB	govern.v.03
 greie_seg	VERB	cope.v.01
 oppstå	VERB	originate.v.01
@@ -3728,14 +3728,14 @@ opprettholde	VERB	prolong.v.02
 opphøre	VERB	discontinue.v.01
 lokalisere	VERB	situate.v.01
 holde	VERB	hold.v.11
-veie	VERB	measure.v.03	quantify.v.02
+veie	VERB	weigh.v.01	weigh.v.03
 vare_ved	VERB	last.v.01
-ramme_inn	VERB	enclose.v.02
+ramme_inn	VERB	frame.v.02
 forutgå	VERB	predate.v.01
-utlikne	VERB	balance.v.01
+utlikne	VERB	offset.v.01
 antenne	VERB	ignite.v.01
 absorbere	VERB	absorb.v.06
-reflektere	VERB	emit.v.02
+reflektere	VERB	reflect.v.04
 fullstendig	ADJ	absolute.a.01
 relativ	ADJ	relative.a.01
 abstrakt	ADJ	abstract.a.01

@@ -12,7 +12,7 @@ alma	NOUN	person.n.01	spirit.n.04
 humano	NOUN	person.n.01
 individuo	NOUN	person.n.01
 mortal	NOUN	person.n.01
-persoa	NOUN	person.n.01	person.n.02
+persoa	NOUN	human_body.n.01	person.n.01
 ser_humano	NOUN	homo.n.02	person.n.01
 animal	NOUN	animal.n.01
 besta	NOUN	animal.n.01
@@ -73,12 +73,12 @@ fuga	NOUN	classical_music.n.01	running_away.n.01
 Underground_Railroad	NOUN	underground_railroad.n.01
 orgasmo	NOUN	orgasm.n.01
 realización_(persoal)	NOUN	self-fulfillment.n.01
-recaída	NOUN	failure.n.01
+recaída	NOUN	backsliding.n.01
 mala_avaliación	NOUN	mistake.n.01
 disparate	NOUN	blunder.n.01
 metedura_de_pata	NOUN	blunder.n.01
 adquisición	NOUN	acquisition.n.01	learning.n.01
-comercio	NOUN	commerce.n.01	shop.n.01	trading.n.01
+comercio	NOUN	commerce.n.01	shop.n.01	trade.n.01	trading.n.01
 compra	NOUN	buying.n.01	procurement.n.01
 confiscación	NOUN	seizure.n.04
 expropiación	NOUN	seizure.n.04
@@ -90,12 +90,12 @@ indulxencia	NOUN	indulgence.n.05
 xogos_malabares	NOUN	magic_trick.n.01
 cotobelada	NOUN	push.n.01
 chiscar	NOUN	blink_of_an_eye.n.01	reflex.n.01
-vómito	NOUN	body_waste.n.01	reflex.n.01
+vómito	NOUN	body_waste.n.01	expulsion.n.03
 tiroteo	NOUN	gunfire.n.01
 patada	NOUN	blow.n.01
 beixo	NOUN	kiss.n.01
 autopsia	NOUN	examination.n.01
-revisión	NOUN	examination.n.01
+revisión	NOUN	checkup.n.01
 cóxegas	NOUN	touch.n.05
 agarimo	NOUN	affection.n.01	touch.n.05
 aloumiño	NOUN	touch.n.05
@@ -108,21 +108,21 @@ vínculo	NOUN	joining.n.01
 soldadura	NOUN	alloy.n.01	fastening.n.02
 redescubrimento	NOUN	discovery.n.01
 diagnose	NOUN	diagnosis.n.01
-enroque	NOUN	move.n.05
-xaque_mate	NOUN	move.n.05
+enroque	NOUN	chess_move.n.01
+xaque_mate	NOUN	chess_move.n.01
 artificio	NOUN	ruse.n.01
 recurso	NOUN	asset.n.01	means.n.01
 recurso_transitorio	NOUN	means.n.01
 referendo	NOUN	referendum.n.01
 eleccións	NOUN	election.n.01
 voto	NOUN	assurance.n.02	vote.n.01
-cesárea	NOUN	act.n.02
+cesárea	NOUN	delivery.n.07
 cambio	NOUN	change.n.03
-redución	NOUN	decrease.n.04	economy.n.04
+redución	NOUN	decrease.n.04	retrenchment.n.02
 afastamento	NOUN	rejection.n.01
 evasión	NOUN	rejection.n.01
 prevención	NOUN	prevention.n.01	rejection.n.01
-boicot	NOUN	boycott.n.01
+boicot	NOUN	protest.n.02
 deportación	NOUN	exile.n.03
 exilio	NOUN	exile.n.03
 conclusión	NOUN	termination.n.05
@@ -141,7 +141,7 @@ carnizaría	NOUN	slaughter.n.03
 masacre	NOUN	slaughter.n.03
 matanza	NOUN	slaughter.n.03
 linchamento	NOUN	murder.n.01
-inmolación	NOUN	sacrifice.n.04
+inmolación	NOUN	killing.n.02
 abolición	NOUN	abolition.n.01
 aborto	NOUN	abortion.n.01
 natimorto	NOUN	abortion.n.01
@@ -158,7 +158,7 @@ purificación	NOUN	cleaning.n.01
 varredura	NOUN	cleaning.n.01
 catarse	NOUN	cleaning.n.01
 pasteurización	NOUN	cleaning.n.01
-tonsura	NOUN	cleaning.n.01	pate.n.02
+tonsura	NOUN	cleaning.n.01	top.n.02
 ablución	NOUN	ritual.n.02
 xampú	NOUN	care.n.01
 humanización	NOUN	humanization.n.01
@@ -166,13 +166,13 @@ progreso	NOUN	improvement.n.02
 remendo	NOUN	repair.n.01
 xentrificación	NOUN	restoration.n.02
 reconstrución	NOUN	reconstruction.n.02
-branqueo	NOUN	change_of_color.n.01
+branqueo	NOUN	change_of_state.n.01
 mastigación	NOUN	change_of_state.n.01
 andada	NOUN	walk.n.01
 camiñada	NOUN	walk.n.01	walk.n.04
 paseo	NOUN	walk.n.04
 galope	NOUN	locomotion.n.02
-progresión	NOUN	hike.n.01
+progresión	NOUN	walk.n.04
 turismo	NOUN	car.n.01	tourism.n.01
 ecoturismo	NOUN	tourism.n.01
 aviación	NOUN	air_travel.n.01
@@ -182,9 +182,9 @@ viaxe	NOUN	journey.n.01
 xornada	NOUN	journey.n.01
 odisea	NOUN	journey.n.01
 exploración	NOUN	exploration.n.01
-peregrinaxe	NOUN	journey.n.01
-romaría	NOUN	journey.n.01
-romería	NOUN	journey.n.01
+peregrinaxe	NOUN	pilgrimage.n.01
+romaría	NOUN	pilgrimage.n.01
+romería	NOUN	pilgrimage.n.01
 viaxe_de_pracer	NOUN	excursion.n.01
 ponte_aérea	NOUN	airlift.n.01
 alpinismo	NOUN	rise.n.02
@@ -225,12 +225,12 @@ malla	NOUN	grouping.n.02
 autotomía	NOUN	autotomy.n.01
 desfolla	NOUN	removal.n.01
 drenaxe	NOUN	drain.n.01
-saneamento	NOUN	drain.n.01	sanitary_condition.n.01
+saneamento	NOUN	drain.n.01	sanitariness.n.01
 censura	NOUN	removal.n.01
-forestación	NOUN	conversion.n.09
-silvicultura	NOUN	conversion.n.09	forestry.n.01	silviculture.n.01
+forestación	NOUN	change.n.03
+silvicultura	NOUN	biology.n.01	change.n.03	silviculture.n.01
 reforestación	NOUN	reclamation.n.01
-ferida	NOUN	bruise.n.01	damage.n.03	injury.n.01
+ferida	NOUN	bruise.n.01	change_of_integrity.n.01	injury.n.01
 actualización	NOUN	change.n.03
 actividade	NOUN	activity.n.01	natural_process.n.01
 aperta	NOUN	hug.n.01
@@ -240,9 +240,9 @@ pogrom	NOUN	persecution.n.01
 tortura	NOUN	torture.n.05
 barbarie	NOUN	maltreatment.n.01
 brutalidade	NOUN	maltreatment.n.01
-caza_de_bruxas	NOUN	mistreatment.n.01
-colonialismo	NOUN	exploitation.n.02
-colonización	NOUN	colonization.n.01	exploitation.n.02
+caza_de_bruxas	NOUN	harassment.n.02
+colonialismo	NOUN	mistreatment.n.01
+colonización	NOUN	colonization.n.01	mistreatment.n.01
 neocolonialismo	NOUN	neocolonialism.n.01
 festa	NOUN	celebration.n.02	party.n.02	party.n.04
 festividade	NOUN	celebration.n.02
@@ -335,13 +335,13 @@ organización_da_casa	NOUN	work.n.01
 carga_de_traballo	NOUN	employment.n.02
 explotación_forestal	NOUN	work.n.01
 documentos_administrativos	NOUN	work.n.01
-e-traballo	NOUN	telecommuting.n.01
+e-traballo	NOUN	employment.n.02
 cargo	NOUN	position.n.06
 ocupación	NOUN	position.n.06
 posición	NOUN	condition.n.01	position.n.04	position.n.06	position.n.07	position.n.09
 posto	NOUN	position.n.06
 apostolado	NOUN	apostleship.n.01
-aprendizaxe	NOUN	apprenticeship.n.01	learning.n.01
+aprendizaxe	NOUN	learning.n.01	position.n.06
 califato	NOUN	position.n.06
 presidencia	NOUN	position.n.06
 xefatura	NOUN	position.n.06
@@ -358,7 +358,7 @@ esforzo	NOUN	effort.n.02	striving.n.01
 esgotamento	NOUN	labor.n.02
 adestramento	NOUN	exercise.n.01
 exercicio_físico	NOUN	exercise.n.01
-aeróbic	NOUN	aerobics.n.01
+aeróbic	NOUN	exercise.n.01
 culturismo	NOUN	bodybuilding.n.01
 consultoría	NOUN	practice.n.04
 gabinete	NOUN	practice.n.04
@@ -374,7 +374,7 @@ plasmaférese	NOUN	plasmapheresis.n.01
 plaquetoaférese	NOUN	plateletpheresis.n.01
 vixilancia	NOUN	monitoring.n.01	surveillance.n.01
 censo	NOUN	census.n.01
-espionaxe	NOUN	information_gathering.n.01	spying.n.02
+espionaxe	NOUN	information_gathering.n.01	intelligence.n.05
 atención_médica	NOUN	medical_care.n.01
 axuda_médica	NOUN	medical_care.n.01
 coidado_médico	NOUN	medical_care.n.01
@@ -383,12 +383,12 @@ manicura	NOUN	beauty_treatment.n.01
 terapia	NOUN	therapy.n.01
 galvanismo	NOUN	therapy.n.01
 amputación	NOUN	medical_procedure.n.01
-intervención	NOUN	operation.n.06
-operación	NOUN	mathematical_process.n.01	operation.n.04	operation.n.06
-operación_cirúrxica	NOUN	operation.n.06
+intervención	NOUN	medical_procedure.n.01
+operación	NOUN	mathematical_process.n.01	medical_procedure.n.01	operation.n.04
+operación_cirúrxica	NOUN	medical_procedure.n.01
 irrigación	NOUN	irrigation.n.02
 flebotomía	NOUN	medical_care.n.01
-inundación	NOUN	flood.n.02	implosion_therapy.n.01
+inundación	NOUN	batch.n.02	behavior_therapy.n.01
 psicanálise	NOUN	psychoanalysis.n.01
 acupuntura	NOUN	treatment.n.01
 homeopatía	NOUN	medical_care.n.01
@@ -425,7 +425,7 @@ crime	NOUN	crime.n.01
 delito	NOUN	crime.n.01
 quebrantamento	NOUN	crime.n.01
 cibercriminalidade	NOUN	crime.n.01
-secuestro	NOUN	capture.n.04
+secuestro	NOUN	kidnapping.n.01
 corrupción	NOUN	felony.n.01
 suborno	NOUN	felony.n.01	payment.n.01
 malversación_de_fondos	NOUN	larceny.n.01
@@ -469,8 +469,8 @@ procreación	NOUN	reproduction.n.05
 reprodución	NOUN	replica.n.01	reproduction.n.05
 hibridación	NOUN	hybridization.n.01
 endogamia	NOUN	coupling.n.03
-anticoncepción	NOUN	birth_control.n.01
-método_anticonceptivo	NOUN	birth_control.n.01
+anticoncepción	NOUN	planning.n.01
+método_anticonceptivo	NOUN	planning.n.01
 preliminares	NOUN	sexual_activity.n.01
 cunnilingus	NOUN	oral_sex.n.01
 felación	NOUN	fellatio.n.01
@@ -495,7 +495,7 @@ salaio	NOUN	bodily_process.n.01	utterance.n.01
 operación_matemática	NOUN	mathematical_process.n.01
 proceso_matemático	NOUN	mathematical_process.n.01
 suma	NOUN	summation.n.04
-resolución	NOUN	decision_making.n.01	judgment.n.02	quality.n.01
+resolución	NOUN	certainty.n.02	decision_making.n.01	judgment.n.02
 ollada	NOUN	gaze.n.01	glance.n.01	look.n.02
 mirada	NOUN	stare.n.01
 control	NOUN	monitoring.n.01	stop.n.05
@@ -556,7 +556,7 @@ revolta	NOUN	rebellion.n.02
 motín	NOUN	rebellion.n.02
 pillaxe	NOUN	plundering.n.01
 saqueo	NOUN	loot.n.01	plundering.n.01
-rapina	NOUN	rape.n.02
+rapina	NOUN	plundering.n.01
 guerra	NOUN	war.n.01
 loita_armada	NOUN	war.n.01
 ofensiva	NOUN	offense.n.05
@@ -570,7 +570,7 @@ oficialización	NOUN	organization.n.06
 alternancia	NOUN	alternation.n.01
 concoloxía	NOUN	biology.n.01
 numismática	NOUN	collection.n.04
-filatelia	NOUN	philately.n.01
+filatelia	NOUN	collection.n.04
 aerofilatelia	NOUN	aerophilately.n.01
 copia	NOUN	copying.n.01
 reprografía	NOUN	copying.n.01
@@ -618,15 +618,15 @@ contrabando	NOUN	commerce.n.01	merchandise.n.01
 merchandising	NOUN	selling.n.01
 prepagamento	NOUN	payment.n.02
 política	NOUN	policy.n.02	transaction.n.01
-ordenamento_xurídico	NOUN	government.n.02
-despenalización	NOUN	government.n.02
-aculturación	NOUN	social_control.n.01
+ordenamento_xurídico	NOUN	legislation.n.02
+despenalización	NOUN	legislation.n.02
+aculturación	NOUN	socialization.n.03
 xestión_inadecuada	NOUN	management.n.01
 supervisión	NOUN	supervision.n.01
 autoorganización	NOUN	organization.n.04
 toma_do_poder	NOUN	authorization.n.04
 tolerancia	NOUN	license.n.04
-quentamento	NOUN	warm-up.n.01
+quentamento	NOUN	preparation.n.01
 medida_enérxica	NOUN	suppression.n.03
 regulamentación	NOUN	regimentation.n.01
 cordialidade	NOUN	disposition.n.01	social_control.n.01
@@ -643,7 +643,7 @@ desarme	NOUN	social_control.n.01
 desmobilización	NOUN	social_control.n.01
 desestabilización	NOUN	action.n.01
 castigo	NOUN	punishment.n.01
-decapitación	NOUN	punishment.n.01
+decapitación	NOUN	corporal_punishment.n.01
 trade-off	NOUN	exchange.n.03
 competencia	NOUN	competence.n.01	competition.n.03	expertness.n.01
 rivalidade	NOUN	competition.n.03	hostility.n.03
@@ -658,7 +658,7 @@ impacto	NOUN	blow.n.01
 martelada	NOUN	blow.n.01
 mancadura	NOUN	fight.n.02
 palestra	NOUN	fight.n.02
-protesta	NOUN	cry.n.01	expostulation.n.01	protest.n.02
+protesta	NOUN	communication.n.01	cry.n.01	protest.n.02
 Boston_Tea_Party	NOUN	boston_tea_party.n.01
 sentada	NOUN	direct_action.n.01
 demanda	NOUN	lawsuit.n.01
@@ -670,7 +670,7 @@ trámite_xudicial	NOUN	proceeding.n.01
 adopción	NOUN	adoption.n.02
 naturalización	NOUN	proceeding.n.01
 decision_xudicial	NOUN	judgment.n.03
-arbitrio	NOUN	judgment.n.03
+arbitrio	NOUN	arbitration.n.02
 sentenza	NOUN	opinion.n.05
 fatwa	NOUN	opinion.n.05
 veredito	NOUN	verdict.n.01
@@ -681,7 +681,7 @@ cooperación	NOUN	cooperation.n.01
 traballo_en_equipo	NOUN	cooperation.n.01
 achegamento	NOUN	cooperation.n.01
 sacrificio	NOUN	cooperation.n.01
-gardería_infantil	NOUN	service.n.02
+gardería_infantil	NOUN	childcare.n.01
 defensa	NOUN	advocacy.n.01
 patrocinio	NOUN	sponsorship.n.01
 sosego	NOUN	support.n.02	tranquillity.n.02
@@ -706,19 +706,19 @@ democratización	NOUN	group_action.n.01
 descentralición	NOUN	spread.n.10
 descentralización	NOUN	spread.n.10
 sabotaxe	NOUN	sabotage.n.01
-xenocidio	NOUN	killing.n.02
+xenocidio	NOUN	genocide.n.01
 holocausto	NOUN	destruction.n.01
 emboscada	NOUN	ambush.n.01
 emancipación	NOUN	liberation.n.01
 liberación	NOUN	liberation.n.01
-amnistía	NOUN	clemency.n.02
+amnistía	NOUN	amnesty.n.03
 vandalismo	NOUN	mischief.n.01
 reasentamento	NOUN	transportation.n.02
 cántico	NOUN	hymn.n.01	religious_song.n.01	singing.n.01
 canto_dos_salmos	NOUN	psalmody.n.01
 solfexo	NOUN	solmization.n.02
-espertar	NOUN	arousal.n.01
-toma_de_conciencia	NOUN	arousal.n.01
+espertar	NOUN	awakening.n.01
+toma_de_conciencia	NOUN	awakening.n.01
 xenotransplante	NOUN	xenotransplant.n.01
 Batalla_de_Buena_Vista	NOUN	buena_vista.n.01
 Bull_Run	NOUN	bull_run.n.01	bull_run.n.02
@@ -789,7 +789,7 @@ Gnathostomata	NOUN	gnathostomata.n.01
 quenlla	NOUN	shark.n.01
 ave	NOUN	bird.n.01
 familia_das_aves	NOUN	family.n.06
-xénero_das_aves	NOUN	bird_genus.n.01
+xénero_das_aves	NOUN	genus.n.02
 archaeopteryx	NOUN	bird.n.01
 avestruz	NOUN	bird.n.01
 moa	NOUN	back_tooth.n.01	bird.n.01	tooth.n.01
@@ -799,8 +799,8 @@ pimpín_común	NOUN	oscine.n.01
 liñaceiro_común	NOUN	oscine.n.01
 escribenta_amarela	NOUN	yellowhammer.n.02
 pita	NOUN	passerine.n.01
-reiseñor	NOUN	thrush.n.03
-rousinol	NOUN	thrush.n.03
+reiseñor	NOUN	oscine.n.01
+rousinol	NOUN	oscine.n.01
 papoazul	NOUN	bluethroat.n.01
 polioptilinae	NOUN	oscine.n.01
 estreliña_do_norte	NOUN	oscine.n.01
@@ -811,10 +811,10 @@ estorniño	NOUN	oscine.n.01
 corvo	NOUN	oscine.n.01
 gralla_cereixeira	NOUN	oscine.n.01
 choia	NOUN	oscine.n.01
-falcón	NOUN	hawk.n.01
+falcón	NOUN	bird_of_prey.n.01
 falcón_albar	NOUN	gyrfalcon.n.01
 aguia	NOUN	bird_of_prey.n.01
-aguia_peixeira	NOUN	hawk.n.01
+aguia_peixeira	NOUN	bird_of_prey.n.01
 cóndor	NOUN	bird_of_prey.n.01
 xénero_dos_anfibios	NOUN	amphibian_genus.n.01
 anfibio	NOUN	amphibian.n.03
@@ -832,12 +832,12 @@ salientio	NOUN	frog.n.01
 sapo	NOUN	frog.n.01
 gymnophiona	NOUN	amphibian.n.03
 familia_dos_réptiles	NOUN	family.n.06
-xénero_dos_réptiles	NOUN	reptile_genus.n.01
+xénero_dos_réptiles	NOUN	genus.n.02
 réptil	NOUN	reptile.n.01
 anapsida	NOUN	anapsid.n.01
 diapsida	NOUN	diapsid.n.01
-sapoconcho	NOUN	anapsid.n.01
-tartaruga	NOUN	anapsid.n.01
+sapoconcho	NOUN	chelonian.n.01
+tartaruga	NOUN	anapsid.n.01	chelonian.n.01
 Chelydridae	NOUN	chelydridae.n.01
 Kinosternidae	NOUN	kinosternidae.n.01
 Emydidae	NOUN	emydidae.n.01
@@ -920,7 +920,7 @@ wallaby	NOUN	mammal.n.01
 koala	NOUN	mammal.n.01
 wombat	NOUN	mammal.n.01
 tigre_de_tasmania	NOUN	thylacine.n.01
-Placentarios	NOUN	class.n.07
+Placentarios	NOUN	taxonomic_group.n.01
 euterio	NOUN	placental.n.01
 mamífero_euterio	NOUN	placental.n.01
 mamífero_placentario	NOUN	placental.n.01
@@ -951,7 +951,7 @@ poliqueto	NOUN	worm.n.01
 familia_dos_moluscos	NOUN	mollusk_family.n.01
 xénero_dos_moluscos	NOUN	genus.n.02
 molusco	NOUN	mollusk.n.01
-Gasterópodos	NOUN	class.n.07
+Gasterópodos	NOUN	taxonomic_group.n.01
 gasterópodos	NOUN	gastropod.n.01
 gastrópodos	NOUN	gastropod.n.01
 univalvos	NOUN	gastropod.n.01
@@ -965,7 +965,7 @@ poliplacóforo	NOUN	mollusk.n.01
 bivalvos	NOUN	mollusk.n.01
 lamelibranquios	NOUN	mollusk.n.01
 pelecípodos	NOUN	mollusk.n.01
-cuncha_mariña	NOUN	covering.n.01
+cuncha_mariña	NOUN	shell.n.10
 ostra	NOUN	mollusk.n.01
 Pectínidos	NOUN	pectinidae.n.01
 polbo	NOUN	mollusk.n.01
@@ -1015,7 +1015,7 @@ terrier	NOUN	hunting_dog.n.01
 Alano_Alemán	NOUN	great_dane.n.01
 Dogo_Alemán	NOUN	great_dane.n.01
 Gran_Danés	NOUN	great_dane.n.01
-husky	NOUN	working_dog.n.01
+husky	NOUN	dog.n.01
 cadeliño	NOUN	dog.n.01
 caniche	NOUN	dog.n.01
 hiena	NOUN	canine.n.02
@@ -1044,7 +1044,7 @@ piollo	NOUN	insect.n.01
 pulga	NOUN	parasite.n.01
 mosca	NOUN	fly.n.01
 mosquito	NOUN	mosquito.n.01
-abella	NOUN	hymenopterous_insect.n.01
+abella	NOUN	bee.n.01
 avespa	NOUN	hymenopterous_insect.n.01
 avéspora	NOUN	hymenopterous_insect.n.01
 formiga	NOUN	ant.n.01
@@ -1074,16 +1074,16 @@ estrelamar	NOUN	invertebrate.n.01
 lebre	NOUN	leporid.n.01
 roedor	NOUN	rodent.n.01
 rato	NOUN	mouse.n.01
-rata	NOUN	rodent.n.01
+rata	NOUN	rat.n.01
 hámster	NOUN	rodent.n.01
 porco_espiño	NOUN	rodent.n.01
 esquío	NOUN	squirrel.n.01
-castor	NOUN	facial_hair.n.01	rodent.n.01
+castor	NOUN	beard.n.01	rodent.n.01
 ubre	NOUN	mammary_gland.n.01
 ungulado	NOUN	ungulate.n.01
 cabalo	NOUN	horse.n.01
 Equus_caballus	NOUN	horse.n.01
-cabalo_castrado	NOUN	male.n.01
+cabalo_castrado	NOUN	male_horse.n.01
 palafrén	NOUN	saddle_horse.n.01
 corcel	NOUN	saddle_horse.n.01
 cabalo_de_carreiras	NOUN	horse.n.01
@@ -1106,7 +1106,7 @@ babirusa	NOUN	babirusa.n.01
 Hipopótamo	NOUN	hippopotamidae.n.01
 ruminante	NOUN	ruminant.n.01
 rume	NOUN	rumen.n.01
-libro	NOUN	book.n.01	book.n.02	book.n.10	psalterium.n.01
+libro	NOUN	book.n.01	book.n.02	section.n.01	stomach.n.01
 calleiro	NOUN	abomasum.n.01
 bois	NOUN	cattle.n.01
 Bos_taurus	NOUN	cattle.n.01
@@ -1212,15 +1212,15 @@ calella	NOUN	street.n.01
 canella	NOUN	street.n.01
 ruela	NOUN	street.n.01
 caxato_(de_alpinista)	NOUN	alpenstock.n.01
-alprazolam	NOUN	sedative.n.01
+alprazolam	NOUN	medicine.n.02
 altar	NOUN	table.n.02
-retablo	NOUN	screen.n.09
+retablo	NOUN	partition.n.01
 altímetro	NOUN	measuring_instrument.n.01
 ambulancia	NOUN	ambulance.n.01
 xirola	NOUN	ambulatory.n.01
 American_Stock_Exchange	NOUN	american_stock_exchange.n.01
 amperímetro	NOUN	meter.n.02
-amobarbital	NOUN	sedative.n.01
+amobarbital	NOUN	anesthetic.n.01
 amoxicilina	NOUN	antibiotic.n.01
 anfetamina	NOUN	amphetamine.n.01
 anfiteatro	NOUN	stadium.n.01
@@ -1230,7 +1230,7 @@ etapa_de_potencia	NOUN	amplifier.n.01
 amuleto	NOUN	object.n.01
 talismán	NOUN	object.n.01
 áncora	NOUN	mechanical_device.n.01
-anemómetro	NOUN	gauge.n.01
+anemómetro	NOUN	measuring_instrument.n.01
 anestesia	NOUN	anesthetic.n.01	physical_condition.n.01
 anexo	NOUN	adnexa.n.01	annex.n.01
 antibiótico	NOUN	antibacterial.n.01	antibiotic.n.01
@@ -1261,7 +1261,7 @@ pasadizo	NOUN	arch.n.03
 arquitrabe	NOUN	molding.n.02
 arquivo	NOUN	archive.n.01
 fondo	NOUN	archive.n.01	structure.n.04
-chanclo	NOUN	arctic.n.02
+chanclo	NOUN	footwear.n.02
 arca	NOUN	boat.n.01
 butaca	NOUN	chair.n.01
 armadura	NOUN	armor.n.01	framework.n.03
@@ -1292,7 +1292,7 @@ brosa	NOUN	ax.n.01
 eixe	NOUN	axle.n.01	bone.n.01
 eixo	NOUN	axle.n.01
 decorado_de_fondo	NOUN	backdrop.n.01
-mochila	NOUN	backpack.n.01
+mochila	NOUN	bag.n.01
 maleta	NOUN	bag.n.06
 equipaxe	NOUN	baggage.n.01
 baño_de_maría	NOUN	container.n.01
@@ -1307,7 +1307,7 @@ banda	NOUN	band.n.07
 Band_Aid	NOUN	band_aid.n.01
 pano	NOUN	fabric.n.01	piece_of_cloth.n.01	scarf.n.01
 palco	NOUN	platform.n.01
-quincalla	NOUN	adornment.n.01
+quincalla	NOUN	bangle.n.02
 banjo	NOUN	stringed_instrument.n.01
 balaustrada	NOUN	barrier.n.01
 balaústre	NOUN	barrier.n.01
@@ -1315,7 +1315,7 @@ pasamán	NOUN	barrier.n.01
 varanda	NOUN	barrier.n.01
 pesa	NOUN	weight.n.02
 perruquería	NOUN	shop.n.01
-barbitúrico	NOUN	sedative.n.01
+barbitúrico	NOUN	medicine.n.02
 barómetro	NOUN	measuring_instrument.n.01
 atranco	NOUN	barrier.n.01	reverse.n.03
 barreira	NOUN	barrier.n.01
@@ -1326,13 +1326,13 @@ tuba	NOUN	bass.n.07
 fagot	NOUN	beating-reed_instrument.n.01
 Bastilla	NOUN	bastille.n.01
 cidadela	NOUN	stronghold.n.01
-bata	NOUN	robe.n.01
+bata	NOUN	garment.n.01
 bañeira	NOUN	bathtub.n.01
 pía	NOUN	bathtub.n.01
 amea	NOUN	rampart.n.01
 acoirazado	NOUN	warship.n.01
 bazar	NOUN	marketplace.n.02
-faro	NOUN	beacon.n.03	headlight.n.01
+faro	NOUN	beacon.n.03	light.n.02
 trabe	NOUN	beam.n.02
 viga	NOUN	beam.n.02
 cama	NOUN	bed.n.01
@@ -1361,7 +1361,7 @@ bobina	NOUN	bobbin.n.01
 palillo	NOUN	bobbin.n.01
 catafracto	NOUN	body_armor.n.01
 bomba	NOUN	bomb.n.01
-bombardeiro	NOUN	bomber.n.01
+bombardeiro	NOUN	military_vehicle.n.01
 minibomba	NOUN	bomb.n.01
 castañola	NOUN	percussion_instrument.n.01
 exemplar	NOUN	book.n.02
@@ -1370,11 +1370,11 @@ biblioteca	NOUN	furniture.n.01	library.n.05
 libraría	NOUN	bookshop.n.01	furniture.n.01
 librería	NOUN	bookshop.n.01	furniture.n.01
 andel	NOUN	shelf.n.01
-quiosco	NOUN	booth.n.02	shop.n.01
+quiosco	NOUN	booth.n.02	stall.n.03
 botella	NOUN	bottle.n.01
 buque_de_carga	NOUN	ship.n.01
 toucador	NOUN	bedroom.n.01
-ramallete_de_flores	NOUN	flower_arrangement.n.01
+ramallete_de_flores	NOUN	decoration.n.01
 tenda	NOUN	boutique.n.01	shop.n.01	tent.n.01	tentorium.n.01
 proa	NOUN	bow.n.03
 sostén	NOUN	brassiere.n.01
@@ -1385,7 +1385,7 @@ cervexaría	NOUN	brewery.n.01
 cervexeira	NOUN	brewery.n.01
 cervexería	NOUN	brewery.n.01
 ladrillo	NOUN	brick.n.01
-portadocumentos	NOUN	case.n.05
+portadocumentos	NOUN	briefcase.n.01
 broche	NOUN	hasp.n.01	jewelry.n.01
 Ponte_de_Brooklyn	NOUN	brooklyn_bridge.n.01
 Universidade_Brown	NOUN	brown_university.n.01
@@ -1396,7 +1396,7 @@ inmoble	NOUN	building.n.01
 aplanadora	NOUN	tractor.n.01
 bulldozer	NOUN	tractor.n.01
 topadora	NOUN	tractor.n.01
-corrida	NOUN	representation.n.02
+corrida	NOUN	display.n.03
 cabana	NOUN	bungalow.n.01
 casa	NOUN	bungalow.n.01	family.n.01
 sartego	NOUN	burial_chamber.n.01
@@ -1409,7 +1409,7 @@ contraforte	NOUN	support.n.07
 corredoira	NOUN	road.n.01
 taxi	NOUN	cab.n.03
 club_nocturno	NOUN	cabaret.n.01
-cable	NOUN	conductor.n.04
+cable	NOUN	cable.n.02
 caché	NOUN	memory_device.n.01
 cafetaría	NOUN	cafe.n.01
 cafetería	NOUN	restaurant.n.01
@@ -1438,7 +1438,7 @@ caravasar	NOUN	hostel.n.01
 carabina	NOUN	rifle.n.01
 cargamento	NOUN	cargo.n.01
 Universidade_Carnegie_Mellon	NOUN	carnegie_mellon_university.n.01
-carro	NOUN	cart.n.01	dray.n.01
+carro	NOUN	dray.n.01	wagon.n.01
 cariátide	NOUN	caryatid.n.01
 vidreira	NOUN	framework.n.03
 casete	NOUN	cassette.n.01
@@ -1454,18 +1454,18 @@ violoncello	NOUN	cello.n.01
 papel_celofán	NOUN	wrapping.n.01
 botafumeiro	NOUN	vessel.n.03
 incensario	NOUN	vessel.n.03
-cloaca	NOUN	cesspool.n.01	cloaca.n.01
+cloaca	NOUN	cloaca.n.01	pool.n.01
 cadeira	NOUN	chair.n.01	hip.n.01	pelvis.n.01
 cáliz	NOUN	cup.n.01
-coro	NOUN	chancel.n.01
+coro	NOUN	area.n.05
 punteiro	NOUN	pipe.n.04
 capela	NOUN	blood.n.01	chapel.n.01
 casula	NOUN	gown.n.05
-consigna	NOUN	checkroom.n.01	motto.n.01
+consigna	NOUN	motto.n.01	room.n.01
 claroscuro	NOUN	picture.n.01
 gasa	NOUN	fabric.n.01
 cómoda	NOUN	chest_of_drawers.n.01
-cheminea	NOUN	conduit.n.01	fireplace.n.01
+cheminea	NOUN	chimney.n.01	fireplace.n.01
 chip	NOUN	chip.n.07
 chip_electrónico	NOUN	chip.n.07
 clordiacepóxido	NOUN	chlordiazepoxide.n.01
@@ -1478,7 +1478,7 @@ xaruto	NOUN	cigar.n.01
 tabaco	NOUN	cigarette.n.01	tobacco.n.02
 clarinete	NOUN	clarinet.n.01
 aula	NOUN	classroom.n.01
-clase	NOUN	class.n.07	classroom.n.01	kind.n.01
+clase	NOUN	classroom.n.01	kind.n.01	taxonomic_group.n.01
 clavicordio	NOUN	keyboard_instrument.n.01
 capa	NOUN	cloak.n.02	membrane.n.02
 manto	NOUN	cloak.n.02	headful.n.02	stratum.n.01
@@ -1527,7 +1527,7 @@ convertedor	NOUN	converter.n.01
 transporte	NOUN	conveyance.n.03
 útiles_de_cociña	NOUN	cooking_utensil.n.01
 Cooper_Union	NOUN	cooper_union.n.01
-canzorro	NOUN	support.n.10
+canzorro	NOUN	bracket.n.04
 adival	NOUN	cord.n.01
 corda	NOUN	cord.n.01
 Universidade_de_Cornell	NOUN	cornell_university.n.01
@@ -1538,8 +1538,8 @@ corredor	NOUN	corridor.n.01	passageway.n.01
 corsé	NOUN	undergarment.n.01
 corveta	NOUN	warship.n.01
 cosmético	NOUN	cosmetic.n.01
-contrapeso	NOUN	weight.n.04
-contrapoder	NOUN	weight.n.04
+contrapeso	NOUN	counterweight.n.01
+contrapoder	NOUN	counterweight.n.01
 patio	NOUN	court.n.10	patio.n.01
 colcha	NOUN	bedclothes.n.01
 cárter	NOUN	housing.n.02
@@ -1578,22 +1578,22 @@ ornamento	NOUN	decoration.n.01
 escritorio	NOUN	desk.n.01
 mesa	NOUN	desk.n.01
 detector	NOUN	detector.n.01
-deterxente	NOUN	chemical_agent.n.01	cleansing_agent.n.01
+deterxente	NOUN	agent.n.03	cleansing_agent.n.01
 desintoxicación	NOUN	block.n.05
 mecanismo	NOUN	device.n.01
 diagrama	NOUN	diagram.n.01
 cueiro	NOUN	diaper.n.01
-diacepam	NOUN	sedative.n.01
+diacepam	NOUN	medicine.n.02
 dado	NOUN	die.n.01
 diesel	NOUN	diesel.n.02
-consolador	NOUN	dildo.n.01
+consolador	NOUN	vibrator.n.02
 chalana	NOUN	small_boat.n.01
 díodo	NOUN	semiconductor_device.n.01
 dirndl	NOUN	dirndl.n.01
 discoteca	NOUN	ballroom.n.01
 lavalouza	NOUN	white_goods.n.01
 disquete	NOUN	magnetic_disk.n.01
-dispensario	NOUN	clinic.n.03
+dispensario	NOUN	medical_building.n.01
 destilaría	NOUN	distillery.n.01
 destilería	NOUN	distillery.n.01
 distribuidor	NOUN	electrical_device.n.01	supplier.n.01
@@ -1614,8 +1614,8 @@ droga	NOUN	drug.n.01
 fármaco	NOUN	drug.n.01
 medicamento	NOUN	drug.n.01	medicine.n.02
 menciña	NOUN	drug.n.01	medicine.n.02
-membranófono	NOUN	drum.n.01
-tambor	NOUN	drum.n.01
+membranófono	NOUN	percussion_instrument.n.01
+tambor	NOUN	percussion_instrument.n.01
 Universidade_Duke	NOUN	duke_university.n.01
 morada	NOUN	dwelling.n.01
 dinamita	NOUN	explosive.n.01
@@ -1669,7 +1669,7 @@ xerra	NOUN	flagon.n.01
 mallo	NOUN	implement.n.01
 mosquete	NOUN	firearm.n.01
 fliscorno	NOUN	brass.n.02
-frauta	NOUN	woodwind.n.01
+frauta	NOUN	flute.n.01
 volante_de_inercia	NOUN	governor.n.02
 pasarela	NOUN	bridge.n.01
 fragua	NOUN	workplace.n.01
@@ -1688,7 +1688,7 @@ moble	NOUN	furniture.n.01
 mobles	NOUN	furniture.n.01
 gablete	NOUN	wall.n.01
 galeón	NOUN	sailing_vessel.n.01
-forca	NOUN	instrument_of_execution.n.01
+forca	NOUN	instrument.n.01
 galvanómetro	NOUN	meter.n.02
 xardín	NOUN	garden.n.01
 peza_de_roupa	NOUN	garment.n.01
@@ -1773,7 +1773,7 @@ choupana	NOUN	hovel.n.01
 choza	NOUN	hovel.n.01
 tugurio	NOUN	hovel.n.01
 aeroescorregador	NOUN	craft.n.02
-higrómetro	NOUN	hygrometer.n.01
+higrómetro	NOUN	measuring_instrument.n.01
 crebaxeos	NOUN	ship.n.01
 iconografía	NOUN	picture.n.01
 iglú	NOUN	hovel.n.01
@@ -1811,7 +1811,7 @@ caqui	NOUN	fabric.n.01
 forno_pequeno	NOUN	furnace.n.01
 kilt	NOUN	skirt.n.02
 saia_escocesa	NOUN	skirt.n.02
-quimono	NOUN	robe.n.01
+quimono	NOUN	garment.n.01
 Quinetoscopio	NOUN	kinetoscope.n.01
 cociña	NOUN	cuisine.n.01	kitchen.n.01
 aparello_de_cociña	NOUN	kitchen_appliance.n.01
@@ -1850,7 +1850,7 @@ sala	NOUN	living_room.n.01
 salón	NOUN	living_room.n.01
 locomotora	NOUN	locomotive.n.01
 tear	NOUN	machine.n.01
-loracepam	NOUN	sedative.n.01
+loracepam	NOUN	medicine.n.02
 impertinente	NOUN	lorgnette.n.01
 altofalante	NOUN	loudspeaker.n.01
 lugre	NOUN	boat.n.01
@@ -1945,10 +1945,10 @@ opio	NOUN	narcotic.n.01
 osciloscopio	NOUN	electronic_equipment.n.01
 casiña	NOUN	outbuilding.n.01
 saínte	NOUN	ledge.n.01	projection.n.04
-chanco	NOUN	overshoe.n.01
+chanco	NOUN	footwear.n.02
 caderno	NOUN	pad.n.04
 picadeiro	NOUN	pen.n.02
-cadeado	NOUN	fastener.n.02
+cadeado	NOUN	lock.n.01
 pagode	NOUN	temple.n.01
 pincel	NOUN	paintbrush.n.01
 cadro	NOUN	painting.n.01
@@ -1960,7 +1960,7 @@ sudario	NOUN	cloth_covering.n.01
 panacea	NOUN	remedy.n.02
 diorama	NOUN	picture.n.01
 edición_en_rústica	NOUN	paperback_book.n.01
-paracaídas	NOUN	parachute.n.01
+paracaídas	NOUN	rescue_equipment.n.01
 parasol	NOUN	protective_covering.n.01
 Sorbona	NOUN	paris_university.n.01
 reitoral	NOUN	residence.n.02
@@ -1992,7 +1992,7 @@ foto	NOUN	photograph.n.01	snapshot.n.01
 fotografía	NOUN	photograph.n.01
 retrato	NOUN	photograph.n.01	portrait.n.02
 piano	NOUN	piano.n.01
-piccolo	NOUN	woodwind.n.01
+piccolo	NOUN	flute.n.01
 picaraña	NOUN	edge_tool.n.01
 pico	NOUN	edge_tool.n.01	peak.n.04
 valado	NOUN	picket_fence.n.01
@@ -2013,7 +2013,7 @@ placa	NOUN	building_material.n.01	plaque.n.01	plate.n.02
 plataforma	NOUN	platform.n.01
 carta	NOUN	playing_card.n.01
 naipe	NOUN	playing_card.n.01
-prego	NOUN	fold.n.01
+prego	NOUN	angular_shape.n.01
 arado	NOUN	tool.n.01
 felpa	NOUN	fabric.n.01
 policromía	NOUN	work.n.02
@@ -2023,11 +2023,11 @@ pistola_de_madeira	NOUN	popgun.n.01
 porcelana	NOUN	porcelain.n.01
 pórtico	NOUN	porch.n.01
 soportal	NOUN	porch.n.01
-cunca	NOUN	bowl.n.03
+cunca	NOUN	dish.n.01
 poste	NOUN	post.n.04
 posmodernismo	NOUN	genre.n.04
 potenciómetro	NOUN	resistor.n.01
-olaría	NOUN	ceramic_ware.n.01
+olaría	NOUN	pottery.n.01
 cataplasma	NOUN	dressing.n.04
 levita	NOUN	prince_albert.n.02
 Universidade_de_Princeton	NOUN	princeton_university.n.01
@@ -2081,7 +2081,7 @@ maroma	NOUN	rope.n.01
 soga	NOUN	rope.n.01
 rosario	NOUN	collection.n.01
 Táboa_Redonda	NOUN	round_table.n.02
-router	NOUN	router.n.02
+router	NOUN	device.n.01
 temón	NOUN	airfoil.n.01
 alfombra	NOUN	rug.n.01
 alfombrado	NOUN	rug.n.01
@@ -2113,14 +2113,14 @@ cimitarra	NOUN	sword.n.01
 tesoira	NOUN	edge_tool.n.01
 taboleiro	NOUN	board.n.02	scoreboard.n.01
 álbum_de_lembranzas	NOUN	album.n.02
-parafuso	NOUN	fastener.n.02
+parafuso	NOUN	screw.n.04
 escultura	NOUN	sculpture.n.01
 gadaña	NOUN	edge_tool.n.01
 reflector	NOUN	light.n.02
 secobarbital	NOUN	secobarbital_sodium.n.01
-drogas_depresoras	NOUN	sedative.n.01
-sedante	NOUN	sedative.n.01
-tranquilizante	NOUN	sedative.n.01
+drogas_depresoras	NOUN	medicine.n.02
+sedante	NOUN	medicine.n.02
+tranquilizante	NOUN	medicine.n.02
 abelorio	NOUN	adornment.n.01
 puntada	NOUN	stitch.n.01
 punto	NOUN	point.n.02	stitch.n.01
@@ -2130,7 +2130,7 @@ chal	NOUN	cloak.n.02
 dengue	NOUN	cloak.n.02	infectious_disease.n.01
 alboio	NOUN	shed.n.01
 alpendre	NOUN	shed.n.01
-rodela	NOUN	shield.n.02
+rodela	NOUN	armor.n.01
 barca	NOUN	ship.n.01
 barco	NOUN	ship.n.01
 buque	NOUN	ship.n.01
@@ -2143,7 +2143,7 @@ cordón_do_zapato	NOUN	lace.n.01
 establecemento	NOUN	shop.n.01
 escopeta	NOUN	shotgun.n.01
 santuario	NOUN	shrine.n.01
-volante	NOUN	badminton_equipment.n.01
+volante	NOUN	shuttlecock.n.01
 fouce	NOUN	edge_tool.n.01
 fouciño	NOUN	edge_tool.n.01
 beirarrúa	NOUN	sidewalk.n.01
@@ -2161,16 +2161,16 @@ cremalleira	NOUN	slide_fastener.n.01
 balandra	NOUN	sailing_vessel.n.01
 comporta	NOUN	regulator.n.01
 moneco_de_neve	NOUN	figure.n.04
-xabón	NOUN	cleansing_agent.n.01
+xabón	NOUN	soap.n.01
 calcetín	NOUN	sock.n.01
-fenobarbital	NOUN	sedative.n.01
+fenobarbital	NOUN	medicine.n.02
 sofá	NOUN	sofa.n.01
 nave_espacial	NOUN	spacecraft.n.01
 sonda_espacial	NOUN	spacecraft.n.01
 Space_Needle	NOUN	space_needle.n.01
 escumadeira	NOUN	cooking_utensil.n.01
 bar_clandestino	NOUN	barroom.n.01
-lentes	NOUN	optical_instrument.n.01
+lentes	NOUN	spectacles.n.01
 sumidoiro	NOUN	conduit.n.01
 culler	NOUN	spoon.n.01
 sporran	NOUN	pouch.n.01
@@ -2183,10 +2183,10 @@ estator	NOUN	mechanical_device.n.01
 estatua	NOUN	collection.n.01	statue.n.01
 chapitel	NOUN	tower.n.01
 estilete	NOUN	knife.n.02
-medias	NOUN	stocking.n.01
+medias	NOUN	hosiery.n.01
 xibón	NOUN	garment.n.01
-cronómetro	NOUN	timepiece.n.01
-almacén	NOUN	room.n.01	storehouse.n.01	warehouse.n.01
+cronómetro	NOUN	timer.n.01
+almacén	NOUN	storehouse.n.01	storeroom.n.01	warehouse.n.01
 rúa	NOUN	street.n.01	thoroughfare.n.01
 tranvía	NOUN	streetcar.n.01
 instrumento_de_corda	NOUN	stringed_instrument.n.01
@@ -2196,7 +2196,7 @@ estrutura	NOUN	skeletal_system.n.01	structure.n.01	structure.n.04
 submarino	NOUN	submarine.n.01
 reloxo_de_sol	NOUN	timepiece.n.01
 xéneros_diversos	NOUN	sundries.n.01
-lentes_de_sol	NOUN	optical_instrument.n.01
+lentes_de_sol	NOUN	spectacles.n.01
 supercomputadora	NOUN	digital_computer.n.01
 supermercado	NOUN	supermarket.n.01
 superficie	NOUN	surface.n.01
@@ -2205,13 +2205,13 @@ explotación_da_man_de_obra	NOUN	factory.n.01
 espada	NOUN	sword.n.01
 sinagoga	NOUN	synagogue.n.01
 tabernáculo	NOUN	synagogue.n.01
-sistema	NOUN	arrangement.n.03	government.n.01	system.n.01	system.n.02	system.n.03	system.n.04	system.n.06	system.n.08
+sistema	NOUN	arrangement.n.03	government.n.01	live_body.n.01	matter.n.03	system.n.01	system.n.02	system.n.04	system.n.06
 servizo	NOUN	tableware.n.01
 servizo_de_mesa	NOUN	tableware.n.01
 tallo	NOUN	taboret.n.01
 Ponte_de_Tacoma_Narrows	NOUN	tacoma_narrows_bridge.n.01
 Taj_Mahal	NOUN	taj_mahal.n.01
-pandeireta	NOUN	drum.n.01
+pandeireta	NOUN	percussion_instrument.n.01
 carro_de_combate	NOUN	tank.n.01
 curtidoiro	NOUN	workplace.n.01
 tapiz	NOUN	decoration.n.01
@@ -2270,10 +2270,10 @@ remolcador	NOUN	tugboat.n.01
 tule	NOUN	net.n.06
 túnica	NOUN	cloak.n.02	membrane.n.02
 túnel	NOUN	tunnel.n.01
-turbina	NOUN	turbine.n.01
+turbina	NOUN	rotary_engine.n.01
 máquina_de_escribir	NOUN	printer.n.03
 ukelele	NOUN	guitar.n.01
-paraugas	NOUN	canopy.n.03
+paraugas	NOUN	umbrella.n.01
 uniforme	NOUN	uniform.n.01
 bandeira_do_Reino_Unido	NOUN	union_jack.n.01
 United_States_Mint	NOUN	united_states_mint.n.01
@@ -2282,7 +2282,7 @@ urinario	NOUN	plumbing_fixture.n.01
 vacina	NOUN	vaccine.n.01
 verniz	NOUN	varnish.n.01	vernix.n.01
 floreiro	NOUN	vase.n.01
-veludo	NOUN	velvet.n.01
+veludo	NOUN	fabric.n.01
 galería	NOUN	veranda.n.01
 Ponte_Verrazano-Narrows	NOUN	verrazano-narrows_bridge.n.01
 chaleco	NOUN	vest.n.01
@@ -2325,9 +2325,9 @@ traballo	NOUN	workplace.n.01
 obradoiro	NOUN	room.n.01
 World_Trade_Center	NOUN	world_trade_center.n.01
 World_Wide_Web	NOUN	world_wide_web.n.01
-cora	NOUN	flower_arrangement.n.01
-coroa	NOUN	flower_arrangement.n.01	pate.n.02	structure.n.04	top.n.01	top.n.02
-coroa_de_flores	NOUN	flower_arrangement.n.01
+cora	NOUN	decoration.n.01
+coroa	NOUN	decoration.n.01	structure.n.04	top.n.01	top.n.02
+coroa_de_flores	NOUN	decoration.n.01
 ruínas	NOUN	part.n.02
 iate	NOUN	vessel.n.02
 Universidade_de_Yale	NOUN	yale_university.n.01
@@ -2345,7 +2345,7 @@ talante	NOUN	disposition.n.01
 temperamento	NOUN	disposition.n.01
 xorne	NOUN	disposition.n.01
 presteza	NOUN	liveliness.n.02
-vivacidade	NOUN	vivacity.n.01
+vivacidade	NOUN	liveliness.n.02
 repouso	NOUN	restfulness.n.01
 brusquidade	NOUN	disposition.n.01
 animosidade	NOUN	disposition.n.01	hostility.n.03
@@ -2357,7 +2357,7 @@ locuacidade	NOUN	trait.n.01
 leria	NOUN	garrulity.n.01
 afecto	NOUN	affection.n.01	disposition.n.01
 simpatía	NOUN	disposition.n.01
-adaptabilidade	NOUN	ability.n.01
+adaptabilidade	NOUN	adaptability.n.01
 masculinidade	NOUN	trait.n.01
 machismo	NOUN	trait.n.01
 feminidade	NOUN	trait.n.01
@@ -2389,16 +2389,16 @@ parecido	NOUN	resemblance.n.01	similarity.n.01
 semellanza	NOUN	resemblance.n.01	similarity.n.01
 similitude	NOUN	similarity.n.01
 diferenza	NOUN	dissimilarity.n.01
-biodiversidade	NOUN	diverseness.n.01
+biodiversidade	NOUN	biodiversity.n.01
 desigualdade	NOUN	inequality.n.01	injustice.n.02
 disparidade	NOUN	disparity.n.01
-preditibilidade	NOUN	quality.n.01
-previsibilidade	NOUN	quality.n.01
+preditibilidade	NOUN	certainty.n.02
+previsibilidade	NOUN	certainty.n.02
 improbabilidade	NOUN	uncertainty.n.01
 especificidade	NOUN	quality.n.01
 singularidade	NOUN	individuality.n.01
-idiosincracia	NOUN	individuality.n.01
-particularidade	NOUN	individuality.n.01
+idiosincracia	NOUN	peculiarity.n.02
+particularidade	NOUN	peculiarity.n.02
 solidariedade	NOUN	happiness.n.02	solidarity.n.01
 universalidade	NOUN	generality.n.02
 complexidade	NOUN	complexity.n.01
@@ -2422,7 +2422,7 @@ popularidade	NOUN	popularity.n.01
 impopularidade	NOUN	quality.n.01
 bo_gusto	NOUN	tastefulness.n.01
 rudeza	NOUN	quality.n.01
-polisemia	NOUN	polysemy.n.01
+polisemia	NOUN	incomprehensibility.n.01
 piedade	NOUN	righteousness.n.01
 impiedade	NOUN	unrighteousness.n.01
 malevolencia	NOUN	malevolence.n.02
@@ -2432,14 +2432,14 @@ altruísmo	NOUN	kindness.n.01
 egoísmo	NOUN	trait.n.01
 narcisismo	NOUN	trait.n.01
 oportunismo	NOUN	trait.n.01
-competitividade	NOUN	aggressiveness.n.01
+competitividade	NOUN	competitiveness.n.01
 militancia	NOUN	aggressiveness.n.01	policy.n.01
-insolencia	NOUN	boldness.n.02
+insolencia	NOUN	presumption.n.03
 inxustiza	NOUN	injustice.n.02
 amabilidade	NOUN	disposition.n.01
 bondade	NOUN	disposition.n.01
 tacto	NOUN	tact.n.01
-insensibilidade	NOUN	quality.n.01
+insensibilidade	NOUN	inability.n.02
 crueldade	NOUN	malevolence.n.02
 santidade	NOUN	quality.n.01	saintliness.n.01
 carácter_sagrado	NOUN	quality.n.01
@@ -2456,24 +2456,24 @@ porfía	NOUN	determination.n.02
 tenacidade	NOUN	determination.n.02	elasticity.n.01
 asiduidade	NOUN	diligence.n.02
 constancia	NOUN	diligence.n.02
-costume	NOUN	diligence.n.02	habit.n.01
+costume	NOUN	custom.n.02	diligence.n.02
 decencia	NOUN	honorableness.n.01
 honestidade	NOUN	honorableness.n.01
 respectabilidade	NOUN	honorableness.n.01
 sinceridade	NOUN	honesty.n.01
 veracidade	NOUN	honesty.n.01
 natureza_enganosa	NOUN	deceptiveness.n.01
-patriotismo	NOUN	patriotism.n.01
-chauvinismo	NOUN	patriotism.n.01
+patriotismo	NOUN	loyalty.n.01
+chauvinismo	NOUN	loyalty.n.01
 infidelidade	NOUN	quality.n.01
 deslealdade	NOUN	quality.n.01
 inxenuidade	NOUN	quality.n.01	trust.n.03
-credulidade	NOUN	credulousness.n.01
+credulidade	NOUN	quality.n.01
 austeridade	NOUN	self-discipline.n.01
 abstención	NOUN	abstinence.n.01
 indisciplina	NOUN	indiscipline.n.01	trait.n.01
-autoestima	NOUN	pride.n.01
-dignidade	NOUN	pride.n.01
+autoestima	NOUN	dignity.n.01
+dignidade	NOUN	dignity.n.01
 altivez	NOUN	mortal_sin.n.01
 arrogancia	NOUN	mortal_sin.n.01
 fachenda	NOUN	mortal_sin.n.01
@@ -2482,8 +2482,8 @@ obxectividade	NOUN	trait.n.01
 confianza	NOUN	quality.n.01	trust.n.03
 actitude	NOUN	demeanor.n.01	position.n.04
 comportamento	NOUN	demeanor.n.01
-adecuación	NOUN	propriety.n.01
-decoro	NOUN	propriety.n.01
+adecuación	NOUN	demeanor.n.01
+decoro	NOUN	demeanor.n.01
 pudor	NOUN	primness.n.01
 compostura	NOUN	composure.n.01
 ecuanimidade	NOUN	composure.n.01
@@ -2491,12 +2491,12 @@ serenidade	NOUN	composure.n.01
 servidume	NOUN	bondage.n.02	obsequiousness.n.01
 servilismo	NOUN	bondage.n.02	obsequiousness.n.01
 teimosía	NOUN	trait.n.01
-descortesía	NOUN	incivility.n.01
+descortesía	NOUN	discourtesy.n.02
 novidade	NOUN	age.n.01
 estilo_de_vida	NOUN	life_style.n.01
 fenotipo	NOUN	constitution.n.04
 xenotipo	NOUN	constitution.n.04
-adhesión	NOUN	consistency.n.01
+adhesión	NOUN	adhesiveness.n.01
 densidade	NOUN	density.n.01
 propensión	NOUN	inclination.n.01	proneness.n.01
 electronegatividade	NOUN	tendency.n.03
@@ -2507,7 +2507,7 @@ coloración	NOUN	color.n.01
 colorido	NOUN	color.n.01
 cor	NOUN	color.n.01	coloring_material.n.01
 ton	NOUN	color_property.n.01	shade.n.02
-negro	NOUN	black.n.01	black.n.05
+negro	NOUN	achromatic_color.n.01	black.n.05
 branco	NOUN	white.n.02
 gris	NOUN	gray.n.01
 vermello	NOUN	red.n.01
@@ -2518,8 +2518,8 @@ escarlata	NOUN	red.n.01
 vermellón	NOUN	red.n.01
 amarelo	NOUN	yellow.n.01
 louro	NOUN	chromatic_color.n.01
-verde	NOUN	chromatic_color.n.01
-ciano	NOUN	chromatic_color.n.01
+verde	NOUN	green.n.01
+ciano	NOUN	green.n.01
 azul	NOUN	blue.n.01	dye.n.01
 rosa	NOUN	pink.n.01	rose.n.01
 cor_rosada	NOUN	pinkness.n.01
@@ -2533,12 +2533,12 @@ pastel	NOUN	cake.n.03	chromatic_color.n.01	pie.n.01
 matiz	NOUN	color_property.n.01	nuance.n.01
 palidez	NOUN	color.n.01
 moureza	NOUN	color.n.01
-silencio	NOUN	hush.n.01
-sonoridade	NOUN	timbre.n.01
+silencio	NOUN	silence.n.02
+sonoridade	NOUN	plangency.n.01
 obesidade	NOUN	fleshiness.n.01
 esteatopixia	NOUN	steatopygia.n.01
-axilidade	NOUN	carriage.n.03
-pericia	NOUN	carriage.n.03
+axilidade	NOUN	gracefulness.n.01
+pericia	NOUN	gracefulness.n.01
 sexo	NOUN	sex.n.04
 sexualidade	NOUN	sex.n.04
 asexualidade	NOUN	asexuality.n.01
@@ -2547,7 +2547,7 @@ temperatura	NOUN	temperature.n.01
 entalpía	NOUN	physical_property.n.01
 entropía	NOUN	physical_property.n.01
 luminosidade	NOUN	luminosity.n.01
-audibilidade	NOUN	physical_property.n.01
+audibilidade	NOUN	perceptibility.n.01
 elasticidade	NOUN	elasticity.n.01	give.n.01
 maleabilidade	NOUN	malleability.n.01
 plasticidade	NOUN	malleability.n.01
@@ -2563,9 +2563,9 @@ ferocidade	NOUN	ferocity.n.01
 estado_de_irritación	NOUN	savageness.n.01
 adinamia	NOUN	weakness.n.03
 puntualidade	NOUN	timing.n.01
-modernidade	NOUN	timing.n.01
+modernidade	NOUN	currentness.n.01
 perennidade	NOUN	lastingness.n.01
-celeridade	NOUN	celerity.n.01	pace.n.03
+celeridade	NOUN	celerity.n.01	speed.n.02
 rapidez	NOUN	celerity.n.01
 configuración	NOUN	shape.n.01
 forma	NOUN	kind.n.01	shape.n.01
@@ -2580,7 +2580,7 @@ postura	NOUN	position.n.04
 distancia	NOUN	distance.n.01	distance.n.05
 dimensión	NOUN	dimension.n.01
 amplitude	NOUN	magnitude.n.01
-perímetro	NOUN	size.n.01
+perímetro	NOUN	circumference.n.01
 diámetro	NOUN	diameter.n.01
 raio	NOUN	lightning.n.01	radius.n.01
 calibre	NOUN	bore.n.03
@@ -2606,15 +2606,15 @@ futilidade	NOUN	quality.n.01
 inutilidade	NOUN	quality.n.01
 sentido_práctico	NOUN	practicality.n.01
 funcionalidade	NOUN	functionality.n.01
-posibilidade	NOUN	option.n.02	utility.n.02
-viabilidade	NOUN	utility.n.02
-activo	NOUN	asset.n.01	chemical_agent.n.01
+posibilidade	NOUN	feasibility.n.01	option.n.02
+viabilidade	NOUN	feasibility.n.01
+activo	NOUN	agent.n.03	asset.n.01
 atractivo	NOUN	asset.n.01
 baza	NOUN	asset.n.01
 capital	NOUN	asset.n.01
 vantaxe	NOUN	advantage.n.01	asset.n.01
 superioridade	NOUN	advantage.n.01
-rendibilidade	NOUN	profit.n.02
+rendibilidade	NOUN	profitableness.n.02
 conveniencia	NOUN	advantage.n.01
 desvantaxe	NOUN	disadvantage.n.01
 imperfección	NOUN	defect.n.02	imperfection.n.01
@@ -2624,7 +2624,7 @@ asertividade	NOUN	quality.n.01
 importancia	NOUN	importance.n.01
 insignificancia	NOUN	value.n.02
 dereito	NOUN	entitlement.n.01	right.n.01
-prerrogativa	NOUN	right.n.01
+prerrogativa	NOUN	prerogative.n.01
 sufraxio	NOUN	right_to_vote.n.01
 autoridade	NOUN	authority.n.01	government.n.01	supremo.n.01
 corporativismo	NOUN	control.n.01
@@ -2926,7 +2926,7 @@ afro	NOUN	afro.n.01
 peiteado_afro	NOUN	afro.n.01
 floco	NOUN	hairdo.n.01
 bob	NOUN	hairdo.n.01
-onda	NOUN	hairdo.n.01	wave.n.01	wave.n.03	wave.n.06
+onda	NOUN	hairdo.n.01	wave.n.01	wave.n.03
 onda_de_dedo	NOUN	finger_wave.n.01
 trenza	NOUN	hairdo.n.01
 moño	NOUN	chignon.n.01
@@ -2935,8 +2935,8 @@ marcel	NOUN	marcel.n.01
 mulido	NOUN	pageboy.n.02
 pompadour	NOUN	pompadour.n.02
 cola_de_cabalo	NOUN	hairdo.n.01
-onda_permanente	NOUN	wave.n.06
-permanente	NOUN	wave.n.06
+onda_permanente	NOUN	hairdo.n.01
+permanente	NOUN	hairdo.n.01
 corte_cepillo	NOUN	brush_cut.n.01
 corte_a_rentes	NOUN	crew_cut.n.01
 corte_de_pelo_moicano	NOUN	haircut.n.01
@@ -2944,18 +2944,18 @@ toucado_roach	NOUN	hairdo.n.01
 trenza_india	NOUN	scalp_lock.n.01
 palla	NOUN	hairdo.n.01	plant_fiber.n.01	plant_material.n.01
 pelo_facial	NOUN	facial_hair.n.01
-barba	NOUN	chin.n.01	facial_hair.n.01	imperial.n.01
-peluxe_primeira_barba_dun_adolescente_	NOUN	facial_hair.n.01
-barba_imperial	NOUN	imperial.n.01
+barba	NOUN	beard.n.01	chin.n.01
+peluxe_primeira_barba_dun_adolescente_	NOUN	beard.n.01
+barba_imperial	NOUN	beard.n.01
 bigote	NOUN	facial_hair.n.01
 mostacho	NOUN	facial_hair.n.01	mustachio.n.01
 cepillo	NOUN	facial_hair.n.01
 felpudo	NOUN	facial_hair.n.01
 bigote_de_morsa	NOUN	walrus_mustache.n.01
 patilla	NOUN	facial_hair.n.01
-barba_de_chibo	NOUN	facial_hair.n.01
-barba_de_mandarín	NOUN	facial_hair.n.01
-barba_de_varios_días	NOUN	facial_hair.n.01
+barba_de_chibo	NOUN	beard.n.01
+barba_de_mandarín	NOUN	beard.n.01
+barba_de_varios_días	NOUN	beard.n.01
 barba_Van_Dyke	NOUN	vandyke_beard.n.01
 Attilio	NOUN	soul_patch.n.01
 pelo_pubiano	NOUN	hair.n.01
@@ -3001,11 +3001,11 @@ graxa	NOUN	adipose_tissue.n.01	fat.n.01	oil.n.01
 tecido_adiposo	NOUN	adipose_tissue.n.01
 tecido_graxo	NOUN	adipose_tissue.n.01
 chicha	NOUN	flab.n.01
-ateroma	NOUN	atheroma.n.01
+ateroma	NOUN	adipose_tissue.n.01
 celulite	NOUN	adipose_tissue.n.01
 gordura_infantil	NOUN	puppy_fat.n.01
 os	NOUN	bone.n.01	os.n.01
-óso	NOUN	bone.n.01	bone.n.02
+óso	NOUN	animal_material.n.01	bone.n.01
 astrágalo	NOUN	anklebone.n.01
 astragalus	NOUN	anklebone.n.01
 óso_espido	NOUN	bare_bone.n.01
@@ -3014,9 +3014,9 @@ astragalus	NOUN	anklebone.n.01
 óso_do_carpo	NOUN	bone.n.01
 ósos_do_pulso	NOUN	bone.n.01
 túnel_carpiano	NOUN	carpal_tunnel.n.01
-avicular	NOUN	scaphoid_bone.n.01
-óso_escafoide	NOUN	scaphoid_bone.n.01
-os_scaphoideum	NOUN	scaphoid_bone.n.01
+avicular	NOUN	bone.n.01
+óso_escafoide	NOUN	bone.n.01
+os_scaphoideum	NOUN	bone.n.01
 os_lunatum	NOUN	lunate_bone.n.01
 óso_semilunar	NOUN	lunate_bone.n.01
 óso_semilunar_do_carpo	NOUN	lunate_bone.n.01
@@ -3027,9 +3027,9 @@ triquetro	NOUN	triquetral.n.01
 óso_pisiforme	NOUN	pisiform.n.01
 os_pisiforme	NOUN	pisiform.n.01
 pisiforme	NOUN	pisiform.n.01
-óso_trapecio	NOUN	trapezium.n.03
-os_trapezium	NOUN	trapezium.n.03
-trapecio	NOUN	skeletal_muscle.n.01	trapezium.n.03
+óso_trapecio	NOUN	bone.n.01
+os_trapezium	NOUN	bone.n.01
+trapecio	NOUN	bone.n.01	skeletal_muscle.n.01
 óso_trapezoide	NOUN	bone.n.01
 os_trapezoideum	NOUN	bone.n.01
 trapezoide	NOUN	bone.n.01
@@ -3083,7 +3083,7 @@ articulatio_temporomandibularis	NOUN	mandibular_joint.n.01
 óso_membranoso	NOUN	bone.n.01
 queixo	NOUN	cheese.n.01	chin.n.01	mentum.n.03
 metacarpiano	NOUN	bone.n.01
-metacarpo	NOUN	bone.n.01	metacarpus.n.01
+metacarpo	NOUN	bone.n.01	skeletal_structure.n.01
 óso_metacarpo	NOUN	bone.n.01
 torus_manus	NOUN	bone.n.01
 metatarsiano	NOUN	bone.n.01
@@ -3320,7 +3320,7 @@ célula_do_gusto	NOUN	taste_cell.n.01
 célula_gustativa	NOUN	taste_cell.n.01
 órgano_da_fala	NOUN	speech_organ.n.01
 órgano_vocal	NOUN	speech_organ.n.01
-labio	NOUN	articulator.n.02	labium.n.01
+labio	NOUN	external_body_part.n.01	lip.n.01
 labio_superior	NOUN	overlip.n.01
 labio_inferior	NOUN	underlip.n.01
 dente_incisivo	NOUN	tooth.n.01
@@ -3348,7 +3348,7 @@ dente_canino	NOUN	tooth.n.01
 queiro	NOUN	tooth.n.01
 bicúspide	NOUN	tooth.n.01
 premolar	NOUN	tooth.n.01
-cúspide	NOUN	animal_tissue.n.01	point.n.08
+cúspide	NOUN	flap.n.04	point.n.08
 molar	NOUN	tooth.n.01
 moa_cordal	NOUN	wisdom_tooth.n.01
 moa_do_xuízo	NOUN	wisdom_tooth.n.01
@@ -3357,7 +3357,7 @@ raíz_do_dente	NOUN	structure.n.04
 conduto_radicular	NOUN	root_canal.n.01
 esmalte	NOUN	body_substance.n.01	compound.n.02
 esmalte_dos_dentes	NOUN	body_substance.n.01
-cemento	NOUN	body_substance.n.01	building_material.n.01	cement.n.03	concrete.n.01	material.n.01
+cemento	NOUN	body_substance.n.01	building_material.n.01	cement.n.03	concrete.n.01	filling.n.01
 cementum	NOUN	body_substance.n.01
 polpa	NOUN	structure.n.04
 amígdala	NOUN	animal_tissue.n.01	neural_structure.n.01
@@ -3399,15 +3399,15 @@ corpo_ciliar	NOUN	ciliary_body.n.01
 cella	NOUN	eyebrow.n.01
 sobrecella	NOUN	eyebrow.n.01
 supercilium	NOUN	eyebrow.n.01
-dobrez_protectora	NOUN	animal_tissue.n.01
-palpebra	NOUN	animal_tissue.n.01
-pálpebra	NOUN	animal_tissue.n.01
-canthum	NOUN	canthus.n.01
-canto	NOUN	canthus.n.01	religious_song.n.01
+dobrez_protectora	NOUN	protective_fold.n.01
+palpebra	NOUN	eyelid.n.01
+pálpebra	NOUN	eyelid.n.01
+canthum	NOUN	point.n.02
+canto	NOUN	point.n.02	religious_song.n.01
 epicanthus	NOUN	epicanthus.n.01
 epicanto	NOUN	epicanthus.n.01
-canto_nasal	NOUN	nasal_canthus.n.01
-nasal_canthus	NOUN	nasal_canthus.n.01
+canto_nasal	NOUN	point.n.02
+nasal_canthus	NOUN	point.n.02
 canto_temporal	NOUN	temporal_canthus.n.01
 temporal_canthus	NOUN	temporal_canthus.n.01
 membrana_nictitante	NOUN	haw.n.02	nictitating_membrane.n.01
@@ -3467,7 +3467,7 @@ ependyma	NOUN	ependyma.n.01
 membrana_de_fertilización	NOUN	fertilization_membrane.n.01
 hialoide	NOUN	hyaloid_membrane.n.01
 membrana_hialoide	NOUN	hyaloid_membrane.n.01
-íntima	NOUN	intima.n.01
+íntima	NOUN	membrane.n.02
 iris	NOUN	membrane.n.02
 meniña_do_ollo	NOUN	hole.n.01
 pupila	NOUN	hole.n.01
@@ -3584,8 +3584,8 @@ renal	NOUN	kidney.n.01
 aparello_urinario	NOUN	excretory_organ.n.01	urogenital_system.n.01
 órgano_excretor	NOUN	excretory_organ.n.01
 bazo	NOUN	animal_tissue.n.01
-arteria	NOUN	blood_vessel.n.01
-vaso_sanguíneo_arterial	NOUN	blood_vessel.n.01
+arteria	NOUN	artery.n.01
+vaso_sanguíneo_arterial	NOUN	artery.n.01
 arteria_alveolar	NOUN	alveolar_artery.n.01
 arteria_alveolaris	NOUN	alveolar_artery.n.01
 arteria_alveolar_inferior	NOUN	inferior_alveolar_artery.n.01
@@ -3594,7 +3594,7 @@ arteria_alveolaris_superior	NOUN	superior_alveolar_artery.n.01
 arteria_alveolar_superior	NOUN	superior_alveolar_artery.n.01
 arteria_angular	NOUN	angular_artery.n.01
 arteria_angularis	NOUN	angular_artery.n.01
-aorta	NOUN	blood_vessel.n.01
+aorta	NOUN	artery.n.01
 aorta_ascendente	NOUN	ascending_aorta.n.01
 arco_aórtico	NOUN	aortic_arch.n.01
 aorta_descendente	NOUN	descending_aorta.n.01
@@ -3605,8 +3605,8 @@ arteria_appendicularis	NOUN	appendicular_artery.n.01
 arteria_arciforme	NOUN	arcuate_artery.n.01
 arteria_arcuata	NOUN	arcuate_artery.n.01
 arteria_arciforme_do_ril	NOUN	arcuate_artery_of_the_kidney.n.01
-arteriola	NOUN	blood_vessel.n.01
-capilar_arterial	NOUN	blood_vessel.n.01
+arteriola	NOUN	artery.n.01
+capilar_arterial	NOUN	artery.n.01
 arteria_bulbi_penis	NOUN	artery_of_the_penis_bulb.n.01
 arteria_do_bulbo_do_pene	NOUN	artery_of_the_penis_bulb.n.01
 arteria_bulbi_vestíbuli	NOUN	artery_of_the_vestibule_bulb.n.01
@@ -3668,7 +3668,7 @@ arteria_circunflexa_escapular	NOUN	circumflex_scapular_artery.n.01
 arteria_colica	NOUN	colic_artery.n.01
 arteria_cólica	NOUN	colic_artery.n.01
 arteria_comunicante	NOUN	communicating_artery.n.01
-arteria_coronaria	NOUN	blood_vessel.n.01
+arteria_coronaria	NOUN	artery.n.01
 arteria_atrial	NOUN	atrial_artery.n.01
 arteria_coronaria_dereita	NOUN	right_coronary_artery.n.01
 arteria_coronaria_esquerda	NOUN	left_coronary_artery.n.01
@@ -4117,7 +4117,7 @@ vea_umbilical	NOUN	umbilical_vein.n.01
 vena_umbilicalis	NOUN	umbilical_vein.n.01
 vea_uterina	NOUN	uterine_vein.n.01
 vea_uteroovárica	NOUN	uterine_vein.n.01
-vesícula_biliar	NOUN	bladder.n.01
+vesícula_biliar	NOUN	sac.n.04
 hipocondrio	NOUN	hypochondrium.n.01
 fígado	NOUN	liver.n.01
 conduto_de_Havers	NOUN	haversian_canal.n.01
@@ -4136,7 +4136,7 @@ lobo_do_pulmón	NOUN	lobe_of_the_lung.n.01
 pleura	NOUN	membrane.n.02
 pleura_parietal	NOUN	parietal_pleura.n.01
 pleura_visceral	NOUN	visceral_pleura.n.01
-cavidade_pleural	NOUN	pleural_cavity.n.01
+cavidade_pleural	NOUN	cavity.n.04
 espazo_pleural	NOUN	pleural_space.n.01
 corazón	NOUN	heart.n.02
 corazón_atlético	NOUN	athlete's_heart.n.01
@@ -4148,8 +4148,8 @@ nó_NSA	NOUN	muscle.n.02
 nó_sinoatrial	NOUN	muscle.n.02
 nó_sinodal	NOUN	muscle.n.02
 nó_sinusal	NOUN	muscle.n.02
-folla	NOUN	animal_tissue.n.01	leaf.n.01
-tapa	NOUN	animal_tissue.n.01
+folla	NOUN	flap.n.04	leaf.n.01
+tapa	NOUN	flap.n.04
 músculo_cardíaco	NOUN	muscle.n.02
 músculo_do_corazón	NOUN	muscle.n.02
 músculo_papilar	NOUN	papillary_muscle.n.01
@@ -4215,14 +4215,14 @@ FEC	NOUN	liquid_body_substance.n.01
 fluído_extracelular	NOUN	liquid_body_substance.n.01
 fluído_intersticial	NOUN	interstitial_fluid.n.01
 fluído_intracelular	NOUN	intracellular_fluid.n.01
-succus	NOUN	juice.n.04
-zume	NOUN	juice.n.01	juice.n.04	solution.n.01
+succus	NOUN	liquid_body_substance.n.01
+zume	NOUN	juice.n.01	liquid_body_substance.n.01	solution.n.01
 líquido_canceroso	NOUN	cancer_juice.n.01
 cariolinfa	NOUN	karyolymph.n.01
 carioquilema	NOUN	karyolymph.n.01
 paralinina	NOUN	karyolymph.n.01
 leite	NOUN	milk.n.01	milk.n.02
-leite_materno	NOUN	mother's_milk.n.01
+leite_materno	NOUN	milk.n.02
 colostrum	NOUN	milk.n.02
 costro	NOUN	milk.n.02
 cavidade_amniótica	NOUN	amniotic_cavity.n.01
@@ -4236,7 +4236,7 @@ tipo_de_sangue	NOUN	blood.n.01
 A	NOUN	base.n.10	blood.n.01	deoxyadenosine_monophosphate.n.01	vitamin.n.01
 grupo_A	NOUN	blood.n.01
 tipo_A	NOUN	blood.n.01
-B	NOUN	blood.n.01	boron.n.01
+B	NOUN	blood.n.01	chemical_element.n.01
 grupo_B	NOUN	blood.n.01
 tipo_B	NOUN	blood.n.01
 AB	NOUN	ab.n.04
@@ -4292,21 +4292,21 @@ aparello_lacrimal	NOUN	lacrimal_apparatus.n.01
 lacrimal_apparatus	NOUN	lacrimal_apparatus.n.01
 suor	NOUN	secretion.n.02
 transpiración	NOUN	secretion.n.02
-zume_dixestivo	NOUN	juice.n.04
+zume_dixestivo	NOUN	liquid_body_substance.n.01
 ácido_gástrico	NOUN	gastric_juice.n.01
 zume_gástrico	NOUN	gastric_juice.n.01
 zume_pancreático	NOUN	pancreatic_juice.n.01
-bile	NOUN	juice.n.04
-bile_negra	NOUN	black_bile.n.01
-melancolía	NOUN	black_bile.n.01
+bile	NOUN	liquid_body_substance.n.01
+bile_negra	NOUN	liquid_body_substance.n.01
+melancolía	NOUN	liquid_body_substance.n.01
 bile_amarela	NOUN	yellow_bile.n.01
 cólera	NOUN	infectious_disease.n.01	yellow_bile.n.01
 endócrino	NOUN	hormone.n.01
 hormona	NOUN	hormone.n.01
 secreción_interna	NOUN	hormone.n.01
 zume_intestinal	NOUN	intestinal_juice.n.01
-noradrenalina	NOUN	amine.n.01
-norapinefrina	NOUN	amine.n.01
+noradrenalina	NOUN	methane_series.n.01
+norapinefrina	NOUN	methane_series.n.01
 ACTH	NOUN	hormone.n.01
 corticotrofina	NOUN	hormone.n.01
 corticotropina	NOUN	hormone.n.01
@@ -4328,7 +4328,7 @@ gonadotrofina	NOUN	hormone.n.01
 gonadotropina	NOUN	hormone.n.01
 hormona_gonadotrófica	NOUN	hormone.n.01
 hormona_gonadrotropina	NOUN	hormone.n.01
-insulina	NOUN	hypoglycemic_agent.n.01
+insulina	NOUN	hormone.n.01
 Lente_Iletin	NOUN	lente_insulin.n.01
 Lente_Insulin	NOUN	lente_insulin.n.01
 Humulin	NOUN	recombinant_human_insulin.n.01
@@ -4366,7 +4366,7 @@ hormona_Pitressin	NOUN	vasoconstrictor.n.01
 vasopresina	NOUN	vasoconstrictor.n.01
 autacoide	NOUN	secretion.n.02
 autocoide	NOUN	secretion.n.02
-histamina	NOUN	amine.n.01
+histamina	NOUN	methane_series.n.01
 prostaglandina	NOUN	secretion.n.02
 líquido_sinovial	NOUN	secretion.n.02
 sinovia	NOUN	secretion.n.02
@@ -4476,9 +4476,9 @@ bursa_omentalis	NOUN	bursa_omentalis.n.01
 cavidade_peritoneal_menor	NOUN	bursa_omentalis.n.01
 endocardio	NOUN	endocardium.n.01
 endocardium	NOUN	endocardium.n.01
-pericardio	NOUN	pericardial_sac.n.01	pericardium.n.01
-pericardium	NOUN	pericardium.n.01
-saco_do_corazón	NOUN	pericardium.n.01
+pericardio	NOUN	membrane.n.02	sac.n.04
+pericardium	NOUN	membrane.n.02
+saco_do_corazón	NOUN	membrane.n.02
 epicardio	NOUN	epicardium.n.01
 epicardium	NOUN	epicardium.n.01
 pericardio_visceral	NOUN	epicardium.n.01
@@ -4505,8 +4505,8 @@ glándula_de_Peyer	NOUN	peyer's_patch.n.01
 placa_de_Peyer	NOUN	peyer's_patch.n.01
 célula_somática	NOUN	somatic_cell.n.01
 célula_vexetativa	NOUN	somatic_cell.n.01
-células_neoplásica	NOUN	neoplastic_cell.n.01
-cela_cancerosa	NOUN	cancer_cell.n.01
+células_neoplásica	NOUN	somatic_cell.n.01
+cela_cancerosa	NOUN	somatic_cell.n.01
 blastema	NOUN	blastema.n.01
 protoplasto	NOUN	energid.n.01
 pronúcleo	NOUN	pronucleus.n.01
@@ -4744,7 +4744,7 @@ sarcómero	NOUN	sarcomere.n.01
 músculo_liso	NOUN	smooth_muscle.n.01	smooth_muscle.n.02
 músculo_involuntario	NOUN	smooth_muscle.n.01
 célula_muscular_lisa	NOUN	smooth_muscle_cell.n.01
-sistema_inmune	NOUN	immune_system.n.01
+sistema_inmune	NOUN	system.n.06
 sistema_integumentario	NOUN	system.n.06
 RES	NOUN	reticuloendothelial_system.n.01
 sistema_retículoendotelial	NOUN	reticuloendothelial_system.n.01
@@ -4908,7 +4908,7 @@ nervio_pneumogástrico	NOUN	nerve.n.01
 nervio_vago	NOUN	nerve.n.01
 nervus_vagus	NOUN	nerve.n.01
 pneumogástrico	NOUN	nerve.n.01
-vago	NOUN	idler.n.01	nerve.n.01
+vago	NOUN	nerve.n.01	nonworker.n.01
 vagus	NOUN	nerve.n.01
 nervio_accesorio	NOUN	accessory_nerve.n.01
 nervio_espiñal_accesorio	NOUN	accessory_nerve.n.01
@@ -5179,9 +5179,9 @@ sistema_vascular	NOUN	vascular_system.n.01
 sistema_cardiovascular	NOUN	circulatory_system.n.01
 sistema_circulatorio	NOUN	circulatory_system.n.01
 circulación_fetal	NOUN	fetal_circulation.n.01
-vesica	NOUN	bladder.n.01
-vexiga	NOUN	bladder.n.01	sac.n.04
-vexiga_urinaria	NOUN	bladder.n.01
+vesica	NOUN	sac.n.04
+vexiga	NOUN	sac.n.04
+vexiga_urinaria	NOUN	sac.n.04
 introito	NOUN	introitus.n.01
 orificio_externo	NOUN	urethral_orifice.n.01
 orificio_uretral	NOUN	urethral_orifice.n.01
@@ -5379,9 +5379,9 @@ cabeza_de_cogombro	NOUN	bullethead.n.01
 cacho	NOUN	attic.n.03	part.n.03
 cachola	NOUN	attic.n.03
 testa	NOUN	attic.n.03	brow.n.01
-cocote	NOUN	pate.n.02	side.n.04
-couquizo	NOUN	pate.n.02
-curuto	NOUN	pate.n.02
+cocote	NOUN	side.n.04	top.n.02
+couquizo	NOUN	top.n.02
+curuto	NOUN	top.n.02
 epicranio	NOUN	epicranium.n.01
 epicranium	NOUN	epicranium.n.01
 coiro_cabeludo	NOUN	skin.n.01
@@ -5453,9 +5453,9 @@ desviación	NOUN	passage.n.07
 derivación_portocava	NOUN	portacaval_shunt.n.01
 derivación	NOUN	passage.n.07
 cavidade_tubular	NOUN	tubular_cavity.n.01
-ombreiro	NOUN	ball-and-socket_joint.n.01	shoulder.n.01
-articulación_do_ombreiro	NOUN	ball-and-socket_joint.n.01
-articulatio_humeri	NOUN	ball-and-socket_joint.n.01
+ombreiro	NOUN	shoulder.n.01	shoulder.n.03
+articulación_do_ombreiro	NOUN	shoulder.n.03
+articulatio_humeri	NOUN	shoulder.n.03
 deltóide	NOUN	skeletal_muscle.n.01
 músculo_deltóide	NOUN	skeletal_muscle.n.01
 musculus_deltoideus	NOUN	skeletal_muscle.n.01
@@ -5526,9 +5526,9 @@ abdominal	NOUN	skeletal_muscle.n.01
 músculo_abdominal	NOUN	skeletal_muscle.n.01
 dorso	NOUN	back.n.01	dorsum.n.02
 dorsum	NOUN	back.n.01	dorsum.n.02
-músculo_oblicuo_externo	NOUN	skeletal_muscle.n.01
-músculo_oblicuo_externo_do_abdome	NOUN	skeletal_muscle.n.01
-musculus_obliquus_externus_abdominis	NOUN	skeletal_muscle.n.01
+músculo_oblicuo_externo	NOUN	external_oblique_muscle.n.01
+músculo_oblicuo_externo_do_abdome	NOUN	external_oblique_muscle.n.01
+musculus_obliquus_externus_abdominis	NOUN	external_oblique_muscle.n.01
 músculo_transverso_abdominal	NOUN	transversus_abdominis_muscle.n.01
 músculo_transverso_do_abdome	NOUN	transversus_abdominis_muscle.n.01
 transversus_abdominis	NOUN	transversus_abdominis_muscle.n.01
@@ -5558,8 +5558,8 @@ patas	NOUN	shank's_mare.n.01
 zancas	NOUN	shank's_mare.n.01
 pernilongo	NOUN	spindlelegs.n.02
 zancudo	NOUN	spindlelegs.n.02
-coxa	NOUN	hip.n.03	thigh.n.01
-colo	NOUN	thigh.n.01
+coxa	NOUN	ball-and-socket_joint.n.01	thigh.n.01
+colo	NOUN	lap.n.01
 cana	NOUN	body_part.n.01
 canela	NOUN	body_part.n.01	bone.n.01
 extremidade_pedal	NOUN	vertebrate_foot.n.01
@@ -5573,8 +5573,8 @@ antebrazo	NOUN	limb.n.01
 man	NOUN	hand.n.01
 puño	NOUN	fist.n.01	wrist.n.01
 gadoupa	NOUN	hooks.n.01
-dereita	NOUN	right.n.05
-man_dereita	NOUN	right.n.05
+dereita	NOUN	hand.n.01
+man_dereita	NOUN	hand.n.01
 esquerda	NOUN	left.n.03
 man_esquerda	NOUN	left.n.03
 palma	NOUN	area.n.03
@@ -5699,12 +5699,12 @@ arco_baixo	NOUN	sunken_arch.n.01
 arco_do_pé_caído	NOUN	sunken_arch.n.01
 planta_do_pé	NOUN	area.n.03
 extremo_do_pé	NOUN	tip.n.01
-deda	NOUN	toe.n.01	toe.n.03
+deda	NOUN	body_part.n.01	toe.n.01
 hallux	NOUN	toe.n.01
 dedo_martelo	NOUN	hammertoe.n.01
 hallux_malleus	NOUN	hammertoe.n.01
 deda_pequena_do_pé	NOUN	little_toe.n.01
-talón	NOUN	skeletal_structure.n.01
+talón	NOUN	heel.n.02
 articulación_conxunta	NOUN	gliding_joint.n.01	hinge_joint.n.01
 articulatio_plana	NOUN	gliding_joint.n.01
 articulación_do_nocello	NOUN	ankle.n.01
@@ -5846,14 +5846,14 @@ proceso_olécrano	NOUN	olecranon.n.01
 peroné	NOUN	bone.n.01
 óso_da_canela	NOUN	bone.n.01
 tibia	NOUN	bone.n.01
-metatarso	NOUN	metatarsus.n.01
+metatarso	NOUN	skeletal_structure.n.01
 tarso	NOUN	skeletal_structure.n.01
 articulación	NOUN	joint.n.01
 articulación_cotiloide	NOUN	ball-and-socket_joint.n.01
 articulación_de_rótula	NOUN	ball-and-socket_joint.n.01
 articulación_esferoidal	NOUN	ball-and-socket_joint.n.01
 enartrose	NOUN	ball-and-socket_joint.n.01
-articulación_da_cadeira_cadeira	NOUN	hip.n.03
+articulación_da_cadeira_cadeira	NOUN	ball-and-socket_joint.n.01
 acetábulo	NOUN	acetabulum.n.01
 cavidade_cotiloide	NOUN	acetabulum.n.01
 pelve	NOUN	cavity.n.04	pelvis.n.01
@@ -5908,9 +5908,9 @@ torus_supraorbital	NOUN	supraorbital_ridge.n.01
 excrecencia	NOUN	process.n.05
 vexetación	NOUN	leaf.n.01	process.n.05
 rudimento	NOUN	rudiment.n.02
-parede	NOUN	wall.n.03
+parede	NOUN	stratum.n.01
 parede_abdominal	NOUN	abdominal_wall.n.01
-saco_pericárdico	NOUN	pericardial_sac.n.01
+saco_pericárdico	NOUN	sac.n.04
 manguiño_dos_músculos_rotadores	NOUN	rotator_cuff.n.01
 centro_respiratorio	NOUN	respiratory_center.n.01
 fuso	NOUN	fiber.n.01
@@ -6007,14 +6007,14 @@ dúbida	NOUN	doubt.n.01	question.n.01
 incredulidade	NOUN	doubt.n.01
 abstracción	NOUN	abstractedness.n.01
 proceso_cognitivo_básico	NOUN	basic_cognitive_process.n.01
-atención	NOUN	attentiveness.n.01
-consideración	NOUN	attentiveness.n.01
+atención	NOUN	attention.n.01
+consideración	NOUN	attention.n.01
 desleixo	NOUN	inattention.n.01
 falta_de_atención	NOUN	inattention.n.01
 cheiro	NOUN	smell.n.01
 sabor	NOUN	relish.n.03
 saborear	NOUN	relish.n.03
-salinidade	NOUN	salt.n.04
+salinidade	NOUN	taste.n.01
 alcumar	NOUN	sound.n.02
 sinestesia	NOUN	sensation.n.01
 orde	NOUN	arrangement.n.03
@@ -6048,14 +6048,14 @@ quiromancia	NOUN	palmistry.n.01
 astroloxía	NOUN	fallacy.n.01
 alquimia	NOUN	fallacy.n.01
 pseudociencia	NOUN	fallacy.n.01
-siloxismo	NOUN	reasoning.n.01
-reducionismo	NOUN	explanation.n.02
+siloxismo	NOUN	deduction.n.04
+reducionismo	NOUN	theory.n.01
 cavilación	NOUN	contemplation.n.02
 introspección	NOUN	contemplation.n.02
 decisión	NOUN	decision_making.n.01
 determinación	NOUN	decision_making.n.01
 toma_de_decisións	NOUN	decision_making.n.01
-eclecticismo	NOUN	eclecticism.n.01
+eclecticismo	NOUN	decision_making.n.01
 pensamento_de_grupo	NOUN	groupthink.n.01
 valido	NOUN	choice.n.01
 alternativa	NOUN	option.n.02
@@ -6093,7 +6093,7 @@ factorial	NOUN	product.n.03
 polinomio	NOUN	polynomial.n.01
 infinitesimal	NOUN	infinitesimal.n.01
 Macguffin	NOUN	mcguffin.n.01
-atractor	NOUN	point.n.01
+atractor	NOUN	attractor.n.02
 lei	NOUN	law.n.04
 lei_natural	NOUN	law.n.04
 hipótese	NOUN	hypothesis.n.02
@@ -6105,11 +6105,11 @@ idea_falsa	NOUN	misconception.n.01
 sofisma	NOUN	fallacy.n.01
 sofista	NOUN	fallacy.n.01
 autoengano	NOUN	self-deception.n.01
-erro	NOUN	mistake.n.02
+erro	NOUN	misconception.n.01
 autismo	NOUN	autism.n.01
 O_holandés_errante	NOUN	flying_dutchman.n.01	flying_dutchman.n.02
 O_holandés_voador	NOUN	flying_dutchman.n.01	flying_dutchman.n.02
-pantasma	NOUN	causal_agent.n.01	ghost.n.01
+pantasma	NOUN	apparition.n.03	soul.n.01
 activismo	NOUN	policy.n.01
 militantismo	NOUN	policy.n.01
 mobilización	NOUN	policy.n.01
@@ -6119,7 +6119,7 @@ táctica	NOUN	tactic.n.01
 maquinación	NOUN	plot.n.01
 esencia	NOUN	attar.n.01	kernel.n.03	substance.n.01
 connotación	NOUN	meaning.n.02
-estereotipo	NOUN	representation.n.01
+estereotipo	NOUN	stereotype.n.01
 heroe	NOUN	character.n.04
 fractal	NOUN	form.n.03
 prototipo	NOUN	prototype.n.01
@@ -6145,7 +6145,7 @@ abolicionismo	NOUN	abolitionism.n.01
 animismo	NOUN	doctrine.n.01
 dogma	NOUN	doctrine.n.01	religious_doctrine.n.01
 dualismo	NOUN	doctrine.n.01
-epicureísmo	NOUN	epicureanism.n.01
+epicureísmo	NOUN	doctrine.n.01
 multiculturalismo	NOUN	doctrine.n.01
 nacionalismo	NOUN	nationalism.n.02
 pacifismo	NOUN	doctrine.n.01
@@ -6163,15 +6163,15 @@ determinismo	NOUN	philosophical_doctrine.n.01
 materialismo	NOUN	philosophical_doctrine.n.01
 relativismo	NOUN	philosophical_doctrine.n.01
 Escolástica	NOUN	philosophical_doctrine.n.01
-semiótica	NOUN	semiotics.n.01
-Estoicismo	NOUN	stoicism.n.02
+semiótica	NOUN	philosophical_doctrine.n.01
+Estoicismo	NOUN	philosophical_doctrine.n.01
 Taoísmo	NOUN	philosophical_doctrine.n.01
 vitalismo	NOUN	vitalism.n.01
 exorcismo	NOUN	supernaturalism.n.01
-meigaría	NOUN	magic.n.01
-meiguería	NOUN	magic.n.01
-bruxaría	NOUN	magic.n.01
-bruxería	NOUN	magic.n.01
+meigaría	NOUN	sorcery.n.01
+meiguería	NOUN	sorcery.n.01
+bruxaría	NOUN	sorcery.n.01
+bruxería	NOUN	sorcery.n.01
 agnosticismo	NOUN	content.n.05
 escepticismo	NOUN	content.n.05
 herexía	NOUN	content.n.05
@@ -6182,8 +6182,8 @@ erudición	NOUN	eruditeness.n.01
 desilusión	NOUN	education.n.02
 ignorancia	NOUN	ignorance.n.01
 inexperiencia	NOUN	ignorance.n.01	immaturity.n.01
-positivismo	NOUN	philosophical_doctrine.n.01
-teoría_científica	NOUN	explanation.n.02
+positivismo	NOUN	positivism.n.01
+teoría_científica	NOUN	theory.n.01
 corrente_monetarista	NOUN	monetarism.n.01
 ámbito	NOUN	discipline.n.01
 campo	NOUN	discipline.n.01
@@ -6195,7 +6195,7 @@ matemática	NOUN	mathematics.n.01
 matemáticas	NOUN	mathematics.n.01
 aritmética	NOUN	pure_mathematics.n.01
 xeometría	NOUN	geometry.n.01
-interceptar	NOUN	point.n.01
+interceptar	NOUN	component.n.01
 trigonometría	NOUN	pure_mathematics.n.01
 álxebra	NOUN	algebra.n.01
 derivada	NOUN	calculation.n.02
@@ -6211,16 +6211,16 @@ odontoloxía	NOUN	medicine.n.01
 epidemioloxía	NOUN	medicine.n.01
 xerontoloxía	NOUN	medicine.n.01
 hematoloxía	NOUN	medicine.n.01
-hixiene	NOUN	medicine.n.01
+hixiene	NOUN	hygiene.n.02
 inmunoloxía	NOUN	medicine.n.01
-nefroloxía	NOUN	nephrology.n.01
+nefroloxía	NOUN	medicine.n.01
 obstetricia	NOUN	medicine.n.01
 farmacoloxía	NOUN	medicine.n.01
 farmacia	NOUN	pharmacy.n.01
-psiquiatría	NOUN	psychiatry.n.01
+psiquiatría	NOUN	medicine.n.01
 anatomía	NOUN	biology.n.01
 patoloxía	NOUN	disease.n.01	illness.n.01	medical_science.n.01	pathology.n.02
-pediatría	NOUN	pediatrics.n.01
+pediatría	NOUN	medicine.n.01
 toxicoloxía	NOUN	medicine.n.01
 traumatoloxía	NOUN	medicine.n.01
 viroloxía	NOUN	medicine.n.01
@@ -6262,19 +6262,19 @@ electrónica	NOUN	electronics.n.01
 electrostática	NOUN	electrostatics.n.01
 mecánica	NOUN	mechanics.n.01
 holografía	NOUN	physics.n.01
-holismo	NOUN	explanation.n.02
-supersimetría	NOUN	supersymmetry.n.01
+holismo	NOUN	theory.n.01
+supersimetría	NOUN	theory.n.01
 Transformismo	NOUN	lamarckism.n.01
 harmonía	NOUN	harmonics.n.01
 dinámica	NOUN	dynamics.n.01
-cinemática	NOUN	kinematics.n.01
+cinemática	NOUN	mechanics.n.01
 aerodinámica	NOUN	mechanics.n.01
 termodinámica	NOUN	physics.n.01
-microelectrónica	NOUN	microelectronics.n.01
+microelectrónica	NOUN	electronics.n.01
 xeoloxía	NOUN	geology.n.01
 xeofísica	NOUN	geology.n.01
 estratigrafía	NOUN	geology.n.01
-climatoloxía	NOUN	earth_science.n.01
+climatoloxía	NOUN	meteorology.n.02
 hidroloxía	NOUN	geology.n.01
 hidrografía	NOUN	earth_science.n.01
 sismoloxía	NOUN	geology.n.01
@@ -6282,7 +6282,7 @@ vulcanoloxía	NOUN	volcanology.n.01
 xeodesia	NOUN	geodesy.n.01
 mineraloxía	NOUN	geology.n.01
 petroloxía	NOUN	geology.n.01
-espeleoloxía	NOUN	speleology.n.01
+espeleoloxía	NOUN	geology.n.01
 xeografía	NOUN	geography.n.01
 topografía	NOUN	geography.n.01
 arquitectura	NOUN	architecture.n.02
@@ -6297,11 +6297,11 @@ informática	NOUN	information_science.n.01
 cibernética	NOUN	information_science.n.01
 cidadanía	NOUN	citizenry.n.01	social_science.n.01
 antropoloxía	NOUN	anthropology.n.01
-arqueoloxía	NOUN	anthropology.n.01
+arqueoloxía	NOUN	archeology.n.01
 Asirioloxía	NOUN	assyriology.n.01
-Exiptoloxía	NOUN	anthropology.n.01
-epigrafía	NOUN	epigraphy.n.01
-protohistoria	NOUN	anthropology.n.01
+Exiptoloxía	NOUN	archeology.n.01
+epigrafía	NOUN	archeology.n.01
+protohistoria	NOUN	archeology.n.01
 etnoloxía	NOUN	anthropology.n.01
 mitoloxía	NOUN	mythology.n.02
 xeopolítica	NOUN	politics.n.02
@@ -6310,21 +6310,21 @@ macroeconomía	NOUN	economics.n.01
 proxémica	NOUN	proxemics.n.01
 socioloxía	NOUN	sociology.n.01
 criminoloxía	NOUN	sociology.n.01
-demografía	NOUN	sociology.n.01
+demografía	NOUN	demography.n.01
 cladística	NOUN	cladistics.n.01
 humanidades	NOUN	humanistic_discipline.n.01
-neoclasicismo	NOUN	neoclassicism.n.01
+neoclasicismo	NOUN	artistic_style.n.01
 clasicismo	NOUN	artistic_style.n.01
 Romanticismo	NOUN	artistic_style.n.01
 glotocronoloxía	NOUN	glottochronology.n.01
 ética	NOUN	ethics.n.02
-bioética	NOUN	bioethics.n.01
+bioética	NOUN	ethics.n.02
 estética	NOUN	philosophy.n.02
 metafísica	NOUN	philosophy.n.02
 ontoloxía	NOUN	philosophy.n.02
 dialéctica	NOUN	philosophy.n.02
 epistemoloxía	NOUN	epistemology.n.01
-etimoloxía	NOUN	linguistics.n.01
+etimoloxía	NOUN	etymology.n.02
 literatura	NOUN	literature.n.02
 poética	NOUN	literary_study.n.01
 arte_clásica	NOUN	classics.n.01
@@ -6344,11 +6344,11 @@ semántica	NOUN	linguistics.n.01
 deíxe	NOUN	deixis.n.01
 teoloxía	NOUN	theology.n.01
 eclesioloxía	NOUN	theology.n.01
-hermenéutica	NOUN	hermeneutics.n.01
+hermenéutica	NOUN	theology.n.01
 utilitarismo	NOUN	doctrine.n.01
 Arianismo	NOUN	theological_doctrine.n.01
 Marcionismo	NOUN	marcionism.n.01
-milenarismo	NOUN	millenarianism.n.01
+milenarismo	NOUN	theological_doctrine.n.01
 Monofisismo	NOUN	monophysitism.n.01
 Monotelismo	NOUN	monothelitism.n.01
 Nestorianismo	NOUN	nestorianism.n.01
@@ -6379,7 +6379,7 @@ orientación_política	NOUN	political_orientation.n.01
 anarquismo	NOUN	political_orientation.n.01
 colectivismo	NOUN	political_orientation.n.01
 comunismo	NOUN	political_orientation.n.01
-Marxismo-Leninismo	NOUN	leninism.n.01
+Marxismo-Leninismo	NOUN	political_orientation.n.01
 Maoísmo	NOUN	maoism.n.01
 marxismo	NOUN	political_orientation.n.01
 Trotskismo	NOUN	political_orientation.n.01
@@ -6392,7 +6392,7 @@ fascismo	NOUN	political_orientation.n.01
 federalismo	NOUN	political_orientation.n.01
 imperialismo	NOUN	political_orientation.n.01
 meritocracia	NOUN	political_orientation.n.01
-neoliberalismo	NOUN	neoliberalism.n.01
+neoliberalismo	NOUN	political_orientation.n.01
 progresismo	NOUN	political_orientation.n.01
 republicanismo	NOUN	political_orientation.n.01
 socialismo	NOUN	political_orientation.n.01
@@ -6415,20 +6415,20 @@ fundamentalismo	NOUN	christianity.n.01
 integrismo	NOUN	christianity.n.01
 Mormonismo	NOUN	christianity.n.01
 presbiterianismo	NOUN	presbyterianism.n.01
-Islam	NOUN	islam.n.02
-Islamismo	NOUN	islam.n.02
+Islam	NOUN	monotheism.n.01
+Islamismo	NOUN	monotheism.n.01
 xiísmo	NOUN	shiism.n.01
 Hinduísmo	NOUN	hinduism.n.02
 ioga	NOUN	yoga.n.01
-Xainismo	NOUN	jainism.n.02
+Xainismo	NOUN	religion.n.01
 Sikhismo	NOUN	religion.n.01
 Budismo	NOUN	religion.n.01
 Mahayana	NOUN	mahayana.n.02
 Theravada	NOUN	theravada.n.01
-Maniqueísmo	NOUN	manichaeism.n.01
+Maniqueísmo	NOUN	religion.n.01
 Zoroastrismo	NOUN	religion.n.01
 Wicca	NOUN	wicca.n.02
-amateurismo	NOUN	belief.n.01
+amateurismo	NOUN	conviction.n.01
 grafoloxía	NOUN	graphology.n.01
 teogonía	NOUN	theogony.n.01
 cabeceira	NOUN	writing_paper.n.01
@@ -6451,7 +6451,7 @@ diminutivo	NOUN	word.n.01
 homonimia	NOUN	word.n.01
 préstamo	NOUN	loanword.n.01
 monosílabo	NOUN	monosyllable.n.01
-plural	NOUN	plural.n.01
+plural	NOUN	form.n.01
 estraño	NOUN	form.n.01
 peculiar	NOUN	form.n.01
 singular	NOUN	form.n.01
@@ -6488,7 +6488,7 @@ señorita	NOUN	title.n.06
 Rabino	NOUN	title.n.06
 titular	NOUN	headline.n.01
 Alexandrino	NOUN	line.n.05
-transliteración	NOUN	transcription.n.01
+transliteración	NOUN	written_communication.n.01
 cursiva	NOUN	handwriting.n.01
 escritura	NOUN	orthography.n.01
 ortografía	NOUN	orthography.n.01	spelling.n.01
@@ -6527,9 +6527,9 @@ soneto	NOUN	poem.n.01
 rapsodia	NOUN	poem.n.01
 oda	NOUN	poem.n.01
 epitalamio	NOUN	epithalamium.n.01
-estrofa	NOUN	strophe.n.01	text.n.01
+estrofa	NOUN	text.n.01
 texto	NOUN	text.n.01
-prefacio	NOUN	introduction.n.02
+prefacio	NOUN	foreword.n.01
 preámbulo	NOUN	introduction.n.02
 parágrafo	NOUN	paragraph.n.01
 weblog	NOUN	web_log.n.01
@@ -6567,7 +6567,7 @@ Biblia	NOUN	bible.n.01
 Escrituras	NOUN	bible.n.01
 Xosué	NOUN	joshua.n.02
 Zacarías	NOUN	zechariah.n.02
-Epístola	NOUN	book.n.10
+Epístola	NOUN	section.n.01
 Vulgata	NOUN	vulgate.n.01
 Torá	NOUN	torah.n.02
 Agnus_Dei	NOUN	agnus_dei.n.01	agnus_dei.n.02
@@ -6624,7 +6624,7 @@ Internet_Explorer	NOUN	internet_explorer.n.01
 Konqueror	NOUN	konqueror.n.01
 compilador	NOUN	compiler.n.02
 Web_Map_Service	NOUN	web_map_service.n.01
-folla_de_cálculo	NOUN	spreadsheet.n.01
+folla_de_cálculo	NOUN	program.n.07
 publicación	NOUN	publication.n.01
 antoloxía	NOUN	anthology.n.01
 álbum_musical	NOUN	album.n.01
@@ -6714,7 +6714,7 @@ Distinguished_Service_Order	NOUN	distinguished_service_order.n.01
 demonización	NOUN	disapproval.n.02
 reprimenda	NOUN	rebuke.n.01
 reprobación	NOUN	rebuke.n.01
-reproche	NOUN	rebuke.n.01
+reproche	NOUN	castigation.n.01	rebuke.n.01
 impromperio	NOUN	abuse.n.02
 declaración	NOUN	disclosure.n.01	statement.n.01
 antagonismo	NOUN	antinomy.n.01
@@ -6722,8 +6722,8 @@ antinomia	NOUN	antinomy.n.01
 paradoxo	NOUN	paradox.n.01
 manifesto	NOUN	declaration.n.01
 confesión	NOUN	avowal.n.01
-definición	NOUN	explanation.n.01
-redefinición	NOUN	explanation.n.01
+definición	NOUN	definition.n.01
+redefinición	NOUN	definition.n.01
 previsión	NOUN	prognosis.n.01
 prognóstico	NOUN	prognosis.n.01
 profecía	NOUN	prediction.n.02
@@ -6771,9 +6771,9 @@ notación_musical	NOUN	musical_notation.n.01
 grafema	NOUN	character.n.08
 grafía	NOUN	character.n.08
 símbolo_gráfico	NOUN	character.n.08
-diacrítico	NOUN	diacritical_mark.n.01
-til	NOUN	diacritical_mark.n.01
-diérese	NOUN	diacritical_mark.n.01
+diacrítico	NOUN	mark.n.10
+til	NOUN	mark.n.10
+diérese	NOUN	mark.n.10
 carácter_alfabético	NOUN	letter.n.02
 letra	NOUN	letter.n.02
 letra_do_alfabeto	NOUN	letter.n.02
@@ -6811,7 +6811,7 @@ omicrón	NOUN	omicron.n.01
 tau	NOUN	letter.n.02
 omega	NOUN	letter.n.02
 iode	NOUN	yodh.n.01
-ideograma	NOUN	ideogram.n.01
+ideograma	NOUN	character.n.08
 signo_de_puntuación	NOUN	punctuation.n.02
 guión	NOUN	punctuation.n.02	screenplay.n.01
 oitava	NOUN	interval.n.04
@@ -6838,7 +6838,7 @@ esperanto	NOUN	language.n.01
 Esperanto	NOUN	language.n.01
 Idiom_Neutral	NOUN	idiom_neutral.n.01
 Ido	NOUN	language.n.01
-metalinguaxe	NOUN	metalanguage.n.01
+metalinguaxe	NOUN	language.n.01
 prolog	NOUN	language.n.01
 pidgin	NOUN	language.n.01
 algonquino	NOUN	natural_language.n.01	person_of_color.n.01
@@ -6851,8 +6851,8 @@ sundanés	NOUN	sundanese.n.01
 balinés	NOUN	balinese.n.01
 filipino	NOUN	natural_language.n.01
 Khoisan	NOUN	khoisan.n.01
-bielorruso	NOUN	belarusian.n.01	byelorussian.n.01
-lingua_bielorrusa	NOUN	belarusian.n.01
+bielorruso	NOUN	european.n.01	slavic.n.01
+lingua_bielorrusa	NOUN	slavic.n.01
 ucraíno	NOUN	slavic.n.01
 Lingua_Serbocroata	NOUN	slavic.n.01
 inglés_da_BBC	NOUN	received_pronunciation.n.01
@@ -6866,7 +6866,7 @@ Nynorsk	NOUN	scandinavian.n.02
 sueco	NOUN	european.n.01	swedish.n.01
 estoniano	NOUN	baltic-finnic.n.01
 finés	NOUN	finnish.n.01
-gaélico	NOUN	celtic.n.01
+gaélico	NOUN	indo-european.n.02
 latín	NOUN	latin.n.01
 occitano	NOUN	french.n.01
 galego	NOUN	romance.n.03
@@ -6887,12 +6887,12 @@ suahili	NOUN	natural_language.n.01
 Grand_Guignol	NOUN	grand_guignol.n.01
 prólogo	NOUN	introduction.n.02
 diálogo	NOUN	conversation.n.01	dialogue.n.02
-ebulición	NOUN	effusion.n.01
+ebulición	NOUN	expression.n.02
 comedia	NOUN	comedy.n.01
 farsa	NOUN	comedy.n.01
 melodrama	NOUN	comedy.n.01
 traxicomedia	NOUN	comedy.n.01
-traxedia	NOUN	drama.n.03
+traxedia	NOUN	tragedy.n.02
 comedia_de_situación	NOUN	comedy.n.01
 slapstick	NOUN	comedy.n.01
 musical	NOUN	musical.n.01
@@ -6920,7 +6920,7 @@ canción	NOUN	song.n.01
 The_Star-Spangled_Banner	NOUN	the_star-spangled_banner.n.01
 aria	NOUN	song.n.01
 barcarola	NOUN	barcarole.n.01
-retrouso	NOUN	music.n.01
+retrouso	NOUN	refrain.n.01
 cantarela	NOUN	agaric.n.02	song.n.01
 queixume	NOUN	song.n.01
 réquiem	NOUN	song.n.01
@@ -6942,14 +6942,14 @@ funk	NOUN	jazz.n.02
 reggae	NOUN	popular_music.n.01
 estilo	NOUN	expressive_style.n.01
 elocuencia	NOUN	expressive_style.n.01
-arcaísmo	NOUN	archaism.n.01
+arcaísmo	NOUN	formulation.n.03
 linguaxe	NOUN	formulation.n.03
 Anglicismo	NOUN	formulation.n.03
 Galicismo	NOUN	gallicism.n.01
 formulación	NOUN	wording.n.01
 ritmo	NOUN	rate.n.01	rhythm.n.01
 perífrase	NOUN	expressive_style.n.01
-pleonasmo	NOUN	pleonasm.n.01
+pleonasmo	NOUN	expressive_style.n.01
 apócope	NOUN	abbreviation.n.01
 acrónimo	NOUN	acronym.n.01
 xénero	NOUN	genus.n.02	writing_style.n.01
@@ -6971,7 +6971,7 @@ lítote	NOUN	rhetorical_device.n.01
 onomatopea	NOUN	rhetorical_device.n.01
 hipérbole	NOUN	trope.n.01
 metáfora	NOUN	metaphor.n.01
-metonimia	NOUN	metonymy.n.01
+metonimia	NOUN	trope.n.01
 oxímoron	NOUN	trope.n.01
 prosopopea	NOUN	trope.n.01
 símil	NOUN	trope.n.01
@@ -7028,8 +7028,8 @@ refrán	NOUN	proverb.n.01
 banalidade	NOUN	truth.n.03
 dialecto	NOUN	dialect.n.01
 idiolecto	NOUN	idiolect.n.01
-patois	NOUN	slang.n.02
-xerga	NOUN	slang.n.02
+patois	NOUN	non-standard_speech.n.01
+xerga	NOUN	non-standard_speech.n.01
 encantamento	NOUN	spell.n.04
 meigallo	NOUN	spell.n.04
 Decálogo	NOUN	decalogue.n.01
@@ -7062,7 +7062,7 @@ descrición	NOUN	description.n.02
 queixa	NOUN	gripe.n.01
 revelación	NOUN	disclosure.n.01
 reintrodución	NOUN	presentation.n.06
-anécdota	NOUN	anecdote.n.01
+anécdota	NOUN	report.n.02
 narrativa	NOUN	narrative.n.01
 relato	NOUN	narrative.n.01
 rumor	NOUN	rumor.n.01
@@ -7076,7 +7076,7 @@ Gettysburg_Address	NOUN	gettysburg_address.n.01
 ladaíña	NOUN	address.n.03
 oratoria	NOUN	address.n.03
 arenga	NOUN	address.n.03
-amoestación	NOUN	expostulation.n.01
+amoestación	NOUN	communication.n.01
 publicidade	NOUN	ad.n.01	commercial.n.01
 spot	NOUN	ad.n.01
 spot_publicitario	NOUN	commercial.n.01
@@ -7130,7 +7130,7 @@ fracaso	NOUN	collapse.n.02
 eclipse	NOUN	eclipse.n.01
 son	NOUN	sound.n.04
 tribulación	NOUN	trial.n.06
-estrondo	NOUN	clang.n.01	sound.n.04
+estrondo	NOUN	noise.n.01	sound.n.04
 ruído	NOUN	noise.n.01
 tintín	NOUN	noise.n.01
 troupelear	NOUN	noise.n.01
@@ -7155,17 +7155,17 @@ mutación	NOUN	mutation.n.02
 tremor	NOUN	earthquake.n.01
 filtración	NOUN	flow.n.01
 infiltración	NOUN	flow.n.01
-desmembramento	NOUN	injury.n.02
+desmembramento	NOUN	torture.n.05
 mutilación	NOUN	injury.n.02
-arroutada	NOUN	affective_disorder.n.01	gust.n.01	outbreak.n.01
-epidemia	NOUN	outbreak.n.01
-pandemia	NOUN	outbreak.n.01
+arroutada	NOUN	craze.n.02	gust.n.01	outbreak.n.01
+epidemia	NOUN	epidemic.n.01
+pandemia	NOUN	epidemic.n.01
 escape	NOUN	escape.n.07
 perda	NOUN	escape.n.07
-fecundación	NOUN	beginning.n.01
-polinización	NOUN	beginning.n.01
+fecundación	NOUN	creation.n.03
+polinización	NOUN	creation.n.03
 alogamia	NOUN	allogamy.n.01
-angelus	NOUN	angelus_bell.n.01
+angelus	NOUN	sound.n.04
 cerimonia	NOUN	ceremony.n.01
 cerimonial	NOUN	ceremony.n.01
 enterro	NOUN	burial.n.01	funeral.n.01
@@ -7215,7 +7215,7 @@ pracer	NOUN	pleasure.n.01
 deleite	NOUN	pleasure.n.01
 sadomasoquismo	NOUN	sadomasochism.n.01
 sufrimento	NOUN	suffering.n.04
-angustia	NOUN	distress.n.01	grief.n.01
+angustia	NOUN	grief.n.01	pain.n.02
 agrado	NOUN	liking.n.01
 noxo	NOUN	disgust.n.01	dislike.n.02
 desgusto	NOUN	disgust.n.01
@@ -7258,8 +7258,8 @@ remorso	NOUN	sorrow.n.02
 autocompaixón	NOUN	self-pity.n.01
 desalento	NOUN	depression.n.04
 descontento	NOUN	annoyance.n.02	discontentment.n.01	dissatisfaction.n.01
-aburrimento	NOUN	dissatisfaction.n.01
-fastío	NOUN	dissatisfaction.n.01
+aburrimento	NOUN	boredom.n.01
+fastío	NOUN	boredom.n.01
 desesperanza	NOUN	despair.n.02
 cinismo	NOUN	despair.n.02
 amor	NOUN	affair.n.02	love.n.01
@@ -7271,7 +7271,7 @@ misoxinia	NOUN	hate.n.01
 rancor	NOUN	resentment.n.01
 resentimento	NOUN	resentment.n.01
 xenreira	NOUN	emotional_arousal.n.01	resentment.n.01
-mal_xenio	NOUN	temper.n.02
+mal_xenio	NOUN	irritability.n.01
 empatía	NOUN	sympathy.n.02
 alimento_sólido	NOUN	food.n.02
 prato	NOUN	dish.n.02
@@ -7290,7 +7290,7 @@ xantar	NOUN	lunch.n.01
 cea	NOUN	meal.n.01
 lambetada	NOUN	bite.n.04
 adobo	NOUN	dish.n.02	flavorer.n.01
-sopa	NOUN	soup.n.01	soup.n.02
+sopa	NOUN	composition.n.03	soup.n.01
 consomé	NOUN	soup.n.01
 caldo	NOUN	broth.n.01
 gazpacho	NOUN	soup.n.01
@@ -7334,7 +7334,7 @@ bocadillo	NOUN	sandwich.n.01
 sándwich	NOUN	sandwich.n.01
 hamburguesa	NOUN	hamburger.n.01
 pasta_alimenticia	NOUN	pasta.n.02
-polenta	NOUN	food.n.02
+polenta	NOUN	cereal.n.03
 froita	NOUN	edible_fruit.n.01
 hortaliza	NOUN	vegetable.n.01
 verdura	NOUN	vegetable.n.01
@@ -7439,10 +7439,10 @@ sangría	NOUN	drink.n.01
 ponche	NOUN	mixed_drink.n.01
 sidra	NOUN	cider.n.01
 mosto	NOUN	beverage.n.01
-malte	NOUN	milkshake.n.01
+malte	NOUN	drink.n.01
 Coca_Cola	NOUN	soft_drink.n.01
 White_Russian	NOUN	white_russian.n.02
-té	NOUN	tea.n.05
+té	NOUN	herb.n.02
 dicotomía	NOUN	classification.n.02
 bioma	NOUN	biome.n.01
 xente	NOUN	people.n.01
@@ -7546,8 +7546,8 @@ congregación_protestante	NOUN	nongovernmental_organization.n.01
 orde_relixiosa	NOUN	sect.n.01
 seita	NOUN	sect.n.01
 seita_relixiosa	NOUN	sect.n.01
-clero	NOUN	priesthood.n.01
-líder_relixioso	NOUN	priesthood.n.01
+clero	NOUN	clergy.n.01
+líder_relixioso	NOUN	clergy.n.01
 Ordnance_Survey	NOUN	ordnance_survey.n.01
 electorado	NOUN	citizenry.n.01
 senado	NOUN	senate.n.01
@@ -7557,7 +7557,7 @@ poder_xudicial	NOUN	system.n.02
 nación	NOUN	country.n.02	nation.n.02
 Terceiro_Mundo	NOUN	collection.n.01
 bloque	NOUN	bloc.n.01	rock.n.01
-América_do_Sur	NOUN	south_america.n.01	south_america.n.02
+América_do_Sur	NOUN	collection.n.01	south_america.n.01
 Cuartel_Xeral_Supremo_das_Forzas_Aliadas_en_Europa	NOUN	supreme_headquarters_allied_powers_europe.n.01
 superpotencia	NOUN	world_power.n.01
 cidade-estado	NOUN	state.n.04
@@ -7597,7 +7597,7 @@ forzas_especiais	NOUN	special_forces.n.01
 rexemento	NOUN	regiment.n.01
 brigada	NOUN	brigade.n.01
 batallón	NOUN	battalion.n.01
-lector	NOUN	audience.n.02	lector.n.01
+lector	NOUN	audience.n.02	holy_order.n.01
 público	NOUN	audience.n.02
 habitante	NOUN	citizen.n.01	inhabitant.n.01	town.n.02
 confraría	NOUN	club.n.02
@@ -7635,7 +7635,7 @@ varna	NOUN	group.n.01
 concilio	NOUN	council.n.02	council.n.03
 parlamento	NOUN	parliament.n.01
 Duma	NOUN	legislature.n.01
-secretaría	NOUN	administrative_unit.n.01
+secretaría	NOUN	secretariat.n.01
 comisión	NOUN	committee.n.01
 comité	NOUN	committee.n.01
 politburo	NOUN	committee.n.01
@@ -7673,7 +7673,7 @@ hexemonía	NOUN	political_system.n.01
 oclocracia	NOUN	mobocracy.n.01
 oligarquía	NOUN	political_system.n.01
 plutocracia	NOUN	plutocracy.n.01
-república	NOUN	political_system.n.01
+república	NOUN	republic.n.02
 tecnocracia	NOUN	political_system.n.01
 teocracia	NOUN	political_system.n.01
 monarquía	NOUN	monarchy.n.01
@@ -7682,8 +7682,8 @@ nazismo	NOUN	socialism.n.02
 Falange_Española	NOUN	socialism.n.02
 ecosistema	NOUN	ecosystem.n.01
 Asociación_Nacional_do_Rifle	NOUN	political_unit.n.01
-concatenación	NOUN	series.n.01
-ulema	NOUN	ulema.n.01
+concatenación	NOUN	chain.n.01
+ulema	NOUN	body.n.02
 dirección	NOUN	board.n.01
 Corporación_Federal_de_Seguro_de_Depósitos	NOUN	corporation.n.01
 Freddie_Mac	NOUN	federal_home_loan_mortgage_corporation.n.01
@@ -7697,8 +7697,8 @@ nobreza	NOUN	nobility.n.01
 samurai	NOUN	nobility.n.01
 infantaría	NOUN	infantry.n.01
 infantería	NOUN	infantry.n.01
-grupo_terrorista	NOUN	terrorist_organization.n.01
-organización_terrorista	NOUN	terrorist_organization.n.01
+grupo_terrorista	NOUN	movement.n.04
+organización_terrorista	NOUN	movement.n.04
 Exército_dos_Estados_Unidos	NOUN	united_states_army.n.01
 Rangers	NOUN	united_states_army_rangers.n.01
 Academia_Militar_dos_Estados_Unidos	NOUN	united_states_military_academy.n.01
@@ -7730,7 +7730,7 @@ sucesión	NOUN	sequence.n.01
 vangarda	NOUN	movement.n.04
 suprematismo	NOUN	suprematism.n.01
 cubismo	NOUN	movement.n.04
-dadaísmo	NOUN	dada.n.02
+dadaísmo	NOUN	movement.n.04
 movemeno_artístico	NOUN	movement.n.04
 expresionismo	NOUN	movement.n.04
 fauvismo	NOUN	movement.n.04
@@ -7762,7 +7762,7 @@ límite	NOUN	boundary.n.01
 campamento	NOUN	campsite.n.01
 campus	NOUN	campus.n.01
 Cáucaso	NOUN	caucasia.n.01
-equinoccio	NOUN	point.n.02
+equinoccio	NOUN	celestial_point.n.01
 firmamento	NOUN	sky.n.01	surface.n.02
 camposanto	NOUN	cemetery.n.01	tract.n.01
 cemiterio	NOUN	cemetery.n.01	tract.n.01
@@ -7785,19 +7785,19 @@ territorio	NOUN	district.n.01	terrain.n.01
 enclave	NOUN	district.n.01
 arrabalde	NOUN	suburb.n.01
 ducado	NOUN	domain.n.02
-imperio	NOUN	empire.n.01
+imperio	NOUN	domain.n.02
 Camelot	NOUN	camelot.n.01
 principado	NOUN	domain.n.02
 oriente	NOUN	geographical_area.n.01
 Oriente	NOUN	east.n.02
 sur	NOUN	region.n.03	south.n.03
 Pacific_Northwest	NOUN	pacific_northwest.n.01
-eclíptica	NOUN	line.n.11
+eclíptica	NOUN	great_circle.n.01
 paraíso	NOUN	eden.n.01
 cabo	NOUN	end.n.01	military_officer.n.01
 final	NOUN	end.n.01
 Finger_Lakes	NOUN	finger_lakes.n.01
-ecuador_terrestre	NOUN	line.n.11
+ecuador_terrestre	NOUN	great_circle.n.01
 devasa	NOUN	field.n.01
 área_xeográfica	NOUN	geographical_area.n.01
 rexión_xeográfica	NOUN	geographical_area.n.01
@@ -7813,13 +7813,13 @@ xurisdición	NOUN	jurisdiction.n.02
 entobo	NOUN	habitat.n.01
 céspede	NOUN	lawn.n.01
 prado	NOUN	lawn.n.01
-latitude	NOUN	latitude.n.03
+latitude	NOUN	line.n.11
 Lombard_Street	NOUN	lombard_street.n.01
 lonxitude	NOUN	angular_distance.n.01
 Trafalgar_Square	NOUN	trafalgar_square.n.01
 Maghreb	NOUN	maghreb.n.01
 pasteiro	NOUN	grassland.n.01
-nadir	NOUN	point.n.02
+nadir	NOUN	celestial_point.n.01
 parque_nacional	NOUN	park.n.01
 Big_Bend	NOUN	big_bend.n.01
 Polo_Norte	NOUN	north_pole.n.01
@@ -7850,12 +7850,12 @@ concello	NOUN	township.n.01
 aldea	NOUN	village.n.02
 relevo_terrestre	NOUN	terrain.n.01
 terreo	NOUN	terrain.n.01
-trópico	NOUN	latitude.n.03
-vicerreinado	NOUN	viceroyalty.n.01
+trópico	NOUN	line.n.11
+vicerreinado	NOUN	jurisdiction.n.02
 Great_Divide	NOUN	great_divide.n.01
-continente_americano	NOUN	western_hemisphere.n.01
-Novo_Mundo	NOUN	western_hemisphere.n.01
-cénit	NOUN	point.n.02
+continente_americano	NOUN	geographical_area.n.01
+Novo_Mundo	NOUN	geographical_area.n.01
+cénit	NOUN	celestial_point.n.01
 zodíaco	NOUN	region.n.01
 Windhoek	NOUN	windhoek.n.01
 Capadocia	NOUN	cappadocia.n.01
@@ -8793,10 +8793,10 @@ Alpha_Boötis	NOUN	arcturus.n.01
 Arcansas	NOUN	arkansas.n.02
 Río_Arno	NOUN	arno.n.01
 Asia	NOUN	asia.n.01
-asteroide	NOUN	celestial_body.n.01
+asteroide	NOUN	asteroid.n.01
 astenosfera	NOUN	asthenosphere.n.01
 Océano_Atlántico	NOUN	atlantic.n.01
-atol	NOUN	ridge.n.01
+atol	NOUN	reef.n.01
 badía	NOUN	bay.n.01
 baía	NOUN	bay.n.01
 cala	NOUN	bay.n.01
@@ -8813,7 +8813,7 @@ auga	NOUN	body_of_water.n.01	water.n.01	water.n.03
 masa_de_auga	NOUN	body_of_water.n.01
 lamazal	NOUN	wetland.n.01
 lameira	NOUN	wetland.n.01
-bosón	NOUN	boson.n.01
+bosón	NOUN	particle.n.02
 pena	NOUN	cliff.n.01	rock.n.01
 penedo	NOUN	cliff.n.01	rock.n.01
 arroio	NOUN	brook.n.01
@@ -8841,7 +8841,7 @@ precipicio	NOUN	cliff.n.01
 rochedo	NOUN	cliff.n.01
 nube	NOUN	cloud.n.02
 Coma_Berenices	NOUN	coma_berenices.n.01
-cometa	NOUN	natural_object.n.01
+cometa	NOUN	extraterrestrial_object.n.01
 constelación	NOUN	natural_object.n.01
 continente	NOUN	continent.n.01
 Corona_Borealis	NOUN	corona_borealis.n.01
@@ -8882,12 +8882,12 @@ Garona	NOUN	garonne.n.01
 geyser	NOUN	spring.n.03
 glaciar	NOUN	glacier.n.01
 valgada	NOUN	valley.n.01
-gluón	NOUN	boson.n.01
+gluón	NOUN	particle.n.02
 Golden_Gate	NOUN	golden_gate.n.01
 Gran_Canón	NOUN	grand_canyon.n.01
 Grand_River	NOUN	grand_river.n.01
 Grand_Teton	NOUN	grand_teton.n.01
-granulado	NOUN	atom.n.02
+granulado	NOUN	grain.n.01
 gravitón	NOUN	graviton.n.01
 Carro_Maior	NOUN	great_bear.n.01
 Hélice	NOUN	great_bear.n.01
@@ -8927,7 +8927,7 @@ Cova_De_Lascaux	NOUN	lascaux.n.01
 Laurasia	NOUN	laurasia.n.01
 peitoril	NOUN	ledge.n.01
 Lhotse	NOUN	lhotse.n.01
-litosfera	NOUN	lithosphere.n.01
+litosfera	NOUN	layer.n.02
 Osa_Menor	NOUN	little_bear.n.01
 Llano_Estacado	NOUN	llano_estacado.n.01
 Llullaillaco	NOUN	llullaillaco.n.01
@@ -8942,7 +8942,7 @@ Makalu	NOUN	makalu.n.01
 pantano	NOUN	wetland.n.01
 terra_lamacenta	NOUN	wetland.n.01
 Monte_McKinley	NOUN	mckinley.n.02
-meteorito	NOUN	natural_object.n.01
+meteorito	NOUN	extraterrestrial_object.n.01
 Microscopium	NOUN	microscopium.n.01
 en_medio_do_río	NOUN	center.n.01
 Vía_Láctea	NOUN	galaxy.n.03
@@ -8968,8 +8968,8 @@ New_River	NOUN	new_river.n.01
 Cataratas_do_Niágara	NOUN	niagara.n.01
 Mar_do_Norte	NOUN	north_sea.n.01
 nucleón	NOUN	nucleon.n.01
-océano	NOUN	body_of_water.n.01
-Davy_Jones	NOUN	bed.n.03
+océano	NOUN	ocean.n.01
+Davy_Jones	NOUN	natural_depression.n.01
 Octans	NOUN	octans.n.01
 Oder	NOUN	oder.n.01
 Old_Faithful	NOUN	old_faithful.n.01
@@ -8985,8 +8985,8 @@ Paulo_Afonso	NOUN	paulo_afonso.n.01
 Río_Pearl	NOUN	pearl_river.n.02
 pedriña	NOUN	rock.n.01
 pelouro	NOUN	rock.n.01
-península	NOUN	land.n.04
-fotón	NOUN	boson.n.01
+península	NOUN	peninsula.n.01
+fotón	NOUN	particle.n.02
 Pictor	NOUN	pictor.n.01
 plásmido	NOUN	body.n.04
 pólder	NOUN	land.n.02
@@ -9079,7 +9079,7 @@ tor	NOUN	rock.n.01
 Triangulum	NOUN	triangulum.n.01
 Triangulum_Australe	NOUN	triangulum_australe.n.01
 tropopausa	NOUN	tropopause.n.01
-troposfera	NOUN	troposphere.n.01
+troposfera	NOUN	layer.n.02
 Tucana	NOUN	tucana.n.01
 Tugela_Falls	NOUN	tugela.n.01
 tundra	NOUN	plain.n.01
@@ -9106,14 +9106,14 @@ ente_fantástico	NOUN	imaginary_being.n.01
 ser_imaxinario	NOUN	imaginary_being.n.01
 ser_mítico	NOUN	mythical_being.n.01
 Alcione	NOUN	alcyone.n.01
-ieti	NOUN	abominable_snowman.n.01
+ieti	NOUN	mythical_monster.n.01
 Grim_Reaper	NOUN	grim_reaper.n.01
 marciano	NOUN	martian.n.01
 Cadmo	NOUN	cadmus.n.01
 Ciclope	NOUN	imaginary_being.n.01
 Humpty_Dumpty	NOUN	humpty_dumpty.n.01
 Jack_Frost	NOUN	jack_frost.n.01
-anfisbena	NOUN	amphisbaena.n.01
+anfisbena	NOUN	mythical_monster.n.01
 centauro	NOUN	mythical_monster.n.01
 cérbero	NOUN	cerberus.n.01
 dragón	NOUN	dragon.n.01
@@ -9161,11 +9161,11 @@ Santa_Trindade	NOUN	trinity.n.02
 Fillo	NOUN	son.n.02
 Alá	NOUN	allah.n.01
 fauno	NOUN	faun.n.01
-anxo	NOUN	spiritual_being.n.01
-arcanxo	NOUN	spiritual_being.n.01
+anxo	NOUN	angel.n.01
+arcanxo	NOUN	angel.n.01
 serafín	NOUN	seraph.n.01
-elfo	NOUN	elf.n.01
-trasgo	NOUN	elf.n.01	evil_spirit.n.01
+elfo	NOUN	fairy.n.01
+trasgo	NOUN	evil_spirit.n.01	fairy.n.01
 gnomo	NOUN	fairy.n.01
 Lucifer	NOUN	satan.n.01
 Satanás	NOUN	satan.n.01
@@ -9175,10 +9175,10 @@ vampiro	NOUN	vampire.n.01
 ánima	NOUN	spirit.n.04
 espirito	NOUN	spirit.n.04
 Adonis	NOUN	adonis.n.03
-sátiro	NOUN	deity.n.01
+sátiro	NOUN	greek_deity.n.01
 ninfa	NOUN	deity.n.01
-deidade_grega	NOUN	deity.n.01
-divindade_grega	NOUN	deity.n.01
+deidade_grega	NOUN	greek_deity.n.01
+divindade_grega	NOUN	greek_deity.n.01
 Apolo	NOUN	apollo.n.01
 Afrodita	NOUN	aphrodite.n.01
 Ares	NOUN	ares.n.01
@@ -9198,7 +9198,7 @@ Xano	NOUN	janus.n.01
 Hestia	NOUN	hestia.n.01
 Minos	NOUN	minos.n.01
 Moiras	NOUN	moirai.n.01
-Musa	NOUN	deity.n.01
+Musa	NOUN	greek_deity.n.01
 Clio	NOUN	clio.n.01
 Poseidón	NOUN	poseidon.n.01
 Selene	NOUN	selene.n.01
@@ -9223,8 +9223,8 @@ Fenrir	NOUN	fenrir.n.01
 Yggdrasil	NOUN	yggdrasil.n.01
 Ymir	NOUN	ymir.n.01
 Eva	NOUN	eve.n.01
-personaxe_ficticia	NOUN	imaginary_being.n.01
-personaxe_imaxinaria	NOUN	imaginary_being.n.01
+personaxe_ficticia	NOUN	fictional_character.n.01
+personaxe_imaxinaria	NOUN	fictional_character.n.01
 James_Bond	NOUN	bond.n.09
 Valquiria	NOUN	valkyrie.n.01
 Paul_Bunyan	NOUN	bunyan.n.02
@@ -9318,7 +9318,7 @@ sintoísta	NOUN	shintoist.n.01
 europeo	NOUN	european.n.01
 celta	NOUN	european.n.01
 Celta	NOUN	european.n.01
-alxeriano	NOUN	algerian.n.01
+alxeriano	NOUN	person.n.01
 arxentino	NOUN	american.n.03
 bangladeshí	NOUN	bangladeshi.n.01
 hutu	NOUN	hutu.n.01
@@ -9354,10 +9354,10 @@ holandés	NOUN	european.n.01
 palestino	NOUN	person.n.01
 iraquí	NOUN	iraqi.n.01
 irlandés	NOUN	european.n.01
-israelí	NOUN	israeli.n.01
-veneciano	NOUN	venetian.n.01
+israelí	NOUN	asian.n.01
+veneciano	NOUN	european.n.01
 siciliano	NOUN	european.n.01
-xamaicano	NOUN	jamaican.n.01
+xamaicano	NOUN	american.n.03
 xordano	NOUN	jordanian.n.01
 kenyano	NOUN	kenyan.n.01
 curdo	NOUN	asian.n.01
@@ -9372,16 +9372,16 @@ mexicano	NOUN	north_american.n.01
 chicano	NOUN	chicano.n.01
 marroquí	NOUN	moroccan.n.01
 namibio	NOUN	namibian.n.01
-nepalés	NOUN	nepalese.n.01
+nepalés	NOUN	asian.n.01
 nicaraguano	NOUN	nicaraguan.n.01
-nixeriano	NOUN	nigerian.n.01
+nixeriano	NOUN	person.n.01
 paquistaní	NOUN	asian.n.01
 paraguaio	NOUN	paraguayan.n.01
 peruano	NOUN	american.n.03
 ruso	NOUN	native.n.01
 saudita	NOUN	saudi.n.01
 Viquingo	NOUN	european.n.01
-senegalés	NOUN	senegalese.n.01
+senegalés	NOUN	person.n.01
 siberiano	NOUN	siberian.n.01
 sudanés	NOUN	sudanese.n.01
 suízo	NOUN	nation.n.02
@@ -9432,8 +9432,8 @@ cultivador	NOUN	farmer.n.01
 enxeñeiro_agrónomo	NOUN	expert.n.01
 alarmista	NOUN	communicator.n.01
 albino	NOUN	anomaly.n.02
-alcohólico	NOUN	drunkard.n.01
-alcólico	NOUN	drunkard.n.01
+alcohólico	NOUN	drinker.n.02
+alcólico	NOUN	drinker.n.02
 Alí_Babá	NOUN	ali_baba.n.01
 esmoleiro	NOUN	almsgiver.n.01	pauper.n.01
 antigo_alumno	NOUN	alumnus.n.01
@@ -9449,14 +9449,14 @@ antropólogo	NOUN	anthropologist.n.01
 antipapa	NOUN	antipope.n.01
 anticuario	NOUN	expert.n.01
 turiferario	NOUN	advocate.n.01
-apóstolo	NOUN	believer.n.01
+apóstolo	NOUN	apostle.n.01
 apalache	NOUN	appalachian.n.01
 aprendiz	NOUN	apprentice.n.01
 principiante	NOUN	apprentice.n.01
-arameo	NOUN	aramean.n.01
+arameo	NOUN	person.n.01
 xuíz	NOUN	evaluator.n.01	judge.n.01
-arqueólogo	NOUN	anthropologist.n.01
-arcebispo	NOUN	bishop.n.01
+arqueólogo	NOUN	archeologist.n.01
+arcebispo	NOUN	archbishop.n.01
 arqueiro	NOUN	expert.n.01
 arquitecto	NOUN	architect.n.01
 arquiveiro	NOUN	collector.n.01
@@ -9464,13 +9464,13 @@ aristócrata	NOUN	aristocrat.n.01	lord.n.03
 debuxante	NOUN	cartoonist.n.01	illustrator.n.01
 artista	NOUN	artist.n.01	performer.n.01
 creativo	NOUN	artist.n.01
-pintor	NOUN	artist.n.01
+pintor	NOUN	artist.n.01	painter.n.01
 asistente	NOUN	assistant.n.01	attendant.n.01
 auxiliar	NOUN	assistant.n.01
 axudante	NOUN	assistant.n.01	attendant.n.01
 socio	NOUN	associate.n.01
 astrólogo	NOUN	visionary.n.02
-astronauta	NOUN	astronaut.n.01
+astronauta	NOUN	traveler.n.01
 astrónomo	NOUN	astronomer.n.01
 cosmólogo	NOUN	astronomer.n.01
 ateo	NOUN	atheist.n.01
@@ -9480,7 +9480,7 @@ agresor	NOUN	attacker.n.01
 asaltante	NOUN	attacker.n.01
 atacante	NOUN	attacker.n.01
 criminal	NOUN	attacker.n.01	criminal.n.01
-augur	NOUN	visionary.n.02
+augur	NOUN	prophet.n.01
 tía	NOUN	aunt.n.01
 autor	NOUN	film_maker.n.01	writer.n.01
 vingador	NOUN	attacker.n.01
@@ -9530,7 +9530,7 @@ meu_fillo	NOUN	male_child.n.01
 mozo	NOUN	boyfriend.n.01
 noivo	NOUN	boyfriend.n.01
 pretendente	NOUN	boyfriend.n.01	lover.n.01
-criador	NOUN	farmer.n.01
+criador	NOUN	breeder.n.01
 albanel	NOUN	craftsman.n.03
 dama_de_honra	NOUN	attendant.n.01
 cuñado	NOUN	relative.n.01
@@ -9555,7 +9555,7 @@ mercador	NOUN	buyer.n.01	merchant.n.01
 circunstante	NOUN	spectator.n.01
 curioso	NOUN	spectator.n.01
 inmoral	NOUN	cad.n.01
-cadete	NOUN	cadet.n.01
+cadete	NOUN	trainee.n.01
 califa	NOUN	muslim.n.01
 calígrafo	NOUN	skilled_worker.n.01
 camarógrafo	NOUN	photographer.n.01
@@ -9605,27 +9605,27 @@ compositor	NOUN	composer.n.01	songwriter.n.01
 conserxe	NOUN	caretaker.n.01
 pacificador	NOUN	mediator.n.01
 manceba	NOUN	lover.n.03
-confidente	NOUN	friend.n.01
+confidente	NOUN	confidant.n.01
 estafador	NOUN	deceiver.n.01
 confuciano	NOUN	confucian.n.01
 deputado	NOUN	congressman.n.01
 parlamentario	NOUN	congressman.n.01	expert.n.01
 connoisseur	NOUN	authority.n.03
 conquistador	NOUN	explorer.n.01	victor.n.01
-conservador	NOUN	conservative.n.01	curator.n.01
+conservador	NOUN	conservative.n.01	custodian.n.01
 conspirador	NOUN	criminal.n.01
 cónsul	NOUN	consul.n.01
 contemporáneo	NOUN	contemporary.n.01
 conversador	NOUN	speaker.n.01
 falador	NOUN	speaker.n.01
-converso	NOUN	convert.n.01
+converso	NOUN	person.n.01
 cociñeiro	NOUN	chef.n.01	cook.n.01
 toneleiro	NOUN	craftsman.n.03
 coordinador	NOUN	coordinator.n.01
 escribán	NOUN	employee.n.01	official.n.01
 forense	NOUN	investigator.n.02
 cosaco	NOUN	person.n.01
-aldeán	NOUN	cottager.n.01	inhabitant.n.01	yokel.n.01
+aldeán	NOUN	inhabitant.n.01	rustic.n.01
 compatriota	NOUN	national.n.01
 palaciano	NOUN	attendant.n.01
 curmán	NOUN	cousin.n.01
@@ -9636,7 +9636,7 @@ acredor	NOUN	creditor.n.01
 xogador_de_crícket	NOUN	cricketer.n.01
 asasino	NOUN	criminal.n.01	murderer.n.01
 criminólogo	NOUN	specialist.n.01
-cubista	NOUN	artist.n.01
+cubista	NOUN	painter.n.01
 reitor	NOUN	curate.n.01
 vixiante	NOUN	custodian.n.01	watchman.n.01
 cliente	NOUN	customer.n.01
@@ -9644,7 +9644,7 @@ internauta	NOUN	cybernaut.n.01
 tsar	NOUN	sovereign.n.01
 pai	NOUN	dad.n.01	father.n.01
 papá	NOUN	dad.n.01
-Dalai_Lama	NOUN	dalai_lama.n.01
+Dalai_Lama	NOUN	priest.n.02
 dálmata	NOUN	european.n.01
 moza	NOUN	dame.n.01	girl.n.01
 doncela	NOUN	domestic.n.01	girl.n.01
@@ -9654,13 +9654,13 @@ danzarín	NOUN	dancer.n.01
 dandi	NOUN	dandy.n.01
 queridiño	NOUN	darling.n.01
 filla	NOUN	daughter.n.01
-rastrón	NOUN	dawdler.n.01
+rastrón	NOUN	nonworker.n.01
 defunto	NOUN	person.n.01
 discutidor	NOUN	disputant.n.01
-debedor	NOUN	person.n.01
+debedor	NOUN	debtor.n.01
 embusteiro	NOUN	deceiver.n.01
 impostor	NOUN	deceiver.n.01	imposter.n.01
-mentireiro	NOUN	deceiver.n.01	liar.n.01
+mentireiro	NOUN	deceiver.n.01
 trafulqueiro	NOUN	deceiver.n.01
 trampulleiro	NOUN	deceiver.n.01
 delegado	NOUN	delegate.n.01
@@ -9713,8 +9713,8 @@ traballador	NOUN	employee.n.01	workman.n.01
 encantador	NOUN	sorcerer.n.01
 tentadora	NOUN	woman.n.01
 especialista_en_ambiente	NOUN	reformer.n.01
-gastrónomo	NOUN	epicure.n.01
-gourmet	NOUN	epicure.n.01
+gastrónomo	NOUN	sensualist.n.01
+gourmet	NOUN	sensualist.n.01
 inuit	NOUN	person_of_color.n.01
 ensaísta	NOUN	writer.n.01
 eunuco	NOUN	man.n.01
@@ -9774,7 +9774,7 @@ institutriz	NOUN	teacher.n.01
 gobernador	NOUN	governor.n.01
 terceiro_ciclo	NOUN	collegian.n.01
 neto	NOUN	grandchild.n.01	grandson.n.01
-neta	NOUN	granddaughter.n.01
+neta	NOUN	grandchild.n.01
 avó	NOUN	grandfather.n.01	grandparent.n.01
 avoa	NOUN	grandma.n.01
 sepulteiro	NOUN	laborer.n.01
@@ -9790,15 +9790,15 @@ garante	NOUN	patron.n.03
 guerrilla	NOUN	guerrilla.n.01
 guerrilleiro	NOUN	guerrilla.n.01
 xinecólogo	NOUN	specialist.n.02
-bruxa	NOUN	hag.n.01
-harpía	NOUN	hag.n.01	unpleasant_person.n.01
+bruxa	NOUN	old_woman.n.01
+harpía	NOUN	old_woman.n.01	unpleasant_person.n.01
 peiteador	NOUN	hairdresser.n.01
 mestizo	NOUN	half-breed.n.01
 arlequín	NOUN	harlequin.n.01
 director	NOUN	headmaster.n.01
 oínte	NOUN	hearer.n.01
 infiel	NOUN	nonreligious_person.n.01
-herdeira	NOUN	recipient.n.01
+herdeira	NOUN	heir.n.01
 hemofílico	NOUN	sick_person.n.01
 antiheroe	NOUN	antihero.n.01
 heterosexual	NOUN	person.n.01
@@ -9827,22 +9827,22 @@ idiota	NOUN	idiot.n.01
 imbécil	NOUN	idiot.n.01
 parvo	NOUN	anomaly.n.02	idiot.n.01	simpleton.n.01
 ridículo	NOUN	idiot.n.01
-folgazán	NOUN	idler.n.01
-lacaceiro	NOUN	idler.n.01
-lacazán	NOUN	idler.n.01
-langrán	NOUN	idler.n.01
-lerchán	NOUN	idler.n.01
-lombán	NOUN	idler.n.01
-nugallán	NOUN	idler.n.01
-preguiceiro	NOUN	idler.n.01
+folgazán	NOUN	nonworker.n.01
+lacaceiro	NOUN	nonworker.n.01
+lacazán	NOUN	nonworker.n.01
+langrán	NOUN	nonworker.n.01
+lerchán	NOUN	nonworker.n.01
+lombán	NOUN	nonworker.n.01
+nugallán	NOUN	nonworker.n.01
+preguiceiro	NOUN	nonworker.n.01
 idólatra	NOUN	nonreligious_person.n.01
 ignorante	NOUN	unskilled_person.n.01
 analfabeto	NOUN	unskilled_person.n.01
 inmigrante	NOUN	immigrant.n.01
 imperialista	NOUN	believer.n.01
 importador	NOUN	businessperson.n.01
-impresionista	NOUN	artist.n.01
-industrial	NOUN	businessman.n.01
+impresionista	NOUN	painter.n.01
+industrial	NOUN	industrialist.n.01
 informador	NOUN	informer.n.01
 sabio	NOUN	scholar.n.01
 inquiridor	NOUN	inquirer.n.01
@@ -9855,7 +9855,7 @@ inventor	NOUN	inventor.n.01
 investidor	NOUN	investor.n.01
 xitano	NOUN	laborer.n.01
 Xanízaro	NOUN	soldier.n.01
-bufón	NOUN	comedian.n.01
+bufón	NOUN	clown.n.02
 vendedor_por_xunto	NOUN	distributor.n.01
 John_Doe	NOUN	john_doe.n.01	john_doe.n.02
 xograr	NOUN	performer.n.01
@@ -9878,11 +9878,11 @@ letrado	NOUN	lawyer.n.01
 xurista	NOUN	lawyer.n.01
 laico	NOUN	commoner.n.01
 segrar	NOUN	commoner.n.01
-legatario	NOUN	recipient.n.01
+legatario	NOUN	beneficiary.n.01
 lexionario	NOUN	legionnaire.n.02
 prestamista	NOUN	lender.n.01
 lesbiana	NOUN	lesbian.n.01
-mentirán	NOUN	liar.n.01
+mentirán	NOUN	deceiver.n.01
 libertador	NOUN	benefactor.n.01
 bibliotecario	NOUN	librarian.n.01
 litigante	NOUN	litigant.n.01
@@ -9893,7 +9893,7 @@ sentinela	NOUN	lookout.n.01
 fidalgo	NOUN	lord.n.03
 nobre	NOUN	lord.n.03
 Lord_Privy_Seal	NOUN	lord_privy_seal.n.01
-lumieira	NOUN	celebrity.n.01
+lumieira	NOUN	luminary.n.01
 tolo	NOUN	sick_person.n.01
 laudista	NOUN	musician.n.01
 luterano	NOUN	disciple.n.01
@@ -9902,9 +9902,9 @@ mestre	NOUN	maestro.n.01	teacher.n.01
 maxistrado	NOUN	judge.n.01
 mago	NOUN	sorcerer.n.01
 carteiro	NOUN	mailman.n.01
-senescal	NOUN	major-domo.n.01
+senescal	NOUN	servant.n.01
 rapiñeiro	NOUN	malingerer.n.01
-maoísta	NOUN	maoist.n.01
+maoísta	NOUN	advocate.n.01
 marine	NOUN	marine.n.02
 mariñeiro	NOUN	mariner.n.01
 navegante	NOUN	mariner.n.01
@@ -9921,7 +9921,7 @@ mensaxeiro	NOUN	messenger.n.01
 meteorólogo	NOUN	specialist.n.01
 metodista	NOUN	protestant.n.01
 microbiólogo	NOUN	biologist.n.01
-garda_mariña	NOUN	cadet.n.01
+garda_mariña	NOUN	trainee.n.01
 comadroa	NOUN	nurse.n.01
 parteira	NOUN	nurse.n.01
 activista	NOUN	militant.n.01
@@ -9978,8 +9978,8 @@ bárbaro	NOUN	unpleasant_person.n.01
 peón	NOUN	pedestrian.n.01
 pedófilo	NOUN	wrongdoer.n.01
 penitente	NOUN	religious_person.n.01
-pensionista	NOUN	recipient.n.01
-xubilado	NOUN	nonworker.n.01	recipient.n.01
+pensionista	NOUN	pensioner.n.01
+xubilado	NOUN	nonworker.n.01	pensioner.n.01
 autor_(dun_crime)	NOUN	perpetrator.n.01
 culpábel	NOUN	perpetrator.n.01
 culpable	NOUN	perpetrator.n.01
@@ -10030,7 +10030,7 @@ divulgador	NOUN	communicator.n.01
 oleiro	NOUN	craftsman.n.03
 pretor	NOUN	judge.n.01
 predicador	NOUN	preacher.n.01
-prefecto	NOUN	administrator.n.03
+prefecto	NOUN	prefect.n.01
 presbítero	NOUN	official.n.01
 presbiteriano	NOUN	protestant.n.01
 presidente_dos_Estados_Unidos_de_América	NOUN	head_of_state.n.01
@@ -10099,8 +10099,8 @@ estudoso	NOUN	scholar.n.01
 escolar	NOUN	male_child.n.01
 estudante	NOUN	female_child.n.01	schoolchild.n.01	student.n.01
 rapaza	NOUN	female_child.n.01
-compañeiro_de_clase	NOUN	schoolmate.n.01
-compañeiro_de_escola	NOUN	schoolmate.n.01
+compañeiro_de_clase	NOUN	acquaintance.n.03
+compañeiro_de_escola	NOUN	acquaintance.n.03
 mestre_de_escola	NOUN	teacher.n.01
 científico	NOUN	scientist.n.01
 guionista	NOUN	scriptwriter.n.01
@@ -10120,7 +10120,7 @@ colono	NOUN	settler.n.01
 sancristán	NOUN	caretaker.n.01	verger.n.01
 shériff	NOUN	sheriff.n.01
 irmán	NOUN	sibling.n.01
-sibila	NOUN	visionary.n.02
+sibila	NOUN	prophet.n.01
 doente	NOUN	sick_person.n.01
 enfermo	NOUN	sick_person.n.01
 signatario	NOUN	person.n.01
@@ -10163,7 +10163,7 @@ sector_interesado	NOUN	stakeholder.n.01
 estadista	NOUN	politician.n.02
 home_de_estado	NOUN	politician.n.02
 actuario	NOUN	calculator.n.01
-medio_irmán	NOUN	kinsman.n.01
+medio_irmán	NOUN	brother.n.01
 accionista	NOUN	stockholder.n.01
 bailarín_de_strip-tease	NOUN	performer.n.01
 pupilo	NOUN	student.n.01
@@ -12513,7 +12513,7 @@ fluorescencia	NOUN	light.n.01
 néboa	NOUN	fog.n.01
 tormenta	NOUN	storm.n.01
 luz_de_gas	NOUN	gaslight.n.01
-gravidade	NOUN	gravity.n.01
+gravidade	NOUN	attraction.n.01
 raxada	NOUN	gust.n.01
 refacho	NOUN	gust.n.01
 sarabia	NOUN	hailstone.n.01	precipitation.n.03
@@ -12548,7 +12548,7 @@ chuvia_torrencial	NOUN	storm.n.01
 ballón	NOUN	rain.n.01
 refracción	NOUN	physical_phenomenon.n.01
 fume	NOUN	smoke.n.01
-gases	NOUN	exhaust.n.01	smoke.n.01
+gases	NOUN	smoke.n.01	waste.n.01
 vapor	NOUN	smoke.n.01	vapor.n.01
 neve	NOUN	snow.n.01	snow.n.02
 virga	NOUN	virga.n.01
@@ -12563,10 +12563,10 @@ turbulencia	NOUN	physical_phenomenon.n.01
 tromba_de_auga	NOUN	waterspout.n.01
 tempo	NOUN	time.n.03	weather.n.01
 tempo_atmosférico	NOUN	weather.n.01
-vento_de_poñente	NOUN	prevailing_westerly.n.01
+vento_de_poñente	NOUN	wind.n.01
 corrente_de_aire	NOUN	wind.n.01
 vento	NOUN	wind.n.01
-raios_x	NOUN	x_ray.n.01
+raios_x	NOUN	electromagnetic_radiation.n.01
 paralaxe	NOUN	optical_phenomenon.n.01
 orde_das_plantas	NOUN	order.n.12
 briófita	NOUN	organism.n.01
@@ -12592,7 +12592,7 @@ orde_dos_fungos	NOUN	order.n.12
 ximnosperma	NOUN	spermatophyte.n.01
 piñeiro	NOUN	pine.n.01
 abeto	NOUN	conifer.n.01
-Cedro	NOUN	cedrus.n.01
+Cedro	NOUN	genus.n.02
 cedro	NOUN	wood.n.01
 madeira_de_cedro	NOUN	wood.n.01
 sequoia	NOUN	wood.n.01
@@ -12686,7 +12686,7 @@ rododendro	NOUN	shrub.n.01
 landra	NOUN	fruit.n.01
 carballo	NOUN	oak.n.02
 oliveira	NOUN	fruit_tree.n.01
-nogueira	NOUN	nut_tree.n.01
+nogueira	NOUN	angiospermous_tree.n.01
 Myrtales	NOUN	myrtales.n.01
 myrtaceae	NOUN	myrtaceae.n.01
 eucalipto	NOUN	tree.n.01
@@ -12702,7 +12702,7 @@ olmo	NOUN	tree.n.01
 azafrán	NOUN	bulbous_plant.n.01
 narciso	NOUN	bulbous_plant.n.01
 planta_liliácea	NOUN	liliaceous_plant.n.01
-cebola	NOUN	onion.n.02
+cebola	NOUN	alliaceous_plant.n.01
 allo	NOUN	garlic.n.01
 áloe	NOUN	vascular_plant.n.01
 asfódelo	NOUN	asphodel.n.01
@@ -12754,7 +12754,7 @@ poexo	NOUN	pennyroyal.n.01
 romeu	NOUN	herb.n.01
 sésamo	NOUN	herb.n.01
 abeluria	NOUN	herb.n.01
-verónica	NOUN	veronica.n.01
+verónica	NOUN	flower.n.01
 beladona	NOUN	woody_plant.n.01
 pataca	NOUN	potato.n.02
 pemento	NOUN	capsicum.n.01
@@ -12772,7 +12772,7 @@ cenoria	NOUN	herb.n.01
 perexil	NOUN	herb.n.01
 anís	NOUN	herb.n.01
 Osmundaceae	NOUN	osmundaceae.n.01
-cloroplasto	NOUN	atom.n.02
+cloroplasto	NOUN	grain.n.01
 lique	NOUN	fungus.n.01
 fungo	NOUN	fungus.n.01
 agárico	NOUN	agaric.n.02
@@ -12824,7 +12824,7 @@ fronde	NOUN	frond.n.01
 bráctea	NOUN	husk.n.02
 póla	NOUN	branch.n.02
 garabullo	NOUN	branch.n.02	brushwood.n.01
-gomo	NOUN	bud.n.02
+gomo	NOUN	sprout.n.01
 galla	NOUN	branch.n.02
 familia_dos_fentos	NOUN	family.n.06
 xénero_dos_fentos	NOUN	genus.n.02
@@ -12920,7 +12920,7 @@ electrólise	NOUN	chemical_reaction.n.01
 elisión	NOUN	elision.n.01
 erosión	NOUN	geological_process.n.01
 eutrofización	NOUN	organic_process.n.01
-feminización	NOUN	feminization.n.01
+feminización	NOUN	pathologic_process.n.01
 chama	NOUN	fire.n.03
 lapa	NOUN	fire.n.03
 lume	NOUN	fire.n.03	fire.n.05	fuel.n.01
@@ -12941,7 +12941,7 @@ metabolismo	NOUN	organic_process.n.01
 micción	NOUN	elimination.n.02
 mitose	NOUN	organic_process.n.01
 proceso_natural	NOUN	natural_process.n.01
-obsolescencia	NOUN	process.n.06
+obsolescencia	NOUN	degeneration.n.01
 proceso_biolóxico	NOUN	organic_process.n.01
 proceso_orgánico	NOUN	organic_process.n.01
 osmose	NOUN	diffusion.n.01
@@ -12984,7 +12984,7 @@ vatio	NOUN	watt.n.01
 watt	NOUN	watt.n.01
 quilovatio	NOUN	power_unit.n.01
 megavatio	NOUN	power_unit.n.01
-cabalo_de_vapor	NOUN	horsepower.n.01
+cabalo_de_vapor	NOUN	power_unit.n.01
 voltampere	NOUN	power_unit.n.01
 ohm	NOUN	electromagnetic_unit.n.01
 dina	NOUN	dyne.n.01
@@ -13028,7 +13028,7 @@ dezasete	NOUN	large_integer.n.01	rank.n.02
 dezaoito	NOUN	large_integer.n.01
 dezanove	NOUN	large_integer.n.01
 trinta	NOUN	thirty.n.01
-sesenta	NOUN	sixty.n.01
+sesenta	NOUN	large_integer.n.01
 setenta	NOUN	seventy.n.01
 oitenta	NOUN	eighty.n.01
 noventa	NOUN	ninety.n.01
@@ -13038,10 +13038,10 @@ mil	NOUN	thousand.n.01
 número_pi	NOUN	irrational_number.n.01
 capacidade	NOUN	containerful.n.01
 mínimo	NOUN	small_indefinite_quantity.n.01
-brazado	NOUN	armful.n.01
+brazado	NOUN	containerful.n.01
 balde	NOUN	containerful.n.01
 carga_dun_carro	NOUN	cartload.n.01
-cullerada	NOUN	containerful.n.01
+cullerada	NOUN	spoon.n.02
 dedaliño	NOUN	containerful.n.01
 contagotas	NOUN	drop.n.02
 chisco	NOUN	small_indefinite_quantity.n.01
@@ -13050,7 +13050,7 @@ unha_chea	NOUN	large_indefinite_quantity.n.01
 causalidade	NOUN	relation.n.01
 función	NOUN	function.n.01
 función_matemática	NOUN	function.n.01
-rotación	NOUN	rotation.n.02
+rotación	NOUN	transformation.n.02
 pertinencia	NOUN	relevance.n.01
 relevancia	NOUN	relevance.n.01
 aplicabilidade	NOUN	relevance.n.01
@@ -13074,7 +13074,7 @@ undécimo	NOUN	rank.n.02
 décimo_cuarto	NOUN	rank.n.02
 décimo_sétimo	NOUN	rank.n.02
 décimo_oitavo	NOUN	rank.n.02
-trixésimo	NOUN	thirtieth.n.01
+trixésimo	NOUN	rank.n.02
 concavidade	NOUN	concave_shape.n.01
 forma_cóncava	NOUN	concave_shape.n.01
 forma_poligonal	NOUN	polygon.n.01
@@ -13112,7 +13112,7 @@ elipsoide	NOUN	plane_figure.n.01
 hipotenusa	NOUN	flank.n.02
 desproporción	NOUN	disparity.n.01
 esfera	NOUN	sphere.n.05
-periferia	NOUN	boundary.n.02
+periferia	NOUN	periphery.n.01
 cicloide	NOUN	cycloid.n.01
 baleiro	NOUN	emptiness.n.01	void.n.02
 condición	NOUN	condition.n.01
@@ -13147,31 +13147,31 @@ nirvana	NOUN	happiness.n.01
 acedume	NOUN	unhappiness.n.02
 culpa	NOUN	guilt.n.01
 complicidade	NOUN	guilt.n.01
-criminalidade	NOUN	guilt.n.01
+criminalidade	NOUN	criminalism.n.01
 autarquía	NOUN	independence.n.01
 independencia	NOUN	independence.n.01
-liberdade	NOUN	freedom.n.01
+liberdade	NOUN	liberty.n.03
 escravitude	NOUN	bondage.n.02
 encarceramento	NOUN	captivity.n.01
 autonomía	NOUN	autonomy.n.02
 autosuficiencia	NOUN	autonomy.n.02
-homeostase	NOUN	situation.n.01
+homeostase	NOUN	equilibrium.n.01
 isostasia	NOUN	isostasy.n.01
 precesión	NOUN	motion.n.04
 suspenso	NOUN	abeyance.n.01
 desuso	NOUN	inaction.n.01
 recesión	NOUN	economic_condition.n.01
-cansazo	NOUN	fatigue.n.01
+cansazo	NOUN	temporary_state.n.01
 acidose	NOUN	pathology.n.02
 insomnio	NOUN	disorder.n.01
 sono	NOUN	sleep.n.01	temporary_state.n.01
 somnolencia	NOUN	temporary_state.n.01
-inminencia	NOUN	imminence.n.01
+inminencia	NOUN	state.n.02
 flatulencia	NOUN	physical_condition.n.01
 erección	NOUN	arousal.n.02
 fame	NOUN	hunger.n.01
-desnutrición	NOUN	disease.n.01	undernourishment.n.01
-subalimentación	NOUN	undernourishment.n.01
+desnutrición	NOUN	disease.n.01	hunger.n.01
+subalimentación	NOUN	hunger.n.01
 esterilidade	NOUN	physical_condition.n.01
 embarazo	NOUN	pregnancy.n.01
 aclorhidria	NOUN	achlorhydria.n.01
@@ -13207,7 +13207,7 @@ morbo	NOUN	infectious_disease.n.01
 hepatite	NOUN	infectious_disease.n.01
 sífilis	NOUN	contagious_disease.n.01
 lepra	NOUN	infectious_disease.n.01
-listeriose	NOUN	listeriosis.n.01
+listeriose	NOUN	infectious_disease.n.01
 meninxite	NOUN	infectious_disease.n.01
 polio	NOUN	infectious_disease.n.01
 poliomielite	NOUN	infectious_disease.n.01
@@ -13252,9 +13252,9 @@ adenite	NOUN	adenitis.n.01
 apendicite	NOUN	inflammation.n.01
 hipercalcemia	NOUN	hypercalcemia.n.01
 hiperpotasemia	NOUN	hyperkalemia.n.01
-hipopotasemia	NOUN	hypokalemia.n.01
+hipopotasemia	NOUN	symptom.n.01
 hipernatremia	NOUN	hypernatremia.n.01
-hiponatremia	NOUN	hyponatremia.n.01
+hiponatremia	NOUN	symptom.n.01
 rabia	NOUN	disease.n.01
 mal_das_ovellas_tolas	NOUN	disease.n.01
 zoonose	NOUN	disease.n.01
@@ -13267,7 +13267,7 @@ hemorraxia	NOUN	bleeding.n.01
 hematoma	NOUN	bruise.n.01
 mazadura	NOUN	bruise.n.01
 síntoma	NOUN	symptom.n.01
-amenorrea	NOUN	amenorrhea.n.01
+amenorrea	NOUN	symptom.n.01
 absceso	NOUN	symptom.n.01
 espirro	NOUN	reflex.n.01
 dor	NOUN	pain.n.01
@@ -13293,16 +13293,16 @@ cicatriz	NOUN	symptom.n.01
 febre	NOUN	fever.n.01
 xigantismo	NOUN	abnormality.n.01
 acromegalia	NOUN	acromegaly.n.01
-diarrea	NOUN	symptom.n.01
+diarrea	NOUN	diarrhea.n.01
 vertixe	NOUN	dizziness.n.01
-cordura	NOUN	psychological_state.n.01
-sensatez	NOUN	psychological_state.n.01
+cordura	NOUN	sanity.n.01
+sensatez	NOUN	sanity.n.01
 fobia	NOUN	mental_disorder.n.01
 agorafobia	NOUN	mental_disorder.n.01
 fobia_simple	NOUN	mental_disorder.n.01
 acrofobia	NOUN	acrophobia.n.01
 xenofobia	NOUN	mental_disorder.n.01
-frenesí	NOUN	affective_disorder.n.01
+frenesí	NOUN	craze.n.02
 neurose	NOUN	mental_disorder.n.01
 demencia	NOUN	insanity.n.01
 tolemia	NOUN	insanity.n.01
@@ -13324,8 +13324,8 @@ rango	NOUN	rank.n.02
 primacía	NOUN	importance.n.02
 prestixio	NOUN	standing.n.01
 anonimato	NOUN	anonymity.n.01
-celebridade	NOUN	dishonor.n.01
-notoriedade	NOUN	dishonor.n.01
+celebridade	NOUN	notoriety.n.01
+notoriedade	NOUN	notoriety.n.01
 ignominia	NOUN	shame.n.02
 vergonza	NOUN	shame.n.02
 decadencia	NOUN	abasement.n.01
@@ -13360,22 +13360,22 @@ elemento_favorábel	NOUN	blessing.n.02
 elemento_favorable	NOUN	blessing.n.02
 solvencia	NOUN	financial_condition.n.01
 líquido	NOUN	liquid.n.01	liquid.n.02	liquid.n.03
-gas	NOUN	gas.n.01	gas.n.02	natural_gas.n.01
+gas	NOUN	fossil_fuel.n.01	gas.n.01	gas.n.02
 ocasión	NOUN	opportunity.n.01
 oportunidade	NOUN	opportunity.n.01
 riqueza	NOUN	wealth.n.01
 opulencia	NOUN	affluence.n.01	luxury.n.03
 pobreza	NOUN	poverty.n.01
 miseria	NOUN	dirtiness.n.01	poverty.n.01
-indixencia	NOUN	poverty.n.01
+indixencia	NOUN	indigence.n.01
 mediocridade	NOUN	dirtiness.n.01
 anomalía	NOUN	abnormality.n.01
 anormalidade	NOUN	abnormality.n.01
 xinecomastia	NOUN	gynecomastia.n.01
-ananismo	NOUN	disease.n.01
+ananismo	NOUN	genetic_disease.n.01
 ergotismo	NOUN	ergotism.n.01
-contaminación	NOUN	pollution.n.01
-smog	NOUN	pollution.n.01
+contaminación	NOUN	impurity.n.02
+smog	NOUN	impurity.n.02
 deforestación	NOUN	environmental_condition.n.01
 clima	NOUN	climate.n.01
 anticiclón	NOUN	atmosphere.n.04
@@ -13387,7 +13387,7 @@ humidade	NOUN	humidity.n.01	moisture.n.01	wetness.n.01
 humidade_do_solo	NOUN	moisture.n.01
 Pax_Romana	NOUN	pax_romana.n.01
 perigo	NOUN	hazard.n.01
-tensión	NOUN	condition.n.01
+tensión	NOUN	tension.n.02
 discapacidade	NOUN	disability.n.01
 incapacidade	NOUN	disability.n.01
 invalidez	NOUN	disability.n.01
@@ -13399,7 +13399,7 @@ desorde_visual	NOUN	disability.n.01
 discapacidade_visual	NOUN	disability.n.01
 miopía	NOUN	disability.n.01
 parálise	NOUN	dysfunction.n.01
-decrepitude	NOUN	decrepitude.n.01
+decrepitude	NOUN	decay.n.04
 ylem	NOUN	ylem.n.01
 materia_escura	NOUN	dark_matter.n.01
 materia_negra	NOUN	dark_matter.n.01
@@ -13553,12 +13553,12 @@ alquilbenceno	NOUN	organic_compound.n.01
 haloalcano	NOUN	organic_compound.n.01
 haloxenuro_de_alquilo	NOUN	organic_compound.n.01
 haluro_de_alquilo	NOUN	organic_compound.n.01
-ácido_aminoalcanoico	NOUN	amino_acid.n.01
-aminoácido	NOUN	amino_acid.n.01
+ácido_aminoalcanoico	NOUN	organic_compound.n.01
+aminoácido	NOUN	organic_compound.n.01
 alanina	NOUN	alanine.n.01
 arxila	NOUN	argil.n.01	clay.n.01	mud.n.01	soil.n.02
 arsenical	NOUN	arsenical.n.01
-asparaxina	NOUN	amino_acid.n.01
+asparaxina	NOUN	organic_compound.n.01
 ácido_aspártico	NOUN	aspartic_acid.n.01
 canavanina	NOUN	canavanine.n.01
 clorobenceno	NOUN	chlorobenzene.n.01
@@ -13570,27 +13570,27 @@ cloroacetofenona	NOUN	gas.n.02
 gas_CN	NOUN	gas.n.02
 citrato	NOUN	salt.n.01
 citrulina	NOUN	citrulline.n.01
-cisteína	NOUN	amino_acid.n.01
+cisteína	NOUN	organic_compound.n.01
 cistina	NOUN	cystine.n.01
 diamagneto	NOUN	diamagnet.n.01
 diamina	NOUN	organic_compound.n.01
-dihidroxifenilalanina	NOUN	amino_acid.n.01
-dopa	NOUN	amino_acid.n.01
-L-dopa	NOUN	amino_acid.n.01
-levodopa	NOUN	amino_acid.n.01
+dihidroxifenilalanina	NOUN	organic_compound.n.01
+dopa	NOUN	organic_compound.n.01
+L-dopa	NOUN	organic_compound.n.01
+levodopa	NOUN	organic_compound.n.01
 endonucleasa	NOUN	enzyme.n.01
 enol	NOUN	organic_compound.n.01
-aminoácidos_esenciais	NOUN	amino_acid.n.01
+aminoácidos_esenciais	NOUN	organic_compound.n.01
 exonucleasa	NOUN	enzyme.n.01
 ácido_gamma-aminobutírico	NOUN	gamma_aminobutyric_acid.n.01
 GABA	NOUN	gamma_aminobutyric_acid.n.01
 ácido_glutámico	NOUN	glutamic_acid.n.01
-glutamina	NOUN	amino_acid.n.01
+glutamina	NOUN	organic_compound.n.01
 glutationa_peroxidasa	NOUN	glutathione_peroxidase.n.01
-glicina	NOUN	amino_acid.n.01
+glicina	NOUN	organic_compound.n.01
 hidroxiprolina	NOUN	hydroxyproline.n.01
 aminoácido_iodado	NOUN	iodoamino_acid.n.01
-ornitina	NOUN	amino_acid.n.01
+ornitina	NOUN	organic_compound.n.01
 ácido	NOUN	acid.n.01
 indicador_do_ácido-base	NOUN	indicator.n.04
 AAL	NOUN	alpha-linolenic_acid.n.01
@@ -13672,8 +13672,8 @@ radical_alquilo	NOUN	group.n.02
 alilo	NOUN	group.n.02
 grupo_alilo	NOUN	group.n.02
 radical_alilo	NOUN	group.n.02
-amino	NOUN	amino.n.01
-grupo_amino	NOUN	amino.n.01
+amino	NOUN	group.n.02
+grupo_amino	NOUN	group.n.02
 aminometano	NOUN	aminomethane.n.01
 amil	NOUN	amyl.n.01
 composto_aniónico	NOUN	anionic_compound.n.01
@@ -13687,8 +13687,8 @@ composto_binario	NOUN	binary_compound.n.01
 composto_de_quelato	NOUN	compound.n.02
 quelato	NOUN	compound.n.02
 isótopo	NOUN	isotope.n.01
-radioisótopo	NOUN	isotope.n.01
-trazador	NOUN	isotope.n.01
+radioisótopo	NOUN	radioisotope.n.01
+trazador	NOUN	radioisotope.n.01
 halón	NOUN	halon.n.01
 bromoformo	NOUN	bromoform.n.01
 tribromometano	NOUN	bromoform.n.01
@@ -13782,8 +13782,8 @@ número_atómico_83	NOUN	metallic_element.n.01
 Bh	NOUN	chemical_element.n.01
 bohrio	NOUN	chemical_element.n.01
 número_atómico_107	NOUN	chemical_element.n.01
-boro	NOUN	boron.n.01
-número_atómico_5	NOUN	boron.n.01
+boro	NOUN	chemical_element.n.01
+número_atómico_5	NOUN	chemical_element.n.01
 Br	NOUN	halogen.n.01
 bromo	NOUN	halogen.n.01
 número_atómico_35	NOUN	halogen.n.01
@@ -13796,7 +13796,7 @@ número_atómico_20	NOUN	calcium.n.01
 californio	NOUN	metallic_element.n.01
 Cf	NOUN	metallic_element.n.01
 número_atómico_98	NOUN	metallic_element.n.01
-C	NOUN	antioxidant.n.01	carbon.n.01	nucleotide.n.01	pyrimidine.n.01
+C	NOUN	antioxidant.n.01	base.n.10	carbon.n.01	nucleotide.n.01
 carbono	NOUN	carbon.n.01
 número_atómico_6	NOUN	carbon.n.01
 átomos_de_carbono	NOUN	atom.n.01
@@ -13835,9 +13835,9 @@ número_atómico_105	NOUN	dubnium.n.01
 disprosio	NOUN	metallic_element.n.01
 Dy	NOUN	metallic_element.n.01
 número_atómico_66	NOUN	metallic_element.n.01
-einsteinio	NOUN	einsteinium.n.01
-Es	NOUN	einsteinium.n.01
-número_atómico_99	NOUN	einsteinium.n.01
+einsteinio	NOUN	metallic_element.n.01
+Es	NOUN	metallic_element.n.01
+número_atómico_99	NOUN	metallic_element.n.01
 Er	NOUN	metallic_element.n.01
 erbio	NOUN	metallic_element.n.01
 número_atómico_68	NOUN	metallic_element.n.01
@@ -13919,9 +13919,9 @@ número_atómico_3	NOUN	lithium.n.01
 Lu	NOUN	metallic_element.n.01
 lutecio	NOUN	metallic_element.n.01
 número_atómico_71	NOUN	metallic_element.n.01
-magnesio	NOUN	metallic_element.n.01
-Mg	NOUN	metallic_element.n.01
-número_atómico_12	NOUN	metallic_element.n.01
+magnesio	NOUN	magnesium.n.01
+Mg	NOUN	magnesium.n.01
+número_atómico_12	NOUN	magnesium.n.01
 manganeso	NOUN	metallic_element.n.01
 Mn	NOUN	metallic_element.n.01
 número_atómico_25	NOUN	metallic_element.n.01
@@ -14159,7 +14159,7 @@ carnotita	NOUN	carnotite.n.01
 caspase	NOUN	enzyme.n.01
 casiterita	NOUN	cassiterite.n.01
 celestita	NOUN	celestite.n.01
-cerusita	NOUN	cerussite.n.01	white_lead.n.01
+cerusita	NOUN	cerussite.n.01	pigment.n.01
 calcocite	NOUN	chalcocite.n.01
 calcopirita	NOUN	chalcopyrite.n.01
 pirita_de_cobre	NOUN	chalcopyrite.n.01
@@ -14188,9 +14188,9 @@ cuprita	NOUN	cuprite.n.01
 cutina	NOUN	cutin.n.01
 damourita	NOUN	damourite.n.01
 dolomita	NOUN	mineral.n.01	rock.n.02
-terra_de_cor	NOUN	mineral.n.01
+terra_de_cor	NOUN	pigment.n.01
 esmeril	NOUN	mineral.n.01
-emulsificante	NOUN	chemical_agent.n.01
+emulsificante	NOUN	agent.n.03
 emulsión	NOUN	colloid.n.01
 eritrina	NOUN	erythrite.n.01
 fergusonita	NOUN	fergusonite.n.01
@@ -14198,7 +14198,7 @@ fluorapatita	NOUN	fluorapatite.n.01
 espato_de_flúor	NOUN	fluorite.n.01
 fluorita	NOUN	fluorite.n.01
 gadolinita	NOUN	gadolinite.n.01
-galena	NOUN	galena.n.01
+galena	NOUN	mineral.n.01
 granate	NOUN	transparent_gem.n.01
 garnierita	NOUN	garnierite.n.01
 almandina	NOUN	almandine.n.01	almandite.n.01
@@ -14222,7 +14222,7 @@ quieserita	NOUN	kieserite.n.01
 cianita	NOUN	kyanite.n.01
 lactato	NOUN	salt.n.01
 langbeinita	NOUN	langbeinite.n.01
-lecitina	NOUN	chemical_agent.n.01
+lecitina	NOUN	lipid.n.01
 lepidolita	NOUN	lepidolite.n.01
 lepidomelana	NOUN	lepidomelane.n.01
 magnesita	NOUN	magnesite.n.01
@@ -14253,7 +14253,7 @@ olivenita	NOUN	olivenite.n.01
 ozónido	NOUN	ozonide.n.01
 perclorato	NOUN	salt.n.01
 ácido_perclórico	NOUN	perchloric_acid.n.01
-prolina	NOUN	amino_acid.n.01
+prolina	NOUN	organic_compound.n.01
 biomasa	NOUN	fuel.n.01
 butano	NOUN	methane_series.n.01
 borrallo	NOUN	carbon.n.01
@@ -14262,8 +14262,8 @@ carbón_vexetal	NOUN	carbon.n.01
 gas_de_carbón	NOUN	coal_gas.n.01
 gas_de_cidade	NOUN	town_gas.n.01
 coque	NOUN	fuel.n.01
-diésel	NOUN	diesel_oil.n.01
-gasóleo	NOUN	diesel_oil.n.01
+diésel	NOUN	fuel.n.01
+gasóleo	NOUN	fuel.n.01
 derv	NOUN	derv.n.01
 combustible_fósil	NOUN	fossil_fuel.n.01
 fuel	NOUN	oil.n.01
@@ -14351,7 +14351,7 @@ ricina	NOUN	simple_protein.n.01
 brita	NOUN	road_metal.n.01
 pedra	NOUN	rock.n.02
 rocha	NOUN	rock.n.02
-rocha_arenosa	NOUN	sedimentary_rock.n.01
+rocha_arenosa	NOUN	arenaceous_rock.n.01
 rocha_arxilosa	NOUN	argillaceous_rock.n.01
 rocha_de_sedimentos_rudáceos	NOUN	sedimentary_rock.n.01
 rocha_sedimentaria	NOUN	sedimentary_rock.n.01
@@ -14364,17 +14364,17 @@ grava	NOUN	gravel.n.01
 corneana	NOUN	hornfels.n.01
 pedra_de_mala_calidade_empregada_en_cachotaría	NOUN	gravel.n.01
 banco_de_grava	NOUN	gravel.n.01
-caliche	NOUN	caliche.n.01	caliche.n.02
+caliche	NOUN	caliche.n.02	soil.n.02
 grixo	NOUN	gravel.n.01
 pedra_preciosa	NOUN	gem.n.02
 xema	NOUN	gem.n.02
 cabochón	NOUN	gem.n.02
 estrato_de_cantos	NOUN	shingling.n.01
 pedra_pómez	NOUN	rock.n.02
-arenita_grosa	NOUN	sedimentary_rock.n.01
+arenita_grosa	NOUN	arenaceous_rock.n.01
 produto_de_orixe_animal	NOUN	animal_product.n.01
 ámbar_gris	NOUN	animal_product.n.01
-laca	NOUN	animal_product.n.01	exudate.n.01	lake.n.02	lake.n.03
+laca	NOUN	animal_product.n.01	exudate.n.01	pigment.n.01
 laca_granate	NOUN	garnet_lac.n.01
 goma_laca_de_Madagascar	NOUN	gum-lac.n.01
 goma_laca	NOUN	animal_product.n.01
@@ -14408,7 +14408,7 @@ cemento_de_caucho	NOUN	rubber_cement.n.01
 material_de_selado	NOUN	sealing_material.n.01
 selador	NOUN	sealing_material.n.01
 selante	NOUN	sealing_material.n.01
-recheo	NOUN	filler.n.01	material.n.01
+recheo	NOUN	filler.n.01	filling.n.01
 pasta_seladora	NOUN	sealing_material.n.01
 apresto	NOUN	size.n.03
 purina	NOUN	base.n.10
@@ -14486,7 +14486,7 @@ tabaco_turco	NOUN	turkish_tobacco.n.01
 latakia	NOUN	latakia.n.01
 alexandrita	NOUN	alexandrite.n.01
 aliaxe_ferrosa	NOUN	alloy_iron.n.01
-aliaxe_base_aceiro	NOUN	alloy.n.01
+aliaxe_base_aceiro	NOUN	steel.n.01
 alnico	NOUN	alnico.n.01
 aliaxe_amálgama	NOUN	alloy.n.01
 amálgama	NOUN	alloy.n.01
@@ -14524,7 +14524,7 @@ ferro_α	NOUN	alpha_iron.n.01
 α-tocoferol	NOUN	alpha-tocopheral.n.01
 carotenoide	NOUN	antioxidant.n.01
 caroteno	NOUN	antioxidant.n.01	hydrocarbon.n.01
-licopeno	NOUN	lycopene.n.01
+licopeno	NOUN	antioxidant.n.01
 ß-caroteno	NOUN	beta-carotene.n.01
 luteína	NOUN	xanthophyll.n.01
 xantofila	NOUN	xanthophyll.n.01
@@ -14597,7 +14597,7 @@ encima	NOUN	enzyme.n.01
 enzima	NOUN	enzyme.n.01
 fibrina	NOUN	protein.n.01
 filagrina	NOUN	filaggrin.n.01
-factor_do_crecemento	NOUN	growth_factor.n.01
+factor_do_crecemento	NOUN	protein.n.01
 factor_de_crecemento_nervioso	NOUN	nerve_growth_factor.n.01
 FCN	NOUN	nerve_growth_factor.n.01
 haptoglobina	NOUN	haptoglobin.n.01
@@ -14634,8 +14634,8 @@ tralla	NOUN	organic_compound.n.01
 trallo	NOUN	organic_compound.n.01
 trillón	NOUN	organic_compound.n.01
 fermento	NOUN	ferment.n.02	leaven.n.01	yeast.n.01
-substrato	NOUN	composition.n.03	substrate.n.01
-amina	NOUN	amine.n.01	ammine.n.01
+substrato	NOUN	composition.n.03	substance.n.01
+amina	NOUN	ammine.n.01	methane_series.n.01
 azadiractina	NOUN	azadirachtin.n.01
 ácido_carboxílico	NOUN	carboxylic_acid.n.01
 ácido_sacárido	NOUN	saccharic_acid.n.01
@@ -14645,12 +14645,12 @@ azadiractina	NOUN	azadirachtin.n.01
 ácido_valérico	NOUN	valeric_acid.n.01
 ácido_graxo	NOUN	carboxylic_acid.n.01
 ácido_graxo_saturado	NOUN	saturated_fatty_acid.n.01
-ácidos_graxos_insaturados	NOUN	unsaturated_fatty_acid.n.01
+ácidos_graxos_insaturados	NOUN	carboxylic_acid.n.01
 ácidos_graxos_trans	NOUN	trans_fatty_acid.n.01
 ácido_graxo_monoinsaturado	NOUN	monounsaturated_fatty_acid.n.01
-ácido_graxo_poliinsaturado	NOUN	polyunsaturated_fatty_acid.n.01
-ácido_graxo_omega-3	NOUN	omega-3_fatty_acid.n.01
-omega-3	NOUN	omega-3_fatty_acid.n.01
+ácido_graxo_poliinsaturado	NOUN	carboxylic_acid.n.01
+ácido_graxo_omega-3	NOUN	carboxylic_acid.n.01
+omega-3	NOUN	carboxylic_acid.n.01
 ácido_graxo_omega-6	NOUN	omega-6_fatty_acid.n.01
 omega-6	NOUN	omega-6_fatty_acid.n.01
 acedo_heptadecanoico	NOUN	margaric_acid.n.01
@@ -14718,7 +14718,7 @@ dietilestilbestrol	NOUN	diethylstilbestrol.n.01
 estilboestrol_estilbestrol	NOUN	diethylstilbestrol.n.01
 estradiol	NOUN	steroid_hormone.n.01
 estriol	NOUN	estriol.n.01
-estrona	NOUN	steroid.n.01
+estrona	NOUN	steroid_hormone.n.01
 hexestrol	NOUN	hexestrol.n.01
 mestranol	NOUN	mestranol.n.01
 corticoide	NOUN	steroid_hormone.n.01
@@ -14726,22 +14726,22 @@ corticosteroide	NOUN	steroid_hormone.n.01
 esteroide_adrenocortical	NOUN	steroid_hormone.n.01
 mineralocorticoide	NOUN	steroid_hormone.n.01
 glicocorticoide	NOUN	steroid_hormone.n.01
-glicosamina	NOUN	amino.n.01
+glicosamina	NOUN	aldohexose.n.01
 aldosterona	NOUN	steroid_hormone.n.01
 cortisol	NOUN	steroid_hormone.n.01
 hidrocortisona	NOUN	steroid_hormone.n.01
-cortisona	NOUN	steroid.n.01
+cortisona	NOUN	steroid_hormone.n.01
 prednisolona	NOUN	steroid_hormone.n.01
 prednisona	NOUN	steroid_hormone.n.01
 dexametasona	NOUN	steroid_hormone.n.01
 espironolactona	NOUN	spironolactone.n.01
 colorante_ácido	NOUN	acid_dye.n.01
-aminobenzina	NOUN	amine.n.01
-anilina	NOUN	amine.n.01
-fenilamina	NOUN	amine.n.01
+aminobenzina	NOUN	methane_series.n.01
+anilina	NOUN	methane_series.n.01
+fenilamina	NOUN	methane_series.n.01
 amarelo_de_alizarina	NOUN	alizarin_yellow.n.01
-anil	NOUN	dye.n.01	woad.n.01
-índigo	NOUN	dye.n.01	woad.n.01
+anil	NOUN	dye.n.01
+índigo	NOUN	dye.n.01
 colorante_de_anilina	NOUN	aniline_dye.n.01
 aceite_animal	NOUN	animal_material.n.01
 aceite_secante	NOUN	drying_oil.n.01
@@ -14755,7 +14755,7 @@ urobilinóxeno	NOUN	urobilinogen.n.01
 luciferina	NOUN	luciferin.n.01
 melanina	NOUN	pigment.n.01
 marfil	NOUN	animal_material.n.01
-tecido_óseo	NOUN	bone.n.02
+tecido_óseo	NOUN	animal_material.n.01
 barbas_de_balea	NOUN	animal_material.n.01
 carei	NOUN	animal_material.n.01
 escudo	NOUN	animal_material.n.01
@@ -14812,7 +14812,7 @@ coiro_de_raposo	NOUN	fur.n.01
 coiro_de_cordeiro	NOUN	fur.n.01
 coiro_de_año_karakul	NOUN	broadtail.n.01
 coiro_de_año_persa	NOUN	persian_lamb.n.01
-coiro_de_coello	NOUN	lapin.n.01
+coiro_de_coello	NOUN	fur.n.01
 coiro_de_leopardo	NOUN	fur.n.01
 coiro_de_visón	NOUN	fur.n.01
 coiro_de_rato_almiscrado	NOUN	fur.n.01
@@ -14820,7 +14820,7 @@ coiro_Hudson	NOUN	hudson_seal.n.01
 pel_de_londra	NOUN	fur.n.01
 pel_de_lontra	NOUN	fur.n.01
 pel_de_mapache	NOUN	fur.n.01
-pel_de_marta	NOUN	fur.n.01
+pel_de_marta	NOUN	sable.n.02
 pel_de_foca	NOUN	fur.n.01
 pel_de_esquío	NOUN	fur.n.01
 pegamento_sintético	NOUN	anime.n.02
@@ -14835,7 +14835,7 @@ anhídrido	NOUN	compound.n.02
 auga_forte	NOUN	aqua_regia.n.01
 auga_rexia	NOUN	aqua_regia.n.01
 augamariña	NOUN	transparent_gem.n.01
-arxinina	NOUN	amino_acid.n.01
+arxinina	NOUN	organic_compound.n.01
 hidrocarburo_aromático	NOUN	hydrocarbon.n.01
 anhídrido_arsenioso	NOUN	oxide.n.01
 arsénico_branco	NOUN	oxide.n.01
@@ -14855,7 +14855,7 @@ aceiro_austenítico	NOUN	austenitic_steel.n.01
 graxa_de_eixe	NOUN	axle_grease.n.01
 azida	NOUN	compound.n.02
 sal_de_azida	NOUN	hydrazoite.n.01
-colorante_azo	NOUN	azo_dye.n.01
+colorante_azo	NOUN	dye.n.01
 vermello_Congo	NOUN	congo_red.n.01
 vermello_do_Congo	NOUN	congo_red.n.01
 violeta_de_cristal	NOUN	gentian_violet.n.01
@@ -14908,7 +14908,7 @@ bimetálico	NOUN	bimetal.n.01
 cartoné	NOUN	binder's_board.n.01
 principio_amargo	NOUN	bitter_principle.n.01
 ópalo_negro	NOUN	black_opal.n.01
-axente_activo	NOUN	chemical_agent.n.01
+axente_activo	NOUN	agent.n.03
 Alka-Seltzer	NOUN	alka-seltzer.n.01
 Brioschi	NOUN	brioschi.n.01
 Bromo-Seltzer	NOUN	bromo-seltzer.n.01
@@ -14925,26 +14925,26 @@ Rolaids	NOUN	rolaids.n.01
 Tums	NOUN	tums.n.01
 antiácido	NOUN	agent.n.03
 antiácidos_gástrico	NOUN	agent.n.03
-reactivo	NOUN	chemical_agent.n.01
+reactivo	NOUN	agent.n.03
 bacteriostático	NOUN	bacteriostat.n.01
 axente_branqueante	NOUN	agent.n.03
 branqueante	NOUN	agent.n.03
-axente_químico	NOUN	chemical_agent.n.01
+axente_químico	NOUN	agent.n.03
 axente_deshidratante	NOUN	desiccant.n.01
 desecante	NOUN	desiccant.n.01
 deshidratante	NOUN	desiccant.n.01
 secador	NOUN	desiccant.n.01
-axente_oxidante	NOUN	chemical_agent.n.01
-oxidante	NOUN	chemical_agent.n.01
-axente_redutor	NOUN	chemical_agent.n.01
-diluente	NOUN	agent.n.03	chemical_agent.n.01
-redutor	NOUN	chemical_agent.n.01
+axente_oxidante	NOUN	agent.n.03
+oxidante	NOUN	agent.n.03
+axente_redutor	NOUN	agent.n.03
+diluente	NOUN	agent.n.03
+redutor	NOUN	agent.n.03
 arxila_branqueante	NOUN	bleaching_clay.n.01
 pastel_de_barro	NOUN	mud_pie.n.01
 cloruro_de_cal	NOUN	bleaching_powder.n.01
 licor_residual_do_branqueo	NOUN	bleach_liquor.n.01
 lixivia_residual_do_branqueo	NOUN	bleach_liquor.n.01
-peróxido_de_hidróxeno	NOUN	chemical_agent.n.01
+peróxido_de_hidróxeno	NOUN	agent.n.03
 cobre_blister	NOUN	blister_copper.n.01
 heliotropo	NOUN	bloodstone.n.01
 papel_secante	NOUN	paper.n.01
@@ -14982,7 +14982,7 @@ xofre_nativo	NOUN	sulfur.n.01
 metal_britannia	NOUN	britannia_metal.n.01
 ácido_brómico	NOUN	bromic_acid.n.01
 bromuro	NOUN	salt.n.01
-arenita_marrón	NOUN	sedimentary_rock.n.01
+arenita_marrón	NOUN	arenaceous_rock.n.01
 disolución_amortecedora	NOUN	buffer.n.01	solution.n.01
 disolución_tampón	NOUN	solution.n.01
 disolución_amortecedora_inicial	NOUN	starting_buffer.n.01
@@ -15001,7 +15001,7 @@ polibutileno	NOUN	polybutylene.n.01
 graxa_animal	NOUN	fat.n.01
 nata	NOUN	fat.n.01
 tona	NOUN	fat.n.01
-madeira_dura	NOUN	cabinet_wood.n.01	hardwood.n.01
+madeira_dura	NOUN	cabinet_wood.n.01	wood.n.01
 butanona	NOUN	butanone.n.01
 metiletilcetona	NOUN	butanone.n.01
 butanol	NOUN	alcohol.n.02
@@ -15106,13 +15106,13 @@ cartolina	NOUN	cardboard.n.01
 cartón	NOUN	cardboard.n.01
 papel_para_cartucho	NOUN	cartridge_paper.n.02
 papel_de_debuxo	NOUN	cartridge_paper.n.01
-tarxeta	NOUN	card.n.04
+tarxeta	NOUN	cardboard.n.01
 cocarboxilase	NOUN	cocarboxylase.n.01
 tiamina_pirofosfato	NOUN	cocarboxylase.n.01
 coenzima	NOUN	molecule.n.01
 coenzima_A	NOUN	coenzyme_a.n.01
 cofactor	NOUN	compound.n.02
-conxénere	NOUN	congener.n.01
+conxénere	NOUN	chemical.n.01
 cartón_ondulado	NOUN	corrugated_board.n.01
 papel_couché	NOUN	cardboard.n.01
 cartón_para_encadernar	NOUN	millboard.n.01
@@ -15122,8 +15122,8 @@ carraxenina	NOUN	carrageenin.n.01
 ferro_en_lingotes	NOUN	ingot_iron.n.01	pig_iron.n.01
 ferro_fundido	NOUN	cast_iron.n.01
 ferro_forxado	NOUN	wrought_iron.n.01
-aceiro	NOUN	alloy.n.01
-aceiro_inoxidable	NOUN	alloy.n.01
+aceiro	NOUN	steel.n.01
+aceiro_inoxidable	NOUN	steel.n.01
 aceiro_de_carbono	NOUN	carbon_steel.n.01
 aceiro_de_crisois	NOUN	crucible_steel.n.01
 aceiro_de_Damasco	NOUN	damascus_steel.n.01
@@ -15154,11 +15154,11 @@ chamota	NOUN	chamosite.n.01
 substancia_química	NOUN	chemical.n.01
 substancia_neuroquímica	NOUN	organic_compound.n.01
 neurotransmisor	NOUN	organic_compound.n.01
-neurotransmisor_de_monoamina	NOUN	amine.n.01
+neurotransmisor_de_monoamina	NOUN	methane_series.n.01
 catecolamina	NOUN	hormone.n.01
 cromóforo	NOUN	chromophore.n.01
-5-hidroxitriptamina	NOUN	amine.n.01
-serotonina	NOUN	amine.n.01
+5-hidroxitriptamina	NOUN	methane_series.n.01
+serotonina	NOUN	methane_series.n.01
 acetilcolina	NOUN	organic_compound.n.01
 anhídrido_de_ácido	NOUN	acyl_anhydrides.n.01
 anhídrido_de_acilo	NOUN	acyl_anhydrides.n.01
@@ -15280,7 +15280,7 @@ resina_cumarona	NOUN	coumarone-indene_resin.n.01
 resina_de_cumarona-indeno	NOUN	coumarone-indene_resin.n.01
 indeno	NOUN	indene.n.01
 material_de_cobertura	NOUN	covering_material.n.01
-creatina	NOUN	amino_acid.n.01
+creatina	NOUN	organic_compound.n.01
 creosol	NOUN	creosol.n.01
 creosota	NOUN	organic_compound.n.01
 cresol	NOUN	cresol.n.01
@@ -15304,8 +15304,8 @@ cimeno	NOUN	cymene.n.01
 para-metilsopropilbenceno	NOUN	cymene.n.01
 citocina	NOUN	protein.n.01
 citolisina	NOUN	cytolysin.n.01
-citosina	NOUN	pyrimidine.n.01
-daub	NOUN	clay.n.01
+citosina	NOUN	base.n.10
+daub	NOUN	daub.n.01
 descarboxilase	NOUN	enzyme.n.01
 defoliante	NOUN	defoliant.n.01
 de-iodinase	NOUN	de-iodinase.n.01
@@ -15317,7 +15317,7 @@ monofosfato_desoxicitidina	NOUN	nucleotide.n.01
 G	NOUN	base.n.10	nucleotide.n.01
 monofosfato_de_desoxiguanosina	NOUN	nucleotide.n.01
 monofosfato_de_desoxitimidina	NOUN	nucleotide.n.01
-T	NOUN	nucleotide.n.01	pyrimidine.n.01
+T	NOUN	base.n.10	nucleotide.n.01
 ácido_desoxirribonucleico	NOUN	deoxyribonucleic_acid.n.01
 ADN	NOUN	deoxyribonucleic_acid.n.01
 DNA	NOUN	deoxyribonucleic_acid.n.01
@@ -15372,14 +15372,14 @@ disacárido	NOUN	carbohydrate.n.01
 auga_de_fregar	NOUN	dishwater.n.01
 destilado	NOUN	liquid.n.01
 auga_destilada	NOUN	distilled_water.n.01
-fumes	NOUN	exhaust.n.01
+fumes	NOUN	waste.n.01
 concentrado	NOUN	mineral.n.01
 mineral_concentrado	NOUN	mineral.n.01
 tronco_á_deriva	NOUN	wood.n.01
 barrena	NOUN	drill_steel.n.01
 broca	NOUN	drill_steel.n.01
 ácido_docosahexaenoico	NOUN	docosahexaenoic_acid.n.01
-dopamina	NOUN	amine.n.01
+dopamina	NOUN	methane_series.n.01
 dottle	NOUN	dottle.n.01
 sangue_do_dragón	NOUN	dragon's_blood.n.01
 papel_de_borrador	NOUN	drawing_paper.n.01
@@ -15404,11 +15404,11 @@ colchón_de_aire	NOUN	air_cushion.n.01
 solo	NOUN	earth.n.02	soil.n.02
 diatomita	NOUN	diatomaceous_earth.n.01
 terra_de_diatomea	NOUN	diatomaceous_earth.n.01
-siena	NOUN	mineral.n.01	umber.n.01
+siena	NOUN	pigment.n.01	umber.n.01
 bistro	NOUN	bister.n.01
 siena_queimada	NOUN	burnt_sienna.n.02
 siena_cruda	NOUN	raw_sienna.n.02
-ocre	NOUN	mineral.n.01
+ocre	NOUN	pigment.n.01
 sinopia	NOUN	sinopis.n.01
 ocre_amarelo	NOUN	yellow_ocher.n.01
 saprolita	NOUN	saprolite.n.01
@@ -15510,8 +15510,8 @@ rebo	NOUN	debris.n.01
 resto	NOUN	debris.n.01
 cisco	NOUN	debris.n.01
 refugallo	NOUN	rubbish.n.01
-residuo_tóxico	NOUN	toxic_waste.n.01
-residuo_tóxico_industrial	NOUN	toxic_waste.n.01
+residuo_tóxico	NOUN	waste.n.01
+residuo_tóxico_industrial	NOUN	waste.n.01
 extravasación	NOUN	extravasation.n.01
 po_radioactivo	NOUN	dust.n.01
 precipitación_radioactiva	NOUN	dust.n.01
@@ -15529,7 +15529,7 @@ bicarbonato_de_potasio	NOUN	potassium_bicarbonate.n.01
 carbonato_ácido_de_potasio	NOUN	potassium_bicarbonate.n.01
 hidróxeno_carbonato_de_potasio	NOUN	potassium_bicarbonate.n.01
 cloruro_de_potasio	NOUN	potassium_chloride.n.01
-nitrato_de_potasio	NOUN	potassium_nitrate.n.01
+nitrato_de_potasio	NOUN	compound.n.02
 bromuro_de_potasio	NOUN	potassium_bromide.n.01
 carbonato_de_potasio	NOUN	potassium_carbonate.n.01
 clorato_de_potasio	NOUN	potassium_chlorate.n.01
@@ -15543,7 +15543,7 @@ proprionamida	NOUN	proprionamide.n.01
 ácido_propanoico	NOUN	propionic_acid.n.01
 ácido_propílico	NOUN	propionic_acid.n.01
 ácido_propiónico	NOUN	propionic_acid.n.01
-conglomerado	NOUN	pudding_stone.n.01
+conglomerado	NOUN	rock.n.02
 putrescina	NOUN	putrescine.n.01
 ácido_piroleñoso	NOUN	pyroligneous_acid.n.01
 vinagre_de_madeira	NOUN	pyroligneous_acid.n.01
@@ -15584,7 +15584,7 @@ fibrila	NOUN	fibril.n.01
 fío	NOUN	fibril.n.01
 pedra_non_esculpida	NOUN	rock.n.02
 pedra_non_traballada	NOUN	rock.n.02
-cubrición	NOUN	material.n.01
+cubrición	NOUN	filling.n.01
 papel_de_filtro	NOUN	filter_paper.n.01
 filtrado	NOUN	product.n.04
 acendedor	NOUN	firelighter.n.01
@@ -15666,8 +15666,8 @@ papel_de_regalo	NOUN	gift_wrap.n.01
 metal_dourado	NOUN	gilding_metal.n.01
 solo_gilgai	NOUN	gilgai_soil.n.01
 vidro_natural	NOUN	natural_glass.n.01
-cristal	NOUN	crystal.n.01	natural_glass.n.01
-vidro_de_cuarzo	NOUN	natural_glass.n.01
+cristal	NOUN	crystal.n.01	quartz_glass.n.01
+vidro_de_cuarzo	NOUN	quartz_glass.n.01
 vidro_leitoso	NOUN	opal_glass.n.01
 vidro_opalino	NOUN	opal_glass.n.01
 vidro_óptico	NOUN	optical_glass.n.01
@@ -15717,9 +15717,9 @@ xelatina_glicerinada	NOUN	glycerinated_gelatin.n.01
 marmelada-glicerina	NOUN	glycerin_jelly.n.01
 xel_de_glicerina	NOUN	glycerogelatin.n.01
 glicerilo	NOUN	glyceryl.n.01
-nitroglicerina	NOUN	nitroglycerin.n.01
-trinitrato_de_glicerina	NOUN	nitroglycerin.n.01
-trinitroglicerina	NOUN	nitroglycerin.n.01
+nitroglicerina	NOUN	drug.n.01
+trinitrato_de_glicerina	NOUN	drug.n.01
+trinitroglicerina	NOUN	drug.n.01
 éster_de_glicerilo	NOUN	ester.n.01
 glicósido	NOUN	organic_compound.n.01
 amigdalina	NOUN	amygdalin.n.01
@@ -15878,7 +15878,7 @@ lipoproteína_de_alta_densidade	NOUN	high-density_lipoprotein.n.01
 resíduos_de_alto_nivel_radioactivo	NOUN	high-level_radioactive_waste.n.01
 aceiro_de_alta_velocidade	NOUN	high-speed_steel.n.01
 tella_cadeira	NOUN	hip_tile.n.01
-histidina	NOUN	amino_acid.n.01
+histidina	NOUN	organic_compound.n.01
 histaminase	NOUN	histaminase.n.01
 homoxeneizado	NOUN	homogenate.n.01
 material_homoxeneizado	NOUN	homogenate.n.01
@@ -15893,7 +15893,7 @@ hialina	NOUN	material.n.01
 ácido_hialurónico	NOUN	hyaluronic_acid.n.01
 hialuronidase	NOUN	hyaluronidase.n.01
 hidrato	NOUN	compound.n.02
-hidracina	NOUN	chemical_agent.n.01
+hidracina	NOUN	agent.n.03
 hidruro	NOUN	binary_compound.n.01
 ácido_hidrobrómico	NOUN	hydrobromic_acid.n.01
 hidrocarburo	NOUN	hydrocarbon.n.01
@@ -15919,7 +15919,7 @@ axente_hipnótico	NOUN	agent.n.03
 tiosulfato_de_sodio	NOUN	compound.n.02
 ácido_hipocloroso	NOUN	hypochlorous_acid.n.01
 aceiro_hipoeutectoide	NOUN	hypo-eutectoid_steel.n.01
-axente_hipoglicémico	NOUN	hypoglycemic_agent.n.01
+axente_hipoglicémico	NOUN	agent.n.03
 grupo_hidrazo	NOUN	hydrazo_group.n.01
 radical_hidrazo	NOUN	hydrazo_group.n.01
 hidróxido	NOUN	compound.n.02
@@ -15939,7 +15939,7 @@ Inconel	NOUN	inconel.n.01
 gas_ideal	NOUN	gas.n.02
 gas_perfecto	NOUN	gas.n.02
 imidazol	NOUN	imidazole.n.01
-impregnación	NOUN	impregnation.n.01
+impregnación	NOUN	material.n.01
 tinta_indeleble	NOUN	indelible_ink.n.01	marking_ink.n.01
 tinta_de_debuxo	NOUN	ink.n.01
 tinta_india	NOUN	ink.n.01
@@ -15962,8 +15962,8 @@ inosina	NOUN	inosine.n.01
 inositol	NOUN	inositol.n.01
 insecticida	NOUN	pesticide.n.01
 insecticida_en_po	NOUN	pesticide.n.01
-insectífugo	NOUN	insectifuge.n.01
-repelente_de_insectos	NOUN	insectifuge.n.01
+insectífugo	NOUN	compound.n.02
+repelente_de_insectos	NOUN	compound.n.02
 repelente	NOUN	compound.n.02
 instilación	NOUN	instillation.n.02
 material_de_illamento	NOUN	building_material.n.01
@@ -15978,7 +15978,7 @@ azucre_invertido	NOUN	invert_sugar.n.01
 auga_de_Javel	NOUN	javelle_water.n.01
 auga_de_Javelle	NOUN	javelle_water.n.01
 eau_de_Javelle	NOUN	javelle_water.n.01
-fracción	NOUN	fraction.n.01
+fracción	NOUN	chemical.n.01
 ácido_iódico	NOUN	iodic_acid.n.01
 ioduro	NOUN	salt.n.01
 composto_de_iodo	NOUN	iodocompound.n.01
@@ -15996,7 +15996,7 @@ percloruro_de_ferro	NOUN	iron_perchloride.n.01
 percloruro_ferrico	NOUN	iron_perchloride.n.01
 isocianato	NOUN	salt.n.01
 ácido_isociánico	NOUN	isocyanic_acid.n.01
-isoleucina	NOUN	amino_acid.n.01
+isoleucina	NOUN	organic_compound.n.01
 isómero	NOUN	compound.n.02
 isomerase	NOUN	enzyme.n.01
 ácido_itacónico	NOUN	itaconic_acid.n.01
@@ -16076,7 +16076,7 @@ papel_de_pergamiño	NOUN	wove_paper.n.01
 papel_de_carta	NOUN	letter_paper.n.01
 lindano	NOUN	lindane.n.01
 papel_de_liño	NOUN	paper.n.01
-leucina	NOUN	amino_acid.n.01
+leucina	NOUN	organic_compound.n.01
 lignina	NOUN	polymer.n.01
 óxido_hidratado	NOUN	compound.n.02
 calcita	NOUN	mineral.n.01
@@ -16129,7 +16129,7 @@ madeira_serrada	NOUN	lumber.n.01
 lixivia	NOUN	compound.n.02
 linfocina	NOUN	protein.n.01
 linfoquina	NOUN	protein.n.01
-lisina	NOUN	amino_acid.n.01	lysin.n.01
+lisina	NOUN	lysin.n.01	organic_compound.n.01
 Lysol	NOUN	lysol.n.01
 lisozima	NOUN	lysozyme.n.01
 muramidase	NOUN	lysozyme.n.01
@@ -16195,7 +16195,7 @@ radical_metileno	NOUN	group.n.02
 grupo_metilo	NOUN	group.n.02
 metilo	NOUN	group.n.02
 radical_metilo	NOUN	group.n.02
-metionina	NOUN	amino_acid.n.01
+metionina	NOUN	organic_compound.n.01
 aceite_de_bidueiro	NOUN	methyl_salicylate.n.01
 aceite_de_bidueiro_doce	NOUN	methyl_salicylate.n.01
 salicilato_de_metilo	NOUN	methyl_salicylate.n.01
@@ -16204,13 +16204,13 @@ aceiro_con_baixas_emisións_de_carbono	NOUN	mild_steel.n.01
 aceiro_de_fundición_branda	NOUN	mild_steel.n.01
 aceiro_temperado	NOUN	mild_steel.n.01	quenched_steel.n.01
 mine_pig	NOUN	mine_pig.n.01
-aceite_mineral	NOUN	mineral_oil.n.01
+aceite_mineral	NOUN	oil.n.01
 metal_de_Misch	NOUN	misch_metal.n.01
 mitóxeno	NOUN	agent.n.03
 aceite_de_motor	NOUN	motor_oil.n.01
 plantilla	NOUN	soil.n.02
 aceiro_de_molibdeno	NOUN	molybdenum_steel.n.01
-monoamina	NOUN	amine.n.01
+monoamina	NOUN	methane_series.n.01
 MAO	NOUN	monoamine_oxidase.n.01
 monoaminooxidase	NOUN	monoamine_oxidase.n.01
 monohidrato	NOUN	compound.n.02
@@ -16260,7 +16260,7 @@ fibra_sintética	NOUN	fiber.n.01
 fibra_natural	NOUN	natural_fiber.n.01
 fibra_animal	NOUN	animal_fiber.n.01
 fibra_vexetal	NOUN	plant_fiber.n.01
-gas_natural	NOUN	natural_gas.n.01
+gas_natural	NOUN	fossil_fuel.n.01
 bronce_tobin	NOUN	naval_brass.n.01
 latón_almirantado	NOUN	naval_brass.n.01
 latón_naval	NOUN	naval_brass.n.01
@@ -16405,7 +16405,7 @@ petrolato	NOUN	mixture.n.01
 vaselina	NOUN	mixture.n.01
 plástico_fenólico	NOUN	phenolic_plastic.n.01
 urea_fenólica	NOUN	phenolic_plastic.n.01
-fenilalanina	NOUN	amino_acid.n.01
+fenilalanina	NOUN	organic_compound.n.01
 fósxeno	NOUN	phosgene.n.01
 fosfatase	NOUN	enzyme.n.01
 fosfina	NOUN	pesticide.n.01
@@ -16455,7 +16455,7 @@ isotiocianato_de_fluoresceína	NOUN	fluorescein_isothiocyanate.n.01
 fluorocromo	NOUN	fluorochrome.n.01
 colorante_de_pelo	NOUN	dye.n.01
 tintura_de_pelo	NOUN	dye.n.01
-hematocromo	NOUN	hematochrome.n.01
+hematocromo	NOUN	coloring_material.n.01
 Henna	NOUN	dye.n.01
 tinguidura	NOUN	dye.n.01
 Kendal	NOUN	kendal_green.n.01
@@ -16490,10 +16490,10 @@ ferrocianuro_de_potasio	NOUN	potassium_ferrocyanide.n.01
 prusiato_amarelo_de_potasio	NOUN	potassium_ferrocyanide.n.01
 permanganato_de_potasio	NOUN	potassium_permanganate.n.01
 permanganato_potásico	NOUN	potassium_permanganate.n.01
-arenita	NOUN	sedimentary_rock.n.01
+arenita	NOUN	sandstone.n.01
 arenita_azul	NOUN	bluestone.n.01
 arenita_verde	NOUN	greensand.n.01
-cera	NOUN	cerumen.n.01	formulation.n.01	wax.n.01
+cera	NOUN	formulation.n.01	wax.n.01
 substancia_pulidora	NOUN	formulation.n.01
 polipropileno	NOUN	plastic.n.01
 formaldehido_de_polivinilo	NOUN	polyvinyl-formaldehyde.n.01
@@ -16534,7 +16534,7 @@ proteinase	NOUN	enzyme.n.01
 intoxicados	NOUN	ptomaine.n.01
 ptomain	NOUN	ptomaine.n.01
 Pyrex	NOUN	glass.n.01
-pirimidina	NOUN	organic_compound.n.01	pyrimidine.n.01
+pirimidina	NOUN	base.n.10	organic_compound.n.01
 aliaxe_pirofórica	NOUN	pyrophoric_alloy.n.01
 ácido_pirúvico	NOUN	pyruvic_acid.n.01
 cuasina	NOUN	quassia.n.01
@@ -16557,7 +16557,7 @@ fiaño	NOUN	raveling.n.01
 latón_vermello	NOUN	red_brass.n.01
 chumbo_vermello	NOUN	red_lead.n.01
 minio	NOUN	red_lead.n.01
-marea_vermella	NOUN	red_tide.n.01
+marea_vermella	NOUN	water.n.01
 redutase	NOUN	enzyme.n.01
 disolvente	NOUN	substance.n.01
 renina	NOUN	enzyme.n.01	rennin.n.01
@@ -16575,10 +16575,10 @@ material_de_teitar	NOUN	building_material.n.01
 cuarzo_rosa	NOUN	rose_quartz.n.01
 revoco	NOUN	roughcast.n.01
 látex	NOUN	latex.n.01
-caucho	NOUN	rubber.n.01
-caucho_da_India	NOUN	rubber.n.01
-caucho_natural	NOUN	rubber.n.01
-goma_elástica	NOUN	rubber.n.01
+caucho	NOUN	latex.n.01
+caucho_da_India	NOUN	latex.n.01
+caucho_natural	NOUN	latex.n.01
+goma_elástica	NOUN	latex.n.01
 caucho_de_crepe	NOUN	crepe_rubber.n.01
 caucho_sintético	NOUN	compound.n.02
 goma_de_silicona	NOUN	silicone_rubber.n.01
@@ -16679,7 +16679,7 @@ tronco_de_aserradoiro	NOUN	saw_log.n.01
 saxitoxina	NOUN	saxitoxin.n.01
 cera_en_escamas	NOUN	scale_wax.n.01
 parafina_refinada	NOUN	scale_wax.n.01
-axente_neutralizador	NOUN	chemical_agent.n.01
+axente_neutralizador	NOUN	agent.n.03
 scheelita	NOUN	scheelite.n.01
 turmalina_negra	NOUN	schorl.n.01
 chatarra_de_ferro	NOUN	scrap_iron.n.01
@@ -16688,13 +16688,13 @@ aceite_de_foca	NOUN	seal_oil.n.01
 secretase	NOUN	secretase.n.01
 arxila_sedimentaria	NOUN	sedimentary_clay.n.01
 sepia	NOUN	pigment.n.01
-fibrinoplastina	NOUN	amino_acid.n.01
-fibroplastina	NOUN	amino_acid.n.01
-paraglobina	NOUN	amino_acid.n.01
-paraglobulina	NOUN	amino_acid.n.01
-serina	NOUN	amino_acid.n.01
-seroglobulina	NOUN	amino_acid.n.01
-substancia_fibrinoplásica	NOUN	amino_acid.n.01
+fibrinoplastina	NOUN	organic_compound.n.01
+fibroplastina	NOUN	organic_compound.n.01
+paraglobina	NOUN	organic_compound.n.01
+paraglobulina	NOUN	organic_compound.n.01
+serina	NOUN	organic_compound.n.01
+seroglobulina	NOUN	organic_compound.n.01
+substancia_fibrinoplásica	NOUN	organic_compound.n.01
 globulina	NOUN	simple_protein.n.01
 gammaglobulina	NOUN	simple_protein.n.01
 gammaglobulina_humana	NOUN	simple_protein.n.01
@@ -16841,7 +16841,7 @@ dióxido_de_silicio	NOUN	oxide.n.01
 sílice	NOUN	oxide.n.01
 xel_de_sílice	NOUN	silica_gel.n.01
 bronce_de_silicio	NOUN	silicon_bronze.n.01
-siltito	NOUN	sedimentary_rock.n.01
+siltito	NOUN	arenaceous_rock.n.01
 silvex	NOUN	silvex.n.01
 simazina	NOUN	simazine.n.01
 Simoniz	NOUN	simoniz.n.01
@@ -16851,7 +16851,7 @@ cera_de_esquí	NOUN	ski_wax.n.01
 esmaltina	NOUN	smaltite.n.01
 auganeve	NOUN	water.n.01
 sales_aromáticos	NOUN	smelling_salts.n.01
-aceite_de_cobra	NOUN	snake_oil.n.01
+aceite_de_cobra	NOUN	liquid.n.01
 pabío	NOUN	carbon.n.01
 neve_granulada	NOUN	corn_snow.n.01
 neve_primavera	NOUN	crud.n.01
@@ -16859,16 +16859,16 @@ esteatita	NOUN	mineral.n.01
 pedra_de_xabón	NOUN	mineral.n.01
 cal_sodado	NOUN	soda_lime.n.01
 sodalita	NOUN	sodalite.n.01
-carbonato_de_sodio	NOUN	sodium_carbonate.n.01
-cinza_de_soda	NOUN	sodium_carbonate.n.01
-sosa_Solvay	NOUN	sodium_carbonate.n.01
+carbonato_de_sodio	NOUN	salt.n.01
+cinza_de_soda	NOUN	salt.n.01
+sosa_Solvay	NOUN	salt.n.01
 carboximetilcelulosa_de_sodio	NOUN	sodium_carboxymethyl_cellulose.n.01
 fluoruro_de_sodio	NOUN	sodium_fluoride.n.01
 hidruro_de_sodio	NOUN	sodium_hydride.n.01
 hipoclorito_de_sodio	NOUN	sodium_hypochlorite.n.01
 ioduro_de_sodio	NOUN	sodium_iodide.n.01
-laurilsulfato_de_sodio	NOUN	chemical_agent.n.01
-SLS	NOUN	chemical_agent.n.01
+laurilsulfato_de_sodio	NOUN	salt.n.01
+SLS	NOUN	salt.n.01
 pirofosfato_de_sodio	NOUN	sodium_pyrophosphate.n.01
 pirofosfato_de_tetrasodio	NOUN	sodium_pyrophosphate.n.01
 sulfato_de_sodio	NOUN	sodium_sulphate.n.01
@@ -16892,11 +16892,11 @@ masilla_Spackle	NOUN	spackle.n.01
 spar	NOUN	mineral.n.01
 metal_brillante	NOUN	sparkle_metal.n.01
 fundición_especular	NOUN	spiegeleisen.n.01
-vertedura	NOUN	liquid.n.03
+vertedura	NOUN	spill.n.01
 spelter	NOUN	spelter.n.01
 aceite_de_esperma	NOUN	sperm_oil.n.01
 estoraque	NOUN	stacte.n.01
-fibra-xeso	NOUN	staff.n.04
+fibra-xeso	NOUN	building_material.n.01
 enterotoxina_estafilocócica	NOUN	toxin.n.01
 enterotoxina_estafilocócica_B	NOUN	toxin.n.01
 SEB	NOUN	toxin.n.01
@@ -17067,7 +17067,7 @@ factor_de_Hageman	NOUN	hageman_factor.n.01
 factor_XII	NOUN	hageman_factor.n.01
 factor_XIII	NOUN	fibrinase.n.01
 fibrinasa	NOUN	fibrinase.n.01
-timina	NOUN	pyrimidine.n.01
+timina	NOUN	base.n.10
 desoxiadenosina	NOUN	deoxyadenosine.n.01
 citidina	NOUN	organic_compound.n.01
 desoxicitidina	NOUN	organic_compound.n.01
@@ -17140,9 +17140,9 @@ tristearato_de_glicerilo	NOUN	tristearin.n.01
 tristearina	NOUN	tristearin.n.01
 tripsina	NOUN	enzyme.n.01
 tripsinóxeno	NOUN	trypsinogen.n.01
-triptófano	NOUN	amino_acid.n.01
+triptófano	NOUN	organic_compound.n.01
 aceite_de_atún	NOUN	tuna_oil.n.01
-solo_de_tundra	NOUN	tundra_soil.n.01
+solo_de_tundra	NOUN	soil.n.02
 aceiro_de_tungsteno	NOUN	tungsten_steel.n.01
 aceiro_de_volgframio	NOUN	tungsten_steel.n.01
 tungstato	NOUN	salt.n.01
@@ -17151,7 +17151,7 @@ turquesa	NOUN	mineral.n.01
 papel_de_mecanografía	NOUN	writing_paper.n.01
 papel_mecanográfico	NOUN	writing_paper.n.01
 tiramina	NOUN	tyramine.n.01
-tirosina	NOUN	amino_acid.n.01
+tirosina	NOUN	organic_compound.n.01
 coenzima_Q	NOUN	molecule.n.01
 ubiquinona	NOUN	molecule.n.01
 azul_ultramarino	NOUN	ultramarine.n.01
@@ -17176,7 +17176,7 @@ urea	NOUN	organic_compound.n.01
 ácido_úrico	NOUN	uric_acid.n.01
 urato	NOUN	urate.n.01
 tofo	NOUN	tophus.n.01
-valina	NOUN	amino_acid.n.01
+valina	NOUN	organic_compound.n.01
 liñaza	NOUN	seed.n.01
 semente_do_liño	NOUN	seed.n.01
 aceite_de_liñaza	NOUN	linseed_oil.n.01
@@ -17195,9 +17195,9 @@ lipoproteína_de_moi_baixa_densidade	NOUN	very_low_density_lipoprotein.n.01
 VLDL	NOUN	very_low_density_lipoprotein.n.01
 idocrase	NOUN	vesuvianite.n.01
 vesuvianita	NOUN	vesuvianite.n.01
-vinilo	NOUN	vinyl.n.01	vinyl.n.02
-grupo_de_vinilo	NOUN	vinyl.n.01
-radical_vinilo	NOUN	vinyl.n.01
+vinilo	NOUN	group.n.02	vinyl.n.02
+grupo_de_vinilo	NOUN	group.n.02
+radical_vinilo	NOUN	group.n.02
 polímero_de_vinilo	NOUN	synthetic_resin.n.01
 resina_de_polivinilo	NOUN	synthetic_resin.n.01
 resina_de_vinilo	NOUN	synthetic_resin.n.01
@@ -17284,7 +17284,7 @@ auga_de_cristalización	NOUN	water_of_crystallization.n.01
 auga_de_hidratación	NOUN	water_of_crystallization.n.01
 cera_de_abella	NOUN	wax.n.01
 cera_Ghedda	NOUN	ghedda_wax.n.01
-cerume	NOUN	cerumen.n.01
+cerume	NOUN	wax.n.01
 cera_de_parafina	NOUN	wax.n.01
 espermaceti	NOUN	spermaceti.n.01
 cera_vexetal	NOUN	vegetable_wax.n.01
@@ -17297,14 +17297,14 @@ sulfuro_de_cadmio_e_cinc	NOUN	zinc_cadmium_sulfide.n.01
 acetato_de_cobre	NOUN	verdigris.n.01
 papel_de_cera	NOUN	wax_paper.n.01
 papel_encerado	NOUN	wax_paper.n.01
-axente_surfactante	NOUN	chemical_agent.n.01
-axente_tensoativo	NOUN	chemical_agent.n.01
-axente_umectante	NOUN	chemical_agent.n.01
+axente_surfactante	NOUN	agent.n.03
+axente_tensoativo	NOUN	agent.n.03
+axente_umectante	NOUN	agent.n.03
 potenciador_de_deterxente	NOUN	material.n.01
 aceite_de_balea	NOUN	whale_oil.n.01
 soro_de_leite	NOUN	serum.n.01
-carbonato_de_chumbo	NOUN	white_lead.n.01
-chumbo_branco	NOUN	white_lead.n.01
+carbonato_de_chumbo	NOUN	pigment.n.01
+chumbo_branco	NOUN	pigment.n.01
 vimbia	NOUN	wood.n.01
 vimbio	NOUN	wood.n.01
 vime	NOUN	wood.n.01
@@ -17432,7 +17432,7 @@ ano_sabático	NOUN	leave.n.01
 vida	NOUN	life.n.05
 milenio	NOUN	time_period.n.01
 defunción	NOUN	death.n.04
-xuventude	NOUN	girlhood.n.01
+xuventude	NOUN	childhood.n.01
 adolescencia	NOUN	childhood.n.01
 infancia	NOUN	childhood.n.01
 mocidade	NOUN	childhood.n.01
@@ -17456,8 +17456,8 @@ anoitecer	NOUN	twilight.n.01
 caída_da_noite	NOUN	twilight.n.01
 crepúsculo	NOUN	twilight.n.01
 semana	NOUN	week.n.01
-dúas_semanas	NOUN	fortnight.n.01
-quince_días	NOUN	fortnight.n.01
+dúas_semanas	NOUN	time_period.n.01
+quince_días	NOUN	time_period.n.01
 fin_de_semana	NOUN	weekend.n.01
 calendario	NOUN	calendar.n.01
 prazo	NOUN	deadline.n.01
@@ -17467,9 +17467,9 @@ día_santo	NOUN	christian_holy_day.n.01
 festa_relixiosa_cristiá	NOUN	christian_holy_day.n.01
 Yom_Kippur	NOUN	yom_kippur.n.01
 Día_da_marmota	NOUN	groundhog_day.n.01
-14_de_febreiro	NOUN	valentine_day.n.01
-Día_dos_namorados	NOUN	valentine_day.n.01
-San_Valentín	NOUN	valentine_day.n.01
+14_de_febreiro	NOUN	day.n.03
+Día_dos_namorados	NOUN	day.n.03
+San_Valentín	NOUN	day.n.03
 Pascua	NOUN	feast_day.n.01
 Pascua_Cristiá	NOUN	feast_day.n.01
 Semana_Santa	NOUN	feast_day.n.01
@@ -17484,7 +17484,7 @@ Pessach	NOUN	feast_day.n.01
 Boxing_Day	NOUN	boxing_day.n.01
 Pentecoste	NOUN	religious_holiday.n.01
 Hanuka	NOUN	hanukkah.n.01
-Día_De_Acción_De_Grazas	NOUN	legal_holiday.n.01
+Día_De_Acción_De_Grazas	NOUN	feast_day.n.01
 prazo_dun_ano	NOUN	year.n.01
 lustro	NOUN	lustrum.n.01
 década	NOUN	decade.n.01
@@ -17570,11 +17570,11 @@ orixinarse	VERB	lie_in.v.02
 residir	VERB	lie_in.v.02
 continuar_co_embarazo	VERB	carry_to_term.v.01
 ter	VERB	carry_to_term.v.01	have.v.01	have.v.02	have.v.09	own.v.01
-deber_de	VERB	suffer.v.06
-necesitar	VERB	necessitate.v.01	suffer.v.06
-precisar	VERB	necessitate.v.01	suffer.v.06
-requirir	VERB	necessitate.v.01	suffer.v.06
-ter_que	VERB	suffer.v.06
+deber_de	VERB	have.v.12
+necesitar	VERB	have.v.12	necessitate.v.01
+precisar	VERB	have.v.12	necessitate.v.01
+requirir	VERB	have.v.12	necessitate.v.01
+ter_que	VERB	have.v.12
 ferir	VERB	injure.v.01
 lesionar	VERB	injure.v.01
 conter_o_vómito	VERB	keep_down.v.03
@@ -18260,7 +18260,7 @@ encontrar	VERB	find.v.01
 pagar	VERB	pay.v.01
 pagar_o_décimo	VERB	tithe.v.03
 deber	VERB	owe.v.01
-preguntar	VERB	negociate.v.06
+preguntar	VERB	dicker.v.01
 comerciar	VERB	trade.v.01
 aforrar	VERB	save.v.04	save.v.05
 quedar_a_pre	VERB	break_even.v.01

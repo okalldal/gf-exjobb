@@ -20,7 +20,7 @@ ndokush	NOUN	person.n.01
 njerëzor	NOUN	person.n.01
 njeri	NOUN	homo.n.02	person.n.01	world.n.08
 person	NOUN	chap.n.01	person.n.01	person.n.03
-shpirt	NOUN	causal_agent.n.01	disposition.n.01	person.n.01	spirit.n.04
+shpirt	NOUN	heart.n.06	person.n.01	spirit.n.01	spirit.n.04
 bishë	NOUN	animal.n.01
 fauna	NOUN	animal.n.01
 kafshë	NOUN	animal.n.01
@@ -32,7 +32,7 @@ jetë_bimore	NOUN	plant.n.02
 objekt_natyror	NOUN	natural_object.n.01
 substance	NOUN	message.n.02	substance.n.01
 lëndë	NOUN	material.n.01	matter.n.03
-material	NOUN	equipment.n.01	material.n.01	material.n.02	matter.n.03	matter.n.06
+material	NOUN	material.n.01	material.n.02	material.n.04	matter.n.03	matter.n.06
 përmbajtje	NOUN	matter.n.03	meaning.n.02	message.n.02	restraint.n.06
 substancë	NOUN	matter.n.03
 lëndë_ushqyese	NOUN	food.n.01
@@ -81,7 +81,7 @@ fakt	NOUN	datum.n.01	fact.n.01	fact.n.02	thing.n.01	thing.n.02	thing.n.05
 gjë	NOUN	thing.n.02	thing.n.05	thing.n.09
 punë	NOUN	concern.n.01	labor.n.02	matter.n.01	thing.n.02	work.n.01
 dashamirësi	NOUN	kindness.n.03
-mirësi	NOUN	kindness.n.03	state.n.02
+mirësi	NOUN	grace.n.01	kindness.n.03
 nder	NOUN	kindness.n.03
 xhentilesë	NOUN	kindness.n.03
 zemërmirësi	NOUN	kindness.n.03
@@ -111,7 +111,7 @@ akuzim	NOUN	causing.n.01
 të_akuzosh	NOUN	causing.n.01
 ikje	NOUN	departure.n.01	escape.n.01
 largim	NOUN	departure.n.01	diversion.n.01	escape.n.01	farewell.n.02
-nisje	NOUN	beginning.n.02	beginning.n.05	departure.n.01	farewell.n.02
+nisje	NOUN	beginning.n.02	beginning.n.05	departure.n.01	dispatch.n.02	farewell.n.02
 shmangie	NOUN	departure.n.01	deviation.n.01
 gjetje	NOUN	discovery.n.01
 zbulim	NOUN	discovery.n.01
@@ -129,7 +129,7 @@ rikthim	NOUN	recovery.n.03	recurrence.n.01	restitution.n.03	reversion.n.04
 rivendosje	NOUN	recovery.n.03	restitution.n.03
 përjashtohesh	NOUN	running_away.n.01
 marifetë	NOUN	stunt.n.01
-pengesë	NOUN	blockage.n.02	hindrance.n.03	obstacle.n.02	obstruction.n.01	obstruction.n.05	stunt.n.01
+pengesë	NOUN	blockage.n.02	hindrance.n.02	hindrance.n.03	obstacle.n.02	obstruction.n.01	obstruction.n.05	stunt.n.01
 vonesë	NOUN	delay.n.02	stunt.n.01
 prek	NOUN	touch.n.05
 ardhje	NOUN	advent.n.01	arrival.n.01
@@ -151,25 +151,25 @@ emigracion	NOUN	migration.n.01
 emigrim	NOUN	migration.n.01
 dalje	NOUN	exit.n.01	exit.n.03	release.n.09	result.n.03
 arratisje	NOUN	diversion.n.01	escape.n.01
-dërgim	NOUN	departure.n.01
-largoj	NOUN	departure.n.01
-transportim	NOUN	conveyance.n.03	departure.n.01	transportation.n.02
+dërgim	NOUN	dispatch.n.02
+largoj	NOUN	dispatch.n.02
+transportim	NOUN	conveyance.n.03	dispatch.n.02	transportation.n.02
 fitore	NOUN	attainment.n.01	victory.n.01
 rekord	NOUN	record.n.01	record.n.05	record.n.06
 sukses	NOUN	success.n.01	success.n.02
-hit	NOUN	hit.n.03
-i_potershëm	NOUN	hit.n.03
-potere	NOUN	commotion.n.02	hit.n.03
-sukses_i_papritur	NOUN	hit.n.03
+hit	NOUN	success.n.02
+i_potershëm	NOUN	success.n.02
+potere	NOUN	commotion.n.02	success.n.02
+sukses_i_papritur	NOUN	success.n.02
 jo_arritës	NOUN	nonaccomplishment.n.01
 dështim	NOUN	bankruptcy.n.02	defeat.n.01	failure.n.01	failure.n.02	happening.n.01	reverse.n.03
 mbetje	NOUN	failure.n.01	remainder.n.01	residue.n.01
 mossukses	NOUN	failure.n.01
-humbje	NOUN	loss.n.02	loss.n.03	loss.n.06	reverse.n.03	waste.n.02
-dorëzohem	NOUN	capitulation.n.03
-kapitullim	NOUN	capitulation.n.03
-nënshtrohem	NOUN	capitulation.n.03
-përmbysje	NOUN	capitulation.n.03
+humbje	NOUN	decline.n.01	loss.n.03	loss.n.06	reverse.n.03	waste.n.02
+dorëzohem	NOUN	loss.n.03
+kapitullim	NOUN	loss.n.03
+nënshtrohem	NOUN	loss.n.03
+përmbysje	NOUN	loss.n.03
 defekt	NOUN	mistake.n.01
 e_metë	NOUN	mistake.n.01
 gabim	NOUN	blunder.n.01	mistake.n.01
@@ -202,9 +202,9 @@ shpëtim	NOUN	rescue.n.01
 mënyrë_ekzekutim	NOUN	performance.n.03
 performancë	NOUN	performance.n.03
 të_hysh_në_veprim	NOUN	performance.n.03
-aparat	NOUN	device.n.02	mechanism.n.03	performance.n.03
-mekanikë	NOUN	performance.n.03
-mekanizëm	NOUN	mechanism.n.05	performance.n.03
+aparat	NOUN	device.n.02	mechanism.n.02	mechanism.n.03
+mekanikë	NOUN	mechanism.n.02
+mekanizëm	NOUN	mechanism.n.02	mechanism.n.05
 forcë_lëvizëse	NOUN	propulsion.n.02
 shtyrje	NOUN	propulsion.n.02
 vë_në_lëvizje	NOUN	propulsion.n.02
@@ -235,17 +235,17 @@ grabis	NOUN	catch.n.09
 kap	NOUN	catch.n.09
 mbërthej	NOUN	catch.n.09
 rrëmbej	NOUN	catch.n.09
-kontroll_dhe_pagesë	NOUN	inspection.n.01
-kontrolloj	NOUN	control.n.05	inspection.n.01
-proçedura_kontroll-kërkimore	NOUN	inspection.n.01
-krahasim	NOUN	comparison.n.01	comparison.n.02
-krahasues	NOUN	comparison.n.01
+kontroll_dhe_pagesë	NOUN	check.n.06
+kontrolloj	NOUN	check.n.06	control.n.05
+proçedura_kontroll-kërkimore	NOUN	check.n.06
+krahasim	NOUN	comparison.n.02	examination.n.01
+krahasues	NOUN	examination.n.01
 ndjekje	NOUN	follow-up.n.03	persecution.n.01	pursuit.n.01
 përforcoj	NOUN	follow-up.n.03
 riekzaminim	NOUN	follow-up.n.03
-rishikim	NOUN	exercise.n.03	follow-up.n.03
+rishikim	NOUN	follow-up.n.03	review.n.09
 vazhdim	NOUN	duration.n.01	follow-up.n.03
-influencë	NOUN	influence.n.02	influence.n.05
+influencë	NOUN	influence.n.02	power.n.05
 e_drejtë_zgjedhjeje	NOUN	choice.n.02
 mbledh	NOUN	accumulation.n.03	addition.n.01	choice.n.02
 seleksionim	NOUN	choice.n.02
@@ -264,13 +264,13 @@ manovër	NOUN	contrivance.n.03	maneuver.n.03	maneuver.n.04
 manovër_taktike	NOUN	maneuver.n.04
 manovrim	NOUN	acting.n.01	maneuver.n.03	maneuver.n.04	operation.n.05
 manovrim_taktik	NOUN	maneuver.n.04
-shpërngulje	NOUN	change.n.03	motion.n.06
-transferim	NOUN	change.n.03	motion.n.06	transportation.n.02
+shpërngulje	NOUN	motion.n.06	move.n.02
+transferim	NOUN	motion.n.06	move.n.02	transportation.n.02
 mënyrë	NOUN	discourtesy.n.03	manner.n.01	manner.n.02	means.n.01	means.n.02	way.n.10
 mjet	NOUN	aid.n.02	means.n.01
 votim	NOUN	vote.n.01	vote.n.02
 hedhje_shorti	NOUN	vote.n.01
-ndryshim	NOUN	alteration.n.02	change.n.01	change.n.03	deviation.n.01	mutant.n.01	reversal.n.01	turning.n.04
+ndryshim	NOUN	alteration.n.02	change.n.01	change.n.03	change_of_state.n.01	deviation.n.01	mutant.n.01	turning.n.04
 ekonomizim	NOUN	economy.n.04
 kursim	NOUN	economy.n.04
 ngritje_në_pozitë	NOUN	promotion.n.02
@@ -284,9 +284,9 @@ oponencë	NOUN	resistance.n.01
 rezistencë	NOUN	discourtesy.n.03	resistance.n.01
 reagoj	NOUN	resistance.n.01
 hedhje_poshtë	NOUN	rejection.n.01
-mospranim	NOUN	denial.n.01	rejection.n.01
-refuzim	NOUN	denial.n.01	discourtesy.n.03	rejection.n.01
-fund	NOUN	bed.n.03	bottom.n.01	bottom.n.02	death.n.01	end.n.01	end.n.06	end.n.07	end.n.09	termination.n.05
+mospranim	NOUN	disavowal.n.01	rejection.n.01
+refuzim	NOUN	disavowal.n.01	discourtesy.n.03	rejection.n.01
+fund	NOUN	bottom.n.01	bottom.n.02	death.n.01	end.n.01	end.n.06	end.n.07	end.n.09	natural_depression.n.01	termination.n.05
 mbarim	NOUN	end.n.06	result.n.03	termination.n.05
 përfundim	NOUN	consequence.n.01	result.n.03	termination.n.05
 heje	NOUN	dismissal.n.04
@@ -310,18 +310,18 @@ refuzoj	NOUN	nullification.n.02
 shfuqizim	NOUN	nullification.n.02
 pezullim	NOUN	cancellation.n.01	judgment.n.03	pause.n.01	reverse.n.03	suspension.n.01
 shuarje	NOUN	cancellation.n.01
-ndërrim	NOUN	exchange.n.03	reversal.n.01
+ndërrim	NOUN	change_of_state.n.01	exchange.n.03
 filloj	NOUN	beginning.n.05
 nis	NOUN	beginning.n.05
 zanafillë	NOUN	beginning.n.02	beginning.n.05
 formim	NOUN	buildup.n.01	constitution.n.02	geological_formation.n.01	training.n.01
-krijim	NOUN	beginning.n.01	composition.n.03	constitution.n.02	constitution.n.04	creation.n.01	creation.n.02	creativity.n.01	development.n.01	universe.n.01
+krijim	NOUN	composition.n.03	constitution.n.02	constitution.n.04	creation.n.01	creation.n.02	creation.n.03	creativity.n.01	development.n.01	universe.n.01
 organizim	NOUN	administration.n.02	constitution.n.02	organization.n.01	organization.n.06
 themelim	NOUN	administration.n.02	constitution.n.02
 gatim	NOUN	cooking.n.01
 kuzhinë	NOUN	cooking.n.01	cuisine.n.01	kitchen.n.01
 përgatitje	NOUN	cooking.n.01	planning.n.03	preparation.n.01	training.n.01
-vlerësim	NOUN	estimate.n.02	improvement.n.02	improvement.n.03	judgment.n.02
+vlerësim	NOUN	improvement.n.02	improvement.n.03	judgment.n.02
 evolucion	NOUN	development.n.01	development.n.02
 zhvillim	NOUN	development.n.01	development.n.02	growth.n.01	improvement.n.03	progress.n.02
 larje	NOUN	cleaning.n.01
@@ -338,9 +338,9 @@ ndreq	NOUN	adjustment.n.03	repair.n.01
 riparim	NOUN	repair.n.01
 riparoj	NOUN	repair.n.01
 rregulloj	NOUN	repair.n.01
-degjenerim	NOUN	change_of_state.n.01
-përulje	NOUN	change_of_state.n.01
-prishje	NOUN	change_of_state.n.01	decline.n.01	increase.n.05	sin.n.02
+degjenerim	NOUN	degradation.n.01
+përulje	NOUN	degradation.n.01
+prishje	NOUN	decline.n.01	degradation.n.01	increase.n.05	sin.n.02
 demoralizim	NOUN	demoralization.n.01	demoralization.n.03
 fëlliq	NOUN	soiling.n.01
 ndotës	NOUN	soiling.n.01
@@ -358,7 +358,7 @@ gjezdis	NOUN	locomotion.n.02
 lëvizem	NOUN	locomotion.n.02
 eci	NOUN	walk.n.01
 shëtitje	NOUN	walk.n.04
-hap	NOUN	gradation.n.01	step.n.03
+hap	NOUN	gradation.n.01	locomotion.n.02
 vrap	NOUN	run.n.07
 vrapim	NOUN	damage.n.01	footrace.n.01	run.n.07
 udhëtim	NOUN	change_of_location.n.01	journey.n.01	travel.n.01	trip.n.01
@@ -375,7 +375,7 @@ kërkim	NOUN	investigation.n.02	pursuit.n.01	question.n.01	research.n.01	search.
 ndjek	NOUN	pursuit.n.01
 futje_në_përdorim	NOUN	insertion.n.02
 ndërfutje	NOUN	insertion.n.02
-ngritje	NOUN	bulge.n.01	elevation.n.03	increase.n.05	rise.n.02
+ngritje	NOUN	aggrandizement.n.01	bulge.n.01	elevation.n.03	increase.n.05	rise.n.02
 rritje	NOUN	addition.n.03	growth.n.01	increase.n.02	increase.n.03	increase.n.04	increase.n.05	process.n.05	raise.n.01	rise.n.02
 kacavirrem	NOUN	rise.n.02
 ngjis_malin	NOUN	rise.n.02
@@ -424,8 +424,8 @@ depozitë	NOUN	deposit.n.09
 depozitoj	NOUN	deposit.n.09
 magazinim	NOUN	repositing.n.01
 magazinoj	NOUN	repositing.n.01
-lartësim	NOUN	acme.n.01	increase.n.05	natural_elevation.n.01
-madhështi	NOUN	elegance.n.01	increase.n.05
+lartësim	NOUN	acme.n.01	aggrandizement.n.01	natural_elevation.n.01
+madhështi	NOUN	aggrandizement.n.01	elegance.n.01
 ndryshimi_i_tërësisë	NOUN	change_of_integrity.n.01
 thyej	NOUN	breakage.n.03	transgression.n.01
 thyerje	NOUN	breakage.n.03	fracture.n.01	opening.n.01
@@ -434,7 +434,7 @@ shpërthim	NOUN	explosion.n.01	explosion.n.02	outbreak.n.01
 formoj	NOUN	combination.n.07	concept.n.01
 kombinim	NOUN	combination.n.04	combination.n.06	combination.n.07
 kombinoj	NOUN	combination.n.07
-bashkim	NOUN	adjustment.n.03	articulation.n.02	coalition.n.02	consortium.n.01	profession.n.01	union.n.04	union.n.08	union.n.11
+bashkim	NOUN	adjustment.n.03	alliance.n.01	articulation.n.02	coalition.n.02	consortium.n.01	profession.n.01	union.n.04	union.n.08	union.n.11
 bashkoj	NOUN	union.n.11
 unifikim	NOUN	union.n.04	union.n.11
 hapje	NOUN	opening.n.03
@@ -445,12 +445,12 @@ copëzim	NOUN	division.n.12
 ndarje_në_pjesë	NOUN	division.n.12
 ndarje_në_seksione	NOUN	division.n.12
 segmentizim	NOUN	division.n.12
-asgjesoj	NOUN	damage.n.03
-dëmtim	NOUN	damage.n.01	damage.n.03	feeling.n.01	injury.n.01
-dëmtoj	NOUN	damage.n.03
-lëndoj	NOUN	damage.n.03
-lëndim	NOUN	damage.n.03	injury.n.01	pain.n.01
-plagë	NOUN	damage.n.03	injury.n.01
+asgjesoj	NOUN	change_of_integrity.n.01
+dëmtim	NOUN	change_of_integrity.n.01	damage.n.01	feeling.n.01	injury.n.01
+dëmtoj	NOUN	change_of_integrity.n.01
+lëndoj	NOUN	change_of_integrity.n.01
+lëndim	NOUN	change_of_integrity.n.01	injury.n.01	pain.n.01
+plagë	NOUN	change_of_integrity.n.01	injury.n.01
 aktivitet	NOUN	action.n.02	activeness.n.02	activity.n.01	bodily_process.n.01	natural_process.n.01	pastime.n.01
 operacion	NOUN	activity.n.01	operation.n.05	operation.n.07	operation.n.08	process.n.02
 stil	NOUN	expressive_style.n.01	practice.n.01	style.n.03	vogue.n.01
@@ -462,14 +462,14 @@ skllavëri	NOUN	slavery.n.02
 rruga_e_jetës	NOUN	way.n.05
 rrugë	NOUN	passage.n.07	road.n.01	way.n.05	way.n.06
 keqtrajtim	NOUN	maltreatment.n.01	mistreatment.n.01	punishment.n.01
-përdorim	NOUN	exploitation.n.01	exploitation.n.02
-shfrytëzim	NOUN	exploitation.n.02
+përdorim	NOUN	exploitation.n.01	mistreatment.n.01
+shfrytëzim	NOUN	mistreatment.n.01
 abuzim	NOUN	maltreatment.n.01
 keqpërdorim	NOUN	maltreatment.n.01
 shpërdorim	NOUN	maltreatment.n.01	waste.n.02
 bezdisje	NOUN	persecution.n.01
 persekutim	NOUN	persecution.n.01
-kolonializëm	NOUN	exploitation.n.02
+kolonializëm	NOUN	mistreatment.n.01
 argëtim	NOUN	diversion.n.01	entertainment.n.01	fun.n.01	fun.n.03
 çlodhje	NOUN	diversion.n.01
 zbavitje	NOUN	diversion.n.01	entertainment.n.01
@@ -478,7 +478,7 @@ qëndrim_grotesk	NOUN	antic.n.01
 rreng	NOUN	antic.n.01	play.n.14
 shaka	NOUN	antic.n.01	jest.n.02
 tallem	NOUN	antic.n.01
-festim	NOUN	affair.n.03	celebration.n.02	celebration.n.03
+festim	NOUN	celebration.n.01	celebration.n.02	ritual.n.02
 gëzim	NOUN	celebration.n.02	fun.n.01	happiness.n.01	joy.n.01
 gosti	NOUN	celebration.n.02
 kremtim	NOUN	celebration.n.02
@@ -486,7 +486,7 @@ kërcej	NOUN	dancing.n.01
 kërcim	NOUN	dancing.n.01	transition.n.03
 arratisem	NOUN	diversion.n.01
 gaz	NOUN	fun.n.01	gas.n.01	gas.n.02	gasoline.n.01	joy.n.01
-kënaqësi	NOUN	content.n.05	delight.n.01	fun.n.01	pleasure.n.01
+kënaqësi	NOUN	content.n.05	fun.n.01	pleasure.n.01
 qejf	NOUN	fun.n.01
 kumar	NOUN	gambling.n.01
 luaj_kumar	NOUN	gambling.n.01
@@ -530,8 +530,8 @@ gënjim	NOUN	beguilement.n.02
 humbje_e_mendjes	NOUN	beguilement.n.02
 hutim	NOUN	beguilement.n.02
 shushatje	NOUN	beguilement.n.02	daze.n.01
-betim	NOUN	celebration.n.03
-celebrim	NOUN	affair.n.03	celebration.n.03
+betim	NOUN	ritual.n.02
+celebrim	NOUN	celebration.n.01	ritual.n.02
 festë	NOUN	festival.n.02
 festival	NOUN	festival.n.02
 shfaqje	NOUN	show.n.01	sound.n.04
@@ -576,9 +576,9 @@ post	NOUN	position.n.06	social_station.n.01
 vend	NOUN	area.n.01	country.n.02	haunt.n.01	home.n.01	land.n.01	land.n.04	nation.n.02	place.n.03	place.n.06	place.n.10	placement.n.01	position.n.01	position.n.06	post.n.01	region.n.01	rest.n.06	room.n.02	seat.n.01	space.n.07	state.n.04	stead.n.01	topographic_point.n.01	vicinity.n.01
 vend_pune	NOUN	job.n.02	position.n.06
 profesion	NOUN	profession.n.01	profession.n.02	trade.n.02
-zanat	NOUN	class.n.03	craft.n.04	trade.n.02
-bojaxhi	NOUN	painting.n.04
-lyerje	NOUN	color.n.01	painting.n.04
+zanat	NOUN	craft.n.03	craft.n.04	trade.n.02
+bojaxhi	NOUN	trade.n.02
+lyerje	NOUN	color.n.01	trade.n.02
 edukim	NOUN	education.n.04
 shkollim	NOUN	education.n.04
 politikë	NOUN	profession.n.02
@@ -610,7 +610,7 @@ kujdesem	NOUN	care.n.01
 ndihmesë	NOUN	care.n.01
 përkujdesje	NOUN	care.n.01	care.n.05
 përkushtim	NOUN	care.n.01
-vëmendje	NOUN	attention.n.01	attentiveness.n.01	care.n.01	concentration.n.05
+vëmendje	NOUN	attention.n.01	care.n.01	concentration.n.05
 kujdes_mjekësor	NOUN	medical_care.n.01
 ndihmë_mjekësore	NOUN	medical_care.n.01
 mjekim	NOUN	medicine.n.02	treatment.n.01
@@ -634,9 +634,9 @@ sjellje_e_keqe	NOUN	misbehavior.n.01	wrongdoing.n.02
 keqbërje	NOUN	misbehavior.n.01	misdemeanor.n.01	transgression.n.01
 prapësi	NOUN	misbehavior.n.01	misdemeanor.n.01
 veprim_i_keq	NOUN	misbehavior.n.01
-mospërfillje	NOUN	discourtesy.n.03	nonaccomplishment.n.01	trait.n.01
-neglizhencë	NOUN	nonaccomplishment.n.01
-pakujdesi	NOUN	carelessness.n.01	nonaccomplishment.n.01
+mospërfillje	NOUN	coldness.n.02	discourtesy.n.03	negligence.n.01	trait.n.01
+neglizhencë	NOUN	negligence.n.01
+pakujdesi	NOUN	carelessness.n.01	negligence.n.01
 çoroditje	NOUN	waste.n.02
 ligësi	NOUN	condition.n.01	evil.n.01	transgression.n.01
 shkelje	NOUN	misdemeanor.n.01	transgression.n.01
@@ -697,13 +697,13 @@ sprovë	NOUN	venture.n.01
 fushatë	NOUN	campaign.n.02	campaign.n.03
 rrezik	NOUN	area.n.01	danger.n.01	danger.n.03	risk.n.02
 rrezikim	NOUN	risk.n.02
-frenim	NOUN	limitation.n.05
-kufizim	NOUN	limitation.n.05	stretch.n.06
+frenim	NOUN	regulation.n.06
+kufizim	NOUN	duration.n.01	regulation.n.06
 zotërim	NOUN	command.n.06	dominance.n.02	ownership.n.01	possession.n.01
 aftësi_drejtimi	NOUN	steering.n.02
 udhëheqje	NOUN	leadership.n.01	leadership.n.03	leadership.n.04	steering.n.02
-aspiroj	NOUN	aim.n.03
-marr_shenjë	NOUN	aim.n.03
+aspiroj	NOUN	steering.n.02
+marr_shenjë	NOUN	steering.n.02
 mbrojtje	NOUN	auspices.n.01	care.n.05	defense.n.01	protection.n.01	protective_covering.n.01	security.n.01	security.n.02
 mbikqyrje	NOUN	care.n.05
 tutelë	NOUN	care.n.05
@@ -722,8 +722,8 @@ llogaris	NOUN	calculation.n.01	count.n.01
 njehsoj	NOUN	calculation.n.01	measurement.n.01
 proçes_matematikor	NOUN	mathematical_process.n.01
 veprime_matematikor	NOUN	mathematical_process.n.01
-gjykim	NOUN	estimate.n.02	judgment.n.01	judgment.n.02	judgment.n.03	trait.n.01
-mendim	NOUN	estimate.n.02	idea.n.01	judgment.n.01	judgment.n.02	opinion.n.01	option.n.02	thinking.n.01	trait.n.01
+gjykim	NOUN	judgment.n.01	judgment.n.02	judgment.n.03	trait.n.01
+mendim	NOUN	idea.n.01	judgment.n.01	judgment.n.02	opinion.n.01	option.n.02	thinking.n.01	trait.n.01
 aktivitet_ndijor	NOUN	sensory_activity.n.01
 ndjeshmëri	NOUN	sensation.n.01	sense.n.03	sensing.n.02
 pamje	NOUN	countenance.n.01	expression.n.01	face.n.03	look.n.02	look.n.03
@@ -739,7 +739,7 @@ kurs_studimesh	NOUN	course.n.01
 orë_mësimore	NOUN	course.n.01
 seminar	NOUN	seminar.n.02
 seancë_praktike	NOUN	exercise.n.03
-rivihem	NOUN	exercise.n.03
+rivihem	NOUN	review.n.09
 përfaqësim	NOUN	cooperation.n.01	representation.n.04	representation.n.10
 paraqitje_piktoreske	NOUN	pictorial_representation.n.01
 veprimtari_krijuese	NOUN	creation.n.01
@@ -757,7 +757,7 @@ agrikulrurë	NOUN	farming.n.01
 bujqësi	NOUN	farming.n.01
 ekonomi_bujqësore	NOUN	farming.n.01
 kopshtari	NOUN	gardening.n.01
-koloni	NOUN	body.n.02	culture.n.04
+koloni	NOUN	colony.n.01	culture.n.04
 kopsht_me_lule	NOUN	flower_gardening.n.01
 lultari	NOUN	flower_gardening.n.01
 industri	NOUN	factory.n.01	industry.n.01	industry.n.02
@@ -821,7 +821,7 @@ grupoj	NOUN	grouping.n.02
 grumbullim	NOUN	accumulation.n.04	agglomeration.n.01	collection.n.04	gathering.n.01
 mbledhje	NOUN	addition.n.03	assembly.n.04	assembly.n.06	collection.n.01	collection.n.04	gathering.n.01	meeting.n.02	meeting.n.04	point.n.02	session.n.03	set.n.02
 nxjerr_përfundimin	NOUN	gather.n.02
-proçedim	NOUN	proceeding.n.01
+proçedim	NOUN	procedure.n.04
 proçes	NOUN	procedure.n.01	process.n.05
 ceremoni	NOUN	ceremony.n.01	ceremony.n.03
 rit	NOUN	ceremony.n.01	rite.n.01	ritual.n.01
@@ -863,7 +863,7 @@ maturi	NOUN	abstinence.n.02
 kreshmë	NOUN	fast.n.01
 mbaj_kreshmë	NOUN	fast.n.01
 interferent	NOUN	hindrance.n.03
-pengues	NOUN	hindrance.n.03	obstruction.n.01
+pengues	NOUN	hindrance.n.02	hindrance.n.03
 ndalesë	NOUN	act.n.02	blockage.n.02
 ndalim	NOUN	act.n.02	stop.n.01
 ndaloj	NOUN	act.n.02
@@ -898,7 +898,7 @@ shitjet	NOUN	sale.n.03
 pagesë	NOUN	cost.n.01	monetary_value.n.01	payment.n.01	payment.n.02	wage.n.01
 shtegtim	NOUN	migration.n.01
 kontrolli_social	NOUN	social_control.n.01
-legjislacion	NOUN	government.n.02	legislation.n.01
+legjislacion	NOUN	legislation.n.01	legislation.n.02
 obligim	NOUN	duty.n.01
 përgjegjësi	NOUN	duty.n.01
 manaxhim	NOUN	management.n.01
@@ -916,8 +916,8 @@ ndëshkim	NOUN	punishment.n.01
 shkëmbim	NOUN	exchange.n.03
 udhëheq	NOUN	direct_action.n.01
 qendrese	NOUN	resistance.n.11
-kundërshtim	NOUN	confrontation.n.04	discourtesy.n.03	objection.n.02	protest.n.02
-kundervenie	NOUN	confrontation.n.04
+kundërshtim	NOUN	discourtesy.n.03	objection.n.02	protest.n.02	resistance.n.11
+kundervenie	NOUN	resistance.n.11
 fryrje	NOUN	blow.n.01
 protesoj	NOUN	protest.n.02
 e_drejte	NOUN	due_process.n.01
@@ -927,18 +927,18 @@ seancë	NOUN	meeting.n.02	proceeding.n.01	session.n.03
 vendim_gjyqësorë	NOUN	judgment.n.03
 vleresim	NOUN	judgment.n.03
 bashkëpunim	NOUN	cooperation.n.01
-mbështetje	NOUN	aid.n.02	backing.n.01	support.n.01	support.n.02	support.n.10
+mbështetje	NOUN	aid.n.02	attachment.n.05	backing.n.01	support.n.01	support.n.02	support.n.10
 ndihme	NOUN	aid.n.02	relief.n.05
-perkrahje	NOUN	aid.n.02	backing.n.01	relief.n.05	support.n.02
+perkrahje	NOUN	aid.n.02	backing.n.01	consolation.n.02	support.n.02
 dore	NOUN	hand.n.14
 dore_ndihmuese	NOUN	hand.n.14
 ndihmoj	NOUN	relief.n.05
 shërbim	NOUN	helping.n.01	military_service.n.01	relief.n.05
 mbartje	NOUN	aid.n.02
-lehtësim	NOUN	relief.n.05
-ngushëllim	NOUN	relief.n.05
-besnikeri	NOUN	love.n.01	support.n.02
-dashuri	NOUN	love.n.01	love.n.02	support.n.02
+lehtësim	NOUN	consolation.n.02
+ngushëllim	NOUN	consolation.n.02
+besnikeri	NOUN	attachment.n.05	love.n.01
+dashuri	NOUN	attachment.n.05	love.n.01	love.n.02
 mbrojte	NOUN	backing.n.01
 mjet_mbrojtës	NOUN	auspices.n.01	protective_covering.n.01
 rrethana_te_favorshme	NOUN	auspices.n.01
@@ -969,7 +969,7 @@ angazhim	NOUN	commitment.n.04	engagement.n.07
 ngatërrim	NOUN	engagement.n.07
 perzjerje	NOUN	engagement.n.07
 pjesëmarrje	NOUN	engagement.n.07
-grevë_urie	NOUN	hunger_strike.n.01
+grevë_urie	NOUN	fast.n.01
 grevë	NOUN	job_action.n.01
 protestë_ne_punë	NOUN	job_action.n.01
 drejtues	NOUN	head.n.04	leader.n.01	leadership.n.01	leadership.n.02	presiding_officer.n.01
@@ -1019,7 +1019,7 @@ gëzof	NOUN	hide.n.02
 lëkurë	NOUN	hide.n.02	skin.n.01
 lëvore	NOUN	hide.n.02
 luspë	NOUN	covering.n.01
-guaskë	NOUN	covering.n.01
+guaskë	NOUN	shell.n.10
 jovertebror	NOUN	invertebrate.n.01
 cnidarian	NOUN	invertebrate.n.01
 coelenterate	NOUN	invertebrate.n.01
@@ -1033,10 +1033,10 @@ crustacean	NOUN	crustacean.n.01
 mishngrënës	NOUN	carnivore.n.01
 qen	NOUN	canine.n.02
 krah	NOUN	branch.n.01	wing.n.01
-grabitqar	NOUN	animal.n.01
-kafshë_grabitqare	NOUN	animal.n.01
-gjah	NOUN	prey.n.02
-preh	NOUN	prey.n.02
+grabitqar	NOUN	predator.n.02
+kafshë_grabitqare	NOUN	predator.n.02
+gjah	NOUN	animal.n.01
+preh	NOUN	animal.n.01
 kafshë_gjahu	NOUN	game.n.04
 shputë_këmbe	NOUN	animal_foot.n.01
 dhëmbë	NOUN	structure.n.04
@@ -1047,9 +1047,9 @@ hymenopter	NOUN	hymenopterous_insect.n.01
 hymenopteran	NOUN	hymenopterous_insect.n.01
 hymenopteron	NOUN	hymenopterous_insect.n.01
 hymenopterous_insect	NOUN	hymenopterous_insect.n.01
-bletë	NOUN	hymenopterous_insect.n.01
+bletë	NOUN	bee.n.01
 punëtor	NOUN	worker.n.01	worker.n.03
-kryetar	NOUN	foreman.n.01	head.n.04	leadership.n.02	president.n.04	soldier.n.02
+kryetar	NOUN	foreman.n.01	head.n.04	leadership.n.02	president.n.04	worker.n.03
 larvë	NOUN	larva.n.01
 vemje	NOUN	larva.n.01
 mbretëreshë	NOUN	insect.n.01
@@ -1059,14 +1059,14 @@ këmbët	NOUN	organ.n.01
 shputë	NOUN	organ.n.01
 brejtës	NOUN	rodent.n.01
 kafshë_brejtëse	NOUN	rodent.n.01
-mi	NOUN	mouse.n.01	rodent.n.01
+mi	NOUN	mouse.n.01	rat.n.01
 kafshë_me_thundër	NOUN	ungulate.n.01
 thundrak	NOUN	ungulate.n.01
 një_thundrak	NOUN	odd-toed_ungulate.n.01
 kalë	NOUN	equine.n.01	horse.n.01
 mëz	NOUN	young_mammal.n.01
-një_kalë_mashkull	NOUN	male.n.01
-hamshorë	NOUN	male.n.01
+një_kalë_mashkull	NOUN	male_horse.n.01
+hamshorë	NOUN	stallion.n.01
 artiodactyl	NOUN	even-toed_ungulate.n.01
 artiodactyl_mammal	NOUN	even-toed_ungulate.n.01
 even-toed_ungulate	NOUN	even-toed_ungulate.n.01
@@ -1108,7 +1108,7 @@ plumbë	NOUN	ammunition.n.01
 analgjezik	NOUN	medicine.n.02
 dhimbjeheqës	NOUN	medicine.n.02
 kapsul_qetësues	NOUN	medicine.n.02
-qetësues	NOUN	medicine.n.02	sedative.n.01
+qetësues	NOUN	medicine.n.02
 aneksoj	NOUN	annex.n.01
 shtojcë	NOUN	annex.n.01	appendage.n.03
 kudhër	NOUN	block.n.01
@@ -1128,7 +1128,7 @@ uniformë,veshje	NOUN	attire.n.01
 ballkon	NOUN	balcony.n.02	patio.n.01
 top	NOUN	ball.n.06	ball.n.08
 shirit_,_fasho	NOUN	band.n.07
-shufër	NOUN	bar.n.05	rod.n.01
+shufër	NOUN	obstruction.n.01	rod.n.01
 hoy	NOUN	boat.n.01
 kanoe,anije_lumore	NOUN	boat.n.01
 lundër	NOUN	boat.n.01
@@ -1196,9 +1196,9 @@ kamp	NOUN	camp.n.02	camp.n.03	clique.n.01	housing.n.01
 autobus_kampimi	NOUN	camper.n.02
 autokamp	NOUN	camper.n.02
 mikrobus_kampimi	NOUN	camper.n.02
-kuti_konservash	NOUN	container.n.01
-kuti_teneqeje	NOUN	container.n.01
-teneqe	NOUN	container.n.01
+kuti_konservash	NOUN	can.n.01	container.n.01
+kuti_teneqeje	NOUN	can.n.01
+teneqe	NOUN	can.n.01
 kuti_teneqe	NOUN	container.n.01
 kaike	NOUN	canoe.n.01
 kapak	NOUN	covering.n.01	protective_covering.n.01	top.n.09
@@ -1264,13 +1264,13 @@ bashkues	NOUN	connection.n.03
 lidhës	NOUN	connection.n.03	supplier.n.01
 pjesë_bashkuese	NOUN	connection.n.03
 enë	NOUN	container.n.01	vessel.n.03
-kopje	NOUN	copy.n.02	copy.n.03
+kopje	NOUN	copy.n.02	text.n.01
 fije_,_pe_,_spango	NOUN	cord.n.01
 kadife	NOUN	fabric.n.01
 kadife_me_vija	NOUN	fabric.n.01
-kënd	NOUN	angle.n.01	corner.n.03	corner.n.11	part.n.03
-qoshe	NOUN	corner.n.11
-cep	NOUN	bulge.n.01	corner.n.03	corner.n.05	tip.n.01
+kënd	NOUN	angle.n.01	area.n.05	part.n.03	structure.n.01
+qoshe	NOUN	structure.n.01
+cep	NOUN	area.n.05	bulge.n.01	corner.n.05	tip.n.01
 korrektues	NOUN	corrective.n.01
 kozmetikë	NOUN	cosmetic.n.01
 material_pambuku	NOUN	cotton.n.02
@@ -1279,8 +1279,8 @@ kurs_,_drejtim	NOUN	course.n.09
 mbështjellës	NOUN	covering.n.02
 kllapë_hekuri	NOUN	strip.n.02
 kllapë_shtrënguese	NOUN	strip.n.02
-krem	NOUN	dairy_product.n.01	toiletry.n.01
-zbutës,lehtësues	NOUN	toiletry.n.01
+krem	NOUN	cream.n.02	cream.n.03
+zbutës,lehtësues	NOUN	cream.n.03
 tyl	NOUN	fabric.n.01
 dorezë_kamzhiku	NOUN	handle.n.01
 kryq	NOUN	cross.n.01
@@ -1414,7 +1414,7 @@ sigurim	NOUN	guard.n.03	safety.n.01	security.n.01
 pushkë	NOUN	gun.n.01
 aparaturë_gjimnastikore	NOUN	gymnastic_apparatus.n.01
 mjetet_gjimnastikore	NOUN	gymnastic_apparatus.n.01
-holl_,sallon_pritje	NOUN	building.n.01
+holl_,sallon_pritje	NOUN	hall.n.13
 ndërtesë_publike	NOUN	hall.n.03
 shami	NOUN	piece_of_cloth.n.01
 shami_hundësh	NOUN	piece_of_cloth.n.01
@@ -1429,7 +1429,7 @@ pajisje_ngrohëse	NOUN	heater.n.01
 impiant_ngrohje	NOUN	heating_system.n.01
 sistem_ngrohje	NOUN	heating_system.n.01
 helikopter	NOUN	helicopter.n.01
-vështirësi	NOUN	difficulty.n.02	difficulty.n.04	obstruction.n.01
+vështirësi	NOUN	difficulty.n.02	difficulty.n.04	hindrance.n.02
 gropë_,_vrimë	NOUN	hole.n.02
 hallkë	NOUN	gang.n.01	hoop.n.02
 rreth_metalik	NOUN	hoop.n.02
@@ -1467,7 +1467,7 @@ bibliotekë	NOUN	room.n.01
 çakmak	NOUN	lighter.n.02
 mjet_ndriçimi	NOUN	lighting_fixture.n.01
 litar	NOUN	line.n.18
-bravë	NOUN	fastener.n.02
+bravë	NOUN	lock.n.01
 ekluzë	NOUN	enclosure.n.01
 portë	NOUN	enclosure.n.01
 lokomotivë	NOUN	locomotive.n.01
@@ -1475,9 +1475,9 @@ shtëpizë_indianësh	NOUN	dwelling.n.01
 tendë_indianësh	NOUN	dwelling.n.01
 shtëpizë	NOUN	house.n.01
 shtëpizë_gjuetie	NOUN	house.n.01
-dhomë_në_papafingo	NOUN	loft.n.02
-nënçati	NOUN	loft.n.02
-papafingo	NOUN	loft.n.02
+dhomë_në_papafingo	NOUN	floor.n.02
+nënçati	NOUN	floor.n.02
+papafingo	NOUN	floor.n.02
 makanizëm	NOUN	machine.n.04
 mekanizëm_i_thjeshtë	NOUN	machine.n.04
 makineri	NOUN	machinery.n.01
@@ -1536,7 +1536,7 @@ gazetë	NOUN	newspaper.n.01	newspaper.n.03
 grackë	NOUN	closed_curve.n.01
 kurth	NOUN	closed_curve.n.01	plant.n.04
 lak	NOUN	closed_curve.n.01
-zyrë	NOUN	agency.n.01	office.n.01	office.n.05
+zyrë	NOUN	agency.n.01	office.n.01	staff.n.01
 zyrë_biznesi	NOUN	office.n.01
 opium	NOUN	narcotic.n.01
 mjet_optikë	NOUN	optical_device.n.01
@@ -1574,14 +1574,14 @@ tempull	NOUN	building.n.01	place_of_worship.n.01
 ndërmarrje	NOUN	plant.n.01	workplace.n.01
 uzinë	NOUN	plant.n.01
 pjatë	NOUN	course.n.07	dish.n.02	disk.n.01	plate.n.02
-kornizë	NOUN	plate.n.11
+kornizë	NOUN	sheet.n.06
 kosh	NOUN	containerful.n.01	playpen.n.01
 kosh_fëmijësh	NOUN	playpen.n.01
 lodër	NOUN	plaything.n.01
 pingule	NOUN	cord.n.01
 vijë_vertikale	NOUN	cord.n.01
 xhep	NOUN	pocket.n.01
-shtyllë	NOUN	bearing.n.02	pole.n.01
+shtyllë	NOUN	direction.n.01	pole.n.01
 hajat_,_hyrje	NOUN	porch.n.01
 frëngji	NOUN	port.n.03
 frëngji_për_topat	NOUN	port.n.03
@@ -1603,12 +1603,12 @@ pasqyrim	NOUN	representation.n.02
 gjelltore	NOUN	restaurant.n.01
 mensë	NOUN	restaurant.n.01
 restorant	NOUN	restaurant.n.01
-fushë_e_rregullt	NOUN	right_field.n.01
+fushë_e_rregullt	NOUN	tract.n.01
 ruli_i_revoles	NOUN	cylinder.n.01
 duhan	NOUN	roll_of_tobacco.n.01
 çati	NOUN	roof.n.01
-lopatë_varke	NOUN	sail.n.01
-velë	NOUN	sail.n.01
+lopatë_varke	NOUN	piece_of_cloth.n.01
+velë	NOUN	piece_of_cloth.n.01
 mësonjëtore	NOUN	school.n.02
 shkollë	NOUN	school.n.02
 mbështjellëse	NOUN	screen.n.04
@@ -1618,8 +1618,8 @@ divan	NOUN	seating.n.01
 ndenjëse	NOUN	seating.n.01
 salloni_i_dhomës	NOUN	seating.n.01
 sektor	NOUN	part.n.09	section.n.04	sector.n.02
-barna_qetësuese	NOUN	sedative.n.01
-ilaç_qetësues	NOUN	sedative.n.01
+barna_qetësuese	NOUN	medicine.n.02
+ilaç_qetësues	NOUN	medicine.n.02
 fletë_e_hollë	NOUN	sheet.n.06
 tabak	NOUN	sheet.n.06
 strehë	NOUN	shelter.n.01
@@ -1632,7 +1632,7 @@ pantallona	NOUN	skirt.n.02
 pllakë	NOUN	slab.n.01
 vrimë	NOUN	opening.n.10	orifice.n.01
 barkë	NOUN	small_boat.n.01
-sapun	NOUN	cleansing_agent.n.01
+sapun	NOUN	soap.n.01
 burim	NOUN	beginning.n.04	source.n.04	spring.n.03
 burim_drite	NOUN	source_of_illumination.n.01
 heshtë	NOUN	spear.n.02
@@ -1668,7 +1668,7 @@ tryezë_e_shtruar	NOUN	table.n.03
 takëmet_e_ngrënies	NOUN	tableware.n.01
 armatime_tanku	NOUN	tank.n.01
 tank	NOUN	tank.n.01
-ndihmat_mësimore	NOUN	teaching_aid.n.01
+ndihmat_mësimore	NOUN	equipment.n.01
 arush_pelushi	NOUN	plaything.n.01
 pelush	NOUN	plaything.n.01
 telefon	NOUN	phone.n.02	telephone.n.01
@@ -1739,10 +1739,10 @@ personalitet	NOUN	identity.n.01	personality.n.01
 identitet	NOUN	identity.n.01
 individualitet	NOUN	identity.n.01
 karakter	NOUN	character.n.03	character.n.05	character.n.08	quality.n.03	temper.n.02
-gjendje_shpirtërore	NOUN	disposition.n.01	emotional_state.n.01	spirit.n.03
+gjendje_shpirtërore	NOUN	disposition.n.01	emotional_state.n.01	heart.n.06	spirit.n.03
 natyrë	NOUN	nature.n.01	nature.n.04	temper.n.02
-jo_emocional	NOUN	trait.n.01
-ftohtësi	NOUN	distance.n.04	trait.n.01
+jo_emocional	NOUN	unemotionality.n.02
+ftohtësi	NOUN	coldness.n.02	distance.n.04
 veprimtari	NOUN	action.n.02	activeness.n.02
 mbyllur	NOUN	uncommunicativeness.n.01
 heshtje	NOUN	reserve.n.07
@@ -1753,7 +1753,7 @@ shpërfillje	NOUN	trait.n.01
 pamja_e_jashtme	NOUN	appearance.n.01
 pamja_fizike	NOUN	appearance.n.01
 fytyrë	NOUN	countenance.n.01	expression.n.01	external_body_part.n.01
-pamje_e_jashtme	NOUN	expression.n.01	surface.n.04
+pamje_e_jashtme	NOUN	aspect.n.01	expression.n.01
 shprehje	NOUN	expression.n.01	expression.n.02	saying.n.01
 shprehje_e_fytyrës	NOUN	expression.n.01
 bukuri	NOUN	beauty.n.01
@@ -1761,18 +1761,18 @@ shëmti	NOUN	appearance.n.01
 ashpërsi	NOUN	asperity.n.01
 rreptë	NOUN	asperity.n.01
 vrazhdësi	NOUN	asperity.n.01
-hollësi	NOUN	detail.n.01	subtlety.n.02
+hollësi	NOUN	detail.n.01	difficulty.n.04
 papajtueshmëri	NOUN	incompatibility.n.03
 cilësi	NOUN	quality.n.01	quality.n.03
-notë	NOUN	air.n.03
+notë	NOUN	note.n.05
 karakteristikë	NOUN	characteristic.n.02	feature.n.01
 ngjashmëri	NOUN	identity.n.04	sameness.n.01	similarity.n.01
 identik	NOUN	identity.n.04
 padallueshmëri	NOUN	identity.n.04
 ndryshëm	NOUN	difference.n.01
 dallim	NOUN	discrimination.n.02	distinction.n.04
-ide_e_drejtë	NOUN	quality.n.01
-siguri	NOUN	assurance.n.01	certainty.n.01	quality.n.01	safety.n.02	security.n.02	security.n.05
+ide_e_drejtë	NOUN	certainty.n.02
+siguri	NOUN	assurance.n.01	certainty.n.01	certainty.n.02	safety.n.02	security.n.02	security.n.05
 rregullsi	NOUN	ordering.n.01	regularity.n.02
 jo_origjinal	NOUN	quality.n.01
 ortodoks	NOUN	quality.n.01
@@ -1786,17 +1786,17 @@ shkëlqim	NOUN	elegance.n.01
 ndershmëri	NOUN	righteousness.n.01
 egoizëm	NOUN	trait.n.01
 vrull	NOUN	drive.n.05
-ambicie	NOUN	ambition.n.02
-ambicioz	NOUN	ambition.n.02
+ambicie	NOUN	drive.n.05
+ambicioz	NOUN	drive.n.05
 moral	NOUN	ethical_motive.n.01	morality.n.01
 drejtësi	NOUN	justice.n.01
 vërtetësi	NOUN	justice.n.01
 qëndrueshmëri	NOUN	resoluteness.n.01
-vendosmëri	NOUN	resoluteness.n.01	result.n.03
+vendosmëri	NOUN	decision.n.03	resoluteness.n.01
 disiplinë	NOUN	discipline.n.01	discipline.n.03
 arrogancë	NOUN	mortal_sin.n.01
 mendjemadhësi	NOUN	mortal_sin.n.01
-mençuri	NOUN	wisdom.n.01	wisdom.n.02
+mençuri	NOUN	content.n.05	wisdom.n.02
 urtësi	NOUN	wisdom.n.02
 mençur	NOUN	discretion.n.05
 mprehtësi	NOUN	discretion.n.05
@@ -1846,9 +1846,9 @@ fortësi	NOUN	force.n.03	intensity.n.02
 dobësi	NOUN	disease.n.01	quality.n.01	weakness.n.03
 këpuje	NOUN	weakness.n.03
 i_përkohshëm	NOUN	temporal_property.n.01
-i_shpejtë	NOUN	pace.n.03
-shpejtë	NOUN	pace.n.03
-shpejtësi	NOUN	pace.n.03	speed.n.01
+i_shpejtë	NOUN	speed.n.02
+shpejtë	NOUN	speed.n.02
+shpejtësi	NOUN	speed.n.01	speed.n.02
 hapësirë	NOUN	area.n.03	extent.n.01	spatial_property.n.01
 përmasë	NOUN	dimension.n.01	spatial_property.n.01
 konturë	NOUN	shape.n.01
@@ -1867,15 +1867,15 @@ dimension	NOUN	proportion.n.02
 shtrirje	NOUN	extent.n.02	process.n.05	proportion.n.02	setting.n.02
 gradë	NOUN	class.n.02	degree.n.01	degree.n.06	rank.n.02
 nivel	NOUN	class.n.03	degree.n.01	degree.n.02	plane.n.03
-titull	NOUN	degree.n.01	status.n.01	title.n.06	title.n.09
+titull	NOUN	appellation.n.01	degree.n.01	status.n.01	title.n.06
 ngritje_çmimesh	NOUN	raise.n.01
 ngritje_page	NOUN	raise.n.01
 ngritje_rroge	NOUN	raise.n.01
 rritje_rroge	NOUN	raise.n.01
-numër	NOUN	act.n.04	issue.n.02	number.n.01	number.n.02	numeral.n.01	phone_number.n.01	positive_identification.n.01
+numër	NOUN	act.n.04	issue.n.02	number.n.01	number.n.02	number.n.08	numeral.n.01	phone_number.n.01
 shumicë	NOUN	majority.n.01
 kufi	NOUN	boundary.n.01	boundary_line.n.01	limit.n.01	limit.n.03	limit.n.04
-lartësi	NOUN	elevation.n.03	height.n.01	lift.n.04
+lartësi	NOUN	elevation.n.03	height.n.01	wave.n.01
 vlerë	NOUN	price.n.04	value.n.02	worth.n.02
 meritë	NOUN	merit.n.01
 virtyt	NOUN	merit.n.01
@@ -1892,10 +1892,10 @@ domethënie	NOUN	meaning.n.01	significance.n.01
 drejtë	NOUN	right.n.01
 interesant	NOUN	interest.n.03
 interesante	NOUN	interest.n.03
-ndikim	NOUN	influence.n.01	influence.n.04	influence.n.05
+ndikim	NOUN	influence.n.01	influence.n.04	power.n.05
 efektshmëri	NOUN	effectiveness.n.01
 efikasitet	NOUN	effectiveness.n.01
-aftësi	NOUN	ability.n.01	ability.n.02	aptitude.n.01	class.n.03	faculty.n.01	skill.n.01	skillfulness.n.01
+aftësi	NOUN	ability.n.01	ability.n.02	aptitude.n.01	craft.n.03	faculty.n.01	skill.n.01	skillfulness.n.01
 impotencë	NOUN	quality.n.01
 pafuqi	NOUN	illness.n.01	quality.n.01
 pafuqishëm	NOUN	quality.n.01
@@ -1940,9 +1940,9 @@ zgavra_e_trupit	NOUN	cavity.n.04
 këllëf_dhëmbi	NOUN	top.n.01
 kristali_i_syrit	NOUN	lens.n.04
 lente	NOUN	lens.n.04
-arterie	NOUN	blood_vessel.n.01
-ena_arteriale_e_gjakut	NOUN	blood_vessel.n.01
-llapë	NOUN	animal_tissue.n.01
+arterie	NOUN	artery.n.01
+ena_arteriale_e_gjakut	NOUN	artery.n.01
+llapë	NOUN	flap.n.04
 enëzor	NOUN	structure.n.04
 enë_gjaku	NOUN	blood_vessel.n.01	vessel.n.01
 substancë_e_lëngshme_e_trupit	NOUN	liquid_body_substance.n.01
@@ -1969,7 +1969,7 @@ srtukturë_nervore	NOUN	neural_structure.n.01
 organ_riprodhues	NOUN	reproductive_organ.n.01
 organ_seksual	NOUN	reproductive_organ.n.01
 kokë	NOUN	head.n.01	heading.n.01	mind.n.01
-krye	NOUN	acme.n.01	bearing.n.02	head.n.01	heading.n.01
+krye	NOUN	acme.n.01	direction.n.01	head.n.01	heading.n.01
 faring	NOUN	throat.n.01
 fyt	NOUN	throat.n.01
 zgavër_tubolare	NOUN	tubular_cavity.n.01
@@ -2017,8 +2017,8 @@ aftësi_mendore	NOUN	brain.n.02	faculty.n.01
 kapacitet_mendor	NOUN	brain.n.02
 kokë_e_madhe	NOUN	brain.n.02
 tru	NOUN	brain.n.02
-intelekt	NOUN	intellectual.n.01	intelligence.n.01	reason.n.03
-mendje	NOUN	intelligence.n.01	reason.n.03
+intelekt	NOUN	intellectual.n.01	mind.n.07	reason.n.03
+mendje	NOUN	mind.n.07	reason.n.03
 mendjehollë	NOUN	shrewdness.n.01
 mendjemprehtësi	NOUN	shrewdness.n.01
 qartësi	NOUN	shrewdness.n.01
@@ -2062,12 +2062,12 @@ gjendje_kome	NOUN	unconsciousness.n.01
 komë	NOUN	unconsciousness.n.01
 kureshtje	NOUN	curiosity.n.01
 kuriozitet	NOUN	curiosity.n.01
-interes	NOUN	interest.n.01	interest.n.06	share.n.01
+interes	NOUN	interest.n.01	share.n.01	social_group.n.01
 element_njohës	NOUN	cognitive_factor.n.01
 hall	NOUN	trouble.n.01
 telash	NOUN	trouble.n.01	trouble.n.03
 arsye	NOUN	circumstance.n.03	trouble.n.01
-bindje	NOUN	assurance.n.01	belief.n.01	persuasion.n.01
+bindje	NOUN	assurance.n.01	conviction.n.01	persuasion.n.01
 mirëbesim	NOUN	assurance.n.01
 vetëbesim	NOUN	assurance.n.01
 dyshim	NOUN	doubt.n.01	question.n.01
@@ -2120,8 +2120,8 @@ argument_logjik	NOUN	argumentation.n.02
 përzgjedh	NOUN	choice.n.01
 zgjedh	NOUN	choice.n.01
 alternativë	NOUN	option.n.02
-mundësi	NOUN	luck.n.02	opportunity.n.01	option.n.02	possibility.n.02
-veprim_i_mundshëm	NOUN	option.n.02
+mundësi	NOUN	luck.n.02	opportunity.n.01	possibility.n.02	possibility.n.04
+veprim_i_mundshëm	NOUN	possibility.n.04
 gur_i_themelit	NOUN	basis.n.02
 planifikim	NOUN	planning.n.03
 marrëveshje	NOUN	agreement.n.04	arrangement.n.02
@@ -2134,8 +2134,8 @@ shoqëri	NOUN	caller.n.01	class.n.03	club.n.02	company.n.03	company.n.04	liking.
 jetë	NOUN	life.n.02	life.n.05	organic_phenomenon.n.01	time_period.n.01
 jetesë	NOUN	life.n.02
 pasion	NOUN	love.n.02
-e_gjithë	NOUN	universe.n.03
-gjithë_biseda	NOUN	universe.n.03
+e_gjithë	NOUN	content.n.05
+gjithë_biseda	NOUN	content.n.05
 temë	NOUN	discipline.n.01	idea.n.01	subject.n.01	theme.n.02	topic.n.02
 fushë	NOUN	area.n.02	discipline.n.01
 informacion	NOUN	data.n.01	information.n.01	information.n.02
@@ -2148,9 +2148,9 @@ ilustrim	NOUN	example.n.01
 shembull	NOUN	case.n.01	example.n.01
 shembull_tipik	NOUN	example.n.01
 përjashtim	NOUN	exception.n.02
-justifikim	NOUN	circumstance.n.03
-formim_kulturor	NOUN	background.n.03
-kualifikim_njohurush	NOUN	background.n.03
+justifikim	NOUN	justification.n.01
+formim_kulturor	NOUN	information.n.02
+kualifikim_njohurush	NOUN	information.n.02
 fakt_bindës	NOUN	proof.n.01
 përgënjeshtrim	NOUN	evidence.n.01
 gjurmë	NOUN	lead.n.03	marker.n.02	trail.n.01
@@ -2174,7 +2174,7 @@ abstrakt	NOUN	abstraction.n.01
 gjëra	NOUN	thing.n.03
 shumë	NOUN	sum.n.01	sum.n.02
 total	NOUN	sum.n.02
-pikë	NOUN	atom.n.02	point.n.01
+pikë	NOUN	atom.n.02	component.n.01
 constituent	NOUN	component.n.01
 element_përbërës	NOUN	component.n.01
 faktor	NOUN	agent.n.04	component.n.01	context.n.02
@@ -2184,7 +2184,7 @@ tërësi	NOUN	complex.n.01
 ligj	NOUN	law.n.01	law.n.04
 ligjet_e_natyrës	NOUN	law.n.04
 hipotezë	NOUN	hypothesis.n.02
-teori	NOUN	doctrine.n.01	explanation.n.02	hypothesis.n.02
+teori	NOUN	doctrine.n.01	hypothesis.n.02	theory.n.01
 hamendje	NOUN	assumption.n.02
 supozim	NOUN	assumption.n.02
 supozoj	NOUN	assumption.n.02
@@ -2201,8 +2201,8 @@ paraqitje_mendore	NOUN	representation.n.01
 personazh	NOUN	character.n.04
 rol_teatror	NOUN	character.n.04
 dogmë	NOUN	belief.n.01
-besë	NOUN	belief.n.01	faith.n.02
-besim_i_fortë	NOUN	belief.n.01
+besë	NOUN	conviction.n.01	faith.n.02
+besim_i_fortë	NOUN	conviction.n.01
 besim	NOUN	expectation.n.03	faith.n.02	religion.n.01	religion.n.02
 dotrinë	NOUN	doctrine.n.01
 filozofi	NOUN	doctrine.n.01
@@ -2317,7 +2317,7 @@ material_teksti	NOUN	text.n.01
 tekst	NOUN	text.n.01
 hapsire	NOUN	expanse.n.03	space.n.03	space.n.07
 hapsire_e_bardhe	NOUN	space.n.07
-material_shkrimi	NOUN	copy.n.03
+material_shkrimi	NOUN	text.n.01
 nënndarje	NOUN	branch.n.01	section.n.01
 seksion	NOUN	department.n.01	section.n.01	section.n.03	section.n.10
 fundi	NOUN	conclusion.n.08
@@ -2330,7 +2330,7 @@ libër_me_fakte	NOUN	reference_book.n.01
 referencë	NOUN	reference_book.n.01
 referencë_libri	NOUN	reference_book.n.01
 referencë_pune	NOUN	reference_book.n.01
-numër_identifikim	NOUN	positive_identification.n.01
+numër_identifikim	NOUN	number.n.08
 numër_telefoni	NOUN	phone_number.n.01
 shkrim_dokumenti	NOUN	document.n.01
 dokument_ligji	NOUN	legal_document.n.01
@@ -2342,11 +2342,11 @@ listimi	NOUN	list.n.01
 pike	NOUN	compass_point.n.01	drop.n.01	item.n.01	point.n.02	point.n.09	topographic_point.n.01
 lloj_tendencë	NOUN	character_set.n.01
 faturë_pagesë	NOUN	menu.n.01
-kartë	NOUN	calling_card.n.02	card.n.08	menu.n.01
+kartë	NOUN	calling_card.n.02	menu.n.01	record.n.05
 kartë_qenderimi	NOUN	menu.n.01
 menu	NOUN	menu.n.01
 katalog	NOUN	roll.n.02
-shënues_kartë	NOUN	card.n.08
+shënues_kartë	NOUN	record.n.05
 dosje_te_dhënash	NOUN	file.n.01
 skedar	NOUN	file.n.01
 histori	NOUN	history.n.02	narrative.n.01
@@ -2423,15 +2423,15 @@ kundërpërgjigje	NOUN	answer.n.01	reply.n.02
 pergjigje	NOUN	answer.n.01	reply.n.02
 koment	NOUN	gossip.n.02	remark.n.01
 shënim	NOUN	remark.n.01	speech_act.n.01
-shenjë	NOUN	gesture.n.02	mark.n.06	mark.n.10	marker.n.02	sign.n.02	signal.n.01	speech_act.n.01
+shenjë	NOUN	gesture.n.02	mark.n.10	marker.n.02	sign.n.02	signal.n.01	speech_act.n.01	symbol.n.01
 sinjal	NOUN	signal.n.01
 sinjalizim	NOUN	signal.n.01
 afishe	NOUN	poster.n.01
 njoftim	NOUN	poster.n.01
 reklamë	NOUN	poster.n.01
 reklamim	NOUN	poster.n.01
-njolle	NOUN	mark.n.06
-vulë	NOUN	mark.n.06
+njolle	NOUN	symbol.n.01
+vulë	NOUN	symbol.n.01
 kujtim	NOUN	token.n.01
 lajm	NOUN	token.n.01
 shenje	NOUN	indication.n.01
@@ -2459,7 +2459,7 @@ gjuhe_natyrale	NOUN	natural_language.n.01
 grafik	NOUN	artwork.n.01
 meterie_jotekstuale	NOUN	artwork.n.01
 pune_arti	NOUN	artwork.n.01
-kthese	NOUN	curve.n.02	room.n.02
+kthese	NOUN	line.n.04	room.n.02
 art_dramatik	NOUN	dramaturgy.n.01
 dramatik	NOUN	actor.n.01	dramaturgy.n.01
 dramaturgji	NOUN	dramaturgy.n.01
@@ -2497,7 +2497,7 @@ give-and-take	NOUN	discussion.n.02
 word	NOUN	discussion.n.02
 argument	NOUN	argument.n.03
 debate	NOUN	argument.n.03
-bisedim	NOUN	lecture.n.01	negotiation.n.01
+bisedim	NOUN	address.n.03	negotiation.n.01
 dialog	NOUN	negotiation.n.01
 negocim	NOUN	negotiation.n.01
 mënyrë_te_foluri	NOUN	saying.n.01
@@ -2542,9 +2542,9 @@ test_gojor	NOUN	examination.n.02
 testim_gojor	NOUN	examination.n.02
 fjale_per_pikturë	NOUN	word_picture.n.01
 skicim	NOUN	word_picture.n.01
-mohim	NOUN	denial.n.01
-heq_dore	NOUN	denial.n.01
-tërheqje	NOUN	denial.n.01
+mohim	NOUN	denial.n.01	disavowal.n.01
+heq_dore	NOUN	disavowal.n.01
+tërheqje	NOUN	disavowal.n.01
 ankim	NOUN	objection.n.02
 murmurime	NOUN	objection.n.02	sound.n.04
 murmuritje	NOUN	objection.n.02	sound.n.04
@@ -2556,7 +2556,7 @@ hakmarrje	NOUN	disclosure.n.01
 përshtypje	NOUN	report.n.02
 raport	NOUN	report.n.02
 raport_i_shkruar	NOUN	report.n.01
-anekdotë	NOUN	anecdote.n.01
+anekdotë	NOUN	report.n.02
 ritegim	NOUN	narrative.n.01
 rrëfenjë	NOUN	narrative.n.01
 llafe	NOUN	gossip.n.02
@@ -2565,8 +2565,8 @@ premtim	NOUN	promise.n.01
 falenderim	NOUN	thanks.n.01
 emërim	NOUN	speech_act.n.01
 adresë	NOUN	address.n.02	address.n.03
-lexim	NOUN	lecture.n.01
-lexim_publik	NOUN	lecture.n.01
+lexim	NOUN	address.n.03
+lexim_publik	NOUN	address.n.03
 presion_moral	NOUN	persuasion.n.01
 arme	NOUN	weapon.n.02
 artileri	NOUN	weapon.n.02
@@ -2593,7 +2593,7 @@ fatkeqesi	NOUN	misfortune.n.01
 vuajtje	NOUN	affliction.n.03	misfortune.n.01	pain.n.02
 incident	NOUN	incident.n.01
 shkarkim_elektrike	NOUN	electrical_discharge.n.01
-impuls	NOUN	electrical_discharge.n.01	pulsation.n.01
+impuls	NOUN	electrical_discharge.n.01	wave.n.03
 impuls_nervor	NOUN	electrical_discharge.n.01
 eksplosion	NOUN	explosion.n.01
 plasje	NOUN	explosion.n.01	noise.n.01	opening.n.01
@@ -2611,7 +2611,7 @@ fillimi	NOUN	start.n.01
 agim	NOUN	dawn.n.02	morning.n.01
 mëngjes	NOUN	dawn.n.02	morning.n.01
 shkak	NOUN	cause.n.01
-konceptim	NOUN	beginning.n.01
+konceptim	NOUN	creation.n.03
 destinacion	NOUN	destiny.n.01
 fat	NOUN	destiny.n.01	destiny.n.02	fortune.n.04	luck.n.02
 germadhe	NOUN	destruction.n.02
@@ -2622,7 +2622,7 @@ ritransmetim	NOUN	repeat.n.01
 zmbrapsje	NOUN	recurrence.n.01
 dallgëzim	NOUN	wave.n.03
 valë	NOUN	wave.n.01	wave.n.03
-lartësi_e_ngritjes	NOUN	lift.n.04
+lartësi_e_ngritjes	NOUN	wave.n.01
 cilindër	NOUN	cylinder.n.01	wave.n.01
 lëkundje_valë	NOUN	wave.n.01
 rul	NOUN	wave.n.01
@@ -2652,13 +2652,13 @@ rrjedhje	NOUN	flow.n.01	flow.n.04	spring.n.03
 ndryshim_total	NOUN	turning.n.04
 konvergjencë	NOUN	convergence.n.01
 rrethane	NOUN	juncture.n.01
-kulm	NOUN	acme.n.01	crisis.n.02	indefinite_quantity.n.01	point.n.02	summit.n.03	top.n.01
+kulm	NOUN	acme.n.01	celestial_point.n.01	crisis.n.02	indefinite_quantity.n.01	summit.n.03	top.n.01
 çast_vendimtar	NOUN	juncture.n.01
 pikënisje	NOUN	juncture.n.01
 pike_referimi	NOUN	juncture.n.01
 dem	NOUN	damage.n.01
-puls	NOUN	pulsation.n.01
-pulsim	NOUN	pulsation.n.01
+puls	NOUN	wave.n.03
+pulsim	NOUN	wave.n.03
 disonancë	NOUN	noise.n.03
 shkalle	NOUN	damage.n.01	magnitude_relation.n.01
 funksion_social	NOUN	affair.n.03
@@ -2695,14 +2695,14 @@ nostalgji	NOUN	longing.n.01
 dëshirë_seksuale	NOUN	sexual_desire.n.01
 epsh	NOUN	sexual_desire.n.01
 tërheqje_fizike	NOUN	sexual_desire.n.01
-admirim	NOUN	delight.n.01
+admirim	NOUN	pleasure.n.01
 komfort	NOUN	comfort.n.02
 dhimbje	NOUN	pain.n.01	pain.n.02	sorrow.n.01	sorrow.n.02
 pëlqim	NOUN	liking.n.01
 vëllazëri	NOUN	class.n.03	family.n.04	liking.n.01
 mospëlqim	NOUN	dislike.n.02	hate.n.01
 pakënaqësi	NOUN	disgust.n.01
-pështirë	NOUN	nausea.n.02
+pështirë	NOUN	disgust.n.01
 mirënjohje	NOUN	gratitude.n.01
 mosinteresim	NOUN	unconcern.n.02
 indiference	NOUN	indifference.n.01
@@ -2713,7 +2713,7 @@ habi	NOUN	astonishment.n.01	daze.n.01
 trullosje	NOUN	daze.n.01	stupefaction.n.01
 parashikim	NOUN	anticipation.n.01
 pritje	NOUN	anticipation.n.01
-shprese	NOUN	hope.n.01	hope.n.02	hope.n.04
+shprese	NOUN	anticipation.n.01	hope.n.02	person.n.01
 inat	NOUN	anger.n.01
 tërbim	NOUN	anger.n.01
 zemërata	NOUN	anger.n.01
@@ -2835,8 +2835,8 @@ kundërshtar	NOUN	enemy.n.03	opposition.n.02
 njërëz_popullor	NOUN	folk.n.01
 njërëz_te_thjeshte	NOUN	folk.n.01
 grup_social	NOUN	social_group.n.01	unit.n.03
-letra_bixhozi	NOUN	pack_of_cards.n.01
-pako_letrash	NOUN	pack_of_cards.n.01
+letra_bixhozi	NOUN	pack.n.02
+pako_letrash	NOUN	pack.n.02
 dore_letrash	NOUN	hand.n.06
 glob	NOUN	ball.n.08
 i_rrumbullake	NOUN	ball.n.08
@@ -2849,7 +2849,7 @@ race	NOUN	lineage.n.01	race.n.03
 ngjyre	NOUN	color.n.04
 njërëz_me_kolor	NOUN	color.n.04
 njërëz_me_ngjyre	NOUN	color.n.04
-grup_interesash	NOUN	interest.n.06
+grup_interesash	NOUN	social_group.n.01
 familje	NOUN	class.n.01	family.n.01	family.n.02	family.n.04	family.n.06	kin.n.02	lineage.n.01
 farefis	NOUN	family.n.04	kin.n.02	relative.n.01	tribe.n.01
 fis	NOUN	family.n.04	kin.n.02	lineage.n.01	tribe.n.01
@@ -2869,7 +2869,7 @@ pale	NOUN	pair.n.01
 ekip	NOUN	team.n.01	team.n.02
 dhome	NOUN	gathering.n.01
 burrë_e_grua	NOUN	marriage.n.02
-flokë	NOUN	flock.n.02
+flokë	NOUN	animal_group.n.01
 grup_kafshësh	NOUN	animal_group.n.01
 strukture	NOUN	set.n.01
 klasa	NOUN	class.n.01
@@ -2886,7 +2886,7 @@ financa	NOUN	financial_institution.n.01	funds.n.01
 organizatë_financiare	NOUN	financial_institution.n.01
 sipërmarrje	NOUN	enterprise.n.02
 agjensi	NOUN	agency.n.02
-kompani	NOUN	company.n.01	company.n.02	company.n.09	party.n.03	work_force.n.01
+kompani	NOUN	company.n.01	company.n.02	company.n.09	party.n.03	ship's_company.n.01
 firmë_biznesi	NOUN	firm.n.01
 frme	NOUN	firm.n.01
 organizatë_biznesi	NOUN	business.n.01
@@ -2908,7 +2908,7 @@ phylum	NOUN	taxonomic_group.n.01
 specie	NOUN	species.n.01
 priftëri	NOUN	priesthood.n.01
 departament	NOUN	department.n.01
-kler	NOUN	priesthood.n.01
+kler	NOUN	clergy.n.01
 njërëz	NOUN	citizenry.n.01
 popullsi	NOUN	citizenry.n.01
 legjislaturë	NOUN	legislature.n.01
@@ -2936,7 +2936,7 @@ kompani_njerëzish	NOUN	company.n.06
 miq	NOUN	company.n.04
 ansambël	NOUN	ensemble.n.01
 njësi_ushtrie	NOUN	army_unit.n.01
-baze	NOUN	army.n.01	base.n.04	base.n.05	base.n.11	land.n.02
+baze	NOUN	army.n.01	base.n.11	bottom.n.02	land.n.02	part.n.03
 baze_force	NOUN	army.n.01
 njësi_detare	NOUN	naval_unit.n.01
 njësi_ajrore	NOUN	air_unit.n.01
@@ -2955,12 +2955,12 @@ force_krahu	NOUN	work_force.n.01
 force_punëtorë	NOUN	work_force.n.01
 punonjës	NOUN	work_force.n.01
 divizion	NOUN	air_unit.n.01	biological_group.n.01	division.n.01	division.n.04	naval_unit.n.01	taxonomic_group.n.01
-plotësim	NOUN	work_force.n.01
-plotësues	NOUN	work_force.n.01
-kompani_anijesh	NOUN	work_force.n.01
+plotësim	NOUN	complement.n.03
+plotësues	NOUN	complement.n.03
+kompani_anijesh	NOUN	ship's_company.n.01
 divizion_detar	NOUN	naval_unit.n.01
 divizion_ajror	NOUN	air_unit.n.01
-fluturim	NOUN	flock.n.02	formation.n.01
+fluturim	NOUN	animal_group.n.01	formation.n.01
 audiencë	NOUN	audience.n.01	audience.n.02	hearing.n.02
 komunitet	NOUN	community.n.01
 komshi	NOUN	neighborhood.n.02
@@ -3003,11 +3003,11 @@ grup_informatoresh	NOUN	unit.n.03
 institucion_edukimi	NOUN	educational_institution.n.01
 shkolle	NOUN	school.n.01
 nenkulture	NOUN	social_group.n.01
-park	NOUN	fleet.n.04	park.n.01	park.n.02
+park	NOUN	collection.n.01	park.n.01	park.n.02
 aleancë	NOUN	alliance.n.03
 koalicion	NOUN	alliance.n.03	coalition.n.02
 federate	NOUN	confederation.n.02
-konfederatë	NOUN	coalition.n.02	confederation.n.02
+konfederatë	NOUN	alliance.n.01	confederation.n.02
 union	NOUN	marriage.n.01	union.n.07
 këshill	NOUN	council.n.01
 takim_kulminant	NOUN	summit.n.03
@@ -3020,7 +3020,7 @@ agjenci	NOUN	agency.n.01
 agjenci_federale	NOUN	agency.n.01
 agjenci_shtetërore	NOUN	agency.n.01
 autoritetet	NOUN	agency.n.01
-detyrë_mbeshtetese	NOUN	office.n.05
+detyrë_mbeshtetese	NOUN	staff.n.01
 grup_politik	NOUN	political_unit.n.01
 demokraci	NOUN	democracy.n.02
 ekonomi	NOUN	economy.n.01
@@ -3030,7 +3030,7 @@ sistem_politike	NOUN	political_system.n.01
 gjeneratë	NOUN	coevals.n.01
 konteporan	NOUN	coevals.n.01
 moshatarë	NOUN	coevals.n.01
-kolonizim	NOUN	body.n.02
+kolonizim	NOUN	colony.n.01
 linjë	NOUN	course.n.02	line.n.03	path.n.03	stream.n.01
 asortiment	NOUN	assortment.n.01
 përzierje	NOUN	affair.n.02	alloy.n.01	assortment.n.01	mixture.n.01
@@ -3049,7 +3049,7 @@ delegim	NOUN	deputation.n.01	representation.n.04
 përfaqësues	NOUN	advocate.n.01	deputation.n.01	representative.n.01
 grup_profesional	NOUN	occupational_group.n.01
 leje	NOUN	occupational_group.n.01
-opozite	NOUN	opposition.n.02	opposition.n.05
+opozite	NOUN	body.n.02	opposition.n.02
 institut	NOUN	institute.n.01
 ekspo	NOUN	exhibition.n.02
 ekzibicion	NOUN	exhibition.n.02
@@ -3073,22 +3073,22 @@ string	NOUN	string.n.04
 te_dhëna	NOUN	data.n.01
 lëvizje_sociale	NOUN	movement.n.04
 përballje	NOUN	movement.n.04
-dada	NOUN	dada.n.02
-dadaism	NOUN	dada.n.02
+dada	NOUN	movement.n.04
+dadaism	NOUN	movement.n.04
 art_lëvizës	NOUN	movement.n.04
 lëvizje_artistike	NOUN	movement.n.04
 natyralizëm	NOUN	movement.n.04
 realizem	NOUN	movement.n.04
 grua	NOUN	wife.n.01	woman.n.01	womanhood.n.02
 natyrë_femërore	NOUN	womanhood.n.02
-votë	NOUN	vote.n.04
+votë	NOUN	body.n.02
 mikpritës	NOUN	adult.n.01	entertainer.n.01	host.n.06
 strehe	NOUN	location.n.01
 ndarje_administrative	NOUN	administrative_district.n.01
 ndarje_territoriale	NOUN	administrative_district.n.01
 rajon_administrative	NOUN	administrative_district.n.01
-kulm_i_dellit	NOUN	point.n.02
-maja_e_rrugës_se_diellit	NOUN	point.n.02
+kulm_i_dellit	NOUN	celestial_point.n.01
+maja_e_rrugës_se_diellit	NOUN	celestial_point.n.01
 truall	NOUN	area.n.01	country.n.02	domain.n.02	land.n.01	plot.n.02
 thellësi	NOUN	depth.n.03
 rrënjë	NOUN	beginning.n.04	root.n.01
@@ -3098,7 +3098,7 @@ ane	NOUN	edge.n.01	side.n.04
 vije_kufitare	NOUN	boundary.n.01	boundary_line.n.01
 limit	NOUN	boundary_line.n.01	indefinite_quantity.n.01
 pronësi	NOUN	place.n.02
-pike_qiellore	NOUN	point.n.02
+pike_qiellore	NOUN	celestial_point.n.01
 kupe_qiellore	NOUN	surface.n.02
 kupolë_qiellore	NOUN	surface.n.02
 qiell	NOUN	eden.n.01	sky.n.01	surface.n.02
@@ -3126,7 +3126,7 @@ buze	NOUN	edge.n.01
 ambient	NOUN	environment.n.02
 atmosferë	NOUN	environment.n.02
 mjedis	NOUN	environment.n.01	environment.n.02	setting.n.02
-ekuator	NOUN	line.n.11
+ekuator	NOUN	great_circle.n.01
 ekstrem	NOUN	extremity.n.04
 fushe_loje	NOUN	playing_field.n.02
 hapsire_loje	NOUN	playing_field.n.02
@@ -3140,7 +3140,7 @@ vendtakim	NOUN	haunt.n.01
 sipërfaqe_gjeografike	NOUN	geographical_area.n.01
 vend_gjeografik	NOUN	geographical_area.n.01
 pike_gjeografike	NOUN	geographic_point.n.01
-qark_i_madh	NOUN	line.n.11
+qark_i_madh	NOUN	great_circle.n.01
 hemisferë	NOUN	geographical_area.n.01
 çerdhe	NOUN	topographic_point.n.01
 strofkë	NOUN	topographic_point.n.01
@@ -3155,8 +3155,8 @@ pjese_e_jashtme	NOUN	outside.n.01
 kopesht	NOUN	park.n.01
 lëndinë	NOUN	park.n.02
 toke_e_bashkisë	NOUN	park.n.02
-parkim	NOUN	parking_space.n.01
-zonë_parkimi	NOUN	parking_space.n.01
+parkim	NOUN	space.n.03
+zonë_parkimi	NOUN	space.n.03
 itinerar	NOUN	path.n.03
 tabelë_oraresh	NOUN	path.n.03
 lagje	NOUN	neighbor.n.01	public_square.n.01
@@ -3199,7 +3199,7 @@ rruge	NOUN	direction.n.01	path.n.04
 jete	NOUN	life.n.08	motivation.n.01
 moralitet	NOUN	ethical_motive.n.01
 motiv_etik	NOUN	ethical_motive.n.01
-fundar	NOUN	bed.n.03
+fundar	NOUN	natural_depression.n.01
 trup_uji	NOUN	body_of_water.n.01
 ujëra	NOUN	body_of_water.n.01
 vend_fundor	NOUN	land.n.02
@@ -3235,9 +3235,9 @@ dhe	NOUN	earth.n.02	land.n.02	soil.n.02
 kenete	NOUN	plain.n.01	wetland.n.01
 moçal	NOUN	plain.n.01	wetland.n.01
 toke_moçalore	NOUN	wetland.n.01
-meteor	NOUN	natural_object.n.01
-meteorit	NOUN	natural_object.n.01
-hënë	NOUN	moon.n.02
+meteor	NOUN	extraterrestrial_object.n.01
+meteorit	NOUN	extraterrestrial_object.n.01
+hënë	NOUN	object.n.01
 mal	NOUN	mountain.n.01
 grykë	NOUN	geological_formation.n.01	small_indefinite_quantity.n.01
 mouth	NOUN	opening.n.01
@@ -3292,7 +3292,7 @@ i_pavdekshem	NOUN	deity.n.01
 perëndi	NOUN	deity.n.01
 qenie_supreme	NOUN	deity.n.01
 zot	NOUN	deity.n.01
-engjëll	NOUN	spiritual_being.n.01
+engjëll	NOUN	angel.n.01
 shpirt_pa_trup	NOUN	spirit.n.04
 anomali	NOUN	anomaly.n.02
 person_jo_i_zakonshëm	NOUN	anomaly.n.02
@@ -3318,7 +3318,7 @@ intelektual	NOUN	intellectual.n.01
 person_i_ri	NOUN	juvenile.n.01
 rini	NOUN	juvenile.n.01
 i_dashuruar	NOUN	lover.n.01
-burrë	NOUN	chap.n.01	male.n.02	man.n.01	man.n.08	spouse.n.01
+burrë	NOUN	chap.n.01	lover.n.03	male.n.02	man.n.01	spouse.n.01
 person_mashkull	NOUN	male.n.02
 ndërhyrës	NOUN	mediator.n.01
 ndermjetes	NOUN	mediator.n.01	negotiator.n.01
@@ -3391,9 +3391,9 @@ ndertues	NOUN	builder.n.03
 biznesmen	NOUN	businessman.n.01	businessperson.n.01
 burrë_afaresh	NOUN	businessman.n.01
 vizitor	NOUN	caller.n.01	visitor.n.01
-i_pari	NOUN	first.n.01	head_of_state.n.01
-kryeministër	NOUN	head_of_state.n.01
-ministër_i_pare	NOUN	head_of_state.n.01
+i_pari	NOUN	chancellor.n.02	rank.n.02
+kryeministër	NOUN	chancellor.n.02
+ministër_i_pare	NOUN	chancellor.n.02
 çun	NOUN	chap.n.01	male_child.n.01
 djalë	NOUN	chap.n.01	male_child.n.01	male_offspring.n.01	son.n.01
 djalosh	NOUN	chap.n.01
@@ -3494,7 +3494,7 @@ vëzhgues	NOUN	lookout.n.01
 vrojtues	NOUN	lookout.n.01
 gdhendje	NOUN	maker.n.01
 pasardhës_djalë	NOUN	male_offspring.n.01
-njëri	NOUN	man.n.03
+njëri	NOUN	person.n.01
 manekin	NOUN	mannequin.n.01
 fabrikant	NOUN	manufacturer.n.02
 prodhues	NOUN	manufacturer.n.02
@@ -3536,7 +3536,7 @@ zotni	NOUN	overlord.n.01
 zoterues	NOUN	owner.n.01
 posedues	NOUN	owner.n.02
 zotërues	NOUN	owner.n.02
-prindër	NOUN	genitor.n.01
+prindër	NOUN	parent.n.01
 pala	NOUN	party.n.05
 përmbushës	NOUN	performer.n.01
 zbatonjës	NOUN	performer.n.01
@@ -3590,8 +3590,8 @@ furnitor	NOUN	supplier.n.01
 dajë	NOUN	uncle.n.01
 xhaxha	NOUN	uncle.n.01
 mysafir	NOUN	visitor.n.01
-principi_jetësor	NOUN	causal_agent.n.01
-principi_thelbësorë	NOUN	causal_agent.n.01
+principi_jetësor	NOUN	vital_principle.n.01
+principi_thelbësorë	NOUN	vital_principle.n.01
 përgjues	NOUN	watchman.n.01
 roje_sigurimi	NOUN	watchman.n.01
 bashkëshorte	NOUN	wife.n.01
@@ -3679,7 +3679,7 @@ bimë_ajri	NOUN	plant.n.02
 epifit	NOUN	plant.n.02
 bimë_shkëmbore	NOUN	rock_plant.n.01
 kërcell	NOUN	stalk.n.02
-kalli	NOUN	ear.n.05
+kalli	NOUN	fruit.n.01
 bimë_bulbëzore	NOUN	bulbous_plant.n.01
 frutë	NOUN	fruit.n.01
 gjethnajë	NOUN	leaf.n.01
@@ -3817,10 +3817,10 @@ shume_e_papërcaktuar	NOUN	large_indefinite_quantity.n.01
 pike_kufi	NOUN	compass_point.n.01	indefinite_quantity.n.01
 sasi_e_vogël	NOUN	small_indefinite_quantity.n.01
 shumë_e_vogël	NOUN	small_indefinite_quantity.n.01
-vlere	NOUN	worth.n.01
+vlere	NOUN	indefinite_quantity.n.01
 shportë	NOUN	containerful.n.01
 shishe	NOUN	containerful.n.01
-ibrik	NOUN	pot.n.03
+ibrik	NOUN	containerful.n.01
 cikerrime	NOUN	drop.n.02
 lot	NOUN	batch.n.02
 mase	NOUN	batch.n.02
@@ -3843,10 +3843,10 @@ atësi	NOUN	kinship.n.02
 lidhje_madhesie	NOUN	magnitude_relation.n.01
 lidhje_sasie	NOUN	magnitude_relation.n.01
 rendiment	NOUN	efficiency.n.01
-f_number	NOUN	ratio.n.01
-focal_ratio	NOUN	ratio.n.01
-speed	NOUN	ratio.n.01
-stop_number	NOUN	ratio.n.01
+f_number	NOUN	focal_ratio.n.01
+focal_ratio	NOUN	focal_ratio.n.01
+speed	NOUN	focal_ratio.n.01
+stop_number	NOUN	focal_ratio.n.01
 pike_kufitare_kryesore	NOUN	cardinal_compass_point.n.01
 kufi_verior	NOUN	north.n.06
 pol_verior	NOUN	north.n.06
@@ -3859,7 +3859,7 @@ politike	NOUN	politics.n.01
 dyanshmeri	NOUN	reciprocality.n.01
 reciprocitet	NOUN	reciprocality.n.01
 lidhje_e_perkohshme	NOUN	temporal_relation.n.01
-numër_njësh	NOUN	first.n.01
+numër_njësh	NOUN	rank.n.02
 i_anasjelltë	NOUN	inverse.n.01
 i_kundërt	NOUN	inverse.n.01
 trup_i_ngurte	NOUN	solid.n.03
@@ -3876,7 +3876,7 @@ i_lugët	NOUN	concave_shape.n.01
 konkav	NOUN	concave_shape.n.01
 sipërfaqe_konkave	NOUN	concave_shape.n.01
 forme_e_rumbullaket	NOUN	round_shape.n.01
-forme_e_shtrembert	NOUN	distorted_shape.n.01
+forme_e_shtrembert	NOUN	shape.n.02
 forme_amorfe	NOUN	amorphous_shape.n.01
 forme_e_harkuar	NOUN	curve.n.01
 vije_e_drejte	NOUN	straight_line.n.01
@@ -3893,17 +3893,17 @@ parabolë	NOUN	conic_section.n.01
 e_dale	NOUN	bulge.n.01
 xhungë	NOUN	bulge.n.01
 perbri	NOUN	flank.n.02
-balancë	NOUN	balance.n.04
-ekuilibër	NOUN	balance.n.04
-ekuilibrim	NOUN	balance.n.04
-kunderpeshe	NOUN	balance.n.04
-kufi_i_sipërm	NOUN	upper_bound.n.01
+balancë	NOUN	structure.n.01
+ekuilibër	NOUN	structure.n.01
+ekuilibrim	NOUN	structure.n.01
+kunderpeshe	NOUN	structure.n.01
+kufi_i_sipërm	NOUN	boundary.n.02
 rice	NOUN	wrinkle.n.01
 rrudhe	NOUN	wrinkle.n.01
-zhubër	NOUN	fold.n.01	wrinkle.n.01
+zhubër	NOUN	angular_shape.n.01	wrinkle.n.01
 zhubrosje	NOUN	wrinkle.n.01
-erashkë	NOUN	fold.n.01
-lakim	NOUN	fold.n.01
+erashkë	NOUN	angular_shape.n.01
+lakim	NOUN	angular_shape.n.01
 kube	NOUN	block.n.03
 piramida	NOUN	pyramid.n.01
 projektim	NOUN	projection.n.05
@@ -3916,8 +3916,8 @@ lidhje_dashurie	NOUN	affair.n.02
 krizë	NOUN	crisis.n.01
 dredh	NOUN	situation.n.03
 lëvizje_mashtruese	NOUN	situation.n.03
-figurë	NOUN	picture.n.04
-tabllo	NOUN	picture.n.04
+figurë	NOUN	situation.n.01
+tabllo	NOUN	situation.n.01
 burg	NOUN	prison.n.02
 egër	NOUN	wild.n.01
 gjendje_e_egër	NOUN	wild.n.01
@@ -3927,7 +3927,7 @@ shkallë_sipërore	NOUN	acme.n.01
 rrethana	NOUN	circumstance.n.01
 një_status_shoqëror	NOUN	social_station.n.01
 pozitë	NOUN	standing.n.01
-nga_pikëpamja_kombëtare	NOUN	nationality.n.02
+nga_pikëpamja_kombëtare	NOUN	status.n.01
 prani	NOUN	presence.n.01
 mos_ekzistencës	NOUN	nonbeing.n.01
 inekzistencë	NOUN	nonexistence.n.01
@@ -3990,9 +3990,9 @@ pezmatim	NOUN	inflammation.n.01
 skuqje	NOUN	inflammation.n.01
 gjendje_mendore	NOUN	psychological_state.n.01
 gjendje_psikologjike	NOUN	psychological_state.n.01
-shëndet_mendor	NOUN	psychological_state.n.01
-gjendje_normale	NOUN	psychological_state.n.01
-në_rregull_nga_mëndtë	NOUN	psychological_state.n.01
+shëndet_mendor	NOUN	mental_health.n.01
+gjendje_normale	NOUN	sanity.n.01
+në_rregull_nga_mëndtë	NOUN	sanity.n.01
 psikopat	NOUN	mental_illness.n.01
 sëmundje_mendore	NOUN	mental_illness.n.01
 megalomani	NOUN	megalomania.n.01
@@ -4001,15 +4001,15 @@ psikonevrozë	NOUN	mental_disorder.n.01
 psikozë	NOUN	psychosis.n.01
 shkrirje	NOUN	coalition.n.02
 mjet_lidhës	NOUN	connection.n.02
-kohezion	NOUN	connection.n.02
-lidhje_logjike	NOUN	connection.n.02
-vazhdueshmëri	NOUN	connection.n.02
+kohezion	NOUN	coherence.n.01
+lidhje_logjike	NOUN	coherence.n.01
+vazhdueshmëri	NOUN	coherence.n.01
 përmisim	NOUN	improvement.n.03
 papjekuri	NOUN	immaturity.n.01
 çilimillëk	NOUN	childhood.n.02
 fëmijëri	NOUN	childhood.n.01	childhood.n.02
 ndryshim_gradual	NOUN	gradation.n.01
-prerje	NOUN	cut.n.04
+prerje	NOUN	gradation.n.01
 bujari	NOUN	nobility.n.03
 fisnikëri	NOUN	nobility.n.03
 nderim	NOUN	honor.n.02
@@ -4032,7 +4032,7 @@ padepërtueshmëri	NOUN	lack.n.01
 nevojshmëri	NOUN	necessity.n.01
 lakuriq	NOUN	nakedness.n.01
 lakuriqësi	NOUN	nakedness.n.01
-hijeshi	NOUN	state.n.02
+hijeshi	NOUN	grace.n.01
 perfeksion	NOUN	perfection.n.01
 përrallë	NOUN	perfection.n.01
 papërsosuri	NOUN	imperfection.n.01
@@ -4114,7 +4114,7 @@ përzjerje_organike	NOUN	organic_compound.n.01
 proteinë	NOUN	protein.n.01
 material_shtazorë	NOUN	animal_material.n.01
 material_ndërtimi	NOUN	building_material.n.01
-çelik	NOUN	alloy.n.01
+çelik	NOUN	steel.n.01
 kimik	NOUN	chemical.n.01
 lidhje_bashkërenditëse	NOUN	complex.n.02
 përcjellës	NOUN	conductor.n.02
@@ -4179,7 +4179,7 @@ koha_muzikore	NOUN	musical_time.n.01
 kohë_e_vazhduar	NOUN	continuum.n.01
 e_kaluara	NOUN	history.n.04
 ora	NOUN	clock_time.n.01
-zgjatje	NOUN	duration.n.01	stretch.n.06
+zgjatje	NOUN	duration.n.01
 javë_pune	NOUN	workweek.n.01
 javë	NOUN	week.n.01	week.n.03
 ditë_pune	NOUN	day.n.05
@@ -4213,7 +4213,7 @@ muaj_hënor	NOUN	month.n.02
 koha_yjore	NOUN	sidereal_time.n.01
 dita_yjore	NOUN	sidereal_day.n.01
 muaj_kalendarik	NOUN	calendar_month.n.01
-kohë_e_limituar	NOUN	time_limit.n.01
+kohë_e_limituar	NOUN	time_period.n.01
 afat	NOUN	term.n.02
 sezon_akademik	NOUN	school_term.n.01
 sezon_shkollor	NOUN	school_term.n.01
@@ -4260,28 +4260,28 @@ shërbimi_ushtarak	NOUN	time_period.n.01
 hap_e_mbyll_sytë	VERB	blink.v.01
 kapsit_sytë	VERB	blink.v.01
 shkelje_syri	VERB	blink.v.01
-lëkurë_gjarpri	VERB	shed.v.01
-lëshoj	VERB	acquit.v.01	concede.v.02	concede.v.03	express.v.02	shed.v.01	undo.v.01	utter.v.02
-ndërrim_i_puplave	VERB	shed.v.01
-ndërron_qimen	VERB	shed.v.01
+lëkurë_gjarpri	VERB	shed.v.04
+lëshoj	VERB	acquit.v.01	concede.v.02	concede.v.03	drop.v.06	shed.v.01	shed.v.04	untie.v.01	utter.v.02
+ndërrim_i_puplave	VERB	shed.v.04
+ndërron_qimen	VERB	shed.v.04
 lëvizje_e_pavullnetshme	VERB	move_involuntarily.v.01
 lëvizje_refleksive	VERB	move_involuntarily.v.01
 të_veprosh_ne_mënyrë_refleksive	VERB	act_involuntarily.v.01
 të_veprosh_në_mënyrë_të_pavullnetshme	VERB	act_involuntarily.v.01
-bëj	VERB	act.v.02	cook.v.02	form.v.02	make.v.02	make.v.27	perform.v.01	perpetrate.v.01
+bëj	VERB	act.v.02	cook.v.02	form.v.02	make.v.02	make.v.19	make.v.27	perform.v.01	perpetrate.v.01
 sjellje	VERB	act.v.02	behave.v.02
 veprim	VERB	act.v.01	act.v.02	carry_through.v.01	go.v.02
-ngricë	VERB	act.v.02	change.v.01	freeze.v.02	freeze.v.03	solidify.v.02
-dredh	VERB	move_involuntarily.v.01
-dridhje	VERB	move_involuntarily.v.01	rock.v.01	sing.v.02	tremble.v.01	twitch.v.05
-lëkund	VERB	move_involuntarily.v.01
-tund	VERB	move_involuntarily.v.01	stimulate.v.03
-drithmë	VERB	move_involuntarily.v.01
-rrëqethje	VERB	move_involuntarily.v.01	tremble.v.01
+ngricë	VERB	freeze.v.02	freeze.v.03	freeze.v.04	freeze.v.07	freeze.v.10
+dredh	VERB	shake.v.02
+dridhje	VERB	rock.v.01	shake.v.02	shudder.v.02	tremble.v.01	twitch.v.05	warble.v.01
+lëkund	VERB	shake.v.02
+tund	VERB	shake.v.02	stimulate.v.03
+drithmë	VERB	shiver.v.02
+rrëqethje	VERB	shiver.v.02	shudder.v.02
 çlodhje	VERB	lay.v.02	rest.v.05
 pushim	VERB	rest.v.05
 qetësim	VERB	rest.v.05
-lëvizje	VERB	be_active.v.01	move.v.02	move.v.03	travel.v.01
+lëvizje	VERB	be_active.v.01	brush.v.04	move.v.02	travel.v.01
 të_jesh_aktiv	VERB	be_active.v.01
 dremitje	VERB	sleep.v.01
 fle	VERB	sleep.v.01
@@ -4300,25 +4300,25 @@ i_jap_energji	VERB	stimulate.v.04
 nxis	VERB	induce.v.02	recommend.v.01	stimulate.v.04	urge.v.01
 shtyj	VERB	postpone.v.01	stimulate.v.04	urge.v.01
 stimuloj	VERB	stimulate.v.03	stimulate.v.04	urge.v.01
-i_tensionuar	VERB	affect.v.02
-tensionoj	VERB	affect.v.02
+i_tensionuar	VERB	tense.v.04
+tensionoj	VERB	tense.v.04
 çliroj	VERB	relax.v.01
 lehtësoj	VERB	facilitate.v.01	relax.v.01	relieve.v.01
 lëshohem	VERB	relax.v.01
 shfryj	VERB	chew_the_fat.v.01	relax.v.01
 shtendosem	VERB	relax.v.01
 vonoj	VERB	delay.v.02	impede.v.01	relax.v.01
-shtrihem	VERB	affect.v.02	belong_to.v.01
-tendos	VERB	affect.v.02	tighten.v.02
-tërheq	VERB	absorb.v.09	affect.v.02	close.v.01	drag.v.01	injure.v.01	remember.v.01	tempt.v.03	withdraw.v.09
-zgjas	VERB	affect.v.02	cover.v.03	prolong.v.01
+shtrihem	VERB	belong_to.v.01	stretch.v.02
+tendos	VERB	stretch.v.02	tighten.v.02
+tërheq	VERB	absorb.v.09	drag.v.01	draw.v.20	pull.v.08	remember.v.01	stretch.v.02	tempt.v.03	withdraw.v.09
+zgjas	VERB	cover.v.03	prolong.v.01	stretch.v.02
 qesh	VERB	laugh.v.01
 shpreh_gëzim	VERB	laugh.v.01
 shpreh_hare	VERB	laugh.v.01
-pamje	VERB	be.v.01
-paraqitje_e_jashtme	VERB	be.v.01
-shikim	VERB	be.v.01	spy.v.03
-veshtrim	VERB	be.v.01
+pamje	VERB	look.v.03
+paraqitje_e_jashtme	VERB	look.v.03
+shikim	VERB	look.v.03	spy.v.03
+veshtrim	VERB	look.v.03
 pastroj	VERB	clean.v.02	cleanse.v.01	scavenge.v.04
 purifikoj	VERB	cleanse.v.01
 lahem	VERB	tidy.v.01	wash.v.02
@@ -4326,8 +4326,8 @@ larje	VERB	rinse.v.01	wash.v.02	wash.v.03
 i_bërë_mirë	VERB	groom.v.03
 kujdes_estetik	VERB	groom.v.03
 pastërti	VERB	groom.v.03
-grim	VERB	groom.v.03
-makiazh	VERB	groom.v.03
+grim	VERB	make_up.v.09
+makiazh	VERB	make_up.v.09
 dobësoj	VERB	enfeeble.v.01	mar.v.01	reduce.v.20
 elegant	VERB	reduce.v.20
 holloj	VERB	reduce.v.20
@@ -4344,12 +4344,12 @@ përpjekje	VERB	contend.v.06	offer.v.02	try_on.v.01
 provoj	VERB	prove.v.02	realize.v.03	sample.v.01	test.v.01	testify.v.02	try_on.v.01
 tentativë	VERB	try_on.v.01
 futem_në_rroba	VERB	wear.v.09
-marr	VERB	accept.v.02	adopt.v.01	be.v.01	carry.v.02	claim.v.05	collar.v.01	consume.v.02	engage.v.08	gain.v.08	get.v.01	get.v.11	lease.v.04	obtain.v.01	receive.v.01	receive.v.02	remove.v.01	undergo.v.01	wear.v.09
+marr	VERB	accept.v.02	accept.v.08	adopt.v.01	carry.v.02	claim.v.05	collar.v.01	consume.v.02	engage.v.08	gain.v.08	get.v.01	get.v.11	lease.v.04	obtain.v.01	receive.v.01	receive.v.02	remove.v.01	take_in.v.12	undergo.v.01	wear.v.09
 mbath	VERB	wear.v.09
 vishem	VERB	wear.v.09
-fekondoj	VERB	change.v.01
-pllenim	VERB	change.v.01
-lë_me_bar	VERB	change.v.01
+fekondoj	VERB	inseminate.v.02
+pllenim	VERB	inseminate.v.02
+lë_me_bar	VERB	impregnate.v.04
 pjell	VERB	reproduce.v.02
 riprodhim	VERB	reproduce.v.02
 shumëfishoj	VERB	reproduce.v.02
@@ -4357,37 +4357,37 @@ lind	VERB	engender.v.01	give_birth.v.01	produce.v.04
 lindje	VERB	give_birth.v.01	rise.v.16
 prodhoj	VERB	bear.v.05	fabricate.v.02	give_birth.v.01	produce.v.04
 sjell_në_jetë	VERB	give_birth.v.01
-zhburrëroj	VERB	sterilize.v.02
+zhburrëroj	VERB	emasculate.v.02
 bëj_shterp	VERB	sterilize.v.02
 sterilizoj	VERB	sterilize.v.02
 acarim	VERB	irritate.v.02
 irritim	VERB	irritate.v.02
 lehtësim	VERB	relieve.v.01
-qetësoj	VERB	agree.v.01	calm.v.03	relieve.v.01
+qetësoj	VERB	calm.v.03	relieve.v.01	settle.v.13
 zbut	VERB	calm.v.03	dissolve.v.09	melt.v.01	relieve.v.01
 Lëndim	VERB	hurt.v.02
 sëmurë_lehtë	VERB	indispose.v.03
 lëndim	VERB	hurt.v.05	hurt.v.06	injure.v.01	pain.v.02	suffer.v.06
 vuajtje	VERB	pain.v.02	suffer.v.06	torment.v.01
-sëmundje	VERB	suffer.v.06
+sëmundje	VERB	have.v.12
 të_qënurit_mirë	VERB	be_well.v.01
-heq	VERB	cross_off.v.01	detach.v.03	dismiss.v.01	erase.v.03	exhaust.v.05	get_rid_of.v.01	keep.v.03	remove.v.01	subtract.v.01	suffer.v.02	take_away.v.03	withdraw.v.09
-kaloj	VERB	change.v.01	change.v.02	change_state.v.01	communicate.v.01	cope.v.01	elapse.v.01	pass.v.05	run.v.03	spend.v.01	suffer.v.02	travel.v.01
+heq	VERB	amputate.v.01	cross_off.v.01	cut_off.v.03	dismiss.v.01	erase.v.03	exhaust.v.05	get_rid_of.v.01	remove.v.01	strip.v.11	subtract.v.01	suffer.v.02	take_away.v.03	withdraw.v.09	withhold.v.02
+kaloj	VERB	change_state.v.01	communicate.v.01	cope.v.01	draw.v.16	drop.v.20	elapse.v.01	pass.v.05	run.v.03	spend.v.01	suffer.v.02	travel_by.v.01
 mbështes	VERB	suffer.v.02
 pësoj	VERB	suffer.v.02
-angullim	VERB	cry.v.02
-grindem	VERB	cry.v.02
-qaravitje	VERB	cry.v.02
-rënkim	VERB	cry.v.02
-vajtoj	VERB	cry.v.02
+angullim	VERB	wail.v.02
+grindem	VERB	wail.v.02
+qaravitje	VERB	wail.v.02
+rënkim	VERB	wail.v.02
+vajtoj	VERB	wail.v.02
 e_qarë	VERB	cry.v.02
 lotoj	VERB	cry.v.02
 qaj	VERB	cry.v.02
-lotim	VERB	cry.v.02
+lotim	VERB	tear.v.05
 dëmtim	VERB	hurt.v.05	injure.v.01
-mbitendosje	VERB	injure.v.01
-bëj_kaps	VERB	indispose.v.03
-shtrëngohem	VERB	indispose.v.03
+mbitendosje	VERB	pull.v.08
+bëj_kaps	VERB	constipate.v.02
+shtrëngohem	VERB	constipate.v.02
 dobësoj_rezistencën	VERB	tire.v.02
 i_lëshuar	VERB	tire.v.02
 kapis	VERB	tire.v.02
@@ -4400,12 +4400,12 @@ telikos	VERB	tire.v.02
 vjetërsohem	VERB	tire.v.02
 administroj	VERB	administer.v.01	administer.v.04	distribute.v.01	manage.v.02
 drejtoj	VERB	address.v.01	administer.v.01	administer.v.04	target.v.01
-shpërndaj	VERB	administer.v.04	allocate.v.01	assign.v.02	chase_away.v.01	circulate.v.03	deliver.v.02	distribute.v.01	scatter.v.03	separate.v.09	serve.v.06	spread.v.01
+shpërndaj	VERB	administer.v.04	allocate.v.01	assign.v.02	chase_away.v.01	deliver.v.02	disperse.v.04	distribute.v.01	scatter.v.03	serve.v.06	spread.v.01	spread.v.07
 operacion	VERB	operate_on.v.01
 operoj	VERB	engage.v.10	function.v.01	operate.v.03	operate_on.v.01
 i_jap_të_përzier	VERB	sicken.v.02
 pësoj_rënie	VERB	descend.v.01	sicken.v.02
-dizinfektoj	VERB	clean.v.01
+dizinfektoj	VERB	disinfect.v.01
 degjenerohem	VERB	devolve.v.03
 degradim	VERB	devolve.v.03
 dorëzoj	VERB	concede.v.03	devolve.v.03	drop_out.v.01	forfeit.v.01	give.v.03	surrender.v.02
@@ -4442,7 +4442,7 @@ shndërroj	VERB	change.v.01	change.v.03	transform.v.03
 modifikoj	VERB	change.v.01
 afekt	VERB	affect.v.01
 ndikon	VERB	affect.v.01
-prek	VERB	affect.v.01	affect.v.05	change.v.02	handle.v.04	touch.v.01	touch.v.05
+prek	VERB	affect.v.01	affect.v.05	brush.v.02	catch.v.12	handle.v.04	touch.v.05
 këmbim	VERB	change.v.06	change_by_reversal.v.01	exchange.v.01
 kthim_me_shkëmbim	VERB	change_by_reversal.v.01
 ndryshim	VERB	change_by_reversal.v.01	throw.v.06
@@ -4454,31 +4454,31 @@ shformoj	VERB	change_shape.v.01
 formoj	VERB	constitute.v.01	establish.v.02	form.v.02	shape.v.03	train.v.01
 i_jap_trajtë	VERB	shape.v.03
 jap_formë	VERB	shape.v.03
-e_gdhendur	VERB	shape.v.03
-i_skalitur	VERB	shape.v.03
-përdredh	VERB	move.v.02	shape.v.03
+e_gdhendur	VERB	draw.v.35
+i_skalitur	VERB	draw.v.35
+përdredh	VERB	dislocate.v.01	twist.v.05
 kthehem	VERB	change_state.v.01
 ndryshoj_gjendje	VERB	change_state.v.01
 bëhem	VERB	become.v.01	grow.v.03
 nis	VERB	become.v.01	broach.v.01	get_down.v.07
 shkoj	VERB	become.v.01	cost.v.01	elapse.v.01	go.v.25	proceed.v.04	run.v.03	weave.v.04
-rritje	VERB	develop.v.10	increase.v.01	increase.v.02	raise.v.02
+rritje	VERB	develop.v.10	increase.v.01	increase.v.02	raise.v.01	raise.v.02
 shtoj	VERB	add.v.01	append.v.01	increase.v.02	total.v.01
 zmadhoj	VERB	increase.v.02
 hipi	VERB	rise.v.02
 ngjis	VERB	rise.v.02
 rritem	VERB	mature.v.01	rise.v.02
-arritje	VERB	achieve.v.01	reach.v.01	wax.v.02
-përparim	VERB	advance.v.01	wax.v.02
-ngritje	VERB	arise.v.03	increase.v.02	promote.v.02	raise.v.02	rise.v.01	surface.v.01
-shtime	VERB	increase.v.02
+arritje	VERB	achieve.v.01	advance.v.12	reach.v.01
+përparim	VERB	advance.v.01	advance.v.12
+ngritje	VERB	arise.v.03	promote.v.02	raise.v.01	raise.v.02	rise.v.01	surface.v.01
+shtime	VERB	raise.v.01
 akumuloj	VERB	accumulate.v.02
 bëj_pirg	VERB	accumulate.v.02
 grumbulloj	VERB	accumulate.v.02	gather.v.01	join.v.01	meet.v.02	reap.v.01	unite.v.01
 mbledh	VERB	accumulate.v.02	add.v.01	consume.v.02	gather.v.01	join.v.01	reap.v.01
 mblidhem	VERB	accumulate.v.02	fawn.v.01	meet.v.02	shrink.v.03	shrink.v.04
 zëvendësoj	VERB	change.v.06	exchange.v.01
-ndërrohem	VERB	dress.v.01
+ndërrohem	VERB	change.v.05
 ndryshoj_madhësinë	VERB	change_magnitude.v.01
 bëj_ndryshim	VERB	modify.v.01
 heq_nga_qarkullimi	VERB	remove.v.01
@@ -4486,13 +4486,13 @@ marr_mbrapsht	VERB	remember.v.01	remove.v.01	return.v.05
 marr_me_vete	VERB	remove.v.01
 rrjep	VERB	clean.v.02
 qëroj	VERB	clean.v.10
-këpus	VERB	remove.v.01
-hapem	VERB	remove.v.01	unfold.v.04
-kthjellohem	VERB	clear.v.10	remove.v.01
-qartësoj	VERB	remove.v.01
+këpus	VERB	pick.v.05
+hapem	VERB	clear.v.24	unfold.v.04
+kthjellohem	VERB	clear.v.10	clear.v.24
+qartësoj	VERB	clear.v.24
 heq_plehrat	VERB	scavenge.v.04
-rregullim_rrëmuje	VERB	change.v.01
-zbraz	VERB	change.v.01	empty.v.01
+rregullim_rrëmuje	VERB	unclutter.v.01
+zbraz	VERB	empty.v.01	unclutter.v.01
 përfshij	VERB	cover.v.05	include.v.01	include.v.02	include.v.03	incorporate.v.02	perceive.v.01
 përziej	VERB	blend.v.03	compound.v.02	mix.v.04
 përzierje	VERB	mix.v.04	mix.v.05
@@ -4500,34 +4500,34 @@ etiketoj	VERB	pronounce.v.02	punctuate.v.01
 nënvizoj	VERB	punctuate.v.01	stress.v.01
 shënoj	VERB	mark.v.05	punctuate.v.01	read.v.08	record.v.01	write_down.v.01
 theksoj	VERB	punctuate.v.01	stress.v.01	target.v.01
-bëhem_i_pandjeshëm	VERB	change.v.01
-humbas_energji	VERB	change.v.01
-i_topitur	VERB	change.v.01
-mpihem	VERB	change.v.01
+bëhem_i_pandjeshëm	VERB	deaden.v.06
+humbas_energji	VERB	deaden.v.06
+i_topitur	VERB	deaden.v.06
+mpihem	VERB	deaden.v.06
 bashkoj	VERB	associate.v.01	blend.v.03	combine.v.05	compound.v.02	join.v.02	marry.v.01	mix.v.05	unite.v.01
 kombinoj	VERB	compound.v.02
-çmontoj	VERB	descend.v.01	remove.v.01
-pres_një_rripë	VERB	remove.v.01
-zbërthej	VERB	crumble.v.01	remove.v.01	undo.v.01
-erozion	VERB	remove.v.01
-zhvesh	VERB	remove.v.01
-djeg	VERB	blow_out.v.01	burn.v.03	damage.v.01	treat.v.03
-i_nxjerr_zorrët	VERB	remove.v.01
-nxjerr_të_brendshmet	VERB	remove.v.01
+çmontoj	VERB	strip.v.11	unhorse.v.01
+pres_një_rripë	VERB	strip.v.11
+zbërthej	VERB	crumble.v.01	strip.v.11	unbutton.v.01
+erozion	VERB	denude.v.01
+zhvesh	VERB	denude.v.01
+djeg	VERB	blow_out.v.01	burn.v.03	burn.v.15	cauterize.v.01
+i_nxjerr_zorrët	VERB	disembowel.v.01
+nxjerr_të_brendshmet	VERB	disembowel.v.01
 i_saktë	VERB	correct.v.01
 korrigjoj	VERB	adjust.v.01	correct.v.01
 ndreq	VERB	adjust.v.01	correct.v.01
 dobësim	VERB	slip.v.04	worsen.v.01
 keqësim	VERB	worsen.v.01
 përmbysem	VERB	slip.v.04
-shkarje	VERB	move.v.02	skid.v.04	slip.v.04	slither.v.01
+shkarje	VERB	skid.v.04	slide.v.03	slip.v.04	slither.v.01
 më_mirë	VERB	better.v.03
 përmirësim	VERB	better.v.02	better.v.03
-përmirësoj	VERB	better.v.02	better.v.03	perfect.v.01
-rregulloj	VERB	arrange.v.01	arrange.v.07	better.v.02	match.v.01	regulate.v.02	repair.v.01	tidy.v.01
-shpjegoj	VERB	better.v.02	clear.v.10	explain.v.01	interpret.v.01
-sqaroj	VERB	better.v.02	clear.v.10
-zgjidh	VERB	better.v.02	decide.v.02	solve.v.01	undo.v.01
+përmirësoj	VERB	better.v.02	better.v.03	polish.v.03
+rregulloj	VERB	arrange.v.07	better.v.02	match.v.01	regularize.v.02	regulate.v.02	repair.v.01	tidy.v.01
+shpjegoj	VERB	clear.v.10	explain.v.01	interpret.v.01	iron_out.v.01
+sqaroj	VERB	clear.v.10	iron_out.v.01
+zgjidh	VERB	decide.v.02	iron_out.v.01	solve.v.01	untie.v.01
 acaroj	VERB	worsen.v.02
 ia_sjell_në_majë_të_hundës	VERB	worsen.v.02
 i_plas_shpirtin	VERB	worsen.v.02
@@ -4541,8 +4541,8 @@ kuti_teneqeje	VERB	can.v.01
 e_lagët	VERB	wet.v.01
 përmbytje	VERB	flood.v.02
 vërshim	VERB	flood.v.02
-përcëlloj	VERB	dry.v.01
-thahet	VERB	dry.v.01
+përcëlloj	VERB	parch.v.01
+thahet	VERB	dry.v.01	parch.v.01
 i_thatë	VERB	dry.v.01
 thaj	VERB	dry.v.02
 tharje	VERB	dry.v.02
@@ -4563,41 +4563,41 @@ kufizoj	VERB	enclose.v.03	limit.v.02	restrain.v.03	restrict.v.02	restrict.v.03
 mbyll	VERB	close.v.01	close.v.02	end.v.02	restrict.v.03	switch_off.v.01
 pengoj	VERB	interrupt.v.01	postpone.v.01	prevent.v.02	restrict.v.03
 vë_cak	VERB	restrict.v.03
-caktoj	VERB	appoint.v.02	arrange.v.01	arrange.v.02	delegate.v.02	designate.v.01	determine.v.03	fix.v.12	intend.v.02	restrict.v.03
-ndaj_mënjanë	VERB	restrict.v.03
-ndaj_me_vijë	VERB	restrict.v.03
+caktoj	VERB	appoint.v.02	arrange.v.01	arrange.v.02	delegate.v.02	designate.v.01	determine.v.03	fix.v.12	intend.v.02	mark_off.v.01
+ndaj_mënjanë	VERB	mark_off.v.01
+ndaj_me_vijë	VERB	mark_off.v.01
 jashtëshkruaj	VERB	limit.v.02
-avulloj	VERB	boil_down.v.02	change_integrity.v.01	decrease.v.02
-koncentroj	VERB	boil_down.v.02	decrease.v.02
-reduktoj	VERB	abridge.v.01	boil_down.v.02	decrease.v.02	reduce.v.01
+avulloj	VERB	boil_down.v.02	evaporate.v.01	reduce.v.18
+koncentroj	VERB	boil_down.v.02	reduce.v.18
+reduktoj	VERB	abridge.v.01	boil_down.v.02	reduce.v.01	reduce.v.18
 lëng_barishtesh	VERB	boil_down.v.02
 nxjerr_koncentrat	VERB	boil_down.v.02
-çoksigjenoj	VERB	change.v.02
+çoksigjenoj	VERB	deoxidize.v.01
 kontraktohem	VERB	shrink.v.04
 tkurrem	VERB	abridge.v.01	shrink.v.04
 ngushtohem	VERB	shrink.v.03
 reduktohem	VERB	shrink.v.03
-fishkem	VERB	decrease.v.01
-rrëgjohem	VERB	decrease.v.01
-thahem	VERB	decrease.v.01
-vyshk	VERB	decrease.v.01
+fishkem	VERB	shrivel.v.01
+rrëgjohem	VERB	shrivel.v.01
+thahem	VERB	shrivel.v.01
+vyshk	VERB	shrivel.v.01
 kontraktoj	VERB	abridge.v.01
 pakesoj	VERB	abridge.v.01
 prerje	VERB	abridge.v.01
-shkurtoj	VERB	abridge.v.01	fell.v.01	reduce.v.01
+shkurtoj	VERB	abridge.v.01	fell.v.01	reduce.v.01	shorten.v.01
 zvogëloj	VERB	abridge.v.01	decrease.v.02	minimize.v.01
-bie	VERB	decrease.v.01	drop.v.01	fall_off.v.01
-fishket	VERB	decrease.v.01
-pakësoj	VERB	decrease.v.01	lower.v.01	reduce.v.01
-qetësohet	VERB	decrease.v.01
-shuaj	VERB	blow_out.v.01	decrease.v.01	eliminate.v.03	switch_off.v.01
-arrij	VERB	achieve.v.01	arrive.v.01	be.v.03	chip.v.01	consume.v.02	develop.v.10	receive.v.02
-avancoj	VERB	advance.v.02	develop.v.10
-eci	VERB	develop.v.10	fit.v.02
-përparoj	VERB	advance.v.01	approach.v.01	continue.v.01	develop.v.10
-progres	VERB	develop.v.10	promote.v.01
-piqem	VERB	mature.v.01
-pjekje	VERB	mature.v.01
+bie	VERB	abate.v.02	drop.v.01	fall_off.v.01
+fishket	VERB	abate.v.02
+pakësoj	VERB	abate.v.02	lower.v.01	reduce.v.01
+qetësohet	VERB	abate.v.02
+shuaj	VERB	abate.v.02	blow_out.v.01	eliminate.v.03	switch_off.v.01
+arrij	VERB	achieve.v.01	arrive.v.01	chip.v.01	progress.v.01	reach.v.06	receive.v.02	swallow.v.01
+avancoj	VERB	advance.v.02	progress.v.01
+eci	VERB	fit.v.02	progress.v.01
+përparoj	VERB	advance.v.01	approach.v.01	continue.v.01	progress.v.01
+progres	VERB	progress.v.01	promote.v.01
+piqem	VERB	ripen.v.02
+pjekje	VERB	ripen.v.02
 faza_e_pjekjes	VERB	mature.v.01
 maturohem	VERB	mature.v.01
 pjekuri	VERB	mature.v.01
@@ -4608,31 +4608,31 @@ enjtet	VERB	swell.v.03
 enjtje	VERB	swell.v.03
 fryrje	VERB	swell.v.03
 mufatet	VERB	swell.v.03
-rrit	VERB	engender.v.01	expand.v.02	grow.v.07	produce.v.02	raise.v.02
+rrit	VERB	breed.v.03	engender.v.01	expand.v.02	grow.v.07	raise.v.02
 zgjeroj	VERB	elaborate.v.01	expand.v.02
 dëm	VERB	damage.v.01
 dëmtoj	VERB	break.v.05	corrupt.v.01	damage.v.01	mar.v.01
 prishje	VERB	damage.v.01
-restauroj	VERB	regenerate.v.01	repair.v.01
-riparoj	VERB	better.v.03	repair.v.01
+restauroj	VERB	repair.v.01	restore.v.01
+riparoj	VERB	mend.v.02	repair.v.01
 ujdis	VERB	adjust.v.01	fix.v.12	repair.v.01
-arnë	VERB	repair.v.01
-arnoj	VERB	repair.v.01
-sajoj	VERB	chew_over.v.01	fabricate.v.02	perform.v.01	repair.v.01	think_up.v.01
-fryj	VERB	expand.v.03
-pëlcas	VERB	break.v.09	expand.v.03
-shëroj	VERB	better.v.03
-fiksoj	VERB	arrange.v.02	decorate.v.01	fasten.v.01	hang.v.02	put.v.01	stabilize.v.03	tie.v.01
-stabilizoj	VERB	agree.v.01	settle.v.07	stabilize.v.03
+arnë	VERB	patch.v.03
+arnoj	VERB	patch.v.03
+sajoj	VERB	chew_over.v.01	fabricate.v.02	improvise.v.01	patch.v.03	think_up.v.01
+fryj	VERB	inflate.v.02
+pëlcas	VERB	break.v.09	inflate.v.02
+shëroj	VERB	mend.v.02
+fiksoj	VERB	arrange.v.02	fasten.v.01	hang.v.02	hang.v.12	settle.v.01	stabilize.v.03	tie.v.01
+stabilizoj	VERB	reconcile.v.03	settle.v.07	settle.v.13	stabilize.v.03
 ia_bë_zakon	VERB	habituate.v.02
 mësohem	VERB	habituate.v.02
-ia_nënshtroj_rregullave	VERB	arrange.v.01
-fshij	VERB	cross_off.v.01	erase.v.03	remove.v.01	tidy.v.01
+ia_nënshtroj_rregullave	VERB	regularize.v.02
+fshij	VERB	brush.v.05	cross_off.v.01	erase.v.03	tidy.v.01
 i_pastër	VERB	clean.v.01	tidy.v.01
-sistemoj	VERB	arrange.v.01	arrange.v.07	regulate.v.02	settle.v.07	tidy.v.01
-përgatit	VERB	constitute.v.01	cook.v.02	fabricate.v.02	make.v.03	make.v.27
+sistemoj	VERB	arrange.v.07	regulate.v.02	settle.v.07	settle.v.11	tidy.v.01
+përgatit	VERB	constitute.v.01	cook.v.02	fabricate.v.02	make.v.27	prepare.v.03
 bëj_rrëmujë	VERB	mess.v.02
-shkatërroj	VERB	corrupt.v.01	damage.v.01	destroy.v.02	eliminate.v.03	mess.v.02	neutralize.v.04
+shkatërroj	VERB	bang_up.v.01	corrupt.v.01	destroy.v.02	eliminate.v.03	mess.v.02	neutralize.v.04
 parregullsi	VERB	disorder.v.02
 rrëmujë	VERB	disorder.v.02
 rendit	VERB	order.v.05
@@ -4660,23 +4660,23 @@ buçitje	VERB	boom.v.05
 gjallërohem	VERB	boom.v.05
 përparon	VERB	boom.v.05
 zhvilloj	VERB	boom.v.05	develop.v.03	grow.v.07
-përhapem	VERB	grow.v.02
-riprodhohet	VERB	grow.v.02
-shtohem	VERB	grow.v.02	pour.v.02
-shumohem	VERB	grow.v.02
-errësoj	VERB	change.v.02
+përhapem	VERB	proliferate.v.01
+riprodhohet	VERB	proliferate.v.01
+shtohem	VERB	pour.v.02	proliferate.v.01
+shumohem	VERB	proliferate.v.01
+errësoj	VERB	darken.v.01
 zgjatoj	VERB	elongate.v.01	lengthen.v.01
 vazhdoj	VERB	be.v.11	continue.v.01	happen.v.01	last.v.01	proceed.v.02	prolong.v.01	run.v.03
 shtrij	VERB	elongate.v.01
-skuq	VERB	fry.v.02	heat.v.01
-thek	VERB	heat.v.01
+skuq	VERB	crispen.v.01	fry.v.02
+thek	VERB	crispen.v.01
 gatuaj	VERB	cook.v.02	cook.v.03
 tiganis	VERB	fry.v.02
 bluarje	VERB	grind.v.05
 brejtje	VERB	grind.v.05
 grij	VERB	grind.v.05
 grimcoj	VERB	grind.v.05
-thërrmoj	VERB	disintegrate.v.01	grind.v.05
+thërrmoj	VERB	crumble.v.02	grind.v.05
 çaj	VERB	break.v.02
 këputje	VERB	break.v.02
 ndaj	VERB	allocate.v.01	break.v.02	distinguish.v.01	divide.v.01	separate.v.02	separate.v.08	separate.v.12	share.v.05
@@ -4702,37 +4702,37 @@ ngulmoj	VERB	persevere.v.01	urge.v.01
 nuk_lëshoj	VERB	persevere.v.01
 nuk_tundem	VERB	persevere.v.01
 përfundoj	VERB	carry_through.v.01	complete.v.01	conclude.v.04	decide.v.01	end.v.02	finalize.v.01
-ndërpres	VERB	abstain.v.02	act.v.01	break.v.10	cut.v.01	detach.v.03	discontinue.v.01	end.v.02	interrupt.v.01	interrupt.v.04
+ndërpres	VERB	abort.v.01	abstain.v.02	break.v.10	chip.v.05	cut_off.v.03	discontinue.v.01	interrupt.v.01	interrupt.v.02	interrupt.v.04
 ndryshoj_pamjen_e_jashtme	VERB	change_surface.v.01
 fund	VERB	complete.v.01	die.v.01
 mbaroj	VERB	die.v.01	discontinue.v.01
 nxjerr_frymë	VERB	die.v.01
 shuhem	VERB	die.v.01	disappear.v.01
 vdes	VERB	die.v.01
-mbytem	VERB	drown.v.03	kill.v.01
-vij_në_jetë	VERB	change_state.v.01
+mbytem	VERB	drown.v.03	drown.v.04	smother.v.02
+vij_në_jetë	VERB	be_born.v.01
 ndaloj	VERB	break.v.10	impede.v.01
 pushoj	VERB	break.v.10	drop_out.v.01	interrupt.v.04
 merr_fund	VERB	decide.v.01	drop.v.07
 rrëzoj	VERB	drop.v.07	fell.v.01	lower.v.01	refute.v.01
 ndalem	VERB	chip.v.01	interrupt.v.04
-avullim	VERB	change_integrity.v.01
+avullim	VERB	evaporate.v.01
 ftohem	VERB	cool.v.01
 i_acartë	VERB	cool.v.01
 i_freskët	VERB	cool.v.01
 nxeh	VERB	heat.v.01
 nxehtësi	VERB	heat.v.01
-ngrohtë	VERB	change.v.01
+ngrohtë	VERB	warm.v.02
 ngrohem	VERB	warm.v.01
-ziej	VERB	change_state.v.01
+ziej	VERB	boil.v.01
 shkrij	VERB	blend.v.03	dissolve.v.09	melt.v.01
 tretem	VERB	dissolve.v.09
 djegie	VERB	burn.v.03
-merr_flakë	VERB	change_integrity.v.01	erupt.v.03
-shkrumboj	VERB	change_integrity.v.01
+merr_flakë	VERB	burn.v.07	erupt.v.03
+shkrumboj	VERB	burn.v.07
 ndryshoj_formën	VERB	transform.v.03
 transformoj	VERB	transform.v.02	transform.v.03	translate.v.02
-transferoj	VERB	move.v.02	translate.v.02
+transferoj	VERB	translate.v.02	translate.v.05
 ligështoj	VERB	enfeeble.v.01
 shter	VERB	enfeeble.v.01
 zbeh	VERB	flatten.v.03
@@ -4740,74 +4740,74 @@ bashkohem	VERB	blend.v.03
 ndërthur	VERB	blend.v.03
 pleksem	VERB	blend.v.03
 trazim	VERB	blend.v.03	confuse.v.03
-trazoj	VERB	act.v.01	blend.v.03	dissolve.v.02	disturb.v.01	jab.v.01	knead.v.01	mix.v.05	stimulate.v.03
-shkërmoq	VERB	disintegrate.v.01
+trazoj	VERB	blend.v.01	blend.v.03	dissolve.v.02	disturb.v.01	interrupt.v.02	jab.v.01	knead.v.01	stimulate.v.03
+shkërmoq	VERB	crumble.v.02
 shpërbëhet	VERB	disintegrate.v.01
 zbërthehet	VERB	disintegrate.v.01
 bëhem_gati	VERB	fix.v.12
 vendos	VERB	arrange.v.07	decide.v.01	decide.v.02	determine.v.03	elect.v.02	finalize.v.01	fix.v.12	install.v.01	put.v.01
-zë_vend	VERB	put.v.01	settle.v.07
-barazoj	VERB	change_surface.v.01	compare.v.03	equal.v.03
+zë_vend	VERB	settle.v.01	settle.v.07
+barazoj	VERB	compare.v.03	equal.v.03	flush.v.04
 koordinoj	VERB	equal.v.03
 njëtrajtshmëri	VERB	equal.v.03
-mpiks	VERB	change.v.01
-ngurtësoj	VERB	change.v.01	solidify.v.02
-ngrij	VERB	solidify.v.02	stiffen.v.01
-liroj	VERB	acquit.v.01	loosen.v.01	release.v.08	remove.v.01	shed.v.01	undo.v.01
+mpiks	VERB	stiffen.v.02
+ngurtësoj	VERB	solidify.v.02	stiffen.v.02
+ngrij	VERB	freeze.v.07	solidify.v.02	stiffen.v.01
+liroj	VERB	acquit.v.01	dislodge.v.01	loosen.v.01	release.v.08	shed.v.01	untie.v.01
 ngadalësoj	VERB	loosen.v.01	lower.v.01
 forcoj	VERB	inspire.v.01	tighten.v.02
-lidh	VERB	adhere.v.06	associate.v.01	bind.v.02	bind.v.03	bind.v.04	cover.v.01	tie.v.01	tighten.v.01
+lidh	VERB	adhere.v.06	associate.v.01	bind.v.02	bind.v.03	bind.v.04	bind.v.07	tie.v.01	tighten.v.01
 mbërthej	VERB	collar.v.01	tighten.v.01
-shtrëngoj	VERB	compress.v.02	kill.v.01	tighten.v.01
+shtrëngoj	VERB	compress.v.02	strangle.v.01	tighten.v.01
 kalon	VERB	evanesce.v.01
 shuhet	VERB	evanesce.v.01
 venitet	VERB	evanesce.v.01
 zhdukem	VERB	disappear.v.01	evanesce.v.01
 shfaqet	VERB	appear.v.02	come.v.01
-bëhet_publik	VERB	appear.v.02
-dal	VERB	appear.v.02
-dal_në_pah	VERB	appear.v.02
-gjendem	VERB	appear.v.02	be.v.01	exist.v.01	prove.v.01
+bëhet_publik	VERB	come_on.v.01
+dal	VERB	come_on.v.01
+dal_në_pah	VERB	come_on.v.01
+gjendem	VERB	come_on.v.01	exist.v.01	lie.v.04	prove.v.01
 largohem	VERB	chase_away.v.01	depart.v.03	depart.v.04	disappear.v.01	escape.v.01	exit.v.01	scat.v.01
 minimizoj	VERB	decrease.v.02	minimize.v.01
-pres	VERB	ask.v.04	claim.v.05	detach.v.03	expect.v.01	expect.v.03	reduce.v.01	remove.v.01
-zbres	VERB	descend.v.01	reduce.v.01	sink.v.04	subtract.v.01
+pres	VERB	amputate.v.01	ask.v.04	claim.v.05	cut_off.v.03	expect.v.01	expect.v.03	reduce.v.01
+zbres	VERB	reduce.v.01	sink.v.04	subtract.v.01	unhorse.v.01
 bëj_shkrumb	VERB	blow_out.v.01
-i_jap_më_shpejt	VERB	intensify.v.03
-nxitoj	VERB	intensify.v.03	rush.v.01	rush.v.04	travel_rapidly.v.01
-përshpejtoj	VERB	intensify.v.03
-shpejtoj	VERB	intensify.v.03	rush.v.01	rush.v.04	travel_rapidly.v.01
+i_jap_më_shpejt	VERB	accelerate.v.01
+nxitoj	VERB	accelerate.v.01	rush.v.01	rush.v.04	travel_rapidly.v.01
+përshpejtoj	VERB	accelerate.v.01
+shpejtoj	VERB	accelerate.v.01	rush.v.01	rush.v.04	travel_rapidly.v.01
 pakësim	VERB	decrease.v.02
 ulje	VERB	decrease.v.02
-bën_ngricë	VERB	solidify.v.02
+bën_ngricë	VERB	freeze.v.07
 shpërbëj	VERB	dissolve.v.02
 tret	VERB	dissolve.v.02
-boshatis	VERB	change_state.v.01	empty.v.01
-zbrazje	VERB	change_state.v.01	pour.v.02
+boshatis	VERB	empty.v.01	empty.v.02
+zbrazje	VERB	empty.v.02	pour.v.02
 ikën	VERB	flow_away.v.01
-kulloj	VERB	empty.v.01
-mbushje	VERB	change_state.v.01	load.v.02
-mbush_plot	VERB	change_state.v.01	fill.v.01
+kulloj	VERB	drain.v.03
+mbushje	VERB	fill.v.02	load.v.02
+mbush_plot	VERB	fill.v.01	fill.v.02
 mbush	VERB	fill.v.01	load.v.01	meet.v.04
 fermentoj	VERB	sour.v.01
 tharbem	VERB	sour.v.01
 thartoj	VERB	sour.v.01
 ngutem	VERB	rush.v.04
 turrem	VERB	rush.v.04
-rrafshoj	VERB	change_surface.v.01	shape.v.03
-sheshoj	VERB	shape.v.03	smooth.v.01
-nxjerr_nga_vendi	VERB	move.v.02
+rrafshoj	VERB	flatten.v.01	flush.v.04
+sheshoj	VERB	flatten.v.01	smooth.v.01
+nxjerr_nga_vendi	VERB	dislocate.v.01
 asgjësoj	VERB	eliminate.v.03
 ekzekutoj	VERB	eliminate.v.03	execute.v.01	perform.v.01
 eliminoj	VERB	eliminate.v.03
 zhduk	VERB	eliminate.v.03	murder.v.01
 perfeksionoj	VERB	perfect.v.01
 perfekte	VERB	perfect.v.01
-rafinoj	VERB	perfect.v.01
-rivihem	VERB	perfect.v.01
+rafinoj	VERB	polish.v.03
+rivihem	VERB	polish.v.03
 bëj_rregullim_të_imët	VERB	polish.v.02
 përpunoj	VERB	elaborate.v.01	fabricate.v.02	polish.v.02	work.v.05
-mbush_me_ajër	VERB	shape.v.03
+mbush_me_ajër	VERB	blow.v.06
 keqësoj	VERB	mar.v.01
 zhvleftësoj	VERB	mar.v.01
 kasaphanë	VERB	massacre.v.01
@@ -4815,7 +4815,7 @@ kosit	VERB	massacre.v.01
 masakroj	VERB	massacre.v.01
 ther	VERB	massacre.v.01
 shtie_në_dorë	VERB	finalize.v.01
-vë_në_vijë	VERB	agree.v.01	decide.v.02	finalize.v.01	settle.v.14
+vë_në_vijë	VERB	decide.v.02	finalize.v.01	settle.v.13	settle.v.14
 kompletoj	VERB	complete.v.01
 mat	VERB	quantify.v.02
 përcaktoj_sasinë	VERB	quantify.v.02
@@ -4827,16 +4827,16 @@ lë_gjurmë	VERB	mark.v.05
 anulloj	VERB	disable.v.01	withdraw.v.09
 bëj_i_paaftë	VERB	disable.v.01
 i_heq_të_drejtë	VERB	disable.v.01
-bezdis	VERB	act.v.01
-shqetësoj	VERB	act.v.01	alarm.v.02	harass.v.01	upset.v.02
-ngjall	VERB	receive.v.02	stimulate.v.03
-siguroj	VERB	acquire.v.05	develop.v.03	provide.v.02	receive.v.02	satisfy.v.01	supply.v.01
-agon	VERB	change.v.02
-zbardh	VERB	change.v.02
-kap	VERB	arrive.v.01	attach.v.01	catch.v.04	change.v.02	collar.v.01	photograph.v.01	play.v.01	take.v.04
-e_qartë	VERB	change.v.01
-i_tejdukshëm	VERB	change.v.01
-kthjellët	VERB	change.v.01
+bezdis	VERB	interrupt.v.02
+shqetësoj	VERB	alarm.v.02	harass.v.01	interrupt.v.02	upset.v.02
+ngjall	VERB	arouse.v.07	receive.v.02
+siguroj	VERB	acquire.v.05	cover.v.04	develop.v.03	provide.v.02	receive.v.02	supply.v.01
+agon	VERB	dawn.v.03
+zbardh	VERB	dawn.v.03
+kap	VERB	arrive.v.01	catch.v.04	catch.v.12	catch.v.27	collar.v.01	hitch.v.01	photograph.v.01	take.v.04
+e_qartë	VERB	clear.v.20
+i_tejdukshëm	VERB	clear.v.20
+kthjellët	VERB	clear.v.20
 kuptoj	VERB	deem.v.01	grok.v.01	perceive.v.01	solve.v.01	understand.v.02	understand.v.03
 marr_vesh	VERB	grok.v.01	understand.v.02
 njëmendësoj	VERB	understand.v.02
@@ -4845,7 +4845,7 @@ lexoj	VERB	read.v.01	understand.v.03
 përkthej	VERB	understand.v.03
 di	VERB	know.v.01
 vë_re	VERB	know.v.01
-bëj_për_vete	VERB	absorb.v.09	agree.v.01
+bëj_për_vete	VERB	absorb.v.09	reconcile.v.03
 zaptoj	VERB	absorb.v.09	invade.v.01
 futem	VERB	steep.v.01
 futje	VERB	steep.v.01
@@ -4858,8 +4858,8 @@ stërvit	VERB	coach.v.01	train.v.01
 kujtoj	VERB	remember.v.01	remember.v.02
 përmbledh	VERB	remember.v.01
 thërras	VERB	call.v.05	invite.v.06	name.v.01	remember.v.01
-mbaj_mend	VERB	remember.v.02
-mendje	VERB	remember.v.02
+mbaj_mend	VERB	mind.v.06
+mendje	VERB	mind.v.06
 mendoj	VERB	chew_over.v.01	intend.v.01	remember.v.02	see.v.05	think.v.01	think.v.02
 njoh	VERB	introduce.v.01	recognize.v.04
 sjell_në_mend	VERB	remember.v.03
@@ -4874,7 +4874,7 @@ gaboj	VERB	err.v.01
 rrëshqitje	VERB	err.v.01	skid.v.04	steal.v.02
 identifikoj	VERB	identify.v.01	identify.v.05
 përcaktoj_qartë	VERB	identify.v.01	rate.v.01
-dëgjoj	VERB	hear.v.01	listen.v.01	understand.v.01
+dëgjoj	VERB	hear.v.01	listen.v.01	read.v.10
 kristalizoj	VERB	clear.v.10
 qartësohem	VERB	clear.v.10
 terezis	VERB	clear.v.10
@@ -4912,32 +4912,32 @@ njehsoj	VERB	calculate.v.01
 shifroj	VERB	calculate.v.01	code.v.02
 copëtim	VERB	divide.v.02
 pjesëtoj	VERB	divide.v.02
-analizoj	VERB	analyze.v.01	examine.v.02
+analizoj	VERB	analyze.v.01	size_up.v.01
 diskutoj	VERB	analyze.v.01	converse.v.01	hash_out.v.01
 ekzaminoj	VERB	analyze.v.01	examine.v.02	test.v.01
 studioj	VERB	analyze.v.01
 mas	VERB	measure.v.01
 matje	VERB	measure.v.01
 ndaj_me_masë	VERB	measure.v.01
-bëj_dallim	VERB	distinguish.v.01
-dalloj	VERB	descry.v.01	distinguish.v.01	distinguish.v.03	identify.v.05
+bëj_dallim	VERB	discriminate.v.01
+dalloj	VERB	descry.v.01	discriminate.v.01	distinguish.v.03	identify.v.05
 klasifikoj	VERB	classify.v.01	distinguish.v.01	rate.v.01
 më_vete	VERB	distinguish.v.01
 veçmas	VERB	distinguish.v.01
 veçoj	VERB	choose.v.01	distinguish.v.01	distinguish.v.03	divide.v.01	separate.v.02	separate.v.07	separate.v.09
 bëj_diferencim	VERB	distinguish.v.03
-zbuloj	VERB	catch.v.14	determine.v.01	gestate.v.01	identify.v.05	uncover.v.01	unwrap.v.02
+zbuloj	VERB	catch.v.14	determine.v.01	discover.v.03	identify.v.05	uncover.v.01	unwrap.v.02
 krahasoj	VERB	compare.v.01	compare.v.03
 grupoj	VERB	classify.v.01
 heq_mënjanë	VERB	classify.v.01
 kategorizoj	VERB	classify.v.01	distribute.v.01
 rendis	VERB	classify.v.01	rate.v.01
 vlerësoj	VERB	measure.v.04	rate.v.01	respect.v.01
-hetoj	VERB	ask.v.01	check.v.01	probe.v.01
+hetoj	VERB	ask.v.01	check.v.01	investigate.v.02
 interesohem	VERB	check.v.01
 kontrolloj	VERB	check.v.01	comb.v.02	control.v.02	operate.v.03	pass.v.01
 rishikoj	VERB	check.v.01
-shqyrtoj	VERB	check.v.01	examine.v.02	inspect.v.01	investigate.v.01	see.v.05	visualize.v.01
+shqyrtoj	VERB	check.v.01	inspect.v.01	investigate.v.01	see.v.05	size_up.v.01	visualize.v.01
 verifikoj	VERB	affirm.v.02	check.v.01	match.v.01
 demostroj	VERB	prove.v.02	show.v.01	show.v.04
 shfaq	VERB	expose.v.03	express.v.01	prove.v.02	read.v.08	show.v.01
@@ -4945,7 +4945,7 @@ vë_në_provë	VERB	prove.v.02
 duroj	VERB	digest.v.03
 lejoj	VERB	allow.v.06	authorize.v.01	digest.v.03	leave.v.06	let.v.01	let.v.02	permit.v.01
 pajtohem	VERB	digest.v.03	meet.v.05
-përballoj	VERB	digest.v.03	look.v.02	resist.v.02
+përballoj	VERB	digest.v.03	leap_out.v.01	resist.v.02
 rezistoj	VERB	digest.v.03	last.v.01	resist.v.02
 suportoj	VERB	digest.v.03
 toleroj	VERB	digest.v.03
@@ -4953,19 +4953,19 @@ gjykoj	VERB	decide.v.02	declare.v.04	evaluate.v.02
 llogaritje	VERB	account.v.02	estimate.v.01
 vlerësim	VERB	estimate.v.01
 vlerësues	VERB	estimate.v.01
-dhuroj	VERB	allow.v.03	award.v.02	estimate.v.01	lend.v.01
-jap	VERB	allow.v.03	award.v.01	award.v.02	be.v.01	bear.v.04	concede.v.02	concede.v.03	convey.v.01	equip.v.01	estimate.v.01	give.v.01	grant.v.05	lend.v.01	spend.v.02
+dhuroj	VERB	allow.v.03	award.v.02	give.v.27	lend.v.01
+jap	VERB	afford.v.01	allow.v.03	award.v.01	award.v.02	bear.v.04	concede.v.02	concede.v.03	convey.v.01	equip.v.01	give.v.01	give.v.27	grant.v.05	lend.v.01	lend.v.03
 miratoj	VERB	accept.v.05	approve.v.02
 selektoj	VERB	choose.v.01
 zgjedh	VERB	choose.v.01	elect.v.02	pick.v.02
-gjej	VERB	determine.v.01	find.v.03	gestate.v.01	pick.v.01
+gjej	VERB	determine.v.01	discover.v.03	find.v.03	pick.v.01
 piketoj	VERB	pick.v.01
 caktoj_shumën	VERB	measure.v.04
 çmoj	VERB	measure.v.04	respect.v.01
 besoj	VERB	believe.v.01	deem.v.01	entrust.v.01	entrust.v.02	trust.v.01
 nuk_pranoj	VERB	disown.v.02	refuse.v.01	reject.v.01	shed.v.01
 përjashtoj	VERB	eject.v.01	reject.v.01
-pranoj	VERB	accept.v.01	accept.v.02	accept.v.05	accept.v.09	admit.v.02	admit.v.03	be.v.01	concede.v.01	let.v.01	match.v.01	permit.v.01	undergo.v.01
+pranoj	VERB	accept.v.01	accept.v.02	accept.v.05	accept.v.08	accept.v.09	admit.v.02	admit.v.03	concede.v.01	let.v.01	match.v.01	permit.v.01	undergo.v.01
 betim	VERB	trust.v.01
 premtim	VERB	promise.v.02	trust.v.01
 kam_idenë_se	VERB	think.v.01
@@ -4974,7 +4974,7 @@ konsideroj	VERB	agree.v.01	pronounce.v.02	see.v.05	think.v.01	think_of.v.03
 reputacion	VERB	think_of.v.03
 respektoj	VERB	respect.v.01	think_of.v.03
 shoh	VERB	see.v.05
-duket	VERB	see.v.05
+duket	VERB	like.v.04
 duke_e_parë_si	VERB	deem.v.01
 jam_i_mendimit	VERB	deem.v.01
 nderoj	VERB	respect.v.01
@@ -4982,10 +4982,10 @@ planifikoj	VERB	plan.v.02	visualize.v.01
 organizoj	VERB	organize.v.02	plan.v.01
 vë_në_plan	VERB	plan.v.01
 kam_ndër_mend	VERB	intend.v.01
-nënkuptoj	VERB	intend.v.01	mean.v.01
+nënkuptoj	VERB	intend.v.01	mean.v.01	spell.v.02
 përcaktoj	VERB	determine.v.01	intend.v.02
 specifikoj	VERB	intend.v.02
-lidhem	VERB	associate.v.01	attach.v.01	attach.v.03	bind.v.02	cling.v.01	relate.v.04	relate.v.05	restrain.v.03
+lidhem	VERB	associate.v.01	attach.v.01	attach.v.03	bind.v.02	cling.v.01	relate.v.04	relate.v.05	tie_down.v.01
 takohen_në	VERB	associate.v.01
 përmbush	VERB	carry_through.v.01	conclude.v.02	do.v.03	satisfy.v.01
 jap_urdhër	VERB	rule.v.02
@@ -5005,30 +5005,30 @@ transmetoj	VERB	communicate.v.01	communicate.v.02
 pasoj	VERB	advance.v.01	circulate.v.03	communicate.v.01	pursue.v.02	result.v.01
 them	VERB	order.v.01	speak.v.03	state.v.01	tell.v.02
 udhëzoj	VERB	instruct.v.02
-kërkesë	VERB	arouse.v.01	bid.v.04	claim.v.02	claim.v.03	claim.v.05	demand.v.01	want.v.02
+kërkesë	VERB	bid.v.04	claim.v.02	claim.v.03	claim.v.05	demand.v.01	invite.v.01	want.v.02
 lutje	VERB	claim.v.03	demand.v.01
-kërkoj	VERB	arouse.v.01	ask.v.04	chase.v.01	comb.v.02	desire.v.01	invite.v.07	probe.v.01	put_on.v.07	search.v.01
+kërkoj	VERB	ask.v.04	chase.v.01	comb.v.02	desire.v.01	investigate.v.02	invite.v.01	invite.v.07	put_on.v.07	search.v.01
 pyes	VERB	ask.v.01	ask.v.04	ask.v.05	wonder.v.02
 heq_dorë	VERB	depart.v.04	disown.v.02	release.v.08	spare.v.03	surrender.v.02
-mohoj	VERB	deprive.v.02	disown.v.02
-refuzoj	VERB	deny.v.04	disown.v.02	keep.v.03	refuse.v.01	withhold.v.01
-pajtoj	VERB	agree.v.01	join.v.02
-paqësoj	VERB	agree.v.01
-qetësoj_grindjen	VERB	agree.v.01
+mohoj	VERB	disinherit.v.01	disown.v.02
+refuzoj	VERB	deny.v.04	disown.v.02	refuse.v.01	withhold.v.01	withhold.v.02
+pajtoj	VERB	join.v.02	reconcile.v.03
+paqësoj	VERB	reconcile.v.03
+qetësoj_grindjen	VERB	reconcile.v.03
 bind	VERB	carry.v.23	convert.v.09	persuade.v.02
 mbush_mendjen	VERB	convert.v.09
 bëj_të	VERB	induce.v.02
-shkaktoj	VERB	effect.v.01	induce.v.02	produce.v.03	remove.v.01
+shkaktoj	VERB	draw.v.17	effect.v.01	induce.v.02	produce.v.03
 inkurajoj	VERB	encourage.v.02	encourage.v.03
-lë	VERB	bequeath.v.01	concede.v.02	cut.v.01	let.v.01	let.v.02	release.v.08
-paraqes	VERB	act.v.03	announce.v.01	constitute.v.01	fetch.v.02	install.v.01	mention.v.01	present.v.02	present.v.05
+lë	VERB	bequeath.v.01	chip.v.05	concede.v.02	let.v.01	let.v.02	release.v.08
+paraqes	VERB	act.v.03	announce.v.01	constitute.v.01	fetch.v.02	install.v.01	present.v.02	present.v.05	raise.v.19
 prezantoj	VERB	introduce.v.01	present.v.02
 kontradikt	VERB	oppose.v.06
 kundërshtoj	VERB	deny.v.04	oppose.v.06	protest.v.02	react.v.02	refute.v.01	resist.v.02
 kundërveproj	VERB	oppose.v.06
 ndal	VERB	discontinue.v.01	interrupt.v.01
 kërkoj_të_marr_vesh	VERB	ask.v.01
-investigoj	VERB	probe.v.01
+investigoj	VERB	investigate.v.02
 marr_në_telefon	VERB	call.v.03
 telefonoj	VERB	call.v.03
 telekomunikim	VERB	telecommunicate.v.01
@@ -5039,8 +5039,8 @@ miratim	VERB	accept.v.03	recognize.v.09
 pëlqim	VERB	accept.v.03
 pranim	VERB	accept.v.03
 vlen	VERB	accept.v.03
-injoroj	VERB	disguise.v.01	dismiss.v.01	treat.v.01
-largoj	VERB	dismiss.v.01	remove.v.01
+injoroj	VERB	dismiss.v.01	dissemble.v.02	ignore.v.01
+largoj	VERB	dislodge.v.01	dismiss.v.01
 nënvleftësoj	VERB	dismiss.v.01
 shtyj_mënjanë	VERB	dismiss.v.01
 autorizoj	VERB	authorize.v.01
@@ -5053,7 +5053,7 @@ përgënjeshtroj	VERB	refute.v.01
 përgjigjem	VERB	answer.v.01	suffice.v.01
 reagoj	VERB	answer.v.01	react.v.02
 deklaroj	VERB	announce.v.02	concede.v.01	declare.v.04
-rrëfej	VERB	admit.v.01	concede.v.01	tell.v.03
+rrëfej	VERB	concede.v.01	confess.v.03	tell.v.03
 ngul_këmbë	VERB	insist.v.01
 tregoj	VERB	bespeak.v.01	declare.v.04	express.v.01	indicate.v.02	indicate.v.03	present.v.05	read.v.08	show.v.01	state.v.01	tell.v.03	testify.v.02	uncover.v.01
 instruktoj	VERB	teach.v.01
@@ -5081,10 +5081,10 @@ lavdëroj	VERB	laud.v.01	praise.v.01
 gëzohem	VERB	exuberate.v.01
 ngazëllehem	VERB	exuberate.v.01
 triumfoj	VERB	exuberate.v.01
-gëzoj	VERB	cheer.v.03	cheer.v.04	use.v.01
+gëzoj	VERB	cheer.v.03	cheer.v.04	enjoy.v.02
 mbush_me_gëzim	VERB	cheer.v.04
 ngre_humorin	VERB	cheer.v.03
-lartësoj	VERB	laud.v.01	look.v.02	promote.v.02
+lartësoj	VERB	laud.v.01	promote.v.02	rise.v.04
 mburr	VERB	laud.v.01
 ngre_në_qiell	VERB	laud.v.01
 sfidoj	VERB	challenge.v.02
@@ -5111,54 +5111,54 @@ fal	VERB	forgive.v.01	give.v.18
 kushtoj	VERB	cost.v.01	cost.v.02	give.v.18
 falenderoj	VERB	thank.v.01
 jap_falenderime	VERB	thank.v.01
-përshëndes	VERB	bow.v.01	communicate.v.02	greet.v.01
+përshëndes	VERB	bow.v.01	greet.v.01	greet.v.02
 adresoj	VERB	address.v.01	lead.v.01	send.v.01
 tundem	VERB	nod.v.01	rock.v.01
 tund_kokën	VERB	nod.v.01
 përkulem	VERB	bow.v.01
-them_lamtumirë	VERB	greet.v.01
+them_lamtumirë	VERB	say_farewell.v.01
 hyrje	VERB	access.v.01	log_in.v.01	precede.v.05
 paraprij	VERB	precede.v.05
 parathënie	VERB	precede.v.05
 përmend_paraprak	VERB	precede.v.05
-dëshiroj	VERB	desire.v.01	love.v.01	wish.v.02	wish.v.03	wish.v.04
+dëshiroj	VERB	feel_like.v.01	love.v.01	wish.v.02	wish.v.03	wish.v.04
 nxjerr_të_pafajshëm	VERB	acquit.v.01
 shfajësoj	VERB	acquit.v.01
 bërtas	VERB	shout.v.01
 ulëras	VERB	shout.v.01
-britmë	VERB	make_noise.v.01	shout.v.02
-çirrem	VERB	shout.v.02
-sokëllij	VERB	shout.v.02
-vikatje	VERB	shout.v.02
+britmë	VERB	shriek.v.01	whine.v.03
+çirrem	VERB	shriek.v.01
+sokëllij	VERB	shriek.v.01
+vikatje	VERB	shriek.v.01
 pëshpëris	VERB	whisper.v.01
 konstatoj	VERB	determine.v.01
 jap_sinjal	VERB	bespeak.v.01
 regjistroj	VERB	read.v.08	record.v.01
 orientoj	VERB	indicate.v.02
-shenjoj	VERB	indicate.v.02	mean.v.01
+shenjoj	VERB	aim.v.06	indicate.v.02
 pyes_veten	VERB	wonder.v.02
 spekuloj	VERB	speculate.v.02
-shpreh	VERB	announce.v.01	behave.v.02	bid.v.04	carry.v.04	convey.v.01	express.v.01	talk.v.02
+shpreh	VERB	announce.v.01	assert.v.03	bid.v.04	breathe.v.06	carry.v.04	express.v.01	talk.v.02
 do_të_thotë	VERB	denote.v.02	mean.v.03
 referohem	VERB	denote.v.02
 nënkupton	VERB	mean.v.03
 qëndron_për	VERB	mean.v.03
-shqiptoj_fjalë-fjalë	VERB	mean.v.01
+shqiptoj_fjalë-fjalë	VERB	spell.v.02
 demaskoj	VERB	unwrap.v.02
 nxjerr_në_shesh	VERB	unwrap.v.02
 publikim	VERB	unwrap.v.02
 shtjelloj	VERB	cover.v.05	explain.v.01
 shpreh_me_fjalë	VERB	express.v.02	talk.v.02	write.v.01
-pëshpëritje	VERB	express.v.02
-hedh	VERB	express.v.02	influence.v.01	scatter.v.03	shed.v.01
+pëshpëritje	VERB	breathe.v.05
+hedh	VERB	drop.v.06	scatter.v.03	shed.v.01	swing.v.04
 shqiptoj	VERB	pronounce.v.01	talk.v.02
 flas_në_lidhje_me	VERB	talk_of.v.01
 flas_rreth	VERB	talk_of.v.01
 recitoj	VERB	recite.v.02
-numëroj	VERB	count.v.01	recite.v.02
+numëroj	VERB	count.v.01	count.v.04
 kallëzoj	VERB	tell.v.03
-shenjestër	VERB	mean.v.01
-përhap	VERB	cover.v.03	diffuse.v.01	elaborate.v.01	transmit.v.04	utter.v.02
+shenjestër	VERB	aim.v.06
+përhap	VERB	diffuse.v.01	elaborate.v.01	spread.v.03	transmit.v.04	utter.v.02
 cilësoj	VERB	qualify.v.06
 karakterizoj	VERB	qualify.v.06
 imitoj	VERB	imitate.v.01	imitate.v.02	repeat.v.04
@@ -5174,12 +5174,12 @@ quaj	VERB	designate.v.01	name.v.01	pronounce.v.02
 lajmëtar	VERB	announce.v.04
 parathem	VERB	announce.v.04
 shenjë_paralajmëruese	VERB	announce.v.04
-publikoj	VERB	announce.v.01	print.v.01
-reklamoj	VERB	announce.v.01
+publikoj	VERB	advertise.v.01	print.v.01
+reklamoj	VERB	advertise.v.01
 artikuloj	VERB	pronounce.v.01
 deklamoj	VERB	pronounce.v.01
 nxjerr_zë	VERB	pronounce.v.01
-belbëzoj	VERB	talk.v.02
+belbëzoj	VERB	bumble.v.03
 rrezatoj	VERB	radiate.v.05	utter.v.02
 skicoj	VERB	describe.v.01
 përfaqësoj	VERB	represent.v.05
@@ -5199,7 +5199,7 @@ foto_e_çastit	VERB	photograph.v.01
 fotografoj	VERB	photograph.v.01
 betohem	VERB	affirm.v.02	swear.v.04
 konfirmoj	VERB	affirm.v.02
-pohoj	VERB	affirm.v.02	affirm.v.03	behave.v.02
+pohoj	VERB	affirm.v.02	affirm.v.03	assert.v.03
 dëshmoj	VERB	swear.v.04
 theksim	VERB	stress.v.01
 evidentoj	VERB	testify.v.02
@@ -5208,8 +5208,8 @@ vërtetoj	VERB	testify.v.02
 mbroj	VERB	assert.v.01	defend.v.02	protect.v.01	sustain.v.04
 mbaj_shënim	VERB	note.v.04	write_down.v.01
 konspektoj	VERB	note.v.04
-ngre	VERB	look.v.02	mention.v.01	rise.v.01
-nxjerr_në_pah	VERB	mention.v.01
+ngre	VERB	raise.v.19	rise.v.01	rise.v.04
+nxjerr_në_pah	VERB	raise.v.19
 sjell_ndërmend	VERB	drag_up.v.01
 pagëzim	VERB	baptize.v.01
 pagëzoj	VERB	baptize.v.01
@@ -5219,63 +5219,63 @@ dërgoj	VERB	depart.v.03	dispatch.v.01	mail.v.02	send.v.01	send.v.02	transport.v
 postoj	VERB	mail.v.02
 ka_të_bëj	VERB	cover.v.05
 përmbaj	VERB	control.v.02	cover.v.05	hold.v.11	incorporate.v.02	retain.v.03
-broçkulla	VERB	talk.v.02
-dërdëllit	VERB	talk.v.02
-flas_në_tym	VERB	mumble.v.01	talk.v.02
-flas_poshtë_e_lart	VERB	talk.v.02
-gjepura	VERB	talk.v.02
-llafe	VERB	talk.v.02
-llomotis	VERB	rant.v.01	talk.v.02
-marrëzira	VERB	talk.v.02
-pallavra	VERB	talk.v.02
-thashetheme	VERB	talk.v.02
+broçkulla	VERB	chatter.v.04
+dërdëllit	VERB	chatter.v.04
+flas_në_tym	VERB	chatter.v.04	mumble.v.01
+flas_poshtë_e_lart	VERB	chatter.v.04
+gjepura	VERB	chatter.v.04
+llafe	VERB	chatter.v.04
+llomotis	VERB	chatter.v.04	rant.v.01
+marrëzira	VERB	chatter.v.04
+pallavra	VERB	chatter.v.04
+thashetheme	VERB	chatter.v.04
 bërbëlitje	VERB	chew_the_fat.v.01
 dërdëllitje	VERB	chew_the_fat.v.01
 fjalosem	VERB	chew_the_fat.v.01
 llomotitje	VERB	chew_the_fat.v.01
 nis_muhabetin	VERB	chew_the_fat.v.01
 shaj	VERB	chew_the_fat.v.01
-fërshëllim	VERB	sing.v.02	sound.v.02
-fishkëllim	VERB	sound.v.02
-fëshfërij	VERB	talk.v.02
-murmurij	VERB	talk.v.02
-shushurij	VERB	talk.v.02
+fërshëllim	VERB	blow.v.05	sing.v.02	whistle.v.05	whizz.v.01
+fishkëllim	VERB	pink.v.02	whistle.v.05
+fëshfërij	VERB	murmur.v.01
+murmurij	VERB	murmur.v.01
+shushurij	VERB	murmur.v.01
 flas_mbyturazi	VERB	mumble.v.01
 murmuritje	VERB	mumble.v.01
-gjëmim	VERB	make_noise.v.01	sound.v.02
-gulçim	VERB	make_noise.v.01
-ulërim	VERB	make_noise.v.01
-ulërij	VERB	talk.v.02
-leh	VERB	utter.v.02
-cicërimë	VERB	sing.v.02
-dridhje_zëri	VERB	sing.v.02
+gjëmim	VERB	honk.v.01	roar.v.01
+gulçim	VERB	roar.v.01
+ulërim	VERB	roar.v.01
+ulërij	VERB	bark.v.01
+leh	VERB	bark.v.04
+cicërimë	VERB	warble.v.01
+dridhje_zëri	VERB	warble.v.01
 dërdëllis	VERB	rant.v.01
 shfrej	VERB	rant.v.01
-këndoj_nën_zë	VERB	sing.v.02
-zukat	VERB	be.v.01	sing.v.02
-rrumbullakos	VERB	pronounce.v.01
-kërcas	VERB	make_noise.v.01
-kërcitje	VERB	chatter.v.01	make_noise.v.01	sound.v.02	tap.v.07
-pres_ftohtë	VERB	treat.v.01
-shpërfill	VERB	travel.v.01	treat.v.01
-hingëllimë	VERB	utter.v.02
+këndoj_nën_zë	VERB	hum.v.01
+zukat	VERB	hum.v.01	hum.v.02
+rrumbullakos	VERB	roll.v.15
+kërcas	VERB	crunch.v.01
+kërcitje	VERB	chatter.v.01	crunch.v.01	pink.v.02	tap.v.07
+pres_ftohtë	VERB	ignore.v.01
+shpërfill	VERB	ignore.v.01	travel_by.v.01
+hingëllimë	VERB	neigh.v.01
 bart	VERB	carry.v.04
 përçoj	VERB	carry.v.04
 konkurroj	VERB	compete.v.01
 kontestoj	VERB	compete.v.01
-përpiqem	VERB	compete.v.01	offer.v.02	try.v.01	use.v.01
+përpiqem	VERB	compete.v.01	exert.v.01	offer.v.02	try.v.01
 loje	VERB	gamble.v.02	play.v.01
-mberthej	VERB	play.v.01
-zë	VERB	play.v.01	wield.v.02
+mberthej	VERB	catch.v.27
+zë	VERB	catch.v.27	wield.v.02
 pozitë_shoqërorë	VERB	station.v.01
 vendqëndrim	VERB	station.v.01
 betejë	VERB	battle.v.01	contend.v.06
-përleshje	VERB	contend.v.06	touch.v.05
+përleshje	VERB	contend.v.06	rub.v.02
 luftim	VERB	battle.v.01
 lufte	VERB	war.v.01
 shërbim	VERB	serve.v.01	serve.v.02	serve.v.06	service.v.01
 trajtoj	VERB	serve.v.02
-detyrë	VERB	lend.v.02	officiate.v.02	target.v.01	use.v.01
+detyrë	VERB	exert.v.01	officiate.v.02	target.v.01	trust.v.06
 funksion	VERB	function.v.01	officiate.v.02
 qendrese	VERB	resist.v.02
 sulm	VERB	attack.v.01	hit.v.05	murder.v.01	strike.v.01
@@ -5288,11 +5288,11 @@ dhunoj	VERB	invade.v.01
 pushtoj	VERB	invade.v.01	overwhelm.v.01	take.v.04
 bej_zap	VERB	besiege.v.01
 rrethim	VERB	besiege.v.01
-rrethoj	VERB	besiege.v.01	cover.v.01	enclose.v.03	surround.v.01
+rrethoj	VERB	besiege.v.01	enclose.v.03	smother.v.01	surround.v.01
 justifikoj	VERB	defend.v.02
-bërthamë	VERB	injure.v.01
-goditje	VERB	affect.v.05	beat.v.05	close.v.01	forge.v.01	hit.v.02	hit.v.03	hit.v.05	injure.v.01	jab.v.01	move.v.03
-qëlloj	VERB	hit.v.02	injure.v.01
+bërthamë	VERB	shoot.v.01
+goditje	VERB	affect.v.05	beat.v.05	beat.v.15	bump.v.01	forge.v.01	hit.v.02	hit.v.03	hit.v.05	jab.v.01	shoot.v.01	slam.v.01
+qëlloj	VERB	hit.v.02	shoot.v.01
 pozicionoj	VERB	deploy.v.01	fasten.v.01
 luaj	VERB	act.v.03	play.v.15
 objektiv	VERB	target.v.01
@@ -5308,26 +5308,26 @@ mallra	VERB	consume.v.03
 shpenzoj	VERB	consume.v.03	spend.v.02
 shpërdoroj	VERB	consume.v.03
 përdor	VERB	manipulate.v.02	put_on.v.07	use.v.02	use.v.03
-humbje	VERB	take_down.v.02	use.v.01
-shpenzim	VERB	spend.v.02	use.v.01
+humbje	VERB	take_down.v.02	waste.v.02
+shpenzim	VERB	blow.v.09	waste.v.02
 shfrytëzoj	VERB	exploit.v.01
-burim_i_pashtershme	VERB	exploit.v.02
-minierë	VERB	exploit.v.02
+burim_i_pashtershme	VERB	mine.v.01
+minierë	VERB	mine.v.01
 kontakt	VERB	exploit.v.02
 përdore	VERB	exploit.v.02
 zakon	VERB	use.v.02
 ha	VERB	eat.v.02
-ushqim	VERB	eat.v.01	feed.v.06	provide.v.02
+ushqim	VERB	eat.v.01	feed.v.06	feed.v.07
 thithje	VERB	suck.v.01
 pi	VERB	drink.v.01
 pije	VERB	drink.v.01	drink.v.02
-gllënjka	VERB	drink.v.01
+gllënjka	VERB	sip.v.01
 deh	VERB	drink.v.02
 pije_alkoolike	VERB	drink.v.02
 pjese	VERB	nibble.v.03
 zgjedhje	VERB	elect.v.01	nibble.v.03	pick.v.02
 ushqim_per_kafshët	VERB	feed.v.06
-furnizim	VERB	supply.v.01
+furnizim	VERB	feed.v.03	supply.v.01
 ndihme	VERB	serve.v.05
 sherbej	VERB	serve.v.05	suffice.v.01
 parandaloj	VERB	prevent.v.02	provide.v.02
@@ -5338,15 +5338,15 @@ dëshirë	VERB	crave.v.01	wish.v.01
 dëshirë_e_ethshme	VERB	crave.v.01
 dëshirë_e_forte	VERB	crave.v.01
 vdes_nga_dëshira	VERB	crave.v.01
-mungesë	VERB	desire.v.01	miss.v.06	want.v.02
+mungesë	VERB	miss.v.02	miss.v.06	want.v.02
 nevoje	VERB	need.v.03	want.v.02
-pëlqej	VERB	like.v.05	use.v.01	wish.v.02
-shijoj	VERB	use.v.01
-jam_ne_gjendje	VERB	spend.v.02
-e_majme	VERB	change.v.01
-e_shëndosh	VERB	change.v.01
-fryhem	VERB	change.v.01
-pelltum	VERB	change.v.01
+pëlqej	VERB	enjoy.v.02	like.v.05	wish.v.02
+shijoj	VERB	enjoy.v.02
+jam_ne_gjendje	VERB	afford.v.01
+e_majme	VERB	fatten.v.01
+e_shëndosh	VERB	fatten.v.01
+fryhem	VERB	fatten.v.01
+pelltum	VERB	fatten.v.01
 kampion	VERB	sample.v.01
 prove	VERB	sample.v.01
 shije	VERB	sample.v.01
@@ -5358,9 +5358,9 @@ tymosje	VERB	smoke.v.01
 mbllaçit	VERB	chew.v.01
 ngjeshje	VERB	chew.v.01	coerce.v.01	compress.v.02
 përtypje	VERB	chew.v.01
-gëlltitje	VERB	consume.v.02
+gëlltitje	VERB	swallow.v.01
 komunikim	VERB	touch.v.05
-lidhje	VERB	join.v.01	restrain.v.03	touch.v.05
+lidhje	VERB	join.v.01	tie_down.v.01	touch.v.05
 prekje	VERB	touch.v.05
 kuvertë	VERB	cover.v.02
 mbulesë	VERB	cover.v.01	cover.v.02
@@ -5371,7 +5371,7 @@ manipuloj	VERB	manipulate.v.02
 drejtim	VERB	conduct.v.01	guide.v.05	lead.v.01	run.v.06	steer.v.01
 kalim	VERB	elapse.v.01	guide.v.05	pass.v.01	pass.v.07	transfer.v.02	transfer.v.05
 lëviz	VERB	continue.v.01	guide.v.05
-kapje	VERB	attach.v.01	catch.v.04	get.v.11	grip.v.01	perceive.v.01	seize.v.01
+kapje	VERB	catch.v.02	catch.v.04	get.v.11	grip.v.01	hitch.v.01	seize.v.01
 shtrëngim	VERB	pinch.v.01	seize.v.01
 rrëmbim	VERB	seize.v.02
 ndalim	VERB	collar.v.01
@@ -5381,10 +5381,10 @@ kapem	VERB	cling.v.01
 kapem_pas	VERB	cling.v.01
 mbështetem	VERB	cling.v.01
 qepem	VERB	cling.v.01
-gërshetim	VERB	turn.v.01	writhe.v.01
-përdredhje	VERB	turn.v.01	writhe.v.01
-dredhje	VERB	turn.v.01
-valëvitje	VERB	brandish.v.01	float.v.01	turn.v.01
+gërshetim	VERB	twist.v.03	writhe.v.01
+përdredhje	VERB	twist.v.03	writhe.v.01
+dredhje	VERB	curl.v.04
+valëvitje	VERB	brandish.v.01	curl.v.04	waft.v.01
 zotëroj	VERB	have.v.01	hold.v.11	own.v.01	possess.v.01	receive.v.01	undergo.v.01	wield.v.02
 funksionoj	VERB	operate.v.03
 ledhatoj	VERB	stroke.v.01
@@ -5393,33 +5393,33 @@ ledhatim	VERB	caress.v.01
 depërtoj	VERB	penetrate.v.01
 përshkoj	VERB	cover.v.03	penetrate.v.01	trace.v.02
 ngacmim	VERB	jab.v.01
-nxit	VERB	affect.v.05	fetch.v.02	jab.v.01	promote.v.01	propel.v.01	stimulate.v.03
+nxit	VERB	affect.v.05	arouse.v.07	fetch.v.02	jab.v.01	promote.v.01	propel.v.01	stimulate.v.03
 shpoj	VERB	jab.v.01	punch.v.03
-cekje	VERB	strike.v.01
-përkëdhelje	VERB	strike.v.01
+cekje	VERB	dab.v.02
+përkëdhelje	VERB	dab.v.02
 qëndisje	VERB	knead.v.01
-gjuajtje	VERB	hit.v.01	hit.v.02	move.v.03	propel.v.01
+gjuajtje	VERB	hit.v.01	hit.v.02	kick.v.01	kick.v.02
 ndeshem_me	VERB	hit.v.02
 përplas	VERB	hit.v.02
-përplasje	VERB	damage.v.01	hit.v.02	move.v.02
-përplasja	VERB	close.v.01
-fshi	VERB	clean.v.01	wipe.v.01
-gjurmë	VERB	chase.v.01	search.v.01	sign.v.06	trace.v.02
-kërkim	VERB	look.v.01	search.v.01	search.v.04
+përplasje	VERB	bang_up.v.01	beat.v.08	bump.v.01
+përplasja	VERB	slam.v.01
+fshi	VERB	brush.v.03	sweep.v.06	wipe.v.01
+gjurmë	VERB	chase.v.01	dredge.v.02	sign.v.06	trace.v.02
+kërkim	VERB	dredge.v.02	look.v.01	search.v.01	search.v.04
 i_lëmuar	VERB	polish.v.01	smooth.v.01
 i_sheshtë	VERB	polish.v.01
-lustër	VERB	cover.v.01	polish.v.01
+lustër	VERB	polish.v.01	whitewash.v.02
 shkëlqim	VERB	polish.v.01
 fërkim	VERB	rub.v.01	rub.v.03
-gërricje	VERB	rub.v.01	touch.v.05
-grindëm	VERB	touch.v.05
-irritohem	VERB	touch.v.05
-vështirësi	VERB	touch.v.05
-çrregullim	VERB	shape.v.02	upset.v.02
-vegël_për_përkulje_hekuri	VERB	shape.v.02
+gërricje	VERB	rub.v.02	scrape.v.01
+grindëm	VERB	rub.v.02
+irritohem	VERB	rub.v.02
+vështirësi	VERB	rub.v.02
+çrregullim	VERB	swage.v.01	upset.v.02
+vegël_për_përkulje_hekuri	VERB	swage.v.01
 hedh_poshtë_me_goditje	VERB	fell.v.01
-cifël	VERB	cut.v.01
-copëtim_gurrësh	VERB	cut.v.01
+cifël	VERB	chip.v.05
+copëtim_gurrësh	VERB	chip.v.05
 nisem_para	VERB	chip.v.01
 shtresë	VERB	coat.v.01
 sipërfaqe	VERB	coat.v.01
@@ -5427,28 +5427,28 @@ fasadë	VERB	face.v.09
 brazdë	VERB	furrow.v.03
 e_prere	VERB	furrow.v.03
 kanal	VERB	furrow.v.03	transmit.v.04
-rrudhë	VERB	fold.v.01
-zhubër	VERB	fold.v.01
-zhubros	VERB	fold.v.01
-i_dredhur	VERB	fold.v.01
-kaçurrel	VERB	fold.v.01
-ambalazh	VERB	cover.v.01
-mbështjell	VERB	cover.v.01
-mbaj_lidhur	VERB	restrain.v.03
-ngjitem_pas	VERB	restrain.v.03
+rrudhë	VERB	furrow.v.02	wrinkle.v.02
+zhubër	VERB	furrow.v.02	wrinkle.v.02
+zhubros	VERB	furrow.v.02	wrinkle.v.02
+i_dredhur	VERB	wrinkle.v.02
+kaçurrel	VERB	wrinkle.v.02
+ambalazh	VERB	wrap.v.01
+mbështjell	VERB	wrap.v.01
+mbaj_lidhur	VERB	tie_down.v.01
+ngjitem_pas	VERB	tie_down.v.01
 bashkohen	VERB	join.v.04
 lidhen	VERB	join.v.04
-fashë	VERB	attach.v.01
-rrip	VERB	attach.v.01
+fashë	VERB	ring.v.06
+rrip	VERB	ring.v.06
 ia_dal	VERB	detach.v.03	succeed.v.01
 shkëput	VERB	detach.v.03
-fjongo	VERB	tie.v.01
-nyje	VERB	tie.v.01
+fjongo	VERB	knot.v.02
+nyje	VERB	knot.v.02
 mbajtje	VERB	hold.v.03	restrain.v.03
 lidh_me_fashë	VERB	bind.v.04
-rrafshinë	VERB	change_surface.v.01
-ve_në_një_nivel	VERB	change_surface.v.01
-gërvishtje	VERB	rub.v.01	rub.v.03
+rrafshinë	VERB	flush.v.04
+ve_në_një_nivel	VERB	flush.v.04
+gërvishtje	VERB	rub.v.03	scrape.v.01
 gërvin	VERB	scratch.v.02
 gërvishje	VERB	scratch.v.02
 zdërvitje	VERB	scratch.v.02
@@ -5463,7 +5463,7 @@ vrasje	VERB	kill.v.01	murder.v.01
 asgjesësoj	VERB	neutralize.v.04
 asnjanësi	VERB	neutralize.v.04
 neutralizoj	VERB	neutralize.v.04
-mos_kapje	VERB	undo.v.01
+mos_kapje	VERB	unhitch.v.01
 bashkangjit	VERB	append.v.01
 ndajshtesë	VERB	append.v.01
 shtojcë	VERB	append.v.01
@@ -5474,35 +5474,35 @@ bashkon	VERB	glue.v.01
 ngjit	VERB	adhere.v.06	bind.v.02	glue.v.01
 i_fiksuar_mirë	VERB	fasten.v.01
 vend_i_mbyllur	VERB	close.v.01
-hapje	VERB	be.v.03	open.v.01
-hap	VERB	open.v.03	shape.v.03	throw.v.06	uncover.v.01
+hapje	VERB	open.v.01	stretch.v.01
+hap	VERB	open.v.03	roll_out.v.01	switch_on.v.01	uncover.v.01
 zhbllokoj	VERB	open.v.03
 i_mbyllur	VERB	close.v.02
-bravë	VERB	fasten.v.01
-kyç	VERB	engage.v.10	fasten.v.01
-zhvidhos	VERB	loosen.v.01
+bravë	VERB	lock.v.01
+kyç	VERB	engage.v.10	lock.v.01
+zhvidhos	VERB	unscrew.v.01
 stakoj	VERB	disconnect.v.02
 ngjitem	VERB	adhere.v.06	approach.v.01	arise.v.03	climb.v.01	surface.v.01
-gozhdë	VERB	attach.v.01
+gozhdë	VERB	nail.v.01
 bojë	VERB	paint.v.02
 lyej	VERB	paint.v.02
-ngjyrë	VERB	decorate.v.01	paint.v.02
-shkopsit	VERB	undo.v.01
-dështim	VERB	destroy.v.02
-shkatërrim	VERB	destroy.v.02
+ngjyrë	VERB	color.v.04	paint.v.02
+shkopsit	VERB	unbutton.v.01
+dështim	VERB	break.v.04
+shkatërrim	VERB	break.v.04
 shkelm	VERB	kick.v.03
-llokoçit	VERB	scatter.v.03
-spërkat	VERB	scatter.v.03
-spërkë	VERB	scatter.v.03
+llokoçit	VERB	spatter.v.01
+spërkat	VERB	spatter.v.01
+spërkë	VERB	spatter.v.01
 përndaj	VERB	circulate.v.03	scatter.v.03
-përhapje	VERB	circulate.v.03	spread.v.01	unfold.v.04
+përhapje	VERB	spread.v.01	spread.v.07	unfold.v.04
 hambar	VERB	gather.v.01
 limoj	VERB	file.v.02
 kompakt	VERB	compress.v.02
 ngjesh	VERB	compress.v.02
 shtypje	VERB	compress.v.02	press.v.01
 tkurr	VERB	compress.v.02
-rul	VERB	shape.v.03
+rul	VERB	roll_out.v.01
 lë_mënjanë	VERB	save.v.02	wipe.v.01
 kërcëlloj	VERB	grate.v.04
 kërkëllim	VERB	grate.v.04
@@ -5534,17 +5534,17 @@ make_out	VERB	sleep_together.v.01
 roll_in_the_hay	VERB	sleep_together.v.01
 screw	VERB	sleep_together.v.01
 sleep_with	VERB	sleep_together.v.01
-çift	VERB	copulate.v.01	function.v.01
+çift	VERB	copulate.v.01	double.v.04
 çiftohem	VERB	copulate.v.01
 çiftoj	VERB	copulate.v.01
 ndihmës	VERB	copulate.v.01
-mban	VERB	bear.v.11	have.v.02	produce.v.02
-hibrid	VERB	produce.v.02
-hibridizim	VERB	produce.v.02
-kryqëzoj	VERB	fold.v.01	produce.v.02
-shartim	VERB	produce.v.02
-gudulisje	VERB	caress.v.01
-klikosje	VERB	caress.v.01
+mban	VERB	bear.v.11	breed.v.03	have.v.02
+hibrid	VERB	crossbreed.v.01
+hibridizim	VERB	crossbreed.v.01
+kryqëzoj	VERB	cross.v.04	crossbreed.v.01
+shartim	VERB	crossbreed.v.01
+gudulisje	VERB	tickle.v.03
+klikosje	VERB	tickle.v.03
 transferim	VERB	trade.v.04	transmit.v.04
 transportim	VERB	transmit.v.04
 furnizoj	VERB	deliver.v.02	equip.v.01	run.v.06
@@ -5558,19 +5558,19 @@ mbërthej_me_dhëmbë	VERB	bite.v.01
 valë	VERB	brandish.v.01
 vringëlloj	VERB	brandish.v.01
 bëj_me_forcë	VERB	pull.v.01
-tërheqje	VERB	necessitate.v.01	pull.v.01
+tërheqje	VERB	draw.v.22	pull.v.01
 transportoj	VERB	transport.v.01	transport.v.02	transport.v.04
 zhvendos	VERB	transport.v.02
-fluturim	VERB	fly.v.01	fly.v.03	surface.v.01	transport.v.02	travel.v.05
+fluturim	VERB	fly.v.01	fly.v.03	fly.v.04	fly.v.09	surface.v.01
 kafshim	VERB	pinch.v.01
-pickim	VERB	hurt.v.06	pinch.v.01
+pickim	VERB	pinch.v.01	prick.v.02
 sëmbim	VERB	pinch.v.01
 thumbim	VERB	pinch.v.01
 bashkim	VERB	compound.v.05
-përzjerje	VERB	compound.v.05	mix.v.05
+përzjerje	VERB	blend.v.01	compound.v.05
 shkrijë_së_bashku	VERB	mix.v.05
 unifikoj	VERB	mix.v.05
-përzihem	VERB	mix.v.05
+përzihem	VERB	blend.v.01
 organizim	VERB	arrange.v.01
 anë	VERB	surround.v.01
 skaj	VERB	surround.v.01
@@ -5578,89 +5578,89 @@ dëboj	VERB	eject.v.01
 ftoj_brenda	VERB	invite.v.06
 merr	VERB	commandeer.v.01
 sekuestroj	VERB	commandeer.v.01
-lë_pezull	VERB	hang.v.02
-mënjanoj	VERB	hang.v.02
+lë_pezull	VERB	suspend.v.01
+mënjanoj	VERB	suspend.v.01
 var	VERB	hang.v.02
-lëkundje	VERB	fasten.v.01	move.v.02	resonate.v.01	rock.v.01	shake.v.01	stagger.v.01
+lëkundje	VERB	hang.v.14	resonate.v.01	rock.v.01	shake.v.01	stagger.v.01	swing.v.01
 paketoj	VERB	pack.v.01
-nxjerr_përjashta	VERB	remove.v.01
-shpaketoj	VERB	remove.v.01
-barrë	VERB	change.v.01
-fundos	VERB	change.v.01
-ngarkesë	VERB	change.v.01	load.v.02
+nxjerr_përjashta	VERB	unpack.v.01
+shpaketoj	VERB	unpack.v.01
+barrë	VERB	burden.v.01
+fundos	VERB	burden.v.01
+ngarkesë	VERB	burden.v.01	charge.v.08	load.v.02
 i_ngarkuar	VERB	load.v.01
 ngarkoj	VERB	levy.v.01	load.v.01
-park	VERB	put.v.01
-sistemohem	VERB	put.v.01
-strehohem	VERB	put.v.01	shelter.v.01
+park	VERB	park.v.01
+sistemohem	VERB	ensconce.v.01
+strehohem	VERB	ensconce.v.01	shelter.v.01
 vë	VERB	invest.v.01	put.v.01
 shenjë	VERB	sign.v.06
 tabelë	VERB	sign.v.06
-krijoj	VERB	constitute.v.01	construct.v.01	create.v.05	establish.v.02	produce.v.03	sow.v.01	transact.v.01
+krijoj	VERB	compose.v.01	construct.v.01	create.v.05	establish.v.02	produce.v.03	sow.v.01	transact.v.01
 mbjell	VERB	plant.v.01	sow.v.01
-shushurimë	VERB	sound.v.02	sow.v.01
+shushurimë	VERB	rustle.v.01	sow.v.01
 hedhje	VERB	discard.v.01	drop.v.02	shed.v.01	throw.v.01
 çokë	VERB	throw.v.06
 flak	VERB	throw.v.06
-ndez	VERB	stimulate.v.03	throw.v.06
+ndez	VERB	arouse.v.07	switch_on.v.01
 fik	VERB	switch_off.v.01
 angazhoj	VERB	engage.v.10
 kurth	VERB	engage.v.10
 shty	VERB	propel.v.01
 flakje	VERB	discard.v.01	shed.v.01
 shkund	VERB	shake.v.01	shed.v.01
-dyshe	VERB	function.v.01
-punë	VERB	function.v.01
+dyshe	VERB	double.v.04
+punë	VERB	function.v.01	roll.v.07
 punoj	VERB	function.v.01	work.v.02	work.v.05
-degë	VERB	fasten.v.01
-depozitë	VERB	fasten.v.01
-depozitoj	VERB	fasten.v.01
+degë	VERB	lodge.v.02
+depozitë	VERB	lodge.v.02
+depozitoj	VERB	lodge.v.02
 pastrim	VERB	clean.v.01
 fëlliq	VERB	dirty.v.01
 ndyj	VERB	dirty.v.01
 zhul	VERB	dirty.v.01
 lahet	VERB	wash.v.03
 shpëlarje	VERB	rinse.v.01
-thithin	VERB	receive.v.01
-rri_ulur	VERB	put.v.01	sit.v.01
+thithin	VERB	take_in.v.12
+rri_ulur	VERB	seat.v.01	sit.v.01
 ulem	VERB	descend.v.01	lay.v.02	sink.v.04	sit.v.01
-ndenjëse	VERB	put.v.01
-qëndroj_ulur	VERB	put.v.01
+ndenjëse	VERB	seat.v.01
+qëndroj_ulur	VERB	seat.v.01
 pozicion	VERB	lay.v.02	position.v.01
 palëvizshmëri	VERB	rest.v.01
-ngrihem	VERB	rest.v.01
-rri_në_këmbë	VERB	put.v.01	rest.v.01
-pozicion_vertikal	VERB	put.v.01
-qëndrim	VERB	be.v.01	put.v.01
+ngrihem	VERB	stand.v.01
+rri_në_këmbë	VERB	stand.v.01	stand.v.10
+pozicion_vertikal	VERB	stand.v.10
+qëndrim	VERB	stand.v.02	stand.v.10
 gdhend	VERB	enroll.v.01	incise.v.01
 përçaj	VERB	separate.v.02
 shkëputem	VERB	escape.v.01	separate.v.02	separate.v.08	separate.v.09
 pjesë	VERB	partake.v.02	separate.v.12	share.v.02
 veç	VERB	separate.v.12
-sharrë	VERB	cut.v.01
+sharrë	VERB	saw.v.01
 asgjesoj	VERB	destroy.v.02
-aksident	VERB	damage.v.01
-mbuloj	VERB	cover.v.01	pay.v.01
-asfiksoj	VERB	kill.v.01
-mbyt	VERB	kill.v.01
+aksident	VERB	bang_up.v.01
+mbuloj	VERB	defray.v.01	smother.v.01
+asfiksoj	VERB	smother.v.02
+mbyt	VERB	smother.v.02	strangle.v.01
 instaloj	VERB	install.v.01
-zë_frymën	VERB	kill.v.01
-i_pres_kokën	VERB	kill.v.01
+zë_frymën	VERB	strangle.v.01
+i_pres_kokën	VERB	decapitate.v.01
 gërrisje	VERB	tear.v.01
 grisje	VERB	tear.v.01
-shpalos	VERB	change_shape.v.01	unfold.v.04
-shpërndahem	VERB	diffuse.v.01	separate.v.09	unfold.v.04
+shpalos	VERB	unfold.v.03	unfold.v.04
+shpërndahem	VERB	diffuse.v.01	disperse.v.04	unfold.v.04
 konturë	VERB	trace.v.02
 përvijoj	VERB	trace.v.02
 vizatoj	VERB	trace.v.02
-ndjekje	VERB	chase.v.01	cut.v.01
+ndjekje	VERB	chase.v.01	chase.v.03
 mbyll_brenda	VERB	enclose.v.03
 emërtim	VERB	tag.v.01
 etiketë	VERB	tag.v.01
 tregues	VERB	tag.v.01
 mbajtëse	VERB	hold.v.14
 mbart	VERB	hold.v.11	hold.v.14	transport.v.04
-gërvisht	VERB	injure.v.01
+gërvisht	VERB	graze.v.02
 krijim	VERB	create.v.03	make.v.03
 çlodhem	VERB	re-create.v.01
 create_by_mental_act	VERB	create_by_mental_act.v.01
@@ -5681,15 +5681,15 @@ themeloj	VERB	effect.v.01	establish.v.02
 bëj_realitet	VERB	realize.v.03
 arsyeje	VERB	cause.v.01
 shkak	VERB	cause.v.01
-nxitje	VERB	dare.v.02	make.v.08
-shtysë	VERB	make.v.08
+nxitje	VERB	dare.v.02	drive.v.07
+shtysë	VERB	drive.v.07
 fillim	VERB	start.v.06
 nisje	VERB	depart.v.03	dispatch.v.01	start.v.06
 marr_shërbimin	VERB	bear.v.05
 prodhim_nga_lënda_e_parë	VERB	create_from_raw_material.v.01
-falsifikim	VERB	re-create.v.01
-falsifikoj	VERB	re-create.v.01
-mashtrim	VERB	re-create.v.01
+falsifikim	VERB	forge.v.02
+falsifikoj	VERB	forge.v.02
+mashtrim	VERB	forge.v.02
 hartoj	VERB	construct.v.01
 formë	VERB	cast.v.07	model.v.02	shape.v.02
 kallëp	VERB	shape.v.02
@@ -5703,45 +5703,45 @@ vizatim	VERB	draw.v.06
 shënim	VERB	write.v.07
 shkrim	VERB	write.v.07
 kopje	VERB	copy.v.04
-nuancë	VERB	decorate.v.01
-pikturoj_me_ngjyra_të_ndezura	VERB	decorate.v.01
+nuancë	VERB	color.v.04
+pikturoj_me_ngjyra_të_ndezura	VERB	color.v.04
 krijoj_gojarisht	VERB	create_verbally.v.01
 aftësi_për_të_shkruar	VERB	write.v.01
 kompozoj	VERB	write.v.01
-vallëzim	VERB	dance.v.02	move.v.03
-bëj_sikur	VERB	dissemble.v.03
-pretendoj	VERB	dissemble.v.03
-trilloj	VERB	dissemble.v.03
+vallëzim	VERB	dance.v.01	dance.v.02
+bëj_sikur	VERB	simulate.v.03
+pretendoj	VERB	simulate.v.03
+trilloj	VERB	simulate.v.03
 bëj_prova	VERB	rehearse.v.01
 praktikoj	VERB	practice.v.01	rehearse.v.01
-bëhem_si	VERB	act.v.03
-interpreton	VERB	act.v.03
+bëhem_si	VERB	impersonate.v.01
+interpreton	VERB	impersonate.v.01
 luan	VERB	play.v.03
-improvizoj	VERB	perform.v.01
+improvizoj	VERB	improvise.v.01
 bëj_kopje	VERB	reproduce.v.01
 riprodhoj	VERB	reproduce.v.01
-kopjoj	VERB	imitate.v.01	write.v.07
-joshje	VERB	arouse.v.01
+kopjoj	VERB	copy.v.01	imitate.v.01
+joshje	VERB	draw.v.10
 ngacmoj	VERB	harass.v.01	stimulate.v.03
 qetësohem	VERB	calm.v.03	sink.v.05
-gurgullon	VERB	seethe.v.02	sound.v.02
+gurgullon	VERB	ripple.v.02	seethe.v.02
 vlon	VERB	seethe.v.02
 ngulit	VERB	affect.v.05
 çrregulloj	VERB	disturb.v.01
 ndjenja	VERB	feel.v.01
 përvojë	VERB	feel.v.01	undergo.v.01
-fsheh	VERB	disguise.v.01	harbor.v.01	hide.v.01
+fsheh	VERB	bury.v.01	dissemble.v.02	harbor.v.01	hide.v.01
 frikësoj	VERB	frighten.v.01
 lemeri	VERB	frighten.v.01
 panik	VERB	frighten.v.01
 trembje	VERB	frighten.v.01
-tejkaloj	VERB	break.v.09	travel.v.01
+tejkaloj	VERB	break.v.09	travel_by.v.01
 zemërim	VERB	anger.v.01
-inatos	VERB	anger.v.01
-xhindos	VERB	anger.v.01
-zemëroj	VERB	anger.v.01
-inat	VERB	feel.v.01
-inatosem	VERB	feel.v.01
+inatos	VERB	infuriate.v.01
+xhindos	VERB	infuriate.v.01
+zemëroj	VERB	infuriate.v.01
+inat	VERB	anger.v.02
+inatosem	VERB	anger.v.02
 debat	VERB	harass.v.01
 gjuaj	VERB	harass.v.01
 mërzit	VERB	harass.v.01
@@ -5751,7 +5751,7 @@ provokoj	VERB	harass.v.01	tempt.v.03
 hutoj	VERB	upset.v.02
 konfuz	VERB	confuse.v.03
 shqetësim	VERB	confuse.v.03
-dhembje	VERB	hanker.v.01	pain.v.02
+dhembje	VERB	ache.v.02	pain.v.02
 cënim	VERB	hurt.v.05
 cenoj	VERB	hurt.v.05
 vuaj	VERB	hurt.v.06	suffer.v.03
@@ -5769,12 +5769,12 @@ pasqyrim_emocionesh	VERB	express_emotion.v.01
 pasqyrim_ndjenjash	VERB	express_emotion.v.01
 mundim	VERB	torment.v.01
 torturoj	VERB	torment.v.01
-dëshirë_e_madhe	VERB	desire.v.01	hanker.v.01
-dobësi	VERB	hanker.v.01
-kam_mall	VERB	hanker.v.01
+dëshirë_e_madhe	VERB	ache.v.02	desire.v.01
+dobësi	VERB	ache.v.02
+kam_mall	VERB	ache.v.02
 mbizotëroj	VERB	overwhelm.v.01
-besim	VERB	desire.v.01	entrust.v.01
-shprese	VERB	desire.v.01
+besim	VERB	entrust.v.01	hope.v.02
+shprese	VERB	hope.v.02
 frymëzim	VERB	elate.v.01
 ngazëllej	VERB	elate.v.01
 ngre_moralin	VERB	elate.v.01
@@ -5787,14 +5787,14 @@ hare	VERB	rejoice.v.01
 interesim	VERB	interest.v.01
 paracaktoj	VERB	bequeath.v.01	wish.v.01
 dua	VERB	wish.v.02
-digjem	VERB	feel.v.01	hanker.v.01
+digjem	VERB	burn.v.06	hanker.v.01
 dua_shumë	VERB	hanker.v.01
 jam_i_etur	VERB	hanker.v.01
 ndryshim_vendi	VERB	move.v.03
 largohesh	VERB	travel.v.01
 udhëtim	VERB	roll.v.12	travel.v.01	travel.v.02	travel.v.03	travel.v.05
 zhvendosje	VERB	move.v.02	travel.v.01
-largim	VERB	leave.v.01	leave.v.08
+largim	VERB	go_out.v.02	leave.v.08
 eskursion	VERB	travel.v.03
 shëtitje	VERB	ride.v.01	stroll.v.01	travel.v.02	travel.v.03
 udhëtoj	VERB	travel.v.04
@@ -5804,62 +5804,62 @@ rrotull	VERB	roll.v.14
 rrotullohem	VERB	overturn.v.02	revolve.v.01	roll.v.14	skid.v.04
 kacafytje	VERB	writhe.v.01
 përpëlitje	VERB	writhe.v.01
-lëvizje_e_ngadaltë	VERB	move.v.03
-lëvizje_e_pandërprerë	VERB	move.v.03
-cek	VERB	move.v.03
+lëvizje_e_ngadaltë	VERB	sweep.v.02
+lëvizje_e_pandërprerë	VERB	sweep.v.02
+cek	VERB	brush.v.04
 detyroj	VERB	coerce.v.01	compel.v.01	push.v.01
 shtytje	VERB	promote.v.01	push.v.01
 lëviz_para_mbrapa	VERB	move_back_and_forth.v.01
-pulsë	VERB	beat.v.04
-pulsim	VERB	beat.v.04
-rreh	VERB	beat.v.04
+pulsë	VERB	pulsate.v.01
+pulsim	VERB	pulsate.v.01
+rreh	VERB	beat.v.04	pulsate.v.01
 goditje_e_fortë	VERB	beat.v.04
-rrah	VERB	beat.v.04	move.v.02
+rrah	VERB	beat.v.04	beat.v.08
 arrakat	VERB	roll.v.12
 bredh	VERB	roll.v.12
 bredharak	VERB	roll.v.12
 endje	VERB	roll.v.12	weave.v.04
 përçartje	VERB	roll.v.12
 endem	VERB	weave.v.04
-erë	VERB	smell.v.02	weave.v.04
+erë	VERB	smell.v.03	weave.v.04
 gjarpërim	VERB	weave.v.04
 lëviz_ngadalë	VERB	crawl.v.01
-zvarritje	VERB	crawl.v.01	walk.v.01
+zvarritje	VERB	crawl.v.01	sneak.v.01
 rrëshqas	VERB	slither.v.01
 mbështjellë	VERB	wheel.v.03
 rrokullis	VERB	wheel.v.03
 rrotë	VERB	wheel.v.03
 zbritje_e_ëmbël	VERB	glide.v.01
-iki_vjedhurazi	VERB	steal.v.02	walk.v.01
-dridhmë	VERB	tremble.v.01
-rrahje	VERB	move.v.03	tremble.v.01
+iki_vjedhurazi	VERB	sneak.v.01	steal.v.02
+dridhmë	VERB	shudder.v.02
+rrahje	VERB	beat.v.15	shudder.v.02
 shtyrje	VERB	thrust.v.01
 i_dallgëzuar	VERB	roll.v.11
 i_valëzuar	VERB	roll.v.11
 rulon	VERB	roll.v.11
-lëvizje_e_shpejtë	VERB	dart.v.02	run.v.01
-vrap	VERB	pass.v.01	run.v.01
+lëvizje_e_shpejtë	VERB	dart.v.02	scurry.v.01
+vrap	VERB	run.v.29	scurry.v.01
 mbiujës	VERB	float.v.01	float.v.02
 pluskues	VERB	float.v.01	float.v.02
-ecje	VERB	travel.v.01	walk.v.01
-kthesë	VERB	be.v.01	bend.v.01	turn.v.01
-faqe	VERB	turn.v.01
+ecje	VERB	step.v.02	walk.v.01
+kthesë	VERB	bend.v.01	bend.v.02	turn.v.01	wind.v.02
+faqe	VERB	face.v.05
 kthej_faqe	VERB	overturn.v.01
 që_përmbyset	VERB	overturn.v.02
-ci_pa_u_ndier	VERB	walk.v.01
-eci_ngadalë	VERB	walk.v.01
+ci_pa_u_ndier	VERB	sneak.v.01
+eci_ngadalë	VERB	sneak.v.01
 bie_përmes	VERB	traverse.v.01
 kaloj_nëpër	VERB	traverse.v.01
 kapërcim	VERB	traverse.v.01
 pengesë	VERB	hitchhike.v.01	traverse.v.01
 shteg	VERB	traverse.v.01
-çaj_përmes	VERB	walk.v.01
+çaj_përmes	VERB	wade.v.01
 kapardisje	VERB	tittup.v.01
 kokosh	VERB	tittup.v.01
 krekosje	VERB	tittup.v.01
-çalim	VERB	walk.v.01
-çapitje	VERB	walk.v.01
-ecje_çalë_çalë	VERB	walk.v.01
+çalim	VERB	limp.v.01
+çapitje	VERB	limp.v.01
+ecje_çalë_çalë	VERB	limp.v.01
 bredhje	VERB	stroll.v.01
 ecje_në_këmbë	VERB	hike.v.02
 marshim	VERB	hike.v.02
@@ -5877,8 +5877,8 @@ parkim	VERB	park.v.02
 biçikletë	VERB	bicycle.v.01
 motoçikletë	VERB	bicycle.v.01
 pedalon	VERB	bicycle.v.01
-metro	VERB	ride.v.02
-tren	VERB	ride.v.02
+metro	VERB	train.v.10
+tren	VERB	train.v.10
 ski	VERB	ski.v.01
 krah	VERB	fly.v.01
 fluturoj_me_avion	VERB	fly.v.03
@@ -5886,10 +5886,10 @@ pilotoj	VERB	fly.v.03
 dërgim	VERB	dispatch.v.01
 ngas	VERB	ride.v.02
 autostop	VERB	hitchhike.v.01
-heq_nga_kali	VERB	descend.v.01
-zbres_nga	VERB	descend.v.01
+heq_nga_kali	VERB	unhorse.v.01
+zbres_nga	VERB	unhorse.v.01
 notoj	VERB	swim.v.01
-vrullshëm	VERB	jump.v.01
+vrullshëm	VERB	burst.v.04
 e_përpjetë	VERB	rise.v.01
 lartësi	VERB	rise.v.01
 lartësohem	VERB	arise.v.03	rise.v.01
@@ -5899,13 +5899,13 @@ zbritje	VERB	descend.v.01
 gradoj	VERB	promote.v.02	raise.v.02
 çohem	VERB	arise.v.03
 ndryshim_sjellje	VERB	change_posture.v.01
-fundosje	VERB	move.v.02
+fundosje	VERB	sink.v.02
 gjendje	VERB	position.v.01
 fundosem	VERB	sink.v.04
 mbi_tokë	VERB	surface.v.01
 avancim	VERB	advance.v.01
 çoj_përpara	VERB	advance.v.01
-lëvizje_përpara	VERB	move.v.02
+lëvizje_përpara	VERB	advance.v.05
 eci_përpara	VERB	proceed.v.02
 vijoj	VERB	proceed.v.02	stay.v.04
 rrjedhë	VERB	march.v.01	run.v.06
@@ -5926,18 +5926,18 @@ ikje	VERB	exit.v.01
 shkoj_përpara	VERB	reach.v.01
 sukses	VERB	reach.v.01
 vij_në	VERB	reach.v.01
-mblidhemi_bashkë	VERB	meet.v.07
+mblidhemi_bashkë	VERB	congregate.v.01
 grumbullohen	VERB	crowd.v.03
 mblidhen	VERB	crowd.v.03
 bie_me_rrëmbim	VERB	pour.v.02
 derdhet	VERB	pour.v.02	pour.v.04
-mizëri	VERB	be.v.01	pour.v.02
-hapërdaj	VERB	separate.v.09
+mizëri	VERB	pour.v.02	teem.v.01
+hapërdaj	VERB	disperse.v.04
 ndarje	VERB	separate.v.09
 ndahen	VERB	separate.v.07
-kthehem_nga	VERB	turn.v.01
-ndërroj_drejtim	VERB	turn.v.01
-shmang	VERB	turn.v.01
+kthehem_nga	VERB	deflect.v.02
+ndërroj_drejtim	VERB	deflect.v.02
+shmang	VERB	deflect.v.02
 përkulje	VERB	bend.v.01
 pjerrësi	VERB	lean.v.01	slope.v.01
 shpat	VERB	slope.v.01
@@ -5950,21 +5950,21 @@ thërmohet	VERB	crumble.v.01
 vërtitem	VERB	revolve.v.01
 parakaloj	VERB	pass.v.07
 kaloj_përmes	VERB	pass.v.01
-nuk_vë_re	VERB	travel.v.01
+nuk_vë_re	VERB	travel_by.v.01
 afrim	VERB	approach.v.01
 afrohem	VERB	approach.v.01
 shkoj_afër	VERB	approach.v.01
-shtri	VERB	change_shape.v.01
-zgjat	VERB	be.v.03	change_shape.v.01
+shtri	VERB	unfold.v.03
+zgjat	VERB	reach.v.06	unfold.v.03
 eci_me_shpejtësi	VERB	travel_rapidly.v.01
 eci_me_vrull	VERB	travel_rapidly.v.01
 udhëtim_me_makinë	VERB	drive.v.03
-nervozizëm	VERB	move.v.03
+nervozizëm	VERB	fidget.v.01
 ngut	VERB	rush.v.01
 shkoj_shpejt	VERB	rush.v.01
 vrapim_shpejtësie	VERB	rush.v.01
 vrull	VERB	rush.v.01
-vrapoj	VERB	dart.v.02	flee.v.01	run.v.01	run.v.03
+vrapoj	VERB	dart.v.02	flee.v.01	run.v.03	rush.v.05
 shpërndarje	VERB	diffuse.v.01
 hov	VERB	dart.v.02
 vrapim_me_vrull	VERB	dart.v.02
@@ -5972,11 +5972,11 @@ bie_barkas	VERB	fawn.v.01
 eci_këmbadoras	VERB	fawn.v.01
 strukem	VERB	fawn.v.01
 zvarritem	VERB	fawn.v.01
-derdh	VERB	run.v.06	supply.v.01
+derdh	VERB	pour.v.05	run.v.06
 derdhje	VERB	pour.v.01
 filtrues	VERB	trickle.v.01
 pikoj	VERB	trickle.v.01
-rrjedh	VERB	result.v.01	trickle.v.01
+rrjedh	VERB	be_due.v.01	trickle.v.01
 largohem_pa_rënë_në_sy	VERB	elapse.v.01
 arrati	VERB	escape.v.01	scat.v.01
 arratisem_me_vrull	VERB	scat.v.01
@@ -5986,19 +5986,19 @@ vrapim	VERB	scat.v.01
 marr_arratinë	VERB	flee.v.01
 kthej	VERB	refund.v.01	return.v.05
 zmbrapsje	VERB	return.v.05
-ankorim	VERB	travel.v.01
-mënyrë_të_ecuri	VERB	travel.v.01
+ankorim	VERB	draw.v.12
+mënyrë_të_ecuri	VERB	step.v.02
 rrotullim	VERB	turn.v.09
-gëzon	VERB	experience.v.01
-gjah	VERB	perceive.v.01
-ëndërrim	VERB	perceive.v.01
+gëzon	VERB	enjoy.v.04
+gjah	VERB	catch.v.02
+ëndërrim	VERB	dream.v.02
 kruajre	VERB	rub.v.03
-shpim	VERB	hurt.v.06
-therje	VERB	hurt.v.06
+shpim	VERB	prick.v.02
+therje	VERB	prick.v.02
 nuhas	VERB	smell.v.01	smell.v.02
 arsyeja_e_perceptimit	VERB	cause_to_be_perceived.v.01
-erë_e_keqe	VERB	smell.v.02
-kutërbon	VERB	smell.v.02
+erë_e_keqe	VERB	reek.v.02
+kutërbon	VERB	reek.v.02
 frymëmarrje	VERB	scent.v.02
 marr_erë	VERB	scent.v.02
 nuhatje	VERB	scent.v.02
@@ -6012,10 +6012,10 @@ shfaqem	VERB	look.v.02
 demostrim	VERB	expose.v.03
 ekspozoj	VERB	expose.v.03
 demaskim	VERB	uncover.v.01
-cilësi_karakteristike	VERB	qualify.v.06
+cilësi_karakteristike	VERB	stamp.v.03
 mbaj_të_fshehtë	VERB	hide.v.01
-maskoj	VERB	disguise.v.01
-këqyr_me_kujdes	VERB	examine.v.02
+maskoj	VERB	dissemble.v.02
+këqyr_me_kujdes	VERB	size_up.v.01
 lokalizoj	VERB	descry.v.01
 përgjoj	VERB	descry.v.01
 shquaj	VERB	descry.v.01
@@ -6024,37 +6024,37 @@ mbuluar_me_mjegull	VERB	obscure.v.01
 mjegullirë	VERB	obscure.v.01
 turbullirë	VERB	obscure.v.01
 maskim	VERB	disguise.v.01
-gogësimë	VERB	look.v.01
-guak	VERB	look.v.01
-zgurdulloj	VERB	look.v.01
+gogësimë	VERB	goggle.v.01
+guak	VERB	goggle.v.01
+zgurdulloj	VERB	goggle.v.01
 admiroj	VERB	admire.v.02
 një_shikim_vjedhurazi	VERB	glance.v.01
 shikim_i_shpejtë	VERB	glance.v.01
-angullimë	VERB	make_noise.v.01
-kuis	VERB	make_noise.v.01
+angullimë	VERB	whine.v.03
+kuis	VERB	whine.v.03
 oshëtin	VERB	make_noise.v.01
 tingull	VERB	make_noise.v.01	ring.v.01
-daulle	VERB	sound.v.02
-tambur	VERB	sound.v.02
-ushtimë	VERB	sound.v.02
-tik_tak	VERB	sound.v.02
-tingull_ore	VERB	sound.v.02
+daulle	VERB	drum.v.01
+tambur	VERB	drum.v.01
+ushtimë	VERB	rattle.v.01
+tik_tak	VERB	tick.v.02
+tingull_ore	VERB	tick.v.02
 tingullues	VERB	resonate.v.01
 tingëllim	VERB	sound.v.02
 tingëllon	VERB	sound.v.06
 tingëllim_këmbanash	VERB	ring.v.01
-bëj_bip	VERB	sound.v.02
-bori	VERB	sound.v.02
-e_rënë_borie	VERB	sound.v.02
-jehon	VERB	sound.v.02
-kumbon	VERB	sound.v.02
+bëj_bip	VERB	honk.v.01
+bori	VERB	honk.v.01
+e_rënë_borie	VERB	honk.v.01
+jehon	VERB	resound.v.01
+kumbon	VERB	resound.v.01
 trokitje_e_lehtë	VERB	tap.v.07
 kërcëllonim	VERB	chatter.v.01
-tringëllimë	VERB	sound.v.02
-gurgullimë	VERB	sound.v.02
-gumëzhimë	VERB	sound.v.02
-uturin	VERB	sound.v.02
-zhurmon	VERB	sound.v.02
+tringëllimë	VERB	tinkle.v.01
+gurgullimë	VERB	ripple.v.02
+gumëzhimë	VERB	whizz.v.01
+uturin	VERB	whizz.v.01
+zhurmon	VERB	whizz.v.01
 më_kap_veshi	VERB	catch.v.14
 dhuratë	VERB	give.v.08
 dhurim	VERB	give.v.08
@@ -6074,7 +6074,7 @@ lë_trashëgim	VERB	bequeath.v.01
 kapitulloj	VERB	surrender.v.02
 kontriboj	VERB	contribute.v.02	lend.v.01	put_up.v.08
 angazhohem	VERB	commit.v.03	engage.v.08
-fillestar	VERB	engage.v.08
+fillestar	VERB	recruit.v.02
 shes	VERB	sell.v.01
 gjetje	VERB	find.v.01	recover.v.01
 rifitoj	VERB	find.v.03	recover.v.01
@@ -6086,7 +6086,7 @@ kompesoj	VERB	compensate.v.02
 zhdëmtoj	VERB	compensate.v.02
 pagim	VERB	pay.v.01
 pagesë	VERB	pay_up.v.01
-paguaj	VERB	foot.v.01	pay.v.01	pay_up.v.01
+paguaj	VERB	disburse.v.01	foot.v.01	pay_up.v.01
 jam_në_borxh	VERB	owe.v.03
 çmim	VERB	prize.v.01
 thesar	VERB	prize.v.01
@@ -6097,8 +6097,8 @@ zëvendësues	VERB	substitute.v.01
 tregti	VERB	trade.v.04
 tregëti	VERB	trade.v.01
 dhënie	VERB	award.v.01	grant.v.05
-ekuilibër	VERB	account.v.02
-kërkoj_lëmosh	VERB	request.v.01
+ekuilibër	VERB	balance.v.02
+kërkoj_lëmosh	VERB	beg.v.03
 investoj	VERB	invest.v.01
 prapsem	VERB	retain.v.03
 jap_rryshfet	VERB	bribe.v.01
@@ -6121,20 +6121,20 @@ derdh_parat	VERB	distribute.v.01
 ndaj_në_pjesë	VERB	distribute.v.01
 sasi	VERB	distribute.v.01
 marr_pjesën	VERB	partake.v.02
-nxjerr_para_nga_xhepi	VERB	pay.v.01
+nxjerr_para_nga_xhepi	VERB	disburse.v.01
 mbante	VERB	bear.v.11
 heq_dorë_nga	VERB	forfeit.v.01
 konsfikim	VERB	forfeit.v.01
 vënie_taksash	VERB	levy.v.01
 ndihmoj	VERB	contribute.v.02	help.v.01
-depozit	VERB	give.v.03
-depozitim	VERB	give.v.03
+depozit	VERB	deposit.v.02
+depozitim	VERB	deposit.v.02
 i_marr_me_forcë	VERB	deprive.v.02
-nuk_i_lë_trashëgim	VERB	deprive.v.02
+nuk_i_lë_trashëgim	VERB	disinherit.v.01
 i_lirë	VERB	release.v.08
 detyrim	VERB	charge.v.03	commit.v.03	consign.v.02
 faturë	VERB	charge.v.03
-marr_hua	VERB	get.v.01
+marr_hua	VERB	borrow.v.01
 huadhënie	VERB	lend.v.02
 jap_hua	VERB	lend.v.01	lend.v.02
 pajis_me	VERB	supply.v.01
@@ -6146,16 +6146,16 @@ dorëzohem	VERB	spare.v.03
 heq_qafe	VERB	spare.v.03
 birësoj	VERB	adopt.v.01
 përvetësoj	VERB	adopt.v.01
-garanci	VERB	consign.v.02
-lënie_peng	VERB	consign.v.02
+garanci	VERB	pawn.v.01
+lënie_peng	VERB	pawn.v.01
 lë_në_ngarkim	VERB	consign.v.02
 përgjegjësi	VERB	appoint.v.02	commit.v.03
 i_lë_në_mirëbesim	VERB	entrust.v.01
-paguaj_plotësisht	VERB	pay_up.v.01
-shlyej	VERB	pay_up.v.01
-amortizoj	VERB	pay_up.v.01
+paguaj_plotësisht	VERB	liquidate.v.02
+shlyej	VERB	liquidate.v.02
+amortizoj	VERB	amortize.v.01
 lë_me_mirëbesim	VERB	entrust.v.02
-dhuron	VERB	bequeath.v.01
+dhuron	VERB	remember.v.04
 akt	VERB	act.v.01
 procedo	VERB	go.v.02
 vepro	VERB	go.v.02
@@ -6170,8 +6170,8 @@ arsimoj	VERB	educate.v.03
 shkolloj	VERB	educate.v.03
 deleguar	VERB	delegate.v.02
 ngre_në_pozitë	VERB	promote.v.02
-i_zënë	VERB	work.v.01
-i_zënë_me_punë	VERB	work.v.01
+i_zënë	VERB	busy.v.01
+i_zënë_me_punë	VERB	busy.v.01
 punë_e_rëndë	VERB	labor.v.02
 vullnetar	VERB	volunteer.v.02
 thirrje	VERB	call.v.07
@@ -6179,8 +6179,8 @@ ndahet	VERB	separate.v.08
 organizëm	VERB	organize.v.02
 dorëz	VERB	manage.v.02
 kujdesje	VERB	manage.v.02
-i_kushtoj_vëmendje	VERB	manage.v.02
-kujdesem	VERB	manage.v.02
+i_kushtoj_vëmendje	VERB	take_care.v.02
+kujdesem	VERB	take_care.v.02
 ardhje	VERB	set_about.v.01
 shkoj_andej_këtej	VERB	set_about.v.01
 drejton	VERB	head.v.02
@@ -6199,31 +6199,31 @@ pres_në_copa	VERB	divide.v.01
 anëtar_i_ri	VERB	enroll.v.01
 rregjistroj	VERB	enroll.v.01
 regjistër	VERB	register.v.01
-kujdes	VERB	permit.v.01
+kujdes	VERB	trust.v.02
 gjakësi	VERB	murder.v.01
 i_jap_fund	VERB	murder.v.01
 vras	VERB	murder.v.01
-qitje	VERB	kill.v.01
-ekzekutoj_me_varje	VERB	execute.v.01
-va	VERB	execute.v.01
-datë	VERB	leave.v.01
+qitje	VERB	shoot.v.02
+ekzekutoj_me_varje	VERB	hang.v.03
+va	VERB	hang.v.03
+datë	VERB	date.v.01
 periudhë	VERB	go_steady.v.01
 vrojton	VERB	go_steady.v.01
 lidh_me	VERB	marry.v.01
 martohem	VERB	marry.v.01
 festë	VERB	celebrate.v.02
 kremtoj	VERB	celebrate.v.02
-dëfrej	VERB	amuse.v.01	celebrate.v.02
-dolli	VERB	celebrate.v.02
-festim	VERB	celebrate.v.02
+dëfrej	VERB	amuse.v.01	revel.v.02
+dolli	VERB	revel.v.02
+festim	VERB	revel.v.02
 gostit	VERB	entertain.v.01
 argëtoj	VERB	amuse.v.01
 zbavitem	VERB	amuse.v.01
 dënoj	VERB	punish.v.01
 ndëshkoj	VERB	punish.v.01
-forcë	VERB	act.v.01	coerce.v.01
+forcë	VERB	coerce.v.01	effect.v.02
 trysni	VERB	coerce.v.01
-varg	VERB	control.v.02
+varg	VERB	train.v.09
 frenoj	VERB	control.v.02
 mbaj_nën_fre	VERB	control.v.02
 përmbajtje	VERB	control.v.02
@@ -6256,8 +6256,8 @@ risk	VERB	gamble.v.01
 rrezikoj	VERB	endanger.v.01	gamble.v.01
 rrezik	VERB	risk.v.01
 mbështetës	VERB	help.v.01
-nervozoj	VERB	care.v.02
-rindërtoj	VERB	regenerate.v.01
+nervozoj	VERB	mother.v.01
+rindërtoj	VERB	restore.v.01
 i_jap_shtysë	VERB	promote.v.01
 ndihmon	VERB	support.v.01
 ajo_që_duhet_bërë	VERB	do.v.03
@@ -6291,14 +6291,14 @@ nxjerr_përfundime	VERB	conclude.v.04
 mbijetoj	VERB	be.v.11	exist.v.02
 rroj	VERB	exist.v.02	live.v.02
 mbahem_gjallë	VERB	exist.v.02
-banoj	VERB	exist.v.01	populate.v.01
+banoj	VERB	indwell.v.01	populate.v.01
 rrëzim	VERB	fall.v.07
 përbëj	VERB	constitute.v.01	form.v.02
 prejardhje	VERB	originate_in.v.01
 përmban	VERB	have.v.02
 pamjaftueshmëri	VERB	miss.v.06
 rezultat	VERB	result.v.01
-vjen_nga	VERB	result.v.01
+vjen_nga	VERB	be_due.v.01
 pritje	VERB	wait.v.01
 ndalesë	VERB	hesitate.v.02
 ngurroj	VERB	hesitate.v.02
@@ -6324,7 +6324,7 @@ banore	VERB	populate.v.01
 jetoj	VERB	belong_to.v.01	populate.v.01
 kasolle	VERB	populate.v.01
 populloj	VERB	populate.v.01
-jap_me_qira	VERB	populate.v.01
+jap_me_qira	VERB	lodge.v.01
 i_përkas_dikujt	VERB	pertain.v.02
 i_takon	VERB	pertain.v.02
 ndodhem	VERB	be.v.03
@@ -6332,11 +6332,11 @@ i_gatshëm	VERB	match.v.01
 korrespondon	VERB	match.v.01
 perputhem	VERB	match.v.01
 pershtatem	VERB	match.v.01
-pergjigjem	VERB	match.v.01
+pergjigjem	VERB	answer.v.08
 anë,	VERB	collocate_with.v.01
 shoqëroj,radhitem	VERB	collocate_with.v.01
 varet	VERB	depend.v.01
-gjendem_poshtë	VERB	be.v.01
+gjendem_poshtë	VERB	underlie.v.01
 i_barabarte	VERB	equal.v.01
 ngjaj	VERB	resemble.v.01
 perngjaj	VERB	look_like.v.01
@@ -6348,25 +6348,25 @@ pune	VERB	serve.v.01
 jetoj_sipas_parimeve	VERB	satisfy.v.01
 baraspeshoj	VERB	balance.v.01
 bilanc	VERB	balance.v.01
-hidhem	VERB	look.v.02
-hidhem_brenda	VERB	look.v.02
-kërcej	VERB	look.v.02
-zgjatem	VERB	look.v.02
+hidhem	VERB	leap_out.v.01
+hidhem_brenda	VERB	leap_out.v.01
+kërcej	VERB	leap_out.v.01
+zgjatem	VERB	leap_out.v.01
 përfshij,_angazhoj	VERB	involve.v.02
-është_ne_lartesine_e_duhur	VERB	suffice.v.01
-kualifikim	VERB	suffice.v.01
+është_ne_lartesine_e_duhur	VERB	qualify.v.01
+kualifikim	VERB	qualify.v.01
 le	VERB	discontinue.v.01
 pezulloj_nga_puna	VERB	discontinue.v.01
 pushoj_nga_puna	VERB	discontinue.v.01
 mbahem	VERB	keep.v.01
 mbaj_ne_kembe	VERB	keep.v.01
 largësi	VERB	distance.v.01
-zgjatje	VERB	be.v.03
-shpëndaj	VERB	cover.v.03
+zgjatje	VERB	reach.v.06
+shpëndaj	VERB	spread.v.03
 rrenë_,gënjeshtër	VERB	lie.v.01
-ndenjur	VERB	be.v.03
-përball	VERB	be.v.03
-çoj_lartë	VERB	look.v.02
+ndenjur	VERB	sit.v.02
+përball	VERB	face.v.04
+çoj_lartë	VERB	rise.v.04
 kërcënoj	VERB	endanger.v.01
 rrezikim	VERB	endanger.v.01
 shantazh	VERB	endanger.v.01
@@ -6374,8 +6374,8 @@ vë_jetën_në_rrezik	VERB	endanger.v.01
 vë_në_rrezik	VERB	endanger.v.01
 karakteristike	VERB	characterize.v.02
 tipizoj	VERB	characterize.v.02
-më_shkon	VERB	match.v.01
-shkoj,i_kam_hije	VERB	match.v.01
+më_shkon	VERB	befit.v.01
+shkoj,i_kam_hije	VERB	befit.v.01
 akord	VERB	harmonize.v.01
 harmonist	VERB	harmonize.v.01
 harmonizoj	VERB	harmonize.v.01
@@ -6385,12 +6385,12 @@ shoqërohem	VERB	harmonize.v.01
 i_përshtatshëm	VERB	fit.v.07	suit.v.01
 kërkes	VERB	suit.v.01
 përmasë	VERB	measure.v.03
-lidhet_me	VERB	include.v.01
-qëndron_tek	VERB	include.v.01
-gurgulloj	VERB	be.v.01
-murmurimë	VERB	be.v.01
-gëlon	VERB	be.v.01
-luzmë	VERB	be.v.01
+lidhet_me	VERB	inhere_in.v.01
+qëndron_tek	VERB	inhere_in.v.01
+gurgulloj	VERB	hum.v.02
+murmurimë	VERB	hum.v.02
+gëlon	VERB	teem.v.01
+luzmë	VERB	teem.v.01
 mbaj_shoqëri	VERB	company.v.01
 shoqëri	VERB	company.v.01
 shoqërues	VERB	company.v.01
@@ -6399,18 +6399,18 @@ mbaj_revole	VERB	carry.v.02
 rri_ne_shtrat	VERB	belong_to.v.01
 të_lejosh	VERB	leave.v.06
 raport	VERB	relate.v.04
-afrohet	VERB	be.v.01
+afrohet	VERB	impend.v.01
 vazhdoj_të_jem	VERB	stay.v.04
 kushton_sa	VERB	sell.v.02
 krahasim	VERB	compare.v.02
-ndriçon	VERB	be.v.01
+ndriçon	VERB	shine.v.04
 kanoset	VERB	hang.v.06
 e_pranueshme	VERB	suit.v.02
-përkas	VERB	be.v.01
+përkas	VERB	belong.v.04
 përkatës	VERB	belong.v.02
 ndodhen	VERB	belong.v.03
 përket	VERB	belong.v.03
-vijë_e_lakuar,kurbë	VERB	be.v.01
+vijë_e_lakuar,kurbë	VERB	wind.v.02
 shpresë_suksesi	VERB	promise.v.04
 shi	VERB	rain.v.01
 shi_me_gjyma	VERB	rain.v.01

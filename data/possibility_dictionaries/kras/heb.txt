@@ -1,0 +1,4202 @@
+אָב	NOUN	ab.n.02.502249	father.n.01.423386	forefather.n.01.423868	founder.n.02.423979
+אַבָּא	NOUN	dad.n.01.421675	father.n.01.423387
+אָבַד	VERB	disappear.v.01.155263
+אִבֵּד-מִשְׁקָל	VERB	reduce.v.20.121920
+אַבְהוּת	NOUN	fatherhood.n.01.479652
+אַבָּהוּת	NOUN	fatherhood.n.01.479653
+אַבּוּב	NOUN	oboe.n.01.324872
+אִבְחוּן	NOUN	diagnosis.n.01.131644
+אִבְחֵן	VERB	diagnose.v.01.169264
+אַבְחָנָה	NOUN	diagnosis.n.01.131645	medical_diagnosis.n.01.131689
+אֲבַטִּיחַ	NOUN	watermelon.n.02.391153
+אַבְטָלָה	NOUN	unemployment.n.01.482635
+אֶבְיוֹן	NOUN	pauper.n.01.429653
+אָבִיךְ	ADJ	brumous.s.01.158250
+אַבִּיר	NOUN	knight.n.01.426615
+אַבִּירוּת	NOUN	chivalry.n.01.343201	chivalry.n.02.360708	knighthood.n.01.399826
+אֹבֶךְ	NOUN	haze.n.01.446836
+אֵבֶל	NOUN	mourning.n.01.483264
+אָבֵל	NOUN	mourner.n.01.428405
+אֲבֵלוּת	NOUN	mourning.n.01.483265
+אֶבֶן	NOUN	jewel.n.01.321088	rock.n.01.412408	rock.n.02.494368
+אֶבֶן-הָרֹאשָׁה	NOUN	keystone.n.02.321391
+אֶבֶן-חֵן	NOUN	jewel.n.01.321089
+אֶבֶן-טוֹבָה	NOUN	jewel.n.01.321090
+אֶבֶן-יְקָרָה	NOUN	jewel.n.01.321091
+אַבְּסְטְרַקְט	NOUN	outline.n.02.367283
+אָבָץ	NOUN	zinc.n.01.493910
+אָב קַדְמוֹן	NOUN	ancestor.n.01.417798
+אִבְקָה	NOUN	buttonhole.n.01.306753
+אַבְקַת-חָרוּבִים	NOUN	carob.n.03.388721
+אֲגֻדָּה	NOUN	association.n.01.395325	bundle.n.02.306452	package.n.01.394954
+אַגָּדָה	NOUN	fairytale.n.01.380419	legend.n.01.365577
+אֻגְדָּה	NOUN	division.n.01.397391
+אַגָּדִי	ADJ	fabled.s.01.247457
+אַגָּדָתִי	ADJ	fabled.s.01.247456	legendary.s.01.214446
+אִגּוּד	NOUN	union.n.01.397751
+אֲגוּדָל	NOUN	thumb.n.01.353442
+אֱגוֹז	NOUN	nut.n.01.468749
+אֲגַם	NOUN	lake.n.01.411224
+אַגָּס	NOUN	pear.n.01.391317	pear.n.02.462035
+אֲגַף	NOUN	annex.n.01.297975	department.n.01.396125	flank.n.01.401013
+אָגַר	VERB	store.v.01.270489
+אַגְרָה	NOUN	toll.n.01.471851
+אֶגְרוֹף	NOUN	fist.n.01.353387	punch.n.01.130055
+אֲגַרְטָל	NOUN	vase.n.01.335283
+אַגְרֶסִיבִיּוּת	NOUN	aggressiveness.n.03.337479
+אָדוֹן	NOUN	mister.n.01.365102	overlord.n.01.429300
+אֲדִיקוּת	NOUN	piety.n.01.340951
+אַדִּיר	ADJ	mighty.s.01.240952
+אָדִישׁ	ADJ	apathetic.s.02.212632
+אֲדִישׁוּת	NOUN	emotionlessness.n.01.385813
+אָדֹם	ADJ	red.s.01.151083
+אָדָם	NOUN	person.n.01.118159
+אָדֹם	NOUN	red.n.01.344151
+אֹדֶם	NOUN	lipstick.n.01.322465
+אַדְמַת-בִּצָּה	NOUN	marsh.n.01.411462
+אֶדֶן	NOUN	tie.n.08.333939	windowsill.n.01.336375
+אָדַפְּטַצְיָה	NOUN	adaptation.n.02.473511
+אֲדָר	NOUN	adar.n.01.502237
+אֲהַבְהָבִים	NOUN	flirt.n.02.161614
+אָהוּב	ADJ	favored.s.01.219462
+אָהִיל	NOUN	lampshade.n.01.321805
+אֹהֶל	NOUN	tent.n.01.333635
+אוֹבְּיֶקְט	NOUN	object.n.01.117724
+אוֹגֵד	NOUN	copula.n.01.367414
+אוֹגֵר	NOUN	hamster.n.01.274225
+אוֹהֵב	ADJ	loving.a.01.219551
+אֲוָז	NOUN	gander.n.01.242556
+אוֹטוֹ	NOUN	car.n.01.307713
+אֲוִירוֹן	NOUN	airplane.n.01.296407
+אוּלַי	ADV	possibly.r.01.144223
+אוּלָם	NOUN	hall.n.03.319085
+אוּלָם-בֵּית-הַמִּשְׁפָּט	NOUN	court.n.02.312597
+אוּלַם-רִקּוּדִים	NOUN	ballroom.n.01.302004
+אוֹלָר	NOUN	pocketknife.n.01.326903
+אוֹמֶנֶת	NOUN	nanny.n.01.428551
+אָוֶן	NOUN	evil.n.01.175093
+אוֹפַנּוֹעַ	NOUN	motorcycle.n.01.324232
+אוֹצָר	NOUN	treasure.n.01.472550	treasure.n.03.472547
+אוֹקְטָגוֹן	NOUN	octagon.n.01.480874
+אוֹר	NOUN	light.n.01.446953	light.n.02.322263
+אוּרְבָּנִיזַצְיָה	NOUN	urbanization.n.01.492770
+אוֹרְגָּן	NOUN	organ.n.05.325114
+אוֹרְדִּינָטָה	NOUN	ordinate.n.01.361407
+אוֹרְיֶנְטָלִי	ADJ	oriental.s.01.180735
+אַוְרִירִי	ADJ	airy.s.03.203363
+אוֹרְכִידֵאָה	NOUN	orchid.n.01.453716
+אוֹרְנָמֶנְט	NOUN	decoration.n.01.313897
+אִוְרֵר	VERB	vent.v.02.160008
+אוֹת	NOUN	indication.n.01.373518	letter.n.02.374065	signal.n.01.373403	signal.n.02.409253
+אוֹת-קַיִן	NOUN	mark_of_cain.n.01.340987
+אוֹת-קָלוֹן	NOUN	mark.n.06.373468
+אָז	ADV	then.r.01.128845	then.r.02.128881	then.r.03.128859
+אַזְהָרָה	NOUN	admonition.n.01.370847	warning.n.01.380480
+אֵזוֹב	NOUN	hyssop.n.01.464964
+אֵזוֹר	NOUN	sector.n.05.403529	zone.n.03.401440
+אִזְכּוּר	NOUN	citation.n.03.372786
+אִזְמֵל	NOUN	chisel.n.01.309688	scalpel.n.01.329443
+אֲזִקִּים	NOUN	handcuff.n.01.319178
+אֶזְרָחִי	ADJ	civil.a.03.296792	civil.a.04.296778	civilian.a.01.222694
+אֶזְרָחִי	NOUN	civies.n.01.310171
+אָח	NOUN	brother.n.01.419413	brother.n.05.419434	buddy.n.01.419461	compatriot.n.01.421259	fireplace.n.01.316831	nurse.n.01.428870
+אֲחָאִים	NOUN	sibling.n.01.432695
+אִחֵד	VERB	unite.v.01.282042	unite.v.06.139582
+אֲחָדִים	ADJ	several.s.01.269712
+אָחוּ	NOUN	hayfield.n.01.402320	pasture.n.01.402979
+אִחוּד	NOUN	union.n.11.151128
+אָחוּז	NOUN	percentage.n.01.479701
+אִחוּל	NOUN	regard.n.03.370007
+אֲחוֹרֵי-הַקְּלָעִים	NOUN	back_room.n.01.301547
+אֲחוֹרַיִם	NOUN	buttocks.n.01.353275
+אָחוֹת	NOUN	sister.n.02.432815
+אָחִיד	ADJ	consistent.s.04.204107	uniform.a.01.249310
+אֲחִיזָה	NOUN	clasp.n.02.179932
+אַחְיָן	NOUN	nephew.n.01.428656
+אַחְיָנִית	NOUN	niece.n.01.428728
+אִחְסֵן	VERB	store.v.01.270490	store.v.02.270566
+אַחֵר	ADJ	different.a.01.256315	different.s.02.256701	other.a.01.256655
+אַחֲרוֹן	ADJ	last.a.02.192430	up-to-date.s.02.190011
+אַחְרָיוּת	NOUN	guarantee.n.01.371086	responsibility.n.03.337980
+אַחֲרָיוּת	NOUN	guarantee.n.01.371087	responsibility.n.03.337981
+אַחֶרֶת	ADV	differently.r.01.128528
+אָטוּם	ADJ	obtuse.s.03.177057	opaque.a.01.155972	sealed.a.02.257936
+אִי	NOUN	e.n.04.478407	island.n.01.411087
+אֵיבָה	NOUN	hate.n.01.387679
+אֵיבָר	NOUN	organ.n.01.349865	penis.n.01.352687
+אֵיבְרֵי-הַמִּין	NOUN	genitalia.n.01.352518
+אִידִישׁ	NOUN	yiddish.n.01.375877
+אִי-כְּשִׁירוּת	NOUN	incompetence.n.01.347734
+אַיָּלָה	NOUN	hind.n.02.279635
+אָיֹם	ADJ	atrocious.s.02.199591	awful.s.02.135348	fearful.s.04.199654
+אֵימָה	NOUN	panic.n.01.386981
+אִימְפְּרוֹבִיזוֹרִי	ADJ	improvised.s.01.236366
+אִימְפֶּרָטִיב	NOUN	imperative_mood.n.01.479383	imperative.n.02.199942
+אִימְפֶּרְסוֹנָלִי	VERB	cloud.v.04.237033
+אַיִן	NOUN	nothing.n.01.478075
+אֵין-סְפֹר	ADJ	countless.s.01.144333
+אִינְטֶנְסִיפִיקַצְיָה	NOUN	intensification.n.01.150450
+אִינְטֶרְנֶט	NOUN	internet.n.01.320813
+אֵינְסוֹף	ADJ	countless.s.01.144332
+אִינְסְטִינְקְט	NOUN	instinct.n.01.354422
+אִינְסְטֶלָטוֹר	NOUN	plumber.n.01.430170
+אִינְסְטֶלַצְיָה	NOUN	plumbing.n.01.326853	plumbing.n.02.166807
+אִינְסְטְרוּמֶנְטָלִי	ADJ	instrumental.a.01.303436
+אִינְפוֹרְמַצְיָה	NOUN	information.n.01.370150
+אִי-פּוֹרִיּוּת	NOUN	sterility.n.02.484285
+אִי-צֶדֶק	NOUN	injustice.n.01.175034
+אֵירוֹפֶּאִי	ADJ	european.a.01.308054
+אֵירוֹפִּי	ADJ	european.a.01.308053
+אִישׁ	NOUN	husband.n.01.425728	person.n.01.118160
+אִישִׁיּוּת	NOUN	personality.n.01.336808	personality.n.02.429820
+אִישִׁית	ADV	personally.r.04.129873	personally.r.05.129886
+אִישׁ-מַדָּע	NOUN	scientist.n.01.432125
+אִכְזֵב	VERB	disappoint.v.01.239001
+אַכְזָבָה	NOUN	disappointment.n.01.387518
+אַכְזָר	ADJ	barbarous.s.01.208471
+אַכְזָרִי	ADJ	barbarous.s.01.208472
+אֲכִילָה	NOUN	eating.n.01.181405
+אֲכִיפָה	NOUN	enforcement.n.01.199645
+אֹכֶל	NOUN	food.n.01.119392
+אָכֵן	ADV	indeed.r.01.121230
+אִכְסֵן	VERB	lodge.v.04.293700
+אַכְסַנְיָה	NOUN	hostel.n.01.320168
+אַכְסַנְיַת-נֹעַר	NOUN	hostel.n.01.320169
+אֵל	NOUN	deity.n.01.413686
+אֵלָה	NOUN	goddess.n.01.414096	terebinth.n.01.463686
+אַלָּה	NOUN	cudgel.n.01.313340
+אֱלֹהֵי-הַנּוֹצְרִים	NOUN	godhead.n.01.414116
+אֱלֹהִים	NOUN	deity.n.01.413687	god.n.03.424559
+אֱלוּל	NOUN	elul.n.01.502252
+אַלּוֹן	NOUN	oak.n.02.456531
+אִלְחֵשׁ	VERB	anesthetize.v.01.119351
+אַלְטֶרְנָטִיבָה	NOUN	option.n.02.357511
+אַלִּימוּת	NOUN	violence.n.01.189453
+אָלֶכְּסָנְדֶר-בֶּל	NOUN	bell.n.08.437065
+אַלְמָן	NOUN	widower.n.01.436101
+אַלְמָנָה	NOUN	widow.n.01.436090
+אֶלֶמֶנְטָרִי	ADJ	elementary.s.01.175518
+אֲלֻמַּת-אוֹר	NOUN	beam.n.04.446285
+אֶלַסְטִי	ADJ	elastic.a.01.181684
+אֶלֶף	NOUN	thousand.n.01.478348
+אָלֶף	NOUN	aleph.n.01.374217
+אִלֵּף	VERB	domesticate.v.02.144348
+אֻלַּף	VERB	domesticate.v.02.144350
+אֻלְפָּן	NOUN	studio.n.01.332585	studio.n.03.332592
+אִלֵּץ	VERB	coerce.v.01.284023
+אִלְתּוּר	NOUN	extemporization.n.01.127365	improvisation.n.02.134171
+אִלְתֵּר	VERB	improvise.v.01.234756
+אֵם	NOUN	mother.n.01.428336
+אֵם-פּוּנְדְקָאִית	NOUN	surrogate_mother.n.01.434243
+אִמָּא	NOUN	ma.n.01.427308
+אִמָּא וְאַבָּא	NOUN	house.n.07.155867
+אַמְבַּטְיָה	NOUN	bath.n.02.140857	bathroom.n.01.302839	bathtub.n.01.302859
+אַמְבִּיצְיָה	NOUN	ambition.n.02.341234
+אֶמְבַּרְגּוֹ	NOUN	embargo.n.01.370634
+אִמָּהוּת	NOUN	motherhood.n.01.479654
+אִמָּהִי	ADJ	motherly.s.01.235090
+אִמּוּן	NOUN	exercise.n.03.184963
+אָמוּר	NOUN	amur.n.01.409394
+אָמִין	ADJ	authentic.s.01.281787	reliable.a.01.173818
+אֲמִינוּת	NOUN	dependability.n.01.337991
+אַמִּיץ	ADJ	brave.a.01.141298
+אַמִּיץ-לֵב	ADJ	audacious.s.01.140200
+אֶמִיר	NOUN	emir.n.01.422861
+אָמִיר	NOUN	crown.n.07.468639
+אֻמְלָל	ADJ	miserable.s.01.201161
+אִמֵּן	VERB	coach.v.01.181146
+אָמַן	VERB	rear.v.02.286406
+אֲמָנָה	NOUN	covenant.n.01.372970
+אֶמְפְּלִיפָיֶר	NOUN	amplifier.n.01.297445
+אֹמֶץ	NOUN	courage.n.01.341760
+אָמַר	VERB	order.v.01.175177	state.v.01.192164
+אֲמִתִּי	ADJ	actual.s.03.281557	genuine.a.01.198860	genuine.s.02.264147	true.a.01.281529
+אַנְאַלְפָבֵּיתִי	ADJ	ignorant.s.02.181039
+אַנְדַּרְטָה	NOUN	memorial.n.03.323514
+אֻנָּה	NOUN	lobe.n.01.352279
+אֶנִיגְמָה	NOUN	mystery.n.01.355599
+אֳנִיָּה	NOUN	ship.n.01.330295
+אֲנָכִי	ADJ	vertical.a.01.206559
+אֲנָנָס	NOUN	pineapple.n.01.461321	pineapple.n.02.391099
+אַנָּס	NOUN	raper.n.01.431212
+אַנְסַמְבְּל	NOUN	ensemble.n.01.397139
+אֲנָפָה	NOUN	heron.n.02.252406
+אַנְתְּרוֹפּוֹמוֹרְפִיזְם	NOUN	anthropomorphism.n.01.357111
+אָסוֹן	NOUN	calamity.n.01.382319
+אִסּוּף	NOUN	collection.n.04.192464
+אָסוּר	ADJ	captive.s.01.195771	forbidden.s.01.236593
+אִסּוּר	NOUN	ban.n.04.381103
+אֹסֶף	NOUN	anthology.n.01.369192
+אַסְפִּירַצְיָה	NOUN	ambition.n.01.385834
+אַסְפָּקָה	NOUN	commissariat.n.01.388244	provision.n.02.195170
+אָסַר	VERB	forbid.v.01.178731	imprison.v.01.283383	tie_down.v.01.209755
+אַסְתְּמָה	NOUN	asthma.n.01.485665
+אַף	ADV	even.r.03.118947
+אַף-עַל-פִּי-כֵן	ADV	however.r.01.119997
+אִפּוּר	NOUN	makeup.n.01.323046
+אֲפִיָּה	NOUN	baking.n.01.173294
+אָפְיָנִי	ADJ	characteristic.a.01.148804
+אָפִיק	NOUN	channel.n.01.363951
+אֲפִיק-תִּמְסֹרֶת	NOUN	channel.n.01.363952
+אָפֵל	ADJ	black.s.05.199995	dark.a.01.142148
+אֲפִלּוּ	ADV	even.r.03.118948
+אַפְלָיָה	NOUN	discrimination.n.01.201449
+אֶפֶס	NOUN	nothing.n.01.478074	zero.n.02.478106
+אַפְסִי	ADJ	worthless.a.01.283863
+אָפֹר	ADJ	dull.s.12.158310	grey.s.01.151780	grey.s.04.192495
+אִפְשֵׁר	VERB	enable.v.01.161640	let.v.01.278963	permit.v.01.179232
+אָפַּתְיָה	NOUN	apathy.n.02.337278
+אֶצְבַּע	NOUN	digit.n.03.353423	finger.n.02.476674
+אֶקְדָּח	NOUN	pistol.n.01.326557
+אֶקוֹנוֹמְיָה	NOUN	economics.n.01.362565
+אַקְט	NOUN	act.n.02.120279
+אֶקְסְקְלוּסִיבִי	ADJ	exclusive.a.02.242868
+אָקַצְיָה	NOUN	acacia.n.01.450126
+אֲרֻבָּה	NOUN	chimney.n.01.309593
+אַרְבֶּה	NOUN	locust.n.01.267052
+אִרְגּוּן	NOUN	organization.n.01.394967
+אַרְגּוֹן	NOUN	argon.n.01.493428
+אִרְגּוּנִי	ADJ	organizational.a.01.305838
+אַרְגָּז	NOUN	crate.n.01.312821
+אָרָד	NOUN	bronze.n.01.494654
+אֶרוּדִיצְיָה	NOUN	eruditeness.n.01.361138
+אֻרְוָה	NOUN	stable.n.01.331822
+אֶרוֹזְיָה	NOUN	erosion.n.02.491759
+אֲרוּחָה	NOUN	meal.n.01.388278
+אֲרוּחָה-קַלָּה	NOUN	bite.n.04.388371
+אָרוֹן	NOUN	coffin.n.01.311011	cupboard.n.01.313435
+אֲרוֹן-מֵתִים	NOUN	coffin.n.01.311012
+אֵרוּעַ	NOUN	affair.n.03.385056	event.n.01.120217	event.n.03.446653
+אָרוּר	ADJ	accursed.s.01.170584	cursed.a.01.170566
+אֶרֶז	NOUN	cedar.n.02.448387	cedar.n.03.448384
+אֹרֶז	NOUN	rice.n.01.391915	rice.n.02.454689
+אֵרֵח	VERB	host.v.01.203786
+אַרְטִיפָקְט	NOUN	artifact.n.01.119455
+אָרִיג	NOUN	fabric.n.01.316220
+אֲרִיגָה	NOUN	weaving.n.01.185914
+אַרְיֵה	NOUN	lion.n.01.260795
+אַרְיֵה-הָרִים	NOUN	cougar.n.01.260518
+אָרִיחַ	NOUN	tile.n.01.333961
+אָרִיתְמֶטִיקָה	NOUN	arithmetic.n.01.361333
+אֹרֶך-רוּחַ	NOUN	patience.n.01.337403
+אַרְכָאִי	ADJ	antediluvian.s.02.229797
+אַרְכִיב	NOUN	archive.n.01.299444
+אַרְכִיּוֹן	NOUN	archive.n.01.299446
+אֹרֶן	NOUN	pine.n.01.448167	pine.n.02.448170
+אַרְנָבוֹן	NOUN	rabbit.n.01.273157
+אַרְנֶבֶת	NOUN	hare.n.01.273328
+אַרְנוֹנָה	NOUN	property_tax.n.01.471657
+אַרְנָק	NOUN	wallet.n.01.335681
+אַרְסִי	ADJ	poisonous.s.03.138179
+אֶרֶץ	NOUN	country.n.02.401883	earth.n.01.410464	nation.n.02.396712
+אֶרֶץ-אָבוֹת	NOUN	fatherland.n.01.401453
+אֶרֶץ-יִשְׂרָאֵל	NOUN	israel.n.01.405221
+אֶרֶץ-מוֹלֶדֶת	NOUN	fatherland.n.01.401455
+אֶרֶץ-מוֹצָא	NOUN	fatherland.n.01.401454
+אֵשׁ	NOUN	ardor.n.03.385735	fire.n.02.190869	fire.n.03.474336
+אֶשֶׁד	NOUN	waterfall.n.01.413270
+אַשּׁוּחַ	NOUN	fir.n.01.448343	fir.n.02.448340
+אִשּׁוּר	NOUN	blessing.n.01.205223	certificate.n.01.367384	documentation.n.01.370475	ratification.n.01.379512
+אַשְׁכָּרָה	ADV	in_truth.r.01.121282
+אֵשֶׁל	NOUN	tamarisk.n.01.458121
+אַשְׁלָג	NOUN	potash.n.01.498646
+אַשְׁלְגָן	NOUN	potassium.n.01.493743
+אַשְׁמָה	NOUN	guilt.n.01.483304	guilt.n.02.387434	incrimination.n.01.380756
+אַשְׁפָּה	NOUN	rubbish.n.01.496676
+אִשְׁפּוּז	NOUN	hospitalization.n.04.169909
+אִשְׁפֵּז	VERB	hospitalize.v.01.274691
+אִשְׁקוּקָה	NOUN	chess.n.02.160935
+אַשְׁרָה	NOUN	visa.n.01.371159
+אִשְׁרוּר	NOUN	ratification.n.01.379514
+אִתּוּת	NOUN	signal.n.02.409254
+אֶתִי	ADJ	ethical.s.03.254222
+אֶתְמוֹל	ADV	yesterday.r.01.161292	yesterday.r.02.161296
+אֶתְמוֹל	NOUN	yesterday.n.01.501097	yesterday.n.02.503083
+אֶתְנַחְתָּא	NOUN	respite.n.02.195612
+בָּא	ADJ	following.s.02.129674
+בָּא	VERB	approach.v.04.242230
+בַּאֲדִישׁוּת	ADV	indifferently.r.01.150272
+בֶּאֱמֶת	ADV	in_truth.r.01.121280	truly.r.01.121172
+בְּאֹפֶן-יַחֲסִי	ADV	relatively.r.01.132518
+בְּאֹפֶן-כְּלָלִי	ADV	generally.r.02.121611
+בֻּבָּה	NOUN	doll.n.01.314738	puppet.n.03.327655
+בֶּגֶד	NOUN	garment.n.01.318045
+בִּגּוּד	NOUN	clothing.n.01.310613
+בְּגִידָה	NOUN	treachery.n.02.175478	treason.n.01.177830
+בְּגִירוּת	NOUN	majority.n.03.501032
+בְּגָּלוּי	ADV	openly.r.01.122749
+בִּגְנֵבָה	ADV	stealthily.r.01.135246
+בַּגְרוּת	NOUN	adulthood.n.01.501045
+בַּד	NOUN	fabric.n.01.316219
+בַּד-בְּבַד	VERB	arterialize.v.01.129045
+בִּדּוּד	NOUN	insulation.n.03.180805
+בָּדוּי	ADJ	fabricated.s.01.247460
+בִּדּוּר	NOUN	entertainment.n.01.155512
+בְּדִידוּת	NOUN	loneliness.n.01.489387
+בְּדִיּוּק	ADV	precisely.r.01.132284	precisely.r.03.150004
+בְּדִיחָה	NOUN	joke.n.01.373092
+בְּדִיל	NOUN	tin.n.01.493854
+בְּדִיקָה	NOUN	examination.n.01.168650
+בָּהּ-בָּעֵת	VERB	arterialize.v.01.129046
+בָּהוּל	ADJ	pressing.s.01.173127
+בְּהִירוּת	NOUN	clarity.n.01.340851
+בְּהֵמִי	ADJ	beastly.s.02.208505
+בַּהֲמִי	ADJ	beastly.s.02.208506
+בֹּהֶן	NOUN	big_toe.n.01.353593
+בְּוַדַּאי	ADV	surely.r.01.130890
+בּוֹ-זְמַנִּית	VERB	arterialize.v.01.129049
+בּוֹזְמַנִּית	VERB	arterialize.v.01.129048
+בּוֹלֵט	ADJ	jutting.s.01.213178
+בּוֹנֶה	ADJ	constructive.s.02.240378
+בּוֹנוּס	NOUN	bonus.n.02.470898
+בּוּנְקֶר	NOUN	bunker.n.03.306500
+בּוּעָה	NOUN	bubble.n.01.409878
+בּוֹקְס	NOUN	punch.n.01.130054
+בּוֹקֵר	NOUN	cowboy.n.01.421313
+בּוּרְסָה	NOUN	stock_exchange.n.01.332268
+בּוֹרְשְׁט	NOUN	borsch.n.01.388515
+בּוּשָׁה	NOUN	shame.n.02.490005
+בַּז	NOUN	falcon.n.01.228054
+בָּז	VERB	contemn.v.01.237390
+בִּזּוּר	NOUN	decentralization.n.02.206876
+בִּזָּיוֹן	NOUN	shame.n.02.490007
+בַּזֶּלֶת	NOUN	basalt.n.01.495435
+בְּזַעַם	ADV	angrily.r.01.138259
+בַּז-עֵצִים	NOUN	hobby.n.03.228192
+בַּחוּרָה	NOUN	girl.n.01.424447
+בְּחִילָה	NOUN	nausea.n.01.488407	nausea.n.02.386432
+בְּחִינָה	NOUN	examination.n.01.168649	examination.n.02.379920	point_of_view.n.01.363343
+בְּחִירָה	NOUN	choice.n.02.132627
+בְּחִירוֹת	NOUN	election.n.01.134466
+בְּחִישָׁה	NOUN	meddling.n.01.135994
+בֹּחַן	NOUN	quiz.n.01.379953
+בְּחָפְשִׁיּוּת	ADV	freely.r.01.136776
+בָּחַר	VERB	choose.v.01.170817
+בַּחֲשַׁאי	ADV	secretly.r.01.133088
+בָּטוּחַ	ADJ	dependable.s.04.270063	for_sure.s.01.246509
+בִּטּוּחַ	NOUN	insurance.n.01.472149
+בִּטּוּל	NOUN	abolition.n.01.138333	abrogation.n.01.138617	cancellation.n.01.138651
+בֶּטוֹן	NOUN	concrete.n.01.496113
+בֶּטַח	ADV	surely.r.01.130889
+בִּטֵּל	VERB	abolish.v.01.279329
+בֶּטֶן	NOUN	abdomen.n.01.353218
+בַּי	NOUN	adieu.n.01.369977
+בִּיב	NOUN	sewer.n.01.330059
+בַּי בַּי	NOUN	adieu.n.01.369979
+בִּיּוּב	NOUN	sewage.n.01.496660	sewer.n.01.330060
+בִּיּוּץ	NOUN	ovulation.n.01.474996
+בְּיוֹתֵר	ADV	highly.r.01.126435
+בִּיזוֹן	NOUN	bison.n.01.278154
+בַּיְט	NOUN	byte.n.01.476238
+בֵּין-הָעַרְבַּיִם	NOUN	twilight.n.01.501469
+בֵּין-הַשְּׁמָשׁוֹת	NOUN	twilight.n.01.501470
+בֵּין כֹּה וָכֹה	ADV	anyhow.r.01.119908
+בֵּין-לְאֻמִּי	ADJ	international.a.01.225633
+בֵּינוֹנִי	NOUN	participle.n.01.364912
+בֵּינְלְאֻמִּי	ADJ	international.a.01.225634
+בֵּינְתַיִם	ADV	for_the_moment.r.01.122824	meanwhile.r.02.124157
+בִּיס	NOUN	morsel.n.02.388413
+בִּיסְקְוִיט	NOUN	cookie.n.01.389218
+בִּירָה	NOUN	beer.n.01.393119	capital.n.03.401631
+בֵּי"ת	NOUN	beth.n.01.374219
+בֵּית	NOUN	beth.n.01.374218	fatigues.n.01.316451
+בַּיִת	NOUN	byte.n.01.476237	class.n.05.397844	family.n.01.395725	house.n.01.320245	house.n.05.396657	house.n.06.394455	house.n.12.320276	sign_of_the_zodiac.n.01.404050	stanza.n.01.377370
+בִּיֵּת	VERB	domesticate.v.01.144365	domesticate.v.02.144349	domesticate.v.03.144328
+בֻּיַּת	VERB	domesticate.v.01.144366	domesticate.v.02.144351	domesticate.v.03.144329
+בֵּית-אָב	NOUN	family.n.01.395726
+בֵּית אָבוֹת	NOUN	home.n.09.319930
+בֵּית-דִּירוֹת	NOUN	apartment_building.n.01.298848
+בֵּית-הוֹצָאָה	NOUN	publisher.n.01.395509
+בֵּית-הֶחָזֶה	NOUN	thorax.n.02.353111
+בֵּית-הָעִירִיָּה	NOUN	town_hall.n.01.334373
+בֵּית-מְגוּרִים	NOUN	dwelling.n.01.315431
+בֵּית-מָלוֹן	NOUN	hotel.n.01.320199
+בִּיתָן	NOUN	pavilion.n.01.325857
+בְּכַוָּנָה	ADV	intentionally.r.01.123895
+בְּכֹחַ	ADV	forcefully.r.01.147459
+בֶּכִי	NOUN	crying.n.01.183285
+בָּכִיר	ADJ	senior.a.01.258786
+בְּכִי-תַּמְרוּרִים	NOUN	lament.n.01.380267
+בְּכָל-זֹאת	ADV	however.r.01.119995
+בִּכְלָל	ADV	at_all.r.01.123119	generally.r.02.121610
+בֻּכְנָה	NOUN	piston.n.02.326567
+בְּכַעַס	ADV	angrily.r.01.138260
+בְּלָאו הָכֵי	ADV	anyhow.r.01.119907
+בְּלַאי	NOUN	depreciation.n.02.471936
+בִּלְבַד	ADV	entirely.r.02.118264
+בִּלְבּוּל	NOUN	confusion.n.05.124885
+בִּלְבוּשׁ-חַוָּה	VERB	clot.v.01.157955
+בִּלְגֵּן	VERB	mess.v.02.142391
+בַּלּוּטָה	NOUN	gland.n.01.350305
+בִּלּוּי	NOUN	diversion.n.01.155225
+בִּלּוּף	NOUN	lying.n.01.175691
+בְּלוֹק	NOUN	block.n.01.304360
+בָּלַט	VERB	stick_out.v.01.297945
+בָּלַם	VERB	stop.v.03.287813
+בִּלְעָדִי	ADJ	exclusive.s.01.262364
+בַּלְשָׁנוּת	NOUN	linguistics.n.01.362793
+בִּלְתִּי-חָדִיר	ADJ	impervious.a.01.237301
+בִּלְתִּי-מְחֻמָּם	ADJ	unheated.s.01.207956
+בִּמְדֻיָּק	ADV	precisely.r.02.149961
+בִּמְהֵרָה	ADV	soon.r.01.120784
+בְּמַחְשָׁבָה-תְּחִלָּה	ADV	intentionally.r.01.123897
+בִּמְיֻחָד	ADV	particularly.r.01.125929	particularly.r.02.140046
+בִּמְלוֹאוֹ	ADV	completely.r.02.132218
+בְּמַקְבִּיל	VERB	arterialize.v.01.129047
+בְּמִתְכַּוֵּן	ADV	intentionally.r.01.123896
+בֵּן	NOUN	son.n.01.433184
+בֶּן-חֲלוֹף	ADJ	ephemeral.s.01.236337
+בֶּן-לְוָיָה	NOUN	companion.n.03.417163
+בֶּן-מֶלֶךְ	NOUN	prince.n.01.430602
+בַּנְדּוֹרָה	NOUN	tomato.n.01.390743
+בְּנוֹסָף	ADV	additionally.r.01.121963
+בְּנִיָּה	NOUN	construction.n.01.186051	construction.n.07.198195
+בִּנְיָן	NOUN	building.n.01.306291	conjugation.n.04.394933	construction.n.01.186050
+בְּנִפְרָד	ADV	individually.r.01.136491
+בָּסִיס	NOUN	army_base.n.01.299853	base.n.01.302509	basis.n.02.357564	footing.n.02.479144
+בְּסִיסִי	ADJ	alkaline.a.01.119799
+בָּסִיס-צְבָאִי	NOUN	army_base.n.01.299855
+בִּסֵּס	VERB	establish.v.08.168718
+בְּעָיָה	NOUN	problem.n.01.489286	problem.n.02.373271
+בָּעִיר	ADJ	burnable.s.01.158949
+בַּעַל	NOUN	baal.n.01.413827	husband.n.01.425729
+בַּעַל-בְּרִית	NOUN	ally.n.02.417671
+בַּעֲלוּת	NOUN	ownership.n.01.470165
+בַּעַל-חוֹב	NOUN	creditor.n.01.421407
+בַּעַל-חַיִּים	NOUN	animal.n.01.118802
+בְּעָלִים	NOUN	owner.n.01.429320
+בַּעַל-כִּשָּׁרוֹן	ADJ	talented.a.01.199169
+בְּעַל-פֶּה	ADV	by_heart.r.01.132069
+בַּעֲקִיפִין	ADV	indirectly.r.01.123322
+בְּעִקָּר	ADV	chiefly.r.01.125007
+בַּעֲרוּת	NOUN	ignorance.n.01.361172
+בְּעֶרֶךְ	ADV	approximately.r.01.118095
+בַּעַת	NOUN	phobia.n.01.488783
+בִּפְרָט	ADV	particularly.r.02.140047
+בֹּץ	NOUN	mud.n.01.498102
+בִּצָּה	NOUN	swamp.n.01.412951
+בִּצּוּעַ	NOUN	execution.n.06.199679	performance.n.03.127198
+בְּצַוְתָּא	NOUN	company.n.03.481780
+בָּצָל	NOUN	onion.n.01.458742	onion.n.02.458738
+בַּצֹּרֶת	NOUN	drought.n.01.492062
+בִּקּוּר	NOUN	visiting.n.01.195115
+בִּקּוּשׁ	NOUN	demand.n.02.474036
+בָּקִי	ADJ	intimate.s.06.187719
+בָּקִיא	ADJ	intimate.s.06.187720
+בֶּקַע	NOUN	hernia.n.01.487510
+בִּקְעָה	NOUN	valley.n.01.413186
+בָּקָר	NOUN	cattle.n.01.277664
+בִּקֵּר	VERB	knock.v.06.180772
+בְּקִרְבַת-מָקוֹם	VERB	solidify.v.02.157110
+בְּקָרוֹב	ADV	soon.r.01.120782
+בִּקֵּשׁ	VERB	request.v.01.175746
+בַּקָּשָׁה	NOUN	request.n.02.379681
+בִּקְתָּה	NOUN	hovel.n.01.320303
+בָּר	NOUN	barroom.n.01.302446
+בַּרְבּוּר	NOUN	swan.n.01.242666
+בְּרֶגַע-שֶׁ	ADV	once.r.02.134408
+בָּרָד	NOUN	hail.n.01.446826
+בִּרְדֵּק	VERB	mess.v.02.142392
+בְּרוּטוֹ	NOUN	gross.n.02.470486
+בְּרוּךְ-כִּשָּׁרוֹן	ADJ	talented.a.01.199170
+בְּרוֹמִית-הַשִּׁיפוֹן	NOUN	chess.n.01.454455
+בְּרוֹשׁ	NOUN	cypress.n.02.448481
+בֶּרֶז	NOUN	water_faucet.n.01.335868
+בַּר-חֲלוֹף	ADJ	ephemeral.s.01.236338
+בֶּרֶט	NOUN	beret.n.01.303624
+בְּרִיאוּת	NOUN	health.n.01.490230
+בְּרִיאַת הָעוֹלָם	NOUN	initiation.n.02.139304
+בְּרִיזָה	NOUN	breeze.n.01.446332
+בְּרִיחָה	NOUN	running_away.n.01.121969
+בָּרִיקָדָה	NOUN	barricade.n.02.302420
+בְּרִית	NOUN	covenant.n.02.368309	treaty.n.01.372989
+בֶּרֶךְ	NOUN	knee.n.01.353536	knee.n.03.321523
+בְּרָכָה	NOUN	blessing.n.02.490789
+בַּר-מְנִיעָה	ADJ	evitable.a.01.147577
+בְּרִפְרוּף	ADV	cursorily.r.01.143493
+בָּרָק	NOUN	lightning.n.01.446965	shininess.n.01.344015
+בָּרַר	VERB	choose.v.01.170818
+בַּרְרָן	ADJ	choosy.s.01.190758
+בַּרְרָנוּת	NOUN	fastidiousness.n.01.342777
+בִּשּׁוּל	NOUN	cooking.n.01.139682	cuisine.n.01.388233
+בֹּשֶׂם	NOUN	perfume.n.02.326081
+בָּשָׂר	NOUN	flesh.n.01.349492	meat.n.01.389436	pulp.n.02.468403
+בַּת	NOUN	daughter.n.01.421804
+בְּתוּלִים	NOUN	hymen.n.02.352622	virginity.n.01.482614
+בְּתוּלִין	NOUN	hymen.n.02.352623
+בַּתְּחִלָּה	ADV	initially.r.01.127642
+בַּת-מֶלֶךְ	NOUN	princess.n.01.430618
+גֵּא	ADJ	proud.a.01.244672
+גֵּאֶה	ADJ	proud.a.01.244673
+גֵּאוֹמֶטְרְיָה	NOUN	geometry.n.01.361339
+גֵּאוּת	NOUN	boom.n.02.491207	high_tide.n.01.384144
+גַּאַוְתָן	ADJ	conceited.s.01.244920
+גָּאלָה	NOUN	gala.n.01.161985
+גָּאלִי	ADJ	french.a.01.307722
+גַּב	NOUN	backing.n.01.205092	back.n.01.353259
+גַּבָּה	NOUN	eyebrow.n.01.350101
+גִּבּוּי	NOUN	backing.n.01.205093
+גְּבוּל	NOUN	frontier.n.02.401280	limit.n.01.347125	margin.n.01.481235
+גְּבוּלִי	ADJ	borderline.s.01.221505
+גְּבוּרָה	NOUN	heroism.n.01.341795
+גִּבּוּשׁ	NOUN	consolidation.n.02.206840
+גְּבִינָה	NOUN	cheese.n.01.392604
+גַּבְנוּן	NOUN	kyphosis.n.01.491552
+גֶּבֶס	NOUN	gypsum.n.01.494100	plaster_of_paris.n.01.498589
+גִּבְעָה	NOUN	hill.n.01.410902
+גִּבְעֹנֶת	NOUN	knoll.n.01.411185
+גֶּבֶר	NOUN	cock.n.04.238519	man.n.01.427528	man.n.06.427543
+גִּבֵּר	VERB	strengthen.v.01.137698
+גָּבַר	VERB	get_the_better_of.v.01.198386	intensify.v.03.138208
+גַּבְרוּת	NOUN	masculinity.n.02.337945	penis.n.01.352688
+גַּבְרִיּוּת	NOUN	masculinity.n.02.337946
+גְּבֶרֶת	NOUN	dame.n.02.421729	mrs.n.01.365106
+גַּג	NOUN	roof.n.01.328898
+גַּגּוֹן	NOUN	awning.n.01.301139
+גְּדוּד	NOUN	regiment.n.01.397399
+גָּדוֹל	ADJ	big.s.05.165005	fantastic.s.02.232294	large.a.01.214817	significant.a.01.262945
+גִּדּוּל	NOUN	tumor.n.01.486760
+גִּדּוּף	NOUN	curse.n.01.378445
+גְּדִי	NOUN	kid.n.05.278544
+גְּדִיל	NOUN	tassel.n.01.333347
+גִּדֵּל	VERB	rear.v.02.286407
+גָּדַל	VERB	grow_up.v.01.286454	increase.v.01.132116
+גָּדֵר	NOUN	fence.n.01.316504
+גֹּדֶשׁ	NOUN	overplus.n.01.347054
+גִּהוּץ	NOUN	ironing.n.01.320897	ironing.n.02.165069
+גִּהוּק	NOUN	belch.n.01.128840
+גִּהֵץ	VERB	iron.v.01.215376
+גִּהֵק	VERB	burp.v.01.117757
+גּוֹאֵל	NOUN	savior.n.02.431986
+גּוֹזָל	NOUN	young_bird.n.01.228243
+גּוֹל	NOUN	goal.n.04.134845
+גּוֹלֶה	NOUN	exile.n.02.423201
+גʼוּלָה	NOUN	marble.n.02.323162
+גּוֹלֵל	VERB	wind.v.03.222927
+גּוּמִי	NOUN	condom.n.01.311655	rubber.n.01.498808
+גָּוֶן	NOUN	nuance.n.01.369427	shade.n.02.344069
+גּוּף-הָאָדָם	NOUN	human_body.n.01.348775
+גּוֹרָל	NOUN	fortune.n.04.490712
+גּוֹרֵם	NOUN	factor.n.05.475810
+גָּזַז	VERB	fleece.v.02.225179
+גֶּזַע	NOUN	trunk.n.01.469186
+גִּזְעִי	ADJ	purebred.a.01.245617	racial.a.02.247068
+גִּזְעָנוּת	NOUN	racism.n.01.363211	racism.n.02.201533
+גִּזְעָנִי	VERB	weather.v.03.247095
+גִּזְרָה	NOUN	cut.n.10.356885
+גָּחוֹן	NOUN	belly.n.05.262711
+גַּחַל	NOUN	ember.n.01.410497
+גַּחֶלֶת	NOUN	ember.n.01.410498
+גִּיד	NOUN	penis.n.01.352685	tendon.n.01.349845
+גִּיּוּס	NOUN	mobilization.n.01.201594	mobilization.n.02.206345	recruitment.n.01.208532
+גִּיטָרָה	NOUN	guitar.n.01.318866
+גִʼינְגִʼי	ADJ	ginger.s.01.152579
+גַּיִס	NOUN	corps.n.01.397380
+גַּיִס-חֲמִישִׁי	NOUN	fifth_column.n.01.399396
+גִּיר	NOUN	chalk.n.01.495954	chalk.n.04.309121
+גִʼירָף	NOUN	giraffe.n.01.280155
+גִʼירָפָה	NOUN	giraffe.n.01.280156
+גִּישָׁה	NOUN	approach_path.n.01.401177
+גַּל	NOUN	pile.n.01.394278	rotating_shaft.n.01.328969	wave.n.01.383135
+גֻּלָּה	NOUN	knob.n.01.321590	knob.n.02.321586	marble.n.02.323161
+גִּלָּה	VERB	unwrap.v.02.187560
+גְּלוֹבָּלִי	ADJ	global.s.01.225663
+גִּלּוּחַ	NOUN	shave.n.01.140614
+גִּלּוּי	NOUN	disclosure.n.01.380291
+גְּלוּיָה	NOUN	postcard.n.01.369943
+גְּלוּיוֹת	ADV	openly.r.01.122750
+גָּלוּל	ADJ	involute.s.01.272767
+גְּלוּלָה	NOUN	pill.n.02.326396	pill.n.05.326401
+גְּלוּלָה-לִמְנִיעַת-הֵרָיוֹן	NOUN	pill.n.05.326402
+גָּלוּת-מֵרָצוֹן	NOUN	exile.n.01.423206
+גְּלִימָה	NOUN	gown.n.05.318539
+גְּלָלִים	NOUN	droppings.n.01.496609
+גֹּלֶם	NOUN	lout.n.01.427230	pupa.n.01.272384
+גַּלְמוּדִיּוּת	NOUN	forlornness.n.01.387372
+גָּלְמִי	ADJ	crude.s.06.154267	unrefined.a.01.248443
+גַּלְעֵד	NOUN	memorial.n.03.323513
+גָּלַשׁ	VERB	boil_over.v.01.150532	ski.v.01.247571
+גַּלְשָׁן	NOUN	surfboard.n.01.332896
+גַּם	ADV	besides.r.02.122128
+גִּמְגּוּם	NOUN	hesitation.n.03.195644	stammer.n.01.489087
+גִּמְגֵּם	VERB	bumble.v.03.190597
+גַּמָּד	NOUN	gnome.n.01.414247
+גַּמָּדִי	ADJ	dwarfish.s.01.215513
+גָּמוּר	ADJ	exhausted.s.01.279778
+גָּמִישׁ	ADJ	elastic.a.01.181683	elastic.s.02.193447
+גָּמָל	NOUN	camel.n.01.280035
+גִּמֵּר	VERB	finish.v.04.208665
+גָּמַר	VERB	complete.v.01.159661
+גְּמָרָא	NOUN	talmud.n.01.367141
+גַּן	NOUN	garden.n.01.318017
+גְּנֵבָה	NOUN	larceny.n.01.177681
+גַּנְגְּרֶנָה	NOUN	necrosis.n.01.447142
+גֶʼנְדֶר	NOUN	sex.n.04.345076
+גַּנְדְּרָן	NOUN	dandy.n.01.421759
+גִּנָּה	NOUN	garden.n.01.318018
+גִּנּוּי	NOUN	disapprobation.n.01.371639
+גַּנְזַךְ	NOUN	archive.n.01.299445
+גַּנַּחַת	NOUN	asthma.n.01.485664
+גַּס	ADJ	crude.s.02.171285	uncivil.a.01.169112
+גַּס-רוּחַ	ADJ	uncivil.a.01.169113
+גַּעְגּוּעִים	NOUN	longing.n.01.385921
+גָּעַר	VERB	call_on_the_carpet.v.01.180663
+גְּעָרָה	NOUN	rebuke.n.01.371691
+גַּפָּה-קִדְמִית	NOUN	forelimb.n.01.281771
+גֶּפֶן	NOUN	grape.n.02.468878
+גָּפְרָה	NOUN	sulfate.n.01.499562
+גָּפְרִית	NOUN	sulfur.n.01.493820
+גָּר	VERB	populate.v.01.293627
+גֶּרֶב	NOUN	sock.n.01.331239
+גְּרָבִיטַצְיָה	NOUN	gravity.n.01.446813
+גִּרְגֵּר	VERB	gargle.v.01.195332	gargle.v.02.121162
+גַּרְדֶּרוֹבָּה	NOUN	cloakroom.n.02.310449
+גְּרוֹטֶסְקִי	ADJ	grotesque.s.01.137796
+גָּרוּם	ADJ	scraggy.s.01.191058
+גֵּרוּשׁ	NOUN	ejection.n.02.136438	exile.n.03.136514
+גֵּרוּשִׁין	NOUN	divorce.n.01.204172
+גָּרָזʼ	NOUN	garage.n.02.318000
+גַּרְזֶן	NOUN	ax.n.01.301146
+גְּרִימָה	NOUN	causing.n.01.121663
+גְּרִימַת-עָוֶל	NOUN	injustice.n.02.341715
+גְּרִיסִים	NOUN	groats.n.01.391891
+גְּרִיפָּה	NOUN	influenza.n.01.485330
+גְּרִירָה	NOUN	tow.n.01.128669
+גְּרָם	NOUN	gram.n.01.477787
+גֶּרֶם	NOUN	bone.n.01.349522
+גָּרַם	VERB	cause.v.01.230225
+גַּרְעִין	NOUN	nucleus.n.02.411838
+גַּרְעִינִים	NOUN	grain.n.07.455172
+גְּרֶפְּץ	NOUN	belch.n.01.128841
+גֶּשֶׁם	NOUN	rain.n.01.447300	rain.n.03.345741
+דְּאָגָה	NOUN	worry.n.02.387067
+דֶּאוּס-אֶקְס-מָכִינָה	NOUN	deus_ex_machina.n.01.422138
+דֹּאַר-שָׁמוּר	NOUN	general_delivery.n.01.396428
+דְּבֵקוּת	NOUN	devoutness.n.01.340958
+דֶּבֶר	NOUN	plague.n.01.485559
+דָּבָר	NOUN	thing.n.08.333814
+דִּבֵּר	VERB	talk.v.01.189276	talk.v.02.188100
+דָּבָר-לֹא-הֶכְרֵחִי	NOUN	inessential.n.01.411039
+דִּבֵּר-עַל-לִבּוֹ	VERB	wheedle.v.01.176758
+דַּד	NOUN	breast.n.02.353151
+דְּהַיְנוּ	ADV	namely.r.01.134946
+דּוֹבְרָה	NOUN	barge.n.01.302302
+דּוֹזָה	NOUN	dose.n.01.314880
+דּוּחַ	NOUN	ticket.n.03.368786
+דו"ח-תְּנוּעָה	NOUN	ticket.n.03.368787
+דָּחוּף	ADJ	pressing.s.01.173128
+דֶּטֶרְגֶּנְט	NOUN	builder.n.01.500047
+דַּי	ADV	quite.r.01.119081
+דִּיאָבֶּטִיס	NOUN	diabetes.n.01.485265
+דִּיאַגְנוֹזָה	NOUN	medical_diagnosis.n.01.131690
+דִּיאָלֶקְט	NOUN	dialect.n.01.379062
+דִּיּוּר	NOUN	housing.n.01.320292
+דֵּי-טוֹב	ADJ	good_enough.s.01.199501
+דִּיל	NOUN	bargain.n.01.372960
+דִּימֶר	NOUN	dimmer.n.01.314393
+דִּין-וּדְבָרִים	NOUN	dispute.n.01.379570
+דִּיסְצִיפְּלִינָה	NOUN	discipline.n.01.361268
+דִּיפְּלוֹמָה	NOUN	diploma.n.01.367490
+דִּיפּ-פְרִיז	NOUN	deep-freeze.n.01.313929
+דִּירֶקְטוֹרְיוֹן	NOUN	directorate.n.01.399680
+דִּירַת-סְטוּדְיוֹ	NOUN	studio_apartment.n.01.332597
+דַּלּוּת	NOUN	poverty.n.01.491300
+דָּלִיל	ADJ	sparse.s.01.163196
+דָּלִיק	ADJ	burnable.s.01.158950
+דְּלִיקָה	NOUN	pursuit.n.01.145714
+דֶּלְפֵּק-קַבָּלָה	NOUN	reception_desk.n.01.328234
+דִּמְדּוּמִים	NOUN	twilight.n.01.501468
+דְּמִימָה	NOUN	rest.n.07.374556
+דְּמִיעָה	NOUN	lacrimation.n.01.474682
+דְּמֵי-שְׁתִיָּה	NOUN	gratuity.n.01.471408
+דֶּסְקְרִיפְּטִיבִי	ADJ	descriptive.a.01.174341
+דֵּעָה	NOUN	opinion.n.01.360544	opinion.n.02.373189
+דֶּצֶנְטְרָלִיזַצְיָה	NOUN	decentralization.n.02.206877
+דֶּקָגוֹן	NOUN	decagon.n.01.480878
+דֶּקוֹרַצְיָה	NOUN	decoration.n.01.313898
+דַּקּוּת	NOUN	nuance.n.01.369428
+דַּרְדַּק	NOUN	male_child.n.01.427488
+דְּרִישָׁה	NOUN	requirement.n.01.359537
+דְּרִישַׁת-קְדָם	NOUN	prerequisite.n.01.359531
+דְּרִישַׁת-שָׁלוֹם	NOUN	regard.n.03.370008
+דֶּרֶךְ	NOUN	access.n.03.294869	manner.n.01.343491
+דָּרַךְ	VERB	step.v.02.258248
+דֶּרֶךְ-אֶרֶץ	NOUN	education.n.05.343367
+דַּרְלִינג	NOUN	darling.n.02.410358
+דֶּרְמָטוֹלוֹגְיָה	NOUN	dermatology.n.01.361731
+דְּרָמָטִיזַצְיָה	NOUN	dramatization.n.02.185240
+דָּרַשׁ	VERB	necessitate.v.01.292106
+דָּת	NOUN	religion.n.02.395781
+הָאָדָם	NOUN	homo.n.02.282175
+הֶאָטָה	NOUN	deceleration.n.01.346022
+הֶאֱמִין	VERB	believe.v.01.171276	believe.v.04.171362	believe.v.05.171339
+הֶאֱמִין בְּ	VERB	believe_in.v.01.174401
+הַאֲצָלַת-סַמְכֻיּוֹת	NOUN	delegating.n.01.200604
+הֶאֱרִיךְ	VERB	lengthen.v.01.145522
+הַאֲרָכָה	NOUN	prolongation.n.01.192731
+הַאֲרָקָה	NOUN	grounding.n.02.131267
+הַאֲשָׁמָה	NOUN	blame.n.02.371754
+הִבְדִּיל	VERB	distinguish.v.01.169461	distinguish.v.03.169535
+הִבְהֵב	VERB	flicker.v.02.301111	flicker.v.03.262884
+הִבְהִיר	VERB	clear.v.10.167643
+הִבְחִין	VERB	distinguish.v.01.169459
+הַבְחָנָה	NOUN	discrimination.n.02.356818
+הַבְטָחָה	NOUN	promise.n.01.380515	promise.n.02.360609
+הִבְטִיחַ	VERB	guarantee.v.02.184700
+הָבִיל	ADJ	muggy.s.01.287164
+הֵבִין	VERB	sympathize.v.02.165753	understand.v.01.165414	understand.v.02.165545	understand.v.03.165731	understand.v.04.165699
+הִבִּיעַ	VERB	voice.v.01.187542
+הִבְלִיט	VERB	stress.v.01.192437
+הַבֵּן	NOUN	son.n.02.414140
+הֲבָרָה	NOUN	syllable.n.01.364570
+הַבְרָחָה	NOUN	smuggling.n.01.198665
+הִבְרִיק	VERB	gloss.v.01.232540
+הַבְרָקָה	NOUN	shining.n.01.164968
+הַבְּתוּלָה-הַקְּדוֹשָׁה	NOUN	mary.n.01.441991
+הַגָּבוֹהַּ-בְּיוֹתֵר	ADJ	topmost.s.01.280275
+הִגְבִּיר	VERB	enhance.v.01.138440
+הַגְבָּלָה	NOUN	limitation.n.05.179682	restriction.n.01.358756
+הֶגְבֵּר	NOUN	amplification.n.03.149763
+הַגְבָּרָה	NOUN	amplification.n.03.149764	intensification.n.01.150449
+הִגְדִּיל	VERB	increase.v.02.131703
+הִגּוּי	NOUN	pronunciation.n.01.378532
+הָגוּן	ADJ	goodly.s.01.168003
+הַגּוֹרָל	NOUN	destiny.n.02.413675
+הִגְזִים	VERB	overdo.v.01.288443	overstate.v.01.181484
+הַגְזָמָה	NOUN	exaggeration.n.02.149911	exaggeration.n.03.372670
+הֵגִיב	VERB	answer.v.01.180135	react.v.01.173372
+הִגִּיד	VERB	order.v.01.175179	state.v.01.192165
+הֲגִיָּה	NOUN	pronunciation.n.01.378533
+הֲגִירָה-יוֹצֵאת	NOUN	emigration.n.01.123031
+הֲגִירָה-נִכְנֶסֶת	NOUN	immigration.n.01.123044
+הִגִּישׁ-עֶזְרָה	VERB	help.v.01.286982
+הִגְלָה	VERB	expatriate.v.01.283678
+הַגְלָיָה	NOUN	exile.n.03.136515
+הֶגְמוֹנְיָה	NOUN	hegemony.n.01.399429
+הֲגָנָה-עַצְמִית	NOUN	self-defense.n.01.180712
+הִגֵּר	VERB	emigrate.v.01.154183
+הֲדָדִי	ADJ	common.s.03.262337
+הֹדּוּ	NOUN	india.n.01.406204
+הִדּוּק	NOUN	tightening.n.01.131198
+הֲדִיפָה	NOUN	repulsion.n.03.189213
+הִדִּיר-אוֹתוֹ-מִנְּכָסָיו	VERB	deprive.v.01.272503
+הִדְפִּיס	VERB	type.v.01.191890
+הַדְפָּסָה	NOUN	typing.n.01.366132
+הַדְרָגָתִי	ADJ	gradual.a.01.200688
+הִדַּרְדֵּר	VERB	avalanche.v.01.249327
+הַדְרָכָה	NOUN	guidance.n.02.200812
+הַדְרָן	NOUN	encore.n.01.127355
+הוֹבִּי	NOUN	avocation.n.01.155932
+הוֹדִיעַ	VERB	inform.v.01.181063
+הוֹדָעָה	NOUN	message.n.01.363857	telling.n.02.380276
+הוֹדָעָת תַּשְׁלוּם	NOUN	notification.n.03.379712
+הוֹלֵם	ADJ	suitable.s.01.192915
+הוֹמֶה	ADJ	bustling.s.01.121027
+הוֹמוֹגֶנִי	ADJ	homogeneous.a.01.204091
+הוֹנָה	VERB	deceive.v.02.182451
+הוֹצָאָה	NOUN	expending.n.01.199368	outgo.n.01.470939	publisher.n.01.395507
+הוֹצָאָה-לָאוֹר	NOUN	issue.n.11.198107
+הוֹצָאַת-סְפָרִים	NOUN	publisher.n.01.395510
+הוֹרָדָה	NOUN	lowering.n.01.148485	lowering.n.02.146216
+הוֹרֶה	NOUN	parent.n.01.429483
+הוֹרָה	NOUN	parent.n.01.429484
+הוֹרָה	VERB	order.v.01.175178
+הוֹרֶה-בִּיוֹלוֹגִי	NOUN	genitor.n.01.424359
+הוֹרִיד	VERB	download.v.01.267544	reduce.v.20.121919
+הִזְדַּחֲלוּת	NOUN	crawl.n.01.146389
+הִזְדַּיֵּן	VERB	sleep_together.v.01.217267
+הַזָּהָב-הַשָּׁחֹר	NOUN	petroleum.n.01.498408
+הֲזָיָה	NOUN	hallucination.n.01.488731
+הֵזִיז	VERB	move.v.02.242271
+הֵזִּיעַ	VERB	sweat.v.01.124524
+הַזְמָנָה	NOUN	invitation.n.01.379719
+הֲזָנָה	NOUN	feeding.n.02.195195
+הַזְרָעָה	NOUN	insemination.n.02.181783
+הַחֶבְרָה-הַגְּבוֹהָה	NOUN	society.n.04.399800
+הַחְזָקָה	NOUN	retention.n.01.179815
+הַחְיָאָה	NOUN	resuscitation.n.01.194602
+הֶחֱיָה	VERB	resuscitate.v.01.127237
+הֵחֵל	VERB	get_down.v.07.147750
+הֶחְלִיף	VERB	change.v.05.133334	exchange.v.01.268986	supplant.v.01.277837	switch.v.03.163624	transfer.v.06.258033
+הַחְלָמָה	NOUN	convalescence.n.01.473868
+הַחְלָפָה	NOUN	exchange.n.04.198481	replacement.n.01.135697
+הַחְלָשָׁה	NOUN	weakening.n.02.149407
+הֵחָלְשׁוּת	NOUN	weakening.n.01.384675
+הֶחְמִיץ	VERB	pickle.v.01.136978	sour.v.01.157988
+הַחְמָצָה	NOUN	souring.n.01.475372
+הַחֲמִשִּׁים	ADJ	fiftieth.s.01.266022
+הֶחְנָה	VERB	park.v.02.247386
+הֶחְרִים	VERB	impound.v.01.270029
+הַחְרָמָה	NOUN	confiscation.n.01.126048
+הַחֵרְשִׁים	NOUN	deaf.n.01.394029
+הֶחְשִׁיב	VERB	allow.v.06.173788
+הִטְבִּיל	VERB	baptize.v.01.193434
+הַטְבָּלָה	NOUN	baptism.n.01.193999
+הַטְבָּעָה	NOUN	imprinting.n.01.356943
+הֵטִיל-מַיִם	VERB	make.v.49.124849
+הֲטָלָה	NOUN	laying.n.01.474691
+הֲטָלַת-בֵּיצִים	NOUN	laying.n.01.474692
+הַיּוֹם	ADV	nowadays.r.01.122281	today.r.02.136471
+הֵיטֵב	ADV	well.r.01.118468
+הַיְנוּ	ADV	namely.r.01.134944
+הַי-סוֹסָיֶטִי	NOUN	society.n.04.399799
+הִיפּוֹקְרִיטִי	ADJ	hypocritical.s.01.264285
+הִיפֶּרְבּוֹלָה	NOUN	hyperbole.n.01.378103
+הֵכִיל	VERB	consist.v.04.292583
+הִכְלִיל	VERB	generalize.v.01.193063
+הַכְלָלָה	NOUN	abstraction.n.03.357336	generalization.n.02.359927	inclusion.n.04.150349
+הִכָּלְלוּת	NOUN	inclusion.n.01.482012
+הַכְנָסָה	NOUN	income.n.01.470451	insertion.n.02.145769
+הַכְנָסָה-נֶטוֹ	NOUN	net_income.n.01.470519
+הַכְנָסָה-נְקִיָּה	NOUN	net_income.n.01.470520
+הִכְפִּישׁ	VERB	vilify.v.01.181979
+הַכְרָזָה	NOUN	announcement.n.01.372040
+הִכְרִיז	VERB	announce.v.02.189499
+הַכְשָׁרָה	NOUN	training.n.01.184913
+הַכְתָּבָה	NOUN	command.n.01.379271	dictation.n.02.379116
+הִכְתִּיב	VERB	dictate.v.02.168120	order.v.03.175226
+הַכְתָּמָה	NOUN	staining.n.02.142440
+הַכְתָּרָה	NOUN	coronation.n.01.385214
+הִלְאִים	VERB	nationalize.v.01.153769
+הִלְבִּין	VERB	whiten.v.01.142724
+הַלְבָּשָׁה-תַּחְתּוֹנָה	NOUN	underwear.n.01.335083
+הִלָּה	NOUN	halo.n.03.447150
+הַלְוָאָה	NOUN	loan.n.01.473092
+הַלְוָיָה	NOUN	funeral.n.01.385159
+הִלּוּךְ-רִאשׁוֹן	NOUN	first_gear.n.01.316883
+הָלוּצִינַצְיָה	NOUN	hallucination.n.01.488732
+הִלְחִים	VERB	solder.v.01.227353
+הִלְחִין	VERB	compose.v.02.233641
+הֶלְיוּם	NOUN	helium.n.01.493588
+הֲלִיךְ	NOUN	proceeding.n.01.203273
+הֲלִיכִים-מִשְׁפָּטִיִּים	NOUN	proceeding.n.01.203274
+הֶלִיקוֹפְּטֶר	NOUN	helicopter.n.01.319634
+הָלַךְ-לְאִבּוּד	VERB	disappear.v.01.155264
+הֲלָצָה	NOUN	joke.n.01.373091
+הָמוֹן	NOUN	batch.n.02.478803
+הֲמוֹנִי	ADJ	large-scale.s.02.215250
+הִמּוּר	NOUN	gamble.n.02.179282
+הַמְחָזָה	NOUN	dramatization.n.02.185239
+הֵמִיר	VERB	change.v.06.132549
+הַמְלָכָה	NOUN	coronation.n.01.385213
+הִמָּנְעוּת	NOUN	avoidance.n.01.136152
+הַמָּסָךְ-הַקָּטָן	NOUN	television_receiver.n.01.333536
+הַמְצָאָה	NOUN	invention.n.03.188011
+הַמְשָׁכָה	NOUN	continuance.n.01.192700
+הִמָּשְׁכוּת	NOUN	duration.n.02.500657
+הַמִּשְׁפָּחָה הַמֻּרְחֶבֶת	NOUN	extended_family.n.01.394476
+הִמְתִּיק	VERB	desalinate.v.01.162655
+הַמְתָּקַת-דִּין	NOUN	extenuation.n.02.148611
+הַנְדָּסָה	NOUN	engineering.n.02.362345	geometry.n.01.361338
+הַנּוֹצְרִי	NOUN	redeemer.n.02.431317
+הַנְחָיָה	NOUN	guidance.n.02.200813
+הִנִּיחַ	VERB	assume.v.01.168394	think.v.02.168348
+הַנְמָכָה	NOUN	lowering.n.02.146217
+הַנִּסְתָּר	NOUN	supernatural.n.01.413663
+הִנְצִיחַ	VERB	perpetuate.v.01.293517
+הַסִּבָּה-הָרִאשׁוֹנָה	NOUN	first_cause.n.01.413671
+הִסְבִּיר	VERB	clear.v.10.167644
+הַסְגָּרָה	NOUN	extradition.n.01.136990
+הִסְדִּיר	VERB	regularize.v.02.142336	settle.v.03.176393	settle.v.14.268783
+הֶסְדֵּר	NOUN	settlement.n.03.379473
+הַסְדָּרָה	NOUN	regulation.n.06.179456
+הִסּוּס	NOUN	hesitation.n.01.356011
+הִסְכִּים	VERB	accept.v.03.178885
+הִסְפִּיק	VERB	suffice.v.01.294779
+הַסְרָטָה	NOUN	filming.n.01.185791
+הִסְרִיחַ	VERB	reek.v.02.260437
+הִסְתַּגְּלוּת	NOUN	adaptation.n.02.473512
+הִסְתַּדֵּר	VERB	clean_up.v.04.121538	do.v.04.291394	get_along_with.v.01.281426	work_out.v.02.290992
+הִסְתַּדְּרוּת	NOUN	union.n.01.397752
+הִסְתּוֹבֵב	VERB	circle.v.02.254831	hobnob.v.01.276844	roll.v.12.244020	swing_around.v.01.243834	turn.v.01.245832	turn.v.09.258551
+הִסְתּוֹבְבוּת	NOUN	rotation.n.01.147422
+הִסְתַּיֵּם	VERB	end.v.01.290888
+הִסְתַּלְבֵּט	VERB	ridicule.v.01.182262
+הִסְתַּלְּקוּת	NOUN	departure.n.01.121686
+הִסְתַּעֲרוּת	NOUN	storm.n.03.190130
+הֶעֱבִיר	VERB	pass.v.05.267339
+הֶעֱבִיר-אוֹתוֹ-מִיְּרֻשָּׁתוֹ	VERB	disinherit.v.01.272610
+הָעוֹלָם-הַנּוֹצְרִי	NOUN	christendom.n.01.395785
+הֵעֵז	VERB	dare.v.02.286827	make_bold.v.01.275991
+הָעִירִיָּה	NOUN	town_hall.n.01.334372
+הַעֲלָאָה	NOUN	lift.n.12.128732	raise.n.01.346811
+הַעֲלָאָה-בְּדַרְגָּה	NOUN	promotion.n.02.135753
+הַעֲלָאַת-מִרְיָם	NOUN	assumption.n.04.501893
+הֶעֱלָה	VERB	arouse.v.01.236465	raise.v.01.132318	raise.v.02.249904	raise.v.19.193216
+הֶעֱלִיב	VERB	diss.v.01.182000
+הָעֶלְיוֹן	ADJ	topmost.s.01.280274
+הֶעֱמִיד	VERB	stand.v.10.224467
+הַעֲנָשָׁה	NOUN	punishment.n.01.201814
+הַעֲצָמָה	NOUN	intensification.n.01.150448
+הֶעֱרִיךְ	VERB	measure.v.04.171146	respect.v.01.171931
+הֶעְתֵּק	NOUN	fault.n.04.410561
+הַעְתָּקָה	NOUN	copying.n.01.192795	resettlement.n.01.207857
+הֲפוּגָה	NOUN	respite.n.02.195609
+הָפוּךְ	ADV	upside_down.r.01.137554
+הִפּוּךְ	NOUN	reversal.n.03.384310	reverse.n.01.480428	somersault.n.01.156582
+הִפְחִית	VERB	extenuate.v.01.185688
+הַפְחָתָה	NOUN	decrease.n.04.148298
+הֶפְּטָגוֹן	NOUN	heptagon.n.01.480872
+הֲפִיכָה	NOUN	coup_d'etat.n.01.200862
+הֶפֶךְ	NOUN	reverse.n.01.480427
+הָפַךְ	VERB	become.v.02.292027	make.v.18.164066	mess.v.02.142390	overturn.v.02.245978
+הֲפֵכָה	NOUN	coup_d'etat.n.01.200861
+הַפְלָגָה	NOUN	cruise.n.01.145226
+הַפָּלָה	NOUN	abortion.n.01.138503
+הַפָּלָה-טִבְעִית	NOUN	spontaneous_abortion.n.01.138517
+הִפְנָה	VERB	level.v.01.201397
+הִפְנָה-שְׁאֵלָה	VERB	address.v.04.201257
+הַפְנָיָה	NOUN	citation.n.03.372785
+הֶפְסֵד	NOUN	defeat.n.01.385581
+הֲפָסָה	NOUN	appeasement.n.01.201249
+הִפְסִיק	VERB	break.v.10.149377	discontinue.v.01.295638
+הֶפְסֵק	NOUN	break.n.13.151313	rest.n.07.374555
+הַפְסָקָה	NOUN	intermission.n.01.195661	pause.n.01.503283	respite.n.02.195610
+הִפְצִיר	VERB	bid.v.03.176258
+הַפְצָצָה	NOUN	bombing.n.01.190391
+הַפְקָעָה	NOUN	expropriation.n.01.126130
+הֵפֵר	VERB	transgress.v.01.288302
+הַפְרָזָה	NOUN	exaggeration.n.03.372671
+הִפְרִיד	VERB	distinguish.v.01.169460
+הִפְרִיז	VERB	overstate.v.01.181486
+הִפְרִישׁ	VERB	allow.v.04.173824
+הַפְשָׁטָה	NOUN	abstraction.n.06.117694
+הַפְתָּעָה	NOUN	surprise.n.01.386658	surprise.n.02.381986
+הַצָּגַת-בְּכוֹרָה	NOUN	premiere.n.01.375040
+הִצְהִיב	VERB	yellow.v.01.143425
+הַצְהָרָה-בִּשְׁבוּעָה	NOUN	affidavit.n.01.372202
+הִצְחִין	VERB	reek.v.02.260436
+הִצְטַמְצֵם	VERB	decrease.v.01.131539
+הִצְטַמֵּק	VERB	shrivel.v.01.139456
+הִצְטָרֵף	VERB	join.v.01.279866	join.v.03.290349
+הִצִּיעַ	VERB	offer.v.02.271517	propose.v.01.183714
+הֵצִיף	VERB	overwhelm.v.01.239798
+הֵצִיץ	VERB	peep.v.01.263281
+הַצְּלָב-הָאָדֹם	NOUN	red_cross.n.01.395307
+הַצָּלוּב	NOUN	redeemer.n.02.431316
+הַצְּלִיבָה	NOUN	crucifixion.n.01.202136
+הַצְלָפָה	NOUN	whip.n.05.130024
+הִצְמִיד	VERB	attach.v.01.210211
+הַצָּעָה	NOUN	proposal.n.01.379163	proposal.n.03.379131
+הַצָּעַת-נִשּׂוּאִין	NOUN	marriage_proposal.n.01.379154
+הֲצָפָה	NOUN	implosion_therapy.n.01.172417
+הֲצָצָה	NOUN	peek.n.01.183896
+הֵצֵר	VERB	take_in.v.17.144490
+הִצְרִיךְ	VERB	necessitate.v.01.292107
+הֲקָאָה	NOUN	vomit.n.03.128926
+הִקְבִּיל-אֶת-פָּנָיו	VERB	welcome.v.02.185321
+הִקְדִּים	VERB	precede.v.04.251719
+הַקְדָּמָה	NOUN	introduction.n.02.365979	precession.n.02.208139
+הִקְטִין	VERB	decrease.v.02.156794
+הֵקִיא	VERB	vomit.v.01.125280
+הֵקִים	VERB	establish.v.02.230380	raise.v.09.231353	stand.v.10.224466
+הֵקֵל	VERB	extenuate.v.01.185687
+הֶקְסָגוֹן	NOUN	hexagon.n.01.480867
+הֶקֵּף	NOUN	circumference.n.01.346653	extent.n.01.482107	perimeter.n.02.480662
+הַר	NOUN	mountain.n.01.411650
+הַרְבֵּה	ADJ	many.a.01.224723
+הִרְגִּישׁ	VERB	feel.v.03.259109
+הַרְגָּשָׁה	NOUN	feeling.n.01.119855
+הַרְדּוּף	NOUN	oleander.n.01.450358
+הִרְדִּים	VERB	anesthetize.v.01.119352
+הֶרוֹאִיזְם	NOUN	heroism.n.01.341796
+הֶרוֹאִין	NOUN	heroin.n.01.319694
+הָרוּג	ADJ	exhausted.s.01.279774
+הִרְוָה	VERB	quench.v.01.204327
+הָרוּס	ADJ	exhausted.s.01.279775
+הִרְזָה	VERB	reduce.v.20.121918
+הַרְחָבָה	NOUN	widening.n.03.153431
+הַרְטָבָה	NOUN	wetting.n.01.142477
+הֵרָיוֹן	NOUN	pregnancy.n.01.484296
+הֵרִים	VERB	raise.v.02.249903
+הֵרִים-אֶת-קוֹלוֹ	VERB	shout.v.01.186144
+הָרַךְ-הַנּוֹלָד	NOUN	neonate.n.01.428651
+הֶרְכֵּב	NOUN	constitution.n.04.343589	ensemble.n.01.397138
+הַרְכָּבָה	NOUN	fabrication.n.04.186112	graft.n.03.150938	inoculation.n.01.180616
+הִרְכִּיב	NOUN	blackpoll.n.01.225713
+הִרְכִּיב	VERB	assemble.v.01.231170	compose.v.01.291657	graft.v.01.223470	immunize.v.02.126191
+הֲרָמָה	NOUN	lift.n.12.128731
+הַרְמוֹן	NOUN	harem.n.01.319331
+הֶרְנְיָה	NOUN	hernia.n.01.487511
+הַרְפַּתְקָה	NOUN	adventure.n.01.178751
+הַרְפַּתְקָנִי	ADJ	adventurous.a.01.124280
+הַרְצָאָה	NOUN	lecture.n.01.380811	lecture.n.02.371765
+הַר-קֶרַח	NOUN	iceberg.n.01.410991
+הִרְשִׁיעַ	VERB	convict.v.01.185703
+הַרְשָׁמָה	NOUN	registration.n.01.122437
+הֶשֵּׂג	NOUN	accomplishment.n.01.120940
+הַשָּׂגָה	NOUN	acquiring.n.01.121605
+הֶשֵּׂגִיּוּת	NOUN	ambition.n.02.341235
+הַשְׁוָאָה	NOUN	comparison.n.01.130736	equalization.n.01.121841
+הִשְׁוִיץ	VERB	boast.v.01.184265
+הֵשִׁיב	VERB	answer.v.01.180136
+הֵשִׁיב-בְּחִיּוּב	VERB	accept.v.03.178886
+הִשִּׂיג	VERB	knock.v.06.180773
+הִשְׁלִים	VERB	follow_through.v.02.159782
+הַשְׁלָמָה	NOUN	completion.n.02.136830
+הִשְׁמִיעַ	VERB	voice.v.02.188668
+הִשְׁקִיעַ	VERB	precipitate.v.02.159059
+הַשְׁקָעָה	NOUN	investing.n.01.197887	investment.n.02.472005	submergence.n.01.383404
+הִשְׁתָּאוּת	NOUN	astonishment.n.01.386638
+הִשְׁתּוֹמְמוּת	NOUN	astonishment.n.01.386639
+הִשְׁתּוֹקְקוּת	NOUN	longing.n.01.385922
+הִשְׁתַּחְצֵן	VERB	boast.v.01.184267
+הִשְׁתִּיל	VERB	transplant.v.03.223458
+הִשְׁתִּין	VERB	make.v.49.124848
+הִשְׁתַּלֵּט	VERB	overwhelm.v.01.239799
+הִשְׁתַּמְּטוּת	NOUN	evasion.n.03.174838
+הַשְׁתָּנָה	NOUN	micturition.n.01.474818
+הִשְׁתַּנָּה	VERB	change.v.02.128343
+הִשְׁתַּנּוּת	NOUN	change.n.01.381941
+הִשְׁתַּעֵל	VERB	cough.v.01.117994
+הִשְׁתַּתְּפוּת	NOUN	engagement.n.07.206945
+הִתְאַגְּדוּת	NOUN	unionization.n.01.139545
+הִתְאַדָּה	VERB	evaporate.v.01.149882
+הִתְאַדּוּת	NOUN	vaporization.n.02.475554
+הִתְאוֹשְׁשׁוּת	NOUN	recovery.n.01.384540
+הִתְאַחֵד	VERB	connect.v.03.291730	unify.v.01.149921
+הַתְאָמָה	NOUN	function.n.01.479035
+הִתְאַמֵּן	VERB	drill.v.03.166517	train.v.08.127404
+הִתְאַמְּנוּת	NOUN	exercise.n.03.184965
+הִתְאָרֵךְ	VERB	lengthen.v.02.145446
+הִתְבַּדֵּחַ	VERB	joke.v.01.182377	joke.v.02.127929
+הִתְבַּדְּחוּת	NOUN	jest.n.02.155757
+הִתְבּוֹדְדוּת	NOUN	aloneness.n.01.336917
+הִתְבּוֹנְנוּת	NOUN	observation.n.02.184001
+הִתְבַּיֵּת	VERB	range_in.v.01.201407
+הִתְבַּלְּטוּת	NOUN	protrusion.n.02.153405
+הִתְגַּבֵּר	VERB	get_the_better_of.v.01.198387	intensify.v.03.138211
+הִתְגַּבְּרוּת	NOUN	strengthening.n.01.384674
+הִתְגַּבְּשׁוּת	NOUN	crystallization.n.01.446025
+הִתְגּוֹנְנוּת	NOUN	self-defense.n.01.180711
+הִתְגּוֹרֵר	VERB	populate.v.01.293631
+הִתְהַוָּה	VERB	come_to_life.v.01.149261
+הִתְהַפֵּךְ	VERB	overturn.v.01.245929	roll_over.v.01.243143
+הִתְהַפְּכוּת	NOUN	somersault.n.01.156583
+הִתְוַדֵּעַ	VERB	familiarize.v.01.183635	introduce.v.01.185371
+הִתְחַבֵּר	VERB	attach.v.02.209929	connect.v.03.291731	log_in.v.01.268514
+הִתְחַזֵּק	VERB	intensify.v.03.138209
+הִתְחַזְּקוּת	NOUN	strengthening.n.01.384672
+הִתְחִיל	VERB	begin.v.02.290817	get_down.v.07.147751
+הַתְחָלָה	NOUN	beginning.n.02.503121	beginning.n.03.359113
+הִתְחַלֵּף	VERB	change.v.02.128342	exchange.v.01.268987
+הִתְחַלְּפוּת	NOUN	change.n.01.381942
+הִתְחַמְצֵן	VERB	oxidize.v.02.139210
+הִתְחַמְּקוּת	NOUN	evasion.n.03.174837
+הִתְחָרָה	VERB	compete.v.01.196223
+הִתְחַשֵּׁב	VERB	consider.v.04.188594
+הִתְחַשְּׁבוּת	NOUN	consideration.n.04.341379
+הִתְיַבֵּשׁ	VERB	dry.v.02.137521
+הִתִּיךְ	VERB	smelt.v.01.232520
+הִתְיַעֲצוּת	NOUN	consultation.n.02.378846
+הִתְיַפֵּחַ	VERB	sob.v.01.124453
+הִתְיַצְּבוּת	NOUN	stabilization.n.01.201774
+הִתִּיר	VERB	untie.v.01.209596
+הִתְכַּתֵּב	VERB	correspond.v.03.192005
+הִתְכַּתְּבוּת	NOUN	correspondence.n.01.369835
+הִתֵּל	VERB	ridicule.v.01.182259
+הַתְמָדָה	NOUN	perseverance.n.02.192982
+הִתְמוֹדֵד	VERB	compete.v.01.196224	cope.v.01.289737
+הִתְמַקֵּד	VERB	focus_on.v.01.295307
+הִתְמָרְדוּת	NOUN	rebellion.n.01.202868	rebellion.n.02.189262
+הִתְמַשְּׁכוּת	NOUN	duration.n.02.500658
+הִתְנַגֵּשׁ	VERB	run_into.v.02.207043
+הִתְנַדְּבוּתִי	ADJ	voluntary.a.01.285090
+הִתְנַדֵּף	VERB	evaporate.v.01.149883
+הִתְנַדְּפוּת	NOUN	vaporization.n.02.475555
+הִתְנַזֵּר	VERB	abstain.v.02.203880
+הִתְנַמְנֵם	VERB	snooze.v.01.118788
+הִתְעַטֵּשׁ	VERB	sneeze.v.01.117907
+הִתְעַטְּשׁוּת	NOUN	sneeze.n.01.487746
+הִתְעַלּוּת	NOUN	abnegation.n.02.136332	ecstasy.n.01.483170
+הִתְעַלּוּת-הַנֶּפֶשׁ	NOUN	ecstasy.n.01.483172
+הִתְעַלֵּל	VERB	mistreat.v.01.284845
+הִתְעַלְּלוּת	NOUN	maltreatment.n.01.154544
+הִתְעַלֵּף	VERB	faint.v.01.119600
+הִתְעַמְּלוּת	NOUN	exercise.n.01.168010	gymnastics.n.01.156044
+הִתְעַצֵּם	VERB	intensify.v.03.138210
+הִתְעַצְּמוּת	NOUN	strengthening.n.01.384673
+הִתְפַּטְּרוּת	NOUN	resignation.n.02.381081
+הִתְפִּיל	VERB	desalinate.v.01.162656
+הִתְפַּלֵּא	VERB	wonder.v.03.187047
+הַתְפָּלָה	NOUN	desalination.n.01.474061
+הִתְפַּלֵּל	VERB	pray.v.01.176285
+הִתְפַּלְסֵף	VERB	philosophize.v.01.168270
+הַתְפָּלַת-מַיִם	NOUN	desalination.n.01.474062
+הִתְפַּנְּקוּת	NOUN	indulgence.n.03.196303
+הִתְפָּרְצוּת	NOUN	effusion.n.01.376805	housebreaking.n.01.178113	outbreak.n.01.384842
+הִתְפַּשֵּׁר	VERB	compromise.v.01.193853	compromise.v.02.193826
+הִתְפַּתְּחוּת	NOUN	development.n.02.474104
+הִתְקַדֵּם	VERB	advance.v.01.251221	progress.v.01.140036
+הִתְקַדְּמוּת	NOUN	advancement.n.03.140113	progress.n.03.385012
+הִתְקוֹמְמוּת	NOUN	rebellion.n.02.189263
+הִתְקַיֵּם	VERB	exist.v.02.291348	happen.v.01.147221
+הִתְקִין	NOUN	blackpoll.n.01.225712
+הִתְקַלְקֵל	VERB	spoil.v.02.136739
+הִתְקָרֵב	VERB	approach.v.01.255479
+הֶתֵּר	NOUN	license.n.04.200455
+הִתְרַבְרֵב	VERB	boast.v.01.184266
+הִתְרָה	VERB	caution.v.01.183454
+הִתְרוֹמְמוּת	NOUN	rise.n.04.385019
+הִתְרוֹמְמוּת-רוּחַ	NOUN	ecstasy.n.01.483171
+הִתְרוֹשְׁשׁוּת	NOUN	pauperization.n.02.201184
+הִתְרַחֲבוּת	NOUN	widening.n.01.475583
+הִתְרַחֵשׁ	VERB	happen.v.01.147222
+הִתְרַחֲשׁוּת	NOUN	happening.n.01.381594
+הִתְרַכֵּז	VERB	focus_on.v.01.295308
+הִתְרַכְּכוּת	NOUN	softening.n.01.475351
+הַתְרָעָה	NOUN	warning.n.01.380481
+וָאדִי	NOUN	wadi.n.01.413251
+וָאוּצֶʼר	NOUN	coupon.n.01.368186
+וֶגֶטַצְיָה	NOUN	vegetation.n.01.400514
+ווּלְגָּרִי	ADJ	crude.s.02.171286
+ווֹלוּנְטָרִי	ADJ	voluntary.a.01.285089
+וִיזָה	NOUN	visa.n.01.371158
+וִילוֹן	NOUN	curtain.n.01.313521
+וִילוֹן-מִקְלַחַת	NOUN	shower_curtain.n.01.330490
+וַיִּקְרָא	NOUN	leviticus.n.01.366828
+וִירוּס	NOUN	virus.n.01.211944
+וִכּוּחַ	NOUN	argument.n.03.378796	dispute.n.01.379569
+וֶנוּס	NOUN	venus.n.01.413215
+וֶנְטִילָטוֹר	NOUN	ventilator.n.01.335366
+וִסּוּת	NOUN	regulation.n.06.179455
+וֶסֶת	NOUN	menstruation.n.01.474787
+וַסַּת-אוֹר	NOUN	dimmer.n.01.314395
+וַעֲדָה	NOUN	committee.n.01.399039
+וֶרֶד	NOUN	rose.n.01.461501
+וְרִידִי	ADJ	venous.a.01.293153
+וֵשֶׁט	NOUN	esophagus.n.01.352798
+וִתּוּר	NOUN	concession.n.02.379441	concession.n.03.380339
+וָתִיק	ADJ	aged.s.01.230148
+זְאֵב	NOUN	wolf.n.01.259669
+זַאֲטוּט	NOUN	toddler.n.01.434847
+זֶבֶל	NOUN	rubbish.n.01.496675
+זִבֵּל	VERB	manure.v.01.257744
+זַבָּנִית	NOUN	salesgirl.n.01.431889
+זִהוּם	NOUN	contamination.n.03.142457	pollution.n.01.491730
+זְהִירוּת	NOUN	caution.n.01.337862	caution.n.03.354209
+זֹהַר	NOUN	glamor.n.01.338379	radiance.n.02.343991
+זוּטָר	ADJ	junior.a.01.258849
+זוֹנָה	NOUN	prostitute.n.01.430827
+זוֹנַת-רְחוֹב	NOUN	streetwalker.n.01.433876
+זוֹעֵם	ADJ	angered.s.01.128602
+זְחִילָה	NOUN	crawl.n.01.146388
+זַחַל	NOUN	larva.n.01.272319
+זָחַל	VERB	crawl.v.01.244402
+זִיּוּף	NOUN	forgery.n.02.176776	imitation.n.02.320552
+זִילוּת	NOUN	contempt.n.04.202991
+זַיִת	NOUN	olive.n.01.456952	olive.n.02.456948
+זַכַּאי	ADJ	acquitted.s.01.211459
+זְכוּת-יֶתֶר	NOUN	prerogative.n.01.348220
+זֵכֶר	NOUN	memory.n.01.360367	trace.n.02.370406
+זָכָר	NOUN	masculine.n.01.364885
+זִכָּרוֹן	NOUN	memory.n.01.360368	memory.n.02.357012
+זַלְזַל	NOUN	branchlet.n.01.469147
+זִלְזֵל	VERB	contemn.v.01.237391
+זִמָּה	NOUN	obscenity.n.01.342942
+זִמְזוּם	NOUN	buzz.n.01.383716
+זְמַן	NOUN	tense.n.01.364889
+זְמַן-עָבָר	NOUN	past.n.03.364907
+זְמַנִּי	ADJ	impermanent.a.01.236289
+זִמְרָה	NOUN	singing.n.01.163344	tattle.n.01.373675
+זַמְשׁ	NOUN	suede.n.01.495272
+זְנוּת	NOUN	prostitution.n.01.175316
+זֶנִית	NOUN	zenith.n.01.404042
+זֵעָה	NOUN	perspiration.n.01.351244
+זָעִיר	ADJ	bantam.s.01.215472
+זֶפֶק	NOUN	craw.n.01.249901
+זֶפֶת	NOUN	pitch.n.06.497483
+זָקוּף	ADJ	straight.s.04.206859
+זָʼקֶט	NOUN	jacket.n.01.320965
+זִקְפָּה	NOUN	erection.n.01.484153
+זֵר	NOUN	wreath.n.01.336632
+זָרוּעַ	ADJ	seeded.s.05.241343	studded.s.01.123572
+זָרָז	NOUN	catalyst.n.02.419946
+זַרְזִיר	NOUN	starling.n.01.226163
+זַרְחָן	NOUN	phosphorus.n.01.493724
+זַרְחָנִי	ADJ	phosphorous.a.01.311948
+זָרִיז	ADJ	agile.s.01.120615
+זֶרֶם	NOUN	current.n.01.446509	current.n.02.384227	stream.n.02.400720
+זֶרַע	NOUN	sperm.n.01.351850
+זַרְקוֹר	NOUN	searchlight.n.01.329798
+חִבָּה	NOUN	affection.n.01.387620
+חִבּוּר	NOUN	composition.n.08.366294	joining.n.01.130933	summation.n.04.183530	writing.n.01.187306
+חַבּוּרָה	NOUN	bruise.n.01.487406
+חָבוּשׁ	ADJ	bandaged.s.01.248577
+חַבּוּשׁ	NOUN	quince.n.01.461668	quince.n.02.391353
+חָבִיב	ADJ	favored.s.01.219463
+חֲבִילָה	NOUN	package.n.01.394953	package.n.02.325352
+חִבֵּל	VERB	sabotage.v.01.286747
+חֲבַצֶּלֶת	NOUN	lily.n.01.458649
+חָבֵר	NOUN	associate.n.01.418222	brother.n.04.419439	companion.n.01.420751	supporter.n.01.434192	sweetheart.n.01.434298
+חִבֵּר	VERB	add.v.04.168944	attach.v.01.210210	attach.v.03.209935	join.v.02.210158	plug_in.v.01.216999	total.v.02.188538	write.v.01.233298
+חָבַר	VERB	collaborate.v.01.278513	join.v.01.279865	join.v.03.290348
+חֶבְרָה	NOUN	club.n.02.397671	company.n.03.481779	society.n.01.394362
+חֶבְרָה-לְהַשְׁקָעוֹת	NOUN	investment_company.n.01.395633
+חֲבֵרוּת	NOUN	friendship.n.01.481865	membership.n.02.481899
+חָבַשׁ	VERB	imprison.v.01.283384
+חַג-הַחֵרוּת	NOUN	passover.n.01.501932
+חֲגוֹרַת-בֶּטֶן	NOUN	corset.n.01.312360
+חֹד	NOUN	point.n.08.481217
+חַד-ְגּוֹנִיּוּת	NOUN	monotony.n.01.339338
+חַדְגּוֹנִיּוּת	NOUN	monotony.n.01.339337
+חִדּוּשׁ	NOUN	invention.n.02.320851	resumption.n.01.139489
+חָדִיר	ADJ	permeable.a.01.237211
+חָדַל	VERB	discontinue.v.01.295636
+חֶדֶר	NOUN	room.n.01.328908	ventricle.n.02.351037
+חֲדַר-אַמְבַּטְיָה	NOUN	bathroom.n.01.302841
+חֶדֶר-אָקוּסְטִי	NOUN	anechoic_chamber.n.01.297764
+חֲדַר-בִּילְיַארְד	NOUN	billiard_room.n.01.303910
+חֲדַר-בַּקָּרָה	NOUN	control_room.n.01.311912
+חֲדַר-יְשִׁיבוֹת	NOUN	conference_room.n.01.311703
+חֲדַר-מְנוֹעִים	NOUN	engineering.n.03.315851
+חַדְרָנִית	NOUN	chambermaid.n.01.420046
+חֲדַר-קְלָפִים	NOUN	cardroom.n.01.307884
+חֲדַר-רַחְצָה	NOUN	bathroom.n.01.302840
+חֲדַר-שֵׁנָה	NOUN	bedroom.n.01.303289
+חֹדֶשׁ	NOUN	calendar_month.n.01.502159	month.n.02.502106
+חוֹבָה	ADJ	must.s.01.185410
+חוֹבָה	NOUN	debit.n.01.473214
+חַוָּה	NOUN	eve.n.01.414898	farm.n.01.316402
+חִוָּה-דֵּעָה	VERB	opine.v.01.193406
+חוּט-חַשְׁמַל	NOUN	wire.n.02.336444
+חֲוָיָה	NOUN	experience.n.02.361118
+חוֹלֵף	ADJ	ephemeral.s.01.236335
+חוּשָׁנִיּוּת	NOUN	sensuality.n.01.385987
+חַזַּאי	NOUN	weatherman.n.01.435952
+חָזֶה	NOUN	breast.n.01.353128	breast.n.03.389413
+חִזּוּי	NOUN	prediction.n.02.372464
+חִזּוּק	NOUN	tightening.n.01.131199
+חֲזִיָּה	NOUN	brassiere.n.01.305647
+חֲזִיז	NOUN	firecracker.n.01.316809
+חֲזִירָה	NOUN	sow.n.01.277229
+חָזָק	ADV	forcefully.r.01.147458
+חִזֵּק	VERB	strengthen.v.01.137697
+חָזַר	VERB	rehearse.v.01.234480
+חֲזָרָה	NOUN	rehearsal.n.01.185091
+חָזַר-לְסוּרוֹ	VERB	relapse.v.02.126902
+חֲזֶרֶת	NOUN	mumps.n.01.485548
+חַט	NOUN	tusk.n.02.219630
+חִטָּה	NOUN	wheat.n.02.391906
+חָטוּב	ADJ	shapely.a.01.261494
+חָטוּף	ADJ	casual.s.05.145142
+חֲטִיבָתִי	ADJ	regimental.a.01.312249
+חֲטִיפָה	NOUN	highjacking.n.01.177964	interception.n.02.130481	kidnapping.n.01.177285
+חַי	ADJ	living.s.02.247679	vibrant.s.01.270484
+חַי	NOUN	organism.n.01.117847
+חַי	VERB	populate.v.01.293628
+חַיָּב	NOUN	debtor.n.01.421890
+חִיֵּב	VERB	coerce.v.01.284022	debit.v.01.269506
+חִיֵּג	VERB	dial.v.01.178436
+חִידָה	NOUN	mystery.n.01.355598
+חַיָּה	NOUN	animal.n.01.118801
+חִיּוּבִי	ADJ	positive.a.01.240346
+חִיּוּךְ	NOUN	smile.n.01.374768
+חִיּוּנִי	ADJ	essential.s.01.226392
+חַיִּים	NOUN	life.n.10.118044
+חַיֵּי-מוֹתָרוֹת	NOUN	luxury.n.03.491281
+חַיִל	NOUN	corps.n.01.397379
+חֵיל-חָלוּץ	NOUN	vanguard.n.01.397421
+חַיָּתִי	ADJ	beastly.s.02.208507
+חֵךְ	NOUN	palate.n.01.350056
+חִכּוּךְ	NOUN	friction.n.02.446739	friction.n.03.173025
+חָלָב	NOUN	milk.n.01.392508	milk.n.02.351134	milk.n.04.392516
+חֶלְבּוֹן	NOUN	egg_white.n.01.392454	protein.n.01.494803
+חִלּוּט	NOUN	confiscation.n.01.126047
+חֲלוֹם	NOUN	ambition.n.01.385832
+חֲלוֹם-רָטוּב	NOUN	wet_dream.n.01.357143
+חִלּוֹנִיּוּת	NOUN	secularism.n.01.360874
+חִלּוּף	NOUN	exchange.n.04.198480
+חֲלוּפָה	NOUN	option.n.02.357510
+חִלֵּט	VERB	impound.v.01.270027
+חֻלְיָה	NOUN	squad.n.01.397466	vertebra.n.01.349718
+חֲלִיפָה	NOUN	substitute.n.01.355864	suit.n.01.332715
+חֲלִיפוֹת	ADV	alternately.r.01.130294
+חֳלִירַע	NOUN	cholera.n.01.485437
+חֲלָלִית	NOUN	starship.n.01.331977
+חֶלְמוֹן	NOUN	yolk.n.02.219591
+חַלָּמִישׁ	NOUN	flint.n.01.496901
+חֶלְמִית	NOUN	tall_mallow.n.01.455356
+חָלַף	VERB	elapse.v.01.256912	travel_by.v.01.255322
+חֻלְצָה	NOUN	shirt.n.01.330323
+חָלָק	ADJ	uneventful.a.01.179412
+חֵלֶק	NOUN	contribution.n.01.178257	part.n.02.325717	part.n.03.411985	share.n.01.471145
+חִלֵּק	VERB	share.v.04.271313
+חַם	ADJ	hot.a.01.207523
+חֹם	NOUN	heat.n.03.356518
+חֶמְאָה	NOUN	butter.n.01.392576
+חָמַד	VERB	covet.v.01.241001
+חִמּוּם	NOUN	warm-up.n.01.200801
+חָמוּר	ADJ	dangerous.s.02.169499
+חֲמוּר-סֵבֶר	ADJ	grave.s.01.260024
+חָמוֹת	NOUN	mother-in-law.n.01.428369
+חֲמִיצָה	NOUN	borsch.n.01.388514
+חֲמִישִׁי	ADJ	fifth.s.01.265600
+חֶמְלָה	NOUN	compassion.n.02.341020
+חֲמָמָה	NOUN	greenhouse.n.01.318699
+חַמָּנִיָּה	NOUN	sunflower.n.01.452950
+חַמָּנִית	NOUN	sunflower.n.01.452949
+חֹמֶץ	NOUN	vinegar.n.01.392306
+חִמְצוּן	NOUN	oxidation.n.01.474999
+חֲמַצְמַץ	ADJ	lemony.s.01.275710
+חַמְצָן	NOUN	oxygen.n.01.493711
+חִמְצֵן	VERB	oxidize.v.02.139209
+חֵמָר	NOUN	clay.n.01.496038
+חֹמֶר	NOUN	clay.n.01.496037	matter.n.06.365477	raw_material.n.01.492999
+חֹמֶר-גֶּלֶם	NOUN	raw_material.n.01.493000
+חֻמְרָה	NOUN	graveness.n.01.337533
+חֹמֶר-כָּתוּב	NOUN	writing.n.02.365438
+חָמְרָנוּת	NOUN	materialism.n.01.484189
+חָנָה	VERB	park.v.02.247385
+חָנוּט	NOUN	mummy.n.02.348826
+חֲנוּת	NOUN	shop.n.01.330386
+חָנַט	VERB	embalm.v.01.267061
+חֲנִינָה	NOUN	pardon.n.02.368703
+חֲנִית	NOUN	spear.n.01.331466
+חָנַךְ	VERB	inaugurate.v.02.279131
+חִנָּם	ADJ	complimentary.s.02.233833
+חָנַק	VERB	strangle.v.01.225819
+חַנְקָה	NOUN	nitrate.n.01.498929
+חַנְקָן	NOUN	nitrogen.n.01.493697
+חַנְקָנִי	ADJ	azotic.a.01.311755
+חֶסֶד	NOUN	grace.n.07.341366
+חַסָּה	NOUN	lettuce.n.02.453044	lettuce.n.03.390577
+חִסּוּן	NOUN	vaccine.n.01.335216
+חִסּוּר	NOUN	subtraction.n.01.183507
+חֲסִידָה	NOUN	stork.n.01.251978
+חָסִין	ADJ	proof.s.01.237384
+חִסָּכוֹן	NOUN	savings.n.01.472379
+חִסֵּן	VERB	immunize.v.02.126190
+חָסֵר	ADJ	deficient.s.01.122619	missing.s.01.218642
+חֶסֶר	NOUN	deficit.n.01.346926
+חֲסַר-דֵּעָה	ADJ	viewless.s.01.240456
+חֲסר-יֶדַע	ADJ	ignorant.s.03.210835
+חֲסַר-עֵרֶךְ	ADJ	worthless.a.01.283864
+חֲסַר-תַּקָּנָה	ADJ	hopeless.s.04.199693
+חָפוּז	ADJ	hurried.a.01.208860
+חִפּוּשׂ	NOUN	search.n.01.188317
+חִפּוּשִׁית	NOUN	beetle.n.01.263156
+חַפּוּת	NOUN	innocence.n.03.483281
+חָפַף	VERB	shampoo.v.01.121634
+חֵפֶץ	NOUN	object.n.01.117723
+חֵפֶץ מְלָאכוּתִי	NOUN	artifact.n.01.119456
+חִפֵּשׂ	VERB	search.v.01.211173
+חָפְשִׁי	ADJ	complimentary.s.02.233834	unhampered.s.02.195694
+חָפְשִׁי	ADV	freely.r.01.136775
+חֵץ	NOUN	dart.n.01.313790
+חַצֶּבֶת	NOUN	measles.n.01.485342
+חָצָה	VERB	halve.v.01.169097
+חֲצוֹצְרָה	NOUN	cornet.n.01.312282
+חֲצוֹת	NOUN	midnight.n.01.501371
+חֲצִי-הָאִי-עֲרָב	NOUN	arabian_peninsula.n.01.405799
+חֲצִיל	NOUN	eggplant.n.01.390417	eggplant.n.02.465737
+חָצִיר	NOUN	hay.n.01.391862
+חָצָץ	NOUN	gravel.n.01.494395
+חֹק	NOUN	law.n.01.400601
+חָקוּק	ADJ	engraved.s.01.145497
+חָקִי	NOUN	khaki.n.01.321398
+חֻקִּיּוּת	NOUN	legality.n.01.340623
+חֲקִיקָה	NOUN	engraving.n.03.187875
+חֲקִירָה	NOUN	inquiry.n.03.168714	investigation.n.02.168533	probe.n.01.357707
+חֹקֶן	NOUN	enema.n.01.172042
+חֹק-שִׁמּוּר	NOUN	conservation.n.03.362123
+חֶרֶב	NOUN	sword.n.01.333039
+חָרַג	VERB	transgress.v.01.288303
+חַרְדָּל	NOUN	mustard.n.01.451690	mustard.n.02.392171
+חָרוּב	NOUN	carob.n.02.459585	locust_tree.n.01.459615
+חָרוּז	NOUN	rhyme.n.01.377991
+חָרוּץ	ADJ	hardworking.s.01.175851
+חָרוּשׁ	ADJ	plowed.a.01.241363
+חָרוּת	ADJ	engraved.s.01.145498
+חָרִיג	ADJ	exceptional.s.03.227502
+חָרִישׁ	NOUN	plowing.n.01.186586
+חֲרִישָׁה	NOUN	plowing.n.01.186587
+חֵרֶם	NOUN	boycott.n.01.136386
+חֶרְמֵשׁ	NOUN	scythe.n.01.329735
+חֶרֶס	NOUN	potsherd.n.01.327199
+חַרְסִית	NOUN	china_clay.n.01.494005
+חֹרֶף	NOUN	winter.n.01.502591
+חֶרְפָּה	NOUN	shame.n.02.490006
+חַרְצִית	NOUN	chrysanthemum.n.01.452613	chrysanthemum.n.02.452602
+חָרַק	VERB	whine.v.03.263655
+חֵרֵשׁ	ADJ	deaf.a.01.171187
+חֵרְשׁוּת	NOUN	deafness.n.01.492276
+חָשׁ	VERB	feel.v.03.259108
+חִשֵּׁב	VERB	calculate.v.01.168751
+חָשַׁב	VERB	assume.v.01.168393	think_up.v.01.229444	think.v.01.171641	think.v.02.168347	think.v.03.168190
+חֶשְׁבּוֹן	NOUN	arithmetic.n.01.361332	bank_account.n.01.472393
+חֶשְׁבּוֹן-בַּנְק	NOUN	bank_account.n.01.472394
+חֶשְׁבּוֹנָאוּת	NOUN	accountancy.n.01.167477
+חֶשְׁבּוֹנִי	ADJ	arithmetical.a.01.310416
+חַשְׁדָנוּת	NOUN	suspicion.n.04.342769
+חָשׁוּב	ADJ	big.s.05.165006	influential.a.01.241266
+חִשּׁוּב	NOUN	calculation.n.01.183340	calculation.n.03.357641
+חָשׁוּךְ	ADJ	dark.a.01.142149
+חָשׂוּף	ADJ	exposed.s.01.244453	exposed.s.02.158073
+חִשּׁוּר	NOUN	spoke.n.01.331657
+חֲשִׁיבָה	NOUN	thinking.n.01.357185
+חֲשִׁיבוּת	NOUN	importance.n.01.348050
+חִשֵּׁל	VERB	toughen.v.01.144429
+חַשְׁמַל	NOUN	current.n.01.446510	electricity.n.03.386771
+חַשְׁמַלִּי	ADJ	electric.a.01.303465
+חַשְׁמַלִּית	NOUN	streetcar.n.01.332457
+חָשַׂף	VERB	unwrap.v.02.187559
+חֲשָׁשׁ	NOUN	apprehension.n.01.387001	concern.n.02.387093
+חָתוּךְ	ADJ	chopped.s.01.170022
+חִתּוּל	NOUN	diaper.n.01.314213
+חָתוּל	NOUN	cat.n.01.260238
+חָתוּם	NOUN	signer.n.02.432722
+חֲתִימָה	NOUN	stopping_point.n.01.503217	termination.n.05.136690
+חֲתִירָה	NOUN	crawl.n.02.164643
+חֲתַלְתּוּל	NOUN	kitten.n.01.260334
+חָתַם	VERB	complete.v.01.159660	subscribe.v.05.266119
+חָתָן	NOUN	groom.n.01.424869	groom.n.03.424865
+חֲתֻנָּה	NOUN	wedding.n.01.385182
+חָתַר	VERB	row.v.01.248013
+חַתְרָנִי	VERB	dogmatize.v.02.189321
+טֵאוּט	NOUN	sweeping.n.01.140431
+טִאטוּא	NOUN	sweeping.n.01.140432
+טְבִילָה	NOUN	baptism.n.01.193998
+טַבְלִית	NOUN	pill.n.02.326395
+טִבְעוֹנִי	NOUN	vegan.n.01.435434
+טִגּוּן	NOUN	frying.n.01.139897
+טִהוּר	NOUN	purification.n.04.140471
+טוֹב	ADJ	good.a.01.199408	successful.a.01.273578	well-behaved.s.01.199555
+טוֹב	ADV	well.r.01.118467
+טוֹב	NOUN	good.n.03.347418
+טוֹבַת-הֲנָאָה	NOUN	profit.n.02.347799
+טוֹטֶפֶת	NOUN	phylactery.n.01.374416
+טְוִיָּה	NOUN	spinning.n.01.185889
+טוֹנָזʼ	NOUN	tonnage.n.01.471737
+טוּסִיק	NOUN	buttocks.n.01.353271
+טוּרַאי	NOUN	private.n.01.430663
+טוֹרְדָנִי	ADJ	annoying.s.01.126505
+טְחָב	NOUN	moss.n.01.447822
+טָחוּב	ADJ	damp.s.01.287093
+טָחוּן	ADJ	crushed.s.01.268048
+טִיּוּחַ	NOUN	plastering.n.01.173433
+טִיחַ	NOUN	plaster.n.01.498584
+טִיט	NOUN	loam.n.01.497915
+טַיְמִינְג	NOUN	timing.n.01.345749
+טִין	NOUN	silt.n.01.499284
+טִינָה	NOUN	grudge.n.01.387764
+טִיפּ	NOUN	gratuity.n.01.471406
+טֵיְפּ	NOUN	tape_recorder.n.01.333311
+טֶכְנוֹלוֹגְיָה	NOUN	technology.n.01.188557
+טֶלֶבִיזְיָה	NOUN	television.n.02.333519	television_receiver.n.01.333535
+טֶלֶוִיזְיָה	NOUN	television.n.02.333518	television_receiver.n.01.333534
+טֶלֶפוֹן	NOUN	call.n.01.364153	telephone.n.01.333447
+טֶלֶפוֹנְיָה	NOUN	telephone.n.02.364146
+טָמֵא	ADJ	unclean.a.02.155380
+טַמְבּוֹן	NOUN	bumper.n.02.306433
+טַמְבּוּרִין	NOUN	tambourine.n.01.333235
+טֶמְפּוֹ	NOUN	tempo.n.01.503102
+טֶמְפֶּרָטוּרָה	NOUN	temperature.n.01.345143
+טֶמְפֶּרָמֶנְט	NOUN	disposition.n.01.336996	temperament.n.02.337100
+טֶנְטָטִיבִי	ADJ	probationary.s.01.164025
+טַס	NOUN	tray.n.01.334609
+טָעוּן	ADJ	electric.s.02.277928
+טָעוּת	NOUN	mistake.n.01.124749
+טָעִים	ADJ	mouth-watering.s.01.129964
+טָעַן	VERB	upload.v.01.267550
+טִפּוּל	NOUN	treatment.n.02.200177
+טִפּוּסִי	ADJ	distinctive.s.01.148888
+טִפְטוּף	NOUN	drizzle.n.01.447325
+טִפְטֵף	VERB	dribble.v.02.228095	drip.v.01.256779	drizzle.v.01.300732
+טַפְטֶפֶת	NOUN	dropper.n.01.315229
+טַפִּיל	NOUN	leech.n.02.426884	parasite.n.01.214952
+טִפֵּשׁ	ADJ	unintelligent.a.01.212320
+טִפֵּשׁ	NOUN	fool.n.01.423760
+טִפְּשִׁי	ADJ	foolish.a.01.288564
+טַקְטִי	ADJ	tactical.a.01.307480
+טִקְסִי	ADJ	ceremonial.s.01.194236
+טִקְסִיּוּת	NOUN	ceremoniousness.n.01.343162
+טְרוֹמִי	ADJ	prefab.s.01.170743
+טָרִי	ADJ	fresh.a.01.195976	fresh.a.05.196167
+טֶרִיטוֹרְיָה	NOUN	district.n.01.401976
+טְרֶמְפּ	NOUN	lift.n.11.144841
+טְרַנְסְפוֹרְמָטוֹר	NOUN	transformer.n.01.334517
+טְרַנְסַקְצְיָה	NOUN	transaction.n.01.198328
+טֶרֶף	NOUN	prey.n.02.262359
+טָרֶשֶׁת	NOUN	sclerosis.n.01.485181
+יָאֶה	ADJ	becoming.s.01.243818
+יֵאוּשׁ	NOUN	despair.n.02.387542
+יִבֵּא	VERB	import.v.01.274491
+יִבֵּב	VERB	sob.v.01.124452
+יְבוּא	NOUN	importing.n.01.198628	import.n.01.320598
+יִבּוּא	NOUN	importing.n.01.198629	import.n.01.320599
+יְבוּל	NOUN	crop.n.01.468274
+יִבּוּשׁ	NOUN	dehydration.n.03.474028
+יֹבֶשׁ	NOUN	drought.n.02.502736	dryness.n.01.492055
+יִבֵּשׁ	VERB	dry.v.01.137405
+יַבֶּשֶׁת	NOUN	continent.n.01.410215
+יָגֵעַ	ADJ	aweary.s.01.279700
+יָגַע	VERB	labor.v.02.278707
+יָד	NOUN	back.n.08.301387
+יָדוּעַ	ADJ	celebrated.s.01.214371	long-familiar.s.01.189521
+יִדּוּעַ	NOUN	informing.n.02.380272
+יָדוּעַ-לְשִׁמְצָה	ADJ	ill-famed.s.01.250578
+יְדִידוּת	NOUN	friendship.n.01.481866
+יַד-יָמִין	NOUN	right.n.05.353404
+יְדִיעָה	NOUN	news_item.n.01.367550
+יְדָנִי	ADJ	manual.a.02.134556
+יֶדַע	NOUN	knowledge_domain.n.01.361302
+יִדֵּעַ	VERB	inform.v.01.181064
+יָדַע	VERB	know.v.01.165812	know.v.02.165882	know.v.05.165919	sleep_together.v.01.217265
+יַדְעָן	ADJ	knowing.s.04.180979
+יַדְעָנוּת	NOUN	eruditeness.n.01.361136
+יַהֲדוּת	NOUN	judaism.n.02.363624
+יְהוּדִי	ADJ	jewish.a.01.306549
+יְהוּדִי	NOUN	jew.n.01.416047
+יְהוּדִיָּה	NOUN	jewess.n.01.416053
+יְהִירוּת	NOUN	arrogance.n.01.342511
+יָהֳרָה	NOUN	arrogance.n.01.342510
+יוֹזֵם	NOUN	instigator.n.02.426112
+יוּטָה	NOUN	jute.n.01.497695
+יוּלִי	NOUN	july.n.01.502196
+יוֹם-הַשָּׁנָה	NOUN	anniversary.n.01.502867
+יוֹם-מְנוּחָה	NOUN	rest_day.n.01.500717
+יוֹם-שַׁבָּת	NOUN	saturday.n.01.501239
+יָוָן	NOUN	greece.n.01.405096
+יוֹנָה	NOUN	pigeon.n.01.239980
+יְוָנִי	ADJ	greek.a.01.309549
+יוּנִי	NOUN	june.n.01.502189
+יוֹעֵץ	NOUN	adviser.n.01.417468
+יוֹצֵר	NOUN	creator.n.02.415246
+יוֹרֵד-יָם	NOUN	sailor.n.01.431854
+יוֹרֶשֶׁת	NOUN	heiress.n.01.425319
+יוֹתֵר	ADV	more.r.02.127371
+יַזָּם	NOUN	entrepreneur.n.01.423016
+יָזְמָה	NOUN	enterprise.n.03.341230
+יִחוּד	NOUN	singularity.n.01.339833
+יִחוּדִיּוּת	NOUN	singularity.n.01.339835
+יִחוּס	NOUN	attribution.n.02.356673
+יָחִיד	ADJ	lone.s.03.266416
+יָחִיד	NOUN	singular.n.01.364504
+יְחִידָה	NOUN	unit.n.05.413144
+יְחִידִי	ADJ	lone.s.03.266417
+יַחַס	NOUN	ratio.n.01.479726
+יִחֵס	VERB	impute.v.01.173959
+יַחֲסִי	ADJ	relative.a.01.118003
+יְחָסִים	NOUN	relationship.n.02.481734	relationship.n.03.481746
+יַחֲסִית	ADV	relatively.r.01.132517
+יָחֵף	ADJ	barefoot.s.01.262661
+יָחֵף	ADV	barefooted.r.01.142537
+יִידִישׁ	NOUN	yiddish.n.01.375876
+יְכֹלֶת	NOUN	ability.n.01.348505
+יְכֹלֶת-קוֹגְנִיטִיבִית	NOUN	faculty.n.01.354994
+יֶלֶד	NOUN	child.n.01.420236	child.n.02.420258	child.n.03.420267	male_child.n.01.427487
+יַלְדּוֹן	NOUN	toddler.n.01.434849
+יַלְדוּת	NOUN	childhood.n.01.500929
+יִלּוֹד	NOUN	neonate.n.01.428650
+יִלּוּד	NOUN	midwifery.n.02.134802
+יִלֵּל	VERB	howl.v.01.194497
+יְלָלָה	NOUN	howl.n.02.383852	howl.n.03.383849
+יְלָלוֹת	NOUN	whimper.n.01.380261
+יַלְקוּט	NOUN	satchel.n.01.329351
+יָם	NOUN	ocean.n.02.478890	sea.n.01.412552	west.n.02.480019
+יַמָּאוּת	NOUN	seamanship.n.01.354791
+יַמַּאי	NOUN	sailor.n.01.431853
+יָמִין	NOUN	right.n.05.353403
+יָמְרָה	NOUN	pretentiousness.n.02.340217
+יֶן	NOUN	yen.n.02.477556
+יָנוּאָר	NOUN	january.n.01.502164
+יַנּוּקָא	NOUN	male_child.n.01.427489
+יַנְשׁוּף	NOUN	owl.n.01.228694
+יִסֵּד	VERB	establish.v.01.279313
+יְסוֹדִי	ADJ	fundamental.s.02.242573
+יְסוֹדִיּוּת	NOUN	thoroughness.n.01.338034
+יִסּוּרֵי מַצְפּוּן	NOUN	guilt.n.02.387436
+יַסְמִין	NOUN	jasmine.n.01.457021
+יַעַד	NOUN	aim.n.02.361020	finish.n.04.402265
+יָעֶה	NOUN	dustpan.n.02.315423
+יִעוּר	NOUN	afforestation.n.01.152785
+יָעִיל	ADJ	efficient.a.01.181473
+יָעֵן	NOUN	ostrich.n.02.222740
+יַעֲרָן	NOUN	forester.n.02.423934
+יַעֲרָנוּת	NOUN	forestry.n.01.361912
+יָפֶה	ADJ	beautiful.a.01.137294	beautiful.s.02.239127
+יִפּוּי	NOUN	beautification.n.01.141216
+יֹפִי	NOUN	beauty.n.01.338359
+יֹפִי-שֶׁל	ADJ	pretty.s.02.199757
+יִצֵּא	VERB	export.v.01.274506
+יַצְאָנִית	NOUN	prostitute.n.01.430829
+יְצוּא	NOUN	exporting.n.01.198656	export.n.01.316159
+יִצּוּא	NOUN	exporting.n.01.198657	export.n.01.316160
+יְצוּאָן	NOUN	exporter.n.01.423232
+יִצּוּב	NOUN	stabilization.n.01.201773
+יִצּוּר	NOUN	fabrication.n.03.187005	industry.n.02.186915	production.n.07.186273
+יְצוּר-אֱנוֹשִׁי	NOUN	creature.n.02.421397
+יַצִּיבוּת	NOUN	stability.n.01.340061
+יָצִיעַ	NOUN	balcony.n.01.301837
+יְצִירָתִיּוּת	NOUN	creativity.n.01.354495
+יַצְרָן	NOUN	manufacturer.n.01.395476	manufacturer.n.02.427615
+יַקִּיר	NOUN	darling.n.01.421784
+יַרְבּוּעַ	NOUN	jerboa.n.01.274842
+יָרַד	VERB	decrease.v.01.131537	descend.v.01.249637
+יָרַד-בַּמִּשְׁקָל	VERB	reduce.v.20.121921
+יַרְחוֹן	NOUN	monthly.n.01.369240
+יְרֵחִי	ADJ	lunar.a.01.300719
+יֶרִי	NOUN	gunfire.n.01.129381
+יָרִיב	NOUN	adversary.n.01.417446	opposition.n.04.429134
+יְרִידָה	NOUN	decrease.n.01.383243	descent.n.05.410388
+יְרִיעַת-פַּח	NOUN	sheet_metal.n.01.330215
+יָרֵךְ	NOUN	second_joint.n.01.389410	thigh.n.01.353343
+יֶרֶק	NOUN	greenery.n.01.469011
+יַרְקָן	NOUN	greengrocer.n.01.424835
+יִשֵּׁב	VERB	settle.v.03.176392
+יָשַׁב	VERB	populate.v.01.293629
+יַשְׁבָן	NOUN	buttocks.n.01.353273
+יֵשׁוּ	NOUN	redeemer.n.02.431314
+יֵשׁוּעַ	NOUN	redeemer.n.02.431315
+יֵשׁוּת	NOUN	entity.n.01.117664
+יֵשׁוּת-גּוֹרֶמֶת	NOUN	causal_agent.n.01.118119
+יֵשׁוּת-עַל-טִבְעִית	NOUN	spiritual_being.n.01.413668
+יַשְׁנוּנִי	ADJ	sleepy.s.01.134972
+יֹשֶׁר	NOUN	honesty.n.01.342133
+יִשְׂרָאֵל	NOUN	israel.n.01.405219
+יִשְׂרְאֵלִי	ADJ	israeli.a.01.308189
+יִשְׂרְאֵלִי	NOUN	israeli.n.01.416521
+יֹשֶׁר-לֵב	NOUN	truthfulness.n.01.342157
+יַתּוּשׁ	NOUN	mosquito.n.01.265464
+יִתָּכֵן	ADV	possibly.r.01.144224
+יְתֵרָה-מִזּוֹ	ADV	furthermore.r.01.120200
+יִתְרוֹן	NOUN	advantage.n.01.347771	profit.n.02.347798
+יָתֵר-עַל-כֵּן	ADV	furthermore.r.01.120199
+כְּ	ADV	approximately.r.01.118093
+כְּאֵב-רֹאשׁ	NOUN	annoyance.n.04.358382
+כָּאוֹס	NOUN	chaos.n.03.414524
+כָּבֵד	ADJ	heavy.a.01.203279
+כָּבֵד	NOUN	liver.n.01.350963	liver.n.02.389477
+כָּבוֹד	NOUN	dignity.n.01.342463
+כָּבוֹד-עַצְמִי	NOUN	dignity.n.01.342464
+כָּבוּל	ADJ	chained.s.01.140497
+כָּבוּל	NOUN	peat.n.01.494269
+כָּבוּשׁ	ADJ	pickled.s.01.196299
+כִּבּוּשׁ	NOUN	conquest.n.01.126390	conquest.n.02.124193	seduction.n.02.132495
+כְּבִידָה	NOUN	gravity.n.01.446812
+כְּבִיסָה	NOUN	laundry.n.01.321999
+כְּבָסִים	NOUN	laundry.n.01.322000
+כְּבָר	ADV	already.r.01.120413	soon.r.01.120781
+כֶּבֶשׁ	NOUN	gangplank.n.01.317971
+כֶּבֶשׂ	NOUN	sheep.n.01.278218
+כָּבַשׁ	VERB	pickle.v.01.136977
+כִּבְשָׂה	NOUN	ewe.n.03.278233
+כְּדָאִי	ADJ	worthwhile.s.01.289775
+כְּדָאִיּוּת	NOUN	worthwhileness.n.01.347370
+כַּדּוּר	NOUN	pill.n.02.326394
+כַּדּוּרֶגֶל	NOUN	soccer.n.01.159271
+כַּדּוּרַגְלָן	NOUN	ceiling.n.03.370592
+כַּדּוּרְסַל	NOUN	basketball.n.01.159476	basketball.n.02.302662
+כַּדּוּרְעָף	NOUN	volleyball.n.01.159422	volleyball.n.02.335568
+כֹּה	ADV	thus.r.02.129187
+כַּהֹגֶן	ADV	properly.r.01.135564
+כַּהֲלָכָה	ADV	properly.r.01.135566
+כּוֹבָעוֹן	NOUN	condom.n.01.311656
+כּוֹבַע-קַשׁ	NOUN	boater.n.01.304568
+כּוֹבֵשׁ	NOUN	conqueror.n.01.420943
+כּוֹחַ	NOUN	ability.n.02.354221
+כּוֹחַ-הַכְּבִידָה	NOUN	gravity.n.01.446814
+כּוֹחַ-הַמְּשִׁיכָה	NOUN	gravity.n.01.446815
+כּוֹחוֹת-מִּלּוּאִים	NOUN	military_reserve.n.01.397273
+כּוֹחַ-מְאַסֵּף	NOUN	rearguard.n.01.397448
+כּוֹכָב	NOUN	asterisk.n.01.374055
+כּוֹכַב-הָעֶרֶב	NOUN	venus.n.01.413217
+כּוֹכַב-הַשַּׁחַר	NOUN	venus.n.01.413218
+כּוֹכָבִית	NOUN	asterisk.n.01.374056
+כּוֹכַב-שָׁבִיט	NOUN	comet.n.01.410188
+כּוֹלֵל	ADJ	across-the-board.s.01.162363
+כּוֹלֶרָה	NOUN	cholera.n.01.485438
+כוֹלֶרָה	NOUN	cholera.n.01.485436
+כִּוֵּן	VERB	aim.v.01.201272
+כַּוָּנָה	NOUN	meaning.n.01.369338	purpose.n.01.361044
+כִּוְנוּן	NOUN	tuning.n.01.191540
+כּוֹרֶה	NOUN	miner.n.01.428082
+כּוֹרֵךְ	NOUN	bookbinder.n.01.419169
+כַּוְרָן	NOUN	beekeeper.n.01.418804
+כַּוְרָנוּת	NOUN	beekeeping.n.01.186450
+כּוּשִׁי	NOUN	black.n.05.415582
+כּוֹתֶרֶת	NOUN	headline.n.01.365161
+כָּחוּשׁ	ADJ	scraggy.s.01.191059
+כִי	NOUN	chi.n.02.374211
+כַּיָּאוּת	ADV	properly.r.01.135567
+כִּיב	NOUN	ulcer.n.01.486477
+כִּידוֹן	NOUN	bayonet.n.01.303011
+כִּיּוּל	NOUN	calibration.n.01.191525
+כַּיּוֹם	ADV	nowadays.r.01.122282
+כִּילַי	NOUN	miser.n.01.428122
+כִּימִי	ADJ	chemical.a.01.296489	chemical.a.02.296510
+כִּימְיָה	NOUN	chemistry.n.01.362015	chemistry.n.03.480108
+כַּיָּס	NOUN	pickpocket.n.01.429977
+כָּךְ	ADV	thus.r.02.129188
+כָּכָה	ADV	thus.r.02.129189
+כִּכָּר	NOUN	loaf_of_bread.n.01.389975
+כִּכַּר-לֶחֶם	NOUN	loaf_of_bread.n.01.389976
+כָּלָא	VERB	imprison.v.01.283385
+כַּלְבָּה	NOUN	bitch.n.04.257767
+כַּלָּה	NOUN	bride.n.01.419368	bride.n.03.419378
+כָּלוּא	ADJ	captive.s.01.195772
+כָּלוּל	ADJ	included.s.01.231237
+כְּלוֹמַר	ADV	namely.r.01.134945
+כְּלוֹר	NOUN	chlorine.n.01.493504
+כֵּלִי	ADJ	instrumental.a.01.303435
+כְּלִי	NOUN	garment.n.01.318046	instrument.n.02.133754	organ.n.01.349866	weapon.n.01.335962
+כִּלְיָה	NOUN	kidney.n.01.350366
+כְּלִי-זַיִן	NOUN	weapon.n.01.335963
+כְּלִילָה	NOUN	inclusion.n.04.150350
+כְּלִי-נֶשֶׁק	NOUN	weapon.n.01.335964
+כִּלְכּוּל	NOUN	sustenance.n.03.205314
+כַּלְכָּלָה	NOUN	economics.n.01.362564
+כַּלְכְּלָן	NOUN	economist.n.01.422736
+כְּלָל	ADV	at_all.r.01.123118
+כְּלַל-הַיֶּדַע	NOUN	content.n.05.357925
+כְּלַל-עוֹלָמִי	ADJ	global.s.01.225664
+כַּלָּנִית	NOUN	anemone.n.01.449709
+כַּמָּה	ADJ	several.s.01.269711
+כָּמֵהַּ	ADJ	pensive.s.02.213652
+כַּמּוּבָן	ADV	naturally.r.01.121334
+כְּמוּרָה	NOUN	clergy.n.01.396505
+כְּמִיהָה	NOUN	longing.n.01.385919
+כִּמְעַט	ADV	about.r.07.124950
+כֻּמְתָּה	NOUN	beret.n.01.303625
+כֵּן	ADV	thus.r.02.129186
+כַּן	NOUN	base.n.08.302485
+כֵּן	VERB	squelch.v.02.264094
+כִּנּוּי	NOUN	nickname.n.01.365024
+כִּנּוֹר	NOUN	violin.n.01.335521
+כְּנִיסָה	NOUN	entrance.n.01.315883	entrance.n.02.383512	entrance.n.03.122356
+כֶּנֶס	NOUN	conference.n.01.398828
+כְּנֵסִיָּה	NOUN	church.n.02.309897
+כְּנֶסֶת	NOUN	knesset.n.01.398989
+כַּנִּרְאֶה	ADV	probably.r.01.130399
+כִּסֵּא	NOUN	chair.n.01.309080
+כִּסּוּחַ	NOUN	knock.n.02.356669
+כִּסּוּי-רֹאשׁ	NOUN	headdress.n.01.319472
+כָּסוּף	ADJ	argent.s.01.151600
+כִּסּוּפִים	NOUN	longing.n.01.385920
+כֶּסֶף	NOUN	silver.n.01.493805
+כַּסְפִּי	ADJ	fiscal.a.01.304190	silver.s.02.142982
+כַּסְפִּית	NOUN	mercury.n.01.493666
+כֶּסֶת	NOUN	eiderdown.n.01.315579	quilt.n.01.327799
+כִּעוּר	NOUN	ugliness.n.01.338465
+כַּף	NOUN	spoon.n.01.331665	spoon.n.02.478696
+כִּפָּה	NOUN	dome.n.04.314767
+כָּפָה	VERB	coerce.v.01.284024
+כָּפוּל	ADJ	double.s.02.266532
+כַּפַּיִם	NOUN	applause.n.01.371257
+כְּפִירָה	NOUN	heresy.n.02.361009	unorthodoxy.n.01.363384
+כַּפִּית	NOUN	teaspoon.n.01.478709	teaspoon.n.02.333414
+כָּפָן	NOUN	hunger.n.01.484193
+כְּפָפָה	NOUN	glove.n.02.318379
+כְּפָפַת-אִגְרוּף	NOUN	boxing_glove.n.01.305439
+כֹּפֶר	NOUN	ransom.n.01.471116
+כַּפָּרָה	NOUN	expiation.n.02.127057
+כִּפַּת-הָרָקִיעַ	NOUN	celestial_sphere.n.01.401660
+כִּפַּת-הַשָּׁמַיִם	NOUN	celestial_sphere.n.01.401661
+כַּר	NOUN	hayfield.n.01.402321	pillow.n.01.326422
+כָּרָאוּי	ADV	properly.r.01.135565
+כָּרָגִיל	ADV	as_usual.r.01.128107
+כָּרָה	VERB	mine.v.01.202040
+כְּרוּב	NOUN	cabbage.n.03.451651
+כְּרוּבִית	NOUN	cauliflower.n.01.451663
+כָּרוּי	ADJ	mined.a.01.221914
+כְּרוּכְיָה	NOUN	crane.n.05.252677
+כָּרוּת	ADJ	severed.s.01.170066
+כְּרָזָה	NOUN	poster.n.01.373423
+כַּרְטִיס	NOUN	ticket.n.01.368194
+כַּרְטִיסִיָּה	NOUN	commutation_ticket.n.01.368201
+כְּרִיזַנְטֶמָה	NOUN	chrysanthemum.n.01.452614	chrysanthemum.n.02.452603
+כָּרִיךְ	NOUN	sandwich.n.01.390149
+כָּרִישׁ	NOUN	shark.n.01.220622
+כְּרִיתוּת	NOUN	divorce.n.01.204171
+כַּרְכֹּם	NOUN	crocus.n.01.458559
+כֶּרֶם	NOUN	vineyard.n.01.335504
+כֶּרֶס	NOUN	belly.n.02.353193
+כֻּרְסָה	NOUN	armchair.n.01.299643
+כְּרַסְתָּן	ADJ	abdominous.s.01.190844
+כָּרַת	VERB	amputate.v.01.207983
+כְּשׁוּת	NOUN	hop.n.02.458293
+כִּשְׁכֵּשׁ	VERB	wag.v.01.245326
+כֹּשֶׁר	NOUN	ability.n.02.354222
+כִּשְׁרוֹנִי	ADJ	talented.a.01.199168
+כֹּשֶׁר-מֶנְטָלִי	NOUN	faculty.n.01.354993
+כְּתָב	NOUN	handwriting.n.01.366144	longhand.n.01.365252	writ.n.01.368715
+כָּתַב	VERB	write.v.01.233297	write.v.02.191210	write.v.05.193657	write.v.07.232965
+כְּתַב-יָד	NOUN	handwriting.n.01.366145
+כְּתֹבֶת	NOUN	address.n.06.373328	inscription.n.01.366201
+כִּתָּה	NOUN	class.n.02.397824	classroom.n.01.310234
+כִּתּוּב	NOUN	caption.n.03.365208
+כְּתוּבִים	NOUN	hagiographa.n.01.367047
+כִּתּוּר	NOUN	blockade.n.01.188781
+כְּתִיב	NOUN	spelling.n.01.365288
+כְּתִיבָה	NOUN	writing.n.01.187307	writing.n.05.167121
+כָּתֹם	ADJ	orange.s.01.150876
+כֶּתֶם	NOUN	mark.n.06.373467
+לֹא	ADV	no.r.01.122510	no.r.02.119677	no.r.03.119664	not.r.01.119637
+לֹא-בָּקִי	ADJ	ignorant.s.02.181038
+לֵאוּת	NOUN	fatigue.n.01.483801
+לָאַחֲרוֹנָה	ADV	last.r.01.124277
+לְאַט	ADV	slowly.r.01.132665
+לָאַט	VERB	whisper.v.01.186397
+לַאטְקֶעס	NOUN	potato_pancake.n.01.389308
+לְאֻמִּיּוּת	NOUN	patriotism.n.01.342272
+לְאֻמָּנוּת	NOUN	nationalism.n.02.360810
+לֹא-קָבוּעַ	ADJ	irregular.s.07.197373
+לֵב	NOUN	center.n.01.401729
+לֶב	NOUN	lev.n.01.477201
+לְבָבִי	ADJ	hearty.s.01.285909
+לְבָבִיּוּת	NOUN	heartiness.n.02.342048
+לֶבֶד	NOUN	felt.n.01.316496
+לְבִיאָה	NOUN	lioness.n.01.260826
+לְבִיבָה	NOUN	potato_pancake.n.01.389307
+לַבְלַב	NOUN	pancreas.n.01.350981
+לִבְלֵב	VERB	bloom.v.01.143780
+לָבָן	NOUN	egg_white.n.01.392453	heroin.n.01.319693	white.n.11.336189
+לֹבֶן	NOUN	white.n.02.344100
+לְבֵנָה	NOUN	brick.n.01.305824
+לִבְנֶה	NOUN	birch.n.02.456692
+לְבָנִים	NOUN	underwear.n.01.335082
+לֻבְנָן	NOUN	sponge_cake.n.01.389174
+לְבַסּוֹף	ADV	last.r.02.124286
+לְגִימָה	NOUN	sip.n.01.181708
+לִגְלֵג	VERB	ridicule.v.01.182260
+לָגַם	VERB	sip.v.01.202470
+לְגַמְרֵי	ADV	wholly.r.01.118176
+לַהַג	NOUN	dialect.n.01.379061
+לַהַט	NOUN	ardor.n.03.385736
+לָהִיט	NOUN	hit.n.03.124106
+לְהִיטוּת	NOUN	eagerness.n.01.387990
+לַהֲקָה	NOUN	flock.n.02.394678
+לְהִתְרָאוֹת	NOUN	adieu.n.01.369980
+לוֹוֶה	NOUN	debtor.n.01.421891
+לוּחַ	NOUN	blackboard.n.01.304143	board.n.02.500097	control_panel.n.01.311898
+לוֹט	NOUN	lot.n.07.427214
+לוֹיָאלִי	ADJ	firm.s.10.189120
+לַוְיָן	NOUN	satellite.n.01.329355	satellite.n.03.412526
+לִוְיָתָן	NOUN	whale.n.02.256187
+לוּלָאָה	NOUN	buttonhole.n.01.306754
+לוּלְיָנִי	ADJ	coiling.s.01.272720
+לוּסְטְרָה	NOUN	chandelier.n.01.309188
+לוּקְסוּס	NOUN	luxury.n.01.347026
+לַח	ADJ	damp.s.01.287092	humid.s.01.287141
+לְחוּד	ADV	individually.r.01.136490
+לַחוּת	NOUN	humidity.n.01.492044
+לַחְלוּחִי	ADJ	damp.s.01.287094
+לַחֲלוּטִין	ADV	wholly.r.01.118177
+לֶחֶם	NOUN	bread.n.01.389903
+לֶחֶם-הַקֹּדֶשׁ	NOUN	host.n.09.389958
+לַחְמָנִיָּה	NOUN	bun.n.01.389920
+לַחַן	NOUN	tune.n.01.376960
+לַחַשׁ	NOUN	whisper.n.01.378562
+לָחַשׁ	VERB	whisper.v.01.186398
+לְטָאָה	NOUN	lizard.n.01.232177
+לִטּוּף	NOUN	caress.n.01.130908
+לָטִינִית	NOUN	latin.n.01.376078
+לְטִיפָה	NOUN	caress.n.01.130909
+לַטְקֶס	NOUN	potato_pancake.n.01.389306
+לִטֵּשׁ	VERB	gloss.v.01.232539
+לִיגָה	NOUN	league.n.01.397728	league.n.02.398772
+לִיד	NOUN	lied.n.01.377355
+לֵיְדִּי	NOUN	dame.n.02.421730
+לִיטֶר	NOUN	liter.n.01.476200
+לִילָךְ	NOUN	lilac.n.01.457068
+לִימוֹנִי	ADJ	lemony.s.01.275711
+לִיפְּסְטִיק	NOUN	lipstick.n.01.322466
+לֵיצַן-הֶחָצֵר	NOUN	jester.n.01.426319
+לִירָה	NOUN	lyre.n.01.322825
+לְלֹא-דִּחוּי	ADV	immediately.r.01.122312
+לְלֹא-הוֹעִיל	ADV	vainly.r.01.133220
+לְלֹא-חַת	ADJ	audacious.s.01.140198
+לְמַדַּי	ADV	quite.r.01.119082
+לַמְדָנוּת	NOUN	eruditeness.n.01.361137
+לָמִינִיטִיס	NOUN	laminitis.n.01.488238
+לְמַעְלָה	ADV	up.r.01.127129
+לַמְרוֹת-זֹאת	ADV	however.r.01.119996
+לֶנְטוֹ	ADV	lento.r.01.151701
+לְסֵרוּגִין	ADV	alternately.r.01.130295
+לעַ	NOUN	vent.n.03.413213
+לַעַג	NOUN	derision.n.01.371827
+לָעַג	VERB	ridicule.v.01.182258
+לע-הָאֲרִי	NOUN	snapdragon.n.01.465497
+לַעֲנָה	NOUN	wormwood.n.01.452316
+לְעֵרֶךְ	ADV	approximately.r.01.118094
+לְעִתִּים-קְרוֹבוֹת	ADV	frequently.r.01.120897
+לְעִתִּים-רְחוֹקוֹת	ADV	rarely.r.01.120960
+לְעֵת-עַתָּה	ADV	for_the_moment.r.01.122825
+לְפָנִים	ADV	once.r.03.128958
+לִפְעָמִים	ADV	sometimes.r.01.119434
+לִפֵּף	VERB	wind.v.03.222926
+לִפְרָקִים	ADV	sometimes.r.01.119435
+לֶפֶת	NOUN	turnip.n.02.390781
+לֵץ	NOUN	joker.n.01.426377
+לָקוֹחַ	NOUN	customer.n.01.421596	node.n.08.324716
+לָקוּי	ADJ	defective.s.02.227443
+לֶקַח	NOUN	moral.n.01.369423
+לָקַח-בְּחֶשְׁבּוֹן	VERB	allow.v.06.173789
+לֶקֶט	NOUN	anthology.n.01.369193
+לַשָּׁוְא	ADV	vainly.r.01.133219
+לְשׁוֹן-הַקֹּדֶשׁ	NOUN	hebrew.n.01.376422
+לִשְׁכַּת-הַשּׁוֹפֵט	NOUN	chamber.n.03.309148
+לְשָׁם	ADV	there.r.03.128328
+לֶשֶׁם	NOUN	opal.n.01.494257
+מְאֻבָּן	NOUN	fossil.n.02.410649
+מַאֲבָק	NOUN	anther.n.01.449018	conflict.n.01.189096	struggle.n.01.178362
+מְאֻדֶּה	ADJ	steamed.s.01.167502
+מַאְדִּים	NOUN	mars.n.01.411460
+מֵאָה	NOUN	hundred.n.01.478334	hundredth.n.01.480282
+מֵאָה-אָחוּז	ADV	okay.r.01.118816
+מְאַהֶבֶת	NOUN	mistress.n.01.428157
+מְאוֹד	ADV	very.r.01.120438
+מְאוֹד-מְאוֹד	ADV	a_lot.r.01.123457
+מֵאוּן	NOUN	declination.n.04.370146
+מְאוּרָה	NOUN	lair.n.01.402613
+מְאֻוְרָר	ADJ	ventilated.a.01.284318
+מְאַוְרֵר	NOUN	ventilator.n.01.335365
+מַאי	NOUN	may.n.01.502185
+מְאַיֵּד	NOUN	carburetor.n.01.307834
+מֵאִית	NOUN	one-hundredth.n.01.478055
+מְאֻכְלָס	ADJ	populated.s.01.210999
+מְאֻלְתָּר	ADJ	improvised.s.01.236365
+מְאַמֵּן	NOUN	trainer.n.01.434994
+מַאֲמָץ	NOUN	attempt.n.01.178172	effort.n.02.167679
+מֵאֵן	VERB	refuse.v.01.178846
+מְאַסֵּף	NOUN	rearguard.n.01.397447
+מַאֲפִיָּה	NOUN	bakery.n.01.301790
+מָאצʼוֹ	NOUN	stud.n.01.433915
+מְאֵרָה	NOUN	curse.n.01.378443
+מְאָרַחַת	NOUN	hostess.n.01.425620
+מַארְק	NOUN	mark.n.12.366932
+מְבֻדָּר	ADJ	amused.s.01.239465
+מְבוֹאָה	NOUN	anteroom.n.01.298089
+מְבוֹדֵד	NOUN	insulating_material.n.01.497620
+מְבוּכָה	NOUN	daze.n.02.355579
+מְבֻטָּח	ADJ	insured.a.01.258596
+מְבֻטָּל	ADJ	off.a.03.230797
+מֻבְטָל	ADJ	unemployed.a.01.183073
+מֵבִין	ADJ	understanding.s.01.235677
+מֻבְלַעַת	NOUN	enclave.n.01.401989
+מִבְנֶה	NOUN	framework.n.02.343580	social_organization.n.01.399660	structure.n.01.332557	structure.n.02.343553	structure.n.03.356538	structure.n.04.348906
+מִבְנֶה-גּוּף	NOUN	physique.n.01.344883
+מְבֻצָּר	ADJ	bastioned.s.01.244377
+מַבְרֵג	NOUN	screwdriver.n.01.329677
+מְבֻשָּׁל	ADJ	boiled.s.01.167344	cooked.a.01.167237
+מְבַשֵּׂר	NOUN	anticipation.n.04.491119
+מַגְבִּיר-קוֹל	NOUN	megaphone.n.01.323500
+מֻגְבָּל	ADJ	disabled.s.01.192787
+מִגְבָּלָה	NOUN	limitation.n.02.347943
+מֻגְבָּלוּת	NOUN	disability.n.01.492240
+מַגְבֵּר	NOUN	amplifier.n.01.297444
+מַגֶּבֶת	NOUN	towel.n.01.334328
+מִגְדָּל	NOUN	tower.n.01.334353
+מִגְדָּלוֹר	NOUN	beacon.n.03.303075
+מִגְדַּל-פַּעֲמוֹנִים	NOUN	belfry.n.02.303386
+מִגְדַּל-תַּצְפִּית	NOUN	watchtower.n.01.335815
+מִגְדָּר	NOUN	sex.n.04.345075
+מְגֹהָץ	ADJ	ironed.a.01.213485
+מְגוֹלָל	ADJ	involute.s.01.272768
+מֻגְזָם	ADJ	exaggerated.s.01.223649	hyperbolic.s.01.184090
+מַגָּל	NOUN	sickle.n.01.330560
+מְגֻלְגָּל	ADJ	involute.s.01.272769
+מֻגְלָה	NOUN	pus.n.02.351380
+מְגֻלָּח	ADJ	shaven.a.01.262412
+מַגְלֵשָׁה	NOUN	slide.n.04.330952
+מְגַמָּה	NOUN	tendency.n.04.403990
+מְגַמָּתִי	ADJ	tendentious.s.01.174228
+מְגַמָּתִיּוּת	NOUN	tendentiousness.n.01.363222
+מָגֵן	NOUN	shield.n.02.330270
+מָגֵן-רוּחַ	NOUN	windshield.n.01.336378
+מְגֻנֶּה	ADJ	blameworthy.s.01.211526
+מַגְנֵט	NOUN	magnet.n.01.322910
+מַגְנִיב	ADJ	bang-up.s.01.199454
+מַגְעִיל	ADJ	disgusting.s.01.228960
+מֶגָפוֹן	NOUN	megaphone.n.01.323499
+מַגְרֵסָה	NOUN	crusher.n.01.313236
+מַגְרֵפָה	NOUN	rake.n.03.328045
+מְגֹרָשׁ	NOUN	exile.n.02.423202
+מַגָּשׁ	NOUN	tray.n.01.334610
+מַדְאִיג	ADJ	distressing.s.01.203498
+מִדְבָּר	NOUN	desert.n.01.401336
+מְדַבֵּר	VERB	speak.v.03.189331
+מַדָּד	NOUN	consumer_price_index.n.01.370272
+מָדַד	VERB	try_on.v.01.122095
+מַדַּד-הַמְּחִירִים-לַצַּרְכָן	NOUN	consumer_price_index.n.01.370273
+מִדָּה	NOUN	extent.n.01.482108	measure.n.02.120726
+מָדוֹר	NOUN	compartment.n.02.311438
+מְדוּרָה	NOUN	bonfire.n.01.382080
+מַדְחֹם	NOUN	thermometer.n.01.333781
+מַדְחֵס	NOUN	compressor.n.01.311526
+מִדַּי	ADV	excessively.r.01.122111
+מַדֵּי-בֵּית	NOUN	fatigues.n.01.316452
+מְדִידָה	NOUN	measurement.n.01.191426
+מַדִּים	NOUN	uniform.n.01.335103
+מְדִינָה	NOUN	country.n.02.401884	state.n.01.403646	state.n.03.396872	state.n.04.396747
+מְדִינִיּוּת	NOUN	policy.n.01.359708	policy.n.02.370559
+מְדִינַת-יִשְׂרָאֵל	NOUN	israel.n.01.405222
+מִדֵּי-פַּעַם	ADV	sometimes.r.01.119436
+מֶדַלְיָה	NOUN	decoration.n.02.371592
+מָדָם	NOUN	madam.n.02.427346
+מַדָּע	NOUN	science.n.01.361312
+מַדָּעִי	ADJ	scientific.a.01.302324	scientific.a.02.257829
+מַדְּעָן	NOUN	scientist.n.01.432124
+מַדָּף	NOUN	shelf.n.01.330226
+מְדֹרָג	ADJ	gradual.a.02.200793
+מַדְרֵגָה	NOUN	step.n.04.332133
+מִדְשָׁאָה	NOUN	lawn.n.01.402619
+מַהֲדוּרָה	NOUN	edition.n.01.369166	edition.n.02.394234	edition.n.03.369277
+מַהוּתִי	ADJ	fundamental.s.03.263056
+מַהוּת-פְּסִיכוֹלוֹגִית	NOUN	psychological_feature.n.01.119554
+מַה-זֶּה	ADV	very.r.01.120440
+מְהֵימָן	ADJ	reliable.a.01.173819
+מְהֵימָנוּת	NOUN	dependability.n.01.337992
+מָהִיר	ADJ	agile.s.01.120614	quick.s.01.190438	rapid.s.02.190470
+מְהִירוּת	NOUN	speed.n.02.345948
+מְהֻלָּל	ADJ	celebrated.s.01.214372
+מַהְפֵּכָה	NOUN	revolution.n.01.384639	revolution.n.02.189304
+מְהֻפְּנָט	ADJ	fascinated.s.01.183147
+מְהַפְּנֵט	NOUN	hypnotist.n.01.425771
+מְהַפְנֵט	NOUN	hypnotist.n.01.425770
+מֵהַצַּד	ADJ	side.a.01.280325
+מוּג-לֵב	NOUN	coward.n.01.415232
+מוּזֵאוֹן	NOUN	museum.n.01.324381
+מוּזָר	ADJ	curious.s.01.189695
+מוּחָשׁ	ADJ	concrete.a.01.118563
+מוּחָשִׁי	ADJ	concrete.a.01.118564
+מוּחָשִׁיּוּת	NOUN	concreteness.n.01.339785
+מוֹטוֹ	NOUN	motto.n.01.378970
+מוֹטוֹרִי	ADJ	motorized.a.01.225136
+מוֹךְ	NOUN	down.n.01.245237
+מוֹל	NOUN	gram_molecule.n.01.477793
+מוֹלֶדֶת	NOUN	fatherland.n.01.401452
+מוֹלִיךְ	NOUN	conductor.n.02.496123
+מוּמְיָה	NOUN	mummy.n.02.348827
+מוֹמֶנְטוּם	NOUN	momentum.n.02.345427
+מוֹנוֹטוֹנִיּוּת	NOUN	monotony.n.01.339339
+מוֹסָד	NOUN	institution.n.01.395385	institution.n.03.355367
+מוּסָךְ	NOUN	garage.n.01.317994	garage.n.02.317999
+מוּסַר-הַשְׂכֵּל	NOUN	moral.n.01.369425
+מוּסָרִי	ADJ	ethical.s.03.254223
+מוּעָם	ADJ	dimmed.a.01.143079
+מוֹעָצָה	NOUN	council.n.01.398883
+מוֹעֶצֶת-מְנַהֲלִים	NOUN	directorate.n.01.399681
+מוֹפֵת	NOUN	paragon.n.01.360156
+מוֹצָא	NOUN	beginning.n.04.401371
+מוֹקֵשׁ	NOUN	mine.n.02.323851
+מוֹשָׁב	NOUN	seat.n.03.329811
+מוֹשִׁיעַ	NOUN	savior.n.02.431987
+מוֹתָרוֹת	NOUN	luxury.n.01.347027
+מֶזֶג	NOUN	disposition.n.01.336995
+מַזְגָן	NOUN	air_conditioner.n.01.296049
+מִזְוָד	NOUN	baggage.n.01.301734
+מַזְכֶּרֶת	NOUN	keepsake.n.01.321309	memento.n.01.358014
+מַזָּל	NOUN	fortune.n.04.490711	luck.n.03.446148
+מַזַּל-גְּדִי	NOUN	capricorn.n.03.404084
+מַזַּל-קַשָּׁת	NOUN	sagittarius.n.03.404082
+מִזְמוֹר	NOUN	psalm.n.01.367196
+מְזֻמָּן	NOUN	cash.n.01.472856	cash.n.02.472853
+מְזֻמָּנִים	NOUN	cash.n.01.472857	cash.n.02.472854
+מֻזְנָח	ADJ	neglected.s.02.144793
+מְזֻעְזָע	ADJ	aghast.s.01.125484
+מְזֻעֲזָע	ADJ	aghast.s.01.125485
+מִזְעָרִי	ADJ	minimal.a.01.221490
+מִזְרוֹן	NOUN	mattress.n.01.323372
+מִזְרָח	NOUN	east.n.01.479969
+מִזְרָחָה	ADV	eastward.r.01.145985
+מִזְרָחִי	ADJ	oriental.s.01.180734
+מִזְרָן	NOUN	mattress.n.01.323371
+מַזְרֵק	NOUN	syringe.n.01.333089
+מְחָאָה	NOUN	protest.n.03.380237
+מַחְבֵּט	NOUN	carpet_beater.n.01.308015	racket.n.04.327884
+מַחְבֵּט-סְקְווֹשׁ	NOUN	squash_racket.n.01.331793
+מְחַבֵּר	NOUN	writer.n.01.436375
+מְחַבֶּרֶת	NOUN	authoress.n.01.418356
+מְחֻדָּשׁ	ADJ	renewed.s.01.252718
+מֵחָדָשׁ	ADV	afresh.r.01.128515
+מֶחֱוָה	NOUN	gesture.n.01.146742	gesture.n.03.206193
+מָחוֹז	NOUN	district.n.01.401975
+מָחוֹךְ	NOUN	corset.n.01.312359
+מַחֲזַאי	NOUN	dramatist.n.01.422499
+מִחְזוּר	NOUN	recycling.n.01.188516
+מַחְזוֹר	NOUN	class.n.06.397830	menstrual_cycle.n.01.503614
+מַחְזוֹר-חָדְשִׁי	NOUN	menstrual_cycle.n.01.503615
+מַחֲזֶמֶר	NOUN	musical.n.01.376880
+מֻחְזָק	ADJ	held.a.01.313476
+מְחִיאוֹת-כַּפַּיִם	NOUN	applause.n.01.371259
+מְחֻיָּבוּת	NOUN	duty.n.01.199879
+מְחִיר	NOUN	expense.n.02.384573	price.n.02.471503	price.n.03.347990
+מַחֲלָה	NOUN	illness.n.01.484521
+מֶחְלָף	NOUN	interchange.n.01.320772
+מַחְלֵף	NOUN	commutator.n.01.311402
+מַחְלָקָה	NOUN	class.n.07.396027	department.n.01.396126	platoon.n.01.397410
+מַחְלֶקֶת-הַהֲגָנָה	NOUN	department_of_defense.n.01.396293
+מַחְלֶקֶת-הַמְּדִינָה	NOUN	department_of_state.n.01.396353
+מַחְלַקְתִּי	ADJ	departmental.a.01.310863
+מַחֲלַת-הַנְסֶן	NOUN	leprosy.n.01.485532
+מְחֻמָּם	ADJ	heated.s.01.207648	heated.s.02.208125
+מֻחְמָץ	ADJ	pickled.s.01.196298
+מְחֻמְצָן	ADJ	oxidized.a.01.313538
+מְחֻמָּשׁ	NOUN	pentagon.n.03.480864
+מַחֲנֶה	NOUN	army_base.n.01.299854
+מַחְסוֹם	NOUN	roadblock.n.02.328766
+מַחְסוֹר	NOUN	deficit.n.01.346927	lack.n.01.490272
+מְחֻסָּן	ADJ	immunized.s.01.275454
+מַחְצָב	NOUN	mineral.n.01.493918
+מַחְצָבָה	NOUN	pit.n.09.326575
+מְחִצָּה	NOUN	partition.n.01.325733	partition.n.02.476251
+מַחְצֵצָה	NOUN	toothpick.n.01.334252
+מַחַק	NOUN	rubber_eraser.n.01.329037
+מֶחְקָר	NOUN	research.n.01.168738
+מָחָר	ADV	tomorrow.r.01.159352
+מָחָר	NOUN	tomorrow.n.02.503089
+מְחֻרְבָּן	ADJ	icky.s.01.199701
+מַחְרֹזֶת	NOUN	necklace.n.01.324550
+מַחְרֵטָה	NOUN	lathe.n.01.321961
+מַחֲרִישׁ-אָזְנַיִם	ADJ	deafening.s.01.218806
+מַחְשֵׁב	NOUN	calculator.n.02.307092	computer.n.01.311531
+מַחְשָׁבָה	NOUN	idea.n.01.358476	thinking.n.01.357186	thought.n.03.360683
+מַחְשְׁבוֹן	NOUN	calculator.n.02.307093
+מְחַשְׁמֵל	ADJ	electric.s.03.186809
+מַחְתֶּרֶת	NOUN	underground.n.01.399402
+מַטְאֲטֵא	NOUN	broom.n.01.306112
+מִטְבָּח	NOUN	cuisine.n.01.388232	kitchen.n.01.321463
+מַטְבֵּעַ	NOUN	coin.n.01.472906
+מְטֻגָּן	ADJ	fried.s.01.167398
+מֻטֶּה	ADJ	atilt.s.01.206636
+מְטוּטֶלֶת	NOUN	pendulum.n.01.325990
+מָטוֹס	NOUN	airplane.n.01.296406
+מְטוֹס-סִילוֹן	NOUN	jet.n.01.321076
+מַטְמוֹן	NOUN	hoard.n.01.472491
+מַטְעֶה	ADJ	deceptive.s.02.205881
+מֻטְעֶה	ADJ	false.s.02.168441
+מִטְעָן	NOUN	baggage.n.01.301733
+מִטְפַּחַת	NOUN	handkerchief.n.01.319204	kerchief.n.01.321329
+מִטפַּחַת-אַף	NOUN	handkerchief.n.01.319205
+מִטְפַּחַת-רֹאשׁ	NOUN	headscarf.n.01.319535
+מְטַפֶּלֶת	NOUN	nanny.n.01.428552
+מְטַפֵּס	NOUN	vine.n.01.468459
+מְטֻפָּשׁ	ADJ	foolish.a.01.288565
+מֶטֶר	NOUN	meter.n.01.476758	tape.n.04.333301
+מָטָר	NOUN	rain.n.03.345740
+מִטְרָד	NOUN	annoyance.n.04.358381
+מַטָּרָה	NOUN	goal.n.01.361014
+מֶטְרוֹ	NOUN	metro.n.01.323697
+מָטֶרְיָאלִיזְם	NOUN	materialism.n.02.360908
+מַטְרִיד	ADJ	troublesome.s.01.175359
+מִטְרִיָּה	NOUN	umbrella.n.01.335048
+מִטְרִיָּה-אֲוִירִית	NOUN	umbrella.n.02.180975
+מְטֻשְׁטָשׁ	ADJ	bleary.s.02.177771	dazed.s.01.156321
+מִי	NOUN	mi.n.08.374597	mu.n.01.374185
+מְיַגֵּעַ	ADJ	exhausting.s.02.181357
+מִיָּד	ADV	immediately.r.01.122310
+מִיָּדִי	ADJ	immediate.s.05.190420
+מִיָּדִית	ADV	immediately.r.01.122311
+מְיֻדָּע	NOUN	acquaintance.n.03.417282	definite_article.n.01.364824
+מֵידָע	NOUN	information.n.01.370149
+מְיוּזִיקְל	NOUN	musical.n.01.376881
+מְיֻחָדוּת	NOUN	singularity.n.01.339834
+מֵיטִיב	NOUN	benefactor.n.01.415167
+מְיַלְּדוּת	NOUN	obstetrics.n.01.361773
+מְיַלֶּדֶת	NOUN	midwife.n.01.428003
+מִילְיוֹן	NOUN	million.n.01.478370
+מִילִיצְיָה	NOUN	militia.n.01.399855
+מְיֻמָּן	ADJ	skilled.a.01.266973
+מֵימָן	NOUN	hydrogen.n.01.493596
+מְיֻמָּנוּת	NOUN	skill.n.01.354727
+מֵימְרָה	NOUN	proverb.n.01.379022
+מִין	NOUN	gender.n.01.364877	kind.n.01.358580	sex.n.02.394827	sex.n.04.345074
+מִינוּס	ADJ	minus.a.01.240493
+מִינוּת	NOUN	heresy.n.02.361008
+מִינִימָלִי	ADJ	minimal.a.01.221491
+מִינֶרָל	NOUN	mineral.n.01.493919
+מְיֹעָד	ADJ	designate.s.01.210136
+מִיץ	NOUN	juice.n.01.393658
+מֵי-רַגְלַיִם	NOUN	urine.n.01.496631
+מִישֶׁהוּ	NOUN	person.n.01.118161
+מֵי-שׁוֹפְכִין	NOUN	sewage.n.01.496663
+מִיתוֹלוֹגִי	ADJ	legendary.s.01.214447
+מְיֻתָּר	ADJ	unnecessary.a.01.226443
+מִכְבָּסָה	NOUN	laundry.n.02.321995
+מְכוֹנִית	NOUN	car.n.01.307714
+מְכוֹרָה	NOUN	fatherland.n.01.401451
+מִכְחוֹל	NOUN	paintbrush.n.01.325431
+מִכְלוֹל	NOUN	whole.n.02.117779
+מִכְלָלָה	NOUN	college.n.02.398435
+מַכָּ"ם	NOUN	radar.n.01.327888
+מֶכֶס	NOUN	customs.n.01.471731
+מִכְסֶה	NOUN	lid.n.02.322212
+מַכְסֵחָה	NOUN	lawn_mower.n.01.322025
+מַכְסֵחַת-דֶּשֶׁא	NOUN	lawn_mower.n.01.322026
+מֻכְסָף	ADJ	silver.s.02.142981
+מֻכָּר	ADJ	known.a.01.214341	long-familiar.s.01.189519
+מַכָּר	NOUN	acquaintance.n.03.417281
+מָכַר	VERB	deceive.v.02.182450
+מִכְרֶה	NOUN	mine.n.01.323858
+מֻכְרָז	ADJ	declared.s.02.188030
+מָכַר-לוֹ-לוֹקְשִׁים	VERB	deceive.v.02.182453
+מְכַרְסֵם	NOUN	rodent.n.01.273515
+מִכְשׁוּר	NOUN	instrumentality.n.03.320749
+מַכְשִׁיר	NOUN	instrument.n.02.133755
+מֻכְשָׁר	ADJ	talented.a.01.199167
+מְכֻתָּב	NOUN	addressee.n.01.417356
+מִכְתָּב	NOUN	letter.n.01.369849
+מִכְתָּבָה	NOUN	secretary.n.04.329857
+מִכְתָּב-הִתְפַּטְּרוּת	NOUN	resignation.n.03.367998
+מְכֻתָּר	ADJ	besieged.s.01.231193	surrounded.s.01.231247
+מַכְתֵּשׁ	NOUN	crater.n.03.410291	mortar.n.03.324172
+מָלֵא	ADJ	full.s.04.271692	many.a.01.224722	whole.a.01.161772
+מַלְאֶה	ADJ	exhausting.s.02.181355
+מְלַאי	NOUN	store.n.02.472494
+מְלָאכוּתִיּוּת	NOUN	artificiality.n.01.340205
+מִלְּבַד-זֹאת	ADV	additionally.r.01.121964
+מַלְבֵּן	NOUN	rectangle.n.01.480888
+מִלְגָּה	NOUN	scholarship.n.01.470710
+מָלֶה	NOUN	male.n.03.406927
+מִלָּה-שְׁאוּלָה	NOUN	loanword.n.01.364468
+מַלְוֶה-בְּרִבִּית	NOUN	usurer.n.01.435350
+מָלוּחַ	ADJ	salty.s.03.277441
+מָלוֹן	NOUN	hotel.n.01.320198
+מֶלוֹן אַפְרִיקָנִי	NOUN	watermelon.n.01.455255
+מְלוּנָה	NOUN	kennel.n.01.321318
+מֶלַח	NOUN	salt.n.01.498879	salt.n.02.392047
+מַלָּח	NOUN	sailor.n.01.431851
+מַלְחִין	NOUN	composer.n.01.420775
+מִלְחָמָה	NOUN	conflict.n.01.189097
+מֶלֶט	NOUN	cement.n.02.495917	mortar.n.02.498092
+מְלִיחוּת	NOUN	salt.n.04.356409
+מֶלֶךְ-הַחַיּוֹת	NOUN	lion.n.01.260796
+מְלֻכְלָךְ	ADJ	dirty.s.03.226842
+מְלֻמָּד	NOUN	scholar.n.01.432071
+מִלִּפְנֵי-הַמַּבּוּל	ADJ	antediluvian.s.02.229798
+מֶלְצַר	NOUN	waiter.n.01.435768
+מֶלְצָרִית	NOUN	waitress.n.01.435776
+מָלַרְיָה	NOUN	malaria.n.01.484753
+מֶלְתָּחָה	NOUN	cloakroom.n.02.310448
+מַמְאִיר	ADJ	malignant.a.01.290118
+מִמּוּשׁ	NOUN	implementation.n.02.121813
+מְמֻזָּג	ADJ	air-conditioned.s.01.285843
+מֻמְחֶה	NOUN	specialist.n.02.433356
+מִמְחָטָה	NOUN	handkerchief.n.01.319203
+מֻמְחִיּוּת	NOUN	expertness.n.01.354805
+מַמְטֵרָה	NOUN	sprinkler.n.01.331749
+מְמֻנָּע	ADJ	mechanized.s.02.223006	motorized.a.01.225135
+מֵמֵס	NOUN	solvent.n.01.499370
+מְמֻסְחָר	ADJ	commercialized.s.01.159626
+מִמְסָר	NOUN	relay.n.05.328406
+מֻמְצָא	ADJ	fabricated.s.01.247461
+מְמַצֶּה	ADJ	exhaustive.s.01.162222
+מְמֻקָּם	ADJ	located.s.01.260582
+מַמָּשׁ	ADV	in_truth.r.01.121281
+מַמָּשִׁיּוּת	NOUN	concreteness.n.01.339784
+מְמֻשְׁכָּן	ADJ	mortgaged.s.01.183339
+מִמְשָׁל	NOUN	government.n.01.395338
+מֶמְשָׁלָה	NOUN	government.n.01.395340
+מָן	NOUN	man.n.09.406064
+מִן-הַסְּתָם	ADV	probably.r.01.130400
+מְנֻגָּד	ADJ	opposed.a.01.231472
+מַנְגִּינָה	NOUN	tune.n.01.376961
+מְנַגֵּן	NOUN	musician.n.01.428474
+מַנְדָּרִין	NOUN	mandarin.n.06.375538
+מָנָה	NOUN	helping.n.01.388402	quotient.n.01.479804	quotient.n.02.477943	ration.n.01.388139	ration.n.02.471185	rebuke.n.01.371690
+מִנָּה	VERB	appoint.v.02.282336
+מָנָה	VERB	count.v.01.188465	enumerate.v.01.188349
+מְנַהֵל	NOUN	director.n.01.422240
+מְנַהֶלֶת	NOUN	manageress.n.01.427559
+מִנְהָרָה	NOUN	tunnel.n.01.334935
+מִנּוּי	NOUN	subscription.n.01.471046
+מִנּוּן	NOUN	dose.n.02.478739
+מְנוּסָה	NOUN	escape.n.01.123364
+מָנוֹף	NOUN	crane.n.04.312786
+מֵנִיעַ	NOUN	motivation.n.01.119614
+מְנִיעָה	NOUN	prevention.n.01.196567
+מָנִיפֶסְט	NOUN	manifesto.n.01.372067
+מְנֻמָּס	ADJ	polite.a.01.168966
+מְנֻקָּב	ADJ	pierced.s.01.170052
+מִנְשָׁר	NOUN	manifesto.n.01.372066
+מַס	NOUN	tax.n.01.471610
+מְסֻבָּךְ	ADJ	complicated.s.01.263999
+מִסְגָּד	NOUN	mosque.n.01.324196
+מְסֻדָּר	ADJ	tidy.a.01.278941
+מַסָּה	NOUN	essay.n.01.366284
+מֻסְוֶה	ADJ	camouflaged.s.01.284914
+מָסוֹף	NOUN	terminal.n.04.333666
+מַסּוֹק	NOUN	helicopter.n.01.319633
+מָסוּר	ADJ	devoted.s.01.162036
+מִסְחוּר	NOUN	commercialization.n.01.188651
+מִסְחֵר	VERB	commercialize.v.02.158776
+מָסִיבִי	ADJ	massive.s.04.203316
+מְסֻיָּד	ADJ	whitewashed.s.01.234021
+מְסַיֵּעַ	ADJ	collateral.s.02.275007
+מְסִירָה	NOUN	delivery.n.01.145485
+מָסָךְ	NOUN	curtain.n.02.410338
+מְסֻכָּן	ADJ	dangerous.a.01.255841
+מַסְלוּל	NOUN	path.n.03.402986	path.n.04.412003	runway.n.04.329106
+מְסֻלְסָל	ADJ	curly.a.01.193549
+מִסְלָעָה	NOUN	rock_garden.n.01.328810
+מַסְמֵר	NOUN	nail.n.02.324436
+מַסְנֵן	NOUN	filter.n.01.316729
+מְסַנֶּנֶת	NOUN	strainer.n.01.332416
+מִסְנֶנֶת	NOUN	strainer.n.01.332415
+מִסְעָדָה	NOUN	restaurant.n.01.328544
+מִסְפּוֹא	NOUN	fodder.n.02.391837
+מְסַפֵּק	ADJ	satisfactory.s.02.199525
+מִסְפָּר	ADJ	several.s.01.269713
+מְסֻקָּס	ADJ	gnarled.s.01.272441
+מֶסֶר	NOUN	message.n.01.363856
+מָסַר	VERB	advise.v.02.183606	pass.v.05.267338
+מְסֹרָק	ADJ	combed.a.01.279462
+מָסָרְתִּי	ADJ	traditional.a.01.166898
+מִסְתּוֹרִין	NOUN	mystery.n.01.355601
+מַעְבָּדָה	NOUN	lab.n.01.321664
+מַעֲבָר	NOUN	aisle.n.02.296563	motion.n.06.142699
+מַעְבֹּרֶת	NOUN	ferry.n.01.316551
+מַעֲגָן	NOUN	anchorage.n.04.403313	seaport.n.01.403302
+מַעְדֵּר	NOUN	hoe.n.01.319879
+מְעוֹדָד	ADJ	bucked_up.s.01.239478
+מִעוּט	NOUN	minority.n.01.394366	minority.n.02.347105
+מָעוּךְ	ADJ	squashed.a.01.313642
+מְעוֹנוֹת	NOUN	hostel.n.02.320164
+מְעֻוָּת	ADJ	deformed.s.01.261661
+מְעִי	NOUN	intestine.n.01.352806
+מְעִילָה	NOUN	embezzlement.n.01.177355
+מְעֻיָּן	NOUN	rhombus.n.01.480883
+מְעַיֵּף	ADJ	exhausting.s.02.181356
+מָעַל	VERB	embezzle.v.01.271223
+מְעֻלֶּה	ADJ	excellent.s.01.274237	superb.s.02.199551
+מַעְלָה	ADV	up.r.01.127128
+מַעְלָה	NOUN	heaven.n.02.354536
+מַעֲלֶה	NOUN	slope.n.01.412723
+מַעֲלָה	NOUN	degree.n.06.477650	importance.n.02.489820
+מַעֲלִית	NOUN	elevator.n.01.315747
+מַעֲמָד	NOUN	status.n.01.482221
+מָעֳמָד	NOUN	candidate.n.02.419749
+מַעֲמָד חֶבְרָתִי	NOUN	social_station.n.01.482246
+מַעֲמָסָה	NOUN	burden.n.01.358438
+מְעֻמְעָם	ADJ	dimmed.a.01.143080
+מַעַן	NOUN	address.n.06.373327
+מַעֲנֶה	NOUN	answer.n.01.372387
+מְעַנְיֵן	ADJ	interesting.a.01.212668
+מְעֻנָּן	ADJ	cloudy.a.02.158228
+מְעֻפָּשׁ	ADJ	moldy.s.01.196116
+מְעַצְבֵּן	ADJ	annoying.s.01.126506
+מְעֻקָּב	ADJ	cubic.a.01.169843
+מַעַר	NOUN	nakedness.n.01.490409
+מְעֹרָב	ADJ	co-ed.s.01.211813
+מַעֲרָב	NOUN	west.n.02.480020
+מַעֲרָבָה	ADV	westward.r.01.145977
+מְעָרָה	NOUN	cave.n.01.410004
+מְעֻרְטָל	VERB	clot.v.01.157954
+מַעֲרָכָה	NOUN	set.n.08.502990
+מַעֲרֶכֶת	NOUN	phylum.n.02.396020	publisher.n.01.395508
+מַעֲרֻמִּים	NOUN	nakedness.n.01.490412
+מְעֻרְפָּל	ADJ	brumous.s.01.158251	undefined.a.01.172135
+מַעֲשֶׂה	NOUN	act.n.02.120280
+מַעֲשֵׂה-קֻנְדָּס	NOUN	mischief.n.01.174574
+מַעֲשִׂי	ADJ	hardheaded.s.02.247651
+מְעֻשָּׁן	ADJ	smoked.s.01.196310
+מְעֻשָּׂר	NOUN	decagon.n.01.480879
+מְפַגֵּר	ADJ	retarded.a.01.241711
+מִפְגָּשׁ	NOUN	meeting.n.04.206412
+מַפָּה	NOUN	map.n.01.323151	tablecloth.n.01.333122
+מְפֻטָּר	ADJ	discharged.s.01.183082
+מַפִּית	NOUN	napkin.n.01.324473
+מַפָּל	NOUN	waterfall.n.01.413271
+מִפְלָגָה	NOUN	party.n.01.398161
+מַפְלֶה	ADJ	discriminatory.s.04.124189
+מַפָּלָה	NOUN	defeat.n.01.385582
+מַפְּלֵי-אַנְחֵל	NOUN	angel.n.04.409414
+מַפַּל-מַיִם	NOUN	waterfall.n.01.413272
+מְפֻלְפָּל	ADJ	witty.s.01.208771
+מִפְלַצְתִּי	ADJ	atrocious.s.01.199945	grotesque.s.01.137795
+מַפֹּלֶת	NOUN	avalanche.n.01.384200
+מְפֻסְטָר	ADJ	pasteurized.a.01.313545
+מַפְסֶלֶת	NOUN	chisel.n.01.309689
+מְפֻסְפָּס	ADJ	striped.s.01.238397
+מִפְעָם	NOUN	tempo.n.01.503101
+מִפְקָד	NOUN	census.n.01.169609
+מִפְקַד-אֻכְלוּסִין	NOUN	census.n.01.169610
+מֻפְרָז	ADJ	hyperbolic.s.01.184091
+מְפֹרָט	ADJ	detailed.s.01.144968
+מְפֻרְסָם	ADJ	celebrated.s.01.214373
+מִפְרָק	NOUN	joint.n.01.353845
+מְפֹרָשׁ	ADJ	explicit.a.01.188016
+מַפְתִּיעַ	ADJ	surprising.a.01.275264
+מֻפְתָּע	ADJ	surprised.a.01.275130
+מִצָּב	NOUN	status.n.01.482220
+מַצָּב	NOUN	condition.n.01.481617	position.n.07.346225	situation.n.02.481687	state.n.02.119689
+מֻצָּב	NOUN	military_post.n.01.323779
+מַצֵּבָה	NOUN	gravestone.n.01.318648
+מַצֵּבַת-זִכָּרוֹן	NOUN	memorial.n.03.323515
+מֻצָּג	NOUN	display.n.02.162151
+מֻצָּג-מִשְׁפָּטִי	NOUN	exhibit.n.01.372173
+מְצָד	NOUN	bunker.n.03.306499
+מָצוֹד	NOUN	manhunt.n.01.188368
+מְצֻוֶּה	ADJ	duty-bound.s.01.228405
+מִצְוָה	NOUN	commandment.n.01.379309
+מָצוֹף	NOUN	buoy.n.01.381312
+מָצוּק	NOUN	cliff.n.01.410136
+מָצוֹר	NOUN	siege.n.01.196419
+מֵצַח	NOUN	brow.n.01.353979
+מַצִּיל	NOUN	lifeguard.n.01.427025
+מְצֻיָּן	ADJ	excellent.s.01.274238
+מְצִיצָה	NOUN	sucking.n.01.181643
+מֵצִיק	ADJ	annoying.s.01.126503
+מֻצְלָח	ADJ	successful.a.01.273579
+מַצְלִיף	NOUN	whip.n.02.436030
+מְצֻלָּע	NOUN	polygon.n.01.480563
+מְצֻלָּע-מְשֻׁכְלָל	NOUN	regular_polygon.n.01.480573
+מְצֻלָּע-קָמוּר	NOUN	convex_polygon.n.01.480568
+מְצֻלָּע-קָעוּר	NOUN	concave_polygon.n.01.480569
+מִצְמוּץ	NOUN	blink.n.01.128862
+מַצְנֵחַ	NOUN	parachute.n.01.325640
+מִצְעָד	NOUN	parade.n.01.400388	parade.n.02.400705
+מִצְפֶּה	NOUN	lookout.n.02.402727
+מַצֶּקֶת	NOUN	ladle.n.01.321723
+מֵצַר	NOUN	isthmus.n.01.411093
+מֵצַר-יַבָּשָׁה	NOUN	isthmus.n.01.411094
+מַקְבִּילִית	NOUN	parallelogram.n.01.480849
+מִקֵּד	VERB	concentrate.v.02.173722
+מְקַדֵּם	NOUN	coefficient.n.01.475707
+מְקַדֵּם-מִתְאָם	NOUN	correlation_coefficient.n.01.361609
+מִקְדָּמָה	NOUN	advance.n.05.472651
+מְקֻדָּשׁ	ADJ	consecrated.s.02.255502
+מֻקְדָּשׁ	ADJ	devoted.s.02.162029
+מִקּוּד	NOUN	zip_code.n.01.365329
+מִקּוּחַ	NOUN	bargaining.n.01.378939
+מִקּוּם	NOUN	location.n.01.119952
+מָקוֹם-דִּמְיוֹנִי	NOUN	imaginary_place.n.01.354514
+מְקוֹם-עֲבוֹדָה	NOUN	workplace.n.01.336568
+מָקוֹם-קָדוֹשׁ	NOUN	shrine.n.01.330506
+מָקוֹר	NOUN	beginning.n.04.401370	infinitive.n.01.364753	reference.n.08.381169
+מִקְטָע	NOUN	fraction.n.01.497636
+מִקְטֹרֶן	NOUN	jacket.n.01.320966
+מִקְלְחוֹן	NOUN	shower_stall.n.01.330495
+מִקְלַחַת	NOUN	bathroom.n.01.302838	shower.n.01.330486
+מְקֻלָּל	ADJ	accursed.s.01.170585	cursed.a.01.170567
+מִקְלַעַת	NOUN	slingshot.n.01.330984
+מִקֵּם	VERB	position.v.01.250778
+מְקֻמָּר	ADJ	convex.a.01.162881
+מַקְסִימָלִי	ADJ	maximal.a.01.221484
+מֻקָּף	ADJ	surrounded.s.01.231248
+מַקָּף	NOUN	hyphen.n.01.374323
+מַקְפֵּא	NOUN	deep-freeze.n.01.313927
+מַקְפִּיא	NOUN	deep-freeze.n.01.313928
+מַקְפֵּצָה	NOUN	diving_board.n.01.314665
+מַקְצוּעָה	NOUN	plane.n.05.326662
+מְקֻצָּץ	ADJ	chopped.s.01.170023
+מַקָּק	NOUN	cockroach.n.01.267520
+מְקֹרֶה	ADJ	roofed.a.01.233392
+מִקְרֶה	NOUN	case.n.01.382203	event.n.02.482171	happening.n.01.381593
+מְקֻרְזָל	ADJ	curly.a.01.193550
+מַקְרִיחַ	ADJ	balding.s.01.136811
+מְקָרֵר	NOUN	refrigerator.n.01.328357
+מִקֵּשׁ	VERB	mine.v.02.199572
+מְקֻשָּׁט	ADJ	adorned.a.01.123023
+מַר	NOUN	mister.n.01.365101
+מַרְאָה	NOUN	mirror.n.01.323941
+מַרְאֵה-מָקוֹם	NOUN	citation.n.03.372787
+מֵרֹאשׁ	ADV	ahead.r.04.124442
+מַרְבָד	NOUN	rug.n.01.329054
+מְרַבִּי	ADJ	maximal.a.01.221483
+מְרֻבָּע	ADJ	quadrilateral.s.01.139156
+מְרֻבָּע	NOUN	quadrilateral.n.01.480818
+מַרְגִּיז	ADJ	annoying.s.01.126504
+מַרְגֵּמָה	NOUN	mortar.n.01.324168
+מַרְגָּרִינָה	NOUN	margarine.n.01.389805
+מֻרְגָּשׁ	ADJ	noticed.a.01.227925
+מֶרֶד	NOUN	rebellion.n.01.202866	rebellion.n.02.189259
+מַרְדִּים	NOUN	anesthesiologist.n.01.417830
+מִרְדָּף	NOUN	pursuit.n.01.145712
+מָרָה	NOUN	bile.n.01.351255
+מִרְוָח	NOUN	space.n.02.481402
+מָרוּט	ADJ	plucked.s.02.191538
+מֵרוּק	NOUN	shining.n.01.164967
+מַרְזֵב	NOUN	gutter.n.01.318931
+מֶרִי	NOUN	rebellion.n.02.189260
+מְרִידָה	NOUN	rebellion.n.01.202867	rebellion.n.02.189261
+מַרְיוֹנֶטָה	NOUN	puppet.n.01.327659
+מְרִיצָה	NOUN	barrow.n.03.302471
+מֻרְכָּב	ADJ	complex.a.01.263923
+מֻרְכָּבוּת	NOUN	complexity.n.01.339889
+מֶרְכָּז	NOUN	center.n.01.401730
+מִרְכֵּז	VERB	centralize.v.01.153226
+מֶרְכָּז-הַמִּגְרָשׁ	NOUN	midfield.n.01.402332
+מֶרְכָּזִיּוּת	NOUN	centrality.n.01.346286
+מַרְס	NOUN	march.n.01.502175	mars.n.01.411459	mars.n.02.414487
+מְרֻסָּק	ADJ	crushed.s.01.268049
+מַרְעוֹם	NOUN	fuse.n.02.317842
+מִרְפָּאָה	NOUN	clinic.n.01.395391
+מִרְפְּאַת-חוּץ	NOUN	clinic.n.03.310365
+מֶרְץ	NOUN	march.n.01.502176
+מְרֻצֶּה	ADJ	contented.a.01.165401
+מַרְצֶה	NOUN	lecturer.n.02.426881
+מַרְצֵעַ	NOUN	awl.n.01.301118
+מַרְצֶפֶת	NOUN	tile.n.01.333962
+מֶרֶק	NOUN	putty.n.01.494482
+מַרְשֶׁה	NOUN	client.n.01.421622
+מַרְשִׁים	ADJ	impressive.a.01.209475
+מִרְשֶׁתֶת	NOUN	internet.n.01.320812
+מַרְתֵּף-יֵינוֹת	NOUN	root_cellar.n.01.328921
+מֹרַת-רוּחַ	NOUN	displeasure.n.01.387514
+מַשָּׂא	NOUN	burden.n.01.358437
+מַשְׁאֵבָה	NOUN	pump.n.01.327615
+מַשָּׂא-וּמַתָּן	NOUN	negotiation.n.01.378912
+מֻשָּׂא-תֵּאוּר	NOUN	subject.n.02.332659
+מַשְׂבִּיעַ-רָצוֹן	ADJ	satisfactory.s.02.199526
+מְשֻׁבָּע	NOUN	heptagon.n.01.480871
+מַשְׁבֵּר	NOUN	crisis.n.01.481947	crisis.n.02.384503
+מֻשָּׂג	NOUN	concept.n.01.358497
+מֻשָּׂגִי	ADJ	conceptual.s.01.118520
+מִשְׁדָּר	NOUN	broadcast.n.02.369759
+מַשְׁדֵּר	NOUN	transmitter.n.03.334536
+מִשְׁוָאָה	NOUN	equation.n.01.370799
+מָשׁוֹט	NOUN	oar.n.01.324851
+מְשׂוּכוֹת	NOUN	hurdles.n.01.385464
+מָשׁוֹף	NOUN	file.n.04.316681
+מְשׁוֹרֵר	NOUN	poet.n.01.430188
+מַשְׁחֵז	NOUN	steel.n.03.332080
+מַשְׁחֵזָה	NOUN	sharpener.n.01.330147
+מִשְׂחָק	NOUN	acting.n.01.163501
+מִשְׂחַק-הַמְּלָכִים	NOUN	chess.n.02.160936
+מַשְׁחֶתֶת	NOUN	destroyer.n.01.314101
+מַשְׂטֵמָה	NOUN	hate.n.01.387681
+מִשְׁטָרָה	NOUN	police.n.01.397314
+מֶשִׁי	NOUN	silk.n.01.330654
+מָשִׁיחַ	NOUN	messiah.n.02.414157	messiah.n.03.414156
+מְשִׁיחִי	ADJ	messianic.a.01.304804
+מְשִׂימָה	NOUN	undertaking.n.01.178721
+מֶשֶׁךְ	NOUN	duration.n.01.500664
+מָשַׁךְ	VERB	withdraw.v.09.272330
+מִשְׁכֵּן	VERB	mortgage.v.01.274840
+מַשְׁכַּנְתָּא	NOUN	mortgage.n.01.472246
+מַשְׁכַּנְתָּה	NOUN	mortgage.n.01.472247
+מַשְׂכֹּרֶת	NOUN	wage.n.01.471009
+מִשְׁלַחַת	NOUN	deputation.n.01.400037
+מְשֻׁלָּשׁ	NOUN	triangle.n.01.480821	triangle.n.04.334684	triangle.n.05.334680
+מְשַׁלְשֵׁל	ADJ	laxative.a.01.168801
+מִשְׁמַנִּים	NOUN	fatness.n.01.344914
+מַשְׁמָעוּת	NOUN	meaning.n.02.360054
+מַשְׁמָעוּתִי	ADJ	meaningful.a.01.221528	significant.a.01.262946
+מְשֻׁנָּן	ADJ	serrate.s.01.268436
+מַשְׁנֵק	NOUN	choke.n.02.309788
+מְשֻׁעְבָּד	ADJ	beguiled.s.01.183130
+מְשַׁעֲמֵם	ADJ	boring.s.01.212750
+מִשְׁעֶנֶת	NOUN	back.n.08.301388
+מְשָׁעֳשָׁע	ADJ	amused.s.01.239466
+מְשֻׁעְשָׁע	ADJ	amused.s.01.239467
+מִשְׁפָּחָה	NOUN	family.n.01.395727
+מִשְׁפָּחָה-אוֹמֶנֶת	NOUN	foster_home.n.01.394480
+מִשְׁפָּחָה גַּרְעִינִית	NOUN	nuclear_family.n.01.394474
+מֶשֶׁק	NOUN	farm.n.01.316403
+מִשְׁקָל	NOUN	declension.n.04.394931	weight.n.01.345388
+מִשְׁקָל-קַל	ADJ	lightweight.s.01.203356
+מִשְׁקֶפֶת	NOUN	binoculars.n.01.303980
+מִשְׂרַד-הַפְּנִים-הָאָמֶרִיקָאִי	NOUN	department_of_the_interior.n.01.396365
+מְשָׁרֵת	NOUN	servant.n.01.432450
+מְשֻׁשֶּׁה	NOUN	hexagon.n.01.480868
+מִשְׁתַּנֶּה	NOUN	variable.n.01.413198
+מְשֻׁתָּף	ADJ	common.s.03.262338
+מְתַאֲבֵן	NOUN	appetizer.n.01.388458
+מִתְאַבֵּק	NOUN	wrestler.n.01.436362
+מַתְאִים	ADJ	proper.s.04.130095	suitable.s.01.192916
+מִתְאָם	NOUN	correlation.n.03.361602
+מְתֹאָר	ADJ	described.s.01.234082
+מֶתוֹדִי	ADJ	methodical.s.01.231840
+מָתוּן	ADJ	moderate.a.01.223506	moderate.s.02.222175
+מְתוֹפֵף	NOUN	drummer.n.01.422588
+מָתַח-בִּקֹּרֶת	VERB	knock.v.06.180774
+מִתְחַזֶּה	NOUN	imposter.n.01.425978
+מַתִּירָנוּת	NOUN	permissiveness.n.01.337336
+מַתִּירָנִי	ADJ	permissive.a.02.236686
+מֻתָּךְ	ADJ	molten.s.01.222032
+מַתֶּכֶת	NOUN	metallic_element.n.01.493391
+מַתַּכְתִּי	ADJ	metallic.a.01.223247
+מִתְלֶה	NOUN	hanger.n.02.319281
+מִתְלַקֵּחַ	ADJ	burnable.s.01.158951
+מְתֻלְתָּל	ADJ	curly.a.01.193551
+מָתֶמָטִיקָה	NOUN	mathematics.n.01.361327
+מַתְמִיד	ADJ	diligent.s.01.235136
+מַתְמִיהַּ	ADJ	surprising.a.01.275265
+מְתֻמָּן	NOUN	octagon.n.01.480873
+מְתֻמְצָת	ADJ	concise.a.01.163408
+מֶתָן	NOUN	methane.n.01.498032
+מְתַסְכֵּל	ADJ	frustrating.s.01.183262
+מִתְעַמֵּל	NOUN	gymnast.n.01.425025
+מְתֻקָּן	ADJ	fixed.s.01.174812
+מִתְקָן-סְחִיטָה	NOUN	wringer.n.01.336649
+מִתְקַפֵּל	ADJ	foldable.s.01.158511
+מֻתָּר	ADJ	allowable.s.03.236648
+מְתֻרְבָּת	ADJ	civilized.s.02.248056
+מְתַרְגֵּם	NOUN	interpreter.n.01.426187
+מְתֻרְגְּמָן	NOUN	interpreter.n.01.426188
+מִתְרוֹמֵם	NOUN	fagot.n.01.423281
+מִתְרָס	NOUN	barricade.n.02.302419
+מֻתָּשׁ	ADJ	exhausted.s.01.279779
+מְתֻשָׁע	NOUN	nonagon.n.01.480876
+נָאֶה	ADJ	goodly.s.01.168002
+נָאִיבִיּוּת	NOUN	naivete.n.01.342316
+נֶאֱמָן	ADJ	firm.s.10.189119
+נֶאֱשַׁם	NOUN	defendant.n.01.417221
+נֶבֶג	NOUN	spore.n.01.447922
+נְבוּאִי	ADJ	prophetic.a.01.244106
+נִבּוּי	NOUN	prediction.n.01.357259	prediction.n.02.372463
+נִבְזֶה	ADJ	contemptible.a.01.185572
+נִבְזוּת	NOUN	baseness.n.01.340592
+נִבְזִיּוּת	NOUN	baseness.n.01.340595
+נָבַט	VERB	shoot.v.19.148847
+נְבִיטָה	NOUN	germination.n.01.474427
+נֵבֶל	NOUN	harp.n.01.319352
+נַבְלַאי	NOUN	harpist.n.01.425152
+נַבְלָן	NOUN	harpist.n.01.425151
+נִבְעָרוּת	NOUN	ignorance.n.01.361173
+נִבְרֶשֶׁת	NOUN	chandelier.n.01.309189
+נַגָּד	NOUN	resistor.n.01.328526
+נֶגְדִּי	ADJ	antagonistic.s.01.240417
+נֹגַהּ	NOUN	venus.n.01.413216
+נָגוֹז	VERB	vanish.v.04.155299
+נְגִיסָה	NOUN	morsel.n.02.388414
+נָגִיף	NOUN	virus.n.01.211943
+נִגְמַר	VERB	end.v.01.290887
+נַגָּן	NOUN	musician.n.01.428473
+נַגָּרוּת	NOUN	carpentry.n.01.166632
+נְדוּנְיָה	NOUN	dowry.n.01.470694
+נְדִידָה	NOUN	migration.n.04.382269
+נָדִיר	NOUN	nadir.n.02.402772
+נָהַג	VERB	drive.v.01.247225
+נֶהְדָּר	ADJ	fantastic.s.02.232297
+נְהִי	NOUN	lament.n.01.380266
+נִהְיָה	VERB	become.v.02.292028
+נֶהְפַּךְ	VERB	become.v.02.292030
+נֶהֱפַךְ	VERB	become.v.02.292029
+נָהָר	NOUN	river.n.01.412377
+נוֹאֵף	NOUN	adulterer.n.01.417427
+נוֹגְדָן	NOUN	antibody.n.01.499096
+נוֹדָע	ADJ	long-familiar.s.01.189520
+נוֹכְחִי	ADJ	current.a.01.170360
+נַוְלוּת	NOUN	baseness.n.01.340593
+נוֹעַד	VERB	intend.v.02.172873
+נוֹף	NOUN	crown.n.07.468638
+נוֹצִי	ADJ	featherlike.s.01.191479
+נוֹצַר	VERB	come_to_life.v.01.149260
+נוֹצְרִי	ADJ	christian.a.01.307522
+נוֹצְרִי	NOUN	christian.n.01.416009
+נוֹקֵד	NOUN	sheepherder.n.01.432566
+נוֹרָא	ADJ	atrocious.s.02.199592	awful.s.02.135349
+נוֹרָא	ADV	very.r.01.120439
+נוֹרְמָטִיבִי	ADJ	prescriptive.a.01.174318
+נוֹשֶׁה	NOUN	creditor.n.01.421406
+נוֹתָר	ADJ	leftover.s.01.187126
+נְזִיפָה	NOUN	rebuke.n.01.371692
+נָזִיר	NOUN	monk.n.01.424071
+נְזִירָה	NOUN	nun.n.01.428883
+נִזְעָם	ADJ	angered.s.01.128603
+נָזַף	VERB	call_on_the_carpet.v.01.180662
+נְחִירָה	NOUN	snore.n.01.384012	snore.n.02.181267
+נַחֲלִיאֵלִי	NOUN	wagtail.n.01.223349
+נַחַר	NOUN	snore.n.01.384010	snore.n.02.181265
+נָחַר	VERB	snore.v.01.118904
+נַחֲרָה	NOUN	snore.n.01.384011	snore.n.02.181266
+נָחָשׁ	NOUN	snake.n.01.234665	snake.n.02.433051
+נֶטוֹ	NOUN	net_income.n.01.470517
+נָטוּי	ADJ	atilt.s.01.206637
+נַטּוּף	NOUN	stalactite.n.01.412828
+נְטִיָּה	NOUN	inflection.n.01.479404	pitch.n.05.346149	tendency.n.04.403989
+נְטִיּוֹת-הַפֹּעַל	NOUN	conjugation.n.03.394935
+נְטִיּוֹת-הַשֵּׁם	NOUN	declension.n.04.394932
+נָטִיף	NOUN	stalactite.n.01.412827
+נְטִיפֵי-שֻׁמָּן	NOUN	drippings.n.01.389812
+נְטִיַּת-הַפֹּעַל	NOUN	conjugation.n.02.479408
+נְטִיַּת-הַשֵּׁם	NOUN	declension.n.01.479410
+נֵטֶל	NOUN	burden.n.01.358434
+נִיב	NOUN	dialect.n.01.379060
+נְיוּאַנְס	NOUN	nuance.n.01.369429
+נִיחוֹחַ	NOUN	aroma.n.02.356336
+נֵיטְרָלִי	ADJ	neutral.a.04.240443
+נְיַר-עֵרֶךְ	NOUN	security.n.04.473366
+נַיֶּרֶת	NOUN	paperwork.n.01.165107
+נִכְבָּד	ADJ	goodly.s.01.168004
+נֶכֶד	NOUN	grandson.n.01.424767
+נֶכְדָּה	NOUN	granddaughter.n.01.424715
+נָכוֹן	ADJ	correct.a.01.168333	proper.s.04.130094
+נָכוֹן	ADV	correctly.r.01.136176
+נְכוֹנָה	ADV	correctly.r.01.136177
+נָכוּת	NOUN	disability.n.01.492239
+נִכְחָד	ADJ	extinct.a.01.187274
+נִכְנַס	VERB	enter.v.01.252890	run_into.v.02.207042
+נִלְהָב	ADJ	enthusiastic.a.01.184405
+נָמוּךְ	ADJ	short.a.03.276632
+נְמוּךְ-קוֹמָה	ADJ	short.a.03.276633
+נְמִיָּה	NOUN	mongoose.n.01.261431
+נָמֵל	NOUN	seaport.n.01.403301
+נְמָלָה	NOUN	ant.n.01.266639
+נִמְנֵם	VERB	snooze.v.01.118787
+נִמְעָן	NOUN	addressee.n.01.417355
+נֶמֶק	NOUN	necrosis.n.01.447141
+נָמֵר	NOUN	tiger.n.01.434795	tiger.n.02.260834
+נִמְשָׁל	NOUN	moral.n.01.369424
+נַנָּסִי	ADJ	dwarfish.s.01.215512
+נָסַב	VERB	surround.v.01.219714	swing_around.v.01.243833
+נִסָּה	NOUN	menhaden.n.01.285933
+נִסָּיוֹן	NOUN	attempt.n.01.178173	experience.n.01.356995
+נָסִיךְ	NOUN	prince.n.01.430601
+נְסִיכָה	NOUN	princess.n.01.430617
+נְסִיכוּת	NOUN	principality.n.01.402076
+נְסֹרֶת	NOUN	sawdust.n.01.498997
+נֶעֱדָר	ADJ	missing.s.01.218643
+נְעִילָה	NOUN	locking.n.01.180824
+נְעִירָה	NOUN	bray.n.01.383713
+נֶעֱלַם	VERB	disappear.v.01.155262	vanish.v.02.262627	vanish.v.04.155298
+נֶעֱלַם-מֵהָעַיִן	VERB	vanish.v.02.262628
+נַעַל-סִירָה	NOUN	pump.n.03.327623
+נֶעֱמַד	VERB	stop.v.01.242794
+נָעֳמִי	NOUN	naomi.n.01.442644
+נֶעֱצַר	VERB	stop.v.01.242795
+נַעֲרָה	NOUN	girl.n.01.424446
+נַעֲרָץ	ADJ	admired.s.01.219395
+נִפְגָּע	NOUN	casualty.n.02.419929
+נִפּוּץ	NOUN	smashing.n.01.150677
+נַפָּח	NOUN	blacksmith.n.01.419038
+נִפֵּחַ	VERB	overstate.v.01.181485
+נָפַח	VERB	exhale.v.01.117823
+נֵפְט	NOUN	kerosene.n.01.494240	petroleum.n.01.498406
+נְפִילָה	NOUN	drop.n.03.346871	drop.n.06.383376	slump.n.01.475337
+נִפְלָא	ADJ	fantastic.s.02.232295
+נִפְסַק	VERB	discontinue.v.02.295859
+נֵץ	NOUN	hawk.n.01.227809	hawk.n.02.425192
+נִצָּב	NOUN	supernumerary.n.02.434174
+נָצוּר	ADJ	besieged.s.01.231192
+נֶצַח	NOUN	eternity.n.03.503368
+נִצָּחוֹן	NOUN	victory.n.01.385546
+נַצְרוּת	NOUN	christianity.n.01.363545
+נְקֵבָה	NOUN	feminine.n.01.364884
+נְקֻדָּה	NOUN	decimal_point.n.01.373800	degree.n.02.482089	period.n.07.374331
+נְקֻדָּה עֶשְׂרוֹנִית	NOUN	decimal_point.n.01.373801
+נְקֻדַּת-מַבָּט	NOUN	point_of_view.n.01.363344
+נְקֻדַּת-תַּצְפִּית	NOUN	vantage_point.n.01.403894
+נָקוּב	ADJ	pierced.s.01.170051
+נִקּוּי	NOUN	cleaning.n.01.140324
+נֶקְטָר	NOUN	nectar.n.02.393667
+נִקָּיוֹן	NOUN	cleaning.n.01.140325
+נֵר	NOUN	candle.n.01.307385	candle.n.02.476496	suppository.n.01.332873
+נָשׂוּא	NOUN	predicate.n.02.364723
+נָשִׁי	ADJ	womanly.a.01.220814
+נְשִׂיאוּת	NOUN	chairmanship.n.01.165494
+נְשִׁימָה	NOUN	breathing.n.01.181048
+נָשִׁיר	ADJ	deciduous.a.01.186284
+נִשֵּׁל	VERB	deprive.v.01.272502	disinherit.v.01.272609
+נִשְׁנוּשׁ	NOUN	bite.n.04.388370
+נָשַׁף	VERB	exhale.v.01.117824
+נֶשֶׁק	NOUN	weapon.n.01.335961
+נִתְבָּע	NOUN	defendant.n.01.417220
+נִתּוּחַ	NOUN	operation.n.06.170662
+נָתוּן	NOUN	datum.n.01.358074
+נִתּוּץ	NOUN	smashing.n.01.150678
+נָתִיב	NOUN	path.n.04.412002
+נָתִין	NOUN	national.n.01.415441
+נָתַן-לוֹ-עַל-הָרֹאשׁ	VERB	call_on_the_carpet.v.01.180665
+נִתְקַל	VERB	fall_upon.v.01.270837	run_into.v.02.207041
+נַתְרָן	NOUN	sodium.n.01.493812
+סָב	NOUN	grandfather.n.01.424727
+סַבָּא	NOUN	grandfather.n.01.424729
+סָבָא	NOUN	grandfather.n.01.424728
+סֶבֶב	NOUN	rota.n.02.367775	rotation.n.01.147421	round.n.04.195092
+סָבַב	VERB	go_around.v.02.189823	roll.v.12.244017	surround.v.01.219713	swing_around.v.01.243832	turn.v.09.258550
+סִבָּה	NOUN	cause.n.02.372287
+סָבָה	NOUN	grandma.n.01.424745
+סְבִיבָה	NOUN	environment.n.01.481968	environment.n.02.402259	vicinity.n.01.403336
+סְבִיבוֹת	NOUN	region.n.04.478463
+סָבִיל	ADJ	passive.a.03.121642
+סֻבִּין	NOUN	bran.n.01.495947	bran.n.02.388180
+סָבִיר	ADJ	fair.s.02.223566
+סְבִירוּת	NOUN	likelihood.n.01.339720
+סַבְלָנוּת	NOUN	patience.n.01.337402
+סַבְלָנִי	ADJ	patient.a.01.235106
+סָבַר	VERB	think.v.01.171642
+סַבְתָּא	NOUN	grandma.n.01.424746
+סֶגֶן	NOUN	first_lieutenant.n.01.423621
+סִגְנוֹן	NOUN	manner.n.01.343492
+סִגְנוֹן-חַיִּים	NOUN	life_style.n.01.343528
+סִגְנוֹנִי	ADJ	stylistic.s.01.253004
+סַגְפָנוּת	NOUN	austerity.n.01.342356
+סַד	NOUN	pillory.n.01.326418
+סִדּוּר	NOUN	organization.n.06.192125
+סֵדֶר	NOUN	arrangement.n.03.356540	orderliness.n.02.491390	order.n.03.482638
+סַדָּר	NOUN	compositor.n.01.420779
+סִדֵּר	VERB	arrange.v.02.192992	gull.v.02.182496	tidy.v.01.142352
+סִדְרָה	NOUN	order.n.12.396032	serial.n.01.369797
+סַדְרָן	NOUN	usher.n.03.435337
+סוֹאֵן	ADJ	bustling.s.01.121028
+סוֹבֵב	NOUN	environment.n.01.481969
+סוֹבֵב	VERB	roll.v.12.244018	surround.v.01.219715	turn.v.04.258160	twist.v.09.187501	wind.v.03.222925
+סוּבֶנִיר	NOUN	keepsake.n.01.321308
+סִוֵּג	VERB	classify.v.01.169699
+סוֹדְיוּם	NOUN	sodium.n.01.493813
+סְוֶדֶר	NOUN	sweater.n.01.332975
+סוֹכֵךְ	NOUN	awning.n.01.301138
+סוֹלִיטֶר	NOUN	solitaire.n.04.160438
+סוֹלְלָה	NOUN	battery.n.01.399842
+סוּמְסוּם	NOUN	sesame.n.01.465449
+סוּסָה	NOUN	mare.n.01.276114
+סוּס-טְרוֹיָאנִי	NOUN	fifth_column.n.01.399395
+סוֹף	NOUN	stopping_point.n.01.503216
+סוּפָה	NOUN	storm.n.01.446781
+סוּפִיקְס	NOUN	ending.n.01.364612
+סוֹפִית	NOUN	ending.n.01.364610
+סוֹפֵר	NOUN	writer.n.01.436374
+סוֹפֶרֶת	NOUN	authoress.n.01.418355
+סַוָּר	NOUN	stevedore.n.01.433722
+סָחוּט	ADJ	exhausted.s.01.279776
+סְחוּס	NOUN	cartilage.n.01.349757
+סְחוֹר-סְחוֹר	ADV	indirectly.r.01.123323
+סָחַט	VERB	wring_out.v.01.212916
+סְחִיפָה	NOUN	erosion.n.02.491758
+סַחְלָב	NOUN	orchid.n.01.453715
+סִחְרוּר	NOUN	spin.n.02.147515	tailspin.n.02.144645
+סְטוּדְיוֹ	NOUN	studio.n.01.332586
+סְטוּדֶנְט	NOUN	student.n.01.433921
+סְטָטוּס	NOUN	condition.n.01.481618	status.n.01.482222
+סְטָטִיסְט	NOUN	supernumerary.n.02.434175
+סְטִיָּה	NOUN	perversion.n.02.182485
+סְטִיָּה-מִינִית	NOUN	perversion.n.02.182486
+סְטָלַקְטִיט	NOUN	stalactite.n.01.412829
+סְטֶנוֹגְרַפְיָה	NOUN	shorthand.n.01.365250
+סִיאַנְס	NOUN	seance.n.01.400264
+סִיב	NOUN	fiber.n.01.496838
+סִיבוּב	NOUN	bend.n.03.303568	rotation.n.01.147420	rotation.n.03.384919	turn.n.09.502993	turn.n.12.143606
+סִיגְנָל	NOUN	signal.n.01.373404
+סִיֵּד	VERB	whitewash.v.02.208833
+סִידָן	NOUN	calcium.n.01.493482
+סִיּוּט	NOUN	nightmare.n.01.482016	nightmare.n.02.357139
+סִיּוּם	NOUN	termination.n.05.136691
+סִיּוּעַ	NOUN	aid.n.01.347755
+סִיּוּף	NOUN	fencing.n.03.202535
+סִיּוּר	NOUN	scouting.n.01.190787
+סְיָח	NOUN	foal.n.01.276066
+סִיחʼ	NOUN	skewer.n.01.330789
+סִיטוֹנָאוּת	NOUN	wholesale.n.01.198829
+סִיטוֹנַאי	NOUN	jobber.n.01.426344
+סִיטוֹנוּת	NOUN	wholesale.n.01.198828
+סִיכָה	NOUN	lubrication.n.02.173352
+סִיֵּם	VERB	complete.v.01.159662
+סִימָן	NOUN	indication.n.01.373519
+סִימָן-טוֹב	NOUN	charm.n.03.309344
+סִימָנִיָּה	NOUN	bookmark.n.01.304937
+סִיֹּמֶת	NOUN	ending.n.01.364611
+סִין	NOUN	china.n.01.404404
+סִינוֹפְּסִיס	NOUN	outline.n.02.367282
+סִינְטַקְס	NOUN	syntax.n.03.362807
+סִינִית	NOUN	chinese.n.01.375534
+סִינְכְרוֹנִי	ADJ	synchronic.a.02.276106
+סַיָּס	NOUN	stableman.n.01.433558
+סִיסְמָה	NOUN	motto.n.01.378971
+סִיֵּעַ	NOUN	marketing.n.03.125769
+סִיֵּעַ	VERB	help.v.01.286981
+סִיפִילִיס	NOUN	syphilis.n.01.485505
+סַיֶּרֶת	NOUN	cruiser.n.02.313208
+סָךְ	NOUN	sum.n.03.394218
+סָךְ	VERB	anoint.v.02.126031
+סִכּוּי	NOUN	probability.n.01.346504
+סְכוּם	NOUN	sum.n.02.359020
+סִכּוּם	NOUN	summary.n.01.367197	summation.n.01.367362
+סִכּוּן	NOUN	hazard.n.01.492149	risk.n.02.179218
+סִכֵּם	VERB	sum_up.v.01.192086	total.v.02.188539
+סַכָּנָה	NOUN	hazard.n.01.492150
+סֻכָּר	NOUN	sugar.n.01.392734
+סֻכָּרִים	NOUN	carbohydrate.n.01.495738
+סֻכֶּרֶת	NOUN	diabetes.n.01.485264
+סַל	NOUN	basket.n.04.135070
+סָלוּל	ADJ	paved.a.01.235291
+סָלָט	NOUN	salad.n.01.391976
+סָלַט-יְרָקוֹת	NOUN	salad.n.01.391977
+סְלִיחָה	NOUN	forgiveness.n.02.206103
+סְלִילִי	ADJ	coiling.s.01.272719
+סֻלָּם	NOUN	ladder.n.01.321705
+סָלָמִי	NOUN	salami.n.01.389879
+סֹלֶת	NOUN	semolina.n.01.388209
+סַם	NOUN	medicine.n.02.323475
+סָמוּךְ	ADJ	adjacent.s.01.157263
+סַמְיוּת-עֵינַיִם	NOUN	blindness.n.01.485406
+סָמַךְ	VERB	calculate.v.02.173028
+סֵמֶל	NOUN	emblem.n.01.315777	symbol.n.01.373694
+סֹמֶק	NOUN	rouge.n.01.328986
+סְנָאִי	NOUN	squirrel.n.01.274992
+סַנְדָּל	NOUN	sandal.n.01.329301
+סַנְדְּלָר	NOUN	cobbler.n.01.420545
+סְנוֹקֶרֶת	NOUN	punch.n.01.130056
+סַנְטֵר	NOUN	chin.n.01.353925
+סְנַפִּיר	NOUN	flipper.n.01.317120
+סַסְגּוֹנִי	ADJ	colorful.a.02.153385	motley.s.02.152653
+סְעִיף	NOUN	article.n.03.365935
+סְעָרָה	NOUN	storm.n.01.446782	storm.n.02.482902
+סַפָּה	NOUN	sofa.n.01.331271
+סִפּוּר	NOUN	narration.n.02.380392
+סִפּוּרִי	ADJ	narrative.s.01.160659
+סֶפְּטִימָה	NOUN	seventh.n.03.374484
+סְפִינַת-חָלָל	NOUN	starship.n.01.331978
+סְפִינַת-מַעְבֹּרֶת	NOUN	ferry.n.01.316552
+סְפִירָה	NOUN	count.n.02.168572
+סְפִּירָלִי	ADJ	coiling.s.01.272721
+סַפָּן	NOUN	sailor.n.01.431852
+סְפֶּצִיפִית	ADV	specifically.r.01.121597
+סָפֵק	NOUN	doubt.n.01.355954	doubt.n.02.339752
+סִפֵּק	VERB	provide.v.02.203120
+סַפְקָנוּת	NOUN	agnosticism.n.02.361001
+סַפָּר	NOUN	barber.n.02.418642	hairdresser.n.01.425068
+סִפֵּר	VERB	tell.v.03.188734
+סָפַר	VERB	count.v.01.188466	count.v.04.188450
+סְפָרַדִּי	ADJ	spanish.a.01.307725
+סִפְרָה	NOUN	digit.n.01.478093
+סִפְרָה-עֶשְׂרוֹנִית	NOUN	decimal_digit.n.01.478100
+סִפְרוּתִי	ADJ	literary.a.01.303597	literary.s.03.194416
+סַפְרָנוּת	NOUN	librarianship.n.01.165808
+סֵפֶר-שָׁנָה	NOUN	annual.n.02.366748
+סְצֶנָה	NOUN	scene.n.06.376745
+סְקִירָה	NOUN	sketch.n.03.367355	survey.n.01.169198	view.n.03.184113
+סְקְלֶרוֹזִיס	NOUN	sclerosis.n.01.485182
+סְקַנְדָּל	NOUN	scandal.n.02.382161
+סְקֶפְּטִיצִיזְם	NOUN	agnosticism.n.02.361002
+סְקְרוּדְּרַיְבֶר	NOUN	screwdriver.n.02.393559
+סִקְרֵן	VERB	interest.v.01.240591
+סֶר	NOUN	sir.n.02.432803
+סֵרֵב	VERB	refuse.v.01.178845	refuse.v.02.267843
+סַרְגֵּל	NOUN	rule.n.12.329072
+סֵרוּב	NOUN	declination.n.04.370147	refusal.n.01.380113
+סָרוּג	ADJ	knitted.s.01.289245
+סָרוּק	ADJ	combed.a.01.279461
+סִרָחוֹן	NOUN	malodor.n.01.356356
+סֵרָחוֹן	NOUN	malodor.n.01.356357
+סֶרֶט	NOUN	film.n.03.316716	movie.n.01.369655
+סֶרֶט-מִדָּה	NOUN	tape.n.04.333302
+סַרְטָן	NOUN	cancer.n.01.486811
+סַרְטָנִי	ADJ	cancerous.s.01.290125
+סֶרֶט-צִלּוּם	NOUN	film.n.03.316717
+סֶרֶט-קוֹלְנוֹעַ	NOUN	movie.n.01.369656
+סָרִיג	NOUN	knit.n.03.321565
+סְרִיגָה	NOUN	knitting.n.02.185926
+סָרִיס	NOUN	eunuch.n.01.423111
+סְרִיקָה	NOUN	search.n.01.188318
+סֶרֶן	NOUN	axle.n.01.301201	captain.n.01.419799
+סַרְסוּר	NOUN	pimp.n.01.430009
+סֶת	NOUN	set.n.10.413797
+סְתָו	NOUN	fall.n.01.502560
+סִתְוָנִית	NOUN	autumn_crocus.n.01.459047
+עָבַד	VERB	function.v.01.223131	gull.v.02.182495
+עָבַד-עַל	VERB	work_at.v.01.278431
+עִבּוּד	NOUN	arrangement.n.06.187940	processing.n.01.475134
+עֲבוֹדָה	NOUN	occupation.n.01.165120	workplace.n.01.336567
+עַב-כָּרֶס	ADJ	big-bellied.s.01.137895
+עָבָר	NOUN	criminal_record.n.01.367646	past.n.01.500384	past.n.02.500833	past.n.03.364906
+עֻבָּר	NOUN	fetus.n.01.219205
+עֲבֵרָה	NOUN	crime.n.01.176640
+עִבְרִית	NOUN	hebrew.n.01.376421
+עָבַר-עַל	VERB	transgress.v.01.288304
+עָבָר-פְּלִילִי	NOUN	criminal_record.n.01.367647
+עָבֵשׁ	ADJ	moldy.s.01.196115
+עֲגָבוֹת	NOUN	buttocks.n.01.353274
+עַגְבָנִיָּה	NOUN	tomato.n.01.390742	tomato.n.02.465968
+עַגֶּבֶת	NOUN	syphilis.n.01.485504
+עָגוּר	NOUN	crane.n.05.252676
+עֲגוּרָן	NOUN	crane.n.04.312787
+עָגִיל	NOUN	earring.n.01.315503
+עָגֹל	ADJ	round.s.03.186471
+עֲגָלָה	NOUN	baby_buggy.n.01.301315	cart.n.01.308128	handcart.n.01.319168
+עֶגְלָה	NOUN	heifer.n.01.277737
+עֶגְלַת-יְלָדִים	NOUN	baby_buggy.n.01.301316
+עֶגְלַת-תִּינוֹקוֹת	NOUN	baby_buggy.n.01.301317
+עַד	NOUN	eternity.n.03.503369
+עִדּוּד	NOUN	boost.n.01.204886
+עָדִין	ADJ	delicate.s.03.172861
+עָדִיף	ADJ	preferable.s.01.174391
+עִדְכּוּן	NOUN	updating.n.01.153121
+עַד-מְאֹד	ADV	a_lot.r.01.123456
+עִדָּן	NOUN	era.n.01.502839	era.n.02.502832
+עֹדֶף	NOUN	excess.n.01.347035
+עָדַר	VERB	hoe.v.01.235459
+עֲדָשָׁה	NOUN	lens.n.01.322135	lens.n.04.350207
+עֲדֶשֶׁת-אֱלֶקְטְרוֹנִים	NOUN	lens.n.05.322138
+עוֹבֵד	NOUN	worker.n.01.415549
+עוֹבֵד-צִבּוּר	NOUN	official.n.01.428967
+עוֹבֵר	ADJ	ephemeral.s.01.236336
+עוּגָב	NOUN	organ.n.05.325113
+עוּגָה	NOUN	cake.n.03.389139
+עוּגִיָּה	NOUN	cookie.n.01.389217
+עוּגִית	NOUN	cookie.n.01.389216
+עוּגַת-סְפוֹג	NOUN	sponge_cake.n.01.389175
+עוֹד-מְעַט	ADV	soon.r.01.120783
+עוֹד-פַּעַם	ADV	again.r.01.121458
+עוֹזֶרֶת	NOUN	charwoman.n.01.420153
+עֲוִית	NOUN	convulsion.n.02.484830
+עָוֶל	NOUN	injustice.n.01.175032
+עַוְלָה	NOUN	injustice.n.01.175033
+עוֹלָמִי	ADJ	fantastic.s.02.232296	global.s.01.225662
+עוֹנָה	NOUN	season.n.01.502624	season.n.02.502554	season.n.03.502615
+עוֹנָתִי	ADJ	seasonal.a.01.221368
+עוֹר	NOUN	leather.n.01.495198
+עוֹרֵב-שָׁחֹר	NOUN	raven.n.01.226306
+עוֹרֵג	ADJ	pensive.s.02.213651
+עִוָּרוֹן	NOUN	blindness.n.01.485405
+עִוְּרוּת	NOUN	blindness.n.01.485404
+עוֹרֵךְ	NOUN	editor_program.n.01.368962
+עוֹרֵר	VERB	arouse.v.01.236464
+עוֹשֵׂה-הַפְּעֻלָּה	NOUN	agent.n.03.495531
+עַז	ADJ	mighty.s.01.240951
+עֵז	NOUN	nanny.n.02.278554
+עָזוּב	ADJ	neglected.s.02.144792
+עֲזִיבָה	NOUN	departure.n.01.121685
+עַז-נֶפֶשׁ	ADJ	audacious.s.01.140199
+עֵזֶר	NOUN	aid.n.02.204623
+עָזַר	NOUN	marketing.n.03.125768
+עָזַר	VERB	help.v.01.286980
+עֶזְרָה	NOUN	aid.n.02.204624
+עִטּוּר	NOUN	decoration.n.01.313895	decoration.n.03.141251
+עִטּוּשׁ	NOUN	sneeze.n.01.487744
+עֲטִישָׁה	NOUN	sneeze.n.01.487745
+עֲטַלֵּף	NOUN	bat.n.01.261526
+עִיּוּר	NOUN	urbanization.n.01.492769
+עַיִן	NOUN	ayin.n.01.374245	eye.n.01.350070	stitch.n.01.332230
+עִיֵּן-מֵחָדָשׁ	VERB	reconsider.v.01.169652
+עֲיֵפוּת	NOUN	fatigue.n.01.483802
+עִיר	NOUN	city.n.01.401760
+עִיר-בִּירָה	NOUN	capital.n.03.401632
+עֲיָרָה	NOUN	town.n.01.403794
+עֵירֹם	NOUN	nakedness.n.01.490410
+עֵירֹם	VERB	clot.v.01.157952
+עַכְבָּר	NOUN	mouse.n.01.273535	mouse.n.04.324282
+עִכּוּב	NOUN	delay.n.01.503343	delay.n.02.195851
+עַכּוּז	NOUN	buttocks.n.01.353272
+עִכּוּל	NOUN	digestion.n.01.474122	digestion.n.02.474119
+עָכוּר	ADJ	cloudy.s.03.156019
+עַכְשָׁו	ADV	nowadays.r.01.122283	now.r.04.122375
+עֹל	NOUN	burden.n.01.358433
+עִלָּה	NOUN	cause.n.02.372288
+עָלֶה	NOUN	leaf.n.02.363898
+עָלָה	VERB	ascend.v.01.249504	ascend.v.08.249540	rise.v.02.131898	surface.v.01.251061
+עָלֶה-שָׁסוּעַ	NOUN	frond.n.01.469026
+עָלוּב	ADJ	deplorable.s.02.274550
+עַלְוָה	NOUN	leaf.n.01.469005
+עֲלוּקָה	NOUN	leech.n.02.426885
+עֲלוּת	NOUN	cost.n.01.470946
+עִלִּי	ADJ	overhead.a.01.282187
+עֱלִי	NOUN	pistil.n.01.449029
+עֲלִיָּה	NOUN	advance.n.06.149591	ascent.n.01.409531	atrium.n.01.351057	improvement.n.01.383283	loft.n.02.322608	rise.n.01.382573	rise.n.04.385018
+עֶלְיוֹן	ADJ	upper.s.02.204533	upper.s.03.274028
+עֶלְיוֹנוּת	NOUN	domination.n.02.490075
+עֲלִיַּת-גַּג	NOUN	loft.n.02.322609
+עֲלֵי-תֶּרֶד	NOUN	spinach.n.02.390793
+עַל-פֶּה	ADV	by_heart.r.01.132068
+עָמַד	VERB	stand_still.v.01.241427	stop.v.01.242793
+עֶמְדָּה	NOUN	stance.n.01.346344
+עָמַד-מִלֶּכֶת	VERB	stop.v.01.242796
+עַמּוּד	NOUN	column.n.04.481166
+עָמוּס	ADJ	crowded.a.01.164187
+עֲמִילָן	NOUN	starch.n.01.499442
+עַמְלָה	NOUN	commission.n.02.471797
+עִמְלֵן	VERB	starch.v.01.154328
+עַמָם-פְּלִיטָה	NOUN	silencer.n.02.330639
+עֹמֶס	NOUN	burden.n.01.358435
+עַמְעָם	NOUN	dimmer.n.01.314394
+עִמְעֵם	VERB	dim.v.01.263022
+עֵמֶק	NOUN	valley.n.01.413185
+עִנְבָּל	NOUN	uvula.n.01.350048
+עָנָה	VERB	answer.v.01.180134
+עֲנָוָה	NOUN	humility.n.01.342561
+עַנְוְתָנוּת	NOUN	humility.n.01.342562
+עֹנִי	NOUN	poverty.n.01.491299
+עֲנִיבָה	NOUN	necktie.n.01.324564
+עִנְיָן	NOUN	matter.n.01.355389
+עִנְיֵן	VERB	interest.v.01.240590	matter_to.v.01.295454
+עֲנִישָׁה	NOUN	punishment.n.01.201813
+עֲנָק	ADJ	bang-up.s.01.199452	huge.s.01.215155
+עֲנָקִי	ADJ	huge.s.01.215156
+עִסּוּי	NOUN	massage.n.01.169926
+עָסִיס	NOUN	juice.n.01.393659
+עֵסֶק	NOUN	bargain.n.01.372961	business.n.01.395488
+עִסְקָה	NOUN	bargain.n.01.372962	transaction.n.01.198327
+עִסָּתִי	ADJ	doughy.s.01.203296
+עִפּוּשׁ	NOUN	malodor.n.01.356358
+עִפְעוּף	NOUN	blink.n.01.128863
+עַפְעַף	NOUN	eyelid.n.01.350112
+עֹפֶר	NOUN	fawn.n.02.279528
+עִפָּרוֹן	NOUN	pencil.n.01.325971
+עֵץ	NOUN	wood.n.01.500061
+עַצְבָּנִי	ADJ	edgy.s.01.277895
+עֵצָה	NOUN	advice.n.01.370827
+עִצּוּב-נוֹף	NOUN	landscaping.n.01.186770
+עֲצוּמָה	NOUN	request.n.01.368022
+עִצּוּר	NOUN	consonant.n.01.378243	consonant.n.02.378246
+עֲצִירוּת	NOUN	constipation.n.01.488596
+עֲצִירַת-גְּשָׁמִים	NOUN	drought.n.01.492063
+עָצֵל	ADJ	faineant.s.01.143807	lazy.s.01.190592
+עַצְלָן	ADJ	faineant.s.01.143808
+עֶצֶם	NOUN	bone.n.01.349521	matter.n.03.119340
+עֶצֶם-הַמֵּצַח	NOUN	frontal_bone.n.01.352922
+עֶצֶם-טִבְעִי	NOUN	natural_object.n.01.119134
+עַצְמָאוּת	NOUN	independence.n.01.483358
+עַצְמִית	NOUN	objective.n.02.324862
+עֹצֶר	NOUN	curfew.n.03.368516
+עָצַר	VERB	stop.v.01.242792	stop.v.03.287812
+עָקַב	VERB	attend.v.05.263612
+עִקּוּל	NOUN	bend.n.03.303569
+עִקֵּל	VERB	impound.v.01.270028
+עִקָּר	NOUN	majority.n.01.347089
+עַקְרָב	NOUN	scorpion.n.03.237081
+עֲקָרוּת	NOUN	sterility.n.02.484284
+עִקָּרִי	ADJ	chief.s.01.209167	independent.a.03.174179
+עֲקֶרֶת-בַּיִת	NOUN	housewife.n.01.425663
+עַקְשָׁנוּת	NOUN	stubbornness.n.01.343068	stubbornness.n.02.341905
+עֲרָב	NOUN	arabian_peninsula.n.01.405798
+עֵרֶב	NOUN	woof.n.01.336517
+עִרְבֵּב	VERB	jumble.v.02.231197
+עֲרָבָה	NOUN	prairie.n.01.403076
+עֲרֻבָּה	NOUN	guarantee.n.02.371114
+עִרְבּוּב	NOUN	blend.n.03.151036
+עֲרֵבוּת	NOUN	bail.n.01.472233	guarantee.n.03.472260
+עַרְבוּת	NOUN	bail.n.01.472234	guarantee.n.03.472261
+עַרְבַּיִם	NOUN	twilight.n.01.501467
+עֶרְגָּה	NOUN	longing.n.01.385918
+עֶרְוָה	NOUN	genitalia.n.01.352517
+עָרוּךְ	ADJ	emended.s.01.148442
+עָרוּם	ADJ	crafty.s.01.131206
+עָרוּם	VERB	clot.v.01.157953
+עָרוּץ	NOUN	channel.n.05.363955	ravine.n.01.412282
+עָרוּץ-תִּקְשֹׁרֶת	NOUN	channel.n.05.363956
+עֶרְיָה	NOUN	nakedness.n.01.490411
+עֲרִיכָה	NOUN	editing.n.01.366767
+עֲרִיכַת-רְשִׁימָה	NOUN	listing.n.02.192319
+עֵרֶךְ	NOUN	worth.n.02.347333
+עָרַךְ	VERB	edit.v.01.135930
+עֶרְכָּה	NOUN	kit.n.02.321449
+עֲרָכִים	NOUN	values.n.01.360692
+עָרְלָה	NOUN	prepuce.n.02.352710
+עֲרֵמָה	NOUN	batch.n.02.478804
+עָרְמָה	NOUN	craft.n.05.354385
+עַרְמוּמִי	ADJ	crafty.s.01.131207
+עַרְמוּמִיּוּת	NOUN	craft.n.05.354387
+עַרְמוֹנִי	ADJ	chestnut.s.01.150355
+עֵרָנִי	ADJ	argus-eyed.s.02.126711
+עַרְסָל	NOUN	hammock.n.02.319137
+עִרְעוּר	NOUN	appeal.n.03.203305	protest.n.01.380232
+עַרְעָר	NOUN	juniper.n.02.448568
+עֹרֶף	NOUN	nape.n.01.353023
+עָרַף	VERB	decapitate.v.01.225836
+עַרְפָּד	NOUN	vampire.n.01.414334
+עֲרָפֶל	NOUN	fog.n.02.491799
+עָרַק	VERB	defect.v.01.289486
+עֲרָר	NOUN	appeal.n.03.203304
+עָשׁ	NOUN	moth.n.01.270601
+עָשָׂה-אַהֲבָה	VERB	sleep_together.v.01.217268
+עָשָׂה-מִמֶּנּוּ-צְחוֹק	VERB	ridicule.v.01.182263
+עָשָׂה-פִּיפִּי	VERB	make.v.49.124850
+עִשּׁוּן	NOUN	smoke.n.07.181205
+עֲשִׂירִי	ADJ	tenth.s.01.265670
+עָשָׁן	NOUN	smoke.n.02.475343
+עִשֵּׁן	VERB	fume.v.02.301408	smoke.v.01.204000
+עַשֶּׁשֶׁת	NOUN	cavity.n.03.473767
+עֲתוּדוֹת	NOUN	military_reserve.n.01.397272
+עִתּוּי	NOUN	timing.n.01.345748
+עִתּוֹן	NOUN	newspaper.n.01.364057	newspaper.n.02.395515	newspaper.n.03.324645
+עִתּוֹנָאִי	ADJ	journalistic.a.01.311368
+עָתִיד	NOUN	future.n.01.500447	future.n.02.364909
+עֲתִירָה	NOUN	prayer.n.02.379780
+פְּאֵר	NOUN	lavishness.n.01.347542
+פֶבְּרוּאָר	NOUN	february.n.01.502170
+פָּגוּם	ADJ	defective.s.01.236089
+פִּגּוּר	NOUN	retardation.n.04.354924	slowdown.n.01.195959
+פָּגוֹשׁ	NOUN	bumper.n.02.306432
+פֶּגַע	NOUN	ravage.n.01.382824
+פָּגַע	VERB	harm.v.01.127588
+פָּדָה	VERB	cash.v.01.268923
+פִּדְיוֹן	NOUN	ransom.n.03.127157
+פִּהוּק	NOUN	yawn.n.01.181362
+פוֹבְּיָה	NOUN	phobia.n.01.488784
+פּוּגָה	NOUN	respite.n.02.195608
+פּוֹגְרוֹם	NOUN	pogrom.n.01.154690
+פּוֹזִיטִיבִי	ADJ	affirmative.s.02.240360
+פוֹטוֹגְרָף	NOUN	photograph.n.01.326223
+פּוֹטַסְיוּם	NOUN	potassium.n.01.493744
+פּוּטְשׁ	NOUN	coup_d'etat.n.01.200863
+פּוּךְ	NOUN	down.n.01.245238
+פּוֹלִיגוֹן	NOUN	polygon.n.01.480564
+פּוֹלִיגְלוֹט	NOUN	linguist.n.01.427071
+פּוֹלִיסָה	NOUN	policy.n.03.368283
+פּוּלְמוּס	NOUN	polemic.n.02.379613
+פּוֹלָנִית	NOUN	polish.n.04.375766
+פּוּלְקֶע	NOUN	second_joint.n.01.389412
+פּוּמָה	NOUN	cougar.n.01.260517
+פּוּמְפִּיָּה	NOUN	grater.n.01.318625
+פוֹנֶמָה	NOUN	phoneme.n.01.378191
+פּוֹסְטֶר	NOUN	poster.n.01.373425
+פּוֹסֵק	ADJ	prescriptive.a.01.174316
+פּוֹסֵק	NOUN	adjudicator.n.01.417360	ordinate.n.01.361406
+פּוֹסְקָנִי	ADJ	prescriptive.a.01.174317
+פּוֹרְטְפוֹלְיוֹ	NOUN	portfolio.n.01.327094
+פָזָה	NOUN	phase.n.01.503641
+פִּזּוּר	NOUN	dispersion.n.01.382753	dispersion.n.03.149995
+פְּזִילָה	NOUN	strabismus.n.01.492358
+פַּח	NOUN	sheet_metal.n.01.330214
+פַּחַד	NOUN	fear.n.01.386925
+פַּחְדָן	NOUN	coward.n.01.415233
+פֶּחָה	NOUN	pasha.n.01.429557
+פָּחוּס	ADJ	planate.s.01.169947
+פָּחוֹת-אוֹ-יוֹתֵר	ADV	approximately.r.01.118096
+פַּחִית	NOUN	can.n.01.307349
+פֶּחָם	NOUN	charcoal.n.01.494197
+פַּחַם-עֵץ	NOUN	charcoal.n.01.494198
+פְּחָת	NOUN	depreciation.n.02.471935
+פֶּטֶל	NOUN	raspberry.n.01.462106	raspberry.n.02.390934
+פִּטְמָה	NOUN	nipple.n.01.353162
+פִּטְפֵּט	VERB	chew_the_fat.v.01.194036
+פִּטְרִיָּה	NOUN	fungus.n.01.467278
+פַּטְרִיוֹטִיּוּת	NOUN	patriotism.n.01.342274
+פַּטְרִיוֹטִיזְם	NOUN	patriotism.n.01.342273
+פִּי	NOUN	phi.n.01.374208
+פְּיָאנוֹ	NOUN	piano.n.02.344762
+פְּיָאנִיסִימוֹ	NOUN	piano.n.02.344763
+פֵיָה	NOUN	fairy.n.01.414231
+פִּיּוּט	NOUN	poetry.n.02.377937
+פִּיּוּס	NOUN	appeasement.n.01.201250
+פִּיחַ	NOUN	carbon_black.n.01.495750
+פַּיְטָן	NOUN	poet.n.01.430187
+פִּיל	NOUN	elephant.n.01.283956
+פִּילֶגֶשׁ	NOUN	mistress.n.01.428158
+פִילְטֶר	NOUN	filter.n.01.316730
+פִּין	NOUN	penis.n.01.352686
+פִינִישׁ	NOUN	ending.n.04.381778
+פִינָלֶה	NOUN	stopping_point.n.01.503218
+פִינַנְסִי	ADJ	fiscal.a.01.304191
+פִּיפִּי	NOUN	urine.n.01.496630
+פִּיצוּץ	NOUN	explosion.n.01.382199
+פִיקוּס-הַשִּׁקְמָה	NOUN	sycamore.n.04.458387
+פְּלָדָה	NOUN	steel.n.01.495889
+פְלוֹרָה	NOUN	vegetation.n.01.400512
+פָּלַט	VERB	exhaust.v.05.127817
+פְּלִיאָה	NOUN	astonishment.n.01.386635
+פְּלָקָט	NOUN	poster.n.01.373424
+פְלִרְטוּט	NOUN	flirt.n.02.161613
+פָּלֶשְׂתִּינָאִי	ADJ	palestinian.a.01.308239
+פָּלֶשְׂתִּינָאִי	NOUN	palestinian.n.01.416487
+פָּלֶשְׂתִּינִי	ADJ	palestinian.a.01.308238
+פָּלֶשְׂתִּינִי	NOUN	palestinian.n.01.416486
+פָּמוֹט	NOUN	candlestick.n.01.307395
+פָּמַלְיָה	NOUN	cortege.n.02.400403
+פְּנַאי	NOUN	leisure.n.01.500742
+פִּנָּה	VERB	clear_off.v.01.134432
+פִּנּוּי	NOUN	evacuation.n.02.122892	eviction.n.02.203780
+פֶּנְטָגוֹן	NOUN	pentagon.n.03.480865
+פָנָטִיּוּת	NOUN	fanaticism.n.01.363267
+פַנְטַסְטִי	ADJ	fantastic.s.02.232298
+פֶּנִי	NOUN	penny.n.01.477326
+פְּנִים	NOUN	inside.n.01.402561	inside.n.02.402556
+פְּנִינָה	NOUN	pearl.n.01.472595
+פָּנָס	NOUN	flashlight.n.01.317037
+פֶּנְסְיָה	NOUN	pension.n.01.472771
+פָּנַס-כִּיס	NOUN	flashlight.n.01.317038
+פַּנְקְרֵאָס	NOUN	pancreas.n.01.350982
+פִּסְגָּה	NOUN	acme.n.01.482097	peak.n.04.403039
+פִּסּוּק	NOUN	punctuation.n.03.151857
+פְּסוּקִית	NOUN	clause.n.01.364697
+פֶּסַח	NOUN	passover.n.01.501931
+פַּסְחָא	NOUN	easter.n.01.501788
+פֶסְטִיבָל	NOUN	festival.n.02.161909
+פַּסְיַאנְס	NOUN	solitaire.n.04.160439
+פָּסִיבִי	ADJ	passive.a.03.121643
+פַּסְיוֹן	NOUN	passion.n.07.487916
+פְּסִילָה	NOUN	disqualification.n.02.196614
+פְּסִיקָה	NOUN	adjudication.n.01.183648
+פְּסִיקַת-הוֹצָאוֹת	NOUN	award.n.01.126261
+פִּסְלוֹן	NOUN	figurine.n.01.316673
+פַּסֶּלֶת	NOUN	sculptress.n.01.432215
+פְּסַנְתֵּר	NOUN	piano.n.01.326259
+פַסְפוּס	NOUN	toddler.n.01.434848
+פִּסֵּק	VERB	punctuate.v.01.135045
+פָּסַק	VERB	discontinue.v.01.295637	discontinue.v.02.295858	rule.v.02.173296
+פִּסְקָה	NOUN	paragraph.n.01.366073
+פַּסְקוֹל	NOUN	soundtrack.n.01.331362
+פֶּסֶק-זְמַן	NOUN	respite.n.02.195611
+פָּעוֹט	NOUN	toddler.n.01.434845
+פְּעִיָּה	NOUN	bleat.n.01.383711
+פֹּעַל	NOUN	verb.n.01.364742	verb.n.02.364783
+פָּעַל	VERB	function.v.01.223132
+פְּעֻלָּה	NOUN	act.n.02.120281
+פַּעַם	ADV	once.r.03.128957
+פִּצּוּיִים	NOUN	damages.n.01.471272
+פִּצּוּץ	NOUN	explosion.n.02.150719
+פַּצְיֶנְט	NOUN	patient.n.01.429588
+פְּצִיעָה	NOUN	wound.n.04.153090
+פְּצִירָה	NOUN	file.n.04.316683
+פֶּצַע	NOUN	wound.n.01.487556
+פָּצָץ	ADJ	bang-up.s.01.199453
+פְּצָצָה	NOUN	bomb.n.01.304795
+פִּקְחוּת	NOUN	shrewdness.n.01.354398
+פְּקִידָה	NOUN	visiting.n.01.195116
+פְּקָק	NOUN	cork.n.01.496152	plug.n.01.326839
+פְּקַק-שַׁעַם	NOUN	cork.n.01.496153
+פִּקַּת-הַבֶּרֶךְ	NOUN	patella.n.01.349636
+פַּרְבָר	NOUN	suburb.n.01.402014
+פָּרָג	NOUN	poppy.n.01.451995
+פְּרַגְמָטִי	ADJ	hardheaded.s.02.247653
+פְרַגְמֶנְטָרִי	ADJ	fragmental.s.01.161893
+פֶּרֶד	NOUN	mule.n.01.276839
+פְּרוֹגְנוֹזָה	NOUN	prognosis.n.01.372487
+פַּרְוָה	NOUN	fur.n.01.495275	fur.n.03.317800
+פְּרוֹטֶאִין	NOUN	protein.n.01.494804
+פְּרוֹפָּגַנְדָּה	NOUN	propaganda.n.01.370933
+פְּרוֹפּוֹרְצְיוֹנִי	ADJ	proportional.s.01.159575
+פְּרוֹפּוֹרְצְיוֹנָלִי	ADJ	proportional.s.01.159576
+פְּרוֹפֶסְיוֹנָלִיּוּת	NOUN	professionalism.n.01.354813
+פְּרוּצָה	NOUN	prostitute.n.01.430828
+פֵּרוּק	NOUN	dismantling.n.01.186136
+פַּרְוָר	NOUN	suburb.n.01.402015
+פָּרַח	VERB	bloom.v.01.143779
+פְּרִי	NOUN	fruit.n.01.468735	fruit.n.03.381898
+פְּרִיבִילֶגְיָה	NOUN	prerogative.n.01.348221
+פְרִיגִʼידֶר	NOUN	refrigerator.n.01.328358
+פְּרִיכוּת	NOUN	brittleness.n.01.343705
+פְּרִימִיטִיבִי	ADJ	crude.s.04.180278
+פְּרִיצָה	NOUN	burglary.n.01.178108
+פְּרִיקָה	NOUN	unloading.n.01.173169
+פְּרִישׁוּת	NOUN	austerity.n.01.342357
+פִּרְכּוּס	NOUN	convulsion.n.02.484831
+פְּרֶמְיֶרָה	NOUN	premiere.n.01.375039
+פֶּרְמָנֶנְט	NOUN	permanent_wave.n.01.349374
+פְּרָס	NOUN	award.n.02.371405	prize.n.01.470755	reward.n.02.471105	reward.n.03.205540	reward.n.04.379239	wages.n.01.381924
+פָּרַס	VERB	deploy.v.01.201123	slice.v.02.216345	slice.v.03.207967	slice.v.04.199510	slit.v.01.225109
+פִּרְסוּם	NOUN	issue.n.11.198106	publication.n.01.369158
+פִּרְסֵם	VERB	advertise.v.01.190232	print.v.01.235657	publicize.v.01.188828	publish.v.02.189666	publish.v.03.235594
+פִּרְסֹמֶת	NOUN	ad.n.01.380982
+פַּרְעוֹשׁ	NOUN	flea.n.01.264468
+פְּרָעוֹת	NOUN	pogrom.n.01.154689
+פָּרָפִין	NOUN	paraffin.n.01.500019
+פְּרֶפִיקְס	NOUN	prefix.n.01.364605
+פַּרְפַּר	NOUN	butterfly.n.01.270088	butterfly.n.02.164658
+פֶּרֶק	NOUN	chapter.n.01.365966	joint.n.01.353844
+פְּרַקְטִי	ADJ	hardheaded.s.02.247652
+פֶּרֶשׁ	NOUN	body_waste.n.01.496585
+פַּרְשִׁיַּת-אֲהָבִים	NOUN	affair.n.02.481907
+פָּרָשַׁת-אֲהָבִים	NOUN	affair.n.02.481906
+פָּשָׁה	NOUN	pasha.n.01.429558
+פַּשְׁטִידָה	NOUN	pie.n.01.389087
+פַּשְׁטָנִי	ADJ	simplistic.s.01.263880
+פְּשִׁיטָה	NOUN	foray.n.01.190313
+פְּשִׁיטַת-יָד	NOUN	beggary.n.01.379765
+פֶּשַׁע	NOUN	crime.n.01.176639	crime.n.02.176701
+פִּשְׁתָּן	NOUN	flax.n.01.496876
+פִּתְגָּם	NOUN	proverb.n.01.379023
+פִּתּוּחַ	NOUN	development.n.08.474091
+פִּתּוּל	NOUN	bend.n.03.303570
+פֶּתַח	NOUN	entrance.n.01.315882
+פָּתַח-וְאָמַר	VERB	begin.v.04.175272
+פָּתִיחַ	NOUN	introduction.n.02.365977
+פְּתִיחָה	NOUN	introduction.n.02.365978
+פְּתִילָה	NOUN	suppository.n.01.332874
+פֶּתֶק	NOUN	slip.n.10.330992
+פִּתְקָה	NOUN	slip.n.10.330993
+פִּתְרוֹן	NOUN	solution.n.02.372354
+צָʼאוּ	NOUN	adieu.n.01.369978
+צָב	NOUN	tortoise.n.01.231932
+צָבָא	NOUN	army.n.01.397174	military.n.01.397266
+צָבָא	VERB	mass.v.01.253425
+צְבָאִי	ADJ	military.a.02.222718	military.a.03.222663
+צְבָא-קֶבַע	NOUN	standing_army.n.01.399873
+צָבוּעַ	ADJ	hypocritical.s.01.264284
+צָבוֹעַ	NOUN	hyena.n.01.259841
+צָבוּעַ	NOUN	hypocrite.n.01.425777
+צִבּוּר	NOUN	populace.n.01.396892
+צִבּוּרִי	ADJ	public.a.01.242825
+צַב-יָם	NOUN	turtle.n.02.231500
+צֶבַע	NOUN	paint.n.01.325420
+צַבָּע	NOUN	painter.n.02.429405
+צִבְעוֹנִי	ADJ	color.a.01.152227	colorful.a.01.152969	colorful.a.02.153384
+צִבְעוֹנִי	NOUN	tulip.n.01.459027
+צָבַר	VERB	roll_up.v.02.271960
+צָד	VERB	hunt.v.01.200764
+צְדָדִי	ADJ	side.a.01.280324
+צָהַל	VERB	neigh.v.01.195322
+צָהֳלָה	NOUN	exultation.n.01.387205	neigh.n.01.383899
+צָהֳרַיִם	NOUN	noon.n.01.501269
+צוֹאָה	NOUN	fecal_matter.n.01.496591
+צִוּוּי	NOUN	imperative_mood.n.01.479382
+צְוָחָה	NOUN	scream.n.01.378392
+צְוִיחָה	NOUN	scream.n.01.378394
+צוֹם	NOUN	fast.n.01.196105
+צוֹנֵן	ADJ	ice-cold.s.01.207911
+צוֹפֶה	NOUN	boy_scout.n.01.419291
+צוֹפָה	NOUN	girl_scout.n.01.424512
+צוּצִיק	NOUN	toddler.n.01.434846
+צʼוֹק	NOUN	choke.n.02.309787
+צוּרָה	NOUN	manner.n.01.343490
+צַחֲנָה	NOUN	malodor.n.01.356355
+צִחְצוּחַ	NOUN	shining.n.01.164969
+צָחַק	VERB	joke.v.02.127928
+צִחְקוּק	NOUN	giggle.n.01.378505
+צִטּוּט	NOUN	quotation.n.02.369638
+צַיִד	NOUN	hunt.n.07.167781	hunt.n.08.157570
+צִיָּה	NOUN	desert.n.01.401335
+צִיּוֹן	NOUN	israel.n.01.405220
+צִיּוּן	NOUN	indication.n.02.380614
+צִיּוּץ	NOUN	chirp.n.01.383739
+צִיּוּר	NOUN	painting.n.01.325436
+צִיטָטָה	NOUN	quotation.n.02.369639
+צִיֵּן	VERB	note.v.01.192827
+צִינִי	ADJ	cynical.s.01.281679
+צִיצִי	NOUN	breast.n.02.353153
+צִיר	NOUN	axle.n.01.301200	hinge.n.01.319823
+צַיְתָן	ADJ	obedient.a.01.228162
+צַיְתָנוּת	NOUN	obedience.n.02.343016
+צִלּוּם	NOUN	filming.n.01.185790	photograph.n.01.326220	photography.n.01.185529
+צָלִי	NOUN	roast.n.01.388450
+צְלִילָה	NOUN	dive.n.02.156920
+צְלִיפָה	NOUN	whip.n.05.130023
+צִלֵּם	VERB	photocopy.v.01.235145
+צֶלַע	NOUN	rib.n.02.349646	side.n.07.403540
+צָלַע	VERB	limp.v.01.246408
+צָם	VERB	fast.v.02.203505
+צָמָא	NOUN	hunger.n.02.343811	thirst.n.01.484221
+צִמָּאוֹן	NOUN	hunger.n.02.343813	thirst.n.01.484222
+צֶמֶד	NOUN	team.n.02.394560
+צֶמַח	NOUN	plant.n.02.118914
+צִמְחוֹנוּת	NOUN	vegetarianism.n.01.388122
+צִמְחִיָּה	NOUN	vegetation.n.01.400513
+צְמִיגוּת	NOUN	viscosity.n.01.343635
+צֶמֶר	NOUN	wool.n.02.500133	wool.n.03.245385
+צַמֶּרֶת	NOUN	crown.n.07.468640
+צֶנְזוּרָה	NOUN	censoring.n.02.152501
+צָנַח	VERB	chute.v.01.249419
+צְנִיחָה	NOUN	drop.n.06.383377
+צְנִים	NOUN	zwieback.n.01.390064
+צֶנַע	NOUN	austerity.n.01.342355
+צִנְצֶנֶת	NOUN	jar.n.01.321037
+צַנֶּרֶת	NOUN	plumbing.n.01.326852
+צַעַד	NOUN	footfall.n.01.383820	footstep.n.03.478433
+צָעַד	VERB	step.v.01.247121
+צָעִיף	NOUN	scarf.n.01.329467
+צָעִיר	ADJ	young.a.01.230361
+צָעִיר	NOUN	young.n.01.211533	young_person.n.01.436460
+צְעִירִים	NOUN	young.n.09.393982
+צָעַק	VERB	shout.v.01.186143	shout.v.02.186210
+צָפוֹן	NOUN	north.n.03.479941
+צָפוּף	ADJ	crowded.a.01.164188	dense.s.03.203288
+צֶפִי	NOUN	prognosis.n.01.372485
+צָפִיר	NOUN	billy.n.02.278548
+צֹפֶן	NOUN	code.n.02.365304
+צֶפַע	NOUN	viper.n.01.236006
+צַפְצָפָה	NOUN	poplar.n.02.463191
+צִפֹּרֶן	NOUN	nail.n.01.353653
+צֹר	NOUN	flint.n.01.496900
+צָרֶבֶת	NOUN	heartburn.n.01.488083
+צָרָה	NOUN	trouble.n.01.355636
+צָרוּד	ADJ	gruff.s.02.144159
+צְרוֹר	NOUN	bundle.n.02.306451
+צָרַח	VERB	yell.v.02.186168
+צְרָחָה	NOUN	scream.n.01.378393
+צַʼרְטֶר	NOUN	charter.n.01.367402	charter.n.02.368264
+צְרִידוּת	NOUN	gruffness.n.01.344720
+צְרִיחָה	NOUN	scream.n.01.378395
+צְרִיף	NOUN	hovel.n.01.320302
+צֹרֶךְ	NOUN	necessity.n.02.411744
+צְרָכִים-קְטַנִּים	NOUN	urine.n.01.496632
+צַרְכָן	NOUN	consumer.n.01.415212
+צִרְעָה	NOUN	wasp.n.02.266255
+צָרַעַת	NOUN	leprosy.n.01.485531
+צָרְפַת	NOUN	france.n.01.406516
+צָרְפָתִי	ADJ	french.a.01.307723
+צָרְפָתִית	NOUN	french.n.01.376104
+צְרָצַר	NOUN	cricket.n.01.267243
+קָאוּבּוֹי	NOUN	cowboy.n.01.421314
+קָאוֹלִין	NOUN	china_clay.n.01.494006
+קֵבָה	NOUN	stomach.n.01.351089
+קִבּוּץ	NOUN	kibbutz.n.01.395426
+קְבוּצָה	NOUN	class.n.01.394780	group.n.01.120352	group.n.03.361463	social_group.n.01.394116	team.n.01.397303
+קְבוּצָה-חֶבְרָתִית	NOUN	social_group.n.01.394117
+קְבוּצָתִי	ADJ	communal.s.01.160295
+קְבִיעוּת	NOUN	constancy.n.01.339319	permanence.n.01.345859
+קִבֵּל-אֶת-פָּנָיו	VERB	welcome.v.02.185319
+קַבָּלָה	NOUN	receipt.n.02.368220	reception_desk.n.01.328233	reception.n.04.126560
+קַבָּלַת-פָּנִים	NOUN	welcome.n.02.370044
+קְבָס	NOUN	nausea.n.01.488406
+קֶבַע	NOUN	permanence.n.01.345858	standing_army.n.01.399872
+קַבְּצָן	NOUN	beggarman.n.01.418837
+קַבְּצָנוּת	NOUN	beggary.n.01.379764
+קַבְּצָנִית	NOUN	beggarwoman.n.01.418839
+קֶבֶר	NOUN	grave.n.02.318630
+קִדּוּחַ	NOUN	boring.n.02.186897	drilling.n.01.188152
+קִדּוּם	NOUN	advancement.n.03.140112	promotion.n.02.135752	promotion.n.03.381028
+קִדּוּשׁ	NOUN	sanctification.n.01.194097
+קַדַּחַת	NOUN	malaria.n.01.484752
+קַדַּחַת-הַבִּצּוֹת	NOUN	malaria.n.01.484754
+קַדַּחְתָּנִי	ADJ	feverish.s.01.126134
+קְדִיחָה	NOUN	boring.n.02.186896	drilling.n.01.188151
+קְדִימָה	NOUN	preference.n.04.347814
+קְדִימוּת	NOUN	preference.n.04.347815
+קֹדֶם	ADV	previously.r.01.123660
+קֶדֶם	NOUN	east.n.01.479968
+קִדֵּם	VERB	advertise.v.02.190283	promote.v.01.287506	promote.v.02.277342	welcome.v.02.185318
+קָדַם	VERB	precede.v.02.296492	predate.v.01.297878
+קִדֵּם-אֶת-פָּנָיו	VERB	welcome.v.02.185320
+קִדֵּם-בִּבְרָכָה	VERB	welcome.v.01.267832
+קֹדֶם-לָכֵן	ADV	previously.r.01.123661
+קֵדְמָה	ADV	eastward.r.01.145984
+קֹדֶשׁ	NOUN	holiness.n.01.341736
+קְדֻשָּׁה	NOUN	holiness.n.01.341737
+קָהָל	NOUN	public.n.02.394355
+קְהִלָּה	NOUN	community.n.01.397590	congregation.n.01.394690
+קוֹבְּרָה	NOUN	cobra.n.01.235794
+קַו-גְּבוּל	NOUN	boundary_line.n.01.401539
+קוֹגְנִיצְיָה	NOUN	cognition.n.01.119571
+קוֹד	NOUN	code.n.01.370770	code.n.02.365303	code.n.03.365334
+קוֹדֵם	ADJ	former.s.03.234809	previous.s.01.129635
+קוֹדֵם	NOUN	predecessor.n.01.430445
+קוֹדֵקְס	NOUN	code.n.01.370771
+קוֹדֵר	ADJ	murky.s.02.142435
+קוֹלָב	NOUN	hanger.n.02.319280
+קוֹלְנוֹעַ	NOUN	film.n.02.363990
+קוֹלֶקְטִיבִי	ADJ	corporate.s.03.259606
+קוֹמוּנִיקַצְיָה	NOUN	communication.n.01.363840
+קוֹמִיסְיוֹן	NOUN	commission.n.02.471798
+קוֹמְפּוֹזִיטוֹר	NOUN	composer.n.01.420776
+קוֹמְפְּרֶסוֹר	NOUN	compressor.n.01.311527
+קוֹנְדּוֹם	NOUN	condom.n.01.311654
+קוֹנְטִינֶנְט	NOUN	continent.n.01.410216
+קוֹנְסוֹנַנְט	NOUN	consonant.n.01.378244	consonant.n.02.378247
+קוֹנְסְטְרוּקְטִיבִי	ADJ	constructive.s.02.240379
+קוֹנְסֶפְּטוּאָלִי	ADJ	conceptual.s.01.118521
+קוֹנְסֶרְבָטִיבִיּוּת	NOUN	conservatism.n.01.363429
+קוֹנְקְרֶטִי	ADJ	concrete.a.01.118565
+קוּפּוֹן	NOUN	coupon.n.01.368184
+קוֹץ-בַּתַּחַת	NOUN	annoyance.n.04.358383
+קוֹק	NOUN	cocaine.n.01.310873
+קוֹקָאִין	NOUN	cocaine.n.01.310874
+קְוֶקֶר	NOUN	friend.n.05.416025
+קוֹרָה	NOUN	girder.n.01.318322
+קוֹרֶלַצְיָה	NOUN	correlation.n.01.480118	correlation.n.03.361603
+קָטֵגוֹרְיָה	NOUN	class.n.01.394781
+קִטּוּרִים	NOUN	whimper.n.01.380262
+קְטִילָה	NOUN	knock.n.02.356668
+קְטִינוּת	NOUN	minority.n.03.501035
+קְטִיפָה	NOUN	velvet.n.01.335329
+קָטָן	ADJ	insignificant.s.03.220023	little.s.03.230521	small.a.01.215409
+קָטָן	NOUN	toddler.n.01.434844
+קֹטֶן	NOUN	smallness.n.01.346739
+קָטַן	VERB	decrease.v.01.131538
+קַטְנוּנִי	ADJ	petty.s.03.143340
+קַטְנוֹעַ	NOUN	minibike.n.01.323884
+קַטְנוּת	NOUN	smallness.n.01.346740
+קָטַנְצִʼיק	NOUN	toddler.n.01.434850
+קִטֵּעַ	NOUN	amputee.n.01.417758
+קֶטַע	NOUN	section.n.01.365926
+קָטַע	VERB	amputate.v.01.207982
+קִיּוּם	NOUN	ratification.n.01.379513
+קִיט	NOUN	kit.n.02.321448
+קִיסוֹס	NOUN	ivy.n.01.450679
+קֵיסָם	NOUN	toothpick.n.01.334251
+קֵיסַם-שִׁנַּיִם	NOUN	toothpick.n.01.334253
+קִיקְיוֹנִי	ADJ	ephemeral.s.01.236339
+קַל	ADJ	easy.s.05.203654	light.a.01.203345
+קַל-דַּעַת	ADJ	airheaded.s.01.260169
+קְלוֹץ	NOUN	lout.n.01.427231
+קָלוֹרִימֶטֶר-פְּצָצָה	NOUN	bomb_calorimeter.n.01.304814
+קֶלַח	NOUN	corncob.n.01.401863
+קְלִיֶנְט	NOUN	customer.n.01.421597
+קְלִיֶנְטוּרָה	NOUN	clientele.n.01.400009
+קְלִינִיקָה	NOUN	clinic.n.01.395392
+קְלָלָה	NOUN	curse.n.01.378444
+קַל-מִשְׁקָל	ADJ	lightweight.s.01.203355
+קְלַסְתֵּרוֹן	NOUN	identikit.n.01.320494
+קֶלַע	NOUN	slingshot.n.01.330983
+קָלַע	VERB	braid.v.01.232188
+קִלְשׁוֹן	NOUN	pitchfork.n.01.326592
+קַל-תְּנוּעָה	ADJ	agile.s.01.120616
+קָמוּץ	ADJ	clenched.s.01.218453
+קָמוּר	ADJ	convex.a.01.162880
+קֶמַח	NOUN	flour.n.01.388183
+קָמֵעַ	NOUN	amulet.n.01.297478
+קִמְעוֹנָאוּת	NOUN	retail.n.01.198820
+קִמְעוֹנוּת	NOUN	retail.n.01.198819
+קַמְצָן	NOUN	miser.n.01.428123
+קַמְצָנִי	ADJ	mean.s.06.198764
+קַנָּאוּת	NOUN	fanaticism.n.01.363266
+קַנְדִּידָט	NOUN	candidate.n.02.419750
+קַנְדֶּלָה	NOUN	candle.n.02.476497
+קְנוֹקֶנֶת	NOUN	tendril.n.01.468469
+קְנִיָּה	NOUN	buying.n.01.125719
+קֶנְיוֹן	NOUN	canyon.n.01.409939
+קֶסֶם	NOUN	appeal.n.02.338424
+קָפוּא	ADJ	arctic.s.02.207829
+קֶצֶב	NOUN	pace.n.03.345955	tempo.n.01.503100	tempo.n.02.503544
+קִצְבַּת-זִקְנָה	NOUN	pension.n.01.472772
+קָצֶה	NOUN	edge.n.01.402204
+קִצּוּב	NOUN	rationing.n.01.197042
+קָצוּץ	ADJ	chopped.s.01.170021
+קִצּוּר	NOUN	shortening.n.02.149061
+קִצּוּר-דֶּרֶךְ	NOUN	shortcut.n.01.330418
+קֶצֶר	NOUN	short_circuit.n.01.330415
+קָצַר	VERB	reap.v.01.211423
+קַצְרָנוּת	NOUN	shorthand.n.01.365249
+קַצֶּרֶת	NOUN	asthma.n.01.485663
+קַקְטוּס	NOUN	cactus.n.01.451272
+קַר	ADJ	cold.a.01.207778
+קְרָב	NOUN	battle.n.01.188751	conflict.n.01.189095
+קֶרֶב	NOUN	inside.n.02.402554
+קָרַב	VERB	approach.v.01.255478	approach.v.04.242229
+קַרְבּוּרָטוֹר	NOUN	carburetor.n.01.307835
+קַרְדֹּם	NOUN	ax.n.01.301147
+קָרָה	VERB	happen.v.01.147220
+קָרוֹב	ADJ	near.a.01.157027
+קָרוֹב	ADV	near.r.01.153630
+קָרוֹב-לְוַדַּאי	ADV	probably.r.01.130401
+קְרוּם-הַבְּתוּלִים	NOUN	hymen.n.02.352624
+קֶרוֹסִין	NOUN	kerosene.n.01.494241
+קָרוּעַ	ADJ	exhausted.s.01.279780
+קְרוֹקוֹדִיל	NOUN	crocodile.n.01.233249
+קַרְחוֹן	NOUN	glacier.n.01.410713
+קַרְטוֹן	NOUN	cardboard.n.01.495842
+קְרִיסָה	NOUN	squat.n.03.147682
+קְרִיקֶט	NOUN	cricket.n.02.159150
+קֶרלִינְג	NOUN	curling.n.01.158255
+קֶרֶן	NOUN	beam.n.04.446283	free_kick.n.01.130289	french_horn.n.01.317656	fund.n.01.472365
+קֶרֶן-אוֹר	NOUN	beam.n.04.446284
+קֶרֶן-יַעַר	NOUN	french_horn.n.01.317657
+קֶרֶן-צָרְפָתִית	NOUN	french_horn.n.01.317658
+קַרְנִית	NOUN	cornea.n.01.350167
+קַרְנָף	NOUN	rhinoceros.n.01.276976
+קַרְסֹל	NOUN	ankle.n.01.353606
+קַרְפִּיּוֹן	NOUN	carp.n.01.391477
+קֻרְקְבָן	NOUN	gizzard.n.01.249942
+קִרְקוּר	NOUN	croak.n.01.378453
+קַרְקֶפֶת	NOUN	scalp.n.01.352898
+קָשֶׁה	ADJ	difficult.a.01.175051	hard.s.11.199675	severe.s.04.210445
+קִשּׁוּט	NOUN	decoration.n.01.313896	decoration.n.03.141252
+קָשׁוּר	ADJ	tied.a.03.140610
+קַשְׁיוּת-עֹרֶף	NOUN	stubbornness.n.01.343069
+קְשִׁירָה	NOUN	tying.n.01.131284
+קֶשֶׁר	NOUN	knot.n.02.321615	relation.n.01.120537	relationship.n.02.481733
+קִשֵּׁר	VERB	join.v.02.210159
+קֶשֶׁר-חֶבְרָתִי	NOUN	social_relation.n.01.120648
+קַשָּׁת	NOUN	archer.n.01.418014	sagittarius.n.03.404081
+רֵאָה	NOUN	lung.n.01.350986
+רְאִי	NOUN	mirror.n.01.323940	mirror.n.02.357108
+רֵאַקְצְיָה	NOUN	chemical_reaction.n.01.473797
+רֹאשׁ-הַר	NOUN	peak.n.04.403040
+רִאשׁוֹן	NOUN	first_gear.n.01.316882
+רָאשׁוּת	NOUN	chairmanship.n.01.165493
+רָאשִׁי	ADJ	chief.s.01.209166
+רֵאשִׁית	NOUN	beginning.n.04.401372
+רַב	ADJ	huge.s.01.215154	many.a.01.224721
+רֹב	NOUN	majority.n.01.347088	majority.n.02.475656
+רְבָב	NOUN	mark.n.06.373466
+רַב-גּוֹנִי	ADJ	motley.s.02.152654
+רַבְגּוֹנִי	ADJ	motley.s.02.152656
+רַב-הַשְׁפָּעָה	ADJ	influential.a.01.241267
+רִבּוּי	NOUN	plural.n.01.364502
+רְבִיעִי	ADJ	fourth.s.01.265589
+רַב-לְשׁוֹנִי	NOUN	linguist.n.01.427070
+רֹב-מֻחְלָט	NOUN	majority.n.02.475657
+רַבָּנִי	ADJ	rabbinical.a.01.306811
+רֶבַע	NOUN	one-fourth.n.01.478005
+רַב-עָצְמָה	ADJ	mighty.s.01.240953
+רַב-צִבְעִי	ADJ	motley.s.02.152655
+רַבְרְבָנוּת	NOUN	boastfulness.n.01.342499
+רַבָּתִי	ADJ	greater.a.01.215643
+רֶגוּלַצְיָה	NOUN	regulation.n.06.179457
+רָגִיל	ADJ	used_to.s.01.119680	usual.a.01.160040
+רִגְשֵׁי אָשָׁם	NOUN	guilt.n.02.387435
+רָדָאר	NOUN	radar.n.01.327887
+רְדִיפָה	NOUN	persecution.n.01.154625	pursuit.n.01.145713
+רָדִיקָל	NOUN	group.n.02.493348
+רִהוּט	NOUN	furnishing.n.02.317816
+רָהִיט	NOUN	furniture.n.01.317826
+רוֹבֶה	NOUN	rifle.n.01.328667
+רוֹבּוֹט	NOUN	automaton.n.02.300968
+רוּגַטְקָה	NOUN	slingshot.n.01.330985
+רָוָה	VERB	quench.v.01.204326
+רוֹזֵן	NOUN	count.n.03.421238
+רֶוַח	NOUN	profit.n.02.347797	space.n.02.481401
+רוּחַ-מִזְרָחִית	NOUN	east_wind.n.01.446590
+רוּחַ-קַלָּה	NOUN	breeze.n.01.446333
+רוּטִינִי	ADJ	everyday.s.01.232165
+רוֹטַצְיָה	NOUN	rota.n.02.367776
+רוֹכֵב	NOUN	rider.n.01.431549
+רוֹכְלוּת	NOUN	vending.n.01.199009
+רוֹמְבּוּס	NOUN	rhombus.n.01.480884
+רוֹמִית	NOUN	latin.n.01.376079
+רוֹמָן	NOUN	affair.n.02.481905
+רוֹעֶה	NOUN	herder.n.02.425360
+רוֹעֶה-בָּקָר	NOUN	cowboy.n.01.421315
+רוֹעֵה-צֹאן	NOUN	sheepherder.n.01.432567
+רוֹפֵא-מְיַלֵּד	NOUN	obstetrician.n.01.428932
+רוֹפֵא-מֻמְחֶה	NOUN	specialist.n.02.433357
+רוֹפֵא-מַרְדִּים	NOUN	anesthesiologist.n.01.417831
+רוֹצֵחַ	NOUN	murderer.n.01.428453
+רוֹצַחַת	NOUN	murderess.n.01.428457
+רָזֶה	ADJ	thin.a.02.190962
+רָזָה	VERB	reduce.v.20.121917
+רָחָב	ADJ	wide.a.01.287882
+רְחַב-לֵב	ADJ	big.s.11.198831
+רְחוֹב-רָאשִׁי	NOUN	main_street.n.01.323014
+רֶחֶם	NOUN	uterus.n.01.352580
+רַחֶפֶת	NOUN	hovercraft.n.01.320322
+רַחַשׁ	NOUN	rustle.n.01.383981
+רַחְשׁוּשׁ	NOUN	rustle.n.01.383983
+רָטַט	VERB	flicker.v.01.243799
+רְטִיבוּת	NOUN	wetness.n.01.492029
+רִידִינְג	NOUN	reading.n.06.405992
+רֵיחָנִי	ADJ	fragrant.a.01.194896
+רִיף	NOUN	reef.n.01.412299
+רִיצָה	NOUN	run.n.07.143725
+רִיצוּץ	NOUN	smashing.n.01.150679
+רִיצַת-מְשׂוּכוֹת	NOUN	hurdles.n.01.385465
+רֶכֶב	NOUN	vehicle.n.01.335310
+רַכָּב	NOUN	coachman.n.01.420528
+רָכַב	VERB	ride.v.01.248701
+רֶכֶב-חָלָל	NOUN	spacecraft.n.01.331392
+רַכֶּבֶת-תַּחְתִּית	NOUN	metro.n.01.323699
+רְכוּשָׁנוּת	NOUN	acquisitiveness.n.01.343835
+רִכֵּז	VERB	concentrate.v.02.173723
+רְכִיבָה	NOUN	riding.n.01.157437	riding.n.02.144121
+רְכִישָׁה	NOUN	acquiring.n.01.121606
+רִכֵל	VERB	dish_the_dirt.v.01.194203
+רֶלֶוַנְטִיּוּת	NOUN	relevance.n.01.479256
+רִמָּה	VERB	deceive.v.02.182452
+רִמּוֹן	NOUN	grenade.n.01.318705
+רֶמֶץ	NOUN	ember.n.01.410496
+רִסּוּק	NOUN	smashing.n.01.150680
+רַע	ADJ	bad.a.01.199561
+רָעָב	NOUN	dearth.n.01.490280	hunger.n.01.484192	hunger.n.02.343812
+רֵעוּת	NOUN	friendship.n.01.481864
+רַעַל	NOUN	poison.n.01.499150	poison.n.02.348025
+רַעַם	NOUN	boom.n.01.383702	thunder.n.02.384062
+רַעֲמָה	NOUN	mane.n.01.245394	mane.n.02.349292
+רַעַף	NOUN	tile.n.02.499713
+רַעַשׁ	NOUN	noise.n.01.383903
+רְפוּאָה	NOUN	medicine.n.03.166980
+רְפוּאִי	ADJ	medical.a.01.300895
+רְפוּאַת-עוֹר	NOUN	dermatology.n.01.361730
+רִפּוּד	NOUN	upholstery.n.01.335167
+רֶפוֹרְמָה	NOUN	reform.n.02.179155
+רְפָפָה	NOUN	louver.n.01.322714
+רֶפֶת	NOUN	cowbarn.n.01.312683
+רָץ	NOUN	bishop.n.03.304073
+רִצֵּד	VERB	flicker.v.01.243800
+רָצוֹן	NOUN	volition.n.01.355046
+רְצוֹנִי	ADJ	voluntary.a.02.285223
+רָצוּץ	ADJ	exhausted.s.01.279777
+רֶצַח	NOUN	murder.n.01.137678
+רְצִינִי	ADJ	dangerous.s.02.169500	goodly.s.01.168005
+רִצְפָּה	NOUN	floor.n.03.370597
+רַק	ADV	entirely.r.02.118263
+רַקְבּוּבִית	NOUN	humus.n.01.497451
+רִקּוּן	NOUN	emptying.n.01.152373
+רָקִיעַ	NOUN	celestial_sphere.n.01.401659
+רְקִיעַ-הַשָּׁמַיִם	NOUN	celestial_sphere.n.01.401662
+רִקְמָה	NOUN	embroidery.n.02.315782
+רִקְמַת-שֻׁמָּן	NOUN	adipose_tissue.n.01.349508
+רַקֶּפֶת	NOUN	cyclamen.n.01.454215
+רְשׁוּת	NOUN	license.n.04.200456	permission.n.01.371179
+רִשָּׁיוֹן	NOUN	license.n.01.368645
+רָשֻׁיּוֹת	NOUN	government.n.01.395341
+רְשִׁימָה	NOUN	list.n.01.367519
+רַשְׁלָנוּת	NOUN	negligence.n.01.174770	negligence.n.02.337904
+רִשְׁמִי	ADJ	ceremonial.s.01.194237
+רִשְׁמִיּוּת	NOUN	formality.n.02.343159
+רְשַׁמְקוֹל	NOUN	tape_recorder.n.01.333312
+רֶשַׁע	NOUN	evil.n.01.175094
+רִשְׁרוּשׁ	NOUN	rustle.n.01.383982
+רֶשֶׁת	NOUN	network.n.01.400481	network.n.02.324624
+רֶשֶׁת-הָאִינְטֶרְנֶט	NOUN	internet.n.01.320814
+רִשְׁתִּית	NOUN	retina.n.01.351481
+רֶשֶׁת-שִׁדּוּר	NOUN	network.n.02.324625
+רִתּוּךְ	NOUN	welding.n.01.131315
+רִתְמָה	NOUN	harness.n.02.319347
+שְׁאָגָה	NOUN	roar.n.03.383966
+שְׁאִיפָה	NOUN	ambition.n.01.385833
+שָׁאַל	VERB	ask.v.01.178010
+שְׁאֵלוֹן	NOUN	questionnaire.n.01.367443
+שָׁאַף	VERB	inhale.v.01.204036	inhale.v.02.117916
+שְׁאַפְתָּנוּת	NOUN	ambition.n.02.341236
+שְׁאֵרִית	NOUN	leftover.n.01.479540
+שְׁבָב	NOUN	splinter.n.01.412804
+שָׁבוּי-בְּקִסְמוֹ	ADJ	fascinated.s.01.183148
+שָׁבוּעַ	NOUN	week.n.01.501511	week.n.03.500701
+שְׁבוּעָה	NOUN	oath.n.02.371074
+שְׁבוּעִי	ADJ	weekly.s.01.249435
+שְׁבוּעַ-עֲבוֹדָה	NOUN	workweek.n.01.500698
+שֶׁבַח	NOUN	praise.n.01.371276
+שָׁבִיט	NOUN	comet.n.01.410187
+שְׂבִיעָה	NOUN	repletion.n.01.490330
+שְׂבִיעוּת-רָצוֹן	NOUN	contentment.n.01.387284
+שְׁבִיעִי	ADJ	seventh.s.01.265617
+שְׁבִיעִית	NOUN	one-seventh.n.01.478030
+שָׁבִיר	ADJ	breakable.a.01.172781
+שָׂבֵעַ	ADJ	satiate.a.01.257396
+שֹׂבַע	NOUN	repletion.n.01.490328
+שָׂבְעָה	NOUN	repletion.n.01.490329
+שְׂבֵעוּת	NOUN	repletion.n.01.490331
+שֶׁבֶר	NOUN	fraction.n.03.477929	fracture.n.01.487464
+שַׁבְרִירִי	ADJ	fragile.s.02.172719
+שֶׁבֶר-פָּשׁוּט	NOUN	common_fraction.n.01.477931
+שַׁבָּת	NOUN	sabbath.n.01.501243	saturday.n.01.501238
+שַׁגְרִירוּת	NOUN	embassy.n.01.315769
+שִׁגְרָתִי	ADJ	everyday.s.01.232166
+שָׁד	NOUN	breast.n.02.353152
+שֹׁד	NOUN	robbery.n.01.177796
+שִׂדֵּד	VERB	harrow.v.01.235449
+שִׁדָּה	NOUN	chest_of_drawers.n.01.309520
+שִׁדּוּר	NOUN	broadcast.n.01.363863	broadcast.n.02.369758
+שְׁדִידָה	NOUN	robbery.n.01.177797
+שִׁדֵּל	VERB	wheedle.v.01.176757
+שִׁדָּפוֹן	NOUN	blight.n.02.486532
+שִׁהֵק	VERB	hiccup.v.01.117794
+שׁוֹאֵל	NOUN	borrower.n.01.419211
+שׁוֹבֶה	NOUN	captor.n.01.415181
+שׁוֹבָךְ	NOUN	birdhouse.n.01.304056
+שׁוֹבֵר	NOUN	coupon.n.01.368183
+שָׁוֶה	ADJ	equal.a.01.184661
+שׁוֹט	NOUN	whip.n.01.336143
+שׁוֹטֵט	VERB	roll.v.12.244019
+שׁוֹטֶרֶת	NOUN	police_matron.n.01.430226
+שִׁוְיוֹנִי	ADJ	classless.s.01.173289
+שׁוּמָה	NOUN	evaluation.n.02.356692
+שׁוֹנֶה	ADJ	different.s.02.256702
+שׁוּנִית	NOUN	reef.n.01.412300
+שׁוּעָל	NOUN	fox.n.01.259944
+שׁוֹפִין	NOUN	file.n.04.316682
+שׁוֹפְכִין	NOUN	sewage.n.01.496662
+שׁוֹפֵעַ	ADJ	abundant.a.01.118633
+שׁוֹפֵעַ-חַיִּים	ADJ	vibrant.s.01.270485
+שׁוֹק	NOUN	second_joint.n.01.389411
+שׁוֹשְׁבִינָה	NOUN	bridesmaid.n.01.419389
+שׁוֹשֶׁלֶת	NOUN	dynasty.n.01.394458
+שׁוֹשָׁן	NOUN	lily.n.01.458648
+שָׁזוּף	ADJ	bronzed.s.01.139756
+שִׁזּוּף	NOUN	tan.n.01.487445
+שְׁזִיף	NOUN	plum.n.01.461813	plum.n.02.391056
+שִׁזָּפוֹן	NOUN	tan.n.01.487446
+שַׁח	NOUN	chess.n.02.160932
+שֹׁחַד	NOUN	bribe.n.01.471128
+שָׂחָה	VERB	swim.v.01.248932
+שְׁחִיקָה	NOUN	erosion.n.01.474265
+שְׂחִיַּת-חֲתִירָה	NOUN	crawl.n.02.164644
+שְׂחִיַּת-פַּרְפַּר	NOUN	butterfly.n.02.164659
+שַׁח-מָט	NOUN	chess.n.02.160933
+שַׁחְמָט	NOUN	chess.n.02.160934
+שַׁחַף	NOUN	gull.n.02.254643
+שַׂחְקָן	NOUN	actor.n.01.417322	player.n.01.430114
+שַׂחְקָן-פוּטְבּוֹל	NOUN	football_player.n.01.423850
+שַׂחְקָנִית	NOUN	actress.n.01.417341
+שָׁחֹר	NOUN	black.n.05.415581
+שִׁחְרוּר	NOUN	liberation.n.01.127082
+שְׁחַרְחַר	ADJ	blackish.s.01.151629
+שַׁחַת	NOUN	hay.n.01.391863
+שִׁטָּה	NOUN	acacia.n.01.450125
+שִׁטָּה	VERB	ridicule.v.01.182261
+שֶׁטַח	NOUN	area.n.05.299480	territory.n.02.361298
+שְׁטֻיּוֹת	NOUN	folderol.n.01.369606
+שָׁטִיחַ	NOUN	rug.n.01.329053
+שָׂטָן	NOUN	satan.n.01.414313
+שָׁטַף-אֶת	VERB	call_on_the_carpet.v.01.180664
+שִׂיא	NOUN	acme.n.01.482096	point.n.08.481218	record.n.06.123976
+שִׁיּוּךְ	NOUN	attribution.n.02.356674
+שִׂיחָה	NOUN	call.n.01.364152	conversation.n.01.378608	negotiation.n.01.378911
+שִׂיחַת-טֶלֶפוֹן	NOUN	call.n.01.364154
+שַׁיִט	NOUN	cruise.n.01.145225
+שִׁיטָה	NOUN	method.n.01.355155
+שִׁיטָתִי	ADJ	methodical.s.01.231841
+שִׁיטָתִיּוּת	NOUN	orderliness.n.01.339925
+שַׁיָּכוּת	NOUN	belonging.n.01.387256	relevance.n.01.479255
+שְׁיָר	NOUN	leftover.n.01.479539
+שִׁיר	NOUN	poem.n.01.365704
+שִׁירָה	NOUN	poetry.n.01.377926	singing.n.01.163345
+שַׁיִשׁ	NOUN	marble.n.01.497991
+שָׁכַב-עִם	VERB	sleep_together.v.01.217266
+שְׁכוּנָה	NOUN	neighborhood.n.02.397609
+שְׁכִיחוּת-יַחֲסִית	NOUN	frequency.n.02.479760
+שְׁכִיחוּת-מֻחְלֶטֶת	NOUN	frequency.n.03.475908
+שָׁכֵן	ADJ	adjacent.s.02.164484
+שָׁכַן	VERB	populate.v.01.293630
+שְׁכֵנוּת-טוֹבָה	NOUN	neighborliness.n.01.337725
+שִׁכְנֵעַ	VERB	convert.v.09.176808
+שִׁכְפּוּל	NOUN	duplication.n.02.192806
+שֶׂכֶר	NOUN	charter.n.02.368263
+שָׂכָר	NOUN	wage.n.01.471008
+שִׁכָּרוֹן	NOUN	drunkenness.n.01.483848
+שִׁכְרוּת	NOUN	drunkenness.n.01.483847
+שְׂכַר-נֶטוֹ	NOUN	net_income.n.01.470518
+שִׁכְתּוּב	NOUN	rewriting.n.01.366778
+שָׁל	NOUN	shawl.n.01.330162
+שָׁלָב	NOUN	degree.n.02.482088	phase.n.01.503642
+שֶׁלֶג	NOUN	snow.n.01.447437
+שֶׁלֶד	NOUN	framework.n.02.343579
+שַׁלְדָּג	NOUN	kingfisher.n.01.241006
+שְׂלָו	NOUN	quail.n.02.239580
+שָׁלוֹם	NOUN	adieu.n.01.369976	peace.n.01.482712
+שְׁלוּק	NOUN	sip.n.01.181707
+שֻׁלְחָן	NOUN	dining_table.n.01.314422
+שֻׁלְחָן-אֹכֶל	NOUN	dining_table.n.01.314423
+שַׁלָּט	NOUN	remote_control.n.01.328439
+שָׁלַט	VERB	govern.v.03.289659
+שִׁלְטוֹן	NOUN	government.n.01.395339
+שַׁלַּט-רַחַק	NOUN	remote_control.n.01.328440
+שָׁלִיחַ	NOUN	emissary.n.01.422865
+שְׁלִיטָה	NOUN	grip.n.06.348403
+שְׁלִילִי	ADJ	negative.a.01.240391
+שָׁלָל	NOUN	loot.n.01.470627
+שָׁלֵם	ADJ	hale.s.01.202529	whole.a.01.161773
+שַׁלְמוֹנִים	NOUN	bribe.n.01.471129
+שֶׁל-עֶקְרוֹנוֹת	ADJ	principled.a.01.224703
+שִׁלְשׁוּל	NOUN	diarrhea.n.01.488604
+שָׁם	ADV	ibid..r.01.140703	there.r.01.128316
+שֵׁם	NOUN	reputation.n.03.363291
+שָׁם	VERB	measure.v.04.171145
+שָׂם	VERB	put.v.01.221371
+שְׂמֹאלָנִי	ADJ	leftist.s.01.253985
+שָׁמָּה	ADV	there.r.01.128317	there.r.03.128329
+שִׁמּוּן	NOUN	lubrication.n.02.173353
+שִׁמּוּר	NOUN	conservation.n.02.180359
+שְׁמוּרַת-עַיִן	NOUN	eyelid.n.01.350113
+שִׁמּוּשׁ	NOUN	use.n.01.188422
+שְׂמִיכַת-פּוּךְ	NOUN	eiderdown.n.01.315580	quilt.n.01.327800
+שָׁמַיִם	NOUN	heaven.n.02.354537	sky.n.01.412700
+שְׁמִינִי	ADJ	eighth.s.01.265623
+שִׂמְלָה	NOUN	dress.n.01.315068
+שִׂמְלַת-עֶרֶב	NOUN	gown.n.01.318535
+שֹׁמֶן	NOUN	fatness.n.01.344913
+שֻׁמָּן	NOUN	adipose_tissue.n.01.349507	fat.n.01.496800
+שֶׁמֶן-אֲדָמָה	NOUN	petroleum.n.01.498407
+שְׁמָרִים	NOUN	yeast.n.01.500160	yeast.n.02.467667
+שַׁמְרָנוּת	NOUN	conservatism.n.01.363428
+שֶׁמֶשׁ	NOUN	sunlight.n.01.447110
+שַׁמָּשׁ	NOUN	beadle.n.01.418768
+שִׁמְשִׁיָּה	NOUN	parasol.n.01.325660
+שֻׁמְשֹׁם	NOUN	sesame.n.01.465450
+שִׂנְאָה	NOUN	hate.n.01.387680
+שַׁנַּאי	NOUN	transformer.n.01.334516
+שֵׁנָה	NOUN	sleep.n.01.483939	sleep.n.02.483962	sleep.n.03.503373	slumber.n.02.483758
+שָׁנָה	NOUN	school_year.n.01.502062	year.n.01.502064	year.n.02.502075	year.n.03.502027
+שִׁנָּה	VERB	change.v.01.129547	change.v.03.129332	change.v.06.132548
+שֶׁנְהָב	NOUN	ivory.n.01.495138
+שָׂנוּא	ADJ	hateful.a.01.219236
+שָׁנוּן	ADJ	witty.s.01.208770
+שְׁנֵים-עָשָׂר	NOUN	twelve.n.01.478234
+שֵׁנִית	ADV	second.r.01.127617
+שְׁנַת-הַלִּמּוּדִים	NOUN	school_year.n.01.502063
+שְׁנָתוֹן	NOUN	annual.n.02.366747
+שְׁנָתִי	ADJ	annual.s.02.249501
+שְׁנַת-נֶצַח	NOUN	rest.n.05.482547
+שְׁנַת-עוֹלָם	NOUN	rest.n.05.482548
+שֶׁסֶק	NOUN	loquat.n.01.461679	loquat.n.02.391251
+שִׁעְבֵּד	VERB	mortgage.v.01.274841
+שִׁעְבּוּד	NOUN	mortgage.n.01.472245
+שֶׁעָבַר	ADJ	past.a.01.234710
+שַׁעֲוָה	NOUN	wax.n.01.500008
+שָׁעוֹן	NOUN	clock.n.01.310458
+שָׂעִיר	ADJ	hairy.a.01.136881
+שָׂעִיר	NOUN	billy.n.02.278549
+שְׂעִיר-עִזִּים	NOUN	billy.n.02.278551
+שַׁעֶלֶת	NOUN	whooping_cough.n.01.485643
+שִׁעְמוּם	NOUN	boredom.n.01.387506
+שִעֲמוּם	NOUN	boredom.n.01.387505
+שַׁעַר	NOUN	gate.n.01.318158	goal.n.04.134846	goalpost.n.01.318403
+שַׁעַר-הַחֲלִיפִין	NOUN	rate_of_exchange.n.01.471902
+שִׁעְרוּךְ	NOUN	reappraisal.n.01.356811
+שַׁעֲרוּרִיָּה	NOUN	scandal.n.01.380471	scandal.n.02.382162
+שַׁעַר-לוֹגִי	NOUN	gate.n.02.318165
+שָׂפָה	NOUN	edge.n.01.402205
+שִׁפּוּד	NOUN	skewer.n.01.330790
+שַׁפּוּד	NOUN	skewer.n.01.330791
+שִׁפּוּי	NOUN	damages.n.01.471271
+שָׁפוּךְ	ADJ	exhausted.s.01.279781
+שִׁפּוּעַ	NOUN	gradient.n.02.346132
+שִׁפּוּר	NOUN	improvement.n.01.383284
+שְׁפִיּוּת	NOUN	sanity.n.01.488755
+שְׁפִּיץ	NOUN	point.n.08.481219
+שַׁפִּירִית	NOUN	dragonfly.n.01.269748
+שֶׁפֶךְ	NOUN	estuary.n.01.410521
+שְׁפָכִים	NOUN	sewage.n.01.496661
+שְׁפֵלָה	NOUN	lowland.n.01.411418
+שִׁפְלוּת	NOUN	baseness.n.01.340594
+שָׂפָם	NOUN	mustache.n.01.349406
+שֶׁפַע	NOUN	abundance.n.01.346937	profusion.n.01.346954
+שַׁפַּעַת	NOUN	influenza.n.01.485329
+שְׂפָתוֹן	NOUN	lipstick.n.01.322464
+שְׂפַת-סִימָנִים	NOUN	sign_language.n.01.374714
+שַׁקְדָן	ADJ	diligent.a.02.175820
+שָׁקוּל	ADJ	reasonable.s.03.246966
+שִׁקּוּר	NOUN	lying.n.01.175692
+שֶׁקֶל	NOUN	shekel.n.01.477506
+שָׁקַל-מֵחָדָשׁ	VERB	reconsider.v.01.169653
+שִׁקְמָה	NOUN	sycamore.n.04.458386
+שִׁקֵּעַ	VERB	precipitate.v.02.159058
+שִׁקְשׁוּק	NOUN	clatter.n.01.383760
+שִׁקְשֵׁק	VERB	clatter.v.01.263687
+שַׁרְבִיט	NOUN	baton.n.04.302906
+שְׁרַבְרָב	NOUN	plumber.n.01.430169
+שְׁרַבְרָבוּת	NOUN	plumbing.n.02.166806
+שָׂרַד	VERB	survive.v.01.291437
+שַׁרְווּל	NOUN	sleeve.n.01.330926
+שַׁרְווּל-רוּחַ	NOUN	windsock.n.01.381141
+שְׂרוֹךְ-נַעַל	NOUN	shoelace.n.01.330356
+שִׂרְטוֹן	NOUN	sandbank.n.01.412492
+שָׂרִיד	NOUN	wreckage.n.01.336640
+שִׁרְיֵן	VERB	armor.v.01.274133
+שְׁרִיר	NOUN	muscle.n.02.349765
+שְׁרִירוּתִי	ADJ	arbitrary.a.01.173439
+שָׁרָךְ	NOUN	fern.n.01.447916
+שְׂרָף	NOUN	resin.n.01.497257
+שָׂרָף	NOUN	seraph.n.01.414223
+שִׁשִּׁי	ADJ	sixth.s.01.265605
+שֵׁת	NOUN	buttocks.n.01.353269
+שִׁתּוּפִי	ADJ	collective.s.03.144078	corporate.s.03.259605
+שִׁתּוּק	NOUN	paralysis.n.01.492369
+שְׁתִי	NOUN	warp.n.04.335740
+שְׁתִיל	NOUN	seedling.n.01.447972
+שֶׁתֶן	NOUN	urine.n.01.496629
+שִׁתֵּף-פְּעֻלָּה	VERB	collaborate.v.01.278514
+שַׁתְקָנוּת	NOUN	reserve.n.07.337636
+תָּא	NOUN	cell.n.02.118055
+תֵּאוּר	NOUN	description.n.01.372017
+תֵּאוּרִי	ADJ	descriptive.a.01.174340
+תָּא-זֶרַע	NOUN	sperm.n.01.351851
+תֵּאַטְרוֹן	NOUN	company.n.04.397122	dramaturgy.n.01.376694	theater.n.01.333733
+תָּא-כֶּלֶא	NOUN	cell.n.07.308766
+תְּאֵנָה	NOUN	fig.n.02.458345	fig.n.04.391091
+תַּאֲנִיָּה-וַאֲנִיָּה	NOUN	lament.n.01.380268
+תֵּבָה	NOUN	chest.n.02.309506
+תִּבּוּל	NOUN	seasoning.n.02.140006
+תְּבוּסָה	NOUN	defeat.n.01.385583
+תִּבְלוּן	NOUN	seasoning.n.02.140007
+תַּבְרִיג	NOUN	screw_thread.n.01.329688
+תְּגוּבָה	NOUN	chemical_reaction.n.01.473796	reaction.n.03.182773
+תְּגוּבָה-כִּימִית	NOUN	chemical_reaction.n.01.473798
+תְּדִירוּת	NOUN	frequency.n.01.503471
+תֶּדֶר	NOUN	frequency.n.01.503470
+תִּדְרֵךְ	VERB	brief.v.01.181059
+תְּהוֹם	NOUN	gulf.n.02.339657
+תּוֹךְ	NOUN	inside.n.02.402555
+תּוֹלַעַת	NOUN	caterpillar.n.01.272220
+תּוֹקְפָנוּת	NOUN	aggressiveness.n.03.337478
+תּוֹרַת-הַיַּחֲסוּת	NOUN	relativity.n.01.362148
+תּוֹשָׁבֵי-הָעִיר	NOUN	city.n.03.397628
+תּוֹשָׁבֵי-הָעֲיָרָה	NOUN	town.n.02.397634
+תְּזוּזָה	NOUN	motion.n.06.142700
+תְּזוּנָה	NOUN	nutrition.n.01.474921
+תִּזְמֹרֶת	NOUN	orchestra.n.01.398005
+תַּחְבִּיב	NOUN	avocation.n.01.155933
+תַּחְבִּיר	NOUN	syntax.n.03.362808
+תַּחְבְּלָן	ADJ	crafty.s.01.131208
+תְּחוּם	NOUN	department.n.03.358886	discipline.n.01.361267
+תְּחוּם-תְּדָרִים	NOUN	frequency_band.n.01.363967
+תַּחְזוּקָה	NOUN	care.n.06.141708
+תַּחֲזִית	NOUN	prognosis.n.01.372486
+תְּחִלָּה	ADV	initially.r.01.127641
+תְּחִלִּית	NOUN	prefix.n.01.364604
+תַּחְמָנוּת	NOUN	craft.n.05.354386
+תַּחְמֹצֶת	NOUN	oxide.n.01.498289
+תַּחֲנַת-עֲבוֹדָה	NOUN	workstation.n.01.336586
+תַּחְפֹּשֶׂת	NOUN	disguise.n.02.314507
+תַּחְקִיר	NOUN	debriefing.n.01.380384
+תִּחְקֵר	VERB	debrief.v.01.181061
+תַּחֲרָה	NOUN	lace.n.02.321684
+תַּחֲרוּת	NOUN	competition.n.03.202326	contest.n.01.385247
+תַּחֲרוּת-צְלִילָה	NOUN	diving.n.01.385422
+תַּחַת	NOUN	buttocks.n.01.353270
+תַּחְתִּית	NOUN	metro.n.01.323698
+תִּינוֹק	NOUN	child.n.03.420268
+תִּיק	NOUN	burden.n.01.358436
+תִּיקָן	NOUN	cockroach.n.01.267521
+תַּיִשׁ	NOUN	billy.n.02.278550
+תְּכוּנָה	NOUN	property.n.04.358795	quality.n.01.339068
+תַּכְלִית	NOUN	aim.n.02.361021
+תֹּכֶן	NOUN	contents.n.01.367640
+תֹּכֶן-הָעִנְיָנִים	NOUN	contents.n.01.367641
+תָּכְנִית	NOUN	broadcast.n.02.369760
+תִּכְנֵת	VERB	program.v.02.235788
+תַּכְסִיסִי	ADJ	tactical.a.01.307481
+תֵּכֶף-וּמִיָּד	ADV	immediately.r.01.122313
+תַּכְשִׁיט	NOUN	jewelry.n.01.321099
+תֵּל	NOUN	knoll.n.01.411184	mound.n.04.324258	pile.n.01.394277
+תְּלוּשׁ	NOUN	coupon.n.01.368185
+תְּלִיָּה	NOUN	hanging.n.02.202112	suspension.n.06.192687
+תְּלִילוּת	NOUN	abruptness.n.02.346158
+תַּלְיָן	NOUN	hangman.n.01.425136
+תֶּלֶם	NOUN	furrow.n.01.317840
+תַּלְמוּד	NOUN	talmud.n.01.367142
+תַּלְמִיד	NOUN	disciple.n.01.422265	student.n.01.433920
+תַּלְתַּל	NOUN	lock.n.02.349323
+תְּלַת-מְמַדִּי	ADJ	three-dimensional.s.01.169987
+תִּמָּהוֹן	NOUN	astonishment.n.01.386637
+תְּמוּנָה	NOUN	photograph.n.01.326221	scene.n.06.376746
+תְּמוּתָה	NOUN	deathrate.n.01.503452
+תְּמִיהָה	NOUN	astonishment.n.01.386636
+תְּמִימוּת	NOUN	naivete.n.01.342315
+תַּמְלִיל	NOUN	libretto.n.01.376776
+תְּמִסָּה	NOUN	solution.n.01.492892
+תִּמְסָח	NOUN	crocodile.n.01.233248
+תַּמְצִיתִי	ADJ	concise.a.01.163409
+תַּמְרִיץ	NOUN	bonus.n.02.470899
+תַּן	NOUN	jackal.n.01.259715
+תְּנַאי	NOUN	condition.n.02.372554	condition.n.07.372954
+תְּנוּבָה	NOUN	crop.n.01.468275
+תְּנוּחָה	NOUN	position.n.04.346306
+תְּנוּעָה	NOUN	motion.n.06.142698	traffic.n.01.400344	vowel.n.01.378203	youth_movement.n.01.179159
+תְּנוּעַת-נֹעַר	NOUN	youth_movement.n.01.179160
+תְּנוּפָה	NOUN	momentum.n.01.345561
+תַּנּוּר	NOUN	oven.n.01.325230
+תַּנִּין	NOUN	crocodile.n.01.233247
+תֶּנַע	NOUN	momentum.n.02.345426
+תְּסִיסָה	NOUN	agitation.n.02.482959	zymosis.n.01.475593
+תִּסְכּוּל	NOUN	frustration.n.01.387521
+תַּסְרִיטַאי	NOUN	scriptwriter.n.01.432192
+תַּעֲבוּרָה	NOUN	traffic.n.01.400345
+תִּעוּב	NOUN	abhorrence.n.01.386408
+תְּעוּדָה	NOUN	certificate.n.01.367385	diploma.n.01.367489
+תִּעוּשׂ	NOUN	industrialization.n.01.186961
+תַּעֲלוּל	NOUN	mischief.n.01.174573
+תַּעֲלוּמָה	NOUN	mystery.n.01.355600
+תַּעֲמוּלָה	NOUN	propaganda.n.01.370932
+תַּעֲנוּג	NOUN	delight.n.01.386051
+תַּעֲנִית	NOUN	fast.n.01.196106
+תַּעֲרֹבֶת	NOUN	meal.n.03.388161	mix.n.02.383605
+תַּעֲרוּכָה	NOUN	exhibition.n.02.400114
+תַּעֲשִׂיָּה	NOUN	industry.n.02.186916
+תַּעֲשִׂיָּן	NOUN	industrialist.n.01.426035
+תֹּף-מִרְיָם	NOUN	tambourine.n.01.333234
+תַּפּוּז	NOUN	orange.n.01.390977
+תַּפּוּחַ	NOUN	apple.n.01.390831	apple.n.02.461747
+תַּפּוּחַ-זָהָב	NOUN	orange.n.01.390978
+תִּפוּף	NOUN	drumming.n.01.163335
+תַּפְקִיד	NOUN	character.n.04.360252	function.n.02.347587	function.n.03.173561
+תַּצְהִיר	NOUN	affidavit.n.01.372201
+תַּצְלוּם	NOUN	photograph.n.01.326222
+תַּצְפִּית	NOUN	observation.n.02.184000
+תִּקּוּן	NOUN	amendment.n.02.371988	reform.n.02.179154	repair.n.01.141653
+תְּקוּפָה	NOUN	era.n.01.502840	era.n.02.502833
+תְּקוּפַת-תִּשְׁרֵי	NOUN	fall.n.01.502561
+תִּקְצֵב	VERB	budget.v.01.173815
+תַּקְצִיב	NOUN	budget.n.01.473430	budget.n.02.473425
+תַּקְצִיבִי	ADJ	budgetary.a.01.309737
+תַּקְצִיר	NOUN	outline.n.02.367281
+תִּקְרָה	NOUN	ceiling.n.03.370591
+תִּקְשֹׁרֶת	NOUN	communication.n.01.363839	communication.n.02.120658
+תִּקְשֹׁרֶת-בִּכְתָב	NOUN	written_communication.n.01.365237
+תַּרְבּוּתִי	ADJ	civilized.s.02.248057
+תִּרְגּוּל	NOUN	exercise.n.03.184964
+תִּרְגֵּל	VERB	drill.v.03.166516
+תֶּרֶד	NOUN	spinach.n.01.451200	spinach.n.02.390792
+תַּרְדֵּמָה	NOUN	hibernation.n.02.483732
+תַּרְדֵּמַת-חֹרֶף	NOUN	hibernation.n.02.483733
+תַּרְדֵּמַת-נֶצַח	NOUN	rest.n.05.482549
+תְּרוּמָה	NOUN	contribution.n.01.178258	contribution.n.02.470838	contribution.n.03.197376
+תְּרוּפָה	NOUN	medicine.n.02.323476
+תֵּרוּץ	NOUN	excuse.n.01.372314
+תְּרֵיסָר	NOUN	twelve.n.01.478233
+תִּרְכֹּבֶת	NOUN	compound.n.02.496106
+תַּרְכִּיב	NOUN	vaccine.n.01.335217
+תֶּרְמוֹמֶטֶר	NOUN	thermometer.n.01.333782
+תַּרְנְגוֹל	NOUN	cock.n.04.238520
+תַּרְנְגֹלֶת	NOUN	hen.n.01.238569
+תַּרְשִׁים	NOUN	diagram.n.01.314181
+תִּשְׁבָּחָה	NOUN	praise.n.01.371277
+תַּשְׁבֵּץ	NOUN	crossword_puzzle.n.01.373309
+תְּשׁוּאוֹת	NOUN	applause.n.01.371258
+תְּשׁוּבָה	NOUN	answer.n.01.372388	repentance.n.01.387439	solution.n.02.372353
+תַּשְׁלוּם	NOUN	payment.n.01.470998	payment.n.02.199243
+תֶּשֶׁר	NOUN	gratuity.n.01.471407
+תַּשְׁתִּית	NOUN	infrastructure.n.02.320670

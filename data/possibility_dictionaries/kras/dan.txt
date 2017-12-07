@@ -1,0 +1,4519 @@
+åben	ADJ	open.a.02.230867
+åbenlys	ADJ	overt.a.01.233576
+åbne	VERB	open.v.01.212769
+åbning	NOUN	opening.n.06.491100	opening.n.10.325033
+abnorm	ADJ	abnormal.a.01.227369
+absorbere	VERB	absorb.v.06.301234
+abstrakt	ADJ	abstract.a.01.118497
+acceptabel	ADJ	acceptable.a.01.118964
+acceptere	VERB	accept.v.07.170523	resign.v.04.174310
+accept	NOUN	adoption.n.01.134332
+adelig	ADJ	noble.a.02.227033
+adelstitel	NOUN	title.n.09.365129
+adfærd	NOUN	bearing.n.03.343130	behavior.n.01.205648
+adgang	NOUN	access.n.02.348177	entree.n.02.348188
+adlyde	VERB	obey.v.01.286667
+adoption	NOUN	adoption.n.02.203289
+adræt	ADJ	agile.s.01.120614
+adresseliste	NOUN	directory.n.01.366709
+adresse	NOUN	address.n.02.401133
+adskillelse	NOUN	separation.n.05.204149	separation.n.09.151285
+adspredelse	NOUN	attraction.n.02.369684	refreshment.n.02.152900
+advare	VERB	warn.v.01.183408
+advarsel	NOUN	admonition.n.01.370847
+æble	NOUN	apple.n.01.390831
+ædelse	NOUN	food.n.01.119396
+ædelsten	NOUN	gem.n.02.494419	jewel.n.01.321088
+æde	NOUN	food.n.01.119395
+æde	VERB	eat.v.01.202309
+æggehvide	NOUN	protein.n.01.494804
+æggehvidestof	NOUN	protein.n.01.494805
+æggeskal	NOUN	shell.n.05.412639
+æg	NOUN	egg.n.02.392445
+ægte	ADJ	actual.s.03.281557	genuine.a.01.198860
+ægtehustru	NOUN	wife.n.01.436112
+ægtepar	NOUN	marriage.n.02.394653
+ægteskab	NOUN	marriage.n.01.482571	marriage.n.03.193925
+ægteviv	NOUN	wife.n.01.436113
+ældes	VERB	age.v.01.140016
+ælte	VERB	knead.v.01.206713
+ændre	VERB	transform.v.03.151117
+ændring	NOUN	change.n.01.381941	transformation.n.01.383317
+ængstelig	ADJ	nervous.a.03.306046
+ære	NOUN	glory.n.01.489880	honor.n.03.342082
+ærlig	ADJ	honest.a.01.205704
+ærme	NOUN	sleeve.n.01.330926
+aeroplan	NOUN	airplane.n.01.296407
+ærværdig	ADJ	honorable.a.02.206044
+æstetisk	ADJ	aesthetic.a.02.124646
+afbryde	VERB	interrupt.v.03.162109
+afdeling	NOUN	division.n.04.397540
+affærdige	VERB	dismiss.v.01.179121
+affære	NOUN	affair.n.02.481905
+affald	NOUN	garbage.n.01.496667	rubbish.n.01.496675
+affaldsstof	NOUN	waste.n.01.496644
+affektion	NOUN	attachment.n.01.387642	disease.n.01.484669	illness.n.01.484524
+affyre	VERB	fire.v.02.200089	launch.v.02.222527
+afgørelse	NOUN	settlement.n.05.357465
+afgørende	ADJ	decisive.a.01.171367
+afgøre	VERB	decide.v.01.172148	settle.v.13.176442	settle.v.14.268783
+afgrøde	NOUN	crop.n.01.468275	produce.n.01.390331
+afhænge af	VERB	depend.v.01.294415
+afhængig	ADJ	addicted.a.01.122079	dependent.a.01.173941
+afhandling	NOUN	dissertation.n.01.366267	report.n.01.380362
+afkald	NOUN	omission.n.01.125084
+afkom	NOUN	offspring.n.01.428983	young.n.01.211534
+afkorte	VERB	shorten.v.01.145457
+aflejring	NOUN	drift.n.04.410450
+afløb	NOUN	drain.n.03.314973	release.n.09.208601
+afløbsrør	NOUN	drain.n.03.314974
+aflyse	VERB	cancel.v.01.282432
+aflytning	NOUN	wiretap.n.01.169686
+afmærke	VERB	sign.v.06.221586
+afpresse	VERB	extort.v.02.268070
+afrejse	VERB	depart.v.03.252738
+afsende	VERB	air.v.03.190027
+afskærmning	NOUN	barrier.n.03.409627
+afskaffe	VERB	abolish.v.01.279329
+afskedige	VERB	displace.v.03.277682
+afsked	NOUN	farewell.n.02.122712
+afskrabe	VERB	scratch.v.02.210844
+afskrække	VERB	dissuade.v.01.176828
+afskyde	VERB	blast.v.07.200165
+afskyelig	ADJ	atrocious.s.01.199945
+afsky	NOUN	repugnance.n.01.386421
+afsky	VERB	resent.v.01.237283
+afslå	VERB	refuse.v.02.267843
+afslutning	NOUN	ending.n.04.381778
+afslutte	VERB	complete.v.01.159660
+afsnit	NOUN	episode.n.03.369804	paragraph.n.01.366073
+afstamning	NOUN	descent.n.04.479598
+afstand	NOUN	distance.n.01.346363
+afstemning	NOUN	vote.n.01.134590	vote.n.02.134508
+afstraffelse	NOUN	discipline.n.05.201931	punishment.n.01.201814
+aftale	NOUN	date.n.03.399737
+aften	NOUN	evening.n.01.501296	night.n.07.501350
+afvise	VERB	reject.v.01.171441
+afvisning	NOUN	rejection.n.01.136125
+agent	NOUN	agent.n.02.417526
+aggressiv	ADJ	aggressive.a.01.125787
+agterparti	NOUN	buttocks.n.01.353277
+agt	NOUN	admiration.n.01.386307	dignity.n.01.342464	standing.n.01.482277
+agurk	NOUN	cucumber.n.02.390490
+aids	NOUN	aids.n.01.485414
+akademi	NOUN	academy.n.04.294805
+akademisk	ADJ	academic.a.01.290430
+akavet	ADJ	awkward.a.02.200575
+akkord	NOUN	chord.n.02.374615
+akse	NOUN	axis.n.06.301184
+aktie	NOUN	share.n.02.472111	stock.n.01.472013
+aktionær	NOUN	stockholder.n.01.433776
+aktiv	ADJ	active.a.05.120575
+aktivitet	NOUN	activeness.n.02.337248
+akt	NOUN	act.n.03.376742
+akut	ADJ	acute.a.01.121851
+akvarium	NOUN	aquarium.n.01.299247
+alarm	NOUN	alarm.n.02.296595	bustle.n.01.163928	security_system.n.02.329877
+albue	NOUN	elbow.n.01.353634
+album	NOUN	album.n.02.296658
+alderdom	NOUN	old_age.n.01.501060
+alder	NOUN	age.n.01.343422	historic_period.n.01.502959
+alene	ADJ	alone.s.02.268632
+alfabet	NOUN	script.n.03.365266
+alkoholfri	ADJ	nonalcoholic.a.01.201786
+alkohol	NOUN	alcohol.n.01.393088
+alternativ	NOUN	option.n.02.357510
+alter	NOUN	altar.n.02.296942
+aluminium	NOUN	aluminum.n.01.493408
+alvorlig	ADJ	critical.a.06.169490
+alvor	NOUN	graveness.n.01.337533
+amatør	NOUN	amateur.n.01.417712
+ambassade	NOUN	embassy.n.01.315769
+ambition	NOUN	ambition.n.02.341234
+ambitiøs	ADJ	ambitious.a.01.127725
+ambulance	NOUN	ambulance.n.01.297106
+amputere	VERB	amputate.v.01.207982
+amulet	NOUN	charm.n.03.309344
+analyse	NOUN	psychoanalysis.n.01.172543
+analytiker	NOUN	analyst.n.03.417770
+anbefale	VERB	commend.v.04.184235
+anbefaling	NOUN	recommendation.n.02.371338
+anbringe	NOUN	popularity.n.01.340605
+andel	NOUN	parcel.n.02.197049	share.n.01.471146
+ånde	NOUN	entity.n.01.117671
+anderledes	ADJ	other.a.01.256657	unlike.a.01.216419
+and	NOUN	duck.n.01.242037
+ånd	NOUN	spirit.n.04.414355
+anerkendelse	NOUN	recognition.n.01.489307	recognition.n.03.371162	tribute.n.01.371413
+anerkende	VERB	recognize.v.09.286907
+anfægte	VERB	forbid.v.01.178732
+anfører	NOUN	director.n.01.422241
+angreb	NOUN	attack.n.01.190002	attack.n.09.205606	fire.n.09.371679	strike.n.02.190328
+angst	NOUN	fear.n.01.386926
+ankel	NOUN	ankle.n.01.353606
+anke	VERB	appeal.v.04.283590
+anklage	NOUN	accusation.n.02.372108
+anklage	VERB	charge.v.07.181722	owe.v.01.268776
+anledning	NOUN	context.n.02.491646	occasion.n.04.502770	opportunity.n.01.491054	possibility.n.02.491010	possibility.n.04.357536
+anmeldelse	NOUN	review.n.02.366320
+anmodning	NOUN	request.n.01.368023
+anonym	ADJ	anonymous.a.01.129123
+ansættelse	NOUN	employment.n.01.482627
+ansætte	VERB	hire.v.01.278087	recruit.v.02.268010
+ansamling	NOUN	association.n.01.395328
+anseelse	NOUN	standing.n.01.482279
+ansigt	NOUN	face.n.01.353948
+ansigtstræk	NOUN	feature.n.02.353968
+ansøger	NOUN	applicant.n.01.415140
+ansøgning	NOUN	application.n.02.368012
+anspændelse	NOUN	struggle.n.03.167724
+anspændt	ADJ	tense.a.01.277832
+anspore	VERB	cheer.v.05.182746
+anstalt	NOUN	prison.n.01.327376
+anstrengelse	NOUN	struggle.n.03.167725
+ansvarlig	ADJ	responsible.a.01.251537
+ansvar	NOUN	duty.n.01.199880	liability.n.01.491957
+antænde	VERB	ignite.v.01.300872
+antagelse	NOUN	premise.n.01.372537
+antage	VERB	assume.v.01.168393
+antal	NOUN	number.n.01.347074
+anticipere	VERB	predict.v.01.186540
+antræk	NOUN	outfit.n.02.325192
+anvendelse	NOUN	application.n.01.188527
+anvende	VERB	practice.v.04.287941
+apati	NOUN	apathy.n.01.385809
+apparat	NOUN	apparatus.n.01.298924	appliance.n.01.299073
+appel	NOUN	appeal.n.02.338424	solicitation.n.02.368043
+appelsin	NOUN	orange.n.01.390977
+appendiks	NOUN	appendix.n.02.352841
+appetitlig	ADJ	acceptable.a.01.118965
+appetit	NOUN	appetite.n.01.385882
+arbejde	NOUN	employment.n.02.165201	labor.n.02.167636	oeuvre.n.01.324914	work.n.01.164842	workplace.n.01.336567
+arbejderklasse	NOUN	labor.n.01.396913
+arbejder	NOUN	laborer.n.01.426669	worker.n.01.415549	worker.n.03.265978
+arbejde	VERB	work.v.02.278166
+arbejdsbi	NOUN	worker_bee.n.01.265997
+arbejdsbord	NOUN	worktable.n.01.336590
+arbejdsdag	NOUN	workday.n.02.500711
+arbejdsdyr	NOUN	work_animal.n.01.211234
+arbejdsfælle	NOUN	colleague.n.01.420603
+arbejdsgiver	NOUN	employer.n.01.422909
+arbejdskollega	NOUN	colleague.n.01.420604
+arbejdsløshed	NOUN	unemployment.n.01.482635
+arbejdsplads	NOUN	workplace.n.01.336568
+arbejdsredskab	NOUN	tool.n.01.334230
+arbejdsrum	NOUN	study.n.05.332605
+arbejdssted	NOUN	workplace.n.01.336569
+arbejdstid	NOUN	work_time.n.01.500286
+arbejdsuge	NOUN	workweek.n.01.500698
+arbejdsværelse	NOUN	study.n.05.332606
+arena	NOUN	arena.n.02.401227
+åre	NOUN	vein.n.01.351401
+århundrede	NOUN	century.n.01.502093
+arkæologisk	ADJ	archaeological.a.01.292903
+arkitekt	NOUN	architect.n.01.418021
+arkitektur	NOUN	architecture.n.02.362331
+arkiv	NOUN	archive.n.01.299444
+arkivskab	NOUN	file.n.03.316684
+ark	NOUN	sheet.n.02.363888
+årlig	ADJ	annual.s.02.249501
+arm	NOUN	arm.n.01.353369
+år	NOUN	year.n.01.502064	year.n.02.502075
+arrig	ADJ	angry.a.01.128554
+arrogant	ADJ	arrogant.s.01.244746
+årsag	NOUN	causal_agent.n.01.118119	reason.n.02.372248
+årsdag	NOUN	anniversary.n.01.502867
+arsenal	NOUN	crowd.n.01.396961
+årstid	NOUN	season.n.02.502554
+årstidsbestemt	ADJ	seasonal.a.01.221368
+artikel	NOUN	article.n.01.364082	paper.n.05.364112
+artikulere	VERB	articulate.v.05.190386
+art	NOUN	form.n.09.396072	species.n.01.396059	type.n.01.358604
+årvågen	ADJ	alert.a.01.126678
+arve	VERB	inherit.v.01.272576
+arving	NOUN	heir.n.01.425313
+arv	NOUN	adeptness.n.01.354833
+aske	NOUN	ash.n.01.495369
+aspargeskål	NOUN	broccoli.n.02.390454
+aspekt	NOUN	aspect.n.01.358830
+assistance	NOUN	aid.n.02.204624
+assurance	NOUN	indemnity.n.01.492113
+asterisk	NOUN	asterisk.n.01.374055
+asyl	NOUN	refuge.n.03.328366
+åsyn	NOUN	face.n.01.353950
+atlet	NOUN	athlete.n.01.418261
+atmosfære	NOUN	atmosphere.n.01.491862	atmosphere.n.05.409564
+atom	NOUN	atom.n.01.493325
+atomreaktor	NOUN	nuclear_reactor.n.01.324804
+attest	NOUN	certificate.n.01.367384
+auktion	NOUN	auction.n.02.126790
+autobus	NOUN	bus.n.01.306612
+automatisk	ADJ	automatic.a.01.134426
+automobil	NOUN	car.n.01.307714
+autorisere	VERB	empower.v.01.282250
+autoritet	NOUN	authority.n.02.418371	executive.n.02.396691
+autostrada	NOUN	expressway.n.01.316170
+autoværksted	NOUN	garage.n.02.318000
+avis	NOUN	newspaper.n.01.364057
+babs	NOUN	breast.n.02.353160
+baby	NOUN	baby.n.01.418425
+bacon	NOUN	bacon.n.01.389765
+badekar	NOUN	bathtub.n.01.302860
+båd	NOUN	boat.n.01.304548
+bæk	NOUN	rivulet.n.01.412403
+bælte	NOUN	belt.n.02.303482
+bæltested	NOUN	waist.n.01.353183
+bænk	NOUN	bench.n.01.303541	workbench.n.01.336536
+bærbar	NOUN	notebook.n.02.324778
+bære	VERB	bear.v.04.217559	hold.v.10.205373	transport.v.02.218606
+bær	NOUN	berry.n.01.390883	head.n.01.352868
+bagdel	NOUN	buttocks.n.01.353275
+bage	VERB	bake.v.02.231536
+baggrund	NOUN	background.n.01.343352	background.n.02.360333
+bag	NOUN	buttocks.n.01.353272	pastry.n.02.389052
+bagperron	NOUN	buttocks.n.01.353276
+bagside	NOUN	disadvantage.n.01.347935	rear.n.05.328183
+bagværk	NOUN	pastry.n.02.389053
+bakkedrag	NOUN	ridge.n.04.412342
+bakke	NOUN	hill.n.01.410902	tray.n.01.334609
+balance	NOUN	balance.n.01.483532	balance.n.02.473255	proportion.n.05.346261
+balancere	VERB	balance.v.01.295025
+balkon	NOUN	balcony.n.02.301831
+ballet	NOUN	ballet.n.01.162478
+ballon	NOUN	balloon.n.02.301967
+bal	NOUN	ball.n.04.398099
+bamse	NOUN	bear.n.01.261003	teddy.n.01.333422
+banan	NOUN	banana.n.02.391105
+bandage	NOUN	dressing.n.04.315085
+båndkassette	NOUN	cassette.n.01.308380
+båndmål	NOUN	tape.n.04.333302
+band	NOUN	band.n.02.398015
+bånd	NOUN	ribbon.n.04.328638	tape.n.02.333299
+bane	NOUN	playing_field.n.02.402325	racetrack.n.01.327862	range.n.05.328089
+bange	ADJ	afraid.a.01.125398
+banke	VERB	knock.v.02.216626	pulsate.v.01.243843
+bank	NOUN	depository_financial_institution.n.01.400296
+barbere	VERB	shave.v.01.121207
+bark	NOUN	bark.n.01.469119
+barm	NOUN	breast.n.02.353153
+barndom	NOUN	childhood.n.01.500929
+barnealder	NOUN	childhood.n.01.500930
+barnekammer	NOUN	nursery.n.01.324831
+barneværelse	NOUN	nursery.n.01.324832
+barnevogn	NOUN	baby_buggy.n.01.301315
+barnlig	ADJ	childish.s.01.221254
+barn	NOUN	child.n.02.420258
+bar	NOUN	barroom.n.01.302446
+barre	NOUN	bar.n.13.302229
+baseballkamp	NOUN	baseball.n.01.158866
+basis	NOUN	basis.n.02.357564	evidence.n.01.358240	foundation.n.01.479128
+basketball	NOUN	basketball.n.01.159476
+bås	NOUN	booth.n.02.305046
+bassin	NOUN	reservoir.n.02.328508
+batteri	NOUN	battery.n.02.302931	breast.n.02.353155
+bearbejde	VERB	work.v.05.231844
+beboelse	NOUN	housing.n.01.320298
+beboer	NOUN	resident.n.01.431474
+bebrejde	VERB	blame.v.01.181634
+bede	VERB	pray.v.01.176285	request.v.01.175746
+bed	NOUN	bed.n.02.303210	plot.n.02.403854
+bedømmelse	NOUN	judgment.n.04.357480
+bedømmer	NOUN	reviewer.n.01.431509
+bedømme	VERB	measure.v.04.171146
+bedrager	NOUN	imposter.n.01.425978
+bedrage	VERB	deceive.v.02.182450
+bedrøvelse	NOUN	agony.n.01.386185	despair.n.02.387542	pain.n.02.386142	sadness.n.01.387314
+bedrøvet	ADJ	sad.a.01.213563
+bedstefar	NOUN	grandfather.n.01.424727
+bedstemor	NOUN	grandma.n.01.424745
+bedste	NOUN	grandfather.n.01.424728
+befale	VERB	command.v.02.175655
+befolkning	NOUN	population.n.01.396901
+befordringsmiddel	NOUN	vehicle.n.01.335312
+befri	VERB	relieve.v.08.272420
+begejstring	NOUN	enthusiasm.n.03.355376
+begivenhed	NOUN	social_event.n.01.381685
+begrænset	ADJ	limited.a.01.216668	restricted.a.01.251982
+begrænse	VERB	restrict.v.02.284349	restrict.v.03.138750
+begravelse	NOUN	burial.n.01.385174	funeral.n.01.385159
+begrave	VERB	bury.v.03.206651
+begreb	NOUN	concept.n.01.358497
+begunstige	VERB	prefer.v.03.277509
+begyndelse	NOUN	beginning.n.02.503122	beginning.n.03.359114	start.n.01.382585
+begyndelsesbogstav	NOUN	initial.n.01.374081
+begynde	VERB	begin.v.03.148040
+behagelig	ADJ	pleasant.a.01.239086
+behag	NOUN	satisfaction.n.01.387289
+behandle	VERB	cover.v.05.193721	treat.v.01.284709	treat.v.03.125502
+behandling	NOUN	discussion.n.01.378712	processing.n.01.475134	treatment.n.01.169898	treatment.n.02.200177
+behjælpelig	ADJ	helpful.a.01.203847
+beholder	NOUN	vessel.n.03.335421
+beholde	VERB	keep.v.03.265567
+behøve	VERB	want.v.02.203446
+behov	NOUN	need.n.01.490261
+bekendt	NOUN	acquaintance.n.02.481816	acquaintance.n.03.417281
+bekendtskab	NOUN	acquaintance.n.01.358080
+beklædning	NOUN	apparel.n.01.298951
+bekostelig	NOUN	soul.n.04.187530
+bekrige	VERB	war.v.01.197591
+bekvem	ADJ	comfortable.a.01.159175
+bekvemmelig	ADJ	comfortable.a.01.159176
+bekymre sig	VERB	care.v.01.240690	worry.v.01.236886
+bekymre	VERB	tense.v.04.119740
+bekymring	NOUN	concern.n.02.387093	worry.n.02.387067
+belejring	NOUN	siege.n.01.196419
+beliggenhed	NOUN	orientation.n.03.479885
+belønne	VERB	reward.v.03.274340
+belønning	NOUN	recompense.n.01.471063
+bemærke	VERB	notice.v.02.259956
+bemærkning	NOUN	remark.n.02.356267
+bemaling	NOUN	paint.n.01.325421
+benådning	NOUN	pardon.n.02.368703
+benklæder	NOUN	trouser.n.02.334806
+ben	NOUN	bone.n.01.349521
+benytte	VERB	practice.v.04.287940
+benzin	NOUN	gasoline.n.01.494232
+beredskab	NOUN	readiness.n.01.484034
+beregning	NOUN	calculation.n.02.357750	calculation.n.03.357641
+beretning	NOUN	explanation.n.01.372229
+berolige	VERB	calm.v.01.236758
+berømmelse	NOUN	fame.n.01.489895
+berømt	ADJ	glorious.a.01.199276
+berømthed	NOUN	fame.n.01.489894
+berøre	VERB	touch.v.01.204512
+berøring	NOUN	contact.n.08.381528	touch.n.02.355076
+besætning	NOUN	crew.n.01.398345	livestock.n.01.244507
+besættelse	NOUN	occupation.n.02.200055
+bese	VERB	watch.v.04.260743
+besiddelse	NOUN	ownership.n.01.470167	possession.n.02.120609	property.n.01.470220
+besidder	NOUN	owner.n.02.429335
+besidde	VERB	possess.v.01.292495
+beskaffenhed	NOUN	physical_property.n.01.345110	property.n.02.343307	property.n.04.358799	quality.n.01.339072	thing.n.09.336806
+besked	NOUN	message.n.01.363856
+beskidt	ADJ	dirty.a.01.154471	dirty.a.02.154967
+beskrive	VERB	describe.v.01.190887
+beskuer	NOUN	perceiver.n.01.415459
+beskue	VERB	watch.v.04.260742
+beskyttelse	NOUN	protection.n.01.180246
+beskytte	VERB	protect.v.01.199723
+beslaglægge	VERB	impound.v.01.270027
+beslutning	NOUN	settlement.n.05.357464
+beslutte	VERB	decide.v.01.172149
+besøge	VERB	travel_to.v.01.241901
+besøg	NOUN	call.n.06.195101	visit.n.01.206543
+bestalling	NOUN	license.n.01.368647	permission.n.01.371181
+bestå	VERB	pass.v.14.285419
+bestik	NOUN	flatware.n.02.317082
+bestilling	NOUN	order.n.13.381537
+bestride	VERB	challenge.v.01.183352
+bestyrelse	NOUN	board.n.01.399023
+bestyrelsesmedlem	NOUN	director.n.02.422250
+bestyrer	NOUN	director.n.01.422240
+bestyrke	VERB	better.v.02.136358	enhance.v.02.138473	reform.v.05.141569
+besværlighed	NOUN	difficulty.n.04.338813
+besvime	VERB	faint.v.01.119600
+betænke	VERB	remember.v.04.275071
+betale	VERB	pay.v.01.268661
+betaling	NOUN	payment.n.01.470998	payment.n.02.199243
+betingelse	NOUN	condition.n.02.372559	condition.n.07.372959
+betjent	NOUN	bull.n.05.419497	policeman.n.01.430219
+betle	VERB	beg.v.03.269855
+beton	NOUN	concrete.n.01.496113
+betragte	VERB	watch.v.04.260741
+betyde	VERB	mean.v.03.187445
+betydning	NOUN	meaning.n.01.369339	sense.n.02.369351
+beundre	VERB	admire.v.01.241045
+beundring	NOUN	admiration.n.01.386309
+bevægelig	ADJ	mobile.a.02.222956
+bevægelse	NOUN	motion.n.03.146537	motion.n.06.142698	movement.n.03.382229	movement.n.04.400794
+bevæge sig	VERB	move.v.03.241318
+bevæge	VERB	move.v.11.237170
+bevarelse	NOUN	conservation.n.02.180359	preservation.n.02.492752
+bevare	VERB	prolong.v.02.295547
+bevidst	ADJ	conscious.a.02.164653
+bevidsthed	NOUN	consciousness.n.01.355445
+bevidstløshed	NOUN	unconsciousness.n.01.355504
+bevilling	NOUN	grant.n.01.470726
+bevirke	VERB	arouse.v.01.236465	suggest.v.05.187350
+bevise	VERB	prove.v.02.170197
+bevis	NOUN	proof.n.01.358263
+bevogter	NOUN	guard.n.01.424915	lookout.n.01.427164	ward.n.03.335711	watchman.n.01.435910
+bevogte	VERB	guard.v.02.199801
+bibel	NOUN	bible.n.01.366814
+bide	VERB	bite.v.01.218324
+bidrag	NOUN	contribution.n.03.197376
+bifald	NOUN	hand.n.12.371262
+bif	NOUN	cinema.n.02.310046
+bilag	NOUN	appendix.n.01.366050
+bilist	NOUN	motorist.n.01.428385
+billede	NOUN	image.n.01.360236	photograph.n.01.326222
+billedstof	NOUN	illustration.n.04.320520
+billedstøtte	NOUN	statue.n.01.332012
+billedtekst	NOUN	caption.n.03.365208
+billet	NOUN	ticket.n.01.368194	ticket.n.03.368786
+billetpris	NOUN	fare.n.02.471584
+billig	ADJ	cheap.a.01.187624
+bil	NOUN	car.n.01.307713
+binde	VERB	bind.v.03.210554
+bind	NOUN	dressing.n.04.315084	volume.n.04.366421
+bi	NOUN	bee.n.01.265924
+biografi	NOUN	biography.n.01.368120
+biograf	NOUN	cinema.n.02.310044
+biografteater	NOUN	cinema.n.02.310047
+biskop	NOUN	bishop.n.01.419021
+bisp	NOUN	bishop.n.01.419022
+bisse	NOUN	tooth.n.01.349705
+bitter	ADJ	acrimonious.s.01.128778
+bjæffe	VERB	bark.v.04.194564
+bjælke	NOUN	beam.n.02.303121
+bjergkæde	NOUN	range.n.04.412262
+bjerg	NOUN	mountain.n.01.411650
+bjørn	NOUN	bear.n.01.261002
+blad	NOUN	blade.n.09.304205	leaf.n.01.469005	magazine.n.02.322890
+blæseinstrument	NOUN	wind_instrument.n.01.336321
+blæser	NOUN	wind_instrument.n.01.336322
+blæst	ADJ	stupid.a.01.156594
+blande	VERB	blend.v.03.152277	shuffle.v.03.216883
+blank	ADJ	blank.s.01.197221
+blik	NOUN	gaze.n.01.183920
+blind	ADJ	blind.a.01.262805
+blindtarm	NOUN	appendix.n.02.352840
+blinke	VERB	flash.v.01.262850
+blitz	NOUN	flash.n.10.317018
+blive	VERB	become.v.02.292027	persist.v.03.299184	stay.v.02.242615
+blød	ADJ	soft.a.01.201370
+blodåre	NOUN	vein.n.01.351403
+bløddyr	NOUN	mollusk.n.01.247657
+bløde	VERB	shed_blood.v.02.125119
+blødgøre	VERB	smooth.v.01.207877
+blodig	ADJ	bloody.a.01.139933
+blodkar	NOUN	vein.n.01.351402
+blod	NOUN	blood.n.01.351149
+blodsudgydelse	NOUN	bloodshed.n.01.137735
+blød	VERB	tug.v.03.218861
+blokere	VERB	obstruct.v.01.287632
+blok	NOUN	slab.n.01.330888
+blomst	NOUN	flower.n.01.448990
+blomstre	VERB	shine.v.04.299334	thrive.v.02.274209
+blond	ADJ	blond.a.01.139614
+blyant	NOUN	pencil.n.01.325971
+bly	NOUN	lead.n.02.493640
+boble	NOUN	bubble.n.01.409878
+bodyguard	NOUN	bodyguard.n.02.397432
+bøf	NOUN	steak.n.01.389572
+bog	NOUN	book.n.01.366338	book.n.02.304891
+bogstav	NOUN	letter.n.02.374065
+bøje	VERB	flex.v.04.209374	flex.v.05.209321
+bold	NOUN	ball.n.01.301868	head.n.01.352867
+bølgegang	NOUN	wave.n.01.383137
+bølge	NOUN	wave.n.01.383135
+bolig	NOUN	housing.n.01.320293
+bolle	NOUN	bun.n.01.389920
+bolt	NOUN	bolt.n.06.304761
+bombefly	NOUN	bomber.n.01.304818
+bombemand	NOUN	bomber.n.02.419144
+bombemaskine	NOUN	bomber.n.01.304819
+bombe	NOUN	bomb.n.01.304795
+bommert	NOUN	faux_pas.n.01.125266
+bomuld	NOUN	cotton.n.02.312432
+bondegård	NOUN	farm.n.01.316403
+bonde	NOUN	farmer.n.01.423343	peasant.n.02.429705
+bønne	NOUN	bean.n.01.390594
+bo	NOUN	estate.n.01.470347
+bonus	NOUN	dividend.n.03.470909
+bopæl	NOUN	dwelling.n.01.315433	residence.n.01.402089
+bord	NOUN	table.n.02.333114	table.n.03.333119
+borgmester	NOUN	mayor.n.01.427827
+børneværelse	NOUN	nursery.n.01.324833
+bor	NOUN	drill.n.01.315129
+børste	NOUN	brush.n.02.306146
+børste	VERB	brush.v.01.207290
+bortgemme	VERB	hide.v.01.261836	obscure.v.01.262739
+bosættelse	NOUN	colony.n.01.399595
+bosætte sig	VERB	settle.v.09.163006
+boss	NOUN	director.n.01.422242
+bøtte	NOUN	bin.n.01.303924	head.n.01.352872
+brækfornemmelse	NOUN	nausea.n.01.488407
+brænde	VERB	bite.v.02.260132	burn.v.05.301028
+brændstof	NOUN	fuel.n.01.496955
+bræt	NOUN	board.n.09.304509
+brag	NOUN	bang.n.02.383650
+brandmand	NOUN	fireman.n.04.423590
+brandsår	NOUN	burn.n.03.487430
+brandslukker	NOUN	fireman.n.04.423592
+brandsvend	NOUN	fireman.n.04.423591
+bredde	NOUN	width.n.01.347302
+bred	NOUN	shore.n.01.412652
+bremse	NOUN	brake.n.01.305551
+brev	NOUN	letter.n.01.369849	packet.n.03.325363
+brille	NOUN	spectacles.n.01.331491
+briller	NOUN	spectacles.n.01.331492
+bringe	VERB	bring.v.01.257336
+brise	NOUN	breeze.n.01.446332
+briste	VERB	burst.v.08.146624
+broccoli	NOUN	broccoli.n.02.390453
+brochure	NOUN	booklet.n.01.366440
+brød	NOUN	bread.n.01.389903	pastry.n.02.389054
+brøk	NOUN	fraction.n.03.477929
+brøle	VERB	bellow.v.02.194645
+brønd	NOUN	well.n.01.336079
+bro	NOUN	bridge.n.01.305858
+bronze	NOUN	bronze.n.02.306093
+bropille	NOUN	pier.n.03.326348
+brormand	NOUN	brother.n.01.419414
+bror	NOUN	brother.n.01.419413	brother.n.05.419434
+brudlinje	NOUN	boundary_line.n.01.401540
+brud	NOUN	bride.n.03.419378	fracture.n.01.487464	misdemeanor.n.01.176843	violation.n.02.176925
+brudstykke	NOUN	fragment.n.01.410656
+bruger	NOUN	user.n.01.435329
+bruge	VERB	practice.v.04.287939
+brug	NOUN	function.n.02.347587	habit.n.02.154019
+brun	ADJ	brown.s.01.150253
+brusebad	NOUN	shower.n.01.330486
+brutalitet	NOUN	cruelty.n.02.386485
+bryde ’ind	VERB	break_in.v.01.288647
+bryde ’sammen	VERB	collapse.v.01.250923	die.v.09.162922
+bryde sig om	VERB	like.v.03.237535
+brydes	VERB	wrestle.v.04.221954
+bryggerivirksomhed	NOUN	brewery.n.01.305802
+bryllup	NOUN	wedding.n.01.385182
+bryst	NOUN	breast.n.02.353151	thorax.n.02.353111
+brystparti	NOUN	thorax.n.02.353112
+budding	NOUN	pudding.n.03.388918
+budget	NOUN	budget.n.01.473430
+bue	NOUN	arch.n.03.299386	bow.n.04.305233
+buffet	NOUN	buffet.n.02.388355
+bug	NOUN	abdomen.n.01.353218
+bugt	NOUN	bay.n.01.409664
+bukke	VERB	bow.v.03.254575
+bukser	NOUN	trouser.n.02.334804
+buks	NOUN	trouser.n.02.334805
+bule	NOUN	joint.n.02.321162
+bulletin	NOUN	bulletin.n.01.371038
+bund	NOUN	bottom.n.01.401486
+bundt	NOUN	bundle.n.02.306451
+bunke	NOUN	crowd.n.01.396960	pile.n.01.394277
+bureaukratisk	ADJ	bureaucratic.a.01.310627
+bureau	NOUN	agency.n.02.395431
+bur	NOUN	cage.n.01.307015
+busk	NOUN	shrub.n.01.468532
+bus	NOUN	bus.n.01.306610
+butik	NOUN	shop.n.01.330386
+butikscenter	NOUN	center.n.03.308841
+butikslokale	NOUN	shop.n.01.330388
+bydel	NOUN	quarter.n.02.403207	vicinity.n.01.403336
+byde	VERB	offer.v.07.271605
+byge	NOUN	shower.n.03.447334
+bygge	VERB	manufacture.v.01.230892	raise.v.09.231353
+bygning	NOUN	building.n.01.306291
+bygningskunst	NOUN	architecture.n.02.362332
+byld	NOUN	head.n.01.352873
+bylt	NOUN	pack.n.09.325346
+by	NOUN	city.n.01.401760	town.n.01.403794
+bytte	NOUN	barter.n.01.198506	loot.n.01.470627	prey.n.02.262359
+café	NOUN	cafe.n.01.306976
+cancer	NOUN	cancer.n.01.486812
+cand.jur.	NOUN	lawyer.n.01.426832
+cand.med.	NOUN	doctor.n.01.422339
+cand.psych.	NOUN	psychologist.n.01.430915
+cash	NOUN	cash.n.01.472857
+caste	VERB	cast.v.03.233845
+celle	NOUN	cell.n.02.118055	cell.n.07.308766
+censur	NOUN	censoring.n.02.152501
+center	NOUN	center.n.03.308840
+central	ADJ	central.a.02.146376
+centrum	NOUN	center.n.04.401693
+ceremoni	NOUN	ceremony.n.01.385137
+chance	NOUN	risk.n.02.179219
+charter	NOUN	charter.n.01.367402
+chauffør	NOUN	driver.n.01.422550
+chauvinist	NOUN	chauvinist.n.01.420175
+check	NOUN	check.n.01.472742
+chef	NOUN	administrator.n.03.417378
+chimpanse	NOUN	pan.n.04.282606
+chip	NOUN	chip.n.07.309669
+chips	NOUN	chip.n.04.390410
+chokere	VERB	disturb.v.01.237086	shock.v.02.239872
+chok	NOUN	daze.n.01.386665
+chokolade	NOUN	chocolate.n.02.388773
+cigaret	NOUN	cigarette.n.01.309974
+cirkel	NOUN	circle.n.01.480710
+cirkulation	NOUN	circulation.n.02.446444
+citat	NOUN	quotation.n.02.369638
+citere	VERB	quote.v.01.193097
+citron	NOUN	lemon.n.01.391014
+civil	ADJ	civilian.a.01.222694
+civilisation	NOUN	civilization.n.01.396083
+computer	NOUN	computer.n.01.311531
+computerprogram	NOUN	program.n.07.368891
+cowboybukser	NOUN	jean.n.01.321053
+creme	NOUN	cream.n.03.312842
+culpa	NOUN	guilt.n.01.483305
+cykel	NOUN	bicycle.n.01.303753
+cyklus	NOUN	cycle.n.03.382956
+cylinder	NOUN	cylinder.n.01.480552
+daddel	NOUN	date.n.08.391276
+dække	NOUN	protective_covering.n.01.327505	screen.n.04.329601
+dække	VERB	cover.v.01.212136
+dækning	NOUN	coverage.n.01.472147
+dæk	NOUN	tire.n.01.334039
+dagbog	NOUN	diary.n.01.366115
+dagbrækning	NOUN	dawn.n.01.501397
+daggry	NOUN	dawn.n.01.501394
+daglig	ADJ	daily.s.01.249415
+dagning	NOUN	dawn.n.01.501396
+dag	NOUN	day.n.01.501080
+dagslys	NOUN	daylight.n.02.446518
+dagsorden	NOUN	agenda.n.02.367566
+dal	NOUN	valley.n.01.413185
+damemenneske	NOUN	lady.n.01.426699	woman.n.01.436271
+dame	NOUN	lady.n.01.426694	woman.n.01.436267
+damper	NOUN	steamer.n.03.332052
+damp	NOUN	steam.n.01.499459	vapor.n.01.499471
+dampskib	NOUN	steamer.n.03.332053
+danne	VERB	form.v.01.280717	shape.v.02.231261
+danse	VERB	dance.v.02.233777
+dårlig	ADJ	bad.s.04.196063	bad.s.07.274457	bad.s.12.199987
+dåse	NOUN	can.n.01.307349
+datalogi	NOUN	computer_science.n.01.362385
+datamaskine	NOUN	computer.n.01.311533
+datamat	NOUN	computer.n.01.311532
+date	NOUN	date.n.02.421799
+dato	NOUN	date.n.01.501137
+datter	NOUN	daughter.n.01.421804
+davre	NOUN	breakfast.n.01.388293
+debattere	VERB	debate.v.03.179939
+definere	VERB	define.v.02.188995
+dej	NOUN	dough.n.01.392775
+dekoration	NOUN	stage_set.n.01.331867
+dekorativ	ADJ	cosmetic.s.01.197472
+delegation	NOUN	deputation.n.01.400037
+dele	VERB	divide.v.01.281934	share.v.02.271426	share.v.05.195685
+delfin	NOUN	dolphin.n.02.256629
+del	NOUN	batch.n.02.478803	part.n.01.479476	piece.n.01.326326	section.n.04.329864
+delstat	NOUN	state.n.01.403648
+deltagelse	NOUN	concern.n.03.386450
+deltager	NOUN	participant.n.01.429517
+deltage	VERB	participate.v.01.280876
+deltids	ADJ	part-time.a.01.197349
+demokratisk	ADJ	democratic.a.01.173233
+demonstrere	VERB	demonstrate.v.04.285195	show.v.01.262126
+de nedre regioner	NOUN	reproductive_organ.n.01.352508
+den øverste etage	NOUN	brain.n.01.352146
+designer	NOUN	interior_designer.n.01.426154
+designe	VERB	design.v.04.229819
+dessert	NOUN	dessert.n.01.388884
+detalje	NOUN	detail.n.02.479492
+detektor	NOUN	detector.n.01.314108
+diæt	NOUN	diet.n.04.196123
+diagnose	NOUN	diagnosis.n.01.131644
+diagram	NOUN	diagram.n.01.314181
+dialekt	NOUN	dialect.n.01.379060
+dialog	NOUN	dialogue.n.01.378668	dialogue.n.02.376758
+diamant	NOUN	diamond.n.01.472586
+diameter	NOUN	diameter.n.02.480667
+digital	ADJ	digital.a.01.297939
+digt	NOUN	poem.n.01.365704
+diktere	VERB	dictate.v.02.168120
+dilemma	NOUN	dilemma.n.01.355615
+dimension	NOUN	dimension.n.01.346523
+diplomatisk	ADJ	diplomatic.a.02.176130
+diplomat	NOUN	diplomat.n.01.422232
+direkte	ADJ	direct.a.01.176319	express.s.02.190357
+direktør	NOUN	president.n.01.430489	president.n.04.430506
+dirigent	NOUN	conductor.n.01.420827
+disciplin	NOUN	science.n.01.361318
+disk	NOUN	counter.n.01.312473
+disko	NOUN	disco.n.02.314498
+diskotek	NOUN	disco.n.02.314497
+diskret	ADJ	discreet.a.01.177072
+diskrimination	NOUN	discrimination.n.01.201449
+diskriminere	VERB	discriminate.v.02.284584
+diskutere	VERB	hash_out.v.01.180031
+dispensation	NOUN	exemption.n.03.137028
+disposition	NOUN	outline.n.02.367281
+disputere	VERB	hash_out.v.01.180032
+distance	NOUN	distance.n.01.346365	distance.n.04.386473
+distrikt	NOUN	district.n.01.401975	precinct.n.01.401772	ward.n.02.403817
+divergens	NOUN	disagreement.n.01.483038
+division	NOUN	division.n.01.397391	division.n.11.183440
+dobbeltgænger	NOUN	double.n.03.422452
+død	ADJ	inanimate.a.02.128890
+dødelig	ADJ	deadly.s.02.191259
+døgn	NOUN	day.n.01.501081
+doktor	NOUN	doctor.n.04.422352
+dokumentere	VERB	document.v.01.191692
+dokument	NOUN	document.n.01.367365	record.n.07.473158
+dollarseddel	NOUN	dollar.n.02.473027
+domicil	NOUN	housing.n.01.320297
+dominans	NOUN	preponderance.n.02.347081
+dommer	NOUN	judge.n.01.426416	referee.n.01.431335
+dømme	VERB	convict.v.01.185703
+dom	NOUN	conviction.n.02.203493	judgment.n.03.203398
+domstol	NOUN	court.n.01.399094
+donere	VERB	donate.v.01.269355
+donor	NOUN	donor.n.02.422429
+dør	NOUN	door.n.01.314788
+dørplade	NOUN	door.n.01.314789
+dørtærskel	NOUN	doorsill.n.01.314838
+dørtrin	NOUN	doorsill.n.01.314837
+dosis	NOUN	dose.n.01.314880
+dotere	VERB	donate.v.01.269356
+douche	NOUN	shower.n.01.330487
+døv	ADJ	deaf.a.01.171187
+doven	ADJ	faineant.s.01.143807
+dø	VERB	die.v.01.148962	die.v.02.259432
+drabant	NOUN	satellite.n.01.329356
+dræbe	VERB	kill.v.01.211678
+drage	NOUN	dragon.n.01.413536	kite.n.03.321506
+drager	NOUN	porter.n.01.430309
+dragt	NOUN	costume.n.01.312384
+drama	NOUN	drama.n.02.381732	play.n.01.376715
+dramatisk	ADJ	dramatic.a.03.298049
+dreje	VERB	turn.v.09.258550
+drejning	NOUN	bend.n.01.480612
+dreng	NOUN	male_child.n.01.427487
+dress	NOUN	outfit.n.02.325194
+drikkelse	NOUN	beverage.n.01.393042
+drikkepenge	NOUN	gratuity.n.01.471406
+drikkevare	NOUN	beverage.n.01.393043
+drikke	VERB	drink.v.01.202415
+drik	NOUN	beverage.n.01.393041
+drille	VERB	tease.v.02.182162	tease.v.08.182296
+drive	NOUN	drive.n.05.341220
+drivhus	NOUN	greenhouse.n.01.318699
+drivkraft	NOUN	incentive.n.01.409144
+drivværk	NOUN	incentive.n.01.409143
+drømmeri	NOUN	reverie.n.02.356039
+drøm	NOUN	ambition.n.01.385832	dream.n.01.357131
+dronning	NOUN	queen.n.01.272430	queen.n.02.431094
+droppe	VERB	dump.v.02.266919
+drosche	NOUN	cab.n.03.306816
+drøvtygger	NOUN	ruminant.n.01.277454
+druevin	NOUN	wine.n.01.393192
+drug	NOUN	drug.n.01.315236
+drukne	VERB	drown.v.03.149194
+druk	NOUN	drink.n.02.175344
+dryppe	VERB	dribble.v.02.228095
+due	NOUN	pigeon.n.01.239980
+dukke	NOUN	doll.n.01.314738
+dum	ADJ	stupid.a.01.156593
+dumdristig	ADJ	foolhardy.s.01.140302
+dusin	NOUN	twelve.n.01.478233
+dusør	NOUN	reward.n.04.379239
+dyb	ADJ	deep.a.03.171702
+dyd	NOUN	virtue.n.04.341530
+dygtig	ADJ	skilled.a.01.266973
+dygtighed	NOUN	competence.n.01.347709	skillfulness.n.01.354800	skill.n.01.354727
+dygtig	NOUN	jinks.n.01.161435
+dykke	VERB	dive.v.02.249055
+dynamisk	ADJ	dynamic.a.01.179690
+dyne	NOUN	blanket.n.01.304237
+dyreart	NOUN	animal.n.01.118803
+dyreinternat	NOUN	pound.n.13.327224
+dyreliv	NOUN	wildlife.n.01.394715
+dyrespor	NOUN	slot.n.05.412733
+dyreunge	NOUN	young_mammal.n.01.211547	young.n.01.211535
+dyr	NOUN	animal.n.01.118801	soul.n.04.187529
+dyt	NOUN	car.n.01.307715
+edb-maskine	NOUN	computer.n.01.311535
+edb-program	NOUN	software.n.01.368851
+edderkop	NOUN	spider.n.01.237215
+effektiv	ADJ	effective.a.01.181184	efficient.a.01.181473
+effekt	NOUN	object.n.01.117724	thing.n.08.333815
+efterabe	VERB	imitate.v.01.235480
+efterår	NOUN	fall.n.01.502560
+efterlade	VERB	bequeath.v.01.267198	leave.v.12.149164
+efterligne	VERB	imitate.v.01.235481
+eftermiddag	NOUN	afternoon.n.01.501290
+efterretningstjeneste	NOUN	intelligence.n.02.399177
+efterretningsvæsen	NOUN	intelligence.n.02.399176
+efterret	NOUN	dessert.n.01.388885
+eftersøgning	NOUN	search.n.04.357170
+eftertanke	NOUN	consideration.n.01.357406
+egenskab	NOUN	physical_property.n.01.345109	property.n.02.343306	property.n.04.358798	quality.n.01.339071	thing.n.09.336805
+eg	NOUN	oak.n.02.456531
+egoisme	NOUN	ego.n.01.386606
+ejendommelig	ADJ	odd.a.01.186262
+ejendom	NOUN	estate.n.02.470258	house.n.01.320246	ownership.n.01.470165	place.n.02.401554	possession.n.02.120608	property.n.01.470218
+eje	NOUN	ownership.n.01.470166	possession.n.02.120607	property.n.01.470219
+ejermand	NOUN	owner.n.02.429336
+ejer	NOUN	owner.n.02.429334
+ekko	NOUN	echo.n.01.345125
+eksamen	NOUN	examination.n.02.379920
+eksempel	NOUN	example.n.01.358183
+eksercits	NOUN	drill.n.04.184942
+eksklusiv	ADJ	exclusive.a.02.242868
+eksotisk	ADJ	alien.s.02.193813	exotic.s.02.189785
+ekspedition	NOUN	expedition.n.02.400144
+eksperimentel	ADJ	experimental.a.01.307136
+ekspertise	NOUN	expertness.n.01.354805
+ekspert	NOUN	expert.n.01.415296
+eksplicit	ADJ	explicit.a.01.188016
+eksplodere	VERB	explode.v.03.173447
+eksplosion	NOUN	blast.n.04.384251	explosion.n.01.382199
+eksportere	VERB	export.v.01.274506
+ekstern	ADJ	external.a.01.188484
+ekstraordinær	ADJ	extraordinary.a.01.232210
+elefantastisk	ADJ	distinguished.s.01.209210
+elefant	NOUN	elephant.n.01.283956
+elegant	ADJ	elegant.a.01.182077
+elektricitet	NOUN	electricity.n.01.446614
+elektrisk pære	NOUN	light_bulb.n.01.322270
+elektrisk strøm	NOUN	current.n.01.446510
+elektronhjerne	NOUN	computer.n.01.311534
+elektronik	NOUN	electronics.n.01.362083
+elektronisk	ADJ	electronic.a.01.298307
+elektron	NOUN	electron.n.01.410483
+element	NOUN	component.n.03.311477	panel.n.01.325540
+elende	NOUN	misery.n.01.490239
+elendighed	NOUN	misery.n.01.490240
+elevator	NOUN	elevator.n.01.315747
+elev	NOUN	schoolchild.n.01.432089	student.n.01.433920
+elfenben	NOUN	ivory.n.01.495138
+elite	NOUN	elite.n.01.399769
+el	NOUN	electricity.n.01.446616
+elokvent	ADJ	eloquent.s.01.131407
+elpære	NOUN	light_bulb.n.01.322269
+elske	VERB	like.v.03.237529	love.v.03.237439
+elskovsaffære	NOUN	affair.n.02.481906
+emne	NOUN	subject.n.01.369313
+empirisk	ADJ	empirical.a.01.182771
+endelig	ADJ	terminal.a.03.192601
+ende	NOUN	buttocks.n.01.353271	end.n.09.402214
+energi	NOUN	energy.n.02.345565
+engel	NOUN	angel.n.01.414203
+engelsk mil	NOUN	mile.n.03.478872
+eng	NOUN	hayfield.n.01.402320	pasture.n.01.402979
+enhed	NOUN	unit.n.03.397158	unit_of_measurement.n.01.475683
+enkeltstat	NOUN	state.n.01.403649
+enke	NOUN	widow.n.01.436090
+ens	ADJ	even.a.01.186254
+entusiastisk	ADJ	enthusiastic.a.01.184405
+epistel	NOUN	letter.n.01.369850
+epoke	NOUN	era.n.01.502839
+erfaren	ADJ	experienced.a.01.187682
+erfaring	NOUN	experience.n.01.356995
+erhvervsmæssig	ADJ	occupational.a.01.305710
+erindring	NOUN	memory.n.01.360367
+erklære	VERB	proclaim.v.02.190330
+erklæring	NOUN	announcement.n.01.372040	statement.n.01.371964
+erstatte	VERB	replace.v.01.132769	substitute.v.01.269009
+eskalere	VERB	escalate.v.01.143451
+essay	NOUN	essay.n.01.366284
+etableret	ADJ	established.a.01.229509
+etage	NOUN	floor.n.02.317153
+etik	NOUN	ethics.n.02.362655
+etisk	ADJ	ethical.a.02.185644
+etnisk	ADJ	cultural.s.02.268490
+eventyr	NOUN	adventure.n.01.178751
+evig	ADJ	ageless.s.01.236237
+evne	NOUN	ability.n.01.348505
+fabrik	NOUN	factory.n.01.316300	plant.n.01.326685	system.n.01.333092
+facade	NOUN	facade.n.01.316248
+facilitet	NOUN	facility.n.01.316281
+fad	NOUN	dish.n.01.314510
+fæhoved	NOUN	fool.n.01.423762
+fælde	NOUN	trap.n.01.334569
+fælles	ADJ	common.a.01.160275	common.s.03.262337	joint.a.01.259563
+fællesfølelse	NOUN	solidarity.n.01.339865
+fængsel	NOUN	prison.n.01.327373	prison.n.02.482040
+fængsle	VERB	imprison.v.01.283383
+fænomen	NOUN	phenomenon.n.01.120835
+fæ	NOUN	cattle.n.01.277665	fool.n.01.423761
+færdig	ADJ	finished.a.02.191782	ready.a.01.247214
+færdighed	NOUN	skill.n.01.354728
+færge	NOUN	ferry.n.01.316551
+fæstne	VERB	fasten.v.01.212529
+fagforbund	NOUN	union.n.01.397751
+fagforening	NOUN	union.n.01.397752
+faglært	NOUN	skilled_worker.n.01.432879
+fag	NOUN	craft.n.04.354744	science.n.01.361315	trade.n.02.166551
+fagområde	NOUN	science.n.01.361319
+fakkel	NOUN	torch.n.01.334285
+faktor	NOUN	factor.n.01.382649
+faktum	NOUN	fact.n.02.370196
+fakultativ	ADJ	optional.a.01.181949
+falde ’sammen	VERB	crumble.v.01.254669
+falde	VERB	fall.v.01.249780
+faldgrube	NOUN	pit.n.08.326579
+fald	NOUN	descent.n.05.410388	drop.n.06.383376	waterfall.n.01.413271
+falme	VERB	fade.v.02.154781
+falsk	ADJ	false.a.01.281597
+familiær	ADJ	related.a.02.249675
+familie	NOUN	family.n.04.394433
+fange	NOUN	prisoner.n.01.430648
+fange	VERB	capture.v.06.220439
+fan	NOUN	fan.n.03.423310
+fantasi	NOUN	illusion.n.01.360460	illusion.n.02.359597	imagination.n.02.357115
+fantastisk	ADJ	distinguished.s.01.209209
+få øje på	VERB	spy.v.03.263118
+fare	NOUN	danger.n.01.492136
+fare	VERB	scurry.v.01.245534
+farlig	ADJ	dangerous.a.01.255841
+farmand	NOUN	dad.n.01.421676	father.n.01.423387
+far	NOUN	dad.n.01.421675	father.n.01.423386
+får	NOUN	sheep.n.01.278218
+fart	NOUN	momentum.n.01.345562	pace.n.03.345956	speed.n.01.503538
+fartøj	NOUN	ship.n.01.330295	vessel.n.02.335415
+farveblind	ADJ	color-blind.s.01.262839
+farve	NOUN	color.n.08.338149
+farverig	ADJ	colorful.a.01.152969
+farvetone	NOUN	shade.n.02.344071
+fascinere	VERB	intrigue.v.01.295469
+fase	NOUN	phase.n.01.503641
+fast	ADJ	solid.a.02.269195	solid.a.03.269397
+fast ejendom	NOUN	real_property.n.01.470254
+fastsætte	VERB	decide.v.01.172151
+fåtal	NOUN	few.n.01.399807
+fatteevne	NOUN	mind.n.07.354324
+fattig	ADJ	poor.a.03.253504
+få	VERB	get.v.01.266203
+favorabel	ADJ	favorable.a.01.191339
+fax	NOUN	facsimile.n.02.316292
+feber	NOUN	fever.n.01.488518
+fed	ADJ	fat.a.01.190818
+fedt	NOUN	fat.n.01.496800	fatness.n.01.344913
+fedtstof	NOUN	fat.n.01.496801
+fejlbehæftet	ADJ	blemished.s.02.236038
+fejl	NOUN	mistake.n.01.124749
+fejltagelse	NOUN	error.n.03.359581
+fejltrin	NOUN	error.n.03.359580
+felt	NOUN	discipline.n.01.361267	science.n.01.361312
+felttog	NOUN	campaign.n.03.189725
+feminist	NOUN	feminist.n.01.423497
+femøre	NOUN	face.n.01.353952
+ferie	NOUN	vacation.n.01.500746
+feriested	NOUN	resort.n.01.403326
+ferietablet	NOUN	amphetamine.n.01.297325
+festival	NOUN	festival.n.02.161909
+festmåltid	NOUN	banquet.n.01.398106
+fest	NOUN	affair.n.03.385056	celebration.n.02.155403	party.n.02.398082	party.n.04.385061
+fiasko	NOUN	failure.n.03.490924
+fiber	NOUN	fiber.n.01.496838
+fidus	NOUN	trick.n.01.133516
+figen	NOUN	fig.n.04.391091
+figur	NOUN	diagram.n.01.314182	representation.n.02.328484
+fiktion	NOUN	fiction.n.01.365498
+filialnet	NOUN	chain.n.04.395451
+filme	VERB	film.v.02.233918
+film	NOUN	film.n.02.363990	film.n.03.316716	movie.n.01.369655
+fil	NOUN	file.n.04.316681
+filosofi	NOUN	doctrine.n.01.360515	philosophy.n.02.362652
+filosofisk	ADJ	philosophic.a.01.304546
+filosof	NOUN	philosopher.n.01.429924
+filter	NOUN	filter.n.01.316729
+fin	ADJ	delicate.a.01.172661	fine.a.05.267481
+finansiel	ADJ	fiscal.a.01.304190
+finansiere	VERB	fund.v.06.266456
+finde	VERB	think.v.01.171643
+finger	NOUN	finger.n.01.353430
+fingerring	NOUN	ring.n.08.328701
+fingervante	NOUN	glove.n.02.318380
+firkantet	ADJ	square.a.01.254782
+firma	NOUN	commercial_enterprise.n.02.197666	firm.n.01.395469	operation.n.02.197722
+fiskekød	NOUN	fish.n.02.391428
+fisker	NOUN	fisherman.n.01.423629
+fisk	NOUN	fish.n.01.284573	fish.n.02.391426
+fjæs	NOUN	face.n.01.353953
+fjeder	NOUN	spring.n.02.331729
+fjende	NOUN	enemy.n.03.394044
+fjendtlig	ADJ	hostile.a.01.207328
+fjendtlighed	NOUN	aggression.n.03.189390	hostility.n.02.482983
+fjern	ADJ	distant.a.01.157143	far.a.01.156874
+fjerner	NOUN	television_receiver.n.01.333540
+fjerne	VERB	remove.v.01.133678
+fjer	NOUN	feather.n.01.245216
+fjernsyn	NOUN	television.n.02.333518	television_receiver.n.01.333534
+fjols	NOUN	fool.n.01.423760
+fjumrehoved	NOUN	fool.n.01.423764
+flab	NOUN	mouth.n.01.349940
+flåde	NOUN	fleet.n.03.398615
+flådestation	NOUN	station.n.03.403656
+fladpande	NOUN	fool.n.01.423763
+flænge	NOUN	rip.n.02.412365
+flagermus	NOUN	bat.n.01.261526
+flag	NOUN	flag.n.01.316956
+flash	NOUN	flash.n.10.317017
+flaske	NOUN	bottle.n.01.305132
+fleksibel	ADJ	flexible.a.02.193038
+flertal	NOUN	majority.n.02.475656
+fletning	NOUN	braid.n.01.349355
+flid	NOUN	diligence.n.02.341967
+flimmerkasse	NOUN	television_receiver.n.01.333543
+flis	NOUN	bit.n.02.409755
+fløde	NOUN	cream.n.02.392559
+flod	NOUN	river.n.01.412377
+fløjl	NOUN	velvet.n.01.335329
+fløj	NOUN	annex.n.01.297975
+fløjte	VERB	whistle.v.05.194298
+flom	NOUN	flood.n.01.446665
+flotte sig	VERB	splurge.v.01.269769
+flue	NOUN	fly.n.01.264770
+flydende	ADJ	liquid.a.01.269253
+flyde ’over	VERB	spill.v.02.256687
+flyde	VERB	float.v.02.245664
+flygtning	NOUN	refugee.n.01.431353
+fly	NOUN	airplane.n.01.296406
+flyselskab	NOUN	airline.n.02.296335
+flytte	VERB	move.v.03.241317	move.v.04.242521
+flyvemaskine	NOUN	airplane.n.01.296409
+flyver	NOUN	airplane.n.01.296408
+flyveselskab	NOUN	airline.n.02.296336
+flyvetur	NOUN	flight.n.09.144295
+flyve	VERB	fly.v.01.247630	scurry.v.01.245535
+fodbold	NOUN	soccer.n.01.159271
+føde	NOUN	food.n.01.119393
+føderativ	ADJ	federal.a.04.198357
+fodgængerfelt	NOUN	crossing.n.05.313094
+fodgænger	NOUN	pedestrian.n.01.429741
+fodgængerovergang	NOUN	crossing.n.05.313095
+fod	NOUN	base.n.08.302485	foot.n.02.476621
+fødselsdag	NOUN	birthday.n.01.502870
+fold	NOUN	fold.n.01.481342
+følelse	NOUN	emotional_state.n.01.483160	emotion.n.01.385704	feeling.n.06.356223	sensation.n.01.356296	touch.n.10.356478
+følelsesbetonet	ADJ	emotional.a.01.247045
+føle	VERB	feel.v.01.237180
+følge	VERB	follow.v.01.251652
+føling	NOUN	emotional_state.n.01.483159	emotion.n.01.385705	feeling.n.06.356224	sensation.n.01.356297	touch.n.10.356477
+folkemål	NOUN	dialect.n.01.379062
+folkemusik	NOUN	folk_music.n.01.377478
+folketal	NOUN	population.n.01.396900
+folk	NOUN	folk.n.01.394058	people.n.01.393958
+følsom	ADJ	sensitive.a.02.259091
+følsomhed	NOUN	sensitivity.n.03.386718
+forære	VERB	give.v.08.265482
+foragte	VERB	contemn.v.01.237390
+foragt	NOUN	contempt.n.01.386385
+forandre	VERB	transform.v.03.151118
+forandring	NOUN	change.n.01.381942	transformation.n.01.383318
+forår	NOUN	spring.n.01.502569
+forårsage	VERB	generate.v.01.229035
+forbande	VERB	curse.v.03.183155
+forbedre	VERB	better.v.02.136356	enhance.v.02.138472	reform.v.05.141567
+forbedring	NOUN	improvement.n.03.489554
+forbehold	NOUN	condition.n.02.372557	condition.n.07.372957	reservation.n.02.372732
+forberedelse	NOUN	preparation.n.01.200700
+forbillede	NOUN	exemplar.n.01.360176
+forbindelse	NOUN	context.n.02.491645
+forbinde	VERB	associate.v.01.173099	connect.v.01.213210
+forbinding	NOUN	dressing.n.04.315086
+forbogstav	NOUN	initial.n.01.374080
+forbruger	NOUN	consumer.n.01.415212
+forbrug	NOUN	consumption.n.03.473860
+forbud	NOUN	prohibition.n.02.368534
+forbund	NOUN	confederation.n.02.398741
+forbundsland	NOUN	state.n.01.403651
+forbundsstat	NOUN	state.n.01.403650
+forbyde	VERB	forbid.v.01.178731
+force	NOUN	forte.n.01.347836
+fordele	VERB	distribute.v.04.265522
+fordobling	NOUN	double.n.04.359009
+fordom	NOUN	bias.n.01.363158
+fordrejning	NOUN	distortion.n.06.124991
+foredrag	NOUN	lecture.n.03.184841
+forene	VERB	consolidate.v.01.139534	unite.v.01.282042
+forening	NOUN	association.n.01.395325
+foreslå	VERB	propose.v.01.183714
+forespørgsel	NOUN	request.n.01.368024
+forestille sig	VERB	imagine.v.01.229621
+foretage	VERB	undertake.v.02.288495
+foreteelse	NOUN	phenomenon.n.01.120837
+foretrække	VERB	prefer.v.03.277507
+forfader	NOUN	ancestor.n.01.417798	progenitor.n.01.424361
+forfalske	VERB	forge.v.02.230964	fudge.v.01.289044
+forfatning	NOUN	fundamental_law.n.01.368435
+forfatter	NOUN	writer.n.01.436374
+forfine	VERB	polish.v.02.158989
+forfølge	VERB	chase.v.01.251941
+forfremmelse	NOUN	promotion.n.02.135753
+forgænger	NOUN	predecessor.n.01.430445
+forgifte	VERB	poison.v.05.126320
+forgrene sig	VERB	branch.v.02.146302
+forhandler	NOUN	retailer.n.01.431490
+forhandling	NOUN	negotiation.n.01.378911
+forhindre	VERB	prevent.v.01.281040
+forhindring	NOUN	obstacle.n.02.324884
+forhistorie	NOUN	prehistory.n.01.502964
+forhold	NOUN	ratio.n.01.479726	relationship.n.02.481733	sexual_relationship.n.01.481903
+føring	NOUN	lead.n.04.208118
+forkærlighed	NOUN	predilection.n.01.363112
+forkert	ADJ	wrong.a.02.254229	wrong.a.05.168527
+forklare	VERB	explain.v.01.187903
+forklaring	NOUN	explanation.n.03.380640
+forkølelse	NOUN	cold.n.01.485657
+forkorte	VERB	abridge.v.01.139629
+forlade	VERB	exit.v.01.252831
+forlægge	VERB	misplace.v.01.221845
+forlag	NOUN	publisher.n.01.395507
+forlange	VERB	demand.v.01.175876
+forlegenhed	NOUN	fix.n.01.489268
+forløbelse	NOUN	misdemeanor.n.01.176844	violation.n.02.176926
+forlokke	VERB	cheer.v.05.182747
+forlovelse	NOUN	betrothal.n.01.380548
+forlygte	NOUN	breast.n.02.353158
+forlystelse	NOUN	attraction.n.02.369685
+formål	NOUN	intention.n.03.132812	purpose.n.01.361045
+formand	NOUN	foreman.n.01.423916
+format	NOUN	format.n.01.370215
+formel	ADJ	formal.a.03.194397
+forme	VERB	shape.v.03.130697
+formgive	VERB	design.v.04.229820
+formgivning	NOUN	formation.n.05.317473
+form	NOUN	fitness.n.02.492207	form.n.09.396073	type.n.01.358606
+formstof	NOUN	plastic.n.01.492933
+formue	NOUN	fortune.n.02.472557	money.n.02.470332
+formular	NOUN	form.n.08.367429
+formulere	VERB	give_voice.v.01.190533
+formynder	NOUN	trustee.n.01.435164
+fornægte	VERB	disown.v.02.176077
+fornærme	NOUN	abuse.n.02.371789
+fornærme	VERB	hurt.v.05.238590	pique.v.01.238299
+fornemmelse	NOUN	emotional_state.n.01.483161	emotion.n.01.385706	feeling.n.06.356225	sensation.n.01.356299
+fornuft	NOUN	common_sense.n.01.354181	rationality.n.01.488765	sanity.n.01.488755
+forny	VERB	repair.v.01.141125
+forøge	VERB	raise.v.01.132318
+forråde	VERB	betray.v.02.286258
+forråd	NOUN	reserve.n.02.472512
+forretning	NOUN	shop.n.01.330387
+forretningsmand	NOUN	businessman.n.01.419574
+forsæt	NOUN	resolution.n.11.134311
+forsamling	NOUN	assembly.n.06.206300
+forseelse	NOUN	discourtesy.n.03.205869
+forsegle	VERB	seal.v.01.213185
+forsegling	NOUN	seal.n.05.374402
+forsendelse	NOUN	mail.n.01.364186
+forsigtig	ADJ	careful.a.01.144808	cautious.a.01.146070
+forsigtighed	NOUN	caution.n.03.354209
+forsikre	VERB	insure.v.04.268626
+forsikring	NOUN	indemnity.n.01.492112
+forsinke	VERB	delay.v.01.158113
+forskellig	ADJ	other.a.01.256656	unlike.a.01.216420
+forskellighed	NOUN	remainder.n.03.477878
+forskel	NOUN	remainder.n.03.477877
+forsker	NOUN	scholar.n.01.432071	scientist.n.01.432124
+forskning	NOUN	research.n.01.168738
+forskrift	NOUN	rule.n.03.370500
+forskud	NOUN	advance.n.05.472651
+forslag	NOUN	proposal.n.03.379131	suggestion.n.02.379178
+forsøge	VERB	try.v.01.285823
+forsone	VERB	reconcile.v.03.176506
+forsorg	NOUN	protection.n.01.180245
+forspring	NOUN	edge.n.05.347829
+forståelse	NOUN	sympathy.n.01.363075
+forstander	NOUN	superintendent.n.02.434157
+forstand	NOUN	mind.n.07.354322
+forstå	VERB	recognize.v.02.174052	sympathize.v.02.165753	understand.v.01.165414	understand.v.02.165545
+første	ADJ	first.a.01.192287
+førsteårsstuderende	NOUN	freshman.n.01.424059
+førstehånds	ADJ	firsthand.s.01.242393
+forstørre	VERB	blow_up.v.02.139319
+forsvare	VERB	protect.v.01.199724
+forsvar	NOUN	protection.n.01.180244
+forsvinde	VERB	disappear.v.01.155262
+forsyning	NOUN	provision.n.02.195170	reserve.n.02.472513	supply.n.01.478896
+fortabt	ADJ	lost.a.03.218664
+fortælle	VERB	tell.v.03.188734
+fortaler	NOUN	advocate.n.01.417480
+fortegning	NOUN	aberration.n.03.446170
+fortepiano	NOUN	piano.n.01.326261
+fortidig	ADJ	past.a.01.234710
+fortid	NOUN	past.n.01.500384
+fortov	NOUN	sidewalk.n.01.330585
+fortrydelse	NOUN	sorrow.n.02.387422
+fortryde	VERB	repent.v.02.238813
+fortvivlelse	NOUN	despair.n.02.387543
+fortynde	VERB	dilute.v.01.138166
+forudgå	VERB	predate.v.01.297878
+forudsætning	NOUN	condition.n.02.372558	condition.n.07.372958
+forudseelig	ADJ	predictable.a.01.241768
+forudse	VERB	predict.v.01.186538
+forudsigelig	ADJ	predictable.a.01.241769
+forudsigelse	NOUN	projection.n.01.357269
+forum	NOUN	forum.n.01.398865
+forurening	NOUN	contamination.n.03.142457
+forvente	VERB	ask.v.04.175970	expect.v.01.173517
+forventning	NOUN	anticipation.n.01.386678	anticipation.n.04.491119
+forvirre	VERB	confuse.v.02.167689
+forvise	VERB	banish.v.03.283968
+foster	NOUN	embryo.n.02.219144
+fotografering	NOUN	photography.n.01.185530
+fotografi	NOUN	photograph.n.01.326220	photography.n.01.185529
+fotograf	NOUN	photographer.n.01.429934
+fotokopiere	VERB	photocopy.v.01.235145
+foto	NOUN	photograph.n.01.326221
+frækhed	NOUN	boldness.n.02.341283
+fragt	NOUN	freight.n.02.198306
+fragtskib	NOUN	bottom.n.07.305175
+frakke	NOUN	coat.n.01.310763
+fråser	NOUN	hog.n.01.425497
+frastand	NOUN	distance.n.01.346366
+fratræden	NOUN	retirement.n.02.136885
+fredfyldt	ADJ	peaceful.a.01.235365
+fred	NOUN	peace.n.01.482712	silence.n.02.344594
+fregne	NOUN	freckle.n.01.349127
+frekvens	NOUN	frequency.n.01.503470
+frekvensområde	NOUN	band.n.06.363964
+frembringe	VERB	generate.v.01.229036
+fremgang	NOUN	increase.n.04.346775	success.n.01.382450	success.n.02.124036	upgrade.n.04.346144
+fremgangsmåde	NOUN	operation.n.07.164888	procedure.n.01.193126
+fremkalde	VERB	arouse.v.01.236467	suggest.v.05.187351
+fremmedfører	NOUN	guide.n.02.424973
+fremskridt	NOUN	advancement.n.03.140112
+fremstilling	NOUN	fabrication.n.03.187005	representation.n.10.185199
+fremtid	NOUN	future.n.01.500447
+fremtræden	NOUN	bearing.n.03.343133	behavior.n.01.205650
+fremvisning	NOUN	display.n.02.162152
+fri	ADJ	free.a.01.195482
+frigivelse	NOUN	release.n.11.137003
+frihed	NOUN	freedom.n.01.483325
+frikende	VERB	acquit.v.01.185548
+frimærke	NOUN	postage.n.02.373502
+frisk	ADJ	fit.a.03.192651	fresh.a.01.195976	fresh.s.12.136287
+fristelse	NOUN	enticement.n.03.132431
+frisure	NOUN	haircut.n.01.349319
+frits	NOUN	haircut.n.01.349320
+frivillig	NOUN	volunteer.n.02.435707
+frokost	NOUN	lunch.n.01.388305
+frø	NOUN	frog.n.01.229832	seed.n.01.468741
+frontlinje	NOUN	battlefront.n.01.402368
+front	NOUN	battlefront.n.01.402367	front.n.04.317709
+frossen	ADJ	frozen.s.04.222043
+frue	NOUN	wife.n.01.436110
+fruentimmer	NOUN	lady.n.01.426697	woman.n.01.436269
+frugtkød	NOUN	pulp.n.02.468404
+frugt	NOUN	fruit.n.01.468735
+frustration	NOUN	frustration.n.03.386914
+frygte	VERB	fear.v.02.237719
+frygt	NOUN	fear.n.01.386925
+fryse	VERB	freeze.v.02.150435	freeze.v.03.125448
+fuglefjer	NOUN	feather.n.01.245217
+fugleunge	NOUN	young_bird.n.01.228243
+fugl	NOUN	bird.n.01.221839
+fuld	ADJ	full.a.01.196940
+fuldstændig	ADJ	absolute.a.01.117935
+fuldtids	ADJ	full-time.a.01.197334
+funktionær	NOUN	bull.n.05.419498	official.n.01.428967	policeman.n.01.430221
+funktionel	ADJ	functional.a.01.197415
+funktion	NOUN	operation.n.08.474951
+futtog	NOUN	train.n.01.334472
+fylde	VERB	fill.v.01.157585
+fyreseddel	NOUN	dismissal.n.02.380286
+fyringsseddel	NOUN	dismissal.n.02.380287
+fyrtøj	NOUN	lighter.n.02.322282
+fysik	NOUN	physics.n.01.362035
+fysisk	ADJ	physical.a.01.237596
+gå ’af	VERB	leave_office.v.01.276399
+gab	NOUN	mouth.n.01.349937
+gade	NOUN	street.n.02.332455
+gæst	NOUN	guest.n.01.424947	visitor.n.01.435657
+gætte	VERB	guess.v.02.186482
+gåfelt	NOUN	crossing.n.05.313093
+gaffel	NOUN	fork.n.01.317453
+galakse	NOUN	galaxy.n.03.398315
+galdesyg	ADJ	acrimonious.s.01.128779
+galleri	NOUN	gallery.n.03.317923
+gallon	NOUN	gallon.n.01.476142
+gammel	ADJ	old.a.01.230113
+gang	NOUN	hallway.n.01.319106
+gå	NOUN	walk.n.01.142990
+garage	NOUN	garage.n.01.317994
+garanti	NOUN	warrant.n.01.368617
+gårdanlæg	NOUN	court.n.10.312585
+garderobe	NOUN	wardrobe.n.02.335717
+gardin	NOUN	curtain.n.01.313521
+gård	NOUN	court.n.10.312584	farm.n.01.316402	yard.n.09.336705
+gasart	NOUN	gas.n.01.491003
+gas	NOUN	gas.n.01.491002
+gaspedal	NOUN	accelerator.n.01.294843
+gå ’’til	VERB	break.v.42.213959
+gave	NOUN	competence.n.01.347708	gift.n.01.470675	present.n.02.470768	skillfulness.n.01.354801
+gå	VERB	elapse.v.01.256912	walk.v.01.245719
+gavmild	ADJ	generous.a.02.198794
+gearkasse	NOUN	transmission.n.05.334529
+gear	NOUN	gear.n.03.318224
+ged	NOUN	goat.n.01.278530
+geled	NOUN	row.n.01.400445
+gelé	NOUN	jelly.n.03.497685
+gemme	VERB	save.v.02.266949
+gemyt	NOUN	disposition.n.01.336997
+general	NOUN	general.n.01.424314
+generation	NOUN	coevals.n.01.399545
+generel	ADJ	general.a.01.197985
+generere	VERB	generate.v.01.229032
+genetisk	ADJ	genetic.a.04.299383
+genfærd	NOUN	ghost.n.03.414365
+genfinde	VERB	recover.v.01.268444
+genganger	NOUN	ghost.n.03.414366
+gengive	VERB	reproduce.v.01.235165
+geni	NOUN	brilliance.n.03.354342
+genkende	VERB	recognize.v.04.166858
+genlyde	VERB	resonate.v.01.263911
+gen	NOUN	gene.n.01.351593
+genopblomstring	NOUN	revival.n.01.194528
+gensidig	ADJ	reciprocal.a.01.247955
+genskabe	VERB	re-create.v.01.228606
+genspejl	NOUN	reflection.n.05.328333
+genstand	NOUN	object.n.01.117725	thing.n.08.333816
+genstandsfelt	NOUN	science.n.01.361320
+genstandsområde	NOUN	science.n.01.361321
+gentagelse	NOUN	repeat.n.01.382943
+gentage	VERB	duplicate.v.01.235050	repeat.v.05.290160
+gentleman	NOUN	gentleman.n.01.424397
+genvinding	NOUN	restitution.n.03.126422
+geografi	NOUN	geography.n.01.362318
+geologisk	ADJ	geological.a.01.306081
+gespenst	NOUN	ghost.n.03.414367
+gestus	NOUN	gesture.n.01.146742
+gevær	NOUN	rifle.n.01.328667
+gevinst	NOUN	winnings.n.01.470550
+gidsel	NOUN	hostage.n.01.425623
+gift	ADJ	married.a.01.220558
+giftering	NOUN	wedding_ring.n.01.336034
+giftig	ADJ	toxic.a.01.280826
+gift	NOUN	poison.n.01.499150
+giftstof	NOUN	poison.n.01.499152
+give ’efter	VERB	give.v.33.218595
+give	VERB	give.v.08.265481	pass.v.05.267338
+glad	ADJ	glad.a.01.213550
+glæde	NOUN	joy.n.01.387184
+glædesrus	NOUN	ecstasy.n.01.483170
+glaskugle	NOUN	marble.n.02.323161
+glas	NOUN	glass.n.01.497042	glass.n.02.318332
+glat	ADJ	slippery.a.01.267599	smooth.a.01.267801
+glemme	VERB	forget.v.02.166755
+glide	VERB	glide.v.01.244510	slither.v.01.244443
+glimt	NOUN	flare.n.03.374698
+glød	NOUN	ardor.n.03.385735
+gnide	VERB	rub.v.01.207668
+godhed	NOUN	good.n.02.341565
+godkendelse	NOUN	blessing.n.01.205223
+godkende	VERB	approve.v.01.179572
+godstransport	NOUN	transportation.n.05.198250
+golf	NOUN	golf.n.01.158464
+gøre	VERB	arouse.v.01.236464	suggest.v.05.187348	undertake.v.02.288494
+goutere	VERB	like.v.03.237531
+gø	VERB	bark.v.04.194563
+græde	VERB	cry.v.02.124324
+grænse	NOUN	boundary_line.n.01.401539	limit.n.04.402634	limit.n.06.478446
+græshoppe	NOUN	cricket.n.01.267243
+græskar	NOUN	pumpkin.n.02.390765
+græsningsareal	NOUN	range.n.03.403224
+græs	NOUN	grass.n.01.454328	pot.n.09.327171
+græsselig	ADJ	atrocious.s.01.199946
+græsse	VERB	crop.v.04.226153
+græsstrå	NOUN	blade.n.01.468694
+græsvækst	NOUN	grass.n.01.454329
+grafisk	ADJ	graphic.s.02.188058
+graf	NOUN	graph.n.01.376623	plot.n.04.376621
+grammatik	NOUN	grammar.n.01.362798
+granat	NOUN	shell.n.01.330233
+granske	VERB	size_up.v.01.262399
+gratis	ADJ	complimentary.s.02.233833
+gratulere	VERB	congratulate.v.02.184134
+grave	VERB	dig.v.01.210896
+gravfærd	NOUN	burial.n.01.385175	funeral.n.01.385160
+gravid	ADJ	pregnant.a.01.133670
+grav	NOUN	grave.n.02.318630
+greb	NOUN	grip.n.04.446749	grip.n.06.348403
+gren	NOUN	branch.n.02.469132	science.n.01.361316
+gribe	VERB	catch.v.04.217859	seize.v.01.204995
+grimasse	NOUN	grimace.n.01.374754
+grisebasse	NOUN	hog.n.03.277191
+gris	NOUN	hog.n.03.277189
+grøft	NOUN	trench.n.03.334650
+grøn	NOUN	green.n.01.344248	green.n.04.423023
+grønt	NOUN	green.n.01.344249	vegetable.n.01.390339
+grøntsag	NOUN	vegetable.n.01.390338
+grube	NOUN	mine.n.01.323858
+grue	VERB	worry.v.01.236885
+grundejer	NOUN	landowner.n.01.426765
+grundig	ADJ	profound.a.01.243418
+grundlæggende	ADJ	basic.a.01.242541
+grundlag	NOUN	basis.n.02.357565	evidence.n.01.358241	foundation.n.01.479129
+grundlinje	NOUN	base.n.11.481111
+grund	NOUN	reason.n.02.372249
+grundstof	NOUN	chemical_element.n.01.493364
+gruppe	NOUN	collection.n.01.394119	section.n.03.403523	squad.n.01.397466
+grus	NOUN	gravel.n.01.494395
+grusom	ADJ	barbarous.s.01.208471
+grusomhed	NOUN	cruelty.n.02.386484
+-gryde	NOUN	pot.n.01.327169
+gryde	NOUN	pot.n.01.327168
+gryn	NOUN	grain.n.02.391876
+gry	NOUN	dawn.n.01.501395
+grynte	VERB	groan.v.01.194408
+gud	NOUN	deity.n.01.413686	spiritual_being.n.01.413668
+Guds hus	NOUN	church.n.02.309898
+gudstjeneste	NOUN	service.n.03.193662
+guerilla	NOUN	guerrilla.n.01.424941
+guideline	NOUN	guidepost.n.01.358785
+guide	NOUN	guidebook.n.01.366679	guide.n.02.424972
+guitar	NOUN	guitar.n.01.318866
+guld	NOUN	gold.n.03.493571	wealth.n.01.491264	wealth.n.03.472270
+gulerod	NOUN	carrot.n.01.466526	finger.n.01.353431
+gulv	NOUN	floor.n.01.317149
+gulvtæppe	NOUN	rug.n.01.329054
+guvernør	NOUN	governor.n.01.424690
+gynge	NOUN	swing.n.02.333008
+gynge	VERB	rock.v.01.243578	rock.v.02.243637
+håbe	VERB	wish.v.01.240775
+håb	NOUN	hope.n.02.387526
+hæder	NOUN	fame.n.01.489893	honor.n.02.489869
+hæfteplaster	NOUN	plaster.n.05.326692
+hæk	NOUN	hedge.n.01.319608
+hælde	VERB	pour.v.01.256664	pour.v.05.275040
+hældning	NOUN	pitch.n.05.346149	tilt.n.04.346127
+hæl	NOUN	heel.n.02.353599
+hæmme	VERB	handicap.v.03.197085
+hæmning	NOUN	inhibition.n.01.196149
+hændelse	NOUN	incident.n.01.382183
+hænde	VERB	happen.v.01.147221
+hænge	VERB	hang.v.02.220530	loiter.v.01.292947
+hær	NOUN	army.n.01.397174
+hætte	NOUN	brain.n.01.352143
+hævn	NOUN	retaliation.n.01.206696
+hage	NOUN	chin.n.01.353925
+haj	NOUN	shark.n.01.220622
+hak	NOUN	check_mark.n.01.373899
+hale	NOUN	buttocks.n.01.353270	tail.n.01.262726
+halsbånd	NOUN	collar.n.06.311126
+halshugge	VERB	decapitate.v.01.225836
+halskæde	NOUN	chain.n.10.309025
+hals	NOUN	neck.n.01.352999	throat.n.01.353027
+halvdel	NOUN	one-half.n.01.477988
+halvkugle	NOUN	hemisphere.n.01.402471
+halvpart	NOUN	one-half.n.01.477989
+hammer	NOUN	hammer.n.02.319119
+handel	NOUN	commerce.n.01.197443	deal.n.01.198554	traffic.n.02.198768
+handelscenter	NOUN	center.n.03.308843
+handicap	NOUN	disability.n.01.492239
+håndklæde	NOUN	towel.n.01.334328
+håndlampe	NOUN	flashlight.n.01.317038
+håndled	NOUN	wrist.n.01.353711
+handlende	NOUN	seller.n.01.432372
+handleplan	NOUN	plan_of_action.n.01.359741
+handling	NOUN	action.n.05.365652	act.n.02.120279	ceremony.n.01.385138
+handlingsplan	NOUN	plan_of_action.n.01.359743
+handlingsprogram	NOUN	plan_of_action.n.01.359742
+hånd-	NOUN	hand.n.01.353381
+hånd	NOUN	hand.n.01.353380	hand.n.06.394189	hand.n.14.204706
+handske	NOUN	glove.n.02.318379
+håndværker	NOUN	craftsman.n.03.421363
+håndværk	NOUN	craft.n.04.354745	trade.n.02.166552
+håndværktøj	NOUN	tool.n.01.334229
+handy	ADJ	handy.s.02.166455
+hane	NOUN	water_faucet.n.01.335868
+hankøn	NOUN	male.n.02.415402	man.n.01.427532
+hankønsvæsen	NOUN	male.n.01.211509
+hård	ADJ	hard.a.03.201231	tough.a.01.280754	tough.a.03.280664
+hårde hvidevarer	NOUN	white_goods.n.01.336197
+hardware	NOUN	hardware.n.03.319320
+harmoni	NOUN	harmony.n.01.338903
+hår	NOUN	hair.n.01.349267
+hårstrå	NOUN	hair.n.01.349268
+hastesag	NOUN	urgency.n.03.482198
+hastighed	NOUN	momentum.n.01.345563	pace.n.03.345957	speed.n.01.503540
+hast	NOUN	haste.n.02.163968
+hat	NOUN	hat.n.01.319388
+have	NOUN	garden.n.02.400575	yard.n.02.336713
+havn	NOUN	polyhedron.n.01.480898	seaport.n.01.403301
+hav	NOUN	ocean.n.01.411848	ocean.n.02.478890	sea.n.01.412552
+hed	ADJ	hot.a.01.207523	hot.a.03.208064
+hegn	NOUN	fence.n.01.316504
+heks	NOUN	enchantress.n.02.422932
+helbrede	VERB	bring_around.v.02.125735
+helbred	NOUN	health.n.02.481646	physical_condition.n.01.484087
+helbredstilstand	NOUN	health.n.02.481649	physical_condition.n.01.484085
+heldig	ADJ	lucky.a.02.219779
+held	NOUN	luck.n.03.446148
+hele	VERB	bring_around.v.02.125734
+helgen	NOUN	saint.n.01.431878
+helikopter	NOUN	helicopter.n.01.319633
+hellig	ADJ	holy.a.01.255467	sacred.a.01.255590
+helligdag	NOUN	holiday.n.02.501706
+hellige haller	NOUN	dwelling.n.01.315439	residence.n.01.402093
+helliggørelse	NOUN	sanctification.n.01.194097
+helse	NOUN	health.n.01.490231
+helt	NOUN	hero.n.01.428220
+helvede	NOUN	hell.n.04.354573
+hemisfære	NOUN	hemisphere.n.01.402472	hemisphere.n.03.352067
+hemmelighed	NOUN	secret.n.01.370884
+hemmeligstemple	VERB	classify.v.02.284319
+hengivenhed	NOUN	attachment.n.01.387643
+henrettelse	NOUN	execution.n.01.202046
+henrette	VERB	execute.v.01.282708
+henrykkelse	NOUN	ecstasy.n.01.483171
+hensigt	NOUN	intention.n.03.132811	purpose.n.01.361044
+hente	VERB	collect.v.05.272008
+henvisning	NOUN	referral.n.02.370845
+herberg	NOUN	shelter.n.05.330265
+heroin	NOUN	heroin.n.01.319693
+herredømme	NOUN	domination.n.02.490075
+herre	NOUN	male.n.02.415401	man.n.01.427529
+hertug	NOUN	duke.n.02.422624
+hest	NOUN	horse.n.01.275957	knight.n.02.321560
+hierarki	NOUN	hierarchy.n.02.399620
+hilsen	NOUN	greeting.n.01.369995
+himmel	NOUN	eden.n.01.402189	sky.n.01.412700
+hindring	NOUN	difficulty.n.04.338811	hindrance.n.02.319764
+historie	NOUN	explanation.n.01.372228	history.n.01.500417	history.n.02.368051	history.n.03.362625	narrative.n.01.380397	report.n.03.371027
+historiker	NOUN	historian.n.01.425467
+historisk	ADJ	historical.a.01.306484
+hjælpeløs	ADJ	helpless.s.01.241148
+hjælper	NOUN	assistant.n.01.418198
+hjælpe	VERB	help.v.01.286980
+hjælp	NOUN	aid.n.02.204623	assistant.n.01.418197
+hjælpsom	ADJ	helpful.a.01.203846
+hjelm	NOUN	helmet.n.02.319648
+hjemkomst	NOUN	return.n.02.122555
+hjem	NOUN	dwelling.n.01.315432	housing.n.01.320295	prison.n.01.327374	residence.n.01.402088
+hjemsted	NOUN	dwelling.n.01.315437	residence.n.01.402090
+hjernehalvdel	NOUN	hemisphere.n.03.352068
+hjerne	NOUN	brain.n.01.352139	genius.n.01.424365
+hjertemuskel	NOUN	heart.n.02.351002
+hjerte	NOUN	heart.n.07.480560
+hjerter	NOUN	heart.n.10.319556
+hjord	NOUN	herd.n.01.394721
+hjørne	NOUN	corner.n.05.403699	recess.n.02.480683	temper.n.02.387848
+hjul	NOUN	wheel.n.01.336120
+høflig	ADJ	polite.a.01.168966
+hof	NOUN	court.n.03.395358
+hofte	NOUN	hip.n.01.353206
+høj	ADJ	high.a.01.204878	loud.a.01.218746	tall.a.01.276551
+højde	NOUN	altitude.n.01.347239	highlight.n.01.479499
+højdepunkt	NOUN	highlight.n.01.479500	social_event.n.01.381687
+højrefløj	NOUN	right.n.04.400244
+højregruppe	NOUN	right.n.04.400245
+højre	NOUN	right.n.02.403163
+højttaler	NOUN	loudspeaker.n.01.322692
+høker	NOUN	seller.n.01.432371
+holde ’af	VERB	like.v.03.237533
+holde	VERB	hold.v.11.297044
+holdning	NOUN	position.n.12.363029
+hold	NOUN	association.n.01.395327	team.n.01.397303
+homoseksuel	ADJ	homosexual.a.01.204180
+høne	NOUN	hen.n.01.238569
+honning	NOUN	honey.n.01.392727
+honorar	NOUN	fee.n.01.471785
+hø	NOUN	hay.n.01.391862
+høns	NOUN	chicken.n.02.238448
+hoppe	VERB	bounce.v.03.244987
+hørebøf	NOUN	ear.n.01.350216
+høre	VERB	hear.v.01.263570	listen.v.01.263584
+horisontal	ADJ	horizontal.a.01.206503
+horisontlinje	NOUN	horizon.n.01.402523
+horisont	NOUN	horizon.n.01.402520
+hornkvæg	NOUN	cattle.n.01.277667
+horn	NOUN	automobile_horn.n.01.300989	horn.n.02.211761
+hoste	VERB	cough.v.01.117994
+høst	NOUN	crop.n.01.468274	produce.n.01.390330
+hotdog	NOUN	frank.n.02.389858
+hotel	NOUN	hotel.n.01.320198
+hovedkontor	NOUN	headquarters.n.01.319511
+hoved	NOUN	head.n.01.352866	man.n.03.427551	person.n.01.118162
+hovedsæde	NOUN	headquarters.n.01.319510
+hovedstad	NOUN	capital.n.03.401631
+hr.	NOUN	male.n.02.415404	man.n.01.427530
+hud	NOUN	skin.n.01.349028
+hue	NOUN	cap.n.01.307590
+hukommelse	NOUN	brain.n.01.352145	memory.n.03.355016
+hule	NOUN	cave.n.01.410004
+hul	NOUN	hole.n.01.410927
+humle	NOUN	beer.n.01.393120
+humor	NOUN	humor.n.02.337587
+humør	NOUN	temper.n.02.387847
+hund	NOUN	dog.n.01.257790
+hundredår	NOUN	century.n.01.502092
+hunkøn	NOUN	lady.n.01.426696	woman.n.01.436268
+hurtig	ADJ	fast.a.03.190623
+hushjælp	NOUN	maid.n.01.427413
+huske	VERB	remember.v.01.166637	remember.v.02.166809	remember.v.03.166908	retain.v.04.166834
+husleje	NOUN	rent.n.01.471344
+husmor	NOUN	housewife.n.01.425663
+hus	NOUN	dwelling.n.01.315431	family.n.01.395725	house.n.01.320245	house.n.05.396657	housing.n.01.320292	residence.n.01.402085
+hustrubidrag	NOUN	alimony.n.01.471102
+hustru	NOUN	wife.n.01.436109
+hvælving	NOUN	vault.n.03.335297
+hvælv	NOUN	vault.n.03.335296
+hvalfisk	NOUN	whale.n.02.256188
+hval	NOUN	whale.n.02.256187
+hvalp	NOUN	pup.n.01.211580
+hvede	NOUN	wheat.n.01.454932
+hvedesort	NOUN	wheat.n.01.454933
+hvidevarer	NOUN	white_goods.n.01.336196
+hvidløg	NOUN	garlic.n.02.392149
+hvile	NOUN	respite.n.04.503381
+hvirvelsøjle	NOUN	spinal_column.n.01.353754
+hviske	VERB	whisper.v.01.186397
+hylde	NOUN	shelf.n.01.330226
+hyphest	NOUN	horse.n.01.275959
+hypotese	NOUN	guess.n.01.373202	premise.n.01.372536
+hyppig	ADJ	frequent.a.01.195886
+hyppighed	NOUN	frequency.n.01.503471
+hyrevogn	NOUN	cab.n.03.306817
+hytte	NOUN	cabin.n.02.306870	housing.n.01.320294	hovel.n.01.320302
+iagttage	VERB	watch.v.04.260744
+idé	NOUN	idea.n.01.358476	notion.n.02.358509
+identificere	VERB	recognize.v.04.166859
+identifikationskort	NOUN	card.n.02.367476
+identitet	NOUN	identity.n.01.336822
+identitetskort	NOUN	card.n.02.367474
+ideologi	NOUN	political_orientation.n.01.363392
+idiot	NOUN	pest.n.03.429856
+id-kort	NOUN	card.n.02.367475
+idræt	NOUN	sport.n.01.162286
+idrætspark	NOUN	stadium.n.01.331843
+ignorere	VERB	neglect.v.04.167348
+iklædning	NOUN	outfit.n.02.325196
+ild	NOUN	fire.n.03.474336
+illegal	ADJ	illegal.a.01.216001
+illusion	NOUN	illusion.n.01.360459
+illustration	NOUN	illustration.n.04.320519
+illustrere	VERB	exemplify.v.02.192950
+ilt	NOUN	oxygen.n.01.493711
+immun	ADJ	immune.s.03.275446
+imperium	NOUN	empire.n.03.400090
+implicit	ADJ	implicit.a.01.188076
+imponerende	ADJ	impressive.a.01.209475
+imponere	VERB	impress.v.02.237050
+importere	VERB	import.v.01.274491
+importvare	NOUN	import.n.01.320598
+impuls	NOUN	caprice.n.01.386026
+indbildning	NOUN	illusion.n.01.360461
+indbygger	NOUN	inhabitant.n.01.415333
+indeholde	VERB	include.v.01.292551	incorporate.v.02.292287
+indersiden af hovedet	NOUN	brain.n.01.352147
+indespærre	VERB	confine.v.05.283420	imprison.v.01.283384
+indfald	NOUN	foray.n.01.190313
+indflydelse	NOUN	influence.n.01.348387
+indflydelsesrig	ADJ	influential.a.01.241266
+indfødt	ADJ	autochthonal.s.01.193883
+indgang	NOUN	entrance_fee.n.01.471806	entrance.n.01.315882
+indgangsparti	NOUN	polity.n.02.395334
+indgreb	NOUN	operation.n.06.170663
+indikator	NOUN	measuring_instrument.n.01.323425
+indirekte	ADJ	indirect.a.04.176686
+individ	NOUN	individual.n.02.426019	man.n.03.427552	person.n.01.118160
+individuel	ADJ	individual.s.03.262381
+indkaldelse	NOUN	conscription.n.01.201674
+indkøbscenter	NOUN	center.n.03.308844
+indkomst	NOUN	income.n.01.470451
+indkørsel	NOUN	driveway.n.01.315187
+indledning	NOUN	introduction.n.02.365977
+indlysende	ADJ	obvious.a.01.228482	well-defined.a.02.172176
+indramme	VERB	frame.v.02.297845
+indre	ADJ	inner.a.02.188585
+indrømme	VERB	admit.v.01.180227
+indsætte	VERB	inaugurate.v.03.148106	tuck.v.01.215295
+indsats	NOUN	stake.n.04.472129
+indsigt	NOUN	insight.n.02.386732
+indslag	NOUN	performance.n.02.163672
+indsprøjte	VERB	inject.v.04.204070
+indstille	VERB	adjust.v.01.143914
+indstilling	NOUN	attitude.n.01.362988	position.n.12.363031
+indtagelse	NOUN	consumption.n.01.181398
+indtagning	NOUN	consumption.n.01.181399
+indtag	NOUN	consumption.n.01.181397
+indtryk	NOUN	impression.n.02.338157
+industriel	ADJ	industrial.a.02.210487
+industri	NOUN	industry.n.02.186915
+indvandrer	NOUN	immigrant.n.01.425931
+indvandring	NOUN	immigration.n.01.123044
+indvåner	NOUN	resident.n.01.431475
+indvendig	NOUN	inside.n.01.402561
+indvending	NOUN	challenge.n.03.379871
+indvolde	NOUN	organ.n.01.349866
+infirmeri	NOUN	hospital.n.01.320152
+inflation	NOUN	inflation.n.01.474595
+influenza	NOUN	influenza.n.01.485329
+informationskilde	NOUN	informant.n.01.426060
+ingeniør	NOUN	engineer.n.01.415270
+ingrediens	NOUN	ingredient.n.01.320681
+initiativ	NOUN	first_step.n.01.139234
+inkompetent	ADJ	incapable.s.04.122639
+innovation	NOUN	invention.n.02.320851
+insekt	NOUN	insect.n.01.262869
+insider	NOUN	insider.n.01.426103
+insistere	VERB	insist.v.01.180330
+inspirere	VERB	cheer.v.05.182748	inspire.v.02.230338
+instinkt	NOUN	instinct.n.01.354422
+institution	NOUN	institution.n.01.395385	prison.n.01.327377
+instrument	NOUN	musical_instrument.n.01.324386
+integration	NOUN	integration.n.01.204247
+integritet	NOUN	integrity.n.02.342095
+intellekt	NOUN	mind.n.07.354323
+intellektuel	ADJ	intellectual.a.02.212121
+intelligens	NOUN	intelligence.n.01.354281
+intens	ADJ	intense.a.01.222188
+intensitet	NOUN	intensity.n.02.345588
+interaktiv	ADJ	synergistic.a.01.167836
+interessant	ADJ	interesting.a.01.212668
+interesse	NOUN	concern.n.01.355381	interest.n.01.355556	pastime.n.01.155806
+intern	ADJ	internal.a.01.188503
+international	ADJ	international.a.01.225633
+internat	NOUN	pound.n.13.327223
+internet	NOUN	internet.n.01.320812
+interview	NOUN	interview.n.01.379903
+introducere	VERB	bring_in.v.01.257439	introduce.v.01.185372
+inventar	NOUN	stock.n.02.332242
+investering	NOUN	investment.n.02.472005
+investor	NOUN	investigator.n.02.426234
+invitation	NOUN	invitation.n.01.379719
+invitere	VERB	invite.v.02.276525
+ironi	NOUN	sarcasm.n.01.373065
+irrelevant	ADJ	irrelevant.a.01.250044
+irritere	VERB	annoy.v.01.238214
+is	NOUN	ice_cream.n.01.388941	ice.n.01.497533
+isolation	NOUN	isolation.n.01.489371
+ivrig	ADJ	eager.a.01.179831
+jader	NOUN	breast.n.02.353161
+jæger	NOUN	hunter.n.01.425709
+jævne med jorden	VERB	level.v.02.231401
+jagt	NOUN	hunt.n.08.157570
+jakke	NOUN	jacket.n.01.320965
+jakkesæt	NOUN	suit.n.01.332715
+jazzmusik	NOUN	jazz.n.02.377510
+jazz	NOUN	jazz.n.02.377509
+jeans	NOUN	jean.n.01.321052
+jernbane	NOUN	railway.n.01.328017
+jernbanetog	NOUN	train.n.01.334475
+jernbanevogn	NOUN	car.n.02.307757
+jern	NOUN	iron.n.01.493624
+job	NOUN	employment.n.02.165202	labor.n.02.167637
+jomfru	NOUN	virgin.n.01.435618
+jordbær	NOUN	strawberry.n.01.390944
+jordbesiddelse	NOUN	territory.n.03.401166
+jordefærd	NOUN	burial.n.01.385176	funeral.n.01.385161
+jordklode	NOUN	earth.n.01.410466	universe.n.01.413153
+jordkugle	NOUN	earth.n.01.410467	universe.n.01.413154
+jordnød	NOUN	peanut.n.04.390807
+jord	NOUN	earth.n.01.410465	soil.n.02.496443	territory.n.03.401165	universe.n.01.413152
+jordskælv	NOUN	earthquake.n.01.384715
+jordstykke	NOUN	tract.n.01.403840
+journalist	NOUN	reporter.n.01.431430
+joystick	NOUN	stick.n.03.332178
+judicium	NOUN	conviction.n.02.203494	judgment.n.03.203399
+junger	NOUN	breast.n.02.353159
+jungle	NOUN	jungle.n.01.401434
+jura	NOUN	law.n.01.400601
+juridisk	ADJ	judicial.a.03.300466
+jurisdiktion	NOUN	legal_power.n.01.348466
+jurist	NOUN	lawyer.n.01.426831
+jury	NOUN	jury.n.01.400211
+justere	VERB	adjust.v.03.131390
+kabel	NOUN	cable.n.03.306915
+kabinet	NOUN	cabinet.n.02.399704	government.n.01.395339
+kæbe	NOUN	jaw.n.01.352990
+kæde	NOUN	chain.n.03.309017	chain.n.04.395450	row.n.03.412427
+kælder	NOUN	basement.n.01.302582
+kæledyr	NOUN	pet.n.01.211339
+kæle	VERB	cuddle.v.01.217197
+kælling	NOUN	cunt.n.01.421559
+kæmpe	ADJ	huge.s.01.215154
+kæmpe	NOUN	giant.n.04.424430
+kæmpe	VERB	contend.v.06.197417
+kærlighed	NOUN	love.n.01.387580	love.n.02.358001
+kærlighedsaffære	NOUN	affair.n.02.481907
+kaffe	NOUN	coffee.n.01.393764
+kage	NOUN	cake.n.03.389139
+kaje	NOUN	jaw.n.01.352991
+kalde	VERB	name.v.01.193470
+kalender	NOUN	calendar.n.01.501566
+kalkun	NOUN	turkey.n.01.238665
+kalorie	NOUN	calorie.n.01.477839
+kalv	NOUN	calf.n.01.244526
+kamera	NOUN	camera.n.01.307202
+kamin	NOUN	fire.n.04.316787
+kammer	NOUN	house.n.05.396658
+kampånd	NOUN	morale.n.01.488640
+kampgejst	NOUN	esprit_de_corps.n.01.337024
+kampmoral	NOUN	esprit_de_corps.n.01.337025
+kamp	NOUN	fight.n.02.202493	match.n.02.385486
+kampvogn	NOUN	tank.n.01.333255
+kanal	NOUN	channel.n.07.309247
+kane	NOUN	bed.n.01.303196
+kanin	NOUN	rabbit.n.01.273157
+kant	NOUN	edge.n.03.315534
+kaos	NOUN	chaos.n.01.482833
+kapelmester	NOUN	conductor.n.01.420828
+kapitalisme	NOUN	capitalism.n.01.399457
+kapital	NOUN	capital.n.02.472276
+kapitel	NOUN	chapter.n.01.365966
+kappe	NOUN	gown.n.05.318540
+kapsel	NOUN	cap.n.02.307602
+karakteregenskab	NOUN	characteristic.n.02.339228
+karakteristisk	ADJ	characteristic.a.01.148804
+karakter	NOUN	character.n.06.489956	fictional_character.n.01.414907	mark.n.01.356713	mind.n.01.354090	self-control.n.02.341888
+karakterstyrke	NOUN	character.n.06.489959	self-control.n.02.341891
+karaktertræk	NOUN	characteristic.n.02.339227
+karbad	NOUN	bathtub.n.01.302861
+karbon	NOUN	carbon.n.01.493488
+karet	NOUN	car.n.01.307718
+karismatisk	ADJ	charismatic.s.01.133130
+kar	NOUN	bathtub.n.01.302859	tube.n.04.349148	tub.n.02.334865	vessel.n.01.351116
+karré	NOUN	block.n.02.403373
+karriere	NOUN	career.n.01.165156
+karsporeplante	NOUN	vascular_plant.n.01.468258
+kartoffel	NOUN	potato.n.02.465802
+kartoffelsort	NOUN	potato.n.02.465803
+kasseapparat	NOUN	cash_register.n.01.308328
+kasse	NOUN	box.n.01.305370	head.n.01.352870	television_receiver.n.01.333536
+kasserer	NOUN	treasurer.n.01.435064
+kassettebånd	NOUN	cassette.n.01.308382
+kassette	NOUN	cassette.n.01.308379
+kaste ’tilbage	VERB	reflect.v.04.301258
+kaste	VERB	flip.v.06.222345	throw.v.01.222131
+katalog	NOUN	catalog.n.01.366538
+katastrofe	NOUN	calamity.n.01.382319
+katedral	NOUN	cathedral.n.01.308551
+kategori	NOUN	form.n.09.396076	type.n.01.358607
+kat	NOUN	cat.n.01.260238
+kedel	NOUN	kettle.n.01.321352
+keeper	NOUN	goalkeeper.n.01.424572
+kelner	NOUN	servant.n.01.432450	waiter.n.01.435769
+kemikalie	NOUN	chemical.n.01.495958
+kemi	NOUN	chemical.n.01.495957	chemistry.n.01.362015
+kendelse	NOUN	verdict.n.01.203657
+kende	VERB	feel.v.01.237182	know.v.04.165786	recognize.v.04.166857
+kendis	NOUN	fame.n.01.489892
+kepaløg	NOUN	onion.n.01.458743
+kerne	NOUN	core.n.02.401746
+kernereaktor	NOUN	nuclear_reactor.n.01.324805
+kick	NOUN	kick.n.05.358339
+kid	NOUN	kid.n.05.278544
+kigge	VERB	look.v.01.260932
+kiks	NOUN	cookie.n.01.389216
+kilde	NOUN	beginning.n.04.401370	informant.n.01.426059	reference.n.08.381169	source.n.04.331374
+kim	NOUN	microorganism.n.01.211810
+kind	NOUN	cheek.n.01.353988
+kino	NOUN	cinema.n.02.310045
+kippekalv	NOUN	calf.n.01.244527
+kirkebygning	NOUN	church.n.02.309899
+kirkegård	NOUN	cemetery.n.01.401670
+kirke	NOUN	church.n.02.309897
+kirsebær	NOUN	cherry.n.03.391156
+kirurgi	NOUN	surgery.n.01.361862
+kirurg	NOUN	surgeon.n.01.434209
+kiste	NOUN	coffin.n.01.311011
+kladde	NOUN	draft.n.05.365897
+klæbebånd	NOUN	tape.n.01.333294
+klæbestrimmel	NOUN	tape.n.01.333296
+klæbrig	ADJ	gluey.s.01.122768	muggy.s.01.287164
+klædebon	NOUN	outfit.n.02.325197
+klædedragt	NOUN	outfit.n.02.325199
+klæde	NOUN	apparel.n.01.298950
+klage	VERB	complain.v.01.185734
+klandre	VERB	blame.v.01.181633
+klappe	VERB	dab.v.02.206532
+klapre	VERB	rattle.v.01.263853
+klar	ADJ	obvious.a.01.228481	well-defined.a.02.172175
+klare sig	VERB	cope.v.01.289737
+klare	VERB	pull_off.v.03.285252
+klasselokale	NOUN	classroom.n.01.310234
+klasse	NOUN	class.n.03.394482
+klasseværelse	NOUN	classroom.n.01.310235
+klassisk	ADJ	classical.a.01.153967
+klat	NOUN	ball.n.01.301869
+klaver	NOUN	piano.n.01.326259
+klemme	NOUN	fix.n.01.489267
+klike	NOUN	clique.n.01.397861
+klima	NOUN	climate.n.01.491778
+klinik	NOUN	clinic.n.01.395391
+klipning	NOUN	haircut.n.01.349322
+klip	NOUN	haircut.n.01.349321
+klisterbånd	NOUN	tape.n.01.333297
+klister	NOUN	glue.n.01.494464
+klisterpapir	NOUN	tape.n.01.333295
+klode	NOUN	planet.n.01.412112
+klog	ADJ	smart.a.01.156481	wise.a.01.288460
+klokke	NOUN	clock.n.01.310459	doorbell.n.01.314812	watch.n.01.335803
+klør ’fem	NOUN	hand.n.01.353382
+klør	NOUN	club.n.06.310671
+klosterbroder	NOUN	monk.n.01.424072
+kloster	NOUN	abbey.n.03.294614	monastery.n.01.324084
+klub	NOUN	association.n.01.395326	club.n.02.397671
+klump	NOUN	ball.n.08.394265
+kluns	NOUN	apparel.n.01.298949
+knække	VERB	snap.v.03.146989
+knæle	VERB	kneel.v.01.224403
+knæ	NOUN	knee.n.01.353536
+knap	NOUN	button.n.01.306743	push_button.n.01.327691	switch.n.01.333016
+knappe ’op	VERB	unbutton.v.01.213876
+knibe	NOUN	fix.n.01.489266
+knipling	NOUN	lace.n.02.321684
+knirken	NOUN	squeak.n.01.384032
+kniv	NOUN	knife.n.01.321538
+knogle	NOUN	bone.n.01.349522	telephone.n.01.333448
+knokkel	NOUN	bone.n.01.349523
+knold	NOUN	head.n.01.352876
+knop	NOUN	head.n.01.352874
+knude	NOUN	knot.n.02.321615
+knudepunkt	NOUN	junction.n.01.321241	node.n.01.481433
+knuse	VERB	grind.v.05.146470	smash.v.02.146888
+knytnæve	NOUN	fist.n.01.353387
+knytnæveslag	NOUN	punch.n.01.130054
+koalition	NOUN	coalescence.n.01.151165
+kobber	NOUN	copper.n.01.493518
+købe	VERB	buy.v.01.265942
+købmand	NOUN	merchant.n.01.427928
+købslå	VERB	dicker.v.01.269182
+kode	NOUN	code.n.03.365334
+kodeord	NOUN	password.n.01.370921
+kød	NOUN	flesh.n.01.349492	meat.n.01.389436	pulp.n.02.468403
+kødvare	NOUN	meat.n.01.389437
+kogebog	NOUN	manual.n.01.366641
+kogsalt	NOUN	salt.n.02.392048
+kog	VERB	boil.v.02.146263
+køkken	NOUN	kitchen.n.01.321463
+køkkenpapir	NOUN	tissue.n.02.499720
+køkkenregion	NOUN	kitchen.n.01.321464
+køkkenrulle	NOUN	tissue.n.02.499721
+kok	NOUN	cook.n.01.421063
+kold	ADJ	cold.a.01.207778	cold.a.02.208175	cool.a.04.285918
+køleskab	NOUN	electric_refrigerator.n.01.315666
+kølig	ADJ	cool.a.01.285804	cool.a.04.285919
+kollega	NOUN	colleague.n.01.420602
+kollegium	NOUN	dormitory.n.01.314869
+kølle	NOUN	club.n.03.310666	leg.n.05.389536
+koloni	NOUN	colony.n.05.401261
+kolonne	NOUN	column.n.03.400471
+kolon	NOUN	colon.n.05.374314
+kombination	NOUN	combination.n.01.394329
+komedie	NOUN	comedy.n.01.376827
+komet	NOUN	comet.n.01.410187
+komfur	NOUN	stove.n.01.332393
+kommentar	NOUN	remark.n.01.372828
+kommercialisere	VERB	commercialize.v.02.158776
+kommerciel	ADJ	commercial.a.01.159609
+komme sig	VERB	recuperate.v.04.126855
+kommission	NOUN	commission.n.02.471797
+kommode	NOUN	chest_of_drawers.n.01.309520
+kommunal	ADJ	municipal.a.01.296809
+kommunist	NOUN	communist.n.01.420748
+kompatibel	ADJ	compatible.a.01.161265
+komplet	ADJ	complete.a.01.162085
+kompliceret	ADJ	complex.a.01.263923
+komponere	VERB	compose.v.02.233641
+komponist	NOUN	composer.n.01.420775
+kompromis	NOUN	compromise.n.02.379491
+koncentration	NOUN	concentration.n.01.345639	concentration.n.05.356098
+koncentrere sig	VERB	concentrate.v.02.173722
+koncern	NOUN	conglomerate.n.02.395457
+koncert	NOUN	concert.n.01.375031
+konduktør	NOUN	conductor.n.03.420836
+kone	NOUN	wife.n.01.436108
+konferencier	NOUN	master_of_ceremonies.n.01.427764
+konflikt	NOUN	clash.n.02.483005	conflict.n.04.482994	dispute.n.01.379569
+kongedømme	NOUN	kingdom.n.04.400089
+kongehus	NOUN	royalty.n.02.396520
+konge	NOUN	king.n.01.426514	king.n.09.321430	king.n.10.321429
+kongerige	NOUN	kingdom.n.04.400087
+kongres	NOUN	congress.n.03.398968	convention.n.01.398843
+konkret	ADJ	concrete.a.01.118563
+konkurrence	NOUN	competition.n.03.202326	contest.n.01.385247	contest.n.02.202353	race.n.01.385527
+konkurs	NOUN	bankruptcy.n.03.203341
+køn	NOUN	reproductive_organ.n.01.352507	sex.n.04.345074
+ko	NOUN	cow.n.01.277724
+kø	NOUN	queue.n.01.400456
+konservativ	ADJ	conservative.a.01.164790
+kønsorgan	NOUN	reproductive_organ.n.01.352506
+konstant	ADJ	ceaseless.s.01.165838	constant.a.02.165149
+konstitution	NOUN	health.n.02.481648	physical_condition.n.01.484086
+konstruktiv	ADJ	constructive.a.01.165227
+konsumfisk	NOUN	fish.n.02.391429
+kontakt	NOUN	contact.n.01.121380	contact.n.05.421005	push_button.n.01.327692	switch.n.01.333017
+kontanter	NOUN	cash.n.01.472856
+kontinental	ADJ	continental.a.03.305455
+kontorassistent	NOUN	clerk.n.01.420455
+kontorist	NOUN	clerk.n.01.420454
+kontoudskrift	NOUN	account.n.07.472308
+kontoudtog	NOUN	account.n.07.472307
+kontrakt	NOUN	contract.n.01.368250
+kontrast	NOUN	contrast.n.01.480376
+kontrollant	NOUN	examiner.n.02.423135
+kontrol	NOUN	dominance.n.02.490062
+kontroversiel	ADJ	controversial.a.01.166270
+konventionel	ADJ	conventional.a.01.166492
+konvention	NOUN	conventionality.n.03.340401
+konvertere	VERB	convert.v.03.151361
+konvolut	NOUN	envelope.n.01.315925
+kopiere	VERB	copy.v.04.233097	imitate.v.01.235479
+kopi	NOUN	copy.n.02.312094
+kop	NOUN	cup.n.01.313409	cup.n.02.478624
+køre ’ned	VERB	run_down.v.03.128091
+køreplan	NOUN	timetable.n.02.367759
+køretøj	NOUN	van.n.05.335256	vehicle.n.01.335310	wheeled_vehicle.n.01.336130
+køretur	NOUN	drive.n.08.144739
+køre	VERB	roll.v.07.223164	run.v.13.223187
+korn	NOUN	corn.n.03.390700	grain.n.01.410740
+kor	NOUN	chorus.n.02.397133
+kornsort	NOUN	corn.n.03.390701
+korrespondere	VERB	correspond.v.03.192005
+korridor	NOUN	hallway.n.01.319105
+kors	NOUN	cross.n.01.313050
+kort	ADJ	short.a.01.218097	short.a.02.217706
+kort	NOUN	calling_card.n.02.370106	card.n.01.307840	card.n.02.367473
+kortslutning	NOUN	short_circuit.n.01.330415
+kosmetik	NOUN	makeup.n.01.323047
+kost	NOUN	food.n.01.119394
+kostume	NOUN	costume.n.01.312383	outfit.n.02.325193
+køter	NOUN	dog.n.01.257791
+kovending	NOUN	reversion.n.04.147853
+kræft	NOUN	cancer.n.01.486811
+kræftsygdom	NOUN	cancer.n.01.486813
+kræ	NOUN	animal.n.01.118802
+kræve	VERB	demand.v.01.175875
+kraft	NOUN	force.n.03.345551	power.n.05.430387
+kranium	NOUN	skull.n.01.352901
+kravlegård	NOUN	playpen.n.01.326783
+krav	NOUN	claim.n.03.195494	condition.n.02.372555	condition.n.07.372955
+kreativitet	NOUN	creation.n.01.185841
+kreatur	NOUN	cattle.n.01.277666
+kreditkort	NOUN	credit_card.n.01.472662
+kridt	NOUN	chalk.n.04.309121
+kriger	NOUN	warrior.n.01.435872
+krig	NOUN	war.n.01.190034	war.n.03.206799
+krigsmaling	NOUN	makeup.n.01.323049
+kriminalbetjent	NOUN	detective.n.01.422116
+kriminalitet	NOUN	crime.n.01.176639
+krise	NOUN	crisis.n.01.481947
+krisesituation	NOUN	crisis.n.01.481948
+kritiker	NOUN	critic.n.01.421479
+kritik	NOUN	accusation.n.02.372109
+kritisere	VERB	blame.v.02.181647
+kritisk	ADJ	critical.a.01.169347	critical.a.06.169489
+krog	NOUN	hook.n.05.319994
+krone	NOUN	crown.n.04.313140
+kronisk	ADJ	chronic.a.01.121872
+kro	NOUN	hostel.n.01.320168
+krop	NOUN	body.n.01.348750	flesh.n.01.349493	torso.n.01.353060
+krukke	NOUN	jar.n.01.321037	population.n.02.396876	pot.n.03.478674
+krus	NOUN	mug.n.04.324338
+krybdyr	NOUN	reptile.n.01.231348
+krybe	VERB	crawl.v.01.244402	fawn.v.01.256225
+krydderurt	NOUN	herb.n.02.392031
+krydsning	NOUN	hybrid.n.03.211874
+kryds	NOUN	intersection.n.02.320823
+krydstogt	NOUN	cruise.n.01.145225
+krykke	NOUN	crutch.n.01.313242
+krystalglas	NOUN	crystal.n.05.313275
+krystal	NOUN	crystal.n.05.313274	quartz_glass.n.01.497016
+kuffert	NOUN	bag.n.06.301703	luggage_compartment.n.01.322775
+kugle	NOUN	ball.n.03.481150	bullet.n.01.306362	sphere.n.06.481142
+kuglepen	NOUN	pen.n.01.325957
+kukkasse	NOUN	television_receiver.n.01.333541
+kulde	NOUN	coldness.n.03.345184
+kulisse	NOUN	stage_set.n.01.331866
+kul	NOUN	carbon.n.01.493489	coal.n.01.496057
+kulstof	NOUN	carbon.n.01.493490
+kulturel	ADJ	cultural.a.01.305876
+kultur	NOUN	culture.n.01.398549	culture.n.04.186716	culture.n.06.363008
+kumme	NOUN	washbasin.n.01.335759
+kunde	NOUN	customer.n.01.421596
+kundgørelse	NOUN	announcement.n.01.372042	statement.n.01.371966
+kundskab	NOUN	cognition.n.01.119571
+kunne bruge	VERB	like.v.03.237534
+kunnen	NOUN	adeptness.n.01.354834
+kunne	VERB	know.v.02.165882
+kunstig	ADJ	artificial.a.01.225847
+kunstmaler	NOUN	painter.n.01.429395
+kunstnerisk	ADJ	artistic.a.01.308756
+kunstner	NOUN	artist.n.01.418103	performer.n.01.429791
+kunst	NOUN	art.n.02.187547
+kup	NOUN	coup_d'etat.n.01.200861
+kuppel	NOUN	brain.n.01.352140	dome.n.04.314767
+kursus	NOUN	course.n.01.184343
+kursustilbud	NOUN	course.n.01.184344
+kurve	NOUN	curve.n.01.480583	curve.n.02.376629	round_shape.n.01.480556
+kurv	NOUN	basket.n.01.302638
+kuvert	NOUN	envelope.n.01.315924
+kvadrat	NOUN	square.n.01.480809	square.n.02.477902
+kvægfarm	NOUN	ranch.n.01.328078
+kvæg	NOUN	cattle.n.01.277664
+kvæld	NOUN	evening.n.01.501297	night.n.07.501351
+kvæle	VERB	choke.v.04.125434	strangle.v.01.225819
+kværn	NOUN	mill.n.04.323803	mouth.n.01.349938
+kvaj	NOUN	pest.n.03.429855
+kvajpande	NOUN	pest.n.03.429858
+kvalitet	NOUN	physical_property.n.01.345108	property.n.02.343305	property.n.04.358797	quality.n.01.339068	quality.n.02.339117	thing.n.09.336804
+kvalme	NOUN	nausea.n.01.488406
+kval	NOUN	agony.n.01.386183	pain.n.02.386141	sadness.n.01.387313
+kvantificere	VERB	quantify.v.02.160108
+kvantitativ	ADJ	quantitative.a.02.308320
+kvantitet	NOUN	quantity.n.03.358928
+kvartal	NOUN	quarter.n.06.502108
+kvase	VERB	squash.v.01.227261
+kvindebryst	NOUN	breast.n.02.353157
+kvindelig	ADJ	womanly.a.01.220814
+kvindemenneske	NOUN	lady.n.01.426698	woman.n.01.436270
+kvinde	NOUN	lady.n.01.426695	woman.n.01.436266
+kvittering	NOUN	receipt.n.02.368220
+kvote	NOUN	quota.n.01.475921	quota.n.02.471248
+kyle	VERB	fling.v.01.222323
+kylling	NOUN	wimp.n.01.436173
+kysse	VERB	snog.v.01.217506
+kystland	NOUN	seashore.n.01.412568
+kyst	NOUN	seashore.n.01.412567
+kystområde	NOUN	seashore.n.01.412569
+laboratorium	NOUN	lab.n.01.321664
+labyrint	NOUN	maze.n.01.323412
+lade vandet	NOUN	urine.n.01.496632
+ladning	NOUN	charge.n.04.446396
+læbe	NOUN	lip.n.01.349972
+læder	NOUN	leather.n.01.495198
+lægehjælp	NOUN	medical_care.n.01.169861
+lægekunst	NOUN	medicine.n.03.166981
+lægemiddel	NOUN	medicine.n.02.323476	remedy.n.02.328431
+læge	NOUN	doctor.n.01.422337
+lægevidenskab	NOUN	medicine.n.03.166982
+lægge sig	VERB	settle.v.01.250852
+lægge	VERB	lay.v.02.224334
+lække	VERB	leak.v.03.162557
+lænestol	NOUN	armchair.n.01.299643
+længde	NOUN	duration.n.01.500664	duration.n.03.345827	length.n.03.347264
+længes	VERB	hanker.v.01.241170
+lærebog	NOUN	textbook.n.01.366453
+lærer	NOUN	teacher.n.01.434518
+lære	VERB	teach.v.01.180918
+lærred	NOUN	canvas.n.01.307565	screen.n.01.329649
+læsestof	NOUN	matter.n.06.365478
+læse	VERB	read.v.01.168028
+læs	NOUN	load.n.01.322516
+læsse	VERB	load.v.04.228165
+lagen	NOUN	sheet.n.03.330190
+lager	NOUN	repositing.n.01.150297	reserve.n.02.472511
+lag	NOUN	coating.n.01.310801	film.n.04.316712	layer.n.02.402625
+låg	NOUN	lid.n.02.322212	locomotive.n.01.322594
+laks	NOUN	salmon.n.01.286103
+lalle	VERB	rehearse.v.01.234480
+lam	NOUN	lamb.n.01.278258
+lampe	NOUN	brain.n.01.352142	lamp.n.02.321788
+landbrug	NOUN	farming.n.01.186453
+landdistrikt	NOUN	country.n.04.403422	countryside.n.01.403432
+landejendom	NOUN	farm.n.01.316404
+lande	VERB	land.v.01.250304
+landjord	NOUN	land.n.04.411298
+landkort	NOUN	map.n.01.323151
+landlig	ADJ	rural.a.02.302248
+land	NOUN	country.n.04.403420	countryside.n.01.403430	kingdom.n.01.491693	land.n.04.411297	state.n.04.396748
+landområde	NOUN	country.n.04.403421	countryside.n.01.403431
+landsbybo	NOUN	villager.n.01.435547
+landsby	NOUN	village.n.01.397638
+låne	VERB	borrow.v.01.273147	lend.v.02.273168
+lang	ADJ	long.a.01.217788	long.a.02.217619
+langsom	ADJ	slow.a.01.190547
+lån	NOUN	loan.n.01.473092
+lap	NOUN	patch.n.03.325794
+laptop	NOUN	notebook.n.02.324777
+larmende	ADJ	noisy.a.01.246604
+lår	NOUN	thigh.n.01.353343
+laser	NOUN	laser.n.01.321914
+låse	VERB	lock.v.01.212860
+lås	NOUN	lock.n.01.322551
+lastbil	NOUN	truck.n.01.334820
+lastvogn	NOUN	truck.n.01.334821
+latterlig	ADJ	foolish.a.01.288564
+lav	ADJ	low.a.02.204535	shallow.a.01.171817
+lave ’om	VERB	transform.v.03.151119
+lave	VERB	produce.v.02.228713
+ledelse	NOUN	leadership.n.01.208087	management.n.01.200060
+leder	NOUN	conductor.n.02.496123	leader.n.01.415391
+lederskikkelse	NOUN	leader.n.01.415392
+lede	VERB	generate.v.01.229033	head.v.02.280255	search.v.01.211174	search.v.02.262422
+ledig	ADJ	free.s.04.228856
+led	NOUN	joint.n.01.353844
+legal	ADJ	legal.a.01.215921
+legeme	NOUN	flesh.n.01.349494
+legemlig	ADJ	physical.a.01.237597
+legende	VERB	play.v.05.278648
+legesager	NOUN	plaything.n.01.326789
+legeting	NOUN	plaything.n.01.326788
+legetøj	NOUN	plaything.n.01.326787
+lege	VERB	play.v.05.278647
+legitimationskort	NOUN	card.n.02.367477
+leg	NOUN	game.n.03.155701	play.n.08.155854
+lejekontrakt	NOUN	lease.n.02.368271
+leje	NOUN	grade.n.02.489683	level.n.07.363747
+lejer	NOUN	tenant.n.01.434631
+lejlighed	NOUN	apartment.n.01.298831
+lekture	NOUN	matter.n.06.365477
+lem	NOUN	limb.n.01.353308
+ler	NOUN	clay.n.01.496037
+let	ADJ	easy.a.01.175416	light.a.01.203345
+lettelse	NOUN	relief.n.02.490156
+levealder	NOUN	age.n.01.343423
+levende	ADJ	alive.a.01.126978
+leverandør	NOUN	supplier.n.01.434187
+le	VERB	laugh.v.01.120428
+levere	VERB	deliver.v.02.217799
+levering	NOUN	provision.n.02.195171
+lever	NOUN	liver.n.01.350963
+levning	NOUN	leftovers.n.01.388083
+liberal	ADJ	liberal.a.03.164819
+lidelse	NOUN	disease.n.01.484670	illness.n.01.484523	suffering.n.04.386163
+lidenskab	NOUN	passion.n.01.385723
+lide	VERB	hurt.v.06.260207	suffer.v.03.238694
+ligbegængelse	NOUN	burial.n.01.385177	funeral.n.01.385162
+ligefrem	ADJ	blunt.s.03.176491
+ligegyldighed	NOUN	apathy.n.01.385810
+lige	NOUN	peer.n.01.415453
+ligevægt	NOUN	equilibrium.n.01.481972
+ligge	VERB	lie_down.v.01.250629
+lighed	NOUN	identity.n.04.339373	sameness.n.01.339364	similarity.n.01.339388
+lighter	NOUN	lighter.n.02.322281
+ligkiste	NOUN	coffin.n.01.311012
+ligkistesøm	NOUN	cigarette.n.01.309975
+lignende	ADJ	alike.a.01.216425
+ligne	VERB	resemble.v.01.294490
+lig	NOUN	body.n.03.348793	cadaver.n.01.348808
+lilje	NOUN	lily.n.01.458648
+lille	ADJ	small.a.01.215409
+lim	NOUN	glue.n.01.494463
+lineær	ADJ	linear.a.02.169903
+lineal	NOUN	rule.n.12.329072
+linje	NOUN	line.n.05.376782	line.n.14.322366	straight_line.n.01.480624
+linned	NOUN	linen.n.03.322402
+liste	NOUN	roll.n.02.367734
+liste	VERB	list.v.02.282165	slide.v.03.258220	slither.v.01.244442
+list	NOUN	craft.n.05.354385
+litterær	ADJ	literary.a.01.303597
+litteratur	NOUN	literature.n.01.365460
+livlig	ADJ	lively.a.01.179423
+liv	NOUN	life.n.03.482521	waist.n.01.353181
+livsalder	NOUN	time_of_life.n.01.500898
+livsform	NOUN	life_style.n.01.343529
+livskraft	NOUN	vigor.n.02.345453
+livsstil	NOUN	life_style.n.01.343528
+livvagt	NOUN	bodyguard.n.02.397431
+lobby	NOUN	lobby.n.03.399614
+løber	NOUN	runner.n.06.431776
+løbe	VERB	run.v.01.246972	run.v.29.246277
+løb	NOUN	barrel.n.01.302388	race.n.02.385314	run.n.07.143725
+lod	NOUN	fortune.n.04.490712	weight.n.02.336066	weight_unit.n.02.475988
+lodtrækning	NOUN	lottery.n.02.161336
+løfte	NOUN	parole.n.01.380529	promise.n.01.380515
+løfte	VERB	raise.v.02.249903
+loft	NOUN	ceiling.n.01.308732	ceiling.n.03.370591
+logik	NOUN	logic.n.03.359259
+logisk	ADJ	logical.a.01.217454
+løgn	NOUN	fib.n.01.372617	lie.n.01.372591
+løg	NOUN	bulb.n.01.468724	onion.n.01.458742
+lokalisere	VERB	situate.v.01.296627
+lokalnummer	NOUN	extension.n.10.316177
+lokkemad	NOUN	bait.n.01.355839
+lokkemiddel	NOUN	bait.n.01.355840
+løkke	NOUN	loop.n.02.480754
+lok	NOUN	lid.n.02.322213	lock.n.02.349323
+lokomotiv	NOUN	locomotive.n.01.322593
+lokum	NOUN	bathroom.n.01.302840
+lommebog	NOUN	notebook.n.01.366515
+lommelygte	NOUN	flashlight.n.01.317037
+lomme	NOUN	pocket.n.01.326886
+lønforhøjelse	NOUN	raise.n.01.346811
+løn	NOUN	recompense.n.01.471061	wage.n.01.471008
+løs	ADJ	loose.a.03.218376
+løsne	VERB	untie.v.01.209596
+løsning	NOUN	solution.n.05.135096
+løve	NOUN	lion.n.01.260795
+lovgivningsmagt	NOUN	legislature.n.01.396660
+lovmæssig	ADJ	legislative.a.01.303564
+lov	NOUN	license.n.01.368645	permission.n.01.371179
+loyalitet	NOUN	loyalty.n.01.342260
+luftart	NOUN	gas.n.01.491004
+luftfartsselskab	NOUN	airline.n.02.296337
+lufthavn	NOUN	airport.n.01.296465
+luft	NOUN	air.n.01.496392	distance.n.01.346364
+lugte	NOUN	smell.n.05.184253
+lugtesans	NOUN	smell.n.04.355126
+lugte	VERB	smell.v.01.260469	smell.v.02.260414	smell.v.03.260454
+lugt	NOUN	olfactory_property.n.01.344533	smell.n.04.355125
+lukket	ADJ	shut.a.01.230858
+lukke	VERB	close.v.01.212723	close.v.04.279189
+lunch	NOUN	lunch.n.01.388306
+lungebetændelse	NOUN	pneumonia.n.01.485689
+lunge	NOUN	lung.n.01.350986
+lydeffekt	NOUN	sound_property.n.01.344609
+lyd	NOUN	sound.n.01.344573	sound.n.02.356421
+lykkelig	ADJ	lucky.a.02.219780
+lykkelig	NOUN	regimentation.n.01.201036
+lynild	NOUN	thunderbolt.n.01.447594
+lyn	NOUN	thunderbolt.n.01.447593
+ly	NOUN	protection.n.04.492119
+lys	ADJ	light.a.02.153558	light.a.06.141902
+lyse	VERB	glow.v.01.262918	light.v.01.143537
+lysgiver	NOUN	source_of_illumination.n.01.331377
+lyskilde	NOUN	source_of_illumination.n.01.331376
+lys	NOUN	candle.n.01.307385	light.n.02.322263
+lysstråle	NOUN	beam.n.04.446284
+lysstyrke	NOUN	luminosity.n.01.345261
+lystfølelse	NOUN	satisfaction.n.01.387290
+lystyacht	NOUN	yacht.n.01.336696
+lyttebøf	NOUN	ear.n.01.350217
+lytte	VERB	listen.v.01.263585
+lyve	VERB	lie.v.05.181192
+måde	NOUN	means.n.01.133626	way.n.10.357527
+mad	NOUN	food.n.01.119392
+madolie	NOUN	vegetable_oil.n.01.389814
+madret	NOUN	dish.n.02.388039
+madsted	NOUN	restaurant.n.01.328545
+mægtig	ADJ	powerful.a.01.240896
+mæhlam	NOUN	lamb.n.01.278259
+mælkevej	NOUN	galaxy.n.03.398316
+mælkevejssystem	NOUN	galaxy.n.03.398317
+mælk	NOUN	milk.n.01.392508
+mængde	NOUN	crowd.n.01.396958	helping.n.01.388402	quantity.n.03.358929	set.n.02.394836
+mærkat	NOUN	label.n.04.381428
+mærke ’af	VERB	sign.v.06.221587
+mærke	NOUN	brand.n.02.358687	postage.n.02.373503
+mærke	VERB	feel.v.01.237181	mark.v.05.161314
+mæt	ADJ	full.s.04.271692
+magasin	NOUN	magazine.n.02.322889
+magnat	NOUN	baron.n.03.418675
+magnetisk	NOUN	bust.n.03.306676
+magtfuld	ADJ	powerful.a.01.240897
+magt	NOUN	power.n.01.348337	puissance.n.01.348344	violence.n.01.189453	world_power.n.01.396846
+majestæt	NOUN	queen.n.02.431095
+makeup	NOUN	makeup.n.01.323048
+maksimal	ADJ	maximal.a.01.221483
+maksimum	NOUN	maximum.n.01.478859
+måleapparat	NOUN	measuring_instrument.n.01.323426
+målebånd	NOUN	tape.n.04.333301
+måleinstrument	NOUN	measuring_instrument.n.01.323424
+malerfarve	NOUN	paint.n.01.325422
+maleri	NOUN	painting.n.01.325436
+maler	NOUN	painter.n.01.429394
+måler	NOUN	measuring_instrument.n.01.323423
+male	VERB	paint.v.01.232636	paint.v.02.213634
+maling	NOUN	paint.n.01.325420
+målmand	NOUN	goalkeeper.n.01.424571
+mål	NOUN	aim.n.02.361020	finish.n.04.402265	goal.n.03.318398	goal.n.04.134845	target.n.01.381233
+måltid	NOUN	meal.n.01.388278
+målvogter	NOUN	goalkeeper.n.01.424573
+mand	NOUN	husband.n.01.425728	male.n.02.415400	man.n.01.427528	man.n.03.427548	person.n.01.118161
+mandskab	NOUN	crew.n.01.398344	livestock.n.01.244506
+mandsperson	NOUN	male.n.02.415403	man.n.01.427531
+månedlig	ADJ	monthly.s.01.249534
+måned	NOUN	calendar_month.n.01.502159	month.n.02.502106
+måne	NOUN	moon.n.06.411610
+måneskive	NOUN	moon.n.06.411611
+mangel	NOUN	dearth.n.01.490280	lack.n.01.490272
+mangfoldig	ADJ	multiple.a.01.266471
+mangle	VERB	miss.v.06.292508
+manifest	NOUN	charter.n.01.367403
+manøvre	NOUN	maneuver.n.03.164020
+manual	NOUN	manual.n.01.366640
+manuel	ADJ	manual.a.02.134556
+marchere	VERB	march.v.03.246561
+march	NOUN	marching_music.n.01.377452
+mareridt	NOUN	nightmare.n.02.357139
+margin	NOUN	margin.n.05.365870
+marineblå	NOUN	dark_blue.n.01.344298
+marine	NOUN	dark_blue.n.01.344297
+maritim	ADJ	marine.a.01.305501
+marked	NOUN	grocery_store.n.01.318770
+markedsføring	NOUN	marketing.n.02.198673
+markere	VERB	commemorate.v.02.166947
+mark	NOUN	field.n.01.402310
+marmelade	NOUN	jam.n.01.389330
+marmor	NOUN	marble.n.01.497991
+marts	NOUN	march.n.01.502175
+maske	NOUN	face.n.01.353951	mask.n.01.323226
+maskine	NOUN	engine.n.01.315845	machine.n.01.322836	motor.n.01.324225
+maskineri	NOUN	machinery.n.01.322850
+masse	NOUN	crowd.n.01.396957	mass.n.05.411473	substance.n.01.119198
+matematik	NOUN	mathematics.n.01.361327
+matematisk	ADJ	mathematical.a.01.307061
+materiale	NOUN	material.n.01.492778	material.n.02.370176	material.n.04.323350
+mave	NOUN	stomach.n.01.351089
+mc	NOUN	motorcycle.n.01.324233
+medalje	NOUN	decoration.n.02.371592
+medarbejderstab	NOUN	staff.n.01.400581
+meddelelse	NOUN	notice.n.01.372442
+medfødt	ADJ	native.a.02.193756
+medfølelse	NOUN	concern.n.03.386452
+medføre	VERB	generate.v.01.229034
+medicin	NOUN	medicine.n.02.323475	medicine.n.03.166980	remedy.n.02.328430
+medie	NOUN	medium.n.09.427866
+medikus	NOUN	doctor.n.01.422338
+medlem	NOUN	member.n.01.427885
+medlemskab	NOUN	membership.n.02.481899
+medlidenhed	NOUN	compassion.n.02.341020
+medskyldig	NOUN	party.n.05.429544
+medvirken	NOUN	concern.n.03.386451
+mekanik	NOUN	mechanism.n.05.323461
+mekanisk	ADJ	mechanical.a.01.221670
+mekanisme	NOUN	mechanism.n.05.323460
+melding	NOUN	message.n.01.363857
+mellemmåltid	NOUN	bite.n.04.388370
+mellemrum	NOUN	space.n.05.374257	spacing.n.02.346354
+mel	NOUN	flour.n.01.388183
+melodi	NOUN	tune.n.01.376960
+melon	NOUN	breast.n.02.353156
+membran	NOUN	membrane.n.02.351477
+mene	VERB	think.v.01.171642
+mening	NOUN	meaning.n.01.369338	opinion.n.01.360544	sense.n.02.369350	sentiment.n.01.385763
+meningsfuld	ADJ	meaningful.a.01.221528
+meningsfyldt	ADJ	meaningful.a.01.221529
+meningsmåling	NOUN	poll.n.01.357740
+meningsundersøgelse	NOUN	poll.n.01.357741
+menneskebarn	NOUN	homo.n.02.282177
+menneskedyr	NOUN	homo.n.02.282176
+menneskehjerte	NOUN	disposition.n.01.337000
+menneskelig	ADJ	human.a.01.299957
+menneske	NOUN	homo.n.02.282175	man.n.03.427550	person.n.01.118163
+menneskevæsen	NOUN	homo.n.02.282178
+mental	ADJ	mental.a.02.305870
+menukort	NOUN	menu.n.01.367694
+menu	NOUN	menu.n.01.367693	menu.n.02.388125
+messe	NOUN	fair.n.02.400135
+mester	NOUN	champion.n.01.420063	maestro.n.01.427355
+mestre	VERB	master.v.01.165971
+metal	NOUN	metallic_element.n.01.493391
+metaltråd	NOUN	wire.n.01.336439
+metode	NOUN	method.n.01.355155
+metodik	NOUN	method.n.01.355156
+metodologi	NOUN	methodology.n.02.355199
+metro	NOUN	metro.n.01.323697
+middag	NOUN	banquet.n.02.388390	dinner.n.01.388323
+middagsbord	NOUN	dinner.n.01.388325
+middagsmad	NOUN	dinner.n.01.388324
+middelalderlig	ADJ	medieval.a.01.308716
+middel	NOUN	means.n.02.323417
+middelvej	NOUN	medium.n.08.481601
+midlertidig	ADJ	impermanent.a.01.236289
+midnat	NOUN	midnight.n.01.501371
+midte	NOUN	center.n.01.401729	middle.n.02.359154
+mikrobe	NOUN	microorganism.n.01.211809
+mikrofon	NOUN	microphone.n.01.323741
+mikroorganisme	NOUN	microorganism.n.01.211808
+mild	ADJ	mild.a.01.222151
+mile	NOUN	mile.n.03.478871
+militær	ADJ	military.a.01.301168
+militærtjeneste	NOUN	military_service.n.01.397258
+miljømæssig	ADJ	environmental.a.01.307219
+million	NOUN	crowd.n.01.396959
+mindesmærke	NOUN	memorial.n.03.323513
+mindes	VERB	remember.v.01.166638	remember.v.02.166810	remember.v.03.166909	retain.v.04.166835
+mindeværdig	ADJ	memorable.s.01.194131
+minde	VERB	prompt.v.03.183860
+mindretal	NOUN	minority.n.02.347105
+mindske	VERB	decrease.v.02.156794
+minearbejder	NOUN	miner.n.01.428082
+mine	NOUN	mine.n.02.323851
+mineral	NOUN	mineral.n.01.493918
+minimal	ADJ	minimal.a.01.221490
+minimum	NOUN	minimum.n.01.478540
+minister	NOUN	minister.n.02.428099
+minut	NOUN	minute.n.01.502529
+mirakel	NOUN	miracle.n.02.381690
+misbruger	NOUN	drug_user.n.01.422577
+misfoster	NOUN	freak.n.01.424018
+mishandling	NOUN	maltreatment.n.01.154544
+mis	NOUN	cat.n.01.260239
+missekat	NOUN	cat.n.01.260240
+mistanke	NOUN	intuition.n.02.360005	misgiving.n.03.355973
+miste	VERB	drop.v.01.250173	lose.v.01.270905	lose.v.02.197895	lose.v.05.270887
+misundelig	ADJ	covetous.s.01.184579
+mjød	NOUN	beer.n.01.393121
+møbel	NOUN	furniture.n.01.317826
+mobil	NOUN	cellular_telephone.n.01.308805
+mobiltelefon	NOUN	cellular_telephone.n.01.308804
+model	NOUN	mannequin.n.01.427588	model.n.01.359419	model.n.03.428202	model.n.04.324020
+moden	ADJ	mature.a.03.220988	ripe.a.01.221278
+mode	NOUN	fashion.n.03.356881	vogue.n.01.356870
+møde	NOUN	conference.n.01.398828	meeting.n.03.384392	meeting.n.04.206412
+moderigtig	ADJ	stylish.a.01.190154
+moderne	ADJ	modern.a.01.223821
+møde	VERB	meet.v.01.253317	meet.v.08.290179
+modgang	NOUN	adversity.n.01.490832
+modig	ADJ	bold.a.01.140131	brave.a.01.141298
+modne	VERB	ripen.v.02.140168
+mod	NOUN	courage.n.01.341760
+modsætning	NOUN	contrary.n.02.480418	reverse.n.01.480427
+modsætte sig	VERB	resist.v.02.198944
+modsigelse	NOUN	contradiction.n.02.380153
+modstander	NOUN	enemy.n.02.422951
+modstand	NOUN	resistance.n.01.136049
+modstandsbevægelse	NOUN	resistance.n.11.202381
+modtageforhold	NOUN	reception.n.03.364279
+modvilje	NOUN	reluctance.n.02.337511	resistance.n.01.136050
+mokka	NOUN	coffee.n.01.393765
+molekyle	NOUN	molecule.n.01.494156
+mollusk	NOUN	mollusk.n.01.247656
+monarki	NOUN	kingdom.n.04.400088
+monark	NOUN	sovereign.n.01.433309
+mønster	NOUN	design.n.04.314061
+montere	NOUN	blackpoll.n.01.225712
+mønt	NOUN	coin.n.01.472906
+montre	NOUN	case.n.20.308259
+mør	ADJ	tender.a.05.280633
+moral	NOUN	esprit_de_corps.n.01.337023
+moralsk	ADJ	moral.a.01.224537
+morder	NOUN	killer.n.01.426508
+mord	NOUN	murder.n.01.137678
+more	VERB	amuse.v.02.182807
+morgenmad	NOUN	breakfast.n.01.388292
+morgenmadsprodukt	NOUN	cereal.n.03.390290
+morgen	NOUN	morning.n.01.501263
+mørk	ADJ	dark.a.01.142148
+mørke	NOUN	dark.n.01.483083
+mor	NOUN	mother.n.01.428336
+morskab	NOUN	attraction.n.02.369683	fun.n.01.155628	refreshment.n.02.152899
+morsom	ADJ	amusing.s.02.208628
+mosaik	NOUN	mosaic.n.01.324190
+mose	NOUN	marsh.n.01.411462
+moské	NOUN	mosque.n.01.324196
+motionere	VERB	exercise.v.03.127432
+motion	NOUN	exercise.n.01.168010
+motivering	NOUN	motivation.n.01.119615
+motiv	NOUN	motif.n.01.324209	motivation.n.01.119614	subject.n.02.332659
+motorcykel	NOUN	motorcycle.n.01.324232
+motor	NOUN	engine.n.01.315844	motor.n.01.324224
+motorvej	NOUN	expressway.n.01.316169
+mudder	NOUN	mud.n.01.498102
+mug	NOUN	mold.n.05.468192
+muldvarp	NOUN	counterspy.n.01.421250	mole.n.06.244703
+mule	NOUN	mouth.n.01.349939
+mulig	ADJ	potential.a.01.121821
+mulighed	NOUN	possibility.n.02.491009	possibility.n.04.357535
+multiplicere	VERB	multiply.v.01.169032
+mumle	VERB	mumble.v.01.194353
+mundart	NOUN	dialect.n.01.379061
+mundering	NOUN	outfit.n.02.325198
+mund	NOUN	mouth.n.01.349936
+munk	NOUN	monk.n.01.424071
+munter	ADJ	cheerful.a.01.149414
+mur	NOUN	wall.n.01.335660
+mursten	NOUN	brick.n.01.305824
+museum	NOUN	museum.n.01.324381
+musikalsk	ADJ	musical.a.02.221989
+musiker	NOUN	musician.n.01.428473	musician.n.02.428470
+musikkassette	NOUN	cassette.n.01.308381
+musik	NOUN	music.n.01.376910
+musikus	NOUN	musician.n.01.428475	musician.n.02.428472
+muskel	NOUN	muscle.n.01.349768
+muslingeskal	NOUN	seashell.n.01.248650
+musling	NOUN	seashell.n.01.248649
+mus	NOUN	mouse.n.01.273535	mouse.n.04.324282
+mutation	NOUN	mutation.n.02.384649
+myg	NOUN	mosquito.n.01.265464
+myndig	ADJ	major.a.07.219966
+myndighed	NOUN	executive.n.02.396692
+myndighedsalder	NOUN	majority.n.03.501032
+myndling	NOUN	ward.n.01.435838
+myre	NOUN	ant.n.01.266639
+myr	NOUN	marsh.n.01.411463
+mysterium	NOUN	mystery.n.01.355598
+myte	NOUN	myth.n.01.365632
+nabo	NOUN	neighbor.n.01.428639
+næb	NOUN	beak.n.02.236410
+nægte	VERB	deny.v.03.266383	deny.v.04.266295	deprive.v.02.272446	refuse.v.01.178845	resist.v.06.289441
+nærme sig	VERB	approach.v.01.255478
+nærværende	ADJ	current.a.01.170360
+næse	NOUN	nose.n.01.353898
+nævne	VERB	mention.v.01.193150	name.v.02.193285
+nag	NOUN	grudge.n.01.387764
+nål	NOUN	needle.n.02.324572
+narko	NOUN	drug.n.01.315237
+narkotikum	NOUN	drug.n.01.315238
+nar	NOUN	jester.n.01.426319
+national	ADJ	national.a.01.308664
+nationalist	NOUN	patriot.n.01.429608
+nationalitet	NOUN	nationality.n.02.482378
+nation	NOUN	kingdom.n.01.491696	state.n.04.396749
+natklub	NOUN	cabaret.n.01.306836
+nat	NOUN	night.n.01.501341	night.n.03.501355
+natriumklorid	NOUN	salt.n.02.392049
+natrium	NOUN	sodium.n.01.493812
+naturel	NOUN	disposition.n.01.336999
+naturfænomen	NOUN	physical_phenomenon.n.01.446168
+naturlov	NOUN	law.n.03.359241	principle.n.04.359288
+natur	NOUN	disposition.n.01.336995	nature.n.01.339078	nature.n.02.413660	nature.n.03.411734	physical_property.n.01.345107	property.n.02.343303	property.n.04.358795	quality.n.01.339069	thing.n.09.336803	wild.n.01.482076
+naturtilstand	NOUN	wild.n.01.482077
+naturvidenskab	NOUN	natural_science.n.01.361322
+nå	VERB	achieve.v.01.285491	reach.v.06.295969
+navneord	NOUN	noun.n.01.364761
+navn	NOUN	name.n.01.364950	name.n.02.489960
+nederdel	NOUN	skirt.n.02.330836
+nedstigning	NOUN	descent.n.01.383386
+nedtrykt	ADJ	gloomy.s.02.172463
+negativ	ADJ	negative.a.04.240544
+neger	NOUN	ghostwriter.n.01.424422
+negl	NOUN	nail.n.01.353653
+nerve	NOUN	nerve.n.01.352034
+nervøs	ADJ	nervous.a.03.306045	skittish.s.01.186632
+net	NOUN	internet.n.01.320813	net.n.05.324619	net.n.06.324611	network.n.01.400481	network.n.02.324624
+netsted	NOUN	web_site.n.01.365387
+netværk	NOUN	network.n.01.400482	network.n.02.324625
+neutral	ADJ	neutral.a.04.240443
+nevø	NOUN	nephew.n.01.428656
+nikke	VERB	nod.v.02.185174
+niveau	NOUN	grade.n.02.489682	level.n.07.363746
+nobel	NOUN	xenicidae.n.01.226902
+nød	NOUN	breast.n.02.353152	emergency.n.01.384480	head.n.01.352871	indigence.n.01.491324	nut.n.01.468749
+nødsituation	NOUN	emergency.n.01.384481
+nødvendig	ADJ	essential.a.02.185326	necessary.a.01.226378
+nødvendighed	NOUN	necessity.n.02.411744
+nøgle	NOUN	key.n.01.321369	key.n.11.367676
+nøjagtig	ADJ	accurate.a.01.119418	exact.a.01.186314
+nonne	NOUN	nun.n.01.428883
+nord	NOUN	north.n.03.479941
+normal	ADJ	normal.a.01.227236	standard.a.01.271456
+note	NOUN	note.n.07.372768
+notesbog	NOUN	notebook.n.01.366514
+nuance	NOUN	nuance.n.01.369427	shade.n.02.344070
+nuklear	ADJ	nuclear.a.01.166873
+nul	NOUN	zero.n.02.478106
+nummer	NOUN	performance.n.02.163671	phone_number.n.01.366740
+numse	NOUN	buttocks.n.01.353274
+nutid	NOUN	present.n.01.500303
+nuttet	NOUN	exchange.n.10.133136
+nuværende	ADJ	present.a.01.234877
+ny	ADJ	new.a.01.229913	new.s.11.119721
+nydelse	NOUN	pleasure.n.01.386036
+nyde	VERB	love.v.02.241191
+nyhed	NOUN	news.n.01.370278	news.n.04.370292	news_program.n.01.369765
+nyre	NOUN	kidney.n.01.350366
+nysgerrig	ADJ	curious.a.02.170185
+nyskabelse	NOUN	invention.n.02.320852
+objektiv	ADJ	objective.a.01.228325
+obskur	ADJ	obscure.s.04.199365
+ødelæggelse	NOUN	destruction.n.02.382798	ruin.n.04.382829
+ødelagt	ADJ	finished.s.05.174563
+offensiv	ADJ	offensive.a.02.229124
+offentlig	ADJ	public.a.01.242825
+offentlighed	NOUN	populace.n.01.396893	public.n.02.394355
+offer	NOUN	casualty.n.01.419933	sacrifice.n.04.138276	victim.n.01.435513
+officiel	ADJ	official.a.01.229362
+øfgris	NOUN	hog.n.03.277190
+øjenbryn	NOUN	eyebrow.n.01.350101
+øjenlåg	NOUN	eyelid.n.01.350112
+øje	NOUN	eye.n.01.350070
+økonomi	NOUN	economics.n.01.362564	economy.n.01.399490
+økonomisk	ADJ	economic.a.02.298168
+økonom	NOUN	economist.n.01.422736
+oksekød	NOUN	beef.n.02.389650
+okse	NOUN	beef.n.02.389649
+olie	NOUN	vegetable_oil.n.01.389813
+øl	NOUN	beer.n.01.393119
+ølsort	NOUN	beer.n.01.393122
+omdømme	NOUN	reputation.n.02.489986
+omdrejning	NOUN	rotation.n.01.147421	rotation.n.03.384919
+omfavne	VERB	embrace.v.02.217164
+omgivelse	NOUN	environment.n.02.402259
+omkørsel	NOUN	diversion.n.02.148175
+omnibus	NOUN	bus.n.01.306611
+område	NOUN	area.n.06.347203	quarter.n.02.403208	region.n.03.403250	vicinity.n.01.403337
+omrids	NOUN	outline.n.01.402871
+omringe	VERB	surround.v.01.219713
+omslag	NOUN	reversal.n.01.138862
+omstændighed	NOUN	context.n.02.491647
+omstødelse	NOUN	reversal.n.05.203319
+omstøde	VERB	revoke.v.02.179043
+ondskabsfuldhed	NOUN	malice.n.01.387817
+onkel	NOUN	uncle.n.01.435227
+ø	NOUN	island.n.01.411087
+ønske	NOUN	desire.n.01.385824
+ønske	VERB	desire.v.01.240864	wish.v.03.185497	wish.v.04.240799
+ønskværdig	ADJ	desirable.a.01.174355
+opdagelse	NOUN	discovery.n.03.357901
+opdagelsesrejse	NOUN	exploration.n.01.144917
+opdage	VERB	discover.v.03.229704
+opdatere	VERB	update.v.02.181134
+opdrætte	VERB	breed.v.03.217434
+operationel	ADJ	operational.a.01.309491
+operation	NOUN	mathematical_process.n.01.183374	operation.n.03.153616	operation.n.05.188856	operation.n.06.170662
+opfatte	VERB	perceive.v.01.259133
+opføre sig	VERB	act.v.02.118413
+opførsel	NOUN	bearing.n.03.343132	behavior.n.01.205649
+opgave	NOUN	assignment.n.05.178764	composition.n.08.366294	job.n.02.173494
+opgive	VERB	drop_out.v.01.196923	foreswear.v.02.267079
+opgørelse	NOUN	statement.n.07.368137
+ophavsret	NOUN	copyright.n.01.367421
+ophidselse	NOUN	agitation.n.04.163868
+ophold	NOUN	stay.n.01.194967
+ophøre	VERB	discontinue.v.01.295636
+opinion	NOUN	public_opinion.n.01.360584
+opklare	VERB	clarify.v.01.187951
+oplevelse	NOUN	phenomenon.n.01.120836	social_event.n.01.381686
+opløsning	NOUN	solution.n.01.492892
+oplysning	NOUN	information.n.01.370149
+opmærksom	ADJ	mindful.a.01.250143
+opmuntre	VERB	encourage.v.03.176946
+opnå	VERB	obtain.v.01.267896
+opposition	NOUN	opposition.n.08.400068
+opretholde	VERB	prolong.v.02.295548
+oprindelse	NOUN	origin.n.02.343404
+oprører	NOUN	insurgent.n.01.426138
+oprøre	VERB	disturb.v.01.237085
+oprør	NOUN	rebellion.n.02.189259
+oprykning	NOUN	promotion.n.02.135752
+opsætning	NOUN	layout.n.01.358519
+opsigelse	NOUN	notice.n.04.380279	resignation.n.03.367998
+opspare	VERB	save.v.05.269528
+opstarte	VERB	begin.v.03.148041
+opstå	VERB	originate.v.01.291834
+opstemt	ADJ	excited.a.02.186651
+opstillingskreds	NOUN	constituency.n.01.397820
+opsummering	NOUN	recapitulation.n.03.367349
+optagelse	NOUN	recording.n.03.328265
+optagethed	NOUN	preoccupation.n.01.358515	preoccupation.n.02.356024
+optage	VERB	record.v.02.191487
+optegnelse	NOUN	record.n.01.370424
+optimisme	NOUN	optimism.n.02.348691
+optimistisk	ADJ	optimistic.a.01.231526
+option	NOUN	option.n.01.470182
+optog	NOUN	march.n.04.400384
+optøjer	NOUN	riot.n.01.202459
+optræden	NOUN	performance.n.02.163673
+optræde	VERB	perform.v.03.234038
+opvarme	VERB	warm.v.02.150328
+opvarmningsanlæg	NOUN	heating_system.n.01.319586
+oral	ADJ	oral.a.03.231664
+orange	NOUN	orange.n.01.390978
+ordbog	NOUN	dictionary.n.01.366580
+orden	NOUN	ordering.n.01.400660	orderliness.n.02.491390	order.n.03.482638	order.n.15.192225
+ordenshåndhæver	NOUN	bull.n.05.419501	policeman.n.01.430223
+ordensmagt	NOUN	police.n.01.397314
+ordentlig	ADJ	tidy.a.01.278941
+ordinær	ADJ	common.a.02.159761	ordinary.a.01.232036
+ordlyd	NOUN	wording.n.01.377698
+ordne	VERB	arrange.v.01.219536	arrange.v.07.174495	organize.v.04.153160	settle.v.11.219633
+ord	NOUN	parole.n.01.380528	promise.n.01.380516	word.n.01.364381
+ordre	NOUN	decree.n.01.368507	order.n.01.379280
+øre	NOUN	ear.n.01.350215
+organisation	NOUN	confederation.n.02.398742
+organisk	ADJ	organic.a.02.232425
+organisme	NOUN	body.n.01.348752
+organ	NOUN	organ.n.01.349865
+orgel	NOUN	organ.n.05.325113
+orgie	NOUN	orgy.n.03.161532
+original	ADJ	original.a.03.232706
+ørken	NOUN	desert.n.01.401335
+orkesterleder	NOUN	conductor.n.01.420829
+orkester	NOUN	orchestra.n.01.398005
+orlov	NOUN	leave.n.01.500775
+orm	NOUN	worm.n.01.246741	worm.n.03.369117
+ørn	NOUN	eagle.n.01.228231
+ortodoks	ADJ	orthodox.a.02.232894
+øse	NOUN	car.n.01.307719
+østen	NOUN	east.n.02.402152
+østerland	NOUN	east.n.02.402153
+ostesort	NOUN	cheese.n.01.392605
+ost	NOUN	cheese.n.01.392604
+øst	NOUN	east.n.01.479968
+output	NOUN	end_product.n.01.315836
+øvelse	NOUN	exercise.n.03.184963
+overall	NOUN	overall.n.01.325235
+overbevise	VERB	convert.v.09.176810
+overbevisning	NOUN	conviction.n.01.360508
+overekstremitet	NOUN	arm.n.01.353370
+overensstemmende	ADJ	consistent.a.01.164870
+overflade	NOUN	surface.n.01.332882	surface.n.02.403707
+overfladisk	ADJ	shallow.s.03.243571
+overflødighed	NOUN	redundancy.n.02.347060
+overføre	VERB	transfer.v.02.267465	transmit.v.04.217683
+overførsel	NOUN	transportation.n.02.145408
+overgang	NOUN	conversion.n.01.384407
+overgå	VERB	exceed.v.02.294727	surpass.v.02.198266
+overgiven	ADJ	hilarious.s.01.208713
+overhoved	NOUN	head.n.04.425196
+overlegen	ADJ	superior.a.01.274106
+overlevelse	NOUN	survival.n.01.482532
+overrække	VERB	present.v.04.269336
+overraskelse	NOUN	surprise.n.02.381986
+oversigt	NOUN	sketch.n.03.367355
+overskrift	NOUN	headline.n.01.365161
+overskud	NOUN	excess.n.01.347035
+overskue	VERB	watch.v.04.260746
+overslag	NOUN	premise.n.01.372535
+overspringe	VERB	jump.v.13.167320
+oversvømmelse	NOUN	flood.n.01.446666
+overtale	VERB	convert.v.09.176809	persuade.v.02.176661
+overtrædelse	NOUN	misdemeanor.n.01.176845	score.n.03.475837	violation.n.02.176927
+overtyde	VERB	convert.v.09.176808
+overvægtig	ADJ	corpulent.s.01.190912
+overvælde	VERB	overpower.v.01.198565
+overveje	VERB	chew_over.v.01.168282	consider.v.05.179969
+ovn	NOUN	oven.n.01.325230
+øvrighed	NOUN	state.n.03.396875
+pæl	NOUN	pole.n.01.326952	post.n.09.381149
+pære	NOUN	brain.n.01.352141	light_bulb.n.01.322268
+pakke ’ind	VERB	wrap.v.01.209535
+pakke	NOUN	package.n.01.394953
+pakke	VERB	pack.v.01.220625
+påklædning	NOUN	outfit.n.02.325195
+pak	NOUN	rabble.n.02.400016
+palads	NOUN	palace.n.04.325450
+pålidelig	ADJ	reliable.a.01.173818
+palme	NOUN	palm.n.03.460901
+pande	NOUN	brow.n.01.353979	pan.n.01.325516
+panel	NOUN	jury.n.02.400216
+panik	NOUN	panic.n.01.386981
+panser	NOUN	bull.n.05.419495	policeman.n.01.430217
+pantsætte	VERB	pawn.v.01.274577
+papirark	NOUN	sheet.n.02.363890
+papir	NOUN	document.n.01.367366	paper.n.01.498325	record.n.07.473157	sheet.n.02.363889
+parabol	NOUN	dish.n.05.314514
+parade-	NOUN	parade.n.01.400389
+parade	NOUN	parade.n.01.400388
+parallel	ADJ	parallel.a.01.234217
+paraply	NOUN	umbrella.n.01.335048
+parentes	NOUN	bracket.n.02.374310
+parforhold	NOUN	sexual_relationship.n.01.481904
+parfume	NOUN	perfume.n.02.326081
+parkere	VERB	park.v.02.247385
+parkeringsplads	NOUN	parking.n.01.478929
+parlament	NOUN	parliament.n.01.398983
+par	NOUN	couple.n.01.394566
+partikel	NOUN	particle.n.02.411992
+parti	NOUN	party.n.01.398161
+partner	NOUN	lover.n.03.415379	partner.n.03.429526	spouse.n.01.433479
+part	NOUN	party.n.05.429543	share.n.01.471145
+påskønne	VERB	recognize.v.09.286906	reward.v.03.274341
+pas	NOUN	passport.n.02.367807
+passage	NOUN	passage.n.01.135967	passage.n.03.325757	passage.n.07.349172
+passager	NOUN	passenger.n.01.429559
+passere	VERB	pass.v.01.255205	pass.v.07.255179
+passe	VERB	fit.v.07.299486	guard.v.02.199800	match.v.01.294030	suit.v.02.299455
+passioneret	ADJ	passionate.a.01.234616
+passiv	ADJ	passive.a.01.121407
+påståelig	ADJ	assertive.a.01.132076
+påstand	NOUN	assertion.n.01.372088	claim.n.02.372105
+påstå	VERB	claim.v.01.176022
+pastelfarve	NOUN	pastel.n.01.344451
+pastel	NOUN	pastel.n.01.344450
+pastor	NOUN	curate.n.01.421575
+patent	NOUN	patent.n.01.367811
+patentret	NOUN	patent.n.01.367812
+patient	NOUN	patient.n.01.429588
+patrulje	NOUN	troop.n.03.398389
+pattedyr	NOUN	mammal.n.01.242847
+patte	NOUN	breast.n.02.353154
+pause	NOUN	pause.n.01.503283	pause.n.02.195567
+påvirke	VERB	affect.v.01.130251
+peanut	NOUN	peanut.n.04.390808
+peber	NOUN	pepper.n.01.468944
+pegefinger	NOUN	index.n.05.353448
+pejs	NOUN	fire.n.04.316786
+pels	NOUN	fur.n.01.495275
+penge	NOUN	money.n.01.472781
+pengeseddel	NOUN	bill.n.03.472989
+pengestykke	NOUN	coin.n.01.472907
+pen	NOUN	pen.n.01.325956
+pensionist	NOUN	pensioner.n.01.429775
+pension	NOUN	pension.n.01.472771
+pensum	NOUN	course_of_study.n.01.370957
+peppille	NOUN	amphetamine.n.01.297324
+perfekt	ADJ	perfect.a.01.235856
+perforere	VERB	punch.v.03.218134
+performer	NOUN	performer.n.01.429792
+periode	NOUN	clock_time.n.01.500613	historic_period.n.01.502960	stretch.n.06.500676	time.n.05.120072	time_period.n.01.500251
+permanent	ADJ	permanent.a.01.236196
+personale	NOUN	staff.n.01.400579
+personlig	ADJ	personal.a.01.236912
+personlighed	NOUN	personality.n.01.336808
+personlighedstræk	NOUN	characteristic.n.02.339229
+person	NOUN	man.n.03.427549	person.n.01.118159
+pianoforte	NOUN	piano.n.01.326262
+piano	NOUN	piano.n.01.326260
+pige	NOUN	female_child.n.01.423468
+pigment	NOUN	pigment.n.01.498554
+pille	NOUN	pill.n.02.326394
+pil	NOUN	arrow.n.01.373891	arrow.n.02.299926
+pilot	NOUN	pilot.n.01.430003
+pind	NOUN	stick.n.01.332171
+pine	NOUN	agony.n.01.386184
+pioner	NOUN	pioneer.n.01.430030
+pipfugl	NOUN	bird.n.01.221841
+piphans	NOUN	bird.n.01.221840
+piske	VERB	whip.v.04.215769
+pisk	NOUN	whip.n.01.336143
+pisse	NOUN	urine.n.01.496630
+placere	VERB	position.v.01.250778	seat.v.01.224289
+placering	NOUN	placement.n.03.194826
+pladder	NOUN	mud.n.01.498103
+plade	NOUN	album.n.01.369199	slab.n.01.330887
+plads	NOUN	position.n.01.403109	public_square.n.01.403081	seat.n.01.403499	space.n.03.403615
+plæne	NOUN	lawn.n.01.402619
+plagiere	VERB	plagiarize.v.01.270319
+plan	ADJ	even.a.03.185928
+planere	VERB	plan.v.02.172581
+planet	NOUN	planet.n.01.412111
+planke	NOUN	board.n.02.500097
+planlægge	VERB	plan.v.02.172582
+planlægning	NOUN	preparation.n.01.200701
+plan	NOUN	floor.n.02.317154	plan.n.01.359672
+plantedel	NOUN	plant_part.n.01.468286
+plante	NOUN	plant.n.02.118914
+plantesort	NOUN	plant.n.02.118915
+plantesygdom	NOUN	plant_disease.n.01.487255
+plantevækst	NOUN	plant.n.02.118916
+plante	VERB	plant.v.01.225556
+plaster	NOUN	plaster.n.05.326691
+plastic	NOUN	plastic.n.01.492932
+platform	NOUN	platform.n.01.326755
+plat	NOUN	tail.n.06.333193
+pleje	NOUN	care.n.01.169734
+plet	NOUN	smudge.n.02.338597
+plette	VERB	stain.v.02.143224
+pligt	NOUN	duty.n.01.199879	duty.n.02.173477
+pløk	NOUN	tooth.n.01.349704
+plot	NOUN	plot.n.03.365643
+pludder	NOUN	mud.n.01.498104
+pludselig	ADJ	sudden.a.01.200721
+plukke	VERB	pick.v.02.214785
+pluk	NOUN	excerpt.n.01.366085
+pneumoni	NOUN	pneumonia.n.01.485688
+poesi	NOUN	poetry.n.01.377926
+police	NOUN	policy.n.03.368283
+policy	NOUN	policy.n.02.370560
+politibetjent	NOUN	bull.n.05.419499	policeman.n.01.430220
+politiker	NOUN	politician.n.02.430237
+politik	NOUN	policy.n.02.370559	politics.n.01.480106
+politisk	ADJ	political.a.01.240144
+pol	NOUN	pole.n.07.403098
+pøl	NOUN	pool.n.06.412160
+pølse	NOUN	sausage.n.01.389843
+pony	NOUN	pony.n.05.276415
+popmusik	NOUN	pop_music.n.01.377476
+pop	NOUN	pop_music.n.01.377475
+popo	NOUN	buttocks.n.01.353273
+populær	ADJ	popular.a.01.240239
+port	NOUN	gate.n.01.318158
+portræt	NOUN	portrait.n.02.327110
+pose	NOUN	porch.n.01.327065	pouch.n.01.327211
+position	NOUN	position.n.12.363028	status.n.01.482220
+positiv	ADJ	positive.a.04.240531
+postbud	NOUN	mailman.n.01.427443
+postforsendelse	NOUN	mail.n.01.364187
+postkort	NOUN	card.n.03.369929	postcard.n.01.369943
+post	NOUN	mailman.n.01.427444	mail.n.01.364185	mail.n.02.364023	population.n.03.361563	post.n.01.403154
+postvæsen	NOUN	mail.n.02.364024
+postyr	NOUN	bustle.n.01.163929
+potentiale	NOUN	population.n.01.396902	potential.n.01.491023
+potentialitet	NOUN	population.n.01.396903	potential.n.01.491024
+potentiel	NOUN	population.n.01.396899	potential.n.01.491022
+potte	NOUN	pot.n.04.327183
+p-pille	NOUN	pill.n.05.326401
+p-plads	NOUN	parking.n.01.478928
+præcis	ADJ	definite.a.01.172311	precise.a.01.241573
+prædiken	NOUN	sermon.n.01.380874
+prædike	VERB	preach.v.01.180855
+præferere	VERB	prefer.v.03.277508
+præmie	NOUN	premium.n.01.471475	trophy.n.02.334795
+præmiere	VERB	reward.v.03.274339
+præsentere	VERB	introduce.v.01.185371
+præsident	NOUN	president.n.03.430481
+præstation	NOUN	accomplishment.n.01.120940
+præsteskab	NOUN	priesthood.n.01.396104
+praksis	NOUN	practice.n.01.153664
+praktisk	ADJ	convenient.a.01.166437	practical.a.01.241418
+prale	VERB	boast.v.01.184265
+present	NOUN	gift.n.01.470676	present.n.02.470769
+pres	NOUN	pressure.n.05.356505
+presse	NOUN	fourth_estate.n.01.396733	press.n.02.364008
+presse	VERB	press.v.01.218405	urge.v.01.176558
+prestige	NOUN	prestige.n.01.489845
+primær	ADJ	primary.a.01.242362
+primærvalg	NOUN	primary.n.01.134545
+primat	NOUN	primate.n.02.282058
+primitiv	ADJ	crude.s.04.180278
+princip	NOUN	principle.n.03.359271
+prinsesse	NOUN	princess.n.01.430617
+prins	NOUN	prince.n.01.430601
+printer	NOUN	printer.n.02.327361
+prioritetslån	NOUN	mortgage.n.01.472245
+pris	NOUN	charge.n.11.379822	monetary_value.n.01.347496	prize.n.01.470755
+privat	ADJ	private.s.02.237026
+privatbolig	NOUN	dwelling.n.01.315438	residence.n.01.402092
+privaten	NOUN	dwelling.n.01.315436	residence.n.01.402091
+privatkapitalisme	NOUN	capitalism.n.01.399458
+privatlærer	NOUN	coach.n.02.420507
+privatliv	NOUN	privacy.n.01.336926
+privilegium	NOUN	privilege.n.01.347820
+problem	NOUN	problem.n.02.373271	trouble.n.01.355636	trouble.n.03.381701	trouble.n.04.167857
+procedure	NOUN	procedure.n.04.193117
+procent	NOUN	percentage.n.01.479701
+proces	NOUN	chemical_reaction.n.01.473797	process.n.06.120234
+producent	NOUN	manufacturer.n.02.427615
+producer	NOUN	producer.n.02.430732
+produktion	NOUN	output.n.04.478455	production.n.01.186195	production.n.02.376704	production.n.07.186273
+produktiv	ADJ	generative.a.01.243127
+produkt	NOUN	merchandise.n.01.323588	product.n.02.327418	product.n.03.359002
+professionel	ADJ	professional.a.04.303907
+professionel	NOUN	professional.n.01.430737
+profession	NOUN	profession.n.02.166828
+professorat	NOUN	professorship.n.01.165999
+professor	NOUN	professor.n.01.430745
+profeti	NOUN	projection.n.01.357268
+prognose	NOUN	prognosis.n.01.372485
+program	NOUN	broadcast.n.02.369758	program.n.05.372456	program.n.07.368890
+progressiv	ADJ	progressive.a.01.243635
+projektil	NOUN	bullet.n.01.306363
+projektion	NOUN	projection.n.02.374926	projection.n.05.481590
+projekt	NOUN	undertaking.n.01.178721
+proponere	VERB	propose.v.01.183715
+proportion	NOUN	proportion.n.02.346491
+protein	NOUN	protein.n.01.494803
+protestere	VERB	object.v.01.179652
+protest	NOUN	objection.n.02.380190	protest.n.02.202845
+protokol	NOUN	procedure.n.04.193118
+prøvelse	NOUN	trial.n.06.383564
+prøve	NOUN	examination.n.05.168689	rehearsal.n.01.185091	sample.n.01.358206	trial.n.02.357683
+prøve	VERB	sample.v.01.203820	try.v.01.285822
+provinsiel	ADJ	provincial.a.02.168695
+provins	NOUN	state.n.01.403647
+pruhest	NOUN	horse.n.01.275958
+psykoanalyse	NOUN	psychoanalysis.n.01.172542
+psykoanalytiker	NOUN	analyst.n.03.417769
+psykologi	NOUN	psychology.n.01.362430
+psykolog	NOUN	psychologist.n.01.430914
+psykose	NOUN	psychosis.n.01.489034
+pubertet	NOUN	puberty.n.01.500959
+publicere	VERB	print.v.01.235657
+publikation	NOUN	publication.n.01.369158
+publikum	NOUN	audience.n.01.397553
+pude	NOUN	cushion.n.03.313547	pillow.n.01.326422
+pudse	VERB	polish.v.01.207407
+pulsere	VERB	pulsate.v.01.243842
+pulver	NOUN	powder.n.01.498649
+pumpe	NOUN	pump.n.01.327615
+pumpe	VERB	pump.v.07.242403
+punch	NOUN	punch.n.02.393778
+pund	NOUN	pound.n.01.477722
+punkt	NOUN	detail.n.01.358095	point.n.02.403089	point.n.09.481460
+punktum	NOUN	period.n.07.374331
+pupil	NOUN	pupil.n.02.350200
+puslespil	NOUN	puzzle.n.02.327709
+pyramide	NOUN	pyramid.n.01.481514
+pyt	NOUN	pool.n.06.412158
+rå	ADJ	raw.a.03.167519
+rabat	NOUN	discount.n.01.149347	shoulder.n.05.330465
+råbe	VERB	shout.v.01.186143	shout.v.02.186210
+råb	NOUN	cry.n.01.378319
+race	NOUN	race.n.03.394387
+racisme	NOUN	racism.n.01.363211
+rådden	ADJ	decayed.s.01.270187	icky.s.01.199701
+rådgiver	NOUN	adviser.n.01.417468
+radikal	NOUN	radical.n.03.431155
+radioapparat	NOUN	radio_receiver.n.01.327940
+radiokommunikation	NOUN	radio.n.03.327909
+radiomodtager	NOUN	radio_receiver.n.01.327941
+radio	NOUN	radio_receiver.n.01.327939
+rådne	VERB	spoil.v.02.136739
+råd	NOUN	advice.n.01.370827	council.n.01.398883
+rædsom	ADJ	grotesque.s.01.137795
+rækkefølge	NOUN	ordering.n.01.400661	order.n.15.192226	succession.n.03.192258
+række	NOUN	file.n.02.400395	line.n.03.400418	row.n.01.400444	row.n.03.412426	series.n.01.400674
+rækkevidde	NOUN	scope.n.01.347156
+ræsonnere	VERB	reason.v.03.168414
+ræv	NOUN	fox.n.01.259944
+ramme ’ind	VERB	frame.v.02.297846
+ramme	VERB	hit.v.02.206758
+rand	NOUN	brink.n.01.481254
+rang	NOUN	social_station.n.01.482246
+ransage	VERB	search.v.04.211290
+rapand	NOUN	duck.n.01.242038
+rapiditet	NOUN	momentum.n.01.345564	pace.n.03.345958	speed.n.01.503541
+rappenskralde	NOUN	cunt.n.01.421561
+rapportere	VERB	report.v.02.189557
+rapport	NOUN	report.n.01.380361
+råprodukt	NOUN	raw_material.n.01.493001
+rar	ADJ	nice.a.01.226755
+raseri	NOUN	fury.n.01.386860
+rasle	VERB	rattle.v.01.263852	rustle.v.01.264295
+råstof	NOUN	raw_material.n.01.493000
+rationel	ADJ	rational.a.01.246909
+råvare	NOUN	raw_material.n.01.492999
+ravfarvet	ADJ	amber.s.01.150044
+reaktion	NOUN	chemical_reaction.n.01.473796	reaction.n.04.447270	reaction.n.05.446128	reception.n.01.370010
+reaktor	NOUN	nuclear_reactor.n.01.324803
+realistisk	ADJ	realistic.a.01.247623
+realitet	NOUN	reality.n.02.482409
+reb	NOUN	rope.n.01.328925
+receptmedicin	NOUN	prescription_drug.n.01.327294
+recept	NOUN	prescription.n.04.365480
+recession	NOUN	recession.n.01.483717
+redde	VERB	rescue.v.01.287277
+rede	NOUN	nest.n.01.411769	orderliness.n.02.491391
+rede penge	NOUN	cash.n.01.472858
+redskab	NOUN	instrument.n.01.320743	utensil.n.01.335208
+reducere	VERB	reduce.v.01.155522
+reduktion	NOUN	decrease.n.04.148298
+referat	NOUN	overview.n.01.367344	summary.n.01.367198
+reference	NOUN	citation.n.03.372785	reference_point.n.01.381158
+reflektere	VERB	reflect.v.04.301256
+reflektor	NOUN	reflector.n.01.328338
+reform	NOUN	reform.n.01.141112
+refundere	VERB	refund.v.01.270709
+regelmæssig	ADJ	regular.a.01.248830
+regel	NOUN	convention.n.02.355315	rule.n.01.358718
+regere	VERB	govern.v.03.289659
+regering	NOUN	cabinet.n.02.399705	government.n.01.395338
+regeringstid	NOUN	reign.n.02.503039	rule.n.06.503749
+regional	ADJ	regional.a.01.304967
+region	NOUN	region.n.01.403241
+register	NOUN	index.n.04.367669	register.n.01.367939
+registrere	VERB	register.v.01.282134
+registrering	NOUN	registration.n.01.122437
+regnbue	NOUN	rainbow.n.01.412256
+regne	VERB	rain.v.01.300654	respect.v.01.171931
+regning	NOUN	check.n.03.368174
+regn	NOUN	rain.n.01.447300
+regnvejr	NOUN	rain.n.01.447301
+regulere	VERB	regularize.v.02.142336
+rehabilitering	NOUN	rehabilitation.n.04.172300
+rejsende	NOUN	traveler.n.01.415518
+rejse	NOUN	pool.n.06.412159	travel.n.01.143887	voyage.n.02.145176
+rejsepas	NOUN	passport.n.02.367808
+rejse sig	VERB	arise.v.03.250508
+reklame	NOUN	ad.n.01.380982
+reklamere	VERB	advertise.v.02.190283
+rekommandere	VERB	commend.v.04.184236
+rekonvalescens	NOUN	convalescence.n.01.473868
+rekord	NOUN	record.n.06.123976
+rektor	NOUN	president.n.05.430493
+relation	NOUN	relation.n.01.120537	social_relation.n.01.120648
+relativ	ADJ	relative.a.01.118003
+relevans	NOUN	relevance.n.01.479255
+relevant	ADJ	relevant.a.01.249974
+religiøs	ADJ	religious.a.02.237908
+rem	NOUN	strap.n.03.332434
+ren	ADJ	clean.a.01.154277	pure.a.01.245745	pure.a.06.245699
+rendesten	NOUN	gutter.n.01.318931
+rente	NOUN	interest.n.04.471760
+reparere	VERB	repair.v.01.141124
+repertoire	NOUN	selection.n.02.399951
+repetition	NOUN	repeat.n.01.382942
+repræsentant	NOUN	representative.n.01.431441
+repræsentation	NOUN	representation.n.03.205405
+repræsentativ	ADJ	representative.a.02.250387
+repræsentere	VERB	represent.v.01.296949	represent.v.04.286587	represent.v.05.190953
+reproducere	VERB	reproduce.v.01.235166
+reproduktion	NOUN	replica.n.01.328461
+reptil	NOUN	reptile.n.01.231347
+republik	NOUN	republic.n.02.399438
+reservation	NOUN	condition.n.02.372556	condition.n.07.372956	reservation.n.02.372731	reserve.n.07.337636
+reserveret	ADJ	aloof.s.01.250813
+reservere	VERB	reserve.v.03.178712	reserve.v.04.283624
+residens	NOUN	dwelling.n.01.315434	residence.n.01.402086
+respektabel	ADJ	respectable.a.01.251279
+respektere	VERB	respect.v.01.171932
+respekt	NOUN	admiration.n.01.386308
+restaurant	NOUN	restaurant.n.01.328544
+restaurering	NOUN	renovation.n.02.489617
+restemad	NOUN	leftovers.n.01.388084
+rest	NOUN	leftovers.n.01.388082	remainder.n.01.479517	remains.n.01.412309	residue.n.01.498779
+resultat	NOUN	goal.n.01.361015	product.n.05.446112	result.n.03.381861
+resumé	NOUN	overview.n.01.367343	summary.n.01.367197
+resurse	NOUN	resource.n.02.347753
+ret	ADJ	good.s.07.254319	straight.a.08.272527
+retfærdig	ADJ	impartial.a.01.234500
+retning	NOUN	course.n.04.121305	direction.n.03.363048	science.n.01.361313
+retningslinje	NOUN	guidepost.n.01.358786
+ret	NOUN	dish.n.02.388038	entitlement.n.01.348257	right.n.01.348174
+retorik	NOUN	rhetoric.n.04.362767
+retskaffenhed	NOUN	righteousness.n.01.340938
+retssag	NOUN	legal_action.n.01.203079	litigation.n.01.203357
+rettelse	NOUN	correction.n.01.140937
+rette	VERB	straighten.v.02.213902
+rettighed	NOUN	entitlement.n.01.348258	right.n.01.348175
+returnere	VERB	return.v.05.257408
+retvingede insekter	NOUN	cricket.n.01.267244
+revidere	VERB	revise.v.01.191365
+revisor	NOUN	accountant.n.01.417195
+revne	NOUN	gap.n.03.317982	split.n.04.412807
+revolutionær	ADJ	revolutionary.a.04.252815
+revolution	NOUN	revolution.n.02.189304
+ribben	NOUN	rib.n.02.349646
+ribbe	NOUN	rib.n.05.349002
+ride	VERB	ride.v.01.248701
+ridse	VERB	scratch.v.02.210843
+rig	ADJ	rich.a.01.253244
+rigdom	NOUN	wealth.n.01.491263	wealth.n.03.472269
+rigelig	ADJ	ample.s.03.214851
+rige	NOUN	kingdom.n.01.491694	state.n.04.396750
+rigtig	ADJ	correct.a.01.168333	true.a.01.281530
+ringeagt	NOUN	rebuff.n.01.205980
+ringen	NOUN	ring.n.01.344582	ring.n.06.383962
+ringe	VERB	call.v.03.178389	ring.v.01.264183
+ring	NOUN	ring.n.08.328700
+risikere	VERB	gamble.v.01.286792
+risiko	NOUN	risk.n.02.179218
+ris	NOUN	rice.n.01.391915
+riste	NOUN	wag.n.02.147939
+riste	VERB	shake.v.01.244707	tremble.v.01.244573
+ritual	NOUN	religious_ceremony.n.01.193439	rite.n.01.193517	ritual.n.01.193416	ritual.n.02.193588
+rivejern	NOUN	cunt.n.01.421560
+robot	NOUN	automaton.n.02.300968
+rockmusik	NOUN	rock_'n'_roll.n.01.377536
+rock	NOUN	rock_'n'_roll.n.01.377535
+rode ’sammen	VERB	scramble.v.03.219999
+rødfarvet	NOUN	red.n.01.344152
+rødme	VERB	blush.v.01.127651
+rod	NOUN	root.n.01.468605
+rød	NOUN	red.n.01.344151
+roe	NOUN	head.n.01.352869
+røg	NOUN	smoke.n.01.447425
+rolig	ADJ	quiet.a.01.246757	quiet.a.02.246523
+rollebesætning	NOUN	cast.n.01.397814
+rolle	NOUN	character.n.04.360252	role.n.04.173697
+roman	NOUN	novel.n.01.365512
+romantisk	ADJ	amatory.s.01.219599
+roning	NOUN	rowing.n.01.157133
+ro	NOUN	easiness.n.01.386830	peace.n.03.386820	silence.n.02.344593
+røre	NOUN	touch.n.05.122043
+røre	VERB	stir.v.01.245100
+rør	NOUN	pipe.n.03.481184	tube.n.04.349147
+rose	NOUN	rose.n.01.461501
+rose	VERB	praise.v.01.182616
+ros	NOUN	fame.n.01.489891	praise.n.01.371276	rabble.n.02.400017
+røst	NOUN	voice.n.01.344588	voice.n.02.378180	voice.n.09.348533
+rotation	NOUN	rotation.n.01.147420
+rotte	NOUN	rat.n.01.273572
+rovdyr	NOUN	predator.n.02.262348
+røveri	NOUN	robbery.n.01.177796
+røve	VERB	rob.v.01.272997
+røv	NOUN	buttocks.n.01.353269
+royalty	NOUN	royalty.n.01.470502
+ru	ADJ	rough.a.01.267915
+rugby	NOUN	rugby.n.01.158823
+ruin	NOUN	ruin.n.02.329067
+rullen	NOUN	roll.n.15.127764
+rulle	NOUN	roll.n.11.328833
+rulle	VERB	roll.v.01.243044	roll.v.14.243086	roll.v.15.195108	wheel.v.03.244472
+rumfang	NOUN	volume.n.01.478933
+rumindhold	NOUN	volume.n.01.478935
+rumlig	ADJ	spatial.a.01.303973
+rumlighed	NOUN	spatial_property.n.01.346050
+rummål	NOUN	volume.n.01.478934
+rumme	VERB	incorporate.v.02.292286
+rum	NOUN	compartment.n.02.311438	room.n.01.328908	space.n.02.481401
+rumvæsen	NOUN	extraterrestrial_being.n.01.413394
+rund	ADJ	round.a.01.254591
+rusmiddel	NOUN	drug.n.01.315239
+rute	NOUN	path.n.03.402986
+rutine	NOUN	routine.n.01.193307
+rutsjebane	NOUN	slide.n.04.330952
+rydde	VERB	clear.v.23.157445
+ryge	VERB	smoke.v.01.204000
+rygrad	NOUN	spinal_column.n.01.353753
+rygte	NOUN	rumor.n.01.380441
+rykke	VERB	twitch.v.01.118362
+rynke	NOUN	wrinkle.n.01.481300
+ry	NOUN	standing.n.01.482278
+rytme	NOUN	rhythm.n.01.377806
+rytter	NOUN	rider.n.01.431549
+sæbe	NOUN	soap.n.01.331213
+sælger	NOUN	salesclerk.n.01.431884	seller.n.01.432370
+sælge	VERB	sell.v.01.268162	sell.v.02.298929
+sælhund	NOUN	seal.n.09.257236
+sæl	NOUN	seal.n.09.257235
+sænke	VERB	sink.v.02.250759
+særling	NOUN	crackpot.n.01.421350
+sæson	NOUN	season.n.01.502624
+sætning	NOUN	sentence.n.01.364367
+sæt	NOUN	set.n.08.502990
+sætte	VERB	put.v.01.221371
+safari	NOUN	campaign.n.04.144902
+sag	NOUN	lawsuit.n.01.203111
+sagsøger	NOUN	plaintiff.n.01.430085
+sakramente	NOUN	sacrament.n.01.193810
+salær	NOUN	fee.n.01.471784
+salat	NOUN	salad.n.01.391976
+salg	NOUN	sale.n.02.199059
+sal	NOUN	hall.n.03.319085	hall.n.13.319077
+salon	NOUN	salon.n.02.329246
+salt	NOUN	salt.n.01.498879	salt.n.02.392047
+samarbejde	NOUN	cooperation.n.02.153756	partnership.n.03.368316
+samarbejde	VERB	collaborate.v.01.278513
+samfund	NOUN	society.n.01.394362
+samlebånd	NOUN	production_line.n.01.327424
+samle ’ind	VERB	raise.v.04.272053
+samles	VERB	meet.v.07.279431
+samling	NOUN	collection.n.01.394120	fabrication.n.04.186112	section.n.03.403522
+sammenbrud	NOUN	breakdown.n.02.484607
+sammendrag	NOUN	overview.n.01.367346	summary.n.01.367200
+sammenhæng	NOUN	relation.n.01.120538	setting.n.02.491654
+sammenkog	NOUN	overview.n.01.367345	summary.n.01.367199
+sammenlignelig	ADJ	comparable.a.01.160973
+sammenligne	VERB	compare.v.01.169574
+sammensætning	NOUN	constitution.n.04.343589
+sammenstød	NOUN	impact.n.01.382890
+sammentrækning	NOUN	contraction.n.01.150073
+samtale	NOUN	conversation.n.01.378608	speech.n.04.378177
+samvær	NOUN	social_gathering.n.01.398075
+samvittighed	NOUN	conscience.n.01.409218
+sand	ADJ	correct.a.01.168334	true.a.01.281529
+sandal	NOUN	sandal.n.01.329301
+sandhed	NOUN	truth.n.02.482429	truth.n.03.371995
+sand	NOUN	sand.n.01.498977
+sandsynlig	ADJ	probable.a.01.216575
+sandsynlighed	NOUN	probability.n.01.346504
+sandwich	NOUN	bomber.n.03.390174
+sanger	NOUN	singer.n.01.432784
+sang	NOUN	song.n.01.377273
+sansning	NOUN	perception.n.03.356236
+sans	NOUN	sense.n.03.355035
+såre	NOUN	wound.n.04.153090
+sår	NOUN	cut.n.05.487377	ulcer.n.01.486477	wound.n.01.487556
+satellit	NOUN	satellite.n.01.329355
+satse	VERB	bet.v.02.201562
+så	VERB	sow.v.01.221720
+save	VERB	saw.v.01.225138
+savne	VERB	miss.v.02.239480
+scenarie	NOUN	scenario.n.03.372576
+scene	NOUN	fit.n.01.489181	scene.n.01.403449	scene.n.06.376745	stage.n.03.331856
+score	NOUN	score.n.03.475835
+scoring	NOUN	goal.n.04.134846
+screene	VERB	screen.v.03.277524
+sedan	NOUN	sedan.n.01.329881
+seddel	NOUN	bill.n.03.472988	note.n.02.369917
+sejle	VERB	sail.v.03.247946
+sejl	NOUN	sail.n.01.329212
+sejr	NOUN	victory.n.01.385546
+sekel	NOUN	century.n.01.502091
+sekretær	NOUN	secretary.n.02.432281
+sekret	NOUN	secretion.n.02.351232
+seksuel	ADJ	sexual.a.02.261279
+sektion	NOUN	section.n.01.365926
+sektor	NOUN	sector.n.02.394372
+sekundær	ADJ	secondary.a.01.242425
+sekund	NOUN	second.n.01.502534
+sekvens	NOUN	sequence.n.01.400685
+selskabelig	ADJ	gregarious.a.01.268702
+selskab	NOUN	affair.n.03.385058	celebration.n.02.155404	company.n.03.481779	party.n.02.398084	party.n.04.385063
+selvbevidsthed	NOUN	pride.n.01.386576	pride.n.02.387294
+selvmodsigelse	NOUN	paradox.n.01.372013
+selvmord	NOUN	suicide.n.01.137875
+selv	NOUN	self.n.01.355451
+selvrespekt	NOUN	dignity.n.01.342465
+selvsikker	ADJ	confident.a.01.147136
+selvstændighed	NOUN	autonomy.n.02.483492
+semester	NOUN	school_term.n.01.502400
+seminar	NOUN	seminar.n.02.184788
+sende	VERB	mail.v.02.193608	send.v.02.217754	transport.v.04.248266
+seng	NOUN	bed.n.01.303195
+senior	ADJ	senior.a.01.258786
+sensation	NOUN	sensation.n.04.484134
+sensibilitet	NOUN	sensitivity.n.03.386717
+sensitivitet	NOUN	sensitivity.n.03.386716
+separat	ADJ	separate.a.01.259421
+separation	NOUN	separation.n.09.151284
+serie	NOUN	serial.n.01.369797	series.n.01.400673	series.n.03.369232
+seriøs	ADJ	unplayful.a.01.260369
+servere	VERB	serve.v.06.202999
+service	NOUN	overhaul.n.01.141752	tableware.n.01.333161
+session	NOUN	session.n.03.206475
+se ’’ud	VERB	look.v.02.261149
+se	VERB	see.v.01.260801
+sex	NOUN	sexual_activity.n.01.181736
+sfære	NOUN	sphere.n.03.403627
+shoppingcenter	NOUN	center.n.03.308842
+shorts	NOUN	short_pants.n.01.330429
+show	NOUN	show.n.01.162101
+siddemøbel	NOUN	seat.n.03.329811
+siddeplads	NOUN	seating.n.01.329826
+sidde	VERB	sit.v.01.224228	sit.v.02.296505
+sideben	NOUN	rib.n.02.349647
+side	NOUN	physical_property.n.01.345106	property.n.02.343304	property.n.04.358796	quality.n.01.339070	side.n.01.403543	side.n.04.401478	side.n.05.330566	side.n.10.373245	thing.n.09.336802
+sidste	ADJ	concluding.s.01.192247
+sige	VERB	state.v.01.192164
+signalhorn	NOUN	automobile_horn.n.01.300990
+signal	NOUN	signal.n.01.373403
+sikker	ADJ	certain.a.02.146978	protected.a.01.244353	safe.a.01.255779
+sikkerhed	NOUN	safety.n.01.492088	safety.n.02.403408	security.n.01.492100	security.n.02.472140	security.n.05.472189	shelter.n.01.330254
+sikre	VERB	guarantee.v.02.184700
+silke	NOUN	silk.n.01.330654
+simpel	ADJ	plain.a.02.238471
+simplicitet	NOUN	simplicity.n.01.339884
+simulere	VERB	feign.v.01.181388	model.v.05.234467
+sindelag	NOUN	disposition.n.01.336998
+sind	NOUN	disposition.n.01.336996	mind.n.01.354089
+sindsbevægelse	NOUN	disturbance.n.03.482865
+sindsstemning	NOUN	emotional_state.n.01.483162	emotion.n.01.385707	sensation.n.01.356298
+single	ADJ	unmarried.a.01.220606
+si	NOUN	sieve.n.01.330609
+sippet	ADJ	finical.s.01.190771
+sippe	VERB	sip.v.01.202470
+sirlig	ADJ	fastidious.a.01.190751
+site	NOUN	web_site.n.01.365385
+situation	NOUN	situation.n.01.481711	situation.n.02.481687
+sjælden	ADJ	rare.s.02.195940
+sjæl	NOUN	soul.n.01.433273	spirit.n.01.433416	spirit.n.03.336877
+sjakbajs	NOUN	director.n.01.422243
+sjov	NOUN	fun.n.01.155627
+skabe	VERB	create.v.02.236126	generate.v.01.229031
+skab	NOUN	cabinet.n.01.306890	cupboard.n.01.313435
+skadelig	ADJ	noxious.a.01.228059
+skade	NOUN	injury.n.01.487340
+skade	VERB	harm.v.01.127588	injure.v.01.124671
+skæbne	NOUN	fortune.n.04.490711
+skæg	NOUN	beard.n.01.349390
+skægvækst	NOUN	beard.n.01.349391
+skæl	NOUN	scale.n.10.245581
+skælve	VERB	shiver.v.02.118669	shudder.v.02.244621	tremble.v.01.244574
+skænderi	NOUN	argument.n.03.378796
+skændes	VERB	quarrel.v.01.177229
+skændig	ADJ	ill-famed.s.01.250578
+skære ’ud	VERB	carve.v.03.208043
+skærm	NOUN	television_receiver.n.01.333537
+skær	NOUN	glow.n.05.446799
+skærv	NOUN	parcel.n.02.197050	share.n.01.471147
+skaft	NOUN	shaft.n.03.330100
+skak	NOUN	check.n.13.133166
+skakt	NOUN	shaft.n.10.330105
+skala	NOUN	scale.n.01.480293	scale.n.02.479672
+skaldet	ADJ	bald.s.02.136801
+skalle	NOUN	head.n.01.352875
+skal	NOUN	hide.n.02.245200	shell.n.04.449120	shell.n.05.412638	shell.n.10.245659
+skål	NOUN	bowl.n.01.305284
+skamfuld	ADJ	ashamed.a.01.131755
+skammel	NOUN	stool.n.01.332321
+skam	NOUN	embarrassment.n.01.386518	pity.n.02.382136	shame.n.01.386504	shame.n.02.490005
+skandale	NOUN	scandal.n.02.382161
+skår	NOUN	score.n.03.475834
+skarp	ADJ	sharp.a.09.179114
+skat	NOUN	beloved.n.01.418883	tax.n.01.471610	treasure.n.04.400764
+skatteborger	NOUN	taxpayer.n.01.434516
+skatteyder	NOUN	taxpayer.n.01.434515
+skelet	NOUN	skeletal_structure.n.01.353728	skeletal_system.n.01.353721
+ske	NOUN	spoon.n.01.331665
+ske	VERB	happen.v.01.147220
+skibskaptajn	NOUN	captain.n.02.419793
+skift	NOUN	change.n.01.381943	transformation.n.01.383319
+skihejs	NOUN	ski_tow.n.01.330845
+skik	NOUN	practice.n.01.153663	practice.n.05.355273
+skilift	NOUN	ski_tow.n.01.330844
+skille sig	VERB	divorce.v.02.283153	separate.v.09.253846
+skilsmisse	NOUN	divorce.n.01.204171
+skilt	NOUN	signboard.n.01.330628	sign.n.02.373420
+skimme	VERB	scan.v.02.262330
+skind	NOUN	hide.n.02.245199
+skinke	NOUN	ham.n.01.389752
+skinneben	NOUN	shin.n.01.353356
+skinne	VERB	glitter.v.01.263061
+ski	NOUN	ski.n.01.330792
+skitse	NOUN	design.n.06.314070
+skive	NOUN	disk.n.02.314540	slice.n.05.412714
+skjold	NOUN	shield.n.01.330274
+skjorte	NOUN	shirt.n.01.330323
+skjule	VERB	hide.v.01.261835	obscure.v.01.262738
+skjul	NOUN	protection.n.04.492118
+skøde	NOUN	deed.n.01.368584
+skøjte	VERB	skate.v.01.247507
+skoleelev	NOUN	schoolchild.n.01.432090
+skole	NOUN	school.n.02.329509	science.n.01.361314
+skønhedsplet	NOUN	mole.n.04.338525
+skønne på	VERB	recognize.v.09.286908
+skøn	NOUN	estimate.n.01.357764
+sko	NOUN	shoe.n.01.330342
+skorsten	NOUN	chimney.n.01.309593
+skovbrug	NOUN	forestry.n.01.361912
+skovdrift	NOUN	forestry.n.01.361913
+skov	NOUN	forest.n.02.410637
+skovvækst	NOUN	forest.n.02.410638
+skrabe ’af	VERB	scratch.v.02.210845
+skræl	NOUN	hide.n.02.245201	peel.n.02.390818
+skråne	VERB	dip.v.09.254410
+skråning	NOUN	cliff.n.01.410136
+skridt	NOUN	footstep.n.03.478433	measure.n.01.133804	step.n.03.143152
+skriftlig	ADJ	written.a.01.270690
+skrift	NOUN	writing.n.02.365438
+skriftsprog	NOUN	written_communication.n.01.365237
+skrige	VERB	yell.v.02.186168
+skrivebord	NOUN	desk.n.01.314079	writing_desk.n.02.336667
+skriverkarl	NOUN	reporter.n.01.431431
+skriver	NOUN	printer.n.02.327362
+skrive ’under	VERB	sign.v.01.191404
+skrive	VERB	publish.v.03.235594	write.v.02.191210
+skrøbelig	ADJ	delicate.s.03.172861
+skruebrækker	NOUN	scab.n.01.431996
+skrue	NOUN	screw.n.04.329663
+skrue	VERB	screw.v.04.213126
+skrumpe	VERB	shrink.v.03.139394	shrivel.v.01.139456
+skub	NOUN	push.n.01.128483
+skud	NOUN	dose.n.01.314881	shooting.n.01.129299
+skueplads	NOUN	scene.n.01.403450
+skuffelse	NOUN	disappointment.n.01.387518
+skuffe	NOUN	drawer.n.01.315002
+skulder	NOUN	shoulder.n.01.353044
+skulptur	NOUN	sculpture.n.01.329719
+sky	ADJ	diffident.a.02.147256
+skydevåben	NOUN	gun.n.01.318873
+skyde	VERB	blast.v.07.200164	fire.v.02.200088	launch.v.02.222526	shoot.v.19.148847
+skygge	NOUN	shadow.n.01.483138
+skylde	VERB	owe.v.01.268775
+skyldig	ADJ	due.a.01.130196
+skyld	NOUN	fault.n.06.337984	guilt.n.01.483304
+skylle	VERB	rinse.v.01.223838
+skynde sig	VERB	rush.v.01.255851
+sky	NOUN	cloud.n.02.410147
+sladder	NOUN	gossip.n.02.380436
+slæbe	VERB	drag.v.01.218795
+slæde	NOUN	car.n.01.307717
+slægtning	NOUN	relative.n.01.426541
+slægt	NOUN	family.n.04.394434	people.n.03.394445
+slægtskab	NOUN	kinship.n.02.479577	relationship.n.03.481746
+slagmark	NOUN	battlefield.n.01.401346
+slag	NOUN	battle.n.01.188751	blow.n.01.202623	gown.n.05.318539	rap.n.02.384279
+slag på tasken	NOUN	estimate.n.01.357765
+slags	NOUN	form.n.09.396075	type.n.01.358605
+slagtilfælde	NOUN	stroke.n.03.484822
+slange	NOUN	snake.n.01.234665	tube.n.01.334875
+slappe ’af	VERB	relax.v.01.119877
+slå sig ’ned	VERB	settle.v.07.154110
+slave	NOUN	slave.n.01.432913
+slå	VERB	beat.v.01.198008	beat.v.03.215815	hit.v.03.215881	pulsate.v.01.243841	punch.v.01.216690
+slaveri	NOUN	slavery.n.02.154125
+slentre	VERB	stroll.v.01.246454
+slette	VERB	erase.v.03.191561
+slikkepot	NOUN	index.n.05.353449
+slips	NOUN	necktie.n.01.324564
+slogan	NOUN	motto.n.01.378970
+sløjfe	NOUN	bow.n.08.305256
+slør	NOUN	head_covering.n.01.319468
+slot	NOUN	castle.n.02.308429
+sløv	ADJ	dull.a.09.179071
+sludder	NOUN	nonsense.n.01.369458
+sluge	VERB	swallow.v.01.204197	swallow.v.08.166265
+slump	NOUN	luck.n.02.446139
+slutning	NOUN	conclusion.n.08.366021
+slynge	VERB	hurl.v.01.222053
+småbåd	NOUN	small_boat.n.01.331090
+smadre	VERB	break.v.05.146790	demolish.v.01.231114	shatter.v.01.146642
+smække	VERB	slam.v.01.207207
+smage	VERB	taste.v.02.264876
+smag	NOUN	preference.n.01.386259	relish.n.03.356381
+smagsløg	NOUN	taste.n.06.355121
+smagssans	NOUN	taste.n.06.355122
+smal	ADJ	narrow.a.01.287988
+smertefuld	ADJ	painful.a.01.233865
+smerte	NOUN	agony.n.01.386182	pain.n.02.386140	pain.n.03.356507	sadness.n.01.387312
+smile	VERB	smile.v.01.120098
+smil	NOUN	smile.n.01.374768
+sminke	NOUN	makeup.n.01.323046
+smitte	NOUN	infection.n.04.383337
+smitte	VERB	infect.v.01.126531
+smøre	VERB	smother.v.01.225670	spread.v.10.228113
+smør	NOUN	butter.n.01.392576
+smuk	ADJ	beautiful.a.01.137294	stunning.s.04.137692
+smule	NOUN	small_indefinite_quantity.n.01.478474
+smutte	VERB	steal.v.02.244551
+snabel	NOUN	nose.n.01.353900
+snæversynet	ADJ	narrow-minded.a.02.143283
+snaksom	ADJ	chatty.s.01.276490
+snar	ADJ	fast.a.03.190624
+snavsetøj	NOUN	laundry.n.01.322000
+snegl	NOUN	snail.n.01.247874
+sne	NOUN	snow.n.01.447437
+snerre	VERB	snap.v.01.186422
+snit	NOUN	section.n.02.412584
+snor	NOUN	string.n.01.332489
+snotten	NOUN	nose.n.01.353901
+sno	VERB	spin.v.01.254996	twist.v.04.205777
+snude	NOUN	nose.n.01.353899
+snue	NOUN	cold.n.01.485656
+snuppe	VERB	snatch.v.01.217903
+snurretop	NOUN	top.n.08.334261
+snyde	VERB	cheat.v.02.198175
+social	ADJ	social.a.02.268464
+socialgruppe	NOUN	social_group.n.01.394116
+socialistisk	ADJ	socialistic.a.01.144051
+socialklasse	NOUN	social_group.n.01.394117
+sociologi	NOUN	sociology.n.01.362584
+sød	ADJ	sweet.a.01.275658	tender.a.01.280787
+sodavand	NOUN	pop.n.02.393725
+sødemiddel	NOUN	sweetening.n.01.392724
+sødestof	NOUN	sweetening.n.01.392723
+sofa	NOUN	sofa.n.01.331271
+sofistikeret	ADJ	sophisticated.a.01.269833
+software	NOUN	software.n.01.368850
+søger	NOUN	applicant.n.01.415141
+søge	VERB	search.v.01.211173	search.v.02.262421
+søgning	NOUN	search.n.04.357169
+søjle	NOUN	column.n.07.311271
+sok	NOUN	sock.n.01.331239
+solbrændthed	NOUN	tan.n.01.487445
+soldat	NOUN	serviceman.n.01.432489	soldier.n.01.433148
+solidaritet	NOUN	solidarity.n.01.339864
+sol	NOUN	sunlight.n.01.447110	sun.n.01.412914
+solopgang	NOUN	sunrise.n.03.382982
+solskin	NOUN	fair_weather.n.01.446689
+solskive	NOUN	sun.n.01.412915
+solstråle	NOUN	sunlight.n.01.447111
+soltegn	NOUN	sign_of_the_zodiac.n.01.404051
+sølv	NOUN	ash_grey.n.01.344127	silver.n.01.493805
+sømmelig	ADJ	modest.a.04.223924
+sommerfugl	NOUN	butterfly.n.01.270088
+sommer	NOUN	summer.n.01.502578
+søm	NOUN	nail.n.02.324436
+søndag	NOUN	sunday.n.01.501214
+sø	NOUN	lake.n.01.411224	ocean.n.01.411849	ocean.n.02.478891	sea.n.01.412553	wave.n.01.383136
+søpindsvin	NOUN	sea_urchin.n.01.272863
+sopran	NOUN	soprano.n.02.374665
+sorg	NOUN	grief.n.01.387406	mourning.n.01.483264	sorrow.n.01.387390
+sort	ADJ	black.a.01.152100	black.s.13.176045
+sortfarvet	ADJ	black.a.01.152101
+sort	NOUN	form.n.09.396077	species.n.01.396060	type.n.01.358608
+søster	NOUN	sister.n.01.432821	sister.n.03.432812
+søværn	NOUN	navy.n.01.397181
+soveværelse	NOUN	bedroom.n.01.303289
+søvn	NOUN	sleep.n.01.483939
+sovs	NOUN	sauce.n.01.392310
+spadsere	VERB	stroll.v.01.246455
+spædbarn	NOUN	baby.n.01.418426
+spændende	ADJ	exciting.a.01.186731
+spænding	NOUN	latent_hostility.n.01.482989	tension.n.02.492178
+spalte	NOUN	crevice.n.01.481327	slit.n.01.331015
+spand	NOUN	bucket.n.01.306185	team.n.02.394560
+spare ’op	VERB	save.v.05.269529
+sparke	VERB	kick.v.03.214074
+sparsommelighed	NOUN	economy.n.03.342715
+spasser	NOUN	pest.n.03.429857
+spå	VERB	predict.v.01.186539
+specialist	NOUN	specialist.n.01.433351
+species	NOUN	individual.n.02.426020	species.n.01.396061
+specifik	ADJ	particular.s.01.198145
+speeder	NOUN	accelerator.n.01.294844
+speed	NOUN	amphetamine.n.01.297323
+spejlbillede	NOUN	reflection.n.05.328334
+spejl	NOUN	looking_glass.n.01.322648	mirror.n.01.323940
+spektrum	NOUN	spectrum.n.02.347198
+spekulere	VERB	speculate.v.02.187150	speculate.v.04.269930
+spids	NOUN	point.n.08.481217	tip.n.01.403744
+spilde	VERB	waste.v.01.269719	waste.v.02.201885
+spild	NOUN	thriftlessness.n.01.342741
+spildprodukt	NOUN	waste.n.01.496645
+spillekort	NOUN	card.n.01.307841
+spilleplads	NOUN	stage.n.03.331857
+spiller	NOUN	actor.n.01.417322	musician.n.01.428474	musician.n.02.428471
+spilletid	NOUN	playing_period.n.01.502997
+spille	VERB	act.v.10.234291	perform.v.03.234037	play.v.01.196283	play.v.03.234578
+spil	NOUN	game.n.01.157773
+spinat	NOUN	spinach.n.02.390792
+spinde	VERB	spin.v.05.229802
+spion	NOUN	spy.n.01.433507
+spisebestik	NOUN	flatware.n.02.317083
+spisefisk	NOUN	fish.n.02.391427
+spisekort	NOUN	menu.n.01.367695
+spiseolie	NOUN	vegetable_oil.n.01.389815
+spiseredskab	NOUN	flatware.n.02.317084
+spisested	NOUN	restaurant.n.01.328546
+spise	VERB	eat.v.01.202308
+spjæld	NOUN	prison.n.01.327375
+splittelse	NOUN	schism.n.01.151529
+spøgelse	NOUN	ghost.n.03.414364
+spøge	VERB	joke.v.02.127928
+spolere	VERB	mar.v.01.159241
+spontan	ADJ	spontaneous.a.01.270561
+spørgeskema	NOUN	questionnaire.n.01.367443
+spørge ’ud	VERB	interrogate.v.02.178300
+spørgsmål	NOUN	issue.n.01.358044	question.n.01.379875	request.n.01.368022
+spor	NOUN	lead.n.03.358319	railroad_track.n.01.328011	trace.n.06.370417
+sport	NOUN	sport.n.01.162285
+sportskamp	NOUN	match.n.02.385487
+sprække	NOUN	slot.n.02.331056
+sprede	VERB	circulate.v.02.189729	spread.v.07.257686
+springe ’over	VERB	jump.v.13.167321
+springvand	NOUN	spring.n.03.412819
+sprog	NOUN	language.n.01.364303	natural_language.n.01.375177
+sprøjte	NOUN	injection.n.01.145885
+sprøjte	VERB	inject.v.04.204069	spray.v.02.214188
+sprøjt	NOUN	spray.n.05.499480
+stabil	ADJ	stable.a.01.271107	steady.a.01.271736
+stabilisere sig	VERB	stabilize.v.03.142056
+stab	NOUN	staff.n.01.400580
+stadion	NOUN	stadium.n.01.331842
+stædig	ADJ	stubborn.a.01.273336
+stærk	ADJ	firm.s.03.181607	hard.s.10.201771	potent.a.03.240762
+stævne	NOUN	rally.n.01.399380
+stafetløb	NOUN	relay.n.04.385386
+stafet	NOUN	relay.n.04.385385
+stald	NOUN	stable.n.01.331822
+stål	NOUN	steel.n.01.495889
+stamme	NOUN	kin.n.02.394404
+stamtræ	NOUN	family.n.04.394435	people.n.03.394446
+standard	NOUN	standard.n.01.381197
+stand	NOUN	stall.n.03.331899
+standpunkt	NOUN	point_of_view.n.01.363343
+standse	VERB	stop.v.01.242792
+standsning	NOUN	stop.n.02.196473
+stang	NOUN	pole.n.01.326953	rod.n.01.328821
+stå ’’op	VERB	get_up.v.02.118993
+star	NOUN	ace.n.03.417235
+start	NOUN	beginning.n.02.503121	beginning.n.03.359113	start.n.01.382584
+statistik	NOUN	statistics.n.01.361482
+statistisk	ADJ	statistical.a.01.306252
+stativ	NOUN	rack.n.01.327877
+stat	NOUN	kingdom.n.01.491695	state.n.01.403646	state.n.03.396872	state.n.04.396747
+statsapparat	NOUN	state.n.03.396874
+statsforfatning	NOUN	fundamental_law.n.01.368436
+statsmagt	NOUN	state.n.03.396873
+statue	NOUN	statue.n.01.332011
+status	NOUN	rank.n.02.489731
+statusopgørelse	NOUN	balance.n.02.473256
+stavelse	NOUN	syllable.n.01.364570
+stå	VERB	stand.v.01.224436	stand.v.02.291003
+stave	VERB	spell.v.03.233384
+stav	NOUN	staff.n.05.381329
+stearinlys	NOUN	candle.n.01.307386
+sted	NOUN	location.n.01.119952	place.n.04.403370	site.n.01.403583	topographic_point.n.01.403774
+stegepande	NOUN	pan.n.01.325517
+stejl	ADJ	steep.a.01.200840
+stejle	VERB	rear.v.01.250380
+stemme	NOUN	voice.n.01.344589	voice.n.02.378181	voice.n.09.348534	vote.n.04.400987
+stemmeret	NOUN	right_to_vote.n.01.348295
+stemmeseddel	NOUN	ballot.n.01.367379
+stemme	VERB	vote.v.01.281579
+stemningsleje	NOUN	temper.n.02.387849
+stemple	VERB	stamp.v.03.261824
+stenhøjsplante	NOUN	rock_plant.n.01.468581
+sten	NOUN	rock.n.01.412408	rock.n.02.494368	stone.n.06.449139
+steward	NOUN	steward.n.03.433739
+stige	NOUN	ladder.n.01.321705
+stige ’op	VERB	rise.v.01.249439
+stige	VERB	rise.v.02.131898
+stigning	NOUN	increase.n.04.346776	upgrade.n.04.346145
+stikke ’af	NOUN	running_away.n.01.121969
+stikke	VERB	prick.v.02.260381
+stik	NOUN	sting.n.03.487542
+stilhed	NOUN	silence.n.02.344592
+stilk	NOUN	stalk.n.02.468658
+stille	ADJ	inactive.s.10.225394
+stille ’ind	VERB	adjust.v.01.143916
+stille ’om	VERB	adjust.v.01.143915
+stilling	NOUN	condition.n.01.481618	profession.n.02.166829	rank.n.02.489732	score.n.03.475836	state.n.02.119690	state_of_matter.n.01.490983
+stil	NOUN	dash.n.01.340686
+sting	NOUN	stitch.n.01.332230
+stivne	VERB	stiffen.v.01.154382
+stjernebillede	NOUN	constellation.n.02.410211
+stjerne	NOUN	ace.n.03.417236	star.n.01.412832	star.n.03.412838	star.n.05.480855
+stjernetegn	NOUN	sign_of_the_zodiac.n.01.404052
+stød	NOUN	electric_shock.n.03.181452
+stof	NOUN	fabric.n.01.316219	matter.n.03.119340	solid.n.01.499365
+støj	NOUN	noise.n.01.383903
+stok	NOUN	cane.n.01.307417
+stol	NOUN	chair.n.01.309080
+stolt	ADJ	proud.a.01.244672
+stolthed	NOUN	pride.n.01.386575	pride.n.02.387293
+stønne	VERB	pant.v.01.117950
+stop	NOUN	stop.n.05.403660
+stoppe	VERB	plug.v.01.217093
+stor	ADJ	great.s.01.215121	large.a.01.214817
+størkne	VERB	solidify.v.02.157117
+storme	VERB	storm.v.05.199578
+storm	NOUN	storm.n.01.446781
+større	ADJ	major.a.02.219949
+størrelse	NOUN	magnitude.n.01.346484	size.n.01.346616
+støtte	NOUN	aid.n.03.470703	documentation.n.03.131833	rest.n.06.328541	support.n.02.204987	support.n.07.332853	support.n.10.332846
+støtte	VERB	hold.v.10.205374	second.v.01.287613
+støvbold	NOUN	puffball.n.01.467852
+støvle	NOUN	boot.n.01.305010
+støv	NOUN	dust.n.01.496368
+stræben	NOUN	pursuit.n.02.357178
+stræb	NOUN	pursuit.n.02.357177	struggle.n.03.167723
+strække	VERB	stretch.v.11.127493
+straffeanstalt	NOUN	prison.n.01.327378
+straffe	VERB	punish.v.01.283698
+straf	NOUN	punishment.n.01.201813
+stråle	NOUN	beam.n.04.446283	jet.n.02.384855
+strålesyge	NOUN	radiation_sickness.n.01.487660
+stråle	VERB	radiate.v.05.262895
+stråling	NOUN	radiation.n.01.447278
+strålingssyge	NOUN	radiation_sickness.n.01.487661
+stram	ADJ	tense.a.03.277707	tight.a.01.218433
+stramme	VERB	tighten.v.02.154550
+strand	NOUN	beach.n.01.409677
+strå	NOUN	chaff.n.01.495936
+strategi	NOUN	scheme.n.01.359784
+strategisk	ADJ	strategic.a.01.307470
+strejfe	VERB	roll.v.12.244017
+strejkebryder	NOUN	scab.n.01.431997
+strengeinstrument	NOUN	stringed_instrument.n.01.332508
+stress	NOUN	tension.n.01.488713
+strid	NOUN	disagreement.n.01.483036
+strikke	VERB	knit.v.01.231971
+strimmel	NOUN	strip.n.01.412900	strip.n.02.332516
+strisser	NOUN	bull.n.05.419502	policeman.n.01.430224
+strømer	NOUN	bull.n.05.419496	policeman.n.01.430218
+strømme	VERB	pour.v.02.253709	pour.v.04.256637	run.v.06.256439
+strøm	NOUN	current.n.01.446509	electricity.n.01.446615
+strø	VERB	scatter.v.03.214402
+strube	NOUN	throat.n.01.353028
+strukturel	ADJ	structural.a.02.305800
+struktur	NOUN	order.n.03.482639	structure.n.02.343553
+student	NOUN	learner.n.01.426865
+studerende	NOUN	learner.n.01.426866
+studere	VERB	watch.v.04.260745
+stue	NOUN	dwelling.n.01.315435	residence.n.01.402087
+stuepige	NOUN	maid.n.01.427412
+stueplante	NOUN	houseplant.n.01.468252
+stump	NOUN	scrap.n.03.329578
+stykke	NOUN	musical_composition.n.01.377092	piece.n.08.389515	segment.n.02.412591
+styre	NOUN	dominion.n.01.490090
+styrke	NOUN	military_unit.n.01.397261	strength.n.01.345434
+subjektiv	ADJ	subjective.a.01.228366
+subjekt	NOUN	subject.n.06.433983
+substantiv	NOUN	noun.n.01.364762
+succes	NOUN	success.n.01.382449	success.n.02.124035
+succesrig	ADJ	successful.a.01.273578
+sufficient	ADJ	adequate.a.01.122537	sufficient.a.01.273774
+sugerør	NOUN	straw.n.04.332443
+suge	VERB	suck.v.01.202396
+suite	NOUN	suite.n.02.332725
+sukker	NOUN	sugar.n.01.392734
+sukke	VERB	sigh.v.01.117806
+sulfid	NOUN	sulfide.n.01.499565
+sulten	ADJ	hungry.a.01.208805
+sum	NOUN	sum.n.03.394218
+sund	ADJ	fit.a.03.192650	good.s.18.202235	sound.a.03.270151
+sundhed	NOUN	health.n.01.490230
+supermarked	NOUN	supermarket.n.01.332834
+suppe	NOUN	soup.n.01.388486
+sur	ADJ	sour.a.02.275679
+sut	NOUN	tire.n.01.334040
+svække	VERB	weaken.v.01.138081
+svær	ADJ	difficult.a.01.175051
+sværd	NOUN	sword.n.01.333039
+sværge	VERB	pledge.v.01.184353
+svaghed	NOUN	failing.n.01.490557	weakness.n.03.345659
+svamp	NOUN	mushroom.n.03.467314
+svare til	VERB	match.v.09.157844
+svare	VERB	answer.v.01.180134
+svar	NOUN	answer.n.01.372387	answer.n.03.379992	reply.n.02.379963
+sved	NOUN	perspiration.n.01.351244
+svige	VERB	betray.v.02.286256
+svigte	VERB	betray.v.02.286257
+svinge	VERB	swing.v.01.257989	swing.v.02.243715
+svingning	NOUN	fluctuation.n.03.339965	swing.n.04.146227	variation.n.01.382867	wave.n.03.383018
+svin	NOUN	slob.n.01.432970
+svømme	VERB	swim.v.01.248932
+svovl	NOUN	sulfur.n.01.493820
+svulst	NOUN	growth.n.06.486748	tumor.n.01.486760
+sweater	NOUN	sweater.n.01.332975
+swinge	NOUN	twist.n.13.147715
+swinge	VERB	turn.v.01.245832
+syd	NOUN	south.n.03.479994
+syg	ADJ	ill.a.01.286580
+sygdom	NOUN	disease.n.01.484667	illness.n.01.484521
+syge	NOUN	disease.n.01.484668	illness.n.01.484522
+sygeplejerske	NOUN	nurse.n.01.428870
+syltetøj	NOUN	jam.n.01.389329
+symbol	NOUN	symbol.n.01.373694
+symmetri	NOUN	isotropy.n.01.343311
+sympatisk	ADJ	sympathetic.a.04.276046
+symptom	NOUN	symptom.n.01.487585
+synd	NOUN	sin.n.02.176056
+syndrom	NOUN	syndrome.n.02.487620
+synes om	VERB	like.v.03.237532
+synes	VERB	appear.v.04.261228	think.v.01.171644
+synge	VERB	sing.v.02.234784
+synke ’sammen	VERB	slump.v.01.250986
+synke	VERB	sink.v.05.249721
+syn	NOUN	face.n.01.353949	mentality.n.01.363022	opinion.n.02.373189	position.n.03.363314	sight.n.03.355069
+synskreds	NOUN	horizon.n.01.402522
+synspunkt	NOUN	position.n.12.363030
+synsrand	NOUN	horizon.n.01.402521
+synssans	NOUN	sight.n.03.355070
+syre	NOUN	acid.n.01.493153
+systematisk	ADJ	systematic.a.01.276427
+system	NOUN	body.n.01.348751	system.n.01.333091	system.n.02.400489	system.n.04.355216
+sy	VERB	sew.v.01.211991
+taber	NOUN	failure.n.04.427193
+tabe	VERB	lose.v.02.197894
+tab	NOUN	loss.n.01.471920	loss.n.06.471912
+tælle	VERB	count.v.01.188465
+tændstik	NOUN	match.n.01.323302
+tænker	NOUN	brain.n.01.352144	thinker.n.01.434749
+tænke	VERB	think.v.01.171641	think.v.03.168190
+tæppe	NOUN	rug.n.01.329053
+tærskel	NOUN	doorsill.n.01.314836
+tærte	NOUN	pie.n.01.389087
+tæt	ADJ	close.a.02.157500	near.a.01.157027
+tæve	NOUN	bitch.n.04.257767
+tåge	NOUN	fog.n.01.446720	mist.n.01.447056
+tagetage	NOUN	loft.n.02.322608
+tage ’til sig	VERB	adopt.v.02.274515
+tag	NOUN	roof.n.01.328898
+tagselvbord	NOUN	buffet.n.02.388356
+takke ’nej	VERB	refuse.v.02.267844
+takke	VERB	thank.v.01.184798
+taknemmelig	ADJ	grateful.a.01.200925
+tak	NOUN	thanks.n.01.380558	tooth.n.05.334241
+taktik	NOUN	tactic.n.01.359778
+talehandling	NOUN	speech_act.n.01.379129
+tale	NOUN	address.n.03.380781	lecture.n.01.380811	talk.n.01.378660
+taler	NOUN	speaker.n.01.433334
+talerør	NOUN	spokesman.n.01.433441	spokesperson.n.01.433444
+tale	VERB	speak.v.03.189331	talk.v.01.189276	talk.v.02.188100
+talje	NOUN	waist.n.01.353182
+tallerken	NOUN	plate.n.04.326721
+tålmodig	ADJ	patient.a.01.235106
+tal	NOUN	figure.n.07.471975	numeral.n.01.373714
+talrig	ADJ	abundant.a.01.118633
+talsmand	NOUN	spokesman.n.01.433440	spokesperson.n.01.433443
+tamtam	NOUN	affair.n.03.385057	celebration.n.02.155405	party.n.02.398083	party.n.04.385062
+tand	NOUN	tooth.n.01.349703
+tankefuld	ADJ	thoughtful.s.05.168854
+tanke	NOUN	thinking.n.01.357185
+tankeverden	NOUN	illusion.n.02.359598
+tank	NOUN	tank.n.01.333254
+tå	NOUN	toe.n.01.353587
+tante	NOUN	aunt.n.01.418332
+tape	NOUN	tape.n.01.333293	tape.n.02.333298
+tåre	NOUN	tear.n.01.351237
+tarm	NOUN	intestine.n.01.352806
+tårn	NOUN	tower.n.01.334353
+taske	NOUN	bag.n.04.301711
+taxa	NOUN	cab.n.03.306814
+taxi	NOUN	cab.n.03.306813
+teater	NOUN	dramaturgy.n.01.376694
+teenager	NOUN	adolescent.n.01.417407
+tegl	NOUN	tile.n.01.333961
+tegne	VERB	draw.v.06.232912
+tegning	NOUN	drawing.n.02.315015
+tegn	NOUN	augury.n.01.381618	character.n.08.373903	indication.n.01.373518	sign.n.01.370372	sign.n.09.374724	sign_of_the_zodiac.n.01.404050	token.n.01.373495
+teknik	NOUN	proficiency.n.02.354855
+teknisk	ADJ	technical.a.01.302891
+teknologi	NOUN	engineering.n.02.362345
+tekstil	NOUN	fabric.n.01.316220
+tekst	NOUN	text.n.01.365855
+tekstur	NOUN	texture.n.01.343860
+telefonere	VERB	call.v.03.178390
+telefonkabel	NOUN	telephone_line.n.02.333467
+telefon	NOUN	telephone.n.01.333447
+telefonnummer	NOUN	phone_number.n.01.366741
+telegram	NOUN	telegram.n.01.369821
+telekommunikation	VERB	telecommunicate.v.01.178458
+telt	NOUN	tent.n.01.333635
+tema	NOUN	theme.n.02.360071	theme.n.03.376980
+tempel	NOUN	temple.n.01.333560
+temperatur	NOUN	temperature.n.01.345143
+tempo	NOUN	momentum.n.01.345561	pace.n.03.345955	speed.n.01.503539	tempo.n.02.503544
+tendens	NOUN	inclination.n.01.363039	tendency.n.04.403989
+tennis	NOUN	tennis.n.01.159555
+te	NOUN	tea.n.01.393807
+teologi	NOUN	theology.n.01.362878
+teoretiker	NOUN	theorist.n.01.434719
+teori	NOUN	hypothesis.n.02.359405	theory.n.01.361197
+terapeut	NOUN	therapist.n.01.434726
+terapi	NOUN	therapy.n.01.170001
+terminal	NOUN	terminal.n.04.333666
+terminologi	NOUN	terminology.n.01.364556
+terningkast	NOUN	luck.n.02.446140
+terrasse	NOUN	patio.n.01.325834
+terrorist	NOUN	terrorist.n.01.434679
+testamente	NOUN	will.n.03.368570
+test	NOUN	test.n.05.178468
+tevand	NOUN	tea.n.01.393808
+tidehverv	NOUN	era.n.01.502841
+tidevand	NOUN	tide.n.01.384155
+tidlig	ADJ	early.a.01.179961
+tid	NOUN	clock_time.n.01.500612	historic_period.n.01.502958	hour.n.02.502440	season.n.03.502615	stretch.n.06.500677	time.n.02.503273	time.n.03.500489	time.n.05.120071	time_period.n.01.500252	time_slot.n.01.503271
+tidsalder	NOUN	era.n.01.502840	historic_period.n.01.502962
+tidsmåler	NOUN	timepiece.n.01.334001
+tidsperiode	NOUN	time_period.n.01.500255
+tidsplan	NOUN	schedule.n.02.367739
+tidspunkt	NOUN	time_period.n.01.500254	time_slot.n.01.503272
+tidsrum	NOUN	clock_time.n.01.500614	historic_period.n.01.502961	stretch.n.06.500678	time.n.05.120073	time_period.n.01.500253
+tidsskrift	NOUN	journal.n.02.369282
+tidstabel	NOUN	schedule.n.02.367740
+tiger	NOUN	tiger.n.02.260834
+tigge	VERB	beg.v.01.176206	beg.v.03.269854
+tilbagekaste	VERB	reflect.v.04.301257
+tilbagelevering	NOUN	restitution.n.03.126423
+tilbagemelding	NOUN	feedback.n.02.372420
+tilbagetrækning	NOUN	withdrawal.n.01.380136
+tilbagevenden	NOUN	return.n.05.146251
+tilbagevise	VERB	refute.v.01.180085
+tilbede	NOUN	worship.n.01.193466
+tilbud	NOUN	offer.n.01.379671
+tilbyde	VERB	volunteer.v.02.279116
+tildeling	NOUN	grant.n.01.470725
+tilegne	VERB	dedicate.v.03.184490
+tilfælde	NOUN	case.n.01.382203	coincidence.n.01.382394
+tilfældig	ADJ	random.a.01.246836
+tilfældighed	NOUN	luck.n.02.446141
+tilflugtssted	NOUN	hideaway.n.02.319716
+tilflytter	NOUN	newcomer.n.02.428699
+tilføjelse	NOUN	amendment.n.02.371989
+tilfreds	ADJ	quenched.s.01.222781
+tilfredshed	NOUN	satisfaction.n.01.387291
+tilgængelig	ADJ	accessible.a.01.119137	available.a.01.134563
+tilgive	VERB	excuse.v.01.185665
+tilhøre	VERB	belong.v.01.271750
+tilladelse	NOUN	license.n.01.368646	permission.n.01.371180
+tillade	VERB	permit.v.01.179232
+tillæg	NOUN	amendment.n.02.371988
+tillid	NOUN	confidence.n.02.387163	confidence.n.04.481806
+tilpasning	NOUN	adaptation.n.01.366260
+tilskud	NOUN	grant.n.01.470724
+tilståelse	NOUN	confession.n.01.380331
+tilstand	NOUN	condition.n.01.481617	health.n.02.481647	physical_condition.n.01.484084	state.n.02.119689	state_of_matter.n.01.490982
+tilstedeværelse	NOUN	presence.n.01.482469
+tilstedeværende	ADJ	present.a.02.242044
+tilstedevær	NOUN	presence.n.01.482468
+tilstrækkelig	ADJ	adequate.a.01.122538	sufficient.a.01.273775
+tiltage	VERB	increase.v.01.132117
+tiltrække	VERB	attract.v.01.221971	attract.v.02.239662
+time	NOUN	hour.n.01.502433	lesson.n.01.184635
+tinding	NOUN	temple.n.02.353985
+ting	NOUN	object.n.01.117723	thing.n.01.482184	thing.n.05.381725	thing.n.08.333814
+tin	NOUN	tin.n.01.493854
+tissemyre	NOUN	ant.n.01.266640
+tisse	NOUN	urine.n.01.496631
+titel	NOUN	championship.n.01.482289	title.n.03.365191	title.n.06.365074
+tivoli	NOUN	carnival.n.03.162015
+tjekke	VERB	check.v.22.170126
+tjener	NOUN	servant.n.01.432451	waiter.n.01.435768
+tjenestemand	NOUN	bull.n.05.419500	policeman.n.01.430222
+tjeneste	NOUN	favor.n.01.206085	service.n.02.204806
+tjene	VERB	gain.v.08.271007	serve.v.07.290015	service.v.01.286560
+tjenstvillig	ADJ	helpful.a.01.203848
+tog	NOUN	march.n.04.400383	train.n.01.334471
+togstamme	NOUN	train.n.01.334473
+togvogn	NOUN	car.n.02.307756
+toiletartikel	NOUN	toiletry.n.01.334170
+toilet	NOUN	bathroom.n.01.302839
+tøj	NOUN	apparel.n.01.298948
+tøjr	NOUN	leash.n.01.322068
+toksin	NOUN	poison.n.01.499151
+told	NOUN	duty.n.03.471712
+tolerant	ADJ	tolerant.a.01.279960
+tom	ADJ	empty.a.01.197176
+tomat	NOUN	tomato.n.01.390742
+tomhjernet	ADJ	stupid.a.01.156595
+tommelfinger	NOUN	thumb.n.01.353444
+tommel	NOUN	thumb.n.01.353443
+tommeltot	NOUN	thumb.n.01.353442
+tomme	NOUN	inch.n.01.476602
+tømmerflåde	NOUN	raft.n.01.327968
+tømmer	NOUN	lumber.n.01.497935
+tønde	NOUN	barrel.n.02.302378	barrel.n.03.481179	drum.n.01.315261
+toneart	NOUN	key.n.04.374531
+tonehøjde	NOUN	pitch.n.01.344647
+tone	NOUN	note.n.03.374557	shade.n.02.344069	tone.n.01.377734
+ton	NOUN	short_ton.n.01.477749
+topmøde	NOUN	summit.n.03.398902
+top	NOUN	peak.n.04.403039	top.n.01.403759	top.n.02.403751	vertex.n.02.403911
+TOP	NOUN	employee.n.01.422891	garage.n.02.317999	intellectual.n.01.415360	mother.n.01.428337	religious_person.n.01.415500	survivor.n.01.434260	suspect.n.01.434265	union.n.10.335108	weather.n.01.447690
+tør	ADJ	dry.a.01.287305
+torn	NOUN	spine.n.03.468313
+tørre	VERB	shrink.v.05.131624	wipe.v.01.215464
+tørstig	ADJ	thirsty.a.02.208852
+tørst	NOUN	thirst.n.01.484221
+tortur	NOUN	torture.n.05.154711
+torv	NOUN	public_square.n.01.403080
+tossekasse	NOUN	television_receiver.n.01.333542
+traditionel	ADJ	traditional.a.01.166898
+tradition	NOUN	custom.n.02.355283
+tråd	NOUN	thread.n.01.333856
+træde ’op	VERB	perform.v.03.234039
+træde	VERB	step.v.02.258248	tread.v.02.247155
+trække sig ’tilbage	VERB	withdraw.v.01.251368	withdraw.v.09.272330
+trække	VERB	pull.v.01.218475
+træk	NOUN	draft.n.02.447659	feature.n.01.358816	trait.n.01.336791
+trækvind	NOUN	draft.n.02.447660
+træner	NOUN	trainer.n.01.434994
+træne	VERB	train.v.01.166354
+træ	NOUN	tree.n.01.468482	wood.n.01.500061
+træt	ADJ	tired.a.01.279643
+trævækst	NOUN	tree.n.01.468483
+trafik	NOUN	traffic.n.01.400344
+tragedie	NOUN	tragedy.n.02.376850
+traktat	NOUN	tract.n.03.366275	treaty.n.01.372989
+traktor	NOUN	tractor.n.01.334429
+trance	NOUN	enchantment.n.02.489230
+trang	NOUN	need.n.01.490262	urge.n.02.386021
+transaktion	NOUN	transaction.n.01.198327
+transparent	ADJ	diaphanous.s.01.278319
+transportabel	ADJ	portable.s.02.209990
+transportere	VERB	haul.v.02.218725	transport.v.01.248458
+transportmiddel	NOUN	vehicle.n.01.335311
+transport	NOUN	transportation.n.05.198249
+trappeløb	NOUN	flight.n.03.317102
+trappe	NOUN	stairway.n.01.331883
+travl	ADJ	busy.a.01.143641
+trekant	NOUN	triangle.n.01.480821
+triangel	NOUN	triangle.n.01.480822
+trille	VERB	warble.v.01.194812
+trin	NOUN	step.n.04.332133
+trinvis	ADJ	gradual.a.01.200688
+tristesse	NOUN	gloom.n.03.491871	sadness.n.02.483247
+triviel	ADJ	commonplace.s.01.232145
+tro	ADJ	faithful.a.03.189194	loyal.a.01.189228
+trofasthed	NOUN	attachment.n.01.387644
+trøje	NOUN	sweater.n.01.332976
+trommehvirvel	NOUN	paradiddle.n.01.383912
+tromme	NOUN	drum.n.01.315260
+trone	NOUN	throne.n.01.333890
+tro	NOUN	religion.n.01.360561
+tronstol	NOUN	throne.n.01.333891
+trop	NOUN	troop.n.01.398381
+troskab	NOUN	commitment.n.02.204500
+trøste	VERB	comfort.v.01.240166
+troværdighed	NOUN	credibility.n.01.340115
+true	VERB	threaten.v.02.183468
+trussel	NOUN	menace.n.01.492164
+trust	NOUN	trust.n.04.397801
+trykkemaskine	NOUN	press.n.03.327305
+trykke	VERB	print.v.04.235797
+tryk	NOUN	pressure.n.01.447236	print.n.02.327348
+trykpresse	NOUN	press.n.03.327304
+trykt medie	NOUN	print_media.n.01.364013
+tryllekunst	NOUN	magic_trick.n.01.127390
+trylleord	NOUN	spell.n.04.379100
+T-shirt	NOUN	jersey.n.03.321068
+tud	NOUN	brim.n.01.305972
+tung	ADJ	heavy.a.01.203279
+tunge	NOUN	tongue.n.01.349909
+tunnel	NOUN	tunnel.n.01.334935
+turde	VERB	dare.v.02.286827
+turist	NOUN	tourist.n.01.434920
+turnering	NOUN	tournament.n.01.385394
+tur	NOUN	move.n.05.133068
+tusmørke	NOUN	twilight.n.01.501467
+tværmål	NOUN	diameter.n.02.480668
+tv-apparat	NOUN	television_receiver.n.01.333539
+tvetydig	ADJ	equivocal.a.01.185025
+tvetydighed	NOUN	ambiguity.n.02.340918
+tvilling	NOUN	twin.n.01.435199
+tvinge	VERB	coerce.v.01.284022	push.v.01.243372
+tvivle	VERB	doubt.v.01.171518
+tvivl	NOUN	doubt.n.01.355954
+tv	NOUN	television.n.02.333519	television_receiver.n.01.333535
+tv-skærm	NOUN	television_receiver.n.01.333538
+tydelig	ADJ	distinct.a.02.177541
+tyk	ADJ	thick.a.01.278139	thick.a.03.278446
+tykkes	VERB	think.v.01.171645
+tyktarm	NOUN	colon.n.01.352825
+tynd	ADJ	thin.a.02.190962
+tyngdekraft	NOUN	gravity.n.01.446813
+tyngde	NOUN	gravity.n.01.446812
+type	NOUN	form.n.09.396074	type.n.01.358603
+typisk	ADJ	typical.a.01.281992
+tyveri	NOUN	larceny.n.01.177681
+uafbrudt	ADJ	continuous.a.01.165793
+uafhængig	ADJ	independent.a.01.174007
+ubetydelig	ADJ	minor.a.02.219957	petty.s.03.143340
+udarbejde	VERB	prepare.v.03.236181
+udbedre	VERB	repair.v.01.141126
+udbrede	VERB	circulate.v.02.189730
+udbringe	VERB	bring.v.01.257337
+udbytte	NOUN	profit.n.02.347797
+uddannelse	NOUN	education.n.02.361109
+uddeling	NOUN	sharing.n.04.197117
+uddød	ADJ	extinct.a.01.187274
+udfald	NOUN	goal.n.01.361014	product.n.05.446113	result.n.03.381862
+udfordring	NOUN	challenge.n.01.481926
+udfylde	VERB	occupy.v.03.293575
+udgang	NOUN	exit.n.01.316130
+udgave	NOUN	edition.n.01.369166
+udgift	NOUN	outgo.n.01.470939
+udgivelse	NOUN	issue.n.11.198106
+udgive	VERB	publish.v.02.189666
+udgravning	NOUN	dig.n.01.401940
+udklip	NOUN	clipping.n.01.369630
+udlænding	NOUN	foreigner.n.01.423879
+udlejer	NOUN	landlord.n.01.426752
+udleje	VERB	lease.v.03.266072
+udligne	VERB	offset.v.01.298279
+udnævne	VERB	appoint.v.01.277238
+udnytte	VERB	exploit.v.01.201989	exploit.v.02.202077
+udplante	VERB	plant.v.01.225557
+udpluk	NOUN	excerpt.n.01.366086
+udregning	NOUN	calculation.n.02.357751
+udrustning	NOUN	kit.n.02.321448
+udsætte	VERB	delay.v.02.293128
+udsagn	NOUN	affirmation.n.02.380067
+udsalg	NOUN	mercantile_establishment.n.01.323579	sale.n.03.199069
+udseende	NOUN	look.n.03.338103
+udside	NOUN	outside.n.02.402899
+udsigt	NOUN	view.n.02.360311
+udskifte	VERB	substitute.v.01.269010	switch.v.03.163624
+udspørge	VERB	interrogate.v.02.178299
+udstilling	NOUN	exhibition.n.02.400114
+udstøde	VERB	banish.v.01.283982	utter.v.02.190713
+udstrækning	NOUN	extent.n.01.482107	magnitude.n.01.346485	size.n.01.346617
+udstrakt	ADJ	comprehensive.a.01.162351
+udstyre	VERB	equip.v.01.273988	supply.v.01.273398
+udstyr	NOUN	equipment.n.01.315959
+udtalelse	NOUN	announcement.n.01.372041	statement.n.01.371965
+udtryk	NOUN	term.n.01.364553
+udvælge	VERB	pick.v.01.170905
+udvalg	NOUN	committee.n.01.399039	excerpt.n.01.366084	selection.n.02.399950
+udveksling	NOUN	exchange.n.02.378628	exchange.n.03.202192
+udvidelse	NOUN	expansion.n.01.149791
+udvide sig	VERB	expand.v.01.257284
+udvide	VERB	widen.v.03.144453
+udvikle	VERB	better.v.02.136357	develop.v.01.235249	enhance.v.02.138474	foster.v.03.185818	reform.v.05.141568
+udvikling	NOUN	evolution.n.02.474282	growth.n.01.474451
+udvirke	VERB	arouse.v.01.236466	suggest.v.05.187349
+udvise	VERB	exhibit.v.01.292482	extradite.v.01.283952
+uendelig	ADJ	infinite.a.01.192025
+uenighed	NOUN	disagreement.n.01.483037
+ufejlbarlig	ADJ	pure.a.06.245700
+uformel	ADJ	informal.a.01.194333
+uforskammet	ADJ	offensive.a.05.228884
+uforudsigelighed	NOUN	randomness.n.02.339970
+uge	NOUN	week.n.03.500701
+ugidelig	ADJ	faineant.s.01.143808
+ugle	NOUN	owl.n.01.228694
+ugræs	NOUN	weed.n.01.468270
+uheld	NOUN	accident.n.01.382044
+uintelligent	ADJ	stupid.a.01.156596
+ukrudt	NOUN	weed.n.01.468269
+uld	NOUN	wool.n.01.336523
+ulempe	NOUN	disadvantage.n.01.347934
+ulig	ADJ	other.a.01.256655	unlike.a.01.216418
+ulv	NOUN	wolf.n.01.259669
+umoden	ADJ	green.a.03.221352	premature.s.03.180097
+umulig	ADJ	impossible.a.01.240701
+undergang	NOUN	downfall.n.01.382428
+undergrave	VERB	sabotage.v.01.286747
+underholde	VERB	entertain.v.01.283233
+underholdning	NOUN	entertainment.n.01.155512
+underhold	NOUN	support.n.06.472461
+under	NOUN	miracle.n.02.381689
+underskrift	NOUN	signature.n.01.366176
+underskrive	VERB	sign.v.01.191403
+undersøgelse	NOUN	inquest.n.01.168798	probe.n.01.357707	research.n.01.168739	search.n.02.168774	trial.n.04.203874
+understøtte	VERB	hold.v.10.205375
+understrege	VERB	stress.v.01.192437	underline.v.02.191873
+undertøj	NOUN	underwear.n.01.335082
+undertrykke	VERB	suppress.v.01.158277
+underværk	NOUN	miracle.n.02.381691
+undervisning	NOUN	education.n.01.184294	teaching.n.01.184484
+undervisningstime	NOUN	lesson.n.01.184636
+undfange	VERB	conceive.v.03.122809
+undgå	VERB	avoid.v.01.179860
+undladelse	NOUN	omission.n.01.125085
+undre sig	VERB	wonder.v.02.187019
+undsige	VERB	denounce.v.01.181565
+undskylde	VERB	apologize.v.01.184847
+undskyldning	NOUN	apology.n.01.370109	excuse.n.01.372314
+undtagelse	NOUN	exception.n.02.358192
+ungdom	NOUN	young.n.09.393982	youth.n.03.500950
+unge	NOUN	young_mammal.n.01.211546	young.n.01.211533
+uniform	NOUN	uniform.n.01.335103
+universel	ADJ	cosmopolitan.s.03.162407
+universitet	NOUN	university.n.02.335135
+uorden	NOUN	disorderliness.n.01.491441
+uoverensstemmelse	NOUN	dispute.n.01.379570
+upassende	ADJ	inadequate.a.01.122593	inappropriate.a.01.130125
+urinere	NOUN	urine.n.01.496629
+ur	NOUN	alarm_clock.n.01.296605	clock.n.01.310458	watch.n.01.335802
+urolig	ADJ	antsy.s.01.277874
+uro	NOUN	alarm.n.01.386945	unrest.n.02.386749
+urt	NOUN	herb.n.02.392030
+usædvanlig	ADJ	strange.a.01.189611
+usårlig	ADJ	impregnable.s.01.285521
+usikkerhed	NOUN	doubt.n.02.339752	uncertainty.n.01.339726
+uskyldig	ADJ	innocent.a.01.211411
+usynlig	ADJ	invisible.a.01.284900
+utilstrækkelig	ADJ	insufficient.a.01.273807
+utrolig	ADJ	incredible.a.01.169258
+uundgåelig	ADJ	inevitable.a.01.147501
+uvant	ADJ	strange.a.01.189610
+uvejr	NOUN	storm.n.01.446782
+uvidende	ADJ	ignorant.s.01.181054	unwitting.a.02.135239
+uvidenhed	NOUN	ignorance.n.01.361172
+våben	NOUN	weapon.n.01.335961
+vaccination	NOUN	injection.n.03.172130
+vade	VERB	wade.v.01.246344
+væddemål	NOUN	bet.n.02.161222
+væde	NOUN	fluid.n.02.497873	liquid.n.03.497886
+vægtenhed	NOUN	weight_unit.n.02.475989
+vægt	NOUN	emphasis.n.01.489824	scale.n.07.329431	significance.n.01.348094	weight.n.01.345388	weight.n.02.336065	weight_unit.n.02.475987
+vækkeur	NOUN	alarm_clock.n.01.296604
+vækst	NOUN	growth.n.04.400534	increase.n.03.474564	increase.n.04.346774	upgrade.n.04.346143
+vælger	NOUN	voter.n.01.435727
+vælge	VERB	choose.v.01.170817	elect.v.01.277575	elect.v.02.170939
+vælte	VERB	tumble.v.01.250084
+værdighed	NOUN	dignity.n.01.342463
+værdikupon	NOUN	coupon.n.01.368183
+værdi	NOUN	price.n.04.347411	value.n.01.358954	value.n.02.347347	value.n.03.473322	value.n.06.360150	worth.n.02.347333
+værd	NOUN	worth.n.02.347335
+væremåde	NOUN	bearing.n.03.343131	manner.n.02.343117
+være	VERB	serve.v.02.197687
+værge	NOUN	trustee.n.01.435163
+værk	NOUN	work.n.02.336526
+værksted	NOUN	workshop.n.01.336578
+værktøj	NOUN	tool.n.01.334228
+værne	VERB	protect.v.01.199725
+værn	NOUN	protection.n.01.180243	security.n.02.472141
+vært	NOUN	host.n.01.425614	landlord.n.01.426751
+væske	NOUN	fluid.n.02.497872	liquid.n.03.497885
+væve	VERB	weave.v.02.232139
+væv	NOUN	tissue.n.01.349487
+vågen	ADJ	awake.a.01.134804
+vågenat	NOUN	wake.n.04.193545
+vågne	VERB	wake_up.v.02.119050
+vagtmand	NOUN	guard.n.01.424914	lookout.n.01.427165	ward.n.03.335710	watchman.n.01.435909
+vagtmester	NOUN	guard.n.01.424916	lookout.n.01.427166	ward.n.03.335709	watchman.n.01.435911
+vagt	NOUN	guard.n.01.424913	lookout.n.01.427163	shift.n.03.503671	ward.n.03.335708	watchman.n.01.435908
+vagttårn	NOUN	watchtower.n.01.335815
+vakuum	NOUN	vacuum.n.03.403624	vacuum.n.04.335219	void.n.02.481396
+valgkamp	NOUN	political_campaign.n.01.385538
+valgkreds	NOUN	constituency.n.01.397819
+valgmulighed	NOUN	option.n.02.357511
+valg	NOUN	election.n.01.134466
+valse	NOUN	roller.n.04.328841
+valuta	NOUN	currency.n.01.472846	money.n.03.472814
+vandfald	NOUN	waterfall.n.01.413270
+vandforsyning	NOUN	water_system.n.02.335919
+vandkande	NOUN	watering_can.n.01.335888
+vandløb	NOUN	stream.n.01.412886
+vandmølle	NOUN	water_mill.n.01.335900
+vand	NOUN	water.n.01.496458
+vandpyt	NOUN	pool.n.06.412161
+vandret	ADJ	flat.s.12.206526
+vane	NOUN	habit.n.01.355352
+våning	NOUN	housing.n.01.320296
+vanskelig	ADJ	difficult.a.01.175052
+vanskelighed	NOUN	difficulty.n.04.338812
+vare ’ved	VERB	last.v.01.297370
+variabel	NOUN	variable.n.02.358972
+variant	NOUN	version.n.02.358610
+variation	NOUN	diverseness.n.01.339571
+varighed	NOUN	duration.n.01.500665	duration.n.03.345828
+varmeanlæg	NOUN	heating_system.n.01.319585
+varme	NOUN	heat.n.04.337083
+vår	NOUN	spring.n.01.502570
+vaskekumme	NOUN	sink.n.01.330715
+vasketøj	NOUN	laundry.n.01.321999
+vaske	VERB	wash.v.02.121083	wash.v.03.223788
+vask	NOUN	sink.n.01.330714
+vederlag	NOUN	recompense.n.01.471062
+vedgå	VERB	admit.v.01.180226
+vedkende	VERB	admit.v.01.180229
+vedligeholdelse	NOUN	care.n.06.141708
+vedstå	VERB	admit.v.01.180228
+vedtagelse	NOUN	regulation.n.01.370683	settlement.n.05.357466
+vedtage	VERB	decide.v.01.172150
+vedvarende	ADJ	persistent.a.03.236415
+vegetarianer	NOUN	vegetarian.n.01.435431
+vegetar	NOUN	vegetarian.n.01.435430
+vegetation	NOUN	vegetation.n.01.400512
+veje	VERB	weigh.v.01.297364	weigh.v.03.297350
+vejkryds	NOUN	intersection.n.02.320824
+vejledning	NOUN	guidance.n.01.370479
+vej	NOUN	road.n.01.328744	way.n.05.154142	way.n.06.335944
+vejr	NOUN	weather.n.01.447689
+veksle	VERB	change.v.03.129332
+vektor	NOUN	vector.n.01.359069
+velbefindende	NOUN	comfort.n.01.490151	wellbeing.n.01.490223
+velbehag	NOUN	satisfaction.n.01.387288
+velduftende	ADJ	fragrant.a.01.194896
+velfærd	NOUN	social_welfare.n.01.197214
+velgerning	NOUN	charity.n.03.197359
+velgørenhed	NOUN	charity.n.03.197360
+velkendt	ADJ	familiar.a.01.189466
+velkommen	NOUN	welcome.n.02.370044
+velstand	NOUN	prosperity.n.01.491225
+veltalende	ADJ	eloquent.s.01.131408
+veltilfreds	ADJ	contented.a.01.165401
+vending	NOUN	reversal.n.03.384310	reversion.n.04.147852	saying.n.01.378961
+venlig	ADJ	friendly.a.01.196371	kind.a.01.214159
+venskab	NOUN	friendship.n.01.481864
+venstre	NOUN	left.n.01.403170
+venstreorienteret	ADJ	left.a.04.253949
+ventesal	NOUN	lounge.n.02.322698
+vente	VERB	wait.v.01.292881
+ventilator	NOUN	ventilator.n.01.335365
+verden	NOUN	earth.n.01.410464	populace.n.01.396892	price.n.04.347412	universe.n.01.413151	value.n.01.358955	value.n.02.347348	value.n.03.473323	value.n.06.360151	world.n.03.357956	worth.n.02.347334
+verdslig	ADJ	laic.s.01.255738
+version	NOUN	version.n.01.379365
+vest	NOUN	west.n.02.480019	west.n.08.402138
+veteran	NOUN	veteran.n.01.435480
+videnskabelig	ADJ	scientific.a.02.257829
+videnskab	NOUN	science.n.01.361317
+videnskabsmand	NOUN	scholar.n.01.432072	scientist.n.01.432125
+video	NOUN	video_recording.n.01.335471
+vide	VERB	know.v.03.165861
+vidne	NOUN	spectator.n.01.433360	witness.n.05.436246
+vidunder	NOUN	wonder.n.02.381717
+vielsesring	NOUN	wedding_ring.n.01.336035
+vie	VERB	give.v.18.184499
+vifte	NOUN	ventilator.n.01.335366
+vifte	VERB	fan.v.03.244393
+vigtig	ADJ	chief.s.01.209166	significant.a.01.262945
+vigtighed	NOUN	importance.n.01.348050
+vikle	VERB	coil.v.03.223036	twist.v.05.130827
+vild	ADJ	wild.a.02.276779
+vildkat	NOUN	wildcat.n.03.260462
+vildlede	VERB	misinform.v.01.181160
+vildnis	NOUN	wilderness.n.03.404025
+viljekraft	NOUN	character.n.06.489957	self-control.n.02.341889
+vilje	NOUN	volition.n.01.355046
+viljestyrke	NOUN	character.n.06.489958	self-control.n.02.341890
+vilkårlig	ADJ	arbitrary.a.01.173439
+vilkår	NOUN	condition.n.02.372554	condition.n.07.372954
+villa	NOUN	villa.n.04.335489
+vinder	NOUN	winner.n.01.436195
+vinde	VERB	wind.v.05.222910	win.v.01.197916
+vind	NOUN	wind.n.01.447718
+vindue	NOUN	window.n.01.336336	window.n.07.336354
+vinge	NOUN	wing.n.01.262293	wing.n.02.336414
+vinkel	NOUN	angle.n.01.480959
+vinke	VERB	beckon.v.01.194157
+vin	NOUN	vine.n.01.468459	wine.n.01.393191
+vinplante	NOUN	vine.n.01.468460
+vinsort	NOUN	wine.n.01.393193
+vinter	NOUN	old_age.n.01.501059	winter.n.01.502591
+virkelig	ADJ	correct.a.01.168335	real.a.01.247331	true.a.01.281531
+virkelighed	NOUN	reality.n.02.482410
+virus	NOUN	virus.n.01.211943
+viselig	ADJ	smart.a.01.156482	wise.a.01.288461
+vise	VERB	exhibit.v.01.292481	expose.v.03.261571	uncover.v.01.261753
+vision	NOUN	vision.n.01.357121
+visitkort	NOUN	calling_card.n.02.370107
+visning	NOUN	display.n.02.162151
+vital	ADJ	critical.s.04.185539
+vitamin	NOUN	vitamin.n.01.499910
+vits	NOUN	joke.n.01.373091	wisecrack.n.01.372872
+vittighed	NOUN	joke.n.01.373092	wisecrack.n.01.372873
+vittighedstegning	NOUN	cartoon.n.01.373161
+viv	NOUN	wife.n.01.436111
+vogn	NOUN	cab.n.03.306815	car.n.01.307716	streetcar.n.01.332457	wagon.n.01.335609
+vognstamme	NOUN	train.n.01.334474
+voksen	NOUN	adult.n.01.415120
+vokse	VERB	increase.v.01.132116	mature.v.01.140215
+volumen	NOUN	volume.n.06.344746
+votum	NOUN	opinion.n.04.368690
+vove	NOUN	wave.n.01.383138
+vovhund	NOUN	dog.n.01.257793
+vovse	NOUN	dog.n.01.257792
+vred	ADJ	angry.a.01.128553
+vrede	NOUN	anger.n.01.386843
+vredesfølelse	NOUN	anger.n.01.386844
+vride sig	VERB	writhe.v.01.243178
+vrid	NOUN	twist.n.09.383121
+vrimle	VERB	pour.v.02.253708
+vriste	VERB	writhe.v.01.243177
+vrøvl	NOUN	nonsense.n.01.369457
+vugge	VERB	rock.v.01.243579
+vulkan	NOUN	volcano.n.02.413238
+vunde	NOUN	cut.n.05.487378	ulcer.n.01.486478	wound.n.01.487557
+vurdere	VERB	chew_over.v.01.168281	consider.v.05.179968	measure.v.04.171145
+vurdering	NOUN	estimate.n.05.363284	judgment.n.02.183620
+wc	NOUN	bathroom.n.01.302838
+website	NOUN	web_site.n.01.365386
+weekend	NOUN	weekend.n.01.501520
+whisky	NOUN	whiskey.n.01.393400
+workshop	NOUN	workshop.n.02.184805
+yacht	NOUN	yacht.n.01.336695
+yard	NOUN	yard.n.01.476627
+yderside	NOUN	outside.n.02.402900
+ydre	ADJ	outer.a.01.188554
+ynde	NOUN	grace.n.02.345014
+ynde	VERB	like.v.03.237530
+yndling	NOUN	darling.n.01.421784
+yngling	ADJ	junior.a.01.258849
+ynkelig	ADJ	abject.s.01.185583
+ytring	NOUN	affirmation.n.02.380066
+zebra	NOUN	zebra.n.01.276908
+zone	NOUN	zone.n.01.404094
