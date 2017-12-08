@@ -1,29 +1,6 @@
 import sqlite3
 import logging
 
-class Table():
-    def __init__(self, conn, tablename):
-        self.conn = conn
-        self.cursor = self.conn.cursor()
-        self.name = tablename
-
-        self.cursor.execute('pragma table_info(%s)' % self.name)
-        self.cols = [c[1] for c in self.cursor.fetchall()]
-        self.total = self.fetch_total()
-        self.sql = 'SELECT prob FROM ' + self.name + ' WHERE ' +
-                   ' AND '.join(c + '=?' for c in self.cols[1:])
-    
-    def get(self, params):
-        assert(len(params) == len(self.cols) - 1)
-        self.cursor.execute(self.sql, params)
-        res = self.cursor.fetchone()
-        return res[0] if res else None
-    
-    def fetch_total(self):
-        self.cursor.execute("SELECT total FROM total_probs WHERE name=?",
-                (self.name,))
-        return self.cursor.fetchone()[0]
-
 
 class ProbDatabase():
     def __init__(self, filename, table):
