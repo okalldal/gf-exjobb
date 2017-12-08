@@ -1,0 +1,32 @@
+digraph G {
+   eng -> A1;
+   eng -> A2[label = "Parsing"];
+   A1 -> chi1 [label = "Linearization"];
+   A2 -> chi2;
+   A1 -> swe;
+   A2 -> swe [label = "Linearization"];
+
+   subgraph cluster_english {
+      label = "English"
+      eng;
+   }
+
+   subgraph cluster_abstract {
+      "Abstract syntax" [shape = plaintext];
+      A1; A2
+   }
+   subgraph cluster_chinese {
+      label = "Chinese"
+      chi1; chi2;
+   }
+   subgraph cluster_swedish {
+      label = "Swedish"
+      swe
+   }
+
+   eng [label = "\"I eat the food in the kitchen.\""]
+   chi1 [label = "\"wo zai chufang chi fan.\""]
+   chi2 [label = "\"wo chi zai chufang de fan\""]
+   swe [label = "\"Jag äter maten i köket.\""]
+
+}
