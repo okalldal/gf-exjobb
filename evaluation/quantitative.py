@@ -2,7 +2,6 @@ from trainomatic import trainomatic
 from collections import defaultdict
 from itertools import product, groupby, islice
 from utils import read_probs, read_poss_dict, Word, reverse_poss_dict
-from database import ProbDatabase
 from numpy import log
 import logging 
 import sys
@@ -10,6 +9,7 @@ import random
 from nltk.corpus import wordnet as wn
 from argparse import ArgumentParser
 from os.path import basename, splitext
+import models
 
 def get_bigrams_for_lemmas(lemmas, tree):
     bigrams = [w for w in get_bigrams(tree) 
@@ -36,27 +36,20 @@ def possible_bigrams(bigrams, possdict, deprel, max_perms=1000):
             return None
         swapdict = dict(replacements) # swap word for abstract function
         swap = lambda w: swapdict[w] if w in vocab else w.lemma # Don't swap 'ROOT' etc
-        is_valid = lambda w: w.is_root or w in vocab
         if not deprel:
-            out.append([(swap(w), swap(h)) for w, h, rel in bigrams if
-                is_valid(w) and is_valid(h)])
+            yield [(swap(w), swap(h)) for w, h, rel in bigrams]
         else:
-            out.append([(swap(w), swap(h), rel) for w, h, rel in bigrams if
-                is_valid(w) and is_valid(h)])
-    return out
+            yield [(swap(w), swap(h), rel) for w, h, rel in bigrams]
 
 
 def bigrams_prob(bigrams, probs):
     prob = 0
     total = 0
     for bigram in bigrams:
-        try:
-            p = probs.get(bigram)
-            if not p == 0:
-                prob += -log(p)
-                total += 1
-        except KeyError:
-            pass
+        p = probs.get(bigram)
+        if not p == 0:
+            prob += -log(p)
+            total += 1
     if total == 0: 
         return 0
     else:
@@ -78,13 +71,6 @@ def read_wnid2fun(path):
                 yield wnid, fun
             except ValueError:
                 continue
-
-
-def wordnet_examples(pos_filter=None):
-    for s in wn.all_synsets():
-        if not pos_filter or s.pos() == pos_filter:
-            for ex in s.examples():
-                yield (s.offset(), ex)
 
 
 def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
@@ -138,7 +124,8 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
 
         bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
-        poss_bigrams = possible_bigrams(bigrams, possdict, deprel=use_deprel)
+        poss_bigrams = list(possible_bigrams(bigrams, possdict,
+            deprel=use_deprel))
         
         if not poss_bigrams:
             overflow_error += 1
@@ -204,7 +191,7 @@ def init(args):
     logging.info('Loading Probabilities')
     if args.database:
         tablename = splitext(basename(args.probs))[0]
-        probs = ProbDatabase(args.database, tablename)
+        probs = models.Bigram(args.database, tablename)
     else:
         probs = ProbDict(args.probs)
     possdict = read_poss_dict(path=args.possdict)

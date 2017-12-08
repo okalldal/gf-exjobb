@@ -13,8 +13,7 @@ class Unigram():
         if isinstance(key, str):
             key = (key,)
         val = self.table.get(key)
-        tot = self.table.total
-        return val/tot if val else 0
+        return val if val else 0
 
 
 class Bigram():
@@ -24,22 +23,61 @@ class Bigram():
         self.backoff = backoff
         self.bigram_table = ProbTable(self.db.cursor, self.basename)
         self.unigram_table = ProbTable(self.db.cursor, self.basename + '_uni')
+        # marginal distribution
+        self.head_table = ProbTable(self.db.cursor, self.basename + '_headuni')
+        self.check()
+
+    def check(self):
+        assert(len(self.bigram_table.cols) == 3)
+        assert(len(self.head_table.cols) == 2)
+        assert(len(self.unigram_table.cols) == 2)
 
     def get(self, key):
         if len(key) == 2:
             # bigram
             val = self.bigram_table.get(key)
-            tot = self.bigram_table.total
-            head = self.get(key[-1:])
+            head = self.head_table.get(key[-1:])
             if not val or head == 0:
                 return self.backoff*self.get(key[0:1])
             else:
-                return val/tot/head
+                return val/head
         elif len(key) == 1:
             # unigram
             val = self.unigram_table.get(key)
-            tot = self.unigram_table.total
-            return val/tot if val else 0
+            return val if val else 0
+
+class BigramDeprel():
+    def __init__(self, dbfile, basename, backoff=0.4):
+        self.db = ProbDatabase(dbfile)
+        self.basename = basename
+        self.backoff = backoff
+        self.bigram_table = ProbTable(self.db.cursor, self.basename)
+        self.unigram_table = ProbTable(self.db.cursor, self.basename + '_uni')
+
+        # marginal distributions
+        self.head_table = ProbTable(self.db.cursor, self.basename + '_headuni')
+        self.deprel_table = ProbTable(self.db.cursor, 'onlydep_zero')
+
+    def check(self):
+        assert(len(self.bigram_table.cols) == 3)
+        assert(len(self.unigram_table.cols) == 2)
+        assert(len(self.head_table.cols) == 2)
+        assert(len(self.deprel_table.cols) == 2)
+
+    def get(self, key):
+        if len(key) == 2:
+            # bigram
+            val = self.bigram_table.get(key)
+            head = self.head_table.get(key[1:2])
+            dep = self.deprel_table.get(key[2:])
+            if not val or head == 0 or dep == 0:
+                return self.backoff*self.get(key[0:1])
+            else:
+                return val/head/dep
+        elif len(key) == 1:
+            # unigram
+            val = self.unigram_table.get(key)
+            return val if val else 0
 
 class Interpolation():
     def __init__(self, dbfile, basename):
@@ -49,9 +87,9 @@ class Interpolation():
         self.bigram = ProbTable(self.db.cursor, self.basename)
         self.unigram = ProbTable(self.db.cursor, self.basename + '_uni')
         self.marg_head = ProbTable(self.db.cursor, self.basename + '_headuni')
-        self.marg_deprel = ProbTable(self.db.cursor, 'deprel')
-        self.bigramcat = ProbTable(self.db.cursor, self.basename + '_cat')
-        self.unigramcat = ProbTable(self.db.cursor, self.basename + '_unicat')
+        self.marg_deprel = ProbTable(self.db.cursor, 'onlydep_zero')
+        self.bigramcat = ProbTable(self.db.cursor, 'nodep_zero')
+        self.unigramcat = ProbTable(self.db.cursor, 'nodep_zero_uni')
 
 
     def get(self, key):

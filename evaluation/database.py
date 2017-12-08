@@ -9,6 +9,8 @@ class ProbTable():
 
         self.cursor.execute('pragma table_info(%s)' % self.name)
         self.cols = [c[1] for c in self.cursor.fetchall()]
+        if len(self.cols) < 1:
+            raise Exception('Database with name %s doesn\'t exist' % self.name)
         self.total = self.fetch_total()
         self.sql = 'SELECT prob FROM ' + self.name + ' WHERE ' + \
                    ' AND '.join(c + '=?' for c in self.cols[1:])
@@ -18,7 +20,8 @@ class ProbTable():
         assert(len(params) == len(self.cols) - 1)
         self.cursor.execute(self.sql, params)
         res = self.cursor.fetchone()
-        return res[0] if res else None
+        tot = self.total
+        return res[0]/tot if res else None
     
     def fetch_total(self):
         """returns the total count for the table"""
