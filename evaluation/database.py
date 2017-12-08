@@ -26,7 +26,6 @@ class ProbTable():
                 (self.name,))
         return self.cursor.fetchone()[0]
 
-
 class ProbDatabase():
     """Convinience class for opening and closing a database"""
     def __init__(self, filename):

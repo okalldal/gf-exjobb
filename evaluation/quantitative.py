@@ -36,10 +36,13 @@ def possible_bigrams(bigrams, possdict, deprel, max_perms=1000):
             return None
         swapdict = dict(replacements) # swap word for abstract function
         swap = lambda w: swapdict[w] if w in vocab else w.lemma # Don't swap 'ROOT' etc
+        is_valid = lambda w: w.is_root or w in vocab
         if not deprel:
-            out.append([(swap(w), swap(h)) for w, h, rel in bigrams])
+            out.append([(swap(w), swap(h)) for w, h, rel in bigrams if
+                is_valid(w) and is_valid(h)])
         else:
-            out.append([(swap(w), swap(h), rel) for w, h, rel in bigrams])
+            out.append([(swap(w), swap(h), rel) for w, h, rel in bigrams if
+                is_valid(w) and is_valid(h)])
     return out
 
 
@@ -86,17 +89,21 @@ def wordnet_examples(pos_filter=None):
 
 def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
     total = 0
+    no_error = 0
     success = 0
+    top_success = 0
     random_success = 0
     prob_not_found = 0
-    tree_unambig = 0
 
     data_error = 0
+    parse_error = 0
     unambig_error = 0
     lemma_error = 0
     overflow_error = 0
 
     for i, (wnid, tree) in enumerate(trees):
+
+        total += 1
 
         if i % 5000 == 0:
             logging.info('i={}'.format(i))
@@ -113,6 +120,16 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
             # cant linearize function
             data_error += 1
             continue
+
+        if not [w for w in tree if w.lemma in lemmas]:
+            # didnt find the lemma in the tree
+            lemma_error += 1
+            continue
+
+        if lemmas and all(w.upostag.lower() != 'noun' for w in tree if w.lemma in lemmas):
+            # UD parsed data failed
+            parse_error += 1
+            continue
         
         if sum(len(possdict[l]) for l in linearize[fun]) == len(lemmas):
             # lemma not ambigiuous
@@ -121,16 +138,18 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
 
         bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
-        if not bigrams:
-            # didnt find the lemma in the tree
-            lemma_error += 1
-            continue
-
         poss_bigrams = possible_bigrams(bigrams, possdict, deprel=use_deprel)
         
         if not poss_bigrams:
             overflow_error += 1
             continue
+
+        if len(poss_bigrams) <= 1:
+            unambig_error += 1
+            continue
+
+        # no errors
+        no_error += 1
 
         rank = [(bigrams_prob(b, probs), b) 
                 for b in poss_bigrams]
@@ -145,25 +164,26 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         """ ORACLE """
         p_rand, b_rand = random.choice(rank)
         p, top  = next(groupby(rank, lambda x: x[0]))
-        in_top  = any(any(w[0] == fun or w[1] == fun for w in b) for p, b in top)
+        top = [el for el in top]
+        in_oracle  = any(any(w[0] == fun or w[1] == fun for w in b) for p, b in top)
+        in_top = any(w[0] == fun or w[1] == fun for w in random.choice(top)[1])
         in_rand = any(w[0] == fun or w[1] == fun for w in b_rand) 
 
-        if not is_ambig:
-            tree_unambig += 1
-            continue
         if p == 0:
             prob_not_found += 1
         else:
-            if in_top:
+            if in_oracle:
                 success += 1
+            if in_top:
+                top_success += 1
             if in_rand:
                 random_success += 1
 
-    print(('total: {}, success: {}, success random: {}, prob_not_found: {}, ' 
-        'tree unambig: {}, overflow error: {}, lemma error: {}, data error: {}, '
-        'unambig error: {}')
-        .format(total, success, random_success, prob_not_found, tree_unambig,
-            overflow_error, lemma_error, data_error, unambig_error))
+    print(('total: {}, no error: {}, success oracle: {}, success top: {}, success random: {}, ' 
+        'prob_not_found: {}, overflow error: {}, lemma error: {}, data error: {}, '
+        'unambig error: {}, parse error: {}')
+        .format(total, no_error, success, top_success, random_success, prob_not_found, 
+            overflow_error, lemma_error, data_error, unambig_error, parse_error))
 
 # ProbDictionary with same interface as the ProbDatabase
 class ProbDict():

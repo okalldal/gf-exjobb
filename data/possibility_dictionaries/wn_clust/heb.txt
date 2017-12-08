@@ -35,14 +35,14 @@
 !כַּמּוּת	NOUN	measure.n.02	quantity.n.02	quantity.n.03
 מִדָּה	NOUN	extent.n.01	measure.n.02
 הֶשֵּׂג	NOUN	accomplishment.n.01
-!תְּנוּעָה	NOUN	apparent_motion.n.01	dealings.n.01	gesture.n.02	letter.n.02	motion.n.03	movement.n.03	traffic.n.02
+!תְּנוּעָה	NOUN	dealings.n.01	gesture.n.02	letter.n.02	motion.n.03	movement.n.03	optical_phenomenon.n.01	traffic.n.02
 הַשָּׂגָה	NOUN	acquiring.n.01
 רְכִישָׁה	NOUN	acquiring.n.01
 גְּרִימָה	NOUN	causing.n.01
 הִסְתַּלְּקוּת	NOUN	departure.n.01
 עֲזִיבָה	NOUN	departure.n.01
 מִמּוּשׁ	NOUN	implementation.n.02
-הַשְׁוָאָה	NOUN	comparison.n.01	equalization.n.01
+הַשְׁוָאָה	NOUN	equalization.n.01	examination.n.01
 !הַחְלָמָה	NOUN	recovery.n.03
 בְּרִיחָה	NOUN	running_away.n.01
 כְּנִיסָה	NOUN	entrance.n.01	entrance.n.02	entrance.n.03
@@ -51,10 +51,10 @@
 הֲגִירָה-יוֹצֵאת	NOUN	migration.n.01
 הֲגִירָה-נִכְנֶסֶת	NOUN	immigration.n.01
 מְנוּסָה	NOUN	escape.n.01
-GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_officer.n.01	alumnus.n.01	anchorage.n.03	anomaly.n.02	architect.n.01	area.n.03	area.n.05	artist.n.01	asian.n.01	associate_degree.n.01	athlete.n.01	attempt.n.01	attire.n.01	audience.n.01	babysitter.n.01	baptism.n.01	baseball_equipment.n.01	beloved.n.01	block.n.05	bloomers.n.01	body.n.02	bronze.n.02	building_material.n.01	butter.n.02	cadet.n.01	cake.n.01	camp.n.01	carpenter.n.01	cell.n.06	champion.n.01	chicken.n.02	childishness.n.01	church_service.n.01	citizen.n.01	civilian.n.01	closet.n.04	coaching.n.01	combatant.n.01	comedian.n.01	commanding_officer.n.01	communicator.n.01	community.n.01	conduit.n.01	confederate_soldier.n.01	confederation.n.02	conservative.n.01	consumer.n.01	contact_sport.n.01	containerful.n.01	contribution.n.04	conversation.n.01	convert.n.01	convict.n.01	cook.n.01	cookie.n.02	coordinator.n.01	coupon.n.02	craftsman.n.03	curator.n.01	dancer.n.01	dead.n.02	deadline.n.01	death.n.06	deceiver.n.01	decoration.n.01	defender.n.01	dicot_genus.n.01	doctor.n.01	drawing_card.n.02	educator.n.01	effigy.n.01	egotist.n.01	emblem.n.02	employer.n.01	entertainer.n.01	european.n.01	evaluator.n.01	evasion.n.04	expert.n.01	exploiter.n.01	fan.n.03	farmer.n.01	feed.n.01	feeling.n.01	fence.n.02	ferocity.n.01	football.n.01	foul_ball.n.01	framework.n.03	friend.n.01	game.n.07	garment.n.01	gaze.n.01	geographical_area.n.01	greek.n.01	greek_partridge.n.01	greenwich_village.n.01	greeting.n.01	gross.n.02	handle.n.01	hearer.n.01	holder.n.02	hope.n.02	hunter.n.01	idler.n.01	immigrant.n.01	independence.n.02	independence.n.03	inner_light.n.01	inquirer.n.01	inspector.n.01	intellectual.n.01	intention.n.02	interior_designer.n.01	inventor.n.01	investigator.n.02	investor.n.01	island.n.02	jocoseness.n.01	judge.n.01	kit.n.01	knife.n.01	labor.n.02	lapin.n.01	lawyer.n.01	leader.n.01	leather.n.01	lector.n.02	lender.n.01	liar.n.01	libertine.n.01	librarian.n.01	liking.n.01	linear_unit.n.01	lingerie.n.01	liver.n.04	maneuver.n.03	medicine.n.01	migrant.n.01	military_officer.n.01	milk.n.03	money_handler.n.01	musician.n.01	narrator.n.01	natural_language.n.01	neighbor.n.01	nothing.n.01	number.n.02	official.n.01	official.n.02	offspring.n.01	omission.n.01	onion.n.03	pain.n.01	partner.n.03	party.n.01	pass.n.04	patron.n.03	pauper.n.01	peak.n.04	pedestrian.n.01	performer.n.01	person.n.01	pink.n.01	pioneer.n.01	planner.n.01	plastic_art.n.01	policeman.n.01	prisoner.n.01	professional.n.01	programmer.n.01	prosecutor.n.01	protection.n.01	pus.n.01	radical.n.03	record-breaker.n.01	reed.n.03	referee.n.01	reformer.n.01	region.n.01	relative.n.01	respondent.n.02	retailer.n.01	revelation.n.04	revolutionist.n.01	room.n.01	ruler.n.01	salesperson.n.01	scientist.n.01	sea.n.03	secretary.n.02	seeker.n.01	selfish_person.n.01	settler.n.01	shackle.n.01	shop.n.01	shot.n.05	sick_person.n.01	signal.n.01	signboard.n.01	silk.n.02	singer.n.01	site.n.01	skilled_worker.n.01	slipper.n.01	small_person.n.01	smuggler.n.01	snow.n.02	socialist.n.01	soldier.n.01	soldier.n.02	soloist.n.01	sound.n.04	spiritual_leader.n.01	spouse.n.01	spy.n.02	star.n.04	state.n.02	storage_space.n.01	subscriber.n.02	supplier.n.01	surgeon.n.01	suspect.n.01	swimmer.n.01	swimmer.n.02	taxonomic_group.n.01	teach.n.01	teacher.n.01	team.n.01	tenant.n.01	terrorist.n.01	text.n.01	texture.n.01	thief.n.01	top.n.10	tourist.n.01	trainee.n.01	traveler.n.01	unfortunate.n.01	unpleasant_person.n.01	unskilled_person.n.01	violence.n.03	volunteer.n.01	volunteer.n.02	voter.n.01	wagon.n.01	warrior.n.01	work.n.02	world_series.n.01	worth.n.01	wrath.n.02	wrongdoer.n.01	young_mammal.n.01
+GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_officer.n.01	alumnus.n.01	anchorage.n.03	anomaly.n.02	architect.n.01	area.n.03	area.n.05	artist.n.01	asian.n.01	associate_degree.n.01	athlete.n.01	attempt.n.01	attire.n.01	audience.n.01	babysitter.n.01	baptism.n.01	baseball_equipment.n.01	beloved.n.01	block.n.05	bloomers.n.01	body.n.02	bronze.n.02	building_material.n.01	butter.n.02	cake.n.01	camp.n.01	carpenter.n.01	case.n.05	cell.n.06	champion.n.01	chicken.n.02	childishness.n.01	church_service.n.01	citizen.n.01	civilian.n.01	closet.n.04	clown.n.02	coaching.n.01	combatant.n.01	comedian.n.01	commanding_officer.n.01	communicator.n.01	community.n.01	completion.n.01	confederation.n.02	conservative.n.01	consumer.n.01	contact_sport.n.01	containerful.n.01	contribution.n.04	conversation.n.01	convict.n.01	cook.n.01	cookie.n.02	coordinator.n.01	coupon.n.02	craftsman.n.03	custodian.n.01	dancer.n.01	dead.n.02	deadline.n.01	death.n.06	deceiver.n.01	decoration.n.01	defender.n.01	detective.n.01	dicot_genus.n.01	doctor.n.01	educator.n.01	effigy.n.01	egotist.n.01	emblem.n.02	employer.n.01	entertainer.n.01	escape.n.01	european.n.01	evaluator.n.01	expert.n.01	exploiter.n.01	fan.n.03	farmer.n.01	feature.n.06	feed.n.01	feeling.n.01	ferocity.n.01	flue.n.03	football.n.01	footwear.n.02	foul_ball.n.01	framework.n.03	friend.n.01	fur.n.01	game.n.07	garment.n.01	gaze.n.01	geographical_area.n.01	goal.n.01	grace.n.01	greek.n.01	greek_partridge.n.01	greenwich_village.n.01	greeting.n.01	gross.n.02	handle.n.01	hearer.n.01	holder.n.02	hope.n.02	hunter.n.01	immigrant.n.01	indefinite_quantity.n.01	independence.n.02	independence.n.03	inner_light.n.01	inquirer.n.01	intellectual.n.01	interior_designer.n.01	intern.n.01	inventor.n.01	investigator.n.02	investor.n.01	island.n.02	jocoseness.n.01	judge.n.01	knife.n.01	labor.n.02	lawyer.n.01	leader.n.01	leather.n.01	lector.n.02	lender.n.01	libertine.n.01	librarian.n.01	liking.n.01	linear_unit.n.01	lingerie.n.01	liver.n.04	medicine.n.01	migrant.n.01	military_officer.n.01	milk.n.03	money_handler.n.01	musician.n.01	narrator.n.01	natural_language.n.01	neighbor.n.01	nonworker.n.01	nothing.n.01	number.n.02	official.n.01	official.n.02	offspring.n.01	omission.n.01	pain.n.01	partner.n.03	party.n.01	pass.n.04	patron.n.03	pauper.n.01	peak.n.04	pedestrian.n.01	performer.n.01	person.n.01	pink.n.01	pioneer.n.01	planner.n.01	plastic_art.n.01	policeman.n.01	prisoner.n.01	professional.n.01	programmer.n.01	prosecutor.n.01	protection.n.01	pus.n.01	radical.n.03	rebel.n.01	record-breaker.n.01	reed.n.03	referee.n.01	reformer.n.01	region.n.01	relative.n.01	respondent.n.02	retailer.n.01	revelation.n.04	revolutionist.n.01	room.n.01	ruler.n.01	salesperson.n.01	scientist.n.01	sea.n.03	secretary.n.02	selfish_person.n.01	settler.n.01	shackle.n.01	shop.n.01	shot.n.05	sick_person.n.01	signal.n.01	signboard.n.01	silk.n.02	singer.n.01	site.n.01	skilled_worker.n.01	small_person.n.01	smuggler.n.01	snow.n.02	socialist.n.01	soldier.n.01	sound.n.04	spiritual_leader.n.01	spouse.n.01	spy.n.02	star.n.04	storage_space.n.01	subscriber.n.02	supplier.n.01	surgeon.n.01	suspect.n.01	swimmer.n.01	swimmer.n.02	taxonomic_group.n.01	teach.n.01	teacher.n.01	team.n.01	tenant.n.01	terrorist.n.01	text.n.01	texture.n.01	thief.n.01	top.n.10	tourist.n.01	trader.n.01	trainee.n.01	traveler.n.01	unfortunate.n.01	unpleasant_person.n.01	unskilled_person.n.01	vegetable.n.01	violence.n.03	volunteer.n.01	volunteer.n.02	voter.n.01	wagon.n.01	warrior.n.01	work.n.02	worker.n.03	world_series.n.01	wrath.n.02	wrongdoer.n.01	young_mammal.n.01
 שִׂיא	NOUN	acme.n.01	point.n.08	record.n.06
-לָהִיט	NOUN	hit.n.03
-כִּבּוּשׁ	NOUN	capture.n.01	success.n.02
+לָהִיט	NOUN	success.n.02
+כִּבּוּשׁ	NOUN	capture.n.01	seduction.n.02	success.n.02
 !הֲפֵכָה	NOUN	success.n.02
 טָעוּת	NOUN	mistake.n.01
 בִּלְבּוּל	NOUN	confusion.n.05
@@ -75,12 +75,12 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 גְּרִירָה	NOUN	draw.n.09
 הַעֲלָאָה	NOUN	propulsion.n.02	raise.n.01
 הֲרָמָה	NOUN	propulsion.n.02
-!גֵּרוּשׁ	NOUN	propulsion.n.02	squeeze.n.01
-גִּהוּק	NOUN	reflex.n.01
-גְּרֶפְּץ	NOUN	reflex.n.01
+!גֵּרוּשׁ	NOUN	expulsion.n.03	squeeze.n.01
+גִּהוּק	NOUN	expulsion.n.03
+גְּרֶפְּץ	NOUN	expulsion.n.03
 מִצְמוּץ	NOUN	reflex.n.01
 עִפְעוּף	NOUN	reflex.n.01
-הֲקָאָה	NOUN	reflex.n.01
+הֲקָאָה	NOUN	expulsion.n.03
 !נִתּוּר	NOUN	dance.n.04	jump.n.06
 !הַצָּבָה	NOUN	mailing.n.02
 יֶרִי	NOUN	gunfire.n.01
@@ -90,12 +90,12 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אֶגְרוֹף	NOUN	fist.n.01	punch.n.01
 בּוֹקְס	NOUN	punch.n.01
 סְנוֹקֶרֶת	NOUN	punch.n.01
-קֶרֶן	NOUN	beam.n.04	blow.n.01	french_horn.n.01	fund.n.01
-חֲטִיפָה	NOUN	capture.n.04	interception.n.02	robbery.n.01
+קֶרֶן	NOUN	beam.n.04	blow.n.01	brass.n.02	fund.n.01
+חֲטִיפָה	NOUN	interception.n.02	kidnapping.n.01	robbery.n.01
 !דִּגְדּוּג	NOUN	touch.n.05
 לִטּוּף	NOUN	touch.n.05
 לְטִיפָה	NOUN	touch.n.05
-חִבּוּר	NOUN	composition.n.08	joining.n.01	summation.n.04	writing.n.01
+חִבּוּר	NOUN	composition.n.08	joining.n.01	summation.n.04	verbal_creation.n.01
 הִדּוּק	NOUN	alteration.n.02
 חִזּוּק	NOUN	alteration.n.02
 !הַלְחָמָה	NOUN	fastening.n.02
@@ -106,25 +106,25 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אַבְחָנָה	NOUN	diagnosis.n.01
 דִּיאַגְנוֹזָה	NOUN	diagnosis.n.01
 בְּחִירָה	NOUN	choice.n.02
-!הַסְמָכָה	NOUN	ordination.n.03
+!הַסְמָכָה	NOUN	appointment.n.01
 כְּלִי	NOUN	garment.n.01	instrument.n.02	organ.n.01	weapon.n.01
 מַכְשִׁיר	NOUN	instrument.n.02
 !דֶּרֶךְ	NOUN	expressway.n.01	manner.n.01	mood.n.03	road.n.01	road.n.02	way.n.05
 בְּחִירוֹת	NOUN	election.n.01
 !מִשְׁוָאָה	NOUN	equalization.n.01
-יִלּוּד	NOUN	act.n.02
+יִלּוּד	NOUN	delivery.n.07
 גּוֹל	NOUN	goal.n.04
 שַׁעַר	NOUN	gate.n.01	goal.n.04	post.n.04
 סַל	NOUN	score.n.10
 הַחְלָפָה	NOUN	replacement.n.01	transaction.n.01
 הַעֲלָאָה-בְּדַרְגָּה	NOUN	promotion.n.02
 קִדּוּם	NOUN	advancement.n.03	promotion.n.02	promotion.n.03
-!מַעֲבָר	NOUN	area.n.05	passage.n.01
+!מַעֲבָר	NOUN	aisle.n.03	passage.n.01
 בְּחִישָׁה	NOUN	change_of_state.n.01
-!הִתְנַגְּדוּת	NOUN	expostulation.n.01	objection.n.02	resistance.n.01
+!הִתְנַגְּדוּת	NOUN	communication.n.01	objection.n.02	resistance.n.01
 הִמָּנְעוּת	NOUN	rejection.n.01
 הִתְעַלּוּת	NOUN	ecstasy.n.01	rejection.n.01
-חֵרֶם	NOUN	boycott.n.01
+חֵרֶם	NOUN	protest.n.02
 גֵּרוּשׁ	NOUN	ejection.n.02	exile.n.03
 הַגְלָיָה	NOUN	exile.n.03
 חֲתִימָה	NOUN	stopping_point.n.01	termination.n.05
@@ -157,22 +157,22 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 נִקָּיוֹן	NOUN	cleaning.n.01
 טֵאוּט	NOUN	cleaning.n.01
 טִאטוּא	NOUN	cleaning.n.01
-טִהוּר	NOUN	liberation.n.01
+טִהוּר	NOUN	clearing.n.02
 גִּלּוּחַ	NOUN	cleaning.n.01
 אַמְבַּטְיָה	NOUN	bathroom.n.01	bathtub.n.01	wash.n.02
-!תִּקּוּן	NOUN	amendment.n.01	haunt.n.01	improvement.n.02	reform.n.01	repair.n.02
+!תִּקּוּן	NOUN	amendment.n.01	haunt.n.01	reform.n.01	reform.n.03	repair.n.02
 יִפּוּי	NOUN	beautification.n.01
 עִטּוּר	NOUN	decoration.n.01	decoration.n.03
 קִשּׁוּט	NOUN	decoration.n.01	decoration.n.03
 !עִטּוּר	NOUN	decoration.n.03
-תִּקּוּן	NOUN	amendment.n.02	campaign.n.02	repair.n.01
+תִּקּוּן	NOUN	amendment.n.02	reform.n.02	repair.n.01
 תַּחְזוּקָה	NOUN	care.n.06
-!הַשְׁפָּלָה	NOUN	change_of_state.n.01	embarrassment.n.01	humiliation.n.01
-!מַלְבִּין	NOUN	change_of_color.n.01
+!הַשְׁפָּלָה	NOUN	degradation.n.01	embarrassment.n.01	humiliation.n.01
+!מַלְבִּין	NOUN	change_of_state.n.01
 הַכְתָּמָה	NOUN	soiling.n.01
-זִהוּם	NOUN	contamination.n.03	pollution.n.01
+זִהוּם	NOUN	contamination.n.03	impurity.n.02
 הַרְטָבָה	NOUN	change_of_state.n.01
-מַעֲבָר	NOUN	aisle.n.02	motion.n.06
+מַעֲבָר	NOUN	motion.n.06	passageway.n.01
 תְּזוּזָה	NOUN	motion.n.06
 תְּנוּעָה	NOUN	motion.n.06	traffic.n.01	vowel.n.01	youth_movement.n.01
 !עֲלִיָּה	NOUN	progress.n.02
@@ -187,7 +187,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !נְדִידָה	NOUN	migration.n.01	travel.n.01
 !תַּיָּרוּת	NOUN	tourism.n.01
 רְכִיבָה	NOUN	riding.n.01	riding.n.02
-סִחְרוּר	NOUN	rotation.n.01	tailspin.n.02
+סִחְרוּר	NOUN	flight.n.02	rotation.n.01
 !מַסָּע	NOUN	journey.n.01
 טְרֶמְפּ	NOUN	lift.n.11
 !טִיּוּל	NOUN	excursion.n.01	journey.n.01
@@ -208,21 +208,21 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 זְחִילָה	NOUN	motion.n.06
 מֶחֱוָה	NOUN	gesture.n.01	indication.n.01
 הִסְתּוֹבְבוּת	NOUN	rotation.n.01
-סֶבֶב	NOUN	call.n.11	roll.n.02	rotation.n.01
+סֶבֶב	NOUN	meeting.n.04	roll.n.02	rotation.n.01
 קְרִיסָה	NOUN	motion.n.03
 הַפְחָתָה	NOUN	decrease.n.04
 הַמְתָּקַת-דִּין	NOUN	decrease.n.04
-!הוֹצָאָה	NOUN	decrease.n.04	expense.n.01	expense.n.03
+!הוֹצָאָה	NOUN	consumption.n.04	expense.n.01	expense.n.03
 !דְּחִיסָה	NOUN	compression.n.04
 קִצּוּר	NOUN	shortening.n.02
 הַחְלָשָׁה	NOUN	decrease.n.04
 !קְמִילָה	NOUN	decrease.n.04	weakening.n.01
-עֲלִיָּה	NOUN	ascent.n.01	cavity.n.04	improvement.n.01	increase.n.05	loft.n.02	rise.n.01	rise.n.04
+עֲלִיָּה	NOUN	ascent.n.01	cavity.n.04	emergence.n.01	floor.n.02	improvement.n.01	increase.n.05	rise.n.04
 הֶגְבֵּר	NOUN	increase.n.05
 הַגְבָּרָה	NOUN	increase.n.05
 !הַסְלָמָה	NOUN	increase.n.05
 הַגְזָמָה	NOUN	increase.n.05	misrepresentation.n.01
-פִּזּוּר	NOUN	dispersion.n.03	spread.n.01
+פִּזּוּר	NOUN	change_of_location.n.01	dispersion.n.03
 הַכְלָלָה	NOUN	generalization.n.02	inclusion.n.04	theorization.n.01
 כְּלִילָה	NOUN	inclusion.n.04
 אִינְטֶנְסִיפִיקַצְיָה	NOUN	increase.n.05
@@ -244,9 +244,9 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !דַּיִשׁ	NOUN	grouping.n.02
 רִקּוּן	NOUN	emptying.n.01
 צֶנְזוּרָה	NOUN	removal.n.01
-יִעוּר	NOUN	conversion.n.09
-!הַשְׁחָתָה	NOUN	damage.n.03
-פְּצִיעָה	NOUN	damage.n.03
+יִעוּר	NOUN	change.n.03
+!הַשְׁחָתָה	NOUN	change_of_integrity.n.01
+פְּצִיעָה	NOUN	change_of_integrity.n.01
 עִדְכּוּן	NOUN	change.n.03
 הִתְבַּלְּטוּת	NOUN	change_of_shape.n.01
 הַרְחָבָה	NOUN	change_of_shape.n.01
@@ -273,8 +273,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 כַּדּוּרֶגֶל	NOUN	soccer.n.01
 כַּדּוּרְעָף	NOUN	volleyball.n.01	volleyball.n.02
 כַּדּוּרְסַל	NOUN	basketball.n.01	basketball.n.02
-סוֹלִיטֶר	NOUN	solitaire.n.04
-פַּסְיַאנְס	NOUN	solitaire.n.04
+סוֹלִיטֶר	NOUN	card_game.n.01
+פַּסְיַאנְס	NOUN	card_game.n.01
 אִשְׁקוּקָה	NOUN	chess.n.02
 מִשְׂחַק-הַמְּלָכִים	NOUN	chess.n.02
 שַׁח	NOUN	chess.n.02
@@ -283,7 +283,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אֲהַבְהָבִים	NOUN	play.n.14
 פְלִרְטוּט	NOUN	play.n.14
 פֶסְטִיבָל	NOUN	festival.n.02
-גָּאלָה	NOUN	gala.n.01
+גָּאלָה	NOUN	celebration.n.02
 !מִסְדָּר	NOUN	display.n.02
 !מִצְעָד	NOUN	display.n.02
 מֻצָּג	NOUN	display.n.02
@@ -292,7 +292,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 זִמְרָה	NOUN	singing.n.01	tattle.n.01
 שִׁירָה	NOUN	poetry.n.01	singing.n.01
 מִשְׂחָק	NOUN	acting.n.01
-!הַפְתָּעָה	NOUN	surprise.n.03
+!הַפְתָּעָה	NOUN	disturbance.n.05
 !מְהוּמָה	NOUN	commotion.n.02	disturbance.n.05
 !הִתְפָּרְצוּת	NOUN	disturbance.n.05
 !רִיצָה	NOUN	run.n.05
@@ -317,7 +317,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אִינְסְטֶלַצְיָה	NOUN	trade.n.02	utility.n.06
 שְׁרַבְרָבוּת	NOUN	trade.n.02
 רְפוּאָה	NOUN	medicine.n.03
-כְּתִיבָה	NOUN	writing.n.01	writing.n.05
+כְּתִיבָה	NOUN	verbal_creation.n.01	writing.n.05
 חֶשְׁבּוֹנָאוּת	NOUN	accountancy.n.01
 !צִלּוּם	NOUN	photography.n.02	photography.n.03
 מַאֲמָץ	NOUN	attempt.n.01	effort.n.02
@@ -332,10 +332,10 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מִפְקַד-אֻכְלוּסִין	NOUN	census.n.01
 אִשְׁפּוּז	NOUN	medical_care.n.01
 עִסּוּי	NOUN	massage.n.01
-!תְּרוּפָה	NOUN	medication.n.02
-נִתּוּחַ	NOUN	operation.n.06
+!תְּרוּפָה	NOUN	therapy.n.01
+נִתּוּחַ	NOUN	medical_procedure.n.01
 חֹקֶן	NOUN	irrigation.n.02
-הֲצָפָה	NOUN	implosion_therapy.n.01
+הֲצָפָה	NOUN	behavior_therapy.n.01
 !דִּקּוּר	NOUN	treatment.n.01
 חִכּוּךְ	NOUN	effort.n.02	friction.n.02
 פְּרִיקָה	NOUN	handling.n.01
@@ -352,10 +352,10 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !הֲסָבָה	NOUN	assignment.n.01
 מַעֲשֵׂה-קֻנְדָּס	NOUN	mischief.n.01
 תַּעֲלוּל	NOUN	mischief.n.01
-רַשְׁלָנוּת	NOUN	carelessness.n.01	nonaccomplishment.n.01
-הִשְׁתַּמְּטוּת	NOUN	nonaccomplishment.n.01
-הִתְחַמְּקוּת	NOUN	nonaccomplishment.n.01
-!שְׁתַמְּטָנוּת	NOUN	shirking.n.01
+רַשְׁלָנוּת	NOUN	carelessness.n.01	negligence.n.01
+הִשְׁתַּמְּטוּת	NOUN	negligence.n.01
+הִתְחַמְּקוּת	NOUN	negligence.n.01
+!שְׁתַמְּטָנוּת	NOUN	negligence.n.01
 !סְטִיָּה	NOUN	wrongdoing.n.02
 !פַּזְרָנוּת	NOUN	extravagance.n.02	waste.n.02
 אִי-צֶדֶק	NOUN	wrongdoing.n.02
@@ -384,9 +384,9 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !סַחְטָנוּת	NOUN	extortion.n.03
 !סְחִיטָה	NOUN	extortion.n.03
 פְּרִיצָה	NOUN	burglary.n.01
-הִתְפָּרְצוּת	NOUN	burglary.n.01	effusion.n.01	outbreak.n.01
+הִתְפָּרְצוּת	NOUN	burglary.n.01	expression.n.02	outbreak.n.01
 נִסָּיוֹן	NOUN	attempt.n.01	experience.n.01
-!מַסָּה	NOUN	essay.n.02
+!מַסָּה	NOUN	attempt.n.01
 חֵלֶק	NOUN	contribution.n.01	part.n.02	part.n.03	share.n.01
 תְּרוּמָה	NOUN	contribution.n.01	contribution.n.02	contribution.n.03
 מַאֲבָק	NOUN	conflict.n.01	reproductive_structure.n.01	struggle.n.01
@@ -395,14 +395,14 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מְשִׂימָה	NOUN	undertaking.n.01
 הַרְפַּתְקָה	NOUN	adventure.n.01
 !מֻעְמָדוּת	NOUN	campaigning.n.01
-רֶפוֹרְמָה	NOUN	campaign.n.02
+רֶפוֹרְמָה	NOUN	reform.n.02
 תְּנוּעַת-נֹעַר	NOUN	youth_movement.n.01
 סִכּוּן	NOUN	hazard.n.01	risk.n.02
 הִמּוּר	NOUN	gamble.n.02
 הַסְדָּרָה	NOUN	regulation.n.06
 וִסּוּת	NOUN	regulation.n.06
 רֶגוּלַצְיָה	NOUN	regulation.n.06
-הַגְבָּלָה	NOUN	limitation.n.05	restriction.n.01
+הַגְבָּלָה	NOUN	regulation.n.06	restriction.n.01
 הַחְזָקָה	NOUN	retention.n.01
 אֲחִיזָה	NOUN	clasp.n.02
 !הַדְרָכָה	NOUN	steering.n.02
@@ -447,7 +447,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אִמּוּן	NOUN	exercise.n.03
 הִתְאַמְּנוּת	NOUN	exercise.n.03
 תִּרְגּוּל	NOUN	exercise.n.03
-חֲזָרָה	NOUN	exercise.n.03
+חֲזָרָה	NOUN	rehearsal.n.01
 דְּרָמָטִיזַצְיָה	NOUN	representation.n.10
 הַמְחָזָה	NOUN	representation.n.10
 צִלּוּם	NOUN	filming.n.01	photograph.n.01	photography.n.01
@@ -455,13 +455,13 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 טְוִיָּה	NOUN	handicraft.n.02
 אֲרִיגָה	NOUN	handicraft.n.02
 סְרִיגָה	NOUN	handicraft.n.02
-בְּנִיָּה	NOUN	construction.n.01	construction.n.07
+בְּנִיָּה	NOUN	commercial_enterprise.n.02	construction.n.01
 בִּנְיָן	NOUN	building.n.01	class.n.01	construction.n.01
 פֵּרוּק	NOUN	activity.n.01
 יִצּוּר	NOUN	fabrication.n.03	industry.n.02	production.n.07
 כַּוְרָנוּת	NOUN	cultivation.n.02
-חָרִישׁ	NOUN	plowing.n.01
-חֲרִישָׁה	NOUN	plowing.n.01
+חָרִישׁ	NOUN	cultivation.n.02
+חֲרִישָׁה	NOUN	cultivation.n.02
 עִצּוּב-נוֹף	NOUN	gardening.n.01
 קִדּוּחַ	NOUN	boring.n.02	creating_by_removal.n.01
 קְדִיחָה	NOUN	boring.n.02	creating_by_removal.n.01
@@ -497,12 +497,12 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אַלִּימוּת	NOUN	violence.n.01
 !שֹׁד	NOUN	plundering.n.01
 הִסְתַּעֲרוּת	NOUN	storm.n.03
-!פְּלִישָׁה	NOUN	invasion.n.02	penetration.n.01
+!פְּלִישָׁה	NOUN	invasion.n.01	invasion.n.02
 !הִסְתַּנְּנוּת	NOUN	penetration.n.01
 פְּשִׁיטָה	NOUN	foray.n.01
 הַפְצָצָה	NOUN	bombing.n.01
 סִיּוּר	NOUN	scouting.n.01
-אֵשׁ	NOUN	fire.n.02	fire.n.03	passion.n.01
+אֵשׁ	NOUN	ardor.n.03	fire.n.02	fire.n.03
 מְדִידָה	NOUN	measurement.n.01
 !צַנֶּרֶת	NOUN	measurement.n.01
 !שְׁרַבְרָבוּת	NOUN	measurement.n.01
@@ -512,13 +512,13 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 סִדּוּר	NOUN	organization.n.06
 עֲרִיכַת-רְשִׁימָה	NOUN	listing.n.02
 אִסּוּף	NOUN	collection.n.04
-תְּלִיָּה	NOUN	punishment.n.01	suspension.n.06
+תְּלִיָּה	NOUN	corporal_punishment.n.01	suspension.n.06
 הַמְשָׁכָה	NOUN	continuance.n.01
 הַאֲרָכָה	NOUN	continuance.n.01
 הַעְתָּקָה	NOUN	copying.n.01	transportation.n.02
 שִׁכְפּוּל	NOUN	copying.n.01
 הַתְמָדָה	NOUN	continuance.n.01
-!הֲלִיךְ	NOUN	proceeding.n.01
+!הֲלִיךְ	NOUN	procedure.n.04
 הַטְבָּלָה	NOUN	baptism.n.01
 טְבִילָה	NOUN	baptism.n.01
 קִדּוּשׁ	NOUN	religious_ceremony.n.01
@@ -528,7 +528,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 בִּקּוּר	NOUN	visit.n.01
 פְּקִידָה	NOUN	visit.n.01
 אַסְפָּקָה	NOUN	food.n.01	provision.n.02
-הֲזָנָה	NOUN	feeding.n.02
+הֲזָנָה	NOUN	provision.n.02
 !תְּבִיעָה	NOUN	claim.n.03	collection.n.01	prosecution.n.01
 אֶתְנַחְתָּא	NOUN	respite.n.02
 הֲפוּגָה	NOUN	respite.n.02
@@ -541,7 +541,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 פִּגּוּר	NOUN	slowdown.n.01	stupidity.n.01
 צוֹם	NOUN	fast.n.01
 תַּעֲנִית	NOUN	fast.n.01
-הִתְפַּנְּקוּת	NOUN	gratification.n.02
+הִתְפַּנְּקוּת	NOUN	indulgence.n.03
 מָצוֹר	NOUN	siege.n.01
 !מְנִיעָה	NOUN	prevention.n.01
 מְנִיעָה	NOUN	prevention.n.01
@@ -549,7 +549,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !כְּתִישָׁה	NOUN	suppression.n.03
 !חֲלֻקָּה	NOUN	distribution.n.02	distribution.n.03
 קִצּוּב	NOUN	allotment.n.02
-!מִנּוּי	NOUN	subscription.n.02	subscription.n.03
+!מִנּוּי	NOUN	agreement.n.06	subscription.n.03
 !מִסְחָר	NOUN	commerce.n.01	department_of_commerce.n.01
 !הַלְוָאָה	NOUN	disposal.n.03
 !הַשְׁאָלָה	NOUN	disposal.n.03	metaphor.n.01
@@ -576,7 +576,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 רוֹכְלוּת	NOUN	selling.n.01
 תַּשְׁלוּם	NOUN	payment.n.01	payment.n.02
 !כֹּפֶר	NOUN	payment.n.02
-הוֹצָאָה	NOUN	outgo.n.01	publisher.n.01	spending.n.01
+הוֹצָאָה	NOUN	outgo.n.01	payment.n.02	publisher.n.01
 אֲכִיפָה	NOUN	enforcement.n.01
 מְחֻיָּבוּת	NOUN	duty.n.01
 אִימְפֶּרָטִיב	NOUN	duty.n.01	mood.n.03
@@ -587,19 +587,19 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !פִּקּוּחַ	NOUN	supervision.n.01
 הֶתֵּר	NOUN	license.n.04
 רְשׁוּת	NOUN	license.n.04	permission.n.01
-הַאֲצָלַת-סַמְכֻיּוֹת	NOUN	authorization.n.04
+הַאֲצָלַת-סַמְכֻיּוֹת	NOUN	delegating.n.01
 !הֵעָרְכוּת	NOUN	deployment.n.01
-חִמּוּם	NOUN	warm-up.n.01
+חִמּוּם	NOUN	preparation.n.01
 הַדְרָכָה	NOUN	management.n.01
 הַנְחָיָה	NOUN	management.n.01
 הֲפִיכָה	NOUN	coup_d'etat.n.01
 הֲפֵכָה	NOUN	coup_d'etat.n.01
 פּוּטְשׁ	NOUN	coup_d'etat.n.01
-הִתְרוֹשְׁשׁוּת	NOUN	pauperization.n.02
+הִתְרוֹשְׁשׁוּת	NOUN	social_control.n.01
 הֲפָסָה	NOUN	social_control.n.01
 פִּיּוּס	NOUN	social_control.n.01
 !פִּיּוּס	NOUN	social_control.n.01
-!הַלְאָמָה	NOUN	social_control.n.01
+!הַלְאָמָה	NOUN	nationalization.n.03
 אַפְלָיָה	NOUN	discrimination.n.01
 גִּזְעָנוּת	NOUN	racism.n.01	racism.n.02
 גִּיּוּס	NOUN	mobilization.n.01	mobilization.n.02	recruitment.n.01
@@ -607,8 +607,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 יִצּוּב	NOUN	social_control.n.01
 הַעֲנָשָׁה	NOUN	punishment.n.01
 עֲנִישָׁה	NOUN	punishment.n.01
-!הַלְקָאָה	NOUN	punishment.n.01
-הַצְּלִיבָה	NOUN	punishment.n.01
+!הַלְקָאָה	NOUN	corporal_punishment.n.01
+הַצְּלִיבָה	NOUN	corporal_punishment.n.01
 !צַיְתָנוּת	NOUN	submission.n.02
 תַּחֲרוּת	NOUN	competition.n.03	contest.n.01
 !תַּחֲרוּת	NOUN	contest.n.02
@@ -621,21 +621,21 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עֲרָר	NOUN	appeal.n.03
 !הוֹדָעָה	NOUN	message.n.02	presentment.n.01
 !גְּזַר_דִין	NOUN	verdict.n.01
-!טַעֲנָה	NOUN	argumentation.n.02	due_process.n.01	plea.n.02
+!טַעֲנָה	NOUN	answer.n.04	argumentation.n.02	plea.n.03
 גֵּרוּשִׁין	NOUN	divorce.n.01
 כְּרִיתוּת	NOUN	divorce.n.01
 !רִשְׁמִיּוּת	NOUN	conformity.n.02
-!פְּשָׁרָה	NOUN	compromise.n.01	compromise.n.02
+!פְּשָׁרָה	NOUN	compromise.n.02	cooperation.n.01
 עֵזֶר	NOUN	aid.n.02
 עֶזְרָה	NOUN	aid.n.02
 עִדּוּד	NOUN	boost.n.01
-!נֶחָמָה	NOUN	comfort.n.02	relief.n.05
+!נֶחָמָה	NOUN	comfort.n.02	consolation.n.02
 גַּב	NOUN	back.n.01	backing.n.01
 גִּבּוּי	NOUN	backing.n.01
 !זֵרוּז	NOUN	advocacy.n.01
 אִשּׁוּר	NOUN	blessing.n.01	certificate.n.01	documentation.n.01	ratification.n.01
 כִּלְכּוּל	NOUN	sustenance.n.03
-פְּרָס	NOUN	award.n.02	blessing.n.01	prize.n.01	reward.n.02	reward.n.04	wages.n.01
+פְּרָס	NOUN	award.n.02	blessing.n.01	consequence.n.02	prize.n.01	reward.n.02	reward.n.04
 !הִתְגָּרוּת	NOUN	aggravation.n.02
 !הַפְחָדָה	NOUN	aggression.n.05
 !עֲקִיצָה	NOUN	aggravation.n.02
@@ -643,7 +643,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 סְלִיחָה	NOUN	forgiveness.n.02
 !כְּנֶסֶת	NOUN	assembly.n.06
 מִפְגָּשׁ	NOUN	meeting.n.04
-!קְהִלָּה	NOUN	assembly.n.06	collection.n.01
+!קְהִלָּה	NOUN	collection.n.01	congregation.n.03
 !נוֹכְחוּת	NOUN	attendance.n.01
 גִּבּוּשׁ	NOUN	consolidation.n.02
 בִּזּוּר	NOUN	spread.n.10
@@ -653,7 +653,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !הִמְהוּם	NOUN	singing.n.01
 !נִפּוּי	NOUN	winnow.n.01
 הַקְדָּמָה	NOUN	activity.n.01	introduction.n.02
-!הִתְעוֹרְרוּת	NOUN	arousal.n.01
+!הִתְעוֹרְרוּת	NOUN	awakening.n.01
 !זִמְזוּם	NOUN	activity.n.01
 !הִתְיַעֲצוּת	NOUN	reference.n.07
 צָעִיר	NOUN	young.n.01	young_person.n.01
@@ -661,7 +661,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !קֶרֶן	NOUN	process.n.05
 וִירוּס	NOUN	virus.n.01
 נָגִיף	NOUN	virus.n.01
-טַפִּיל	NOUN	leech.n.02	parasite.n.01
+טַפִּיל	NOUN	follower.n.01	parasite.n.01
 !קַרְפִּיּוֹן	NOUN	soft-finned_fish.n.01
 !דָּגִיג	NOUN	soft-finned_fish.n.01
 !הַשְׁקָעָה	NOUN	investment.n.04
@@ -675,14 +675,14 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 נַחֲלִיאֵלִי	NOUN	oscine.n.01
 זַרְזִיר	NOUN	oscine.n.01
 עוֹרֵב-שָׁחֹר	NOUN	oscine.n.01
-!מְטַפֵּס	NOUN	oscine.n.01	vascular_plant.n.01
-נֵץ	NOUN	adult.n.01	hawk.n.01
-!קִרְקָס	NOUN	bird_genus.n.01
-בַּז	NOUN	hawk.n.01
-בַּז-עֵצִים	NOUN	hawk.n.01
-גּוֹזָל	NOUN	young_bird.n.01
+!מְטַפֵּס	NOUN	creeper.n.03	vascular_plant.n.01
+נֵץ	NOUN	adult.n.01	bird_of_prey.n.01
+!קִרְקָס	NOUN	genus.n.02
+בַּז	NOUN	bird_of_prey.n.01
+בַּז-עֵצִים	NOUN	bird_of_prey.n.01
+גּוֹזָל	NOUN	young.n.01
 יַנְשׁוּף	NOUN	owl.n.01
-צַב-יָם	NOUN	anapsid.n.01
+צַב-יָם	NOUN	chelonian.n.01
 צָב	NOUN	anapsid.n.01
 לְטָאָה	NOUN	lizard.n.01
 קְרוֹקוֹדִיל	NOUN	diapsid.n.01
@@ -692,7 +692,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 קוֹבְּרָה	NOUN	snake.n.01
 צֶפַע	NOUN	snake.n.01
 עַקְרָב	NOUN	arachnid.n.01
-גֶּבֶר	NOUN	cock.n.04	man.n.01	man.n.06
+גֶּבֶר	NOUN	cock.n.04	male.n.02	man.n.01
 תַּרְנְגוֹל	NOUN	cock.n.04
 תַּרְנְגֹלֶת	NOUN	chicken.n.02
 !טַוָּס	NOUN	game.n.04	nymphalid.n.01
@@ -719,7 +719,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 זְאֵב	NOUN	wolf.n.01
 תַּן	NOUN	canine.n.02
 צָבוֹעַ	NOUN	canine.n.02
-שׁוּעָל	NOUN	canine.n.02
+שׁוּעָל	NOUN	fox.n.01
 חָתוּל	NOUN	cat.n.01
 חֲתַלְתּוּל	NOUN	kitten.n.01
 אַרְיֵה-הָרִים	NOUN	cougar.n.01
@@ -731,7 +731,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !דֹּב	NOUN	bear.n.01	investor.n.01
 נְמִיָּה	NOUN	carnivore.n.01
 עֲטַלֵּף	NOUN	bat.n.01
-טֶרֶף	NOUN	prey.n.02
+טֶרֶף	NOUN	animal.n.01
 גָּחוֹן	NOUN	body_part.n.01
 חִפּוּשִׁית	NOUN	insect.n.01
 פַּרְעוֹשׁ	NOUN	parasite.n.01
@@ -761,7 +761,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 יַרְבּוּעַ	NOUN	rodent.n.01
 סְנָאִי	NOUN	squirrel.n.01
 סְיָח	NOUN	young_mammal.n.01
-!שָׁלֵם	NOUN	male.n.01
+!שָׁלֵם	NOUN	stallion.n.01
 סוּסָה	NOUN	horse.n.01
 !מַטְעֵן	NOUN	saddle_horse.n.01
 פֶּרֶד	NOUN	equine.n.01
@@ -820,7 +820,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 קַרְדֹּם	NOUN	ax.n.01
 סֶרֶן	NOUN	axle.n.01	captain.n.01
 צִיר	NOUN	axle.n.01	junction.n.04
-עֲגָלָה	NOUN	baby_buggy.n.01	cart.n.01	handcart.n.01
+עֲגָלָה	NOUN	baby_buggy.n.01	handcart.n.01	wagon.n.01
 עֶגְלַת-יְלָדִים	NOUN	baby_buggy.n.01
 עֶגְלַת-תִּינוֹקוֹת	NOUN	baby_buggy.n.01
 יָד	NOUN	back.n.08
@@ -863,7 +863,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 פְּצָצָה	NOUN	bomb.n.01
 קָלוֹרִימֶטֶר-פְּצָצָה	NOUN	measuring_instrument.n.01
 סִימָנִיָּה	NOUN	bookmark.n.01
-כְּפָפַת-אִגְרוּף	NOUN	boxing_glove.n.01
+כְּפָפַת-אִגְרוּף	NOUN	boxing_equipment.n.01
 חֲזִיָּה	NOUN	brassiere.n.01
 לְבֵנָה	NOUN	brick.n.01
 מַטְאֲטֵא	NOUN	implement.n.01
@@ -884,7 +884,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מַחְשֵׁב	NOUN	computer.n.01	machine.n.01
 מַחְשְׁבוֹן	NOUN	machine.n.01
 !הַסְוָאָה	NOUN	screen.n.04
-פַּחִית	NOUN	container.n.01
+פַּחִית	NOUN	can.n.01
 נֵר	NOUN	candle.n.02	lamp.n.01	medicine.n.02
 פָּמוֹט	NOUN	holder.n.01
 אוֹטוֹ	NOUN	car.n.01
@@ -905,7 +905,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תֵּבָה	NOUN	chest.n.02
 שִׁדָּה	NOUN	chest_of_drawers.n.01
 לוּל	NOUN	farm_building.n.01
-אֲרֻבָּה	NOUN	conduit.n.01
+אֲרֻבָּה	NOUN	chimney.n.01
 אִזְמֵל	NOUN	edge_tool.n.01	medical_instrument.n.01
 מַפְסֶלֶת	NOUN	edge_tool.n.01
 מַשְׁנֵק	NOUN	valve.n.03
@@ -913,7 +913,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 כְּנֵסִיָּה	NOUN	church.n.02
 אֶזְרָחִי	NOUN	civies.n.01
 כִּתָּה	NOUN	class.n.02	classroom.n.01
-מִרְפְּאַת-חוּץ	NOUN	clinic.n.03
+מִרְפְּאַת-חוּץ	NOUN	medical_building.n.01
 גַּרְדֶּרוֹבָּה	NOUN	room.n.01
 מֶלְתָּחָה	NOUN	room.n.01
 שָׁעוֹן	NOUN	clock.n.01
@@ -925,10 +925,10 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אֲרוֹן-מֵתִים	NOUN	coffin.n.01
 מַחְלֵף	NOUN	switch.n.01
 מָדוֹר	NOUN	compartment.n.02
-!תִּרְכֹּבֶת	NOUN	compound.n.03	whole.n.01
+!תִּרְכֹּבֶת	NOUN	enclosure.n.01	whole.n.01
 מַדְחֵס	NOUN	mechanical_device.n.01
 קוֹמְפְּרֶסוֹר	NOUN	mechanical_device.n.01
-גּוּמִי	NOUN	condom.n.01	rubber.n.01
+גּוּמִי	NOUN	condom.n.01	latex.n.01
 כּוֹבָעוֹן	NOUN	condom.n.01
 קוֹנְדּוֹם	NOUN	condom.n.01
 !מוֹלִיךְ	NOUN	conductor.n.04
@@ -941,18 +941,18 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !פְּרוֹזְדוֹר	NOUN	corridor.n.01
 חֲגוֹרַת-בֶּטֶן	NOUN	undergarment.n.01
 מָחוֹךְ	NOUN	undergarment.n.01
-!מִגְרָשׁ	NOUN	playing_field.n.02	set.n.01
+!מִגְרָשׁ	NOUN	court.n.04	playing_field.n.02	set.n.01
 אוּלָם-בֵּית-הַמִּשְׁפָּט	NOUN	court.n.02
 רֶפֶת	NOUN	barn.n.01
 מָנוֹף	NOUN	lifting_device.n.01
 עֲגוּרָן	NOUN	lifting_device.n.01
 אַרְגָּז	NOUN	box.n.01
-!לוּלָאָה	NOUN	cringle.n.01
+!לוּלָאָה	NOUN	fastener.n.02
 סַיֶּרֶת	NOUN	warship.n.01
 מַגְרֵסָה	NOUN	device.n.01
 אַלָּה	NOUN	club.n.03
 וִילוֹן	NOUN	curtain.n.01
-!חֵץ	NOUN	fold.n.01
+!חֵץ	NOUN	angular_shape.n.01
 חֵץ	NOUN	projectile.n.01
 !סִפּוּן	NOUN	porch.n.01
 אוֹרְנָמֶנְט	NOUN	decoration.n.01
@@ -993,11 +993,11 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 חֲדַר-מְנוֹעִים	NOUN	engineering.n.03
 פֶּתַח	NOUN	entrance.n.01
 !הִתְחַפְּרוּת	NOUN	fortification.n.01
-!נִצָּב	NOUN	artifact.n.01
+!נִצָּב	NOUN	extra.n.03
 אָרִיג	NOUN	fabric.n.01
 בַּד	NOUN	fabric.n.01
 !זִיּוּף	NOUN	copy.n.02
-!תַּחְפֹּשֶׂת	NOUN	costume.n.01
+!תַּחְפֹּשֶׂת	NOUN	disguise.n.02
 חַוָּה	NOUN	eve.n.01	farm.n.01
 מֶשֶׁק	NOUN	farm.n.01
 !רוֹכְסָן	NOUN	fastener.n.02
@@ -1021,7 +1021,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 פִילְטֶר	NOUN	filter.n.01
 !מַסְנֵן	NOUN	filter.n.02
 חֲזִיז	NOUN	firework.n.01
-אָח	NOUN	buddy.n.01	fireplace.n.01	kinsman.n.01	monk.n.01	national.n.01	nurse.n.01
+אָח	NOUN	brother.n.01	buddy.n.01	fireplace.n.01	monk.n.01	national.n.01	nurse.n.01
 הִלּוּךְ-רִאשׁוֹן	NOUN	first_gear.n.01
 רִאשׁוֹן	NOUN	first_gear.n.01
 פָּנָס	NOUN	flashlight.n.01
@@ -1032,8 +1032,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !מִפְגָּשׁ	NOUN	forum.n.02
 !שֶׁבֶר	NOUN	part.n.02
 !מִסְגֶּרֶת	NOUN	framework.n.03	model.n.01
-קֶרֶן-יַעַר	NOUN	french_horn.n.01
-קֶרֶן-צָרְפָתִית	NOUN	french_horn.n.01
+קֶרֶן-יַעַר	NOUN	brass.n.02
+קֶרֶן-צָרְפָתִית	NOUN	brass.n.02
 פַּרְוָה	NOUN	fur.n.01	garment.n.01
 רִהוּט	NOUN	furnishing.n.02
 רָהִיט	NOUN	furniture.n.01
@@ -1045,10 +1045,10 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 גָּרָז'	NOUN	garage.n.02
 גַּן	NOUN	garden.n.01
 גִּנָּה	NOUN	garden.n.01
-!גַּן	NOUN	garden.n.02	garden.n.03	kindergarten.n.01	nursery_school.n.01
-!גִּנָּה	NOUN	garden.n.02	garden.n.03
+!גַּן	NOUN	garden.n.02	kindergarten.n.01	nursery_school.n.01	yard.n.02
+!גִּנָּה	NOUN	garden.n.02	yard.n.02
 בֶּגֶד	NOUN	garment.n.01
-שַׁעַר-לוֹגִי	NOUN	gate.n.02
+שַׁעַר-לוֹגִי	NOUN	computer_circuit.n.01
 !מַהֲלָךְ	NOUN	course.n.02	gear.n.03
 קוֹרָה	NOUN	beam.n.02
 !דָּאוֹן	NOUN	heavier-than-air_craft.n.01
@@ -1096,7 +1096,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 בִּקְתָּה	NOUN	hovel.n.01
 צְרִיף	NOUN	hovel.n.01
 רַחֶפֶת	NOUN	craft.n.02
-!צַיָּד	NOUN	hunter.n.04
+!צַיָּד	NOUN	watch.n.01
 !צְרִיף	NOUN	shelter.n.01
 קְלַסְתֵּרוֹן	NOUN	identikit.n.01
 !כְּלִי	NOUN	implement.n.01	utensil.n.01
@@ -1121,13 +1121,13 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !כַּד	NOUN	bottle.n.01	containerful.n.01
 מַזְכֶּרֶת	NOUN	keepsake.n.01	reminder.n.02
 סוּבֶנִיר	NOUN	keepsake.n.01
-מְלוּנָה	NOUN	shelter.n.02
+מְלוּנָה	NOUN	outbuilding.n.01
 אֶבֶן-הָרֹאשָׁה	NOUN	building_material.n.01
 חָקִי	NOUN	fabric.n.01
 עֶרְכָּה	NOUN	kit.n.02
 קִיט	NOUN	kit.n.02
 מִטְבָּח	NOUN	cuisine.n.01	kitchen.n.01
-בֶּרֶךְ	NOUN	knee.n.01	knee.n.03
+בֶּרֶךְ	NOUN	cloth_covering.n.01	knee.n.01
 סָרִיג	NOUN	knit.n.03
 גֻּלָּה	NOUN	ball.n.01	handle.n.01	projection.n.04
 מַעְבָּדָה	NOUN	lab.n.01
@@ -1137,7 +1137,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !פִּסֵּחַ	NOUN	fabric.n.01
 אָהִיל	NOUN	protective_covering.n.01
 !נָתִיב	NOUN	lane.n.01	lane.n.02
-!דַּשׁ	NOUN	lap.n.04
+!דַּשׁ	NOUN	flap.n.01
 מַחְרֵטָה	NOUN	machine.n.01
 מִכְבָּסָה	NOUN	laundry.n.02
 כְּבִיסָה	NOUN	laundry.n.01
@@ -1152,7 +1152,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אֹדֶם	NOUN	makeup.n.01
 לִיפְּסְטִיק	NOUN	makeup.n.01
 שְׂפָתוֹן	NOUN	makeup.n.01
-עֲלִיַּת-גַּג	NOUN	loft.n.02
+עֲלִיַּת-גַּג	NOUN	floor.n.02
 נוּל	NOUN	machine.n.01
 !מַשָּׂאִית	NOUN	truck.n.01
 רְפָפָה	NOUN	strip.n.05
@@ -1185,27 +1185,27 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מַרְאָה	NOUN	mirror.n.01
 רְאִי	NOUN	mirror.n.01	mirror.n.02
 !טִיל	NOUN	missile.n.01	projectile.n.01
-מַרְגֵּמָה	NOUN	mortar.n.01
+מַרְגֵּמָה	NOUN	high-angle_gun.n.01
 מַכְתֵּשׁ	NOUN	crater.n.03	vessel.n.03
 מִסְגָּד	NOUN	mosque.n.01
 !מָנוֹעַ	NOUN	motor.n.01
 אוֹפַנּוֹעַ	NOUN	motorcycle.n.01
 תֵּל	NOUN	hill.n.01	mound.n.04	pile.n.01
-!גִּבְעָה	NOUN	mound.n.01
+!גִּבְעָה	NOUN	baseball_equipment.n.01
 מוּזֵאוֹן	NOUN	museum.n.01
 מַסְמֵר	NOUN	nail.n.02
 מַפִּית	NOUN	linen.n.03
 מַחְרֹזֶת	NOUN	necklace.n.01
 !מַחְשׂוֹף	NOUN	neck.n.05
 עֲנִיבָה	NOUN	garment.n.01
-רֶשֶׁת	NOUN	communication_system.n.02	network.n.01
-רֶשֶׁת-שִׁדּוּר	NOUN	communication_system.n.02
+רֶשֶׁת	NOUN	network.n.01	network.n.02
+רֶשֶׁת-שִׁדּוּר	NOUN	network.n.02
 !רֶשֶׁת	NOUN	network.n.05
 עִתּוֹן	NOUN	newspaper.n.01	newspaper.n.02	newspaper.n.03
 לָקוֹחַ	NOUN	customer.n.01	node.n.08
 !מִשְׁתָּלָה	NOUN	bedroom.n.01
 מָשׁוֹט	NOUN	implement.n.01
-עַצְמִית	NOUN	objective.n.02
+עַצְמִית	NOUN	lens.n.01
 אַבּוּב	NOUN	beating-reed_instrument.n.01
 !מְכָלִית	NOUN	ship.n.01	soldier.n.01
 !תִּזְמֹרֶת	NOUN	seating.n.01
@@ -1216,7 +1216,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 צֶבַע	NOUN	paint.n.01
 מִכְחוֹל	NOUN	paintbrush.n.01
 צִיּוּר	NOUN	painting.n.01
-מַצְנֵחַ	NOUN	parachute.n.01
+מַצְנֵחַ	NOUN	rescue_equipment.n.01
 שִׁמְשִׁיָּה	NOUN	protective_covering.n.01
 מְחִצָּה	NOUN	computer_memory_unit.n.01	partition.n.01
 בִּיתָן	NOUN	tent.n.01
@@ -1234,7 +1234,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !גְּלוּלָה	NOUN	thing.n.04
 גְּלוּלָה-לִמְנִיעַת-הֵרָיוֹן	NOUN	pill.n.05
 סַד	NOUN	instrument_of_punishment.n.01
-כַּר	NOUN	grassland.n.01	pillow.n.01
+כַּר	NOUN	hayfield.n.01	pillow.n.01
 אֶקְדָּח	NOUN	pistol.n.01
 בֻּכְנָה	NOUN	piston.n.02
 מַחְצָבָה	NOUN	excavation.n.03
@@ -1245,7 +1245,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 פְּקָק	NOUN	bark.n.01	plug.n.01
 צַנֶּרֶת	NOUN	utility.n.06
 אוֹלָר	NOUN	knife.n.01
-פּוֹרְטְפוֹלְיוֹ	NOUN	portfolio.n.01
+פּוֹרְטְפוֹלְיוֹ	NOUN	case.n.05
 חֶרֶס	NOUN	potsherd.n.01
 מַשְׁאֵבָה	NOUN	pump.n.01
 נַעַל-סִירָה	NOUN	pump.n.03
@@ -1275,12 +1275,12 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 גַּל	NOUN	pile.n.01	rod.n.01	wave.n.01
 סֹמֶק	NOUN	makeup.n.01
 רוּז'	NOUN	makeup.n.01
-מַחַק	NOUN	rubber_eraser.n.01
+מַחַק	NOUN	eraser.n.01
 מַרְבָד	NOUN	rug.n.01
 שָׁטִיחַ	NOUN	rug.n.01
-סַרְגֵּל	NOUN	measuring_instrument.n.01
+סַרְגֵּל	NOUN	rule.n.12
 מַסְלוּל	NOUN	horizontal_surface.n.01	path.n.03	path.n.04
-!כַּסֶּפֶת	NOUN	box.n.01	safe.n.02
+!כַּסֶּפֶת	NOUN	safe.n.02	strongbox.n.01
 סַנְדָּל	NOUN	sandal.n.01
 יַלְקוּט	NOUN	baggage.n.01
 לַוְיָן	NOUN	satellite.n.01	satellite.n.03
@@ -1302,7 +1302,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 יְרִיעַת-פַּח	NOUN	sheet.n.06
 פַּח	NOUN	sheet.n.06
 מַדָּף	NOUN	shelf.n.01
-מָגֵן	NOUN	shield.n.02
+מָגֵן	NOUN	armor.n.01
 !מָגֵן	NOUN	shield.n.01
 אֳנִיָּה	NOUN	ship.n.01
 !מִסְפָּנָה	NOUN	city_district.n.01	workplace.n.01
@@ -1338,7 +1338,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 חֲנִית	NOUN	spear.n.01
 !חֲנִית	NOUN	spear.n.02
 חִשּׁוּר	NOUN	spoke.n.01
-כַּף	NOUN	containerful.n.01	spoon.n.01
+כַּף	NOUN	spoon.n.01	spoon.n.02
 !כַּף	NOUN	wood.n.08
 מַמְטֵרָה	NOUN	mechanical_device.n.01
 מַחְבֵּט-סְקְווֹשׁ	NOUN	racket.n.04
@@ -1371,17 +1371,17 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !מֶרְכָּזִיָּה	NOUN	central.n.01
 חֶרֶב	NOUN	sword.n.01
 מַזְרֵק	NOUN	medical_instrument.n.01
-טַמְבּוּרִין	NOUN	drum.n.01
-תֹּף-מִרְיָם	NOUN	drum.n.01
+טַמְבּוּרִין	NOUN	percussion_instrument.n.01
+תֹּף-מִרְיָם	NOUN	percussion_instrument.n.01
 מֶטֶר	NOUN	measuring_instrument.n.01	meter.n.01
 סֶרֶט-מִדָּה	NOUN	measuring_instrument.n.01
 טֵיְפּ	NOUN	equipment.n.01
 רְשַׁמְקוֹל	NOUN	equipment.n.01
 גְּדִיל	NOUN	tassel.n.01
-כַּפִּית	NOUN	teaspoon.n.01	teaspoon.n.02
+כַּפִּית	NOUN	spoon.n.01	teaspoon.n.01
 טֶלֶפוֹן	NOUN	call.n.01	telephone.n.01
-טֶלֶבִיזְיָה	NOUN	communication_system.n.01	television_receiver.n.01
-טֶלֶוִיזְיָה	NOUN	communication_system.n.01	television_receiver.n.01
+טֶלֶבִיזְיָה	NOUN	telecommunication_system.n.01	television_receiver.n.01
+טֶלֶוִיזְיָה	NOUN	telecommunication_system.n.01	television_receiver.n.01
 הַמָּסָךְ-הַקָּטָן	NOUN	television_receiver.n.01
 אֹהֶל	NOUN	tent.n.01
 מָסוֹף	NOUN	terminal.n.04
@@ -1407,7 +1407,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מַגָּשׁ	NOUN	tray.n.01
 מְשֻׁלָּשׁ	NOUN	drafting_instrument.n.01	percussion_instrument.n.01	triangle.n.01
 מִנְהָרָה	NOUN	tunnel.n.01
-מִטְרִיָּה	NOUN	canopy.n.03
+מִטְרִיָּה	NOUN	umbrella.n.01
 הַלְבָּשָׁה-תַּחְתּוֹנָה	NOUN	underwear.n.01
 לְבָנִים	NOUN	underwear.n.01
 מַדִּים	NOUN	uniform.n.01
@@ -1416,7 +1416,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תַּרְכִּיב	NOUN	vaccine.n.01
 אֲגַרְטָל	NOUN	vase.n.01
 רֶכֶב	NOUN	vehicle.n.01
-קְטִיפָה	NOUN	velvet.n.01
+קְטִיפָה	NOUN	fabric.n.01
 וֶנְטִילָטוֹר	NOUN	device.n.01
 מְאַוְרֵר	NOUN	device.n.01
 כֶּרֶם	NOUN	vineyard.n.01
@@ -1430,26 +1430,26 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 נֶשֶׁק	NOUN	weapon.n.01
 שׁוֹט	NOUN	instrument.n.01
 מָגֵן-רוּחַ	NOUN	screen.n.05
-חוּט-חַשְׁמַל	NOUN	wire.n.02
+חוּט-חַשְׁמַל	NOUN	conductor.n.04
 עֵרֶב	NOUN	woof.n.01
 מְקוֹם-עֲבוֹדָה	NOUN	workplace.n.01
 תַּחֲנַת-עֲבוֹדָה	NOUN	digital_computer.n.01
-זֵר	NOUN	flower_arrangement.n.01
+זֵר	NOUN	decoration.n.01
 שָׂרִיד	NOUN	part.n.02
 מִתְקָן-סְחִיטָה	NOUN	dryer.n.01
 !פְּרִי	NOUN	yield.n.03
 אִישִׁיּוּת	NOUN	personality.n.01	personality.n.02
-!הַפְנָמָה	NOUN	disposition.n.01
+!הַפְנָמָה	NOUN	unsociability.n.01
 הִתְבּוֹדְדוּת	NOUN	aloneness.n.01
 טֶמְפֶּרָמֶנְט	NOUN	disposition.n.01	emotionality.n.01
 מֶזֶג	NOUN	disposition.n.01
 !הִתְלַהֲבוּת	NOUN	enthusiasm.n.03	feeling.n.01	liveliness.n.02
-אָפַּתְיָה	NOUN	inactiveness.n.02
+אָפַּתְיָה	NOUN	trait.n.01
 מַתִּירָנוּת	NOUN	permissiveness.n.01
 אֹרֶך-רוּחַ	NOUN	patience.n.01
 סַבְלָנוּת	NOUN	patience.n.01
-אַגְרֶסִיבִיּוּת	NOUN	aggressiveness.n.03
-תּוֹקְפָנוּת	NOUN	aggressiveness.n.03
+אַגְרֶסִיבִיּוּת	NOUN	disposition.n.01
+תּוֹקְפָנוּת	NOUN	disposition.n.01
 !הִסּוּס	NOUN	disposition.n.01
 חֻמְרָה	NOUN	graveness.n.01
 שַׁתְקָנוּת	NOUN	reserve.n.07
@@ -1471,7 +1471,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 זֹהַר	NOUN	beauty.n.01	radiance.n.02
 קֶסֶם	NOUN	appeal.n.02
 כִּעוּר	NOUN	appearance.n.01
-!הַגְדָּרָה	NOUN	definition.n.02	explanation.n.01
+!הַגְדָּרָה	NOUN	definition.n.01	definition.n.02
 !עִרְפּוּל	NOUN	haziness.n.02
 תְּכוּנָה	NOUN	property.n.04	quality.n.01
 קְבִיעוּת	NOUN	constancy.n.01	permanence.n.01
@@ -1492,7 +1492,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !נַיָּדוּת	NOUN	mobility.n.01
 יַצִּיבוּת	NOUN	stability.n.01
 מְלָאכוּתִיּוּת	NOUN	quality.n.01
-יָמְרָה	NOUN	quality.n.01
+יָמְרָה	NOUN	pretentiousness.n.02
 !דִּיּוּק	NOUN	preciseness.n.02
 נִבְזוּת	NOUN	bad.n.01
 נִבְזִיּוּת	NOUN	bad.n.01
@@ -1506,11 +1506,11 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 חֶמְלָה	NOUN	compassion.n.02
 !קַמְצָנוּת	NOUN	miserliness.n.01
 יָזְמָה	NOUN	enterprise.n.03
-אַמְבִּיצְיָה	NOUN	ambition.n.02
-הֶשֵּׂגִיּוּת	NOUN	ambition.n.02
-שְׁאַפְתָּנוּת	NOUN	ambition.n.02
-!הַשְׁעָרָה	NOUN	boldness.n.02
-חֶסֶד	NOUN	good.n.02
+אַמְבִּיצְיָה	NOUN	drive.n.05
+הֶשֵּׂגִיּוּת	NOUN	drive.n.05
+שְׁאַפְתָּנוּת	NOUN	drive.n.05
+!הַשְׁעָרָה	NOUN	presumption.n.03
+חֶסֶד	NOUN	grace.n.07
 הִתְחַשְּׁבוּת	NOUN	consideration.n.04
 !מַצְפּוּן	NOUN	conscience.n.01	morality.n.01	shame.n.01
 טוּב	NOUN	good.n.02
@@ -1527,16 +1527,16 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 יֹשֶׁר	NOUN	honesty.n.01
 יֹשֶׁר-לֵב	NOUN	honesty.n.01
 !נֶאֱמָנוּת	NOUN	fidelity.n.02	trust_territory.n.01
-לְאֻמִּיּוּת	NOUN	patriotism.n.01
-פַּטְרִיוֹטִיּוּת	NOUN	patriotism.n.01
-פַּטְרִיוֹטִיזְם	NOUN	patriotism.n.01
+לְאֻמִּיּוּת	NOUN	loyalty.n.01
+פַּטְרִיוֹטִיּוּת	NOUN	loyalty.n.01
+פַּטְרִיוֹטִיזְם	NOUN	loyalty.n.01
 נָאִיבִיּוּת	NOUN	quality.n.01
 תְּמִימוּת	NOUN	quality.n.01
 סַגְפָנוּת	NOUN	self-discipline.n.01
 פְּרִישׁוּת	NOUN	self-discipline.n.01
 צֶנַע	NOUN	self-discipline.n.01
-כָּבוֹד	NOUN	pride.n.01
-כָּבוֹד-עַצְמִי	NOUN	pride.n.01
+כָּבוֹד	NOUN	dignity.n.01
+כָּבוֹד-עַצְמִי	NOUN	dignity.n.01
 רַבְרְבָנוּת	NOUN	trait.n.01
 יְהִירוּת	NOUN	mortal_sin.n.01
 יָהֳרָה	NOUN	mortal_sin.n.01
@@ -1545,12 +1545,12 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עַנְוְתָנוּת	NOUN	trait.n.01
 חַשְׁדָנוּת	NOUN	trait.n.01
 בַּרְרָנוּת	NOUN	trait.n.01
-!עֲנָוָה	NOUN	modesty.n.02
-!צְנִיעוּת	NOUN	modesty.n.02
+!עֲנָוָה	NOUN	demeanor.n.01
+!צְנִיעוּת	NOUN	demeanor.n.01
 זִמָּה	NOUN	demeanor.n.01
 צַיְתָנוּת	NOUN	tractability.n.01
 קַשְׁיוּת-עֹרֶף	NOUN	trait.n.01
-רִשְׁמִיּוּת	NOUN	manner.n.02
+רִשְׁמִיּוּת	NOUN	formality.n.02
 טִקְסִיּוּת	NOUN	ceremoniousness.n.01
 אַבִּירוּת	NOUN	courtesy.n.03	nobility.n.01	principle.n.02
 דֶּרֶךְ-אֶרֶץ	NOUN	education.n.05
@@ -1562,7 +1562,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !שִׁיטָה	NOUN	manner.n.01
 שֶׁלֶד	NOUN	framework.n.02
 הֶרְכֵּב	NOUN	constitution.n.04	ensemble.n.01
-צְמִיגוּת	NOUN	consistency.n.01
+צְמִיגוּת	NOUN	viscosity.n.01
 !דְּחִיסוּת	NOUN	consistency.n.01
 פְּרִיכוּת	NOUN	consistency.n.01
 !חֲדִירוּת	NOUN	penetrability.n.01
@@ -1570,14 +1570,14 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 צָמָא	NOUN	drive.n.09	hunger.n.02
 צִמָּאוֹן	NOUN	drive.n.09	hunger.n.02
 רָעָב	NOUN	dearth.n.01	hunger.n.01	hunger.n.02
-רְכוּשָׁנוּת	NOUN	acquisitiveness.n.01
+רְכוּשָׁנוּת	NOUN	desire.n.02
 בָּרָק	NOUN	lightning.n.01	shininess.n.01
 גָּוֶן	NOUN	nuance.n.01	shade.n.02
 לֹבֶן	NOUN	white.n.02
 !גִּיר	NOUN	white.n.02
 אָדֹם	NOUN	red.n.01
 !שָׁנִי	NOUN	red.n.01
-צְרִידוּת	NOUN	gruffness.n.01
+צְרִידוּת	NOUN	quality.n.01
 פְּיָאנוֹ	NOUN	piano.n.02
 פְּיָאנִיסִימוֹ	NOUN	piano.n.02
 !תַּבְלִין	NOUN	flavorer.n.01	spice.n.01	spice.n.02	taste_property.n.01
@@ -1599,8 +1599,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עִתּוּי	NOUN	timing.n.01
 !מֶשֶׁךְ	NOUN	duration.n.03
 קֶבַע	NOUN	permanence.n.01	standing_army.n.01
-!תְּמוּתָה	NOUN	duration.n.03
-מְהִירוּת	NOUN	pace.n.03
+!תְּמוּתָה	NOUN	mortality.n.01
+מְהִירוּת	NOUN	speed.n.02
 קֶצֶב	NOUN	musical_time.n.01	pace.n.03	tempo.n.02
 הֶאָטָה	NOUN	change.n.01
 שִׁפּוּעַ	NOUN	gradient.n.02
@@ -1610,7 +1610,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תְּנוּחָה	NOUN	position.n.04
 עֶמְדָּה	NOUN	stance.n.01
 סִכּוּי	NOUN	probability.n.01
-הֶקֵּף	NOUN	extent.n.01	line.n.04	size.n.01
+הֶקֵּף	NOUN	circumference.n.01	extent.n.01	line.n.04
 קֹטֶן	NOUN	size.n.01
 קַטְנוּת	NOUN	size.n.01
 נְפִילָה	NOUN	decline.n.01	drop.n.03	drop.n.06
@@ -1634,23 +1634,23 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !מְחִיר	NOUN	monetary_value.n.01
 פְּאֵר	NOUN	lavishness.n.01
 !כְּשִׁירוּת	NOUN	fitness.n.04
-אִי-כְּשִׁירוּת	NOUN	quality.n.01
+אִי-כְּשִׁירוּת	NOUN	inability.n.02
 סִיּוּעַ	NOUN	aid.n.01
 יִתְרוֹן	NOUN	advantage.n.01	profit.n.02
 טוֹבַת-הֲנָאָה	NOUN	profit.n.02
 רֶוַח	NOUN	profit.n.02	space.n.02
-!רִוְחִיּוּת	NOUN	profit.n.02
+!רִוְחִיּוּת	NOUN	profitableness.n.02
 קְדִימָה	NOUN	advantage.n.01
 קְדִימוּת	NOUN	advantage.n.01
 !טוּב	NOUN	good.n.01
 מִגְבָּלָה	NOUN	limitation.n.02
 מְחִיר	NOUN	detriment.n.01	price.n.02	price.n.03
-!הַרְסָנוּת	NOUN	destructiveness.n.01
-רַעַל	NOUN	poison.n.01	poison.n.02
+!הַרְסָנוּת	NOUN	quality.n.01
+רַעַל	NOUN	poison.n.01	quality.n.01
 חֲשִׁיבוּת	NOUN	importance.n.01
 !דְּחִיפוּת	NOUN	importance.n.01	urgency.n.01
-זְכוּת-יֶתֶר	NOUN	right.n.01
-פְּרִיבִילֶגְיָה	NOUN	right.n.01
+זְכוּת-יֶתֶר	NOUN	prerogative.n.01
+פְּרִיבִילֶגְיָה	NOUN	prerogative.n.01
 שְׁלִיטָה	NOUN	grip.n.06
 יְכֹלֶת	NOUN	ability.n.01
 גּוּף	NOUN	body.n.01	person.n.03
@@ -1660,7 +1660,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מוּמְיָה	NOUN	mummy.n.02
 !פֶּה	NOUN	orifice.n.01
 תַּלְתַּל	NOUN	lock.n.02
-פֶּרְמָנֶנְט	NOUN	wave.n.06
+פֶּרְמָנֶנְט	NOUN	hairdo.n.01
 שָׂפָם	NOUN	facial_hair.n.01
 בָּשָׂר	NOUN	flesh.n.01	meat.n.01	pulp.n.02
 רִקְמַת-שֻׁמָּן	NOUN	adipose_tissue.n.01
@@ -1676,8 +1676,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עִנְבָּל	NOUN	uvula.n.01
 חֵךְ	NOUN	palate.n.01
 גַּבָּה	NOUN	eyebrow.n.01
-עַפְעַף	NOUN	animal_tissue.n.01
-שְׁמוּרַת-עַיִן	NOUN	animal_tissue.n.01
+עַפְעַף	NOUN	eyelid.n.01
+שְׁמוּרַת-עַיִן	NOUN	eyelid.n.01
 קַרְנִית	NOUN	membrane.n.02
 בַּלּוּטָה	NOUN	gland.n.01
 כִּלְיָה	NOUN	kidney.n.01
@@ -1686,10 +1686,10 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 פַּנְקְרֵאָס	NOUN	exocrine_gland.n.01
 רֵאָה	NOUN	lung.n.01
 קֵבָה	NOUN	stomach.n.01
-!מִיץ	NOUN	juice.n.04
+!מִיץ	NOUN	liquid_body_substance.n.01
 חָלָב	NOUN	milk.n.01	milk.n.02	milk.n.04
 זֵעָה	NOUN	secretion.n.02
-מָרָה	NOUN	juice.n.04
+מָרָה	NOUN	liquid_body_substance.n.01
 מֻגְלָה	NOUN	pus.n.02
 רִשְׁתִּית	NOUN	membrane.n.02
 !גֶּן	NOUN	gene.n.01
@@ -1726,8 +1726,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 שֵׁת	NOUN	buttocks.n.01
 תַּחַת	NOUN	buttocks.n.01
 יָרֵךְ	NOUN	helping.n.01	thigh.n.01
-יַד-יָמִין	NOUN	right.n.05
-יָמִין	NOUN	right.n.05
+יַד-יָמִין	NOUN	hand.n.01
+יָמִין	NOUN	hand.n.01
 אֶצְבַּע	NOUN	digit.n.03	finger.n.02
 אֲגוּדָל	NOUN	thumb.n.01
 בֹּהֶן	NOUN	toe.n.01
@@ -1747,8 +1747,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 יְצִירָתִיּוּת	NOUN	creativity.n.01
 מָקוֹם-דִּמְיוֹנִי	NOUN	imaginary_place.n.01
 !דּוּמָה	NOUN	afterworld.n.01
-מַעְלָה	NOUN	heaven.n.02
-שָׁמַיִם	NOUN	heaven.n.02	sky.n.01
+מַעְלָה	NOUN	imaginary_place.n.01
+שָׁמַיִם	NOUN	imaginary_place.n.01	sky.n.01
 !מַדָּע	NOUN	scientific_knowledge.n.01	skill.n.02
 !מְיֻמָּנוּת	NOUN	skill.n.02
 מְיֻמָּנוּת	NOUN	skill.n.01
@@ -1761,8 +1761,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 רָצוֹן	NOUN	volition.n.01
 !רְאִיָּה	NOUN	sight.n.03
 שִׁיטָה	NOUN	method.n.01
-!פִּתְרוֹן	NOUN	solution.n.03
-מוֹסָד	NOUN	custom.n.02	institution.n.01
+!פִּתְרוֹן	NOUN	method.n.01
+מוֹסָד	NOUN	institution.n.01	institution.n.03
 עִנְיָן	NOUN	matter.n.01
 מְבוּכָה	NOUN	confusion.n.02
 אֶנִיגְמָה	NOUN	mystery.n.01
@@ -1776,7 +1776,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 סֵרָחוֹן	NOUN	smell.n.01
 עִפּוּשׁ	NOUN	smell.n.01
 צַחֲנָה	NOUN	smell.n.01
-מְלִיחוּת	NOUN	salt.n.04
+מְלִיחוּת	NOUN	taste.n.01
 חֹם	NOUN	heat.n.03
 סֵדֶר	NOUN	arrangement.n.03	order.n.03	orderliness.n.02
 !מִיּוּן	NOUN	classification.n.03
@@ -1795,9 +1795,9 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 סִיּוּט	NOUN	nightmare.n.01	nightmare.n.02
 חֲלוֹם-רָטוּב	NOUN	wet_dream.n.01
 חֲשִׁיבָה	NOUN	thinking.n.01
-מַחְשָׁבָה	NOUN	belief.n.01	idea.n.01	thinking.n.01
+מַחְשָׁבָה	NOUN	idea.n.01	thinking.n.01	thought.n.03
 נִבּוּי	NOUN	prediction.n.01	prediction.n.02
-!הֶקֵּשׁ	NOUN	reasoning.n.01
+!הֶקֵּשׁ	NOUN	deduction.n.04
 !שְׁקִילָה	NOUN	deliberation.n.02
 !בְּחִירָה	NOUN	choice.n.01
 אַלְטֶרְנָטִיבָה	NOUN	option.n.02
@@ -1828,18 +1828,18 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מֻשָּׂג	NOUN	concept.n.01
 סוּג	NOUN	genus.n.02	kind.n.01
 !תֵּאוּר	NOUN	description.n.02	description.n.03
-תְּחוּם	NOUN	discipline.n.01	sector.n.03
+תְּחוּם	NOUN	department.n.03	discipline.n.01
 !מוֹרֶה	NOUN	abstraction.n.01
 סְכוּם	NOUN	sum.n.02
-הַתְחָלָה	NOUN	beginning.n.02	part.n.09
+הַתְחָלָה	NOUN	beginning.n.02	beginning.n.03
 דְּרִישַׁת-קְדָם	NOUN	prerequisite.n.01
 דְּרִישָׁה	NOUN	requirement.n.01
-!טָעוּת	NOUN	error.n.07	mistake.n.02
+!טָעוּת	NOUN	error.n.07	misconception.n.01
 מְדִינִיּוּת	NOUN	policy.n.01	policy.n.02
 !דִּין	NOUN	consequence.n.01	department_of_justice.n.01	legal_system.n.01
 !מִשְׁטָר	NOUN	regimen.n.01
 מַשְׁמָעוּת	NOUN	meaning.n.02
-מוֹפֵת	NOUN	paragon.n.01
+מוֹפֵת	NOUN	ideal.n.01
 !יֹפִי	NOUN	beauty.n.03
 זֵכֶר	NOUN	memory.n.01	trace.n.02
 דֵּעָה	NOUN	opinion.n.01	opinion.n.02
@@ -1856,7 +1856,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מַטָּרָה	NOUN	goal.n.01
 יַעַד	NOUN	aim.n.02	finish.n.04
 תַּכְלִית	NOUN	aim.n.02
-!יַעַד	NOUN	destination.n.02
+!יַעַד	NOUN	goal.n.01
 כַּוָּנָה	NOUN	meaning.n.01	purpose.n.01
 !רָצוֹן	NOUN	purpose.n.01	will.n.03
 חֲוָיָה	NOUN	experience.n.02
@@ -1879,15 +1879,15 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אוֹרְדִּינָטָה	NOUN	coordinate.n.01
 פּוֹסֵק	NOUN	adjudicator.n.01	coordinate.n.01
 מִתְאָם	NOUN	applied_mathematics.n.01
-קוֹרֶלַצְיָה	NOUN	applied_mathematics.n.01	reciprocality.n.01
-מְקַדֵּם-מִתְאָם	NOUN	correlation_coefficient.n.01
+קוֹרֶלַצְיָה	NOUN	applied_mathematics.n.01	correlation.n.01
+מְקַדֵּם-מִתְאָם	NOUN	statistic.n.01
 דֶּרְמָטוֹלוֹגְיָה	NOUN	medicine.n.01
 רְפוּאַת-עוֹר	NOUN	medicine.n.01
 מְיַלְּדוּת	NOUN	medicine.n.01
-יַעֲרָנוּת	NOUN	forestry.n.01
+יַעֲרָנוּת	NOUN	biology.n.01
 כִּימְיָה	NOUN	chemistry.n.01	social_relation.n.01
 חֹק-שִׁמּוּר	NOUN	conservation.n.03
-תּוֹרַת-הַיַּחֲסוּת	NOUN	explanation.n.02
+תּוֹרַת-הַיַּחֲסוּת	NOUN	theory.n.01
 אֶקוֹנוֹמְיָה	NOUN	economics.n.01
 כַּלְכָּלָה	NOUN	economics.n.01
 בַּלְשָׁנוּת	NOUN	linguistics.n.01
@@ -1922,7 +1922,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !טֶלֶוִיזְיָה	NOUN	television.n.01
 !הַקְטָנָה	NOUN	word.n.01
 מִלָּה-שְׁאוּלָה	NOUN	loanword.n.01
-רִבּוּי	NOUN	plural.n.01
+רִבּוּי	NOUN	form.n.01
 יָחִיד	NOUN	form.n.01
 הֲבָרָה	NOUN	syllable.n.01
 פְּרֶפִיקְס	NOUN	prefix.n.01
@@ -1966,7 +1966,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 סְעִיף	NOUN	article.n.03
 פָּתִיחַ	NOUN	introduction.n.02
 פְּתִיחָה	NOUN	introduction.n.02
-!פְּתִיחָה	NOUN	introduction.n.02	music.n.01
+!פְּתִיחָה	NOUN	foreword.n.01	music.n.01
 !נִסְפָּח	NOUN	appendix.n.01
 פִּסְקָה	NOUN	paragraph.n.01
 הַדְפָּסָה	NOUN	writing.n.04
@@ -2001,7 +2001,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 רוֹטַצְיָה	NOUN	roll.n.02
 !מִזְכָּר	NOUN	memo.n.01
 !תַּזְכִּיר	NOUN	memo.n.01
-מִכְתָּב-הִתְפַּטְּרוּת	NOUN	document.n.01
+מִכְתָּב-הִתְפַּטְּרוּת	NOUN	resignation.n.03
 עֲצוּמָה	NOUN	request.n.01
 !גְּבִיָּה	NOUN	solicitation.n.02
 וָאוּצֶ'ר	NOUN	coupon.n.01
@@ -2016,13 +2016,13 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עֹצֶר	NOUN	decree.n.01
 !אִסּוּר	NOUN	prohibition.n.02
 רִשָּׁיוֹן	NOUN	license.n.01
-חֲנִינָה	NOUN	warrant.n.01
+חֲנִינָה	NOUN	pardon.n.02
 דּוּחַ	NOUN	ticket.n.03
 דו"ח-תְּנוּעָה	NOUN	ticket.n.03
 !חֹק	NOUN	legislative_act.n.01
 עוֹרֵךְ	NOUN	editor_program.n.01
 !מְתַרְגֵּם	NOUN	program.n.07
-מַהֲדוּרָה	NOUN	edition.n.03	group.n.01	impression.n.06
+מַהֲדוּרָה	NOUN	edition.n.01	edition.n.02	edition.n.03
 אֹסֶף	NOUN	anthology.n.01
 לֶקֶט	NOUN	anthology.n.01
 !סִדְרָה	NOUN	series.n.03
@@ -2055,7 +2055,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 ד"ש	NOUN	greeting.n.01
 קַבָּלַת-פָּנִים	NOUN	welcome.n.02
 מֵאוּן	NOUN	acknowledgment.n.03
-סֵרוּב	NOUN	acknowledgment.n.03	refusal.n.01
+סֵרוּב	NOUN	acknowledgment.n.03	denial.n.01
 אִינְפוֹרְמַצְיָה	NOUN	information.n.01
 מֵידָע	NOUN	information.n.01
 מַדָּד	NOUN	index.n.02
@@ -2092,9 +2092,9 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 גְּעָרָה	NOUN	rebuke.n.01
 מָנָה	NOUN	fare.n.04	helping.n.01	number.n.02	quotient.n.01	rebuke.n.01	share.n.01
 נְזִיפָה	NOUN	rebuke.n.01
-!הַטָּפָה	NOUN	rebuke.n.01	sermon.n.01
+!הַטָּפָה	NOUN	lecture.n.02	sermon.n.01
 הַאֲשָׁמָה	NOUN	blame.n.02
-הַרְצָאָה	NOUN	lecture.n.01	rebuke.n.01
+הַרְצָאָה	NOUN	address.n.03	lecture.n.02
 לַעַג	NOUN	disrespect.n.01
 !בּוּז	NOUN	disrespect.n.01
 !חֻצְפָּה	NOUN	disrespect.n.01
@@ -2107,7 +2107,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תַּצְהִיר	NOUN	affidavit.n.01
 סִבָּה	NOUN	cause.n.02
 עִלָּה	NOUN	cause.n.02
-תֵּרוּץ	NOUN	defense.n.04
+תֵּרוּץ	NOUN	excuse.n.01
 פִּתְרוֹן	NOUN	solution.n.02
 תְּשׁוּבָה	NOUN	answer.n.01	solution.n.02	sorrow.n.02
 מַעֲנֶה	NOUN	answer.n.01
@@ -2139,9 +2139,9 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 כְּרָזָה	NOUN	poster.n.01
 פּוֹסְטֶר	NOUN	poster.n.01
 פְּלָקָט	NOUN	poster.n.01
-אוֹת-קָלוֹן	NOUN	mark.n.06
-כֶּתֶם	NOUN	mark.n.06
-רְבָב	NOUN	mark.n.06
+אוֹת-קָלוֹן	NOUN	symbol.n.01
+כֶּתֶם	NOUN	symbol.n.01
+רְבָב	NOUN	symbol.n.01
 סִימָן	NOUN	indication.n.01
 !רֶמֶז	NOUN	hint.n.02
 !מִסְפָּר	NOUN	numeral.n.01
@@ -2157,7 +2157,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 נוּן	NOUN	letter.n.02
 מַקָּף	NOUN	punctuation.n.02
 טוֹטֶפֶת	NOUN	reminder.n.01
-סֶפְּטִימָה	NOUN	seventh.n.03
+סֶפְּטִימָה	NOUN	interval.n.04
 דְּמִימָה	NOUN	musical_notation.n.01
 !פָה	NOUN	solfa_syllable.n.01
 שְׂפַת-סִימָנִים	NOUN	sign_language.n.01
@@ -2185,7 +2185,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מַנְגִּינָה	NOUN	tune.n.01
 !הִמְנוֹן	NOUN	hymn.n.01
 לִיד	NOUN	song.n.01
-פִּיּוּט	NOUN	expressive_style.n.01
+פִּיּוּט	NOUN	poetry.n.02
 !רֶגֶל	NOUN	meter.n.03
 חָרוּז	NOUN	versification.n.02
 !דְּמוּת	NOUN	trope.n.01
@@ -2274,7 +2274,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !שִׁכְנוּעַ	NOUN	persuasion.n.01
 פִּרְסֹמֶת	NOUN	ad.n.01
 הִתְפַּטְּרוּת	NOUN	speech_act.n.01
-אִסּוּר	NOUN	ban.n.04
+אִסּוּר	NOUN	denial.n.01
 שַׁרְווּל-רוּחַ	NOUN	windsock.n.01
 מָצוֹף	NOUN	reference_point.n.01
 !נְזִירָה	NOUN	reference_point.n.01
@@ -2287,7 +2287,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 פְּרִי	NOUN	fruit.n.01	fruit.n.03
 הִשְׁתַּנּוּת	NOUN	change.n.01
 הִתְחַלְּפוּת	NOUN	change.n.01
-הַפְתָּעָה	NOUN	surprise.n.01	surprise.n.02
+הַפְתָּעָה	NOUN	astonishment.n.01	surprise.n.02
 מְדוּרָה	NOUN	fire.n.01
 סְקַנְדָּל	NOUN	scandal.n.02
 פִּיצוּץ	NOUN	explosion.n.01
@@ -2304,7 +2304,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !טִרְחָה	NOUN	fuss.n.02
 !לִכּוּד	NOUN	combining.n.01
 תַּעֲרֹבֶת	NOUN	meal.n.03	mix.n.02
-בּוּם	NOUN	economic_condition.n.01	noise.n.01
+בּוּם	NOUN	noise.n.01	prosperity.n.01
 רַעַם	NOUN	noise.n.01
 פְּעִיָּה	NOUN	bleat.n.01
 נְעִירָה	NOUN	bray.n.01
@@ -2324,7 +2324,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 רִשְׁרוּשׁ	NOUN	noise.n.01
 !צְוָחָה	NOUN	noise.n.01
 !חֲבָטָה	NOUN	sound.n.04
-גֵּאוּת	NOUN	economic_condition.n.01	periodic_event.n.01
+גֵּאוּת	NOUN	periodic_event.n.01	prosperity.n.01
 מַפֹּלֶת	NOUN	descent.n.01
 זֶרֶם	NOUN	current.n.01	current.n.02	stream.n.02
 !נִצְנוּץ	NOUN	change.n.01
@@ -2350,7 +2350,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תְּבוּסָה	NOUN	defeat.n.01
 !נְפִילָה	NOUN	fall.n.03
 !רֶגֶשׁ	NOUN	emotion.n.01
-לַהַט	NOUN	passion.n.01
+לַהַט	NOUN	ardor.n.03
 אֲדִישׁוּת	NOUN	feeling.n.01
 אַסְפִּירַצְיָה	NOUN	ambition.n.01
 חֲלוֹם	NOUN	ambition.n.01
@@ -2364,10 +2364,10 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עֶרְגָּה	NOUN	longing.n.01
 !יֶן	NOUN	longing.n.01
 חוּשָׁנִיּוּת	NOUN	sexual_desire.n.01
-תַּעֲנוּג	NOUN	delight.n.01
-בּוּז	NOUN	dislike.n.02
+תַּעֲנוּג	NOUN	pleasure.n.01
+בּוּז	NOUN	contempt.n.01
 תִּעוּב	NOUN	disgust.n.01
-בְּחִילָה	NOUN	nausea.n.01	nausea.n.02
+בְּחִילָה	NOUN	disgust.n.01	nausea.n.01
 הִשְׁתָּאוּת	NOUN	astonishment.n.01
 הִשְׁתּוֹמְמוּת	NOUN	astonishment.n.01
 פְּלִיאָה	NOUN	astonishment.n.01
@@ -2389,13 +2389,13 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 יִסּוּרֵי_מַצְפּוּן	NOUN	sorrow.n.02
 רִגְשֵׁי_אָשָׁם	NOUN	sorrow.n.02
 !מוּעָקָה	NOUN	oppression.n.03
-שִעֲמוּם	NOUN	dissatisfaction.n.01
-שִׁעְמוּם	NOUN	dissatisfaction.n.01
+שִעֲמוּם	NOUN	boredom.n.01
+שִׁעְמוּם	NOUN	boredom.n.01
 מֹרַת-רוּחַ	NOUN	annoyance.n.02
 אַכְזָבָה	NOUN	disappointment.n.01
 תִּסְכּוּל	NOUN	frustration.n.01
 יֵאוּשׁ	NOUN	despair.n.02
-!תְּבוּסְתָנוּת	NOUN	defeatism.n.01
+!תְּבוּסְתָנוּת	NOUN	resignation.n.01
 !צִינִיּוּת	NOUN	despair.n.02
 חִבָּה	NOUN	affection.n.01
 אֵיבָה	NOUN	hate.n.01
@@ -2435,14 +2435,14 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 שׁוֹק	NOUN	helping.n.01
 !נֶתַח	NOUN	cut.n.06
 !עוּגָה	NOUN	patty.n.01
-מַרְגָּרִינָה	NOUN	margarine.n.01
+מַרְגָּרִינָה	NOUN	spread.n.05
 נְטִיפֵי-שֻׁמָּן	NOUN	drippings.n.01
 סָלָמִי	NOUN	sausage.n.01
 לֶחֶם	NOUN	bread.n.01
 לַחְמָנִיָּה	NOUN	bun.n.01
 לֶחֶם-הַקֹּדֶשׁ	NOUN	bread.n.01
-כִּכָּר	NOUN	loaf_of_bread.n.01
-כִּכַּר-לֶחֶם	NOUN	loaf_of_bread.n.01
+כִּכָּר	NOUN	bread.n.01
+כִּכַּר-לֶחֶם	NOUN	bread.n.01
 צְנִים	NOUN	bread.n.01
 כָּרִיךְ	NOUN	sandwich.n.01
 חֲצִיל	NOUN	herb.n.01	solanaceous_vegetable.n.01
@@ -2459,8 +2459,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תַּפּוּחַ	NOUN	apple.n.01	apple.n.02
 !קֵיסָרוּת	NOUN	empire.n.05
 פֶּטֶל	NOUN	berry.n.01	woody_plant.n.01
-תַּפּוּז	NOUN	citrus.n.01
-תַּפּוּחַ-זָהָב	NOUN	citrus.n.01
+תַּפּוּז	NOUN	orange.n.01
+תַּפּוּחַ-זָהָב	NOUN	orange.n.01
 שְׁזִיף	NOUN	drupe.n.01	fruit_tree.n.01
 תְּאֵנָה	NOUN	edible_fruit.n.01	tree.n.01
 אֲנָנָס	NOUN	edible_fruit.n.01	herb.n.01
@@ -2506,8 +2506,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מִשְׁפָּחָה-אוֹמֶנֶת	NOUN	foster_home.n.01
 צֶמֶד	NOUN	team.n.02
 זוּג	NOUN	couple.n.01	couple.n.04
-לַהֲקָה	NOUN	flock.n.02
-!עֵדֶר	NOUN	animal_group.n.01	flock.n.05	multitude.n.02
+לַהֲקָה	NOUN	animal_group.n.01
+!עֵדֶר	NOUN	animal_group.n.01	multitude.n.02
 קְהִלָּה	NOUN	community.n.01	congregation.n.01
 קָטֵגוֹרְיָה	NOUN	class.n.01
 נְטִיּוֹת-הַשֵּׁם	NOUN	class.n.01
@@ -2532,7 +2532,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 דָּת	NOUN	religion.n.02
 הָעוֹלָם-הַנּוֹצְרִי	NOUN	christendom.n.01
 !יַהֲדוּת	NOUN	religion.n.02
-מַחְלָקָה	NOUN	army_unit.n.01	class.n.07	department.n.01
+מַחְלָקָה	NOUN	army_unit.n.01	department.n.01	taxonomic_group.n.01
 !רַבָּנוּת	NOUN	rabbinate.n.01
 !חַקְלָאוּת	NOUN	department_of_agriculture.n.01
 מַחְלֶקֶת-הַהֲגָנָה	NOUN	executive_department.n.01
@@ -2543,7 +2543,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מִשְׂרַד-הַפְּנִים-הָאָמֶרִיקָאִי	NOUN	executive_department.n.01
 !הַסָּעָה	NOUN	department_of_transportation.n.01
 דֹּאַר-שָׁמוּר	NOUN	general_delivery.n.01
-כְּמוּרָה	NOUN	priesthood.n.01
+כְּמוּרָה	NOUN	clergy.n.01
 אֶרֶץ	NOUN	country.n.02	earth.n.01	nation.n.02
 מְדִינָה	NOUN	country.n.02	state.n.01	state.n.03	state.n.04
 צִבּוּר	NOUN	populace.n.01
@@ -2592,7 +2592,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מוֹעֶצֶת-מְנַהֲלִים	NOUN	board.n.01
 הַחֶבְרָה-הַגְּבוֹהָה	NOUN	elite.n.01
 הַי-סוֹסָיֶטִי	NOUN	elite.n.01
-סוֹלְלָה	NOUN	artillery.n.02
+סוֹלְלָה	NOUN	army_unit.n.01
 מִילִיצְיָה	NOUN	military_unit.n.01
 צְבָא-קֶבַע	NOUN	standing_army.n.01
 !חֲבֵרוּת	NOUN	membership.n.01
@@ -2618,7 +2618,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 צִיָּה	NOUN	desert.n.01
 מוֹצָא	NOUN	beginning.n.04
 רֵאשִׁית	NOUN	beginning.n.04
-אֵזוֹר	NOUN	sector.n.05	zone.n.03
+אֵזוֹר	NOUN	tract.n.01	zone.n.03
 אֶרֶץ-אָבוֹת	NOUN	fatherland.n.01
 אֶרֶץ-מוֹלֶדֶת	NOUN	fatherland.n.01
 אֶרֶץ-מוֹצָא	NOUN	fatherland.n.01
@@ -2649,15 +2649,15 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 קָצֶה	NOUN	edge.n.01
 שָׂפָה	NOUN	edge.n.01
 סְבִיבָה	NOUN	environment.n.01	environment.n.02	vicinity.n.01
-אָחוּ	NOUN	grassland.n.01	pasture.n.01
+אָחוּ	NOUN	hayfield.n.01	pasture.n.01
 מֶרְכָּז-הַמִּגְרָשׁ	NOUN	center.n.01
-פְּנִים	NOUN	inside.n.01	surface.n.02
-קֶרֶב	NOUN	surface.n.02
-תּוֹךְ	NOUN	surface.n.02
+פְּנִים	NOUN	inside.n.01	inside.n.02
+קֶרֶב	NOUN	inside.n.02
+תּוֹךְ	NOUN	inside.n.02
 מְאוּרָה	NOUN	habitat.n.01
 מִדְשָׁאָה	NOUN	lawn.n.01
 מִצְפֶּה	NOUN	post.n.01
-נָדִיר	NOUN	point.n.02
+נָדִיר	NOUN	celestial_point.n.01
 פִּסְגָּה	NOUN	acme.n.01	peak.n.04
 רֹאשׁ-הַר	NOUN	peak.n.04
 עֲרָבָה	NOUN	grassland.n.01
@@ -2668,7 +2668,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עֲיָרָה	NOUN	town.n.01
 נְקֻדַּת-תַּצְפִּית	NOUN	vantage_point.n.01
 מְגַמָּה	NOUN	tendency.n.04
-זֶנִית	NOUN	point.n.02
+זֶנִית	NOUN	celestial_point.n.01
 מַזַּל-קַשָּׁת	NOUN	sagittarius.n.03
 קַשָּׁת	NOUN	expert.n.01	sagittarius.n.03
 מַזַּל-גְּדִי	NOUN	capricorn.n.03
@@ -2701,8 +2701,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מְעָרָה	NOUN	cave.n.01
 מָצוּק	NOUN	cliff.n.01
 צוּק	NOUN	cliff.n.01
-כּוֹכַב-שָׁבִיט	NOUN	natural_object.n.01
-שָׁבִיט	NOUN	natural_object.n.01
+כּוֹכַב-שָׁבִיט	NOUN	extraterrestrial_object.n.01
+שָׁבִיט	NOUN	extraterrestrial_object.n.01
 יַבֶּשֶׁת	NOUN	continent.n.01
 קוֹנְטִינֶנְט	NOUN	continent.n.01
 מָסָךְ	NOUN	barrier.n.03
@@ -2734,8 +2734,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 גַּרְעִין	NOUN	center.n.04
 נָתִיב	NOUN	path.n.04
 !מַהֲמוֹרָה	NOUN	hole.n.05
-רִיף	NOUN	ridge.n.01
-שׁוּנִית	NOUN	ridge.n.01
+רִיף	NOUN	reef.n.01
+שׁוּנִית	NOUN	reef.n.01
 נָהָר	NOUN	river.n.01
 שִׂרְטוֹן	NOUN	ridge.n.01
 יָם	NOUN	ocean.n.02	sea.n.01	west.n.02
@@ -2750,7 +2750,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 בִּקְעָה	NOUN	valley.n.01
 עֵמֶק	NOUN	valley.n.01
 מִשְׁתַּנֶּה	NOUN	thing.n.12
-לעַ	NOUN	vent.n.03
+לעַ	NOUN	crack.n.01
 וֶנוּס	NOUN	venus.n.01
 כּוֹכַב-הָעֶרֶב	NOUN	venus.n.01
 כּוֹכַב-הַשַּׁחַר	NOUN	venus.n.01
@@ -2813,7 +2813,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !זָוִית	NOUN	angle.n.03
 פָּלֶשְׂתִּינָאִי	NOUN	person.n.01
 פָּלֶשְׂתִּינִי	NOUN	person.n.01
-יִשְׂרְאֵלִי	NOUN	israeli.n.01
+יִשְׂרְאֵלִי	NOUN	asian.n.01
 !צָרְפָתִית	NOUN	french.n.02
 !נִפְקָד	NOUN	absentee.n.01
 בֶּן-לְוָיָה	NOUN	attendant.n.01
@@ -2829,13 +2829,13 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 נוֹאֵף	NOUN	adulterer.n.01
 יָרִיב	NOUN	adversary.n.01	opposition.n.04
 יוֹעֵץ	NOUN	adviser.n.01
-!מְגַדֵּל	NOUN	farmer.n.01
+!מְגַדֵּל	NOUN	breeder.n.01	farmer.n.01
 בַּעַל-בְּרִית	NOUN	ally.n.02
 קִטֵּעַ	NOUN	unfortunate.n.01
 אָב_קַדְמוֹן	NOUN	ancestor.n.01
 מַרְדִּים	NOUN	specialist.n.02
 רוֹפֵא-מַרְדִּים	NOUN	specialist.n.02
-חָבֵר	NOUN	associate.n.01	brother.n.04	companion.n.01	supporter.n.01	sweetheart.n.01
+חָבֵר	NOUN	associate.n.01	brother.n.04	companion.n.01	lover.n.01	supporter.n.01
 !דּוֹדָה	NOUN	aunt.n.01
 מְחַבֶּרֶת	NOUN	writer.n.01
 סוֹפֶרֶת	NOUN	writer.n.01
@@ -2851,7 +2851,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 שׁוֹאֵל	NOUN	recipient.n.01
 צוֹפֶה	NOUN	male_child.n.01
 !לְבֵנָה	NOUN	brick.n.02
-כַּלָּה	NOUN	bride.n.03	spouse.n.01
+כַּלָּה	NOUN	bride.n.03	newlywed.n.01
 שׁוֹשְׁבִינָה	NOUN	attendant.n.01
 !מְחַצְצֵר	NOUN	musician.n.01
 !בַּנַּאי	NOUN	builder.n.03
@@ -2903,8 +2903,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 גַּנְדְּרָן	NOUN	dandy.n.01
 יַקִּיר	NOUN	darling.n.01
 בַּת	NOUN	daughter.n.01
-חַיָּב	NOUN	person.n.01
-לוֹוֶה	NOUN	person.n.01
+חַיָּב	NOUN	debtor.n.01
+לוֹוֶה	NOUN	debtor.n.01
 !נָצִיג	NOUN	delegate.n.01
 !צֶאֱצָא	NOUN	descendant.n.01
 !עָצִיר	NOUN	prisoner.n.01
@@ -2925,7 +2925,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 שָׁלִיחַ	NOUN	representative.n.01
 !עוֹבֵד	NOUN	employee.n.01
 יַזָּם	NOUN	entrepreneur.n.01
-!צִיר	NOUN	circumstance.n.01	diplomat.n.01	minister.n.03
+!צִיר	NOUN	circumstance.n.01	diplomat.n.01
 !שָׁלִיחַ	NOUN	diplomat.n.01	messenger.n.01
 סָרִיס	NOUN	man.n.01
 !שׁוֹפֵט	NOUN	evaluator.n.01
@@ -2941,7 +2941,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !דַּיָּג	NOUN	fisherman.n.01
 טִפֵּשׁ	NOUN	fool.n.01
 שַׂחְקָן-פוּטְבּוֹל	NOUN	football_player.n.01
-!זָר	NOUN	stranger.n.01
+!זָר	NOUN	foreigner.n.02	stranger.n.01
 !רֹאשׁ	NOUN	foreman.n.01	head.n.04	plant.n.02
 יַעֲרָן	NOUN	farmer.n.01
 !זַיְפָן	NOUN	forger.n.01
@@ -2951,8 +2951,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !לִוְיָתָן	NOUN	giant.n.04
 בַּחוּרָה	NOUN	girl.n.01
 נַעֲרָה	NOUN	girl.n.01
-צוֹפָה	NOUN	girl_scout.n.01
-נֶכְדָּה	NOUN	granddaughter.n.01
+צוֹפָה	NOUN	male_child.n.01
+נֶכְדָּה	NOUN	grandchild.n.01
 סָב	NOUN	grandfather.n.01
 סַבָּא	NOUN	grandfather.n.01
 סָבָא	NOUN	grandfather.n.01
@@ -2960,21 +2960,21 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 סַבְתָּא	NOUN	grandma.n.01
 נֶכֶד	NOUN	grandson.n.01
 יַרְקָן	NOUN	greengrocer.n.01
-חָתָן	NOUN	participant.n.01	spouse.n.01
+חָתָן	NOUN	newlywed.n.01	participant.n.01
 מִתְעַמֵּל	NOUN	athlete.n.01
 תַּלְיָן	NOUN	killer.n.01
 נַבְלַאי	NOUN	musician.n.01
 נַבְלָן	NOUN	musician.n.01
-יוֹרֶשֶׁת	NOUN	recipient.n.01
+יוֹרֶשֶׁת	NOUN	heir.n.01
 רוֹעֶה	NOUN	hired_hand.n.01
-!מְאָרַחַת	NOUN	owner.n.01
+!מְאָרַחַת	NOUN	host.n.08
 מְאָרַחַת	NOUN	adult.n.01
 עֲקֶרֶת-בַּיִת	NOUN	wife.n.01
 מְהַפְנֵט	NOUN	psychologist.n.01
 מְהַפְּנֵט	NOUN	psychologist.n.01
 צָבוּעַ	NOUN	hypocrite.n.01
 מִתְחַזֶּה	NOUN	imposter.n.01
-תַּעֲשִׂיָּן	NOUN	businessman.n.01
+תַּעֲשִׂיָּן	NOUN	industrialist.n.01
 !חוֹקֵר	NOUN	inquirer.n.01	research_worker.n.01
 יוֹזֵם	NOUN	leader.n.01
 מְתַרְגֵּם	NOUN	interpreter.n.01
@@ -2983,8 +2983,8 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !פּוֹלֵשׁ	NOUN	intruder.n.01
 !חַתָּם	NOUN	investment_banker.n.01
 !מַשְׁגִּיחַ	NOUN	invigilator.n.01
-לֵיצַן-הֶחָצֵר	NOUN	comedian.n.01
-!תַּכְשִׁיט	NOUN	jewel.n.02
+לֵיצַן-הֶחָצֵר	NOUN	clown.n.02
+!תַּכְשִׁיט	NOUN	person.n.01
 סִיטוֹנַאי	NOUN	distributor.n.01
 לֵץ	NOUN	comedian.n.01
 !מִשְׁפְּטָן	NOUN	expert.n.01
@@ -2993,7 +2993,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אַבִּיר	NOUN	knight.n.01
 !פּוֹעֵל	NOUN	laborer.n.01
 מַרְצֶה	NOUN	speaker.n.01
-עֲלוּקָה	NOUN	leech.n.02
+עֲלוּקָה	NOUN	follower.n.01
 !מְחוֹקֵק	NOUN	legislator.n.01
 מַצִּיל	NOUN	attendant.n.01
 פּוֹלִיגְלוֹט	NOUN	scientist.n.01
@@ -3007,7 +3007,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 דַּרְדַּק	NOUN	male_child.n.01
 יַנּוּקָא	NOUN	male_child.n.01
 !מִתְחַלֶּה	NOUN	malingerer.n.01
-מְנַהֶלֶת	NOUN	manageress.n.01
+מְנַהֶלֶת	NOUN	director.n.01
 !נֶחָת	NOUN	serviceman.n.01
 !זֶפֶת	NOUN	mariner.n.01
 !סַתָּת	NOUN	craftsman.n.03
@@ -3043,11 +3043,11 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !יָתוֹם	NOUN	child.n.01
 !קָצִין	NOUN	supervisor.n.01
 בְּעָלִים	NOUN	owner.n.01
-!צַבָּע	NOUN	artist.n.01
+!צַבָּע	NOUN	painter.n.01
 צַבָּע	NOUN	skilled_worker.n.01
 !צַנְחָן	NOUN	soldier.n.01
-הוֹרֶה	NOUN	genitor.n.01
-הוֹרָה	NOUN	genitor.n.01
+הוֹרֶה	NOUN	parent.n.01
+הוֹרָה	NOUN	parent.n.01
 פֶּחָה	NOUN	authority.n.02
 פָּשָׁה	NOUN	authority.n.02
 פַּצְיֶנְט	NOUN	patient.n.01
@@ -3066,7 +3066,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 שׁוֹטֶרֶת	NOUN	policeman.n.01
 !בַּעֲלַת_בַּיִת	NOUN	proprietress.n.01
 !מַטִּיף	NOUN	preacher.n.01
-קוֹדֵם	NOUN	person.n.01
+קוֹדֵם	NOUN	predecessor.n.01
 !יו"ר	NOUN	president.n.04
 !נָשִׂיא	NOUN	president.n.04
 !כָּמְרִית	NOUN	priest.n.01
@@ -3076,7 +3076,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 נְסִיכָה	NOUN	princess.n.01
 טוּרַאי	NOUN	enlisted_man.n.01
 !סַפְסָר	NOUN	capitalist.n.02
-!נְבִיאָה	NOUN	visionary.n.02
+!נְבִיאָה	NOUN	prophet.n.01
 זוֹנָה	NOUN	prostitute.n.01
 יַצְאָנִית	NOUN	prostitute.n.01
 פְּרוּצָה	NOUN	prostitute.n.01
@@ -3091,7 +3091,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !פָּלִיט	NOUN	refugee.n.01
 !יְשִׁיבָה	NOUN	religious.n.01
 !מְתַקֵּן	NOUN	repairman.n.01
-!מַזְכִּיר	NOUN	friend.n.01	head.n.04	secretary.n.02
+!מַזְכִּיר	NOUN	repository.n.02	secretary.n.01	secretary.n.02
 רוֹכֵב	NOUN	rider.n.01
 !פּוֹרֵעַ	NOUN	unwelcome_person.n.01
 !נוֹכֵל	NOUN	rogue.n.01
@@ -3110,19 +3110,19 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מַדְּעָן	NOUN	scientist.n.01
 תַּסְרִיטַאי	NOUN	scriptwriter.n.01
 !פַּסָּל	NOUN	sculptor.n.01
-פַּסֶּלֶת	NOUN	sculptress.n.01
+פַּסֶּלֶת	NOUN	sculptor.n.01
 מְשָׁרֵת	NOUN	servant.n.01
 !כָּרִישׁ	NOUN	expert.n.01
 נוֹקֵד	NOUN	hired_hand.n.01
 רוֹעֵה-צֹאן	NOUN	hired_hand.n.01
-!כֶּבֶשׂ	NOUN	sheep.n.02	sheep.n.03
+!כֶּבֶשׂ	NOUN	follower.n.01	sheep.n.02
 !חֶנְוָנִי	NOUN	shopkeeper.n.01
 אֲחָאִים	NOUN	sibling.n.01
 חָתוּם	NOUN	person.n.01
 !חוֹטֵא	NOUN	wrongdoer.n.01
 סֶר	NOUN	male_aristocrat.n.01
 אָחוֹת	NOUN	nun.n.01
-!מִשְׁתַּמֵּט	NOUN	idler.n.01
+!מִשְׁתַּמֵּט	NOUN	nonworker.n.01
 !עֶבֶד	NOUN	slave.n.01	worker.n.01
 !סַהֲרוּרִי	NOUN	person.n.01
 !צַלָּף	NOUN	shot.n.05
@@ -3146,14 +3146,14 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 נִצָּב	NOUN	actor.n.01
 סְטָטִיסְט	NOUN	actor.n.01
 אֵם-פּוּנְדְקָאִית	NOUN	surrogate_mother.n.01
-!חָבֵר	NOUN	sweetheart.n.01
+!חָבֵר	NOUN	lover.n.01
 !חַיָּט	NOUN	needleworker.n.01
 !מְאַלֵּף	NOUN	trainer.n.01
 !מַעֲרִיךְ	NOUN	official.n.01
 !שַׁמַּאי	NOUN	official.n.01
 !נִשּׁוֹם	NOUN	taxpayer.n.01
 !קֻפַּאי	NOUN	banker.n.01
-!דַּיָּר	NOUN	tenant.n.01	tenant.n.02	tenant.n.03
+!דַּיָּר	NOUN	holder.n.02	resident.n.01	tenant.n.01
 !מָטוֹל	NOUN	thrower.n.02
 זַאֲטוּט	NOUN	toddler.n.01
 יַלְדּוֹן	NOUN	toddler.n.01
@@ -3211,13 +3211,13 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !עֲרָפֶל	NOUN	fog.n.01
 סוּפָה	NOUN	storm.n.01
 סְעָרָה	NOUN	storm.n.01	storm.n.02
-גְּרָבִיטַצְיָה	NOUN	gravity.n.01
-כְּבִידָה	NOUN	gravity.n.01
-כּוֹחַ-הַכְּבִידָה	NOUN	gravity.n.01
-כּוֹחַ-הַמְּשִׁיכָה	NOUN	gravity.n.01
+גְּרָבִיטַצְיָה	NOUN	attraction.n.01
+כְּבִידָה	NOUN	attraction.n.01
+כּוֹחַ-הַכְּבִידָה	NOUN	attraction.n.01
+כּוֹחַ-הַמְּשִׁיכָה	NOUN	attraction.n.01
 בָּרָד	NOUN	precipitation.n.03
 אֹבֶךְ	NOUN	aerosol.n.01
-!הַפְשָׁרָה	NOUN	weather.n.01
+!הַפְשָׁרָה	NOUN	thaw.n.02
 שֶׁמֶשׁ	NOUN	sunlight.n.01
 גַּנְגְּרֶנָה	NOUN	death.n.02
 נֶמֶק	NOUN	death.n.02
@@ -3256,7 +3256,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אוֹרְכִידֵאָה	NOUN	orchid.n.01
 סַחְלָב	NOUN	orchid.n.01
 רַקֶּפֶת	NOUN	flower.n.01
-בְּרוֹמִית-הַשִּׁיפוֹן	NOUN	chess.n.01
+בְּרוֹמִית-הַשִּׁיפוֹן	NOUN	grass.n.01
 !חִטָּה	NOUN	wheat.n.01
 גַּרְעִינִים	NOUN	grain.n.07
 !מֶלוֹן	NOUN	vine.n.01
@@ -3276,7 +3276,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !נַרְקִיס	NOUN	bulbous_plant.n.01
 חֲבַצֶּלֶת	NOUN	liliaceous_plant.n.01
 שׁוֹשָׁן	NOUN	liliaceous_plant.n.01
-בָּצָל	NOUN	onion.n.01	onion.n.02
+בָּצָל	NOUN	alliaceous_plant.n.01	onion.n.01
 צִבְעוֹנִי	NOUN	liliaceous_plant.n.01
 סִתְוָנִית	NOUN	autumn_crocus.n.01
 חָרוּב	NOUN	tree.n.01
@@ -3312,7 +3312,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 הַכְנָסָה-נְקִיָּה	NOUN	net_income.n.01
 נֶטוֹ	NOUN	net_income.n.01
 שְׂכַר-נֶטוֹ	NOUN	net_income.n.01
-!הַכְנָסָה	NOUN	income.n.01
+!הַכְנָסָה	NOUN	tax_income.n.01
 שָׁלָל	NOUN	loot.n.01
 !עִזָּבוֹן	NOUN	bequest.n.01
 נְדוּנְיָה	NOUN	dowry.n.01
@@ -3322,29 +3322,29 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עֲלוּת	NOUN	cost.n.01
 מַשְׂכֹּרֶת	NOUN	wage.n.01
 שָׂכָר	NOUN	wage.n.01
-מִנּוּי	NOUN	subscription.n.01
+מִנּוּי	NOUN	payment.n.01
 כֹּפֶר	NOUN	cost.n.01
 שֹׁחַד	NOUN	payment.n.01
 שַׁלְמוֹנִים	NOUN	payment.n.01
 פִּצּוּיִים	NOUN	damages.n.01
 שִׁפּוּי	NOUN	damages.n.01
-דְּמֵי-שְׁתִיָּה	NOUN	gratuity.n.01
-טִיפּ	NOUN	gratuity.n.01
-תֶּשֶׁר	NOUN	gratuity.n.01
+דְּמֵי-שְׁתִיָּה	NOUN	fringe_benefit.n.01
+טִיפּ	NOUN	fringe_benefit.n.01
+תֶּשֶׁר	NOUN	fringe_benefit.n.01
 מַס	NOUN	tax.n.01
 אַרְנוֹנָה	NOUN	tax.n.01
 מֶכֶס	NOUN	customs.n.01
 טוֹנָז'	NOUN	tonnage.n.01
 עַמְלָה	NOUN	commission.n.02
 קוֹמִיסְיוֹן	NOUN	commission.n.02
-אַגְרָה	NOUN	fee.n.01
+אַגְרָה	NOUN	toll.n.01
 שַׁעַר-הַחֲלִיפִין	NOUN	rate.n.02
-בְּלַאי	NOUN	depreciation.n.02
-פְּחָת	NOUN	depreciation.n.02
+בְּלַאי	NOUN	financial_loss.n.01
+פְּחָת	NOUN	financial_loss.n.01
 !הִמּוּר	NOUN	gamble.n.01
 בִּטּוּחַ	NOUN	insurance.n.01
-עֲרֵבוּת	NOUN	bail.n.01	security_interest.n.01
-עַרְבוּת	NOUN	bail.n.01	security_interest.n.01
+עֲרֵבוּת	NOUN	security.n.05	security_interest.n.01
+עַרְבוּת	NOUN	security.n.05	security_interest.n.01
 מַשְׁכַּנְתָּא	NOUN	mortgage.n.01
 מַשְׁכַּנְתָּה	NOUN	mortgage.n.01
 שִׁעְבּוּד	NOUN	mortgage.n.01
@@ -3402,7 +3402,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 הִתְאַדּוּת	NOUN	vaporization.n.02
 הִתְנַדְּפוּת	NOUN	vaporization.n.02
 הִתְרַחֲבוּת	NOUN	increase.n.03
-תְּסִיסָה	NOUN	agitation.n.02	chemical_process.n.01
+תְּסִיסָה	NOUN	chemical_process.n.01	turbulence.n.03
 רֹב-מֻחְלָט	NOUN	majority.n.02
 מְקַדֵּם	NOUN	coefficient.n.01
 !סְעִיף	NOUN	count.n.01
@@ -3425,7 +3425,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 שֶׁבֶר-פָּשׁוּט	NOUN	common_fraction.n.01
 !גּוֹרֵם	NOUN	integer.n.01
 רֶבַע	NOUN	one-fourth.n.01
-שְׁבִיעִית	NOUN	one-seventh.n.01
+שְׁבִיעִית	NOUN	common_fraction.n.01
 מֵאִית	NOUN	common_fraction.n.01
 אַיִן	NOUN	nothing.n.01
 אֶפֶס	NOUN	digit.n.01	nothing.n.01
@@ -3466,7 +3466,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 קֶדֶם	NOUN	east.n.01
 !דָּרוֹם	NOUN	south.n.03
 מַעֲרָב	NOUN	west.n.02
-!שְׁבִיעִית	NOUN	seventh.n.01
+!שְׁבִיעִית	NOUN	rank.n.02
 !הַשְׁוָאָה	NOUN	comparison.n.02
 הֶפֶךְ	NOUN	reverse.n.01
 מְצֻלָּע	NOUN	polygon.n.01
@@ -3522,7 +3522,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אַבְטָלָה	NOUN	unemployment.n.01
 !שַׁלְוָה	NOUN	order.n.03
 !הִתְפָּרְעוּת	NOUN	disorder.n.03
-!תְּסִיסָה	NOUN	agitation.n.02
+!תְּסִיסָה	NOUN	turbulence.n.03
 הִתְעַלּוּת-הַנֶּפֶשׁ	NOUN	ecstasy.n.01
 הִתְרוֹמְמוּת-רוּחַ	NOUN	ecstasy.n.01
 אֵבֶל	NOUN	sadness.n.02
@@ -3533,9 +3533,9 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תַּרְדֵּמָה	NOUN	inaction.n.01
 תַּרְדֵּמַת-חֹרֶף	NOUN	inaction.n.01
 !תַּרְדֵּמָה	NOUN	physical_condition.n.01
-שֵׁנָה	NOUN	inaction.n.01	sleep.n.01	sleep.n.02	sleep.n.03
-לֵאוּת	NOUN	fatigue.n.01
-עֲיֵפוּת	NOUN	fatigue.n.01
+שֵׁנָה	NOUN	inaction.n.01	physical_condition.n.01	sleep.n.01	sleep.n.03
+לֵאוּת	NOUN	temporary_state.n.01
+עֲיֵפוּת	NOUN	temporary_state.n.01
 שִׁכָּרוֹן	NOUN	temporary_state.n.01
 שִׁכְרוּת	NOUN	temporary_state.n.01
 זִקְפָּה	NOUN	arousal.n.02
@@ -3549,12 +3549,12 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 מָלַרְיָה	NOUN	malaria.n.01
 קַדַּחַת	NOUN	malaria.n.01
 קַדַּחַת-הַבִּצּוֹת	NOUN	malaria.n.01
-עֲוִית	NOUN	seizure.n.01
-פִּרְכּוּס	NOUN	seizure.n.01
+עֲוִית	NOUN	attack.n.07
+פִּרְכּוּס	NOUN	attack.n.07
 טָרֶשֶׁת	NOUN	pathology.n.02
 סְקְלֶרוֹזִיס	NOUN	pathology.n.02
-דִּיאָבֶּטִיס	NOUN	disease.n.01
-סֻכֶּרֶת	NOUN	disease.n.01
+דִּיאָבֶּטִיס	NOUN	genetic_disease.n.01
+סֻכֶּרֶת	NOUN	genetic_disease.n.01
 גְּרִיפָּה	NOUN	influenza.n.01
 שַׁפַּעַת	NOUN	influenza.n.01
 חַצֶּבֶת	NOUN	contagious_disease.n.01
@@ -3569,7 +3569,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 עַגֶּבֶת	NOUN	contagious_disease.n.01
 מַחֲלַת-הַנְסֶן	NOUN	infectious_disease.n.01
 צָרַעַת	NOUN	infectious_disease.n.01
-חֲזֶרֶת	NOUN	mumps.n.01
+חֲזֶרֶת	NOUN	infectious_disease.n.01
 דֶּבֶר	NOUN	infectious_disease.n.01
 שַׁעֶלֶת	NOUN	infectious_disease.n.01
 אַסְתְּמָה	NOUN	asthma.n.01
@@ -3580,7 +3580,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 גִּדּוּל	NOUN	tumor.n.01
 סַרְטָן	NOUN	cancer.n.01
 חַבּוּרָה	NOUN	bruise.n.01
-!כְּוִיָּה	NOUN	injury.n.01
+!כְּוִיָּה	NOUN	burn.n.03
 שִׁזּוּף	NOUN	physical_condition.n.01
 שִׁזָּפוֹן	NOUN	physical_condition.n.01
 בֶּקַע	NOUN	injury.n.01
@@ -3597,10 +3597,10 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 לָמִינִיטִיס	NOUN	laminitis.n.01
 קְבָס	NOUN	nausea.n.01
 עֲצִירוּת	NOUN	symptom.n.01
-שִׁלְשׁוּל	NOUN	symptom.n.01
+שִׁלְשׁוּל	NOUN	diarrhea.n.01
 הֲזָיָה	NOUN	psychological_state.n.01
 הָלוּצִינַצְיָה	NOUN	psychological_state.n.01
-שְׁפִיּוּת	NOUN	psychological_state.n.01
+שְׁפִיּוּת	NOUN	sanity.n.01
 בַּעַת	NOUN	mental_disorder.n.01
 פוֹבְּיָה	NOUN	mental_disorder.n.01
 בְּדִידוּת	NOUN	isolation.n.01
@@ -3608,7 +3608,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 !יַלְדוּת	NOUN	childhood.n.02
 !יֻקְרָה	NOUN	standing.n.01
 !שֵׁמַע	NOUN	fame.n.01
-!שֵׁם	NOUN	dishonor.n.01	repute.n.01
+!שֵׁם	NOUN	reputation.n.02	repute.n.01
 בּוּשָׁה	NOUN	shame.n.02
 בִּזָּיוֹן	NOUN	shame.n.02
 חֶרְפָּה	NOUN	shame.n.02
@@ -3628,14 +3628,14 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 בְּרָכָה	NOUN	blessing.n.02
 !בַּעֲלוּת	NOUN	state.n.02
 !הִזְדַּמְּנוּת	NOUN	opportunity.n.01
-מְבַשֵּׂר	NOUN	condition.n.01
+מְבַשֵּׂר	NOUN	anticipation.n.04
 !מְהִילָה	NOUN	impurity.n.02
 חַיֵּי-מוֹתָרוֹת	NOUN	luxury.n.03
 דַּלּוּת	NOUN	poverty.n.01
 עֹנִי	NOUN	poverty.n.01
 !זֻהֲמָה	NOUN	sanitary_condition.n.01
 !טֻמְאָה	NOUN	dirtiness.n.01
-!זִהוּם	NOUN	befoulment.n.01
+!זִהוּם	NOUN	dirtiness.n.01
 גַּבְנוּן	NOUN	abnormality.n.01
 אֶרוֹזְיָה	NOUN	environmental_condition.n.01
 סְחִיפָה	NOUN	environmental_condition.n.01
@@ -3694,7 +3694,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 אָרָד	NOUN	bronze.n.01
 פְּרוֹטֶאִין	NOUN	protein.n.01
 שֶׁנְהָב	NOUN	animal_material.n.01
-!עֶצֶם	NOUN	bone.n.02
+!עֶצֶם	NOUN	animal_material.n.01
 עוֹר	NOUN	leather.n.01
 זַמְשׁ	NOUN	leather.n.01
 בַּזֶּלֶת	NOUN	volcanic_rock.n.01
@@ -3702,7 +3702,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 סֻכָּרִים	NOUN	carbohydrate.n.01
 פִּיחַ	NOUN	carbon.n.01
 קַרְטוֹן	NOUN	cardboard.n.01
-פְּלָדָה	NOUN	alloy.n.01
+פְּלָדָה	NOUN	steel.n.01
 מֶלֶט	NOUN	building_material.n.01
 חֵמָר	NOUN	clay.n.01
 !פֶּחָם	NOUN	coal.n.01
@@ -3732,7 +3732,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 רַקְבּוּבִית	NOUN	soil.n.02
 זֶפֶת	NOUN	hydrocarbon.n.01
 מְבוֹדֵד	NOUN	building_material.n.01
-מִקְטָע	NOUN	fraction.n.01
+מִקְטָע	NOUN	chemical.n.01
 יוּטָה	NOUN	plant_fiber.n.01
 !נֵפְט	NOUN	hydrocarbon.n.01	methane_series.n.01
 טִיט	NOUN	soil.n.02
@@ -3742,7 +3742,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תַּחְמֹצֶת	NOUN	oxide.n.01
 הַזָּהָב-הַשָּׁחֹר	NOUN	petroleum.n.01
 שֶׁמֶן-אֲדָמָה	NOUN	petroleum.n.01
-!אֲגַם	NOUN	lake.n.02	lake.n.03
+!אֲגַם	NOUN	pigment.n.01
 טִיחַ	NOUN	covering_material.n.01
 אַשְׁלָג	NOUN	compound.n.02
 חַנְקָה	NOUN	compound.n.02
@@ -3771,7 +3771,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 יַלְדוּת	NOUN	childhood.n.01
 בְּגִירוּת	NOUN	majority.n.03
 קְטִינוּת	NOUN	minority.n.03
-בַּגְרוּת	NOUN	time_of_life.n.01
+בַּגְרוּת	NOUN	adulthood.n.01
 !מָחָר	NOUN	tomorrow.n.01
 אֶתְמוֹל	NOUN	yesterday.n.01	yesterday.n.02
 !פֶסְטִיבָל	NOUN	festival.n.01
@@ -3791,7 +3791,7 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 שְׁנַת-הַלִּמּוּדִים	NOUN	year.n.02
 חֹדֶשׁ	NOUN	calendar_month.n.01	month.n.02
 יָנוּאָר	NOUN	january.n.01
-פֶבְּרוּאָר	NOUN	gregorian_calendar_month.n.01
+פֶבְּרוּאָר	NOUN	february.n.01
 מֶרְץ	NOUN	march.n.01
 מַאי	NOUN	gregorian_calendar_month.n.01
 יוּנִי	NOUN	june.n.01
@@ -3821,38 +3821,38 @@ GAP!	NOUN	abstinence.n.01	accompaniment.n.01	adult.n.01	advocate.n.01	air_force_
 תֶּדֶר	NOUN	frequency.n.01
 מַחְזוֹר-חָדְשִׁי	NOUN	cycle.n.05
 פָזָה	NOUN	phase.n.01
-גִּהֵק	VERB	emit.v.01
-שִׁהֵק	VERB	breathe.v.01
+גִּהֵק	VERB	burp.v.01
+שִׁהֵק	VERB	hiccup.v.01
 נָפַח	VERB	exhale.v.01
 נָשַׁף	VERB	exhale.v.01
-הִתְעַטֵּשׁ	VERB	act_involuntarily.v.01
-שָׁאַף	VERB	inhale.v.02	smoke.v.01
+הִתְעַטֵּשׁ	VERB	sneeze.v.01
+שָׁאַף	VERB	inhale.v.01	inhale.v.02
 הִשְׁתַּעֵל	VERB	cough.v.01
-!רָעַד	VERB	move_involuntarily.v.01	tremble.v.01
-הִתְנַמְנֵם	VERB	sleep.v.01
-נִמְנֵם	VERB	sleep.v.01
-נָחַר	VERB	breathe.v.01
-אִלְחֵשׁ	VERB	drug.v.01
-הִרְדִּים	VERB	drug.v.01
+!רָעַד	VERB	shake.v.02	tremble.v.01
+הִתְנַמְנֵם	VERB	snooze.v.01
+נִמְנֵם	VERB	snooze.v.01
+נָחַר	VERB	snore.v.01
+אִלְחֵשׁ	VERB	anesthetize.v.01
+הִרְדִּים	VERB	anesthetize.v.01
 !הֵבִיא	VERB	achieve.v.01	bring_to.v.01	offer.v.09
 !הוֹבִיל	VERB	bring_to.v.01
-הִתְעַלֵּף	VERB	change_state.v.01
-GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	dial.v.02	officiate.v.02	request.v.02	take_up.v.02	wash_up.v.01
-!צִחְקֵק	VERB	laugh.v.01
-גִּרְגֵּר	VERB	gargle.v.01	wash.v.02
-הִסְתַּדֵּר	VERB	clean_up.v.04	do.v.04	end.v.01	get_along_with.v.01
-חָפַף	VERB	wash.v.02
+הִתְעַלֵּף	VERB	faint.v.01
+GAP!	VERB	appoint.v.03	defy.v.03	dial.v.02	get_worse.v.01	hold.v.33	officiate.v.02	request.v.02	swing.v.07	take_up.v.02	trim.v.06	wash_up.v.01
+!צִחְקֵק	VERB	giggle.v.01
+גִּרְגֵּר	VERB	gargle.v.01	gargle.v.02
+הִסְתַּדֵּר	VERB	clean_up.v.04	do.v.04	get_along_with.v.01	work_out.v.02
+חָפַף	VERB	shampoo.v.01
 אִבֵּד-מִשְׁקָל	VERB	reduce.v.20
 הוֹרִיד	VERB	download.v.01	reduce.v.20
 הִרְזָה	VERB	reduce.v.20
 יָרַד-בַּמִּשְׁקָל	VERB	reduce.v.20
 רָזָה	VERB	reduce.v.20
 מָדַד	VERB	try_on.v.01
-!הִפְשִׁיט	VERB	remove.v.01
+!הִפְשִׁיט	VERB	undress.v.01
 !לָבַשׁ	VERB	wear.v.01
-!יִבֵּב	VERB	cry.v.02
-הִתְיַפֵּחַ	VERB	cry.v.02
-יִבֵּב	VERB	cry.v.02
+!יִבֵּב	VERB	wail.v.02
+הִתְיַפֵּחַ	VERB	sob.v.01
+יִבֵּב	VERB	sob.v.01
 הֵזִּיעַ	VERB	sweat.v.01
 הֵטִיל-מַיִם	VERB	make.v.49
 הִשְׁתִּין	VERB	make.v.49
@@ -3861,11 +3861,11 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 סִיֵּעַ	VERB	help.v.01	help.v.02
 עָזַר	VERB	help.v.01	help.v.02
 סָךְ	VERB	anoint.v.02
-הִרְכִּיב	VERB	assemble.v.01	constitute.v.01	immunize.v.02	install.v.01	join.v.04
+הִרְכִּיב	VERB	assemble.v.01	compose.v.01	graft.v.01	immunize.v.02	install.v.01
 חִסֵּן	VERB	immunize.v.02
-חָזַר-לְסוּרוֹ	VERB	revert.v.01
+חָזַר-לְסוּרוֹ	VERB	relapse.v.02
 הֶחֱיָה	VERB	resuscitate.v.01
-הִתְאַמֵּן	VERB	drill.v.03	exercise.v.04
+הִתְאַמֵּן	VERB	drill.v.03	train.v.08
 פָּגַע	VERB	harm.v.01
 פָּלַט	VERB	exhaust.v.05
 הִתְבַּדֵּחַ	VERB	joke.v.01	joke.v.02
@@ -3878,19 +3878,19 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 יָרַד	VERB	decrease.v.01	descend.v.01
 קָטַן	VERB	decrease.v.01
 הִגְדִּיל	VERB	increase.v.02
-עָלָה	VERB	ascend.v.01	change.v.02	rise.v.02	surface.v.01
-גָּדַל	VERB	increase.v.01	mature.v.01
-הֶעֱלָה	VERB	arouse.v.01	increase.v.02	mention.v.01	raise.v.02
+עָלָה	VERB	ascend.v.01	ascend.v.08	rise.v.02	surface.v.01
+גָּדַל	VERB	grow_up.v.01	increase.v.01
+הֶעֱלָה	VERB	arouse.v.01	raise.v.01	raise.v.02	raise.v.19
 הֵמִיר	VERB	change.v.06
-הֶחְלִיף	VERB	dress.v.01	exchange.v.01	supplant.v.01	switch.v.03	transfer.v.06
-!קִלֵּף	VERB	remove.v.01
+הֶחְלִיף	VERB	change.v.05	exchange.v.01	supplant.v.01	switch.v.03	transfer.v.06
+!קִלֵּף	VERB	husk.v.01
 פִּנָּה	VERB	clear_off.v.01
 פִּסֵּק	VERB	punctuate.v.01
-!הִגְעִיל	VERB	damage.v.01
+!הִגְעִיל	VERB	scald.v.04
 עָרַךְ	VERB	edit.v.01
-הִתְקַלְקֵל	VERB	decay.v.03
-הֶחְמִיץ	VERB	preserve.v.04	sour.v.01
-כָּבַשׁ	VERB	preserve.v.04
+הִתְקַלְקֵל	VERB	spoil.v.02
+הֶחְמִיץ	VERB	pickle.v.01	sour.v.01
+כָּבַשׁ	VERB	pickle.v.01
 יִבֵּשׁ	VERB	dry.v.01
 הִתְיַבֵּשׁ	VERB	dry.v.02
 גִּבֵּר	VERB	strengthen.v.01
@@ -3901,15 +3901,15 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 הִתְעַצֵּם	VERB	intensify.v.03
 הִגְבִּיר	VERB	enhance.v.01
 !גִּדֵּל	VERB	grow.v.03
-הִתְחַמְצֵן	VERB	change.v.01
-חִמְצֵן	VERB	change.v.01
-הִצְטַמֵּק	VERB	decrease.v.01
+הִתְחַמְצֵן	VERB	oxidize.v.02
+חִמְצֵן	VERB	oxidize.v.02
+הִצְטַמֵּק	VERB	shrivel.v.01
 אִחֵד	VERB	unite.v.01	unite.v.06
-הִתְקַדֵּם	VERB	advance.v.01	develop.v.10
+הִתְקַדֵּם	VERB	advance.v.01	progress.v.01
 !דָּלַף	VERB	leak.v.01	leak.v.02	leak.v.04
-!הִתְדַּלְדֵּל	VERB	decrease.v.01
-!נֶעֱרַךְ	VERB	inure.v.01
-הִסְדִּיר	VERB	arrange.v.01	settle.v.03	settle.v.14
+!הִתְדַּלְדֵּל	VERB	dwindle.v.01
+!נֶעֱרַךְ	VERB	steel_oneself_against.v.01
+הִסְדִּיר	VERB	regularize.v.02	settle.v.03	settle.v.14
 סִדֵּר	VERB	arrange.v.02	gull.v.02	tidy.v.01
 בִּלְגֵּן	VERB	mess.v.02
 בִּרְדֵּק	VERB	mess.v.02
@@ -3918,15 +3918,15 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 הִצְהִיב	VERB	yellow.v.01
 לִבְלֵב	VERB	bloom.v.01
 פָּרַח	VERB	bloom.v.01
-בִּיֵּת	VERB	adapt.v.01	change.v.01	domesticate.v.01
-בֻּיַּת	VERB	adapt.v.01	change.v.01	domesticate.v.01
-אִלֵּף	VERB	change.v.01
-אֻלַּף	VERB	change.v.01
-חִשֵּׁל	VERB	strengthen.v.02
+בִּיֵּת	VERB	domesticate.v.01	domesticate.v.02	domesticate.v.03
+בֻּיַּת	VERB	domesticate.v.01	domesticate.v.02	domesticate.v.03
+אִלֵּף	VERB	domesticate.v.02
+אֻלַּף	VERB	domesticate.v.02
+חִשֵּׁל	VERB	toughen.v.01
 הֵצֵר	VERB	take_in.v.17
 !שִׂגְשֵׂג	VERB	boom.v.05	thrive.v.02
-!נִכֵּשׁ	VERB	remove.v.01
-הִתְאָרֵךְ	VERB	grow.v.02
+!נִכֵּשׁ	VERB	weed.v.01
+הִתְאָרֵךְ	VERB	lengthen.v.02
 הֶאֱרִיךְ	VERB	lengthen.v.01
 הִתְקַיֵּם	VERB	exist.v.02	happen.v.01
 הִתְרַחֵשׁ	VERB	happen.v.01
@@ -3935,29 +3935,29 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 הִתְחִיל	VERB	begin.v.02	get_down.v.07
 !הִתְחִיל	VERB	begin.v.03	start.v.06
 !נִכְנַס	VERB	begin.v.03	start.v.06
-!גִּמֵּר	VERB	beat.v.01	finish_up.v.02
+!גִּמֵּר	VERB	finish_up.v.02	overpower.v.01
 נָבַט	VERB	shoot.v.19
 הִתְהַוָּה	VERB	come_to_life.v.01
 נוֹצַר	VERB	come_to_life.v.01
 הִפְסִיק	VERB	break.v.10	discontinue.v.01
-הִתְאַדָּה	VERB	change_integrity.v.01
-הִתְנַדֵּף	VERB	change_integrity.v.01
+הִתְאַדָּה	VERB	evaporate.v.01
+הִתְנַדֵּף	VERB	evaporate.v.01
 הִתְאַחֵד	VERB	connect.v.03	unify.v.01
 גָּלַשׁ	VERB	boil_over.v.01	ski.v.01
-!שָׂרַף	VERB	change_integrity.v.01
+!שָׂרַף	VERB	burn.v.07
 מִרְכֵּז	VERB	centralize.v.01
-הִלְאִים	VERB	change.v.01
+הִלְאִים	VERB	nationalize.v.01
 הִגֵּר	VERB	emigrate.v.01
-עִמְלֵן	VERB	change.v.01
+עִמְלֵן	VERB	starch.v.01
 !דָּלַק	VERB	get_on.v.05
 אָבַד	VERB	disappear.v.01
 הָלַךְ-לְאִבּוּד	VERB	disappear.v.01
 נֶעֱלַם	VERB	disappear.v.01	vanish.v.02	vanish.v.04
 נָגוֹז	VERB	vanish.v.04
-!הֵאִיץ	VERB	accelerate.v.02	intensify.v.03
+!הֵאִיץ	VERB	accelerate.v.01	accelerate.v.02
 הִקְטִין	VERB	decrease.v.02
 !הֵגִיב	VERB	react.v.03
-מִסְחֵר	VERB	change.v.01
+מִסְחֵר	VERB	commercialize.v.02
 !הִשְׁקִיעַ	VERB	precipitate.v.02
 הִשְׁקִיעַ	VERB	precipitate.v.02
 שִׁקֵּעַ	VERB	precipitate.v.02
@@ -3966,13 +3966,13 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 סִיֵּם	VERB	complete.v.01
 הִשְׁלִים	VERB	follow_through.v.02
 אִוְרֵר	VERB	vent.v.02
-!תִּעֵשׂ	VERB	change.v.01
-!הִשְׁתַּזֵּף	VERB	convert.v.02
+!תִּעֵשׂ	VERB	urbanize.v.01
+!הִשְׁתַּזֵּף	VERB	tan.v.01
 אִפְשֵׁר	VERB	enable.v.01	let.v.01	permit.v.01
 !הִדְגִּישׁ	VERB	foreground.v.01	stress.v.01
-הִמְתִּיק	VERB	change.v.02
-הִתְפִּיל	VERB	change.v.02
-!רָחַב	VERB	increase.v.02
+הִמְתִּיק	VERB	desalinate.v.01
+הִתְפִּיל	VERB	desalinate.v.01
+!רָחַב	VERB	widen.v.04
 !רֻפָּא	VERB	come_back.v.01
 הֵבִין	VERB	sympathize.v.02	understand.v.01	understand.v.02	understand.v.03	understand.v.04
 יָדַע	VERB	know.v.01	know.v.02	know.v.05	sleep_together.v.01
@@ -3981,7 +3981,7 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 הִסְבִּיר	VERB	clear.v.10
 הִכְתִּיב	VERB	dictate.v.02	order.v.03
 חָשַׁב	VERB	assume.v.01	think.v.01	think.v.02	think.v.03	think_up.v.01
-הִתְפַּלְסֵף	VERB	think.v.03
+הִתְפַּלְסֵף	VERB	philosophize.v.01
 הִנִּיחַ	VERB	assume.v.01	think.v.02
 בִּסֵּס	VERB	establish.v.08
 חִשֵּׁב	VERB	calculate.v.01
@@ -3992,8 +3992,8 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 הִבְדִּיל	VERB	distinguish.v.01	distinguish.v.03
 הִבְחִין	VERB	distinguish.v.01
 הִפְרִיד	VERB	distinguish.v.01
-עִיֵּן-מֵחָדָשׁ	VERB	see.v.05
-שָׁקַל-מֵחָדָשׁ	VERB	see.v.05
+עִיֵּן-מֵחָדָשׁ	VERB	reconsider.v.01
+שָׁקַל-מֵחָדָשׁ	VERB	reconsider.v.01
 סִוֵּג	VERB	classify.v.01
 !הֶעֱרִיךְ	VERB	prize.v.01	rate.v.03
 !קִיֵּם	VERB	confirm.v.01	leave.v.06
@@ -4001,7 +4001,7 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 בָּרַר	VERB	choose.v.01
 הֶעֱרִיךְ	VERB	measure.v.04	respect.v.01
 שָׁם	VERB	measure.v.04
-הֶאֱמִין	VERB	believe.v.01	trust.v.01
+הֶאֱמִין	VERB	believe.v.01	believe.v.04	believe.v.05
 סָבַר	VERB	think.v.01
 נוֹעַד	VERB	intend.v.02
 סָמַךְ	VERB	calculate.v.02
@@ -4028,19 +4028,19 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 שִׁדֵּל	VERB	wheedle.v.01
 שִׁכְנֵעַ	VERB	convert.v.09
 !גָּרַם	VERB	induce.v.02
-!הִתְפַּלְפֵּל	VERB	argue.v.02
-!נָשַׁר	VERB	quarrel.v.01
+!הִתְפַּלְפֵּל	VERB	quibble.v.02
+!נָשַׁר	VERB	fall_out.v.01
 !נָגַד	VERB	oppose.v.06
 שָׁאַל	VERB	ask.v.01
-חִיֵּג	VERB	operate.v.03
+חִיֵּג	VERB	dial.v.01
 !קָרָא	VERB	summon.v.01
-אָסַר	VERB	forbid.v.01	imprison.v.01	restrain.v.03
+אָסַר	VERB	forbid.v.01	imprison.v.01	tie_down.v.01
 מֵאֵן	VERB	refuse.v.01
 סֵרֵב	VERB	refuse.v.01	refuse.v.02
 הִסְכִּים	VERB	accept.v.03
 הֵשִׁיב-בְּחִיּוּב	VERB	accept.v.03
 !אִפְשֵׁר	VERB	allow.v.10
-!הִסְכִּים	VERB	agree.v.02	harmonize.v.01
+!הִסְכִּים	VERB	assent.v.01	harmonize.v.01
 !הִתְנַגֵּד	VERB	object.v.01
 !הִפְרִיךְ	VERB	refute.v.01
 הֵשִׁיב	VERB	answer.v.01
@@ -4052,18 +4052,18 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 בִּקֵּר	VERB	knock.v.06
 הִשִּׂיג	VERB	knock.v.06
 מָתַח-בִּקֹּרֶת	VERB	knock.v.06
-!דָּרַשׁ	VERB	preach.v.02	want.v.02
+!דָּרַשׁ	VERB	sermonize.v.01	want.v.02
 תִּדְרֵךְ	VERB	brief.v.01
-תִּחְקֵר	VERB	question.v.03
+תִּחְקֵר	VERB	debrief.v.01
 הוֹדִיעַ	VERB	inform.v.01
 יִדֵּעַ	VERB	inform.v.01
 אִמֵּן	VERB	coach.v.01
-הִגְזִים	VERB	make.v.01	overstate.v.01
+הִגְזִים	VERB	overdo.v.01	overstate.v.01
 הִפְרִיז	VERB	overstate.v.01
 נִפֵּחַ	VERB	overstate.v.01
 !זִלְזֵל	VERB	disparage.v.01
 !הִשְׁמִיץ	VERB	defame.v.01
-הִכְפִּישׁ	VERB	abuse.v.03
+הִכְפִּישׁ	VERB	vilify.v.01
 הֶעֱלִיב	VERB	diss.v.01
 הִסְתַּלְבֵּט	VERB	ridicule.v.01
 הִתֵּל	VERB	ridicule.v.01
@@ -4081,7 +4081,7 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 מָסַר	VERB	advise.v.02	pass.v.05
 הִתְוַדֵּעַ	VERB	familiarize.v.01	introduce.v.01
 הִצִּיעַ	VERB	offer.v.02	propose.v.01
-!הִסְפִּיד	VERB	praise.v.01
+!הִסְפִּיד	VERB	eulogize.v.01
 הִשְׁוִיץ	VERB	boast.v.01
 הִשְׁתַּחְצֵן	VERB	boast.v.01
 הִתְרַבְרֵב	VERB	boast.v.01
@@ -4100,78 +4100,78 @@ GAP!	VERB	aim.v.01	appoint.v.03	challenge.v.02	change_state.v.01	decorate.v.01	d
 לָאַט	VERB	whisper.v.01
 לָחַשׁ	VERB	whisper.v.01
 הִתְפַּלֵּא	VERB	wonder.v.03
-סוֹבֵב	VERB	denote.v.02	move.v.02	roll.v.12	surround.v.01	wind.v.03
+סוֹבֵב	VERB	roll.v.12	surround.v.01	turn.v.04	twist.v.09	wind.v.03
 הִבִּיעַ	VERB	voice.v.01
 גִּלָּה	VERB	unwrap.v.02
 חָשַׂף	VERB	unwrap.v.02
 !הִסְבִּיר	VERB	clarify.v.01	explain.v.01	explain.v.02
 דִּבֵּר	VERB	talk.v.01	talk.v.02
 מָנָה	VERB	count.v.01	enumerate.v.01
-סָפַר	VERB	count.v.01	recite.v.02
+סָפַר	VERB	count.v.01	count.v.04
 סִכֵּם	VERB	sum_up.v.01	total.v.02
 הִתְחַשֵּׁב	VERB	consider.v.04
-הִשְׁמִיעַ	VERB	pronounce.v.01
+הִשְׁמִיעַ	VERB	voice.v.02
 סִפֵּר	VERB	tell.v.03
-פִּרְסֵם	VERB	announce.v.01	print.v.01	publicize.v.01	publish.v.02	publish.v.03
+פִּרְסֵם	VERB	advertise.v.01	print.v.01	publicize.v.01	publish.v.02	publish.v.03
 !דִּבֵּר	VERB	talk.v.01
 מְדַבֵּר	VERB	speak.v.03
 הִכְרִיז	VERB	announce.v.02
 סָבַב	VERB	go_around.v.02	roll.v.12	surround.v.01	swing_around.v.01	turn.v.09
-גִּמְגֵּם	VERB	talk.v.02
+גִּמְגֵּם	VERB	bumble.v.03
 כָּתַב	VERB	write.v.01	write.v.02	write.v.05	write.v.07
 הִדְפִּיס	VERB	type.v.01
 הִתְכַּתֵּב	VERB	correspond.v.03
 הִבְלִיט	VERB	stress.v.01
 צִיֵּן	VERB	note.v.01
 הִכְלִיל	VERB	generalize.v.01
-חִוָּה-דֵּעָה	VERB	declare.v.01
+חִוָּה-דֵּעָה	VERB	opine.v.01
 הִטְבִּיל	VERB	baptize.v.01
 הִתְפַּשֵּׁר	VERB	compromise.v.01	compromise.v.02
 !הִתְפַּשֵּׁר	VERB	compromise.v.03
 פִּטְפֵּט	VERB	chew_the_fat.v.01
 רִכֵל	VERB	dish_the_dirt.v.01
-!נָחַר	VERB	utter.v.02
-יִלֵּל	VERB	shout.v.02
+!נָחַר	VERB	grunt.v.01	snort.v.01
+יִלֵּל	VERB	howl.v.01
 !קִרְקֵר	VERB	cluck.v.01
-צָהַל	VERB	utter.v.02
-!יִלֵּל	VERB	utter.v.02
+צָהַל	VERB	neigh.v.01
+!יִלֵּל	VERB	mew.v.02
 !בִּקֵּשׁ	VERB	request.v.03
 הִתְחָרָה	VERB	compete.v.01
 הִתְמוֹדֵד	VERB	compete.v.01	cope.v.01
-!הִתְגַּיֵּס	VERB	join.v.01
+!הִתְגַּיֵּס	VERB	enlist.v.01
 !גִּיֵּס	VERB	recruit.v.03
 !גָּבַר	VERB	beat.v.01
-פָּרַס	VERB	cut.v.01	deploy.v.01	hit.v.01	slice.v.03	strike.v.04
-מִקֵּשׁ	VERB	reinforce.v.01
-!דָּג	VERB	fish.v.02	search.v.01
+פָּרַס	VERB	deploy.v.01	slice.v.02	slice.v.03	slice.v.04	slit.v.01
+מִקֵּשׁ	VERB	mine.v.02
+!דָּג	VERB	fish.v.01	fish.v.02
 צָד	VERB	hunt.v.01
-הִפְנָה-שְׁאֵלָה	VERB	target.v.01
+הִפְנָה-שְׁאֵלָה	VERB	address.v.04
 כִּוֵּן	VERB	aim.v.01
-PSEUDOGAP!	VERB	aim.v.01
-הִפְנָה	VERB	aim.v.01
+PSEUDOGAP!	VERB	charge.v.17
+הִפְנָה	VERB	level.v.01
 הִתְבַּיֵּת	VERB	range_in.v.01
-כָּרָה	VERB	exploit.v.02
-לָגַם	VERB	drink.v.01
+כָּרָה	VERB	mine.v.01
+לָגַם	VERB	sip.v.01
 סִפֵּק	VERB	provide.v.02
 !סִפֵּק	VERB	meet.v.04	satisfy.v.01	supply.v.01
 !שָׂבַע	VERB	be_full.v.01	satiate.v.01
-צָם	VERB	abstain.v.02
-!צָם	VERB	abstain.v.02
+צָם	VERB	fast.v.02
+!צָם	VERB	fast.v.01
 אֵרֵח	VERB	host.v.01
 הִתְנַזֵּר	VERB	abstain.v.02
 עִשֵּׁן	VERB	fume.v.02	smoke.v.01
-הִרְוָה	VERB	meet.v.04
-רָוָה	VERB	meet.v.04
+הִרְוָה	VERB	quench.v.01
+רָוָה	VERB	quench.v.01
 הִתְנַגֵּשׁ	VERB	run_into.v.02
 נִכְנַס	VERB	enter.v.01	run_into.v.02
 נִתְקַל	VERB	fall_upon.v.01	run_into.v.02
-כָּרַת	VERB	remove.v.01
-קָטַע	VERB	remove.v.01
+כָּרַת	VERB	amputate.v.01
+קָטַע	VERB	amputate.v.01
 גִּמֵּר	VERB	finish.v.04
-!רִצֵּף	VERB	cover.v.01	pave.v.01
-סִיֵּד	VERB	cover.v.01
+!רִצֵּף	VERB	pave.v.01	tile.v.01
+סִיֵּד	VERB	whitewash.v.02
 !פָּתַח	VERB	unwrap.v.01
-הִתִּיר	VERB	undo.v.01
+הִתִּיר	VERB	untie.v.01
 הִתְחַבֵּר	VERB	attach.v.02	connect.v.03	log_in.v.01
 !הִזְדַּוֵּג	VERB	match.v.03
 קִשֵּׁר	VERB	join.v.02
@@ -4179,49 +4179,49 @@ PSEUDOGAP!	VERB	aim.v.01
 חִפֵּשׂ	VERB	search.v.01
 קָצַר	VERB	reap.v.01
 סָחַט	VERB	wring_out.v.01
-!הִתְעַוֵּת	VERB	twist.v.04
-!טִפְטֵף	VERB	scatter.v.03
+!הִתְעַוֵּת	VERB	contort.v.01
+!טִפְטֵף	VERB	drizzle.v.02
 גִּהֵץ	VERB	iron.v.01
-!הֶחְדִּיר	VERB	insert.v.01
+!הֶחְדִּיר	VERB	instill.v.02
 הִזְדַּיֵּן	VERB	sleep_together.v.01
 עָשָׂה-אַהֲבָה	VERB	sleep_together.v.01
 שָׁכַב-עִם	VERB	sleep_together.v.01
 נָסַב	VERB	surround.v.01	swing_around.v.01
 !הוֹצִיא	VERB	eject.v.01
-!חָנָה	VERB	put.v.01
+!חָנָה	VERB	park.v.01
 שָׂם	VERB	put.v.01
 גּוֹלֵל	VERB	wind.v.03
 לִפֵּף	VERB	wind.v.03
 פָּעַל	VERB	function.v.01
-הִשְׁתִּיל	VERB	insert.v.01
-הֶעֱמִיד	VERB	put.v.01
-הֵקִים	VERB	establish.v.02	put.v.01	raise.v.09
-גָּזַז	VERB	shorten.v.03
+הִשְׁתִּיל	VERB	transplant.v.03
+הֶעֱמִיד	VERB	stand.v.10
+הֵקִים	VERB	establish.v.02	raise.v.09	stand.v.10
+גָּזַז	VERB	fleece.v.02
 הִתְקִין	VERB	install.v.01
-חָנַק	VERB	kill.v.01
-עָרַף	VERB	kill.v.01
-הִלְחִים	VERB	join.v.04
-טִפְטֵף	VERB	descend.v.01	dribble.v.02	drizzle.v.01
+חָנַק	VERB	strangle.v.01
+עָרַף	VERB	decapitate.v.01
+הִלְחִים	VERB	solder.v.01
+טִפְטֵף	VERB	dribble.v.02	drip.v.01	drizzle.v.01
 גָּרַם	VERB	cause.v.01
 !קוֹמֵם	VERB	rebuild.v.01
 עִרְבֵּב	VERB	jumble.v.02
 קָלַע	VERB	braid.v.01
-הִתִּיךְ	VERB	produce.v.02
+הִתִּיךְ	VERB	smelt.v.01
 הִבְרִיק	VERB	gloss.v.01
 לִטֵּשׁ	VERB	gloss.v.01
 !כָּתַב	VERB	author.v.01
 הִלְחִין	VERB	compose.v.02
 חָזַר	VERB	rehearse.v.01
-אִלְתֵּר	VERB	perform.v.01
-צִלֵּם	VERB	reproduce.v.01
-שִׂדֵּד	VERB	plow.v.01
-עָדַר	VERB	till.v.01
+אִלְתֵּר	VERB	improvise.v.01
+צִלֵּם	VERB	photocopy.v.01
+שִׂדֵּד	VERB	harrow.v.01
+עָדַר	VERB	hoe.v.01
 תִּכְנֵת	VERB	program.v.02
 עוֹרֵר	VERB	arouse.v.01
 בָּז	VERB	contemn.v.01
 זִלְזֵל	VERB	contemn.v.01
 אִכְזֵב	VERB	disappoint.v.01
-!כָּמַהּ	VERB	hanker.v.01
+!כָּמַהּ	VERB	ache.v.02	hanker.v.01
 הֵצִיף	VERB	overwhelm.v.01
 הִשְׁתַּלֵּט	VERB	overwhelm.v.01
 !הִתְיָאֵשׁ	VERB	despair.v.01
@@ -4231,26 +4231,26 @@ PSEUDOGAP!	VERB	aim.v.01
 חָמַד	VERB	covet.v.01
 עָמַד	VERB	stand_still.v.01	stop.v.01
 !נִוֵּט	VERB	voyage.v.01
-בָּא	VERB	come.v.01
-קָרַב	VERB	approach.v.01	come.v.01
+בָּא	VERB	approach.v.04
+קָרַב	VERB	approach.v.01	approach.v.04
 הֵזִיז	VERB	move.v.02
 !מִרְכֵּז	VERB	center.v.03
 נֶעֱמַד	VERB	stop.v.01
 נֶעֱצַר	VERB	stop.v.01
 עָמַד-מִלֶּכֶת	VERB	stop.v.01
-עָצַר	VERB	prevent.v.01	stop.v.01
-הִתְהַפֵּךְ	VERB	overturn.v.01	turn.v.01
-רָטַט	VERB	move_back_and_forth.v.01
-רִצֵּד	VERB	move_back_and_forth.v.01
-הִסְתּוֹבֵב	VERB	circle.v.02	roll.v.12	socialize.v.01	swing_around.v.01	turn.v.01	turn.v.09
+עָצַר	VERB	stop.v.01	stop.v.03
+הִתְהַפֵּךְ	VERB	overturn.v.01	roll_over.v.01
+רָטַט	VERB	flicker.v.01
+רִצֵּד	VERB	flicker.v.01
+הִסְתּוֹבֵב	VERB	circle.v.02	hobnob.v.01	roll.v.12	swing_around.v.01	turn.v.01	turn.v.09
 שׁוֹטֵט	VERB	roll.v.12
 !הִתְפַּתֵּל	VERB	weave.v.04
 זָחַל	VERB	crawl.v.01
-!דָּאָה	VERB	fly.v.03	glide.v.01	move.v.02
+!דָּאָה	VERB	glide.v.01	glide.v.02	glide.v.03
 כִּשְׁכֵּשׁ	VERB	wag.v.01
 !הִלֵּךְ	VERB	perambulate.v.02
-צָלַע	VERB	walk.v.01
-!צָעַד	VERB	hike.v.02	raise.v.02	walk.v.09
+צָלַע	VERB	limp.v.01
+!צָעַד	VERB	hike.v.01	hike.v.02	parade.v.01
 צָעַד	VERB	step.v.01
 !נָהַג	VERB	drive.v.02
 נָהַג	VERB	drive.v.01
@@ -4258,51 +4258,51 @@ PSEUDOGAP!	VERB	aim.v.01
 חָנָה	VERB	park.v.02
 חָתַר	VERB	row.v.01
 רָכַב	VERB	ride.v.01
-!דָּהַר	VERB	pace.v.02	ride_horseback.v.01
+!דָּהַר	VERB	gallop.v.01	gallop.v.02
 שָׂחָה	VERB	swim.v.01
 הִדַּרְדֵּר	VERB	avalanche.v.01
-צָנַח	VERB	dive.v.01
+צָנַח	VERB	chute.v.01
 הֵרִים	VERB	raise.v.02
-!יָרַד	VERB	descend.v.01	land.v.01
+!יָרַד	VERB	alight.v.01	alight.v.02
 מִקֵּם	VERB	position.v.01
 !רִוֵּחַ	VERB	space.v.01
-!צָלַע	VERB	proceed.v.02
+!צָלַע	VERB	limp.v.02
 הִקְדִּים	VERB	precede.v.04
 !צָד	VERB	hound.v.01
 !הוֹפִיעַ	VERB	arrive.v.01
-צָבָא	VERB	crowd.v.03
-חָלַף	VERB	elapse.v.01	travel.v.01
+צָבָא	VERB	mass.v.01
+חָלַף	VERB	elapse.v.01	travel_by.v.01
 הִתְקָרֵב	VERB	approach.v.01
 !זָחַל	VERB	fawn.v.01
-!יָצָא	VERB	escape.v.01
+!יָצָא	VERB	shake.v.07
 !נָס	VERB	flee.v.01
-זִבֵּל	VERB	circulate.v.03
-!הֶעֱבִיר	VERB	transfer.v.04
-דָּרַךְ	VERB	travel.v.01
-!דָּרַךְ	VERB	travel.v.01
+זִבֵּל	VERB	manure.v.01
+!הֶעֱבִיר	VERB	remove.v.05
+דָּרַךְ	VERB	step.v.02
+!דָּרַךְ	VERB	step_on.v.01
 הִרְגִּישׁ	VERB	feel.v.03
 חָשׁ	VERB	feel.v.03
-הִסְרִיחַ	VERB	smell.v.02
-הִצְחִין	VERB	smell.v.02
+הִסְרִיחַ	VERB	reek.v.02
+הִצְחִין	VERB	reek.v.02
 !שָׁר	VERB	behold.v.01
 !הִפְגִּין	VERB	display.v.02	expose.v.03	uncover.v.01
 !הִצִּיג	VERB	display.v.02	expose.v.03	show.v.01	uncover.v.01
 !גִּלָּה	VERB	uncover.v.01
-!סָקַר	VERB	examine.v.02
+!סָקַר	VERB	peruse.v.01
 נֶעֱלַם-מֵהָעַיִן	VERB	vanish.v.02
-הִבְהֵב	VERB	flash.v.01	shine.v.02
-עִמְעֵם	VERB	change_intensity.v.01
-הֵצִיץ	VERB	look.v.01
+הִבְהֵב	VERB	flicker.v.02	flicker.v.03
+עִמְעֵם	VERB	dim.v.01
+הֵצִיץ	VERB	peep.v.01
 עָקַב	VERB	attend.v.05
-חָרַק	VERB	make_noise.v.01
-שִׁקְשֵׁק	VERB	make_noise.v.01
-!צָוַח	VERB	make_noise.v.01
-!צָרַח	VERB	make_noise.v.01
+חָרַק	VERB	whine.v.03
+שִׁקְשֵׁק	VERB	clatter.v.01
+!צָוַח	VERB	scream.v.03
+!צָרַח	VERB	scream.v.03
 !נָקַשׁ	VERB	chatter.v.01
 !הִבְחִין	VERB	spot.v.02
 !רָכַשׁ	VERB	buy.v.01
 !שָׂכַר	VERB	lease.v.04	rent.v.04
-חָנַט	VERB	conserve.v.02
+חָנַט	VERB	embalm.v.01
 !מָסַר	VERB	hand_down.v.01
 הֶעֱבִיר	VERB	pass.v.05
 טָעַן	VERB	upload.v.01
@@ -4310,36 +4310,36 @@ PSEUDOGAP!	VERB	aim.v.01
 קִדֵּם-בִּבְרָכָה	VERB	welcome.v.01
 פָּדָה	VERB	cash.v.01
 !הֶחְלִיף	VERB	trade.v.04
-חִיֵּב	VERB	account.v.02	coerce.v.01
+חִיֵּב	VERB	coerce.v.01	debit.v.01
 הֶחְרִים	VERB	impound.v.01
 חִלֵּט	VERB	impound.v.01
 עִקֵּל	VERB	impound.v.01
 אָגַר	VERB	store.v.01
 אִחְסֵן	VERB	store.v.01	store.v.02
 !הִשְׂתַּכֵּר	VERB	earn.v.02
-מָעַל	VERB	steal.v.01
+מָעַל	VERB	embezzle.v.01
 !הִגִּישׁ	VERB	hand_over.v.01
 חִלֵּק	VERB	share.v.04
 צָבַר	VERB	roll_up.v.02
 מָשַׁךְ	VERB	withdraw.v.09
 הִדִּיר-אוֹתוֹ-מִנְּכָסָיו	VERB	deprive.v.01
-נִשֵּׁל	VERB	deprive.v.01	deprive.v.02
-הֶעֱבִיר-אוֹתוֹ-מִיְּרֻשָּׁתוֹ	VERB	deprive.v.02
-שִׁרְיֵן	VERB	equip.v.01
+נִשֵּׁל	VERB	deprive.v.01	disinherit.v.01
+הֶעֱבִיר-אוֹתוֹ-מִיְּרֻשָּׁתוֹ	VERB	disinherit.v.01
+שִׁרְיֵן	VERB	armor.v.01
 !רִפֵּד	VERB	upholster.v.01
 יִבֵּא	VERB	import.v.01
 יִצֵּא	VERB	export.v.01
 אִשְׁפֵּז	VERB	hospitalize.v.01
-מִשְׁכֵּן	VERB	owe.v.03
-שִׁעְבֵּד	VERB	owe.v.03
+מִשְׁכֵּן	VERB	mortgage.v.01
+שִׁעְבֵּד	VERB	mortgage.v.01
 הֵעֵז	VERB	dare.v.02	make_bold.v.01
-!צֵרֵף	VERB	appoint.v.01
-!הִדִּיחַ	VERB	oust.v.01
-עָבַד-עַל	VERB	work.v.01
+!צֵרֵף	VERB	co-opt.v.03
+!הִדִּיחַ	VERB	depose.v.01
+עָבַד-עַל	VERB	work_at.v.01
 חָבַר	VERB	collaborate.v.01	join.v.01	join.v.03
 שִׁתֵּף-פְּעֻלָּה	VERB	collaborate.v.01
 יָגַע	VERB	labor.v.02
-חָנַךְ	VERB	open.v.04
+חָנַךְ	VERB	inaugurate.v.02
 !הֶחְזִיר	VERB	restore.v.05
 יִסֵּד	VERB	establish.v.01
 בִּטֵּל	VERB	abolish.v.01
@@ -4349,14 +4349,14 @@ PSEUDOGAP!	VERB	aim.v.01
 !הִתְרַחֵק	VERB	keep_away.v.01
 !הִתְעָרֵב	VERB	interfere.v.01	intervene.v.01
 מִנָּה	VERB	appoint.v.02
-!בִּטֵּל	VERB	abolish.v.01
+!בִּטֵּל	VERB	abrogate.v.01
 חָבַשׁ	VERB	imprison.v.01
 כָּלָא	VERB	imprison.v.01
 הִגְלָה	VERB	expatriate.v.01
 אִלֵּץ	VERB	coerce.v.01
 כָּפָה	VERB	coerce.v.01
 הִתְעַלֵּל	VERB	mistreat.v.01
-!הִתְנַהֵג	VERB	act.v.01
+!הִתְנַהֵג	VERB	behave.v.03
 !הִשִּׂיג	VERB	achieve.v.01
 !פָּעַל	VERB	achieve.v.01
 נִסָּה	VERB	test.v.01
@@ -4364,12 +4364,12 @@ PSEUDOGAP!	VERB	aim.v.01
 גִּדֵּל	VERB	rear.v.02
 חִבֵּל	VERB	sabotage.v.01
 הִגִּישׁ-עֶזְרָה	VERB	help.v.01
-בָּלַם	VERB	prevent.v.01
+בָּלַם	VERB	stop.v.03
 הֵפֵר	VERB	transgress.v.01
 חָרַג	VERB	transgress.v.01
 עָבַר-עַל	VERB	transgress.v.01
 !הוֹנָה	VERB	victimize.v.03
-!לָחַץ	VERB	influence.v.01
+!לָחַץ	VERB	blackmail.v.01
 עָרַק	VERB	defect.v.01
 שָׁלַט	VERB	govern.v.03
 הִסְתַּיֵּם	VERB	end.v.01
@@ -4382,7 +4382,7 @@ PSEUDOGAP!	VERB	aim.v.01
 הִצְרִיךְ	VERB	necessitate.v.01
 הֵכִיל	VERB	consist.v.04
 !הִסֵּס	VERB	hesitate.v.01	hesitate.v.02
-הִנְצִיחַ	VERB	continue.v.03
+הִנְצִיחַ	VERB	perpetuate.v.01
 גָּר	VERB	populate.v.01
 הִתְגּוֹרֵר	VERB	populate.v.01
 חַי	VERB	populate.v.01
@@ -4391,12 +4391,12 @@ PSEUDOGAP!	VERB	aim.v.01
 אִכְסֵן	VERB	lodge.v.04
 !סָכַךְ	VERB	shelter.v.01
 הִסְפִּיק	VERB	suffice.v.01
-!הִסְרִיחַ	VERB	be.v.01
+!הִסְרִיחַ	VERB	stink.v.01
 הִתְמַקֵּד	VERB	focus_on.v.01
 הִתְרַכֵּז	VERB	focus_on.v.01
 חָדַל	VERB	discontinue.v.01
 נִפְסַק	VERB	discontinue.v.02
-קָדַם	VERB	lie.v.01	predate.v.01
+קָדַם	VERB	precede.v.02	predate.v.01
 !נִמְשַׁךְ	VERB	last.v.01
 בָּלַט	VERB	stick_out.v.01
 !נָטָה	VERB	tend.v.01
