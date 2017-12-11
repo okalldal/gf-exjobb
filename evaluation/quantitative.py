@@ -1,7 +1,7 @@
 from trainomatic import trainomatic
 from collections import defaultdict
 from itertools import product, groupby, islice
-from utils import read_probs, read_poss_dict, Word, reverse_poss_dict
+from utils import read_probs, Word
 from numpy import log
 import logging 
 import sys
@@ -10,6 +10,25 @@ from nltk.corpus import wordnet as wn
 from argparse import ArgumentParser
 from os.path import basename, splitext
 import models
+
+def read_poss_dict(path):
+    with open(path, encoding='utf-8') as f:
+        # format: 
+        #    columnist \t NOUN \t columnistFem_N \t columnistMasc_N
+        lines = (l.strip().split('\t') for l in f)
+        return defaultdict(lambda: [], {Word(l[0].lower(), l[1].lower()): l[2:] for l in lines})
+
+def reverse_poss_dict(poss_dict_path):
+    out = dict()
+    with open(poss_dict_path, encoding='utf-8') as f:
+        lines = (l.strip().split('\t') for l in f)
+        for c in lines:
+            for fun in c[2:]:
+                if fun in out:
+                    out[fun].append(Word(c[0].lower(), c[1].lower()))
+                else:
+                    out[fun] = [Word(c[0].lower(), c[1].lower())]
+    return out
 
 def get_bigrams_for_lemmas(lemmas, tree):
     bigrams = [w for w in get_bigrams(tree) 
@@ -42,14 +61,17 @@ def possible_bigrams(bigrams, possdict, deprel, max_perms=1000):
             yield [(swap(w), swap(h), rel) for w, h, rel in bigrams]
 
 
-def bigrams_prob(bigrams, probs):
+def bigrams_prob(bigrams, pos, probs):
     prob = 0
     total = 0
     for bigram in bigrams:
-        p = probs.get(bigram)
-        if not p == 0:
-            prob += -log(p)
-            total += 1
+        try:
+            p = probs.get(bigram, pos)
+            if not p == 0:
+                prob += -log(p)
+                total += 1
+        except ValueError:
+            continue
     if total == 0: 
         return 0
     else:
@@ -124,6 +146,8 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
 
         bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
+        pos = [(n.upostag, h.upostag) for n,h,r in bigrams]
+        
         poss_bigrams = list(possible_bigrams(bigrams, possdict,
             deprel=use_deprel))
         
@@ -138,8 +162,8 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         # no errors
         no_error += 1
 
-        rank = [(bigrams_prob(b, probs), b) 
-                for b in poss_bigrams]
+        rank = [(bigrams_prob(b, p, probs), b) 
+                for b, p in zip(poss_bigrams, pos)]
         is_ambig = len(rank) > 1
         rank = sorted(rank, key=lambda x: x[0])
        
@@ -189,11 +213,13 @@ class ProbDict():
 def init(args):
     logging.basicConfig(level=logging.INFO)
     logging.info('Loading Probabilities')
-    if args.database:
-        tablename = splitext(basename(args.probs))[0]
-        probs = models.Bigram(args.database, tablename)
+    tablename = splitext(basename(args.probs))[0]
+    if args.deprel:
+        probs = models.BigramDeprel(args.database, tablename)
+        # probs = models.InterpolationDeprel(args.database, tablename)
     else:
-        probs = ProbDict(args.probs)
+        probs = models.Bigram(args.database, tablename)
+        # probs = models.Interpolation(args.database, tablename)
     possdict = read_poss_dict(path=args.possdict)
     linearize = reverse_poss_dict(args.possdict)
     if args.dict == 'gf':

@@ -1,5 +1,6 @@
 from database import ProbDatabase, ProbTable
 import sqlite3
+from math import log
 
 
 class Unigram():
@@ -8,7 +9,10 @@ class Unigram():
         self.basename = basename
         self.table = ProbTable(self.db.cursor, self.basename)
 
-    def get(self, key):
+    def log(self, key):
+        return -log(self.get(key))
+
+    def get(self, key, pos=None):
         """ key: single value tuple"""
         if isinstance(key, str):
             key = (key,)
@@ -23,76 +27,114 @@ class Bigram():
         self.backoff = backoff
         self.bigram_table = ProbTable(self.db.cursor, self.basename)
         self.unigram_table = ProbTable(self.db.cursor, self.basename + '_uni')
-        # marginal distribution
-        self.head_table = ProbTable(self.db.cursor, self.basename + '_headuni')
-        self.check()
-
-    def check(self):
-        assert(len(self.bigram_table.cols) == 3)
-        assert(len(self.head_table.cols) == 2)
-        assert(len(self.unigram_table.cols) == 2)
-
-    def get(self, key):
-        if len(key) == 2:
-            # bigram
-            val = self.bigram_table.get(key)
-            head = self.head_table.get(key[-1:])
-            if not val or head == 0:
-                return self.backoff*self.get(key[0:1])
-            else:
-                return val/head
-        elif len(key) == 1:
-            # unigram
-            val = self.unigram_table.get(key)
-            return val if val else 0
-
-class BigramDeprel():
-    def __init__(self, dbfile, basename, backoff=0.4):
-        self.db = ProbDatabase(dbfile)
-        self.basename = basename
-        self.backoff = backoff
-        self.bigram_table = ProbTable(self.db.cursor, self.basename)
-        self.unigram_table = ProbTable(self.db.cursor, self.basename + '_uni')
 
         # marginal distributions
-        self.head_table = ProbTable(self.db.cursor, self.basename + '_headuni')
-        self.deprel_table = ProbTable(self.db.cursor, 'onlydep_zero')
+        self.marg_table = ProbTable(self.db.cursor, self.basename + '_headuni')
 
     def check(self):
         assert(len(self.bigram_table.cols) == 3)
         assert(len(self.unigram_table.cols) == 2)
-        assert(len(self.head_table.cols) == 2)
-        assert(len(self.deprel_table.cols) == 2)
+        assert(len(self.marg_table.cols) == 2)
 
-    def get(self, key):
+    def log(self, key):
+        return -log(self.get(key))
+
+    def get(self, key, pos=None):
         if len(key) == 2:
             # bigram
             val = self.bigram_table.get(key)
-            head = self.head_table.get(key[1:2])
-            dep = self.deprel_table.get(key[2:])
-            if not val or head == 0 or dep == 0:
-                return self.backoff*self.get(key[0:1])
+            marg = self.marg_table.get(key[1:])
+            if not val or marg == 0:
+                return self.backoff*self.unigram(key[0:1])
             else:
-                return val/head/dep
-        elif len(key) == 1:
-            # unigram
-            val = self.unigram_table.get(key)
-            return val if val else 0
+                return val/marg
+    
+    def unigram(self, key):
+        val = self.unigram_table.get(key)
+        if not val:
+            raise ValueError('No estimated prob for %s' % str(key))
+        return val
+
+class BigramDeprel(Bigram):
+
+    def get(self, key, pos=None):
+        # bigram
+        val = self.bigram_table.get(key)
+        marg = self.marg_table.get(key[1:])
+        if not val or marg == 0:
+            return self.backoff*Bigram.unigram(self, key[0:1]+key[2:])
+        else:
+            return val/marg
 
 class Interpolation():
     def __init__(self, dbfile, basename):
         self.db = ProbDatabase(dbfile)
         self.basename = basename
 
-        self.bigram = ProbTable(self.db.cursor, self.basename)
-        self.unigram = ProbTable(self.db.cursor, self.basename + '_uni')
-        self.marg_head = ProbTable(self.db.cursor, self.basename + '_headuni')
+        self.bigram      = ProbTable(self.db.cursor, self.basename)
+        self.unigram     = ProbTable(self.db.cursor, self.basename + '_uni')
+        self.marg_head   = ProbTable(self.db.cursor, self.basename + '_headuni')
         self.marg_deprel = ProbTable(self.db.cursor, 'onlydep_zero')
-        self.bigramcat = ProbTable(self.db.cursor, 'nodep_zero')
-        self.unigramcat = ProbTable(self.db.cursor, 'nodep_zero_uni')
+        self.bigramcat   = ProbTable(self.db.cursor, 'nodep_zero')
+        self.unigramcat  = ProbTable(self.db.cursor, 'nodep_zero_uni')
 
+        self.delta = [0.4, 0.2, 0.3, 0.1]
 
-    def get(self, key):
-        pass
+    def check(self):
+        assert(len(self.bigram.cols) == 3)
+        assert(len(self.unigram.cols) == 2)
+        assert(len(self.marg_head.cols) == 2)
+        assert(len(self.marg_deprel.cols) == 2)
+        assert(len(self.bigramcat.cols) == 3)
+        assert(len(self.unigramcat.cols) == 2)
 
+    def log(self, bigram_key, pos_key):
+        return self.get(bigram_key, pos_key)
+    
+    def get(self, bigram_key, pos_key):
+        total = 0
+        
+        # bigram
+        val = self.bigram.get(bigram_key)
+        marg = self.marg_head.get(bigram_key[-1:])
+        total = total + self.delta[0] * val/marg if val else total
 
+        # unigram
+        val = self.unigram.get(bigram_key[0:1])
+        total = total + self.delta[1] * val if val else total
+
+        # bigram categories
+        val = self.bigramcat.get(pos_key)
+        marg = self.unigramcat.get(pos_key[-1:])
+        total = total + self.delta[2] * val/marg if val else total
+
+        # unigram categories
+        val = self.unigramcat.get(pos_key[0:1])
+        total = total + self.delta[3] * val if val else total
+            
+        return total
+    
+class InterpolationDeprel(Interpolation):
+
+    def get(self, bigram_key, pos_key):
+        total = 0
+        
+        # bigram
+        val = self.bigram.get(bigram_key)
+        marg = self.marg_head.get(bigram_key[1:])
+        total = total + self.delta[0] * val/marg if val else total
+
+        # unigram
+        val = self.unigram.get(bigram_key[0:1]+bigram_key[2:])
+        total = total + self.delta[1] * val if val else total
+
+        # bigram categories
+        val = self.bigramcat.get(pos_key[0:2])
+        marg = self.unigramcat.get(pos_key[1:2])
+        total = total + self.delta[2] * val/marg if val else total
+
+        # unigram categories
+        val = self.unigramcat.get(pos_key[0:1])
+        total = total + self.delta[3] * val if val else total
+            
+        return total
