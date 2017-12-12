@@ -215,17 +215,24 @@ def init(args):
     logging.info('Loading Probabilities')
     tablename = splitext(basename(args.probs))[0]
     if args.deprel:
-        probs = models.BigramDeprel(args.database, tablename)
-        # probs = models.InterpolationDeprel(args.database, tablename)
+        # probs = models.BigramDeprel(args.database, tablename)
+        probs = models.InterpolationDeprel(args.database, tablename)
     else:
-        probs = models.Bigram(args.database, tablename)
-        # probs = models.Interpolation(args.database, tablename)
+        # probs = models.Bigram(args.database, tablename)
+        probs = models.Interpolation(args.database, tablename)
     possdict = read_poss_dict(path=args.possdict)
     linearize = reverse_poss_dict(args.possdict)
     if args.dict == 'gf':
         wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
     elif args.dict == 'wn':
         wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
+    elif args.dict == 'clust':
+        with open('../data/possibility_dictionaries/wn_clust.tsv') as f:
+                ls = (l.strip().split('\t') for l in f)
+                wn2clust = defaultdict(lambda: None, ls)
+        wn2fun = defaultdict(lambda: None, 
+            {s.offset(): wn2clust[s.name()] if wn2clust[s.name()] else None for
+            s in wn.all_synsets()})
     logging.info('Initialization finished')
 
     return probs, possdict, linearize, wn2fun
@@ -238,7 +245,7 @@ if __name__ == "__main__":
         default='../data/possibility_dictionaries/wn/eng.txt'
     )
     parser.add_argument('--dict', '-d',
-        choices=['wn', 'gf'],
+        choices=['wn', 'clust', 'gf'],
         default='wn'
     )
     parser.add_argument('--deprel',
