@@ -9,13 +9,15 @@ class Unigram():
         self.basename = basename
         self.table = ProbTable(self.db.cursor, self.basename)
 
-    def log(self, key):
-        return -log(self.get(key))
+    def log(self, key, pos=None):
+        val = self.get(key)
+        return -log(val) if val != 0 else float('inf')
 
     def get(self, key, pos=None):
         """ key: single value tuple"""
         if isinstance(key, str):
             key = (key,)
+        key = key[0:1] # only unigram
         val = self.table.get(key)
         return val if val else 0
 
@@ -36,18 +38,18 @@ class Bigram():
         assert(len(self.unigram_table.cols) == 2)
         assert(len(self.marg_table.cols) == 2)
 
-    def log(self, key):
+    def log(self, key, pos=None):
         return -log(self.get(key))
 
     def get(self, key, pos=None):
-        if len(key) == 2:
-            # bigram
-            val = self.bigram_table.get(key)
-            marg = self.marg_table.get(key[1:])
-            if not val or marg == 0:
-                return self.backoff*self.unigram(key[0:1])
-            else:
-                return val/marg
+        # bigram
+        key = key[0:2]
+        val = self.bigram_table.get(key)
+        marg = self.marg_table.get(key[1:])
+        if not val or marg == 0:
+            return self.backoff*self.unigram(key[0:1])
+        else:
+            return val/marg
     
     def unigram(self, key):
         val = self.unigram_table.get(key)
@@ -58,7 +60,8 @@ class Bigram():
 class BigramDeprel(Bigram):
 
     def get(self, key, pos=None):
-        # bigram
+        # bigram with deprel
+        key = key[0:3]
         val = self.bigram_table.get(key)
         marg = self.marg_table.get(key[1:])
         if not val or marg == 0:
@@ -67,7 +70,7 @@ class BigramDeprel(Bigram):
             return val/marg
 
 class Interpolation():
-    def __init__(self, dbfile, basename):
+    def __init__(self, dbfile, basename, constant=[0.4, 0.2, 0.2, 0.2]):
         self.db = ProbDatabase(dbfile)
         self.basename = basename
 
@@ -78,15 +81,7 @@ class Interpolation():
         self.bigramcat   = ProbTable(self.db.cursor, 'nodep_zero')
         self.unigramcat  = ProbTable(self.db.cursor, 'nodep_zero_uni')
 
-        self.delta = [0.4, 0.2, 0.3, 0.1]
-
-    def check(self):
-        assert(len(self.bigram.cols) == 3)
-        assert(len(self.unigram.cols) == 2)
-        assert(len(self.marg_head.cols) == 2)
-        assert(len(self.marg_deprel.cols) == 2)
-        assert(len(self.bigramcat.cols) == 3)
-        assert(len(self.unigramcat.cols) == 2)
+        self.delta = constant
 
     def log(self, bigram_key, pos_key):
         return self.get(bigram_key, pos_key)
@@ -94,6 +89,9 @@ class Interpolation():
     def get(self, bigram_key, pos_key):
         total = 0
         
+        bigram_key = bigram_key[0:2]
+        pos_key = pos_key[0:2]
+
         # bigram
         val = self.bigram.get(bigram_key)
         marg = self.marg_head.get(bigram_key[-1:])
@@ -119,6 +117,9 @@ class InterpolationDeprel(Interpolation):
     def get(self, bigram_key, pos_key):
         total = 0
         
+        bigram_key = bigram_key[0:3]
+        pos_key = pos_key[0:3]
+
         # bigram
         val = self.bigram.get(bigram_key)
         marg = self.marg_head.get(bigram_key[1:])

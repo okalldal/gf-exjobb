@@ -108,9 +108,10 @@ if __name__ == '__main__':
         data = list(combine(semeval, udpipe))
 
 
-        ev = evaluation.Evaluation(args)
-
+        ev = evaluation.Evaluation(**args)
+"""
         for tree in data:
             funs = ev.annotate(tree, progress_bar=True, max_perm=args.num)
             if funs:
                 semev_output(LANG[args.lang], tree, funs)
+"""
