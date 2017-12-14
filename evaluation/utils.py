@@ -10,18 +10,43 @@ from os.path import splitext
 import subprocess
 import logging
 
+#CONLLU_FIELD_NAMES = ['ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL', 'DEPS', 'MISC']
+class UDNode:
+    def __init__(self, conllu_node_line):
+        field_values = conllu_node_line.lower().split('\t')
+        self.id = int(field_values[0]) - 1
+        self.form = field_values[1]
+        self.lemma = field_values[2]
+        self.upostag = field_values[3]
+        #self.xpostag = field_values[4]
+        #self.feats = field_values[5].split('|')
+        self.head = int(field_values[6]) - 1
+        self.deprel = field_values[7]
+        #self.deps = field_values[8]
+        #self.misc = field_values[9]
+
+    def is_root():
+        return self.upostag == 'root'
+
+    def __str__(self):
+        return 'UDNode ' + self.form + ' (' + str(self.head) + ')'
+
+    def __repr__(self):
+        return self.__str__()
+
+
 class Word:
     def __init__(self, lemma, UDPOS=''):
         self.is_root = lemma == 'ROOT'
         self.lemma = lemma.lower()
-        self.UDPOS = UDPOS.lower()
+        self.upostag = UDPOS.lower()
 
     def __repr__(self):
         if self.is_root:
             return 'ROOT'
         else:
             return (self.lemma +
-                ('_' + self.UDPOS if self.UDPOS else ''))
+                ('_' + self.upostag if self.upostag else ''))
 
     def __eq__(self, other):
         return self.__repr__() == other.__repr__()
@@ -79,7 +104,7 @@ def read_poss_dict(path):
         # format: 
         #    columnist \t NOUN \t columnistFem_N \t columnistMasc_N
         lines = (l.strip().split('\t') for l in f)
-        return defaultdict(lambda: [], {Word(l[0], l[1]): l[2:] for l in lines})
+        return defaultdict(lambda: [], {(l[0].lower(), l[1].lower()): l[2:] for l in lines})
 
 def reverse_poss_dict(poss_dict_path):
     out = dict()
@@ -88,9 +113,9 @@ def reverse_poss_dict(poss_dict_path):
         for c in lines:
             for fun in c[2:]:
                 if fun in out:
-                    out[fun].append(Word(c[0], c[1]))
+                    out[fun].append((c[0].lower(), c[1].lower()))
                 else:
-                    out[fun] = [Word(c[0], c[1])]
+                    out[fun] = [(c[0].lower(), c[1].lower())]
     return out
                 
 

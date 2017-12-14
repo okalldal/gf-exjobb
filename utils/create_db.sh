@@ -12,11 +12,11 @@ for f in $FILES; do
   cols='prob NUM, child TEXT'
   icols='child'
 
-  if [[ $name != *"uni"* ]]; then
+  if [[ $name != *"uni"* && $name != *"onlydep"* ]]; then
     cols="$cols, head TEXT"
     icols="$icols, head"
   fi
-  if [[ $name != *"nodep"* ]]; then
+  if [[ $name != *"nodep"* && $name != *"onlydep"* ]]; then
     cols="$cols, deprel TEXT"
     icols="$icols, deprel"
   fi
