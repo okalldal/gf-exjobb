@@ -102,10 +102,11 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
     top_success = 0
     random_success = 0
     prob_not_found = 0
+    unambig = 0
+
 
     data_error = 0
     parse_error = 0
-    unambig_error = 0
     lemma_error = 0
     overflow_error = 0
 
@@ -141,8 +142,7 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         
         if sum(len(possdict[l]) for l in linearize[fun]) == len(lemmas):
             # lemma not ambigiuous
-            unambig_error += 1
-            continue
+            unambig += 1
 
         bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
@@ -156,8 +156,7 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
             continue
 
         if len(poss_bigrams) <= 1:
-            unambig_error += 1
-            continue
+            unambig += 1
 
         # no errors
         no_error += 1
@@ -191,9 +190,10 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
                 random_success += 1
 
     print(('total: {}, no error: {}, success oracle: {}, success top: {}, success random: {}, ' 
-        'prob_not_found: {}, overflow error: {}, lemma error: {}, data error: {}, '
-        'unambig error: {}, parse error: {}')
-        .format(total, no_error, success, top_success, random_success, prob_not_found, 
+        'prob_not_found: {}, unambig: {}, overflow error: {}, lemma error: {}, data error: {}, '
+        'parse error: {}')
+        .format(total, no_error, success, top_success, random_success,
+            prob_not_found, unambig,
             overflow_error, lemma_error, data_error, unambig_error, parse_error))
 
 # ProbDictionary with same interface as the ProbDatabase
