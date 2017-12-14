@@ -1,0 +1,5980 @@
+abnorm	ADJ	abnormal.a.01
+absolut	ADJ	absolute.a.01
+abstrakt	ADJ	abstract.a.01
+acceptabel	ADJ	acceptable.a.01
+administrativ	ADJ	administrative.a.01
+aerodynamisk	ADJ	aerodynamic.a.01
+aggressiv	ADJ	aggressive.a.01
+agrikulturell	ADJ	agricultural.a.01
+akademisk	ADJ	academic.a.01
+aktiv	ADJ	active.a.05
+aktsam	ADJ	cautious.a.01
+aktuell	ADJ	current.a.01	topical.a.02
+akustisk	ADJ	acoustic.a.01
+akut	ADJ	acute.a.01
+alert	ADJ	alert.a.01
+allmän	ADJ	common.a.01	general.a.01
+allvarlig	ADJ	unplayful.a.01
+ambitiös	ADJ	ambitious.a.01
+andfådd	ADJ	out.a.01
+angenäm	ADJ	pleasant.a.01
+animerad	ADJ	animated.a.01
+annan	ADJ	other.a.01
+anonym	ADJ	anonymous.a.01
+anpasslig	ADJ	adaptable.a.01
+anständig	ADJ	respectable.a.01
+anstötlig	ADJ	offensive.a.05
+ansvarig	ADJ	responsible.a.01
+antiseptisk	ADJ	antiseptic.a.01
+apokalyptisk	ADJ	apocalyptic.a.02
+arbetslös	ADJ	unemployed.a.01
+arg	ADJ	angry.a.01
+arkeologisk	ADJ	archaeological.a.01
+artificiell	ADJ	artificial.a.01
+artig	ADJ	polite.a.01
+astigmatisk	ADJ	astigmatic.a.01
+autentisk	ADJ	genuine.a.01
+automatisk	ADJ	automatic.a.01
+avgörande	ADJ	decisive.a.01
+avig	ADJ	awkward.a.02
+avlägsen	ADJ	distant.a.01	far.a.01
+avsevärd	ADJ	considerable.a.01
+avsiktlig	ADJ	designed.a.01
+avspänd	ADJ	relaxed.a.01
+avtalsenlig	ADJ	contractual.a.01
+balanserad	ADJ	balanced.a.01
+bar	ADJ	bare.a.04
+barhuvad	ADJ	hatless.a.01
+barock	ADJ	baroque.a.02
+bebodd	ADJ	inhabited.a.01
+begärlig	ADJ	desirable.a.01
+begåvad	ADJ	talented.a.01
+bekant	ADJ	known.a.01
+bekväm	ADJ	comfortable.a.01	convenient.a.01
+beroende	ADJ	addicted.a.01
+berättigad	ADJ	authorized.a.01
+beskaffad	ADJ	established.a.01
+beskäftig	ADJ	obtrusive.a.01
+besluten	ADJ	solved.a.01
+besläktad	ADJ	related.a.01	related.a.02
+bestickande	ADJ	seductive.a.01
+bestämd	ADJ	definite.a.01	specified.a.01
+beständig	ADJ	constant.a.02
+besutten	ADJ	landed.a.01
+betydande	ADJ	significant.a.01
+bevingad	ADJ	winged.a.01
+billig	ADJ	cheap.a.01
+binär	ADJ	binary.a.01
+blind	ADJ	blind.a.01
+blodig	ADJ	bloody.a.01
+blommig	ADJ	flowery.a.01
+blond	ADJ	blond.a.01
+bokstavlig	ADJ	literal.a.03
+boren	ADJ	born.a.01
+borgerlig	ADJ	middle-class.a.01
+bortkastad	ADJ	atrophied.a.01
+bortrest	ADJ	away.a.02
+borttappad	ADJ	lost.a.01
+bosatt	ADJ	living.a.01	resident.a.01
+bostadsmässig	ADJ	residential.a.02
+brant	ADJ	steep.a.01
+buktig	ADJ	curved.a.01
+bullrig	ADJ	noisy.a.01
+burlesk	ADJ	burlesque.a.01
+byråkratisk	ADJ	bureaucratic.a.01
+bäst	ADJ	best.a.01
+böjlig	ADJ	flexible.a.02
+central	ADJ	central.a.02
+civil	ADJ	civilian.a.01
+defensiv	ADJ	defensive.a.01
+demokratisk	ADJ	democratic.a.01
+dermatologisk	ADJ	dermatologic.a.01
+destruktiv	ADJ	destructive.a.01
+diagnostisk	ADJ	diagnostic.a.01
+digital	ADJ	digital.a.01
+diplomatisk	ADJ	diplomatic.a.02
+direkt	ADJ	direct.a.01
+diskret	ADJ	discreet.a.01
+diskutabel	ADJ	questionable.a.01
+distinkt	ADJ	distinct.a.02
+djup	ADJ	deep.a.03
+djupsinnig	ADJ	profound.a.01
+djärv	ADJ	bold.a.01
+dokumentär	ADJ	documentary.a.01
+dominant	ADJ	dominant.a.01
+dramatisk	ADJ	dramatic.a.03
+duglig	ADJ	capable.a.01
+duktig	ADJ	able.a.01
+dum	ADJ	stupid.a.01
+dynamisk	ADJ	dynamic.a.01
+dyr	ADJ	expensive.a.01
+döv	ADJ	deaf.a.01
+effektiv	ADJ	effective.a.01	efficient.a.01
+egocentrisk	ADJ	egoistic.a.01
+ekonomisk	ADJ	economic.a.02
+elegant	ADJ	elegant.a.01
+elektronisk	ADJ	electronic.a.01	electronic.a.02
+elementär	ADJ	elementary.a.02
+empirisk	ADJ	empiric.a.01	empirical.a.01
+en	ADJ	first.a.01
+enastående	ADJ	extraordinary.a.01
+enfaldig	ADJ	foolish.a.01
+enhetlig	ADJ	uniform.a.01
+enig	ADJ	united.a.01
+entusiastisk	ADJ	enthusiastic.a.01
+envis	ADJ	stubborn.a.01
+episk	ADJ	epic.a.02
+erfaren	ADJ	experienced.a.01
+estetisk	ADJ	aesthetic.a.01	aesthetic.a.02
+etablerad	ADJ	established.a.01
+etisk	ADJ	ethical.a.02
+ettårig	ADJ	annual.a.01
+exekutiv	ADJ	executive.a.01
+exempellös	ADJ	unprecedented.a.01
+exklusiv	ADJ	exclusive.a.02
+expansiv	ADJ	expansive.a.01
+experimentell	ADJ	experimental.a.01
+explicit	ADJ	explicit.a.01
+explosiv	ADJ	explosive.a.01
+extern	ADJ	external.a.01
+facklig	ADJ	union.a.02
+falsk	ADJ	false.a.01
+familjär	ADJ	familiar.a.01	familiar.a.02
+farlig	ADJ	dangerous.a.01
+fasetterad	ADJ	faceted.a.01
+fashionabel	ADJ	stylish.a.01
+fast	ADJ	solid.a.02
+fatal	ADJ	unlucky.a.01
+fattig	ADJ	poor.a.03
+febrig	ADJ	febrile.a.01
+febril	ADJ	febrile.a.01
+federal	ADJ	federal.a.02	federal.a.04
+feg	ADJ	cowardly.a.01
+fel	ADJ	wrong.a.05
+fenomenal	ADJ	phenomenal.a.01
+feodal	ADJ	feudal.a.01
+fet	ADJ	fat.a.01
+fientlig	ADJ	hostile.a.01	hostile.a.02
+filosofisk	ADJ	philosophic.a.01
+fin	ADJ	fine.a.05
+finansiell	ADJ	fiscal.a.01
+fjärrstyrd	ADJ	unmanned.a.01
+formell	ADJ	formal.a.01	formal.a.03
+fossil	ADJ	fossil.a.01
+framfusig	ADJ	forward.a.01
+framträdande	ADJ	salient.a.02
+fredlig	ADJ	peaceful.a.01
+frekvent	ADJ	frequent.a.01
+fri	ADJ	free.a.01
+fridfull	ADJ	peaceful.a.01
+frikostig	ADJ	generous.a.02
+frireligiös	ADJ	nonconformist.a.01
+frisinnad	ADJ	liberal.a.03
+frisk	ADJ	well.a.01
+fristående	ADJ	detached.a.04
+frivillig	ADJ	voluntary.a.01	voluntary.a.02
+frusen	ADJ	frozen.a.01
+främre	ADJ	front.a.01
+frånvarande	ADJ	absent.a.01
+ful	ADJ	foul.a.04	ugly.a.01
+full	ADJ	full.a.01
+fullständig	ADJ	complete.a.01
+fullvärdig	ADJ	adequate.a.01
+fundamental	ADJ	basic.a.01
+funktionell	ADJ	functional.a.01
+fylld	ADJ	filled.a.02
+fyrkantig	ADJ	square.a.01
+fysiologisk	ADJ	physiological.a.01
+fysisk	ADJ	physical.a.01
+färdig	ADJ	finished.a.02	ready.a.01
+färgrik	ADJ	colorful.a.01
+färgstark	ADJ	colorful.a.02
+färsk	ADJ	fresh.a.01
+följande	ADJ	following.a.03
+föraktlig	ADJ	contemptible.a.01
+fördelaktig	ADJ	advantageous.a.01
+föregående	ADJ	preceding.a.01
+förenlig	ADJ	compatible.a.01	compatible.a.02	consistent.a.01
+förfallen	ADJ	due.a.01
+förfluten	ADJ	past.a.01
+förgänglig	ADJ	perishable.a.01
+förhistorisk	ADJ	prehistoric.a.02
+förklarlig	ADJ	explicable.a.01
+förnöjsam	ADJ	contented.a.01
+förorättad	ADJ	injured.a.01
+försiktig	ADJ	careful.a.01
+försupen	ADJ	alcoholic.a.01
+förtvivlad	ADJ	inconsolable.a.01
+förutfattad	ADJ	preconceived.a.01
+förutsägbar	ADJ	predictable.a.01
+förutsättningslös	ADJ	unprejudiced.a.01
+förväntad	ADJ	expected.a.01
+förvånad	ADJ	surprised.a.01
+förälderlig	ADJ	parental.a.02
+gammal	ADJ	old.a.01
+gemensam	ADJ	joint.a.01
+gemytlig	ADJ	genial.a.02
+genetisk	ADJ	genetic.a.04
+geologisk	ADJ	geological.a.01
+gift	ADJ	marital.a.01	married.a.01
+giftig	ADJ	toxic.a.01
+giltig	ADJ	valid.a.01
+gisten	ADJ	leaky.a.01
+glad	ADJ	glad.a.01
+gladlynt	ADJ	cheerful.a.01
+glupsk	ADJ	gluttonous.a.01
+god	ADJ	tasty.a.01
+godtrogen	ADJ	credulous.a.01
+godtycklig	ADJ	arbitrary.a.01
+gravid	ADJ	pregnant.a.01
+grund	ADJ	shallow.a.01	shallow.a.02
+grundläggande	ADJ	essential.a.02
+gynnsam	ADJ	favorable.a.01	propitious.a.01
+habil	ADJ	adroit.a.01
+halkig	ADJ	slippery.a.01
+halv	ADJ	half.a.03
+handgjord	ADJ	handmade.a.01
+handgriplig	ADJ	palpable.a.01
+hel	ADJ	whole.a.01
+helig	ADJ	holy.a.01
+heltäckande	ADJ	comprehensive.a.01
+hemlig	ADJ	concealed.a.02
+hemsk	ADJ	nasty.a.01
+heraldisk	ADJ	heraldic.a.02
+het	ADJ	hot.a.01	hot.a.03
+historisk	ADJ	historical.a.01
+hjälpsam	ADJ	helpful.a.01
+hjärtlös	ADJ	hardhearted.a.01
+homosexuell	ADJ	homosexual.a.01
+hopfällbar	ADJ	collapsible.a.01
+hoppfull	ADJ	encouraging.a.01
+humanitär	ADJ	humanitarian.a.02
+humoristisk	ADJ	humorous.a.01
+hungrig	ADJ	hungry.a.01
+huslig	ADJ	domestic.a.02
+hämmad	ADJ	inhibited.a.01
+hård	ADJ	hard.a.03	tough.a.01	tough.a.03
+hög	ADJ	high.a.01
+högerhänt	ADJ	right-handed.a.01
+högljudd	ADJ	loud.a.01
+hörbar	ADJ	audible.a.01
+hörselskadad	ADJ	hearing.a.01
+ideell	ADJ	ideal.a.03
+identisk	ADJ	identical.a.03
+ideologisk	ADJ	ideological.a.01
+ihärdig	ADJ	persistent.a.03
+ihålig	ADJ	hollow.a.01
+immun	ADJ	immune.a.01
+implicit	ADJ	implicit.a.01
+imponerande	ADJ	impressive.a.01
+impopulär	ADJ	unpopular.a.01
+improduktiv	ADJ	unproductive.a.01
+inbiten	ADJ	confirmed.a.02
+indirekt	ADJ	indirect.a.04
+industriell	ADJ	industrial.a.01	industrial.a.02
+inflytelserik	ADJ	influential.a.01
+informell	ADJ	informal.a.01	informal.a.03
+infödd	ADJ	native.a.02
+inhemsk	ADJ	domestic.a.01
+inkonsekvent	ADJ	inconsistent.a.01
+inomhus	ADJ	indoor.a.01
+inre	ADJ	inner.a.02	interior.a.01	internal.a.01
+inrutad	ADJ	structured.a.01
+inskränkt	ADJ	limited.a.01	narrow-minded.a.02	restricted.a.01
+integrerande	ADJ	integrated.a.03
+intelligent	ADJ	intelligent.a.01
+intensiv	ADJ	intense.a.01
+interaktiv	ADJ	synergistic.a.01
+internationell	ADJ	international.a.01
+intolerant	ADJ	intolerant.a.01
+intressant	ADJ	interesting.a.01
+intresserad	ADJ	interested.a.01
+invecklad	ADJ	complex.a.01
+ivrig	ADJ	eager.a.01
+iögonfallande	ADJ	conspicuous.a.01
+junior	ADJ	junior.a.01
+jämförbar	ADJ	comparable.a.01
+jämn	ADJ	even.a.01	even.a.03
+kal	ADJ	leafless.a.01
+kall	ADJ	cold.a.01	cold.a.02
+karakteristisk	ADJ	characteristic.a.01
+karcinogen	ADJ	carcinogenic.a.01
+katalytisk	ADJ	catalytic.a.01
+kejserlig	ADJ	imperial.a.01
+klar	ADJ	clear.a.11
+klassisk	ADJ	classical.a.01
+klok	ADJ	wise.a.01
+knapp	ADJ	scarce.a.01
+kommersiell	ADJ	commercial.a.01	commercial.a.02
+kommunal	ADJ	municipal.a.01
+kompakt	ADJ	compact.a.01
+kompetent	ADJ	competent.a.01
+konkav	ADJ	concave.a.01
+konkret	ADJ	concrete.a.01
+konservativ	ADJ	conservative.a.01
+konstnärlig	ADJ	artistic.a.01
+konstruktiv	ADJ	constructive.a.01
+kontinental	ADJ	continental.a.03
+kontinuerlig	ADJ	continual.a.01
+konventionell	ADJ	conventional.a.01
+konvex	ADJ	convex.a.01
+korporativ	ADJ	corporate.a.01
+korrekt	ADJ	accurate.a.01
+kort	ADJ	short.a.01	short.a.02
+kortkort	ADJ	mini.a.01
+kortsynt	ADJ	nearsighted.a.01
+kreativ	ADJ	creative.a.01
+kritisk	ADJ	critical.a.01	critical.a.06
+kronisk	ADJ	chronic.a.01
+kronologisk	ADJ	chronological.a.01
+krympfri	ADJ	unshrinkable.a.01
+kräsen	ADJ	fastidious.a.01
+kulturell	ADJ	cultural.a.01
+kvalificerad	ADJ	demanding.a.01	qualified.a.01
+kvantitativ	ADJ	quantitative.a.02
+kvinnlig	ADJ	womanly.a.01
+kysk	ADJ	chaste.a.01
+känslig	ADJ	sensitive.a.02
+känslomässig	ADJ	emotional.a.01
+labil	ADJ	unstable.a.01
+laddad	ADJ	charged.a.01
+lagd	ADJ	endowed.a.01
+laglig	ADJ	legal.a.01
+lagstadgad	ADJ	statutory.a.01
+lantlig	ADJ	rural.a.02
+ledsen	ADJ	sad.a.01
+legislativ	ADJ	legislative.a.01
+levande	ADJ	alive.a.01
+lidelsefull	ADJ	excited.a.02
+lik	ADJ	alike.a.01
+likvid	ADJ	liquid.a.01	melted.a.01
+linjär	ADJ	linear.a.02
+liten	ADJ	small.a.01
+litterär	ADJ	literary.a.01
+live	ADJ	live.a.01
+livlig	ADJ	lively.a.01
+ljus	ADJ	light.a.02	light.a.06
+logisk	ADJ	logical.a.01
+lojal	ADJ	loyal.a.01
+lyckad	ADJ	successful.a.01
+lycklig	ADJ	happy.a.01
+lyckosam	ADJ	lucky.a.02
+lydig	ADJ	obedient.a.01
+lynnig	ADJ	temperamental.a.01
+lysten	ADJ	desirous.a.01
+lämplig	ADJ	appropriate.a.01
+lärd	ADJ	conditioned.a.01
+lärorik	ADJ	instructive.a.01
+lätt	ADJ	easy.a.01	light.a.01
+låg	ADJ	low.a.02
+lång	ADJ	long.a.01	long.a.02	tall.a.01
+långsam	ADJ	slow.a.01
+lös	ADJ	loose.a.03
+magnetisk	ADJ	magnetic.a.01
+maktfullkomlig	ADJ	dictatorial.a.01
+maktlös	ADJ	powerless.a.01
+malplacerad	ADJ	inappropriate.a.01
+manlig	ADJ	male.a.01
+manuell	ADJ	manual.a.01	manual.a.02
+marin	ADJ	marine.a.01
+matematisk	ADJ	mathematical.a.01	numerical.a.03
+maximal	ADJ	maximal.a.01
+medborgerlig	ADJ	civic.a.01	civil.a.04
+medeltida	ADJ	medieval.a.01
+medgörlig	ADJ	cooperative.a.02
+medmänsklig	ADJ	brotherly.a.01
+medveten	ADJ	conscious.a.02	mindful.a.01
+mekanisk	ADJ	mechanical.a.01
+mellanliggande	ADJ	intermediate.a.01
+meningsfull	ADJ	meaningful.a.01
+meningslös	ADJ	meaningless.a.01
+menlös	ADJ	pointless.a.01
+metafysisk	ADJ	metaphysical.a.01
+mild	ADJ	mild.a.01
+militär	ADJ	military.a.01
+miljömässig	ADJ	environmental.a.01
+minimal	ADJ	minimal.a.01
+missbelåten	ADJ	displeased.a.01
+misslyckad	ADJ	unsuccessful.a.01
+mjuk	ADJ	soft.a.01	soft.a.03	soft.a.06
+modern	ADJ	modern.a.01
+modig	ADJ	brave.a.01
+mogen	ADJ	mature.a.03	ripe.a.01
+molekylär	ADJ	molecular.a.02
+motsatt	ADJ	opposite.a.02
+motstridig	ADJ	opposed.a.01
+multilateral	ADJ	multilateral.a.01
+multipel	ADJ	multiple.a.01
+muntlig	ADJ	oral.a.03	verbal.a.04
+musikalisk	ADJ	musical.a.02
+mäktig	ADJ	powerful.a.01
+mänsklig	ADJ	human.a.01
+målmedveten	ADJ	purposeful.a.01
+möjlig	ADJ	potential.a.01
+mör	ADJ	tender.a.05
+mörk	ADJ	dark.a.01
+nasal	ADJ	rhinal.a.01
+nationell	ADJ	national.a.01
+nedslående	ADJ	discouraging.a.01
+negativ	ADJ	negative.a.04	negative.a.05
+nere	ADJ	down.a.01
+nervös	ADJ	nervous.a.03
+neutral	ADJ	neutral.a.04
+nordlig	ADJ	north.a.01
+normal	ADJ	normal.a.01
+nukleär	ADJ	nuclear.a.01
+nuvarande	ADJ	present.a.01
+ny	ADJ	new.a.01	new.a.06
+nyfiken	ADJ	curious.a.02
+nyttig	ADJ	useful.a.01
+nära	ADJ	near.a.01
+närstående	ADJ	close.a.02
+närvarande	ADJ	present.a.02
+nödvändig	ADJ	necessary.a.01
+nöjd	ADJ	contented.a.01
+oantastlig	ADJ	inviolable.a.01
+oanträffbar	ADJ	unavailable.a.01
+oavbruten	ADJ	continuous.a.01
+obalanserad	ADJ	unbalanced.a.01
+obearbetad	ADJ	unrefined.a.01
+obegriplig	ADJ	unintelligible.a.01
+obegränsad	ADJ	unlimited.a.01
+obehaglig	ADJ	unpleasant.a.01
+obehärskad	ADJ	uncontrolled.a.01
+obehörig	ADJ	unauthorized.a.01
+obekväm	ADJ	uncomfortable.a.01
+obemannad	ADJ	unmanned.a.01
+oberäknelig	ADJ	unpredictable.a.01
+obestämd	ADJ	indefinite.a.01
+oblyg	ADJ	unashamed.a.01
+obotlig	ADJ	incurable.a.01
+odemokratisk	ADJ	undemocratic.a.01
+odödlig	ADJ	immortal.a.01
+oekonomisk	ADJ	wasteful.a.02
+oemotståndlig	ADJ	irresistible.a.01
+oersättlig	ADJ	irreplaceable.a.01
+ofelbar	ADJ	infallible.a.01
+offensiv	ADJ	offensive.a.02
+offentlig	ADJ	public.a.01
+officiell	ADJ	official.a.01
+ofrånkomlig	ADJ	inevitable.a.01
+ofullständig	ADJ	incomplete.a.01
+oförbätterlig	ADJ	incorrigible.a.01
+oförenlig	ADJ	incongruous.a.01
+oförglömlig	ADJ	unforgettable.a.01
+oförklarlig	ADJ	inexplicable.a.01
+oförlåtlig	ADJ	inexcusable.a.01
+oförsiktig	ADJ	incautious.a.01
+oförsonlig	ADJ	irreconcilable.a.01
+oförsynt	ADJ	inconsiderate.a.01
+ogenerad	ADJ	unconcerned.a.01
+ogenomtränglig	ADJ	impenetrable.a.01
+ogift	ADJ	unmarried.a.01
+ogiltig	ADJ	invalid.a.01
+ohämmad	ADJ	unrestrained.a.01
+oinskränkt	ADJ	unrestricted.a.01
+ointressant	ADJ	uninteresting.a.01
+ointresserad	ADJ	uninterested.a.01
+ojust	ADJ	unfair.a.01
+okristlig	ADJ	unchristian.a.01
+olaglig	ADJ	illegal.a.01
+olik	ADJ	unlike.a.01	unlike.a.02
+olycklig	ADJ	unfortunate.a.01
+olydig	ADJ	disobedient.a.01
+olöst	ADJ	unsolved.a.01
+omdömesgill	ADJ	discerning.a.01
+omedveten	ADJ	unaware.a.01
+omogen	ADJ	green.a.03
+omskriven	ADJ	much.a.01
+omstridd	ADJ	controversial.a.01
+omväxlande	ADJ	varied.a.01
+omärklig	ADJ	imperceptible.a.01
+omättlig	ADJ	insatiate.a.01
+omåttlig	ADJ	immoderate.a.01
+omöblerad	ADJ	unfurnished.a.01
+omöjlig	ADJ	impossible.a.01
+onödig	ADJ	unnecessary.a.01
+operationell	ADJ	operational.a.01
+opersonlig	ADJ	impersonal.a.01
+opportun	ADJ	opportune.a.01
+opraktisk	ADJ	impractical.a.01
+optimistisk	ADJ	optimistic.a.01
+opålitlig	ADJ	unreliable.a.02
+ordblind	ADJ	dyslexic.a.01
+ordinarie	ADJ	regular.a.01
+orealistisk	ADJ	unrealistic.a.01
+organisk	ADJ	organic.a.02
+orolig	ADJ	uneasy.a.01
+ortodox	ADJ	orthodox.a.02
+ortopedisk	ADJ	orthopedic.a.01
+orätt	ADJ	wrong.a.02
+orörlig	ADJ	immobile.a.01
+osannolik	ADJ	improbable.a.01	unlikely.a.02
+osjälvisk	ADJ	unselfish.a.01
+oskriven	ADJ	unwritten.a.01
+oskyldig	ADJ	innocent.a.01	pure.a.06
+osmaklig	ADJ	unappetizing.a.01
+osynlig	ADJ	inconspicuous.a.01	invisible.a.01
+osäker	ADJ	diffident.a.02
+otacksam	ADJ	ungrateful.a.01
+otidsenlig	ADJ	unfashionable.a.01
+otillfredsställande	ADJ	unsatisfactory.a.01
+otillräcklig	ADJ	inadequate.a.01	insufficient.a.01
+otillåtlig	ADJ	inadmissible.a.01
+otippad	ADJ	untipped.a.01
+otrolig	ADJ	incredible.a.01
+otänkbar	ADJ	unthinkable.a.01
+otålig	ADJ	impatient.a.01
+outtömlig	ADJ	inexhaustible.a.02
+ovan	ADJ	unaccustomed.a.01
+ovidkommande	ADJ	irrelevant.a.01
+oväntad	ADJ	unexpected.a.01
+oväsentlig	ADJ	inessential.a.01
+oändlig	ADJ	infinite.a.01	infinite.a.02
+oåterkallelig	ADJ	irrevocable.a.01
+oåtkomlig	ADJ	inaccessible.a.01
+parallell	ADJ	parallel.a.01
+passande	ADJ	proper.a.01
+passionerad	ADJ	passionate.a.01
+passiv	ADJ	passive.a.01
+patologisk	ADJ	pathological.a.01
+pedagogisk	ADJ	educational.a.01
+perenn	ADJ	perennial.a.01
+perfekt	ADJ	perfect.a.01
+perifer	ADJ	peripheral.a.01
+periodisk	ADJ	periodic.a.01
+permanent	ADJ	permanent.a.01
+personlig	ADJ	personal.a.01
+pessimistisk	ADJ	pessimistic.a.01
+planlös	ADJ	random.a.01	unplanned.a.01
+plump	ADJ	uncivil.a.01
+pluralistisk	ADJ	pluralistic.a.01
+plågsam	ADJ	painful.a.01
+plötslig	ADJ	sudden.a.01
+pneumatisk	ADJ	pneumatic.a.01
+polerad	ADJ	polished.a.01
+politisk	ADJ	political.a.01
+populär	ADJ	popular.a.01
+portabel	ADJ	portable.a.01
+porös	ADJ	porous.a.02
+positiv	ADJ	positive.a.04
+possessiv	ADJ	possessive.a.01
+potentiell	ADJ	potential.a.01
+pragmatisk	ADJ	pragmatic.a.02
+praktisk	ADJ	practical.a.01
+precis	ADJ	exact.a.01	precise.a.01
+presidentmässig	ADJ	presidential.a.01
+preventiv	ADJ	preventive.a.02
+primär	ADJ	primary.a.01
+privilegierad	ADJ	privileged.a.01
+produktiv	ADJ	generative.a.01
+professionell	ADJ	professional.a.04
+progressiv	ADJ	progressive.a.01
+proper	ADJ	tidy.a.01
+provinsiell	ADJ	provincial.a.01	provincial.a.02
+psykiatrisk	ADJ	psychiatric.a.01
+psykisk	ADJ	mental.a.02
+punktlig	ADJ	punctual.a.01
+på_deltid	ADJ	part-time.a.01
+på_heltid	ADJ	full-time.a.01
+påföljande	ADJ	subsequent.a.01
+pålitlig	ADJ	reliable.a.01
+påträngande	ADJ	assertive.a.01
+rabiat	ADJ	rabid.a.01
+radioaktiv	ADJ	radioactive.a.01
+rak	ADJ	straight.a.06
+rasmässig	ADJ	racial.a.02
+rationell	ADJ	rational.a.01	rational.a.03
+realistisk	ADJ	realistic.a.01	realistic.a.03
+redig	ADJ	plain.a.02	plain.a.03
+regional	ADJ	regional.a.01
+relativ	ADJ	relative.a.01
+relevant	ADJ	relevant.a.01
+religiös	ADJ	religious.a.02
+ren	ADJ	clean.a.01	pure.a.01
+representativ	ADJ	representative.a.02
+restriktiv	ADJ	restrictive.a.01
+retroaktiv	ADJ	retroactive.a.01
+retrospektiv	ADJ	retrospective.a.01
+revolutionär	ADJ	revolutionary.a.04
+rik	ADJ	rich.a.01
+rimlig	ADJ	reasonable.a.01
+romantisk	ADJ	romantic.a.01
+rund	ADJ	round.a.01
+rytmisk	ADJ	rhythmical.a.01
+rädd	ADJ	afraid.a.01
+räddhågad	ADJ	cowardly.a.01
+räntabel	ADJ	interest-bearing.a.01
+rät	ADJ	straight.a.08
+rätt	ADJ	correct.a.01
+rättmätig	ADJ	lawful.a.01
+rättslig	ADJ	judicial.a.02	judicial.a.03
+rättvis	ADJ	equitable.a.01
+rå	ADJ	raw.a.03
+rökig	ADJ	smoky.a.01
+rörande	ADJ	moving.a.02
+rörlig	ADJ	mobile.a.02
+sadistisk	ADJ	sadistic.a.01
+saftig	ADJ	juicy.a.01
+saklig	ADJ	objective.a.01
+sakral	ADJ	sacred.a.01
+salt	ADJ	salty.a.02
+sandig	ADJ	arenaceous.a.01
+sanitär	ADJ	sanitary.a.01
+sann	ADJ	true.a.01
+sannolik	ADJ	likely.a.01	probable.a.01
+sansad	ADJ	composed.a.01
+scenisk	ADJ	scenic.a.02
+sedesam	ADJ	modest.a.04
+sedvanlig	ADJ	usual.a.01
+sekundär	ADJ	secondary.a.01
+semantisk	ADJ	semantic.a.01
+senior	ADJ	senior.a.01
+separat	ADJ	separate.a.01
+servil	ADJ	servile.a.01
+sexuell	ADJ	sexual.a.01	sexual.a.02
+sinnlig	ADJ	carnal.a.02
+sista	ADJ	last.a.02
+sjuk	ADJ	ill.a.01
+självlärd	ADJ	autodidactic.a.01
+självständig	ADJ	independent.a.01
+skamsen	ADJ	ashamed.a.01
+skelögd	ADJ	cross-eyed.a.01
+skickad	ADJ	fitted.a.01
+skicklig	ADJ	skilled.a.01
+skiljaktig	ADJ	divergent.a.02
+skir	ADJ	ethereal.a.02
+skriftlig	ADJ	written.a.01
+skrovlig	ADJ	coarse.a.01	rough.a.01
+skrupelfri	ADJ	unscrupulous.a.01
+skrynkelfri	ADJ	creaseproof.a.01
+slarvig	ADJ	negligent.a.01
+sliskig	ADJ	sugary.a.01
+sliten	ADJ	worn.a.01
+sluten	ADJ	shut.a.01
+slutlig	ADJ	terminal.a.03	ultimate.a.01
+slät	ADJ	smooth.a.01
+slö	ADJ	dull.a.09
+smaklig	ADJ	appetizing.a.01
+smal	ADJ	thin.a.02
+smart	ADJ	smart.a.01
+smutsig	ADJ	dirty.a.01
+smärre	ADJ	minor.a.02
+snabb	ADJ	fast.a.03
+snuskig	ADJ	dirty.a.02
+snäll	ADJ	kind.a.01	nice.a.01
+snärjig	ADJ	tangled.a.01
+snäv	ADJ	tight.a.01
+snöplig	ADJ	inglorious.a.02
+social	ADJ	social.a.02
+socialistisk	ADJ	socialistic.a.01
+sofistikerad	ADJ	sophisticated.a.01
+solar	ADJ	solar.a.01
+solbränd	ADJ	tanned.a.02
+solid	ADJ	solid.a.03
+solkig	ADJ	dirty.a.01
+sovande	ADJ	asleep.a.01
+spak	ADJ	docile.a.01
+spastisk	ADJ	spastic.a.01
+spatial	ADJ	spatial.a.01
+spontan	ADJ	spontaneous.a.01
+sporadisk	ADJ	sporadic.a.01
+sportslig	ADJ	sporting.a.02
+spröd	ADJ	delicate.a.01
+spänd	ADJ	tense.a.01	tense.a.03
+spännande	ADJ	exciting.a.01
+stabil	ADJ	stable.a.01
+stadig	ADJ	steady.a.01
+standard	ADJ	standard.a.01
+stark	ADJ	potent.a.03
+statisk	ADJ	electrostatic.a.01
+statistisk	ADJ	statistical.a.01
+stel	ADJ	rigid.a.04
+stenig	ADJ	rough.a.09
+stillsam	ADJ	quiet.a.01
+stolt	ADJ	proud.a.01
+stor	ADJ	large.a.01
+stormig	ADJ	stormy.a.01
+strategisk	ADJ	strategic.a.01
+strikt	ADJ	nonindulgent.a.01
+strong	ADJ	forceful.a.01
+strukturell	ADJ	structural.a.02
+subjektiv	ADJ	immanent.a.01	subjective.a.01
+successiv	ADJ	gradual.a.01	gradual.a.02
+sund	ADJ	sound.a.03
+sur	ADJ	sour.a.02
+svag	ADJ	weak.a.01
+sval	ADJ	cool.a.01	cool.a.04
+svart	ADJ	black.a.01
+svulstig	ADJ	pompous.a.02
+svuren	ADJ	sworn.a.02
+svår	ADJ	difficult.a.01
+symmetrisk	ADJ	symmetrical.a.01
+sympatisk	ADJ	sympathetic.a.04
+synlig	ADJ	visible.a.01
+sysselsättningsmässig	ADJ	occupational.a.01
+systematisk	ADJ	systematic.a.01	taxonomic.a.01
+säker	ADJ	certain.a.02	safe.a.01
+sällskaplig	ADJ	gregarious.a.01	sociable.a.01
+sällsynt	ADJ	uncommon.a.01
+säregen	ADJ	strange.a.01
+säsongsmässig	ADJ	seasonal.a.01
+sårbar	ADJ	vulnerable.a.01
+söt	ADJ	sweet.a.01
+tacksam	ADJ	grateful.a.01
+taktlös	ADJ	tactless.a.01
+tandad	ADJ	toothed.a.01
+teknisk	ADJ	technical.a.01
+temporär	ADJ	impermanent.a.01
+terapeutisk	ADJ	therapeutic.a.02
+tidig	ADJ	early.a.01
+tilldragande	ADJ	attractive.a.01
+tillfredsställande	ADJ	satisfactory.a.01
+tillgänglig	ADJ	accessible.a.01	available.a.01
+tillmötesgående	ADJ	accommodating.a.01
+tillräcklig	ADJ	sufficient.a.01
+tillrådlig	ADJ	advisable.a.01
+tillvand	ADJ	dependent.a.01	dependent.a.03
+tillämpad	ADJ	applied.a.01
+tjock	ADJ	thick.a.01	thick.a.03
+tolerant	ADJ	tolerant.a.01
+tom	ADJ	empty.a.01
+torr	ADJ	dry.a.01
+totalitär	ADJ	totalitarian.a.02
+traditionell	ADJ	traditional.a.01
+tragisk	ADJ	tragic.a.02
+trasig	ADJ	broken.a.01
+traumatisk	ADJ	traumatic.a.01
+trogen	ADJ	faithful.a.03
+tropisk	ADJ	tropical.a.02
+trosviss	ADJ	confident.a.01
+trotsig	ADJ	defiant.a.01
+trovärdig	ADJ	trustworthy.a.01
+tråkig	ADJ	dull.a.01
+trång	ADJ	narrow.a.01
+trött	ADJ	tired.a.01
+tung	ADJ	heavy.a.01	major.a.02	major.a.07
+tungrodd	ADJ	unwieldy.a.01
+tvetydig	ADJ	equivocal.a.01
+tvärvetenskaplig	ADJ	interdisciplinary.a.01
+tydlig	ADJ	well-defined.a.02
+tyngdlös	ADJ	weightless.a.01
+typisk	ADJ	typical.a.01
+tyst	ADJ	quiet.a.02
+tävlingsmässig	ADJ	competitive.a.01
+tålmodig	ADJ	patient.a.01
+törstig	ADJ	thirsty.a.02
+udda	ADJ	odd.a.01
+undergiven	ADJ	submissive.a.01
+undfallande	ADJ	compliant.a.01
+uppenbar	ADJ	obvious.a.01
+upplyst	ADJ	enlightened.a.01
+upprymd	ADJ	elated.a.01
+upptagen	ADJ	busy.a.01
+urban	ADJ	urban.a.01
+ursprunglig	ADJ	original.a.03
+utdöd	ADJ	extinct.a.01	extinct.a.02
+utomhus	ADJ	outdoor.a.01
+utstuderad	ADJ	studied.a.01
+utvecklingsstörd	ADJ	retarded.a.01
+utvilad	ADJ	rested.a.01
+vacker	ADJ	beautiful.a.01
+vag	ADJ	undefined.a.01
+vaken	ADJ	awake.a.01
+valbar	ADJ	eligible.a.01
+valfri	ADJ	optional.a.01
+vanebildande	ADJ	addictive.a.01
+vanlig	ADJ	common.a.02	ordinary.a.01
+vanvördig	ADJ	disrespectful.a.01
+varm	ADJ	warm.a.01	warm.a.02
+vass	ADJ	sharp.a.09
+venerisk	ADJ	genital.a.01
+verklig	ADJ	real.a.01
+vertikal	ADJ	vertical.a.01
+vetenskaplig	ADJ	scientific.a.01	scientific.a.02
+vild	ADJ	wild.a.01	wild.a.02
+vilsam	ADJ	restful.a.01
+vilsen	ADJ	lost.a.03
+viril	ADJ	potent.a.04
+visuell	ADJ	ocular.a.02
+vit	ADJ	white.a.01	white.a.02
+väldoftande	ADJ	fragrant.a.01
+välkommen	ADJ	welcome.a.01
+välvd	ADJ	arched.a.01
+välvillig	ADJ	benevolent.a.01
+vänlig	ADJ	friendly.a.01
+vänster	ADJ	left.a.04
+vänsterhänt	ADJ	left-handed.a.01
+värdefull	ADJ	valuable.a.01
+värdelös	ADJ	useless.a.01
+värdig	ADJ	worthy.a.01
+världslig	ADJ	worldly.a.01
+västra	ADJ	west.a.01
+vågrät	ADJ	horizontal.a.01
+våldsam	ADJ	violent.a.01
+våt	ADJ	wet.a.01
+ymnig	ADJ	abundant.a.01
+yrkesmässig	ADJ	vocational.a.01
+yttre	ADJ	outer.a.01
+à_jour	ADJ	informed.a.01
+ädel	ADJ	noble.a.02	noble.a.03
+ärlig	ADJ	honest.a.01
+ärofull	ADJ	glorious.a.01
+ätbar	ADJ	edible.a.01
+ätlig	ADJ	edible.a.01
+årlig	ADJ	annual.a.01
+öm	ADJ	tender.a.01
+ömsesidig	ADJ	reciprocal.a.01
+öppen	ADJ	open.a.02	overt.a.01
+östlig	ADJ	east.a.01
+överkomlig	ADJ	surmountable.a.01
+överlagd	ADJ	premeditated.a.01
+överlägsen	ADJ	superior.a.01
+övernaturlig	ADJ	supernatural.a.01
+överraskande	ADJ	surprising.a.01
+angående	ADP	as_per_Prep	concerning_Prep
+anti	ADP	anti_Prep
+apropå	ADP	apropos_Prep
+av	ADP	of_Prep	off_Prep
+bakom	ADP	behind_Prep
+bland	ADP	amid_Prep	amidst_Prep	among_Prep	amongst_Prep
+bortom	ADP	beyond_Prep
+bredvid	ADP	alongside_Prep	beside_Prep	next_to_Prep
+circa	ADP	circa_Prep
+contra	ADP	contra_Prep
+cum	ADP	cum_Prep
+då	ADP	then_Prep
+efter	ADP	after_Prep	following_Prep
+emot	ADP	against_Prep
+enligt	ADP	according_to_Prep
+framför	ADP	ahead_of_Prep	in_front_of_Prep
+från	ADP	from_Prep
+frånvarande	ADP	absent_Prep
+för	ADP	for_Prep	on_behalf_of_Prep
+förbi	ADP	past_Prep
+före	ADP	before_Prep	prior_to_Prep
+genom	ADP	by_Prep	through_Prep	throughout_Prep
+gentemot	ADP	vis_a_vis_Prep
+gånger	ADP	times_Prep
+hos	ADP	apud_Prep	at_Prep	chez_Prep
+huruvida	ADP	whether_Prep
+i	ADP	in_Prep
+igen	ADP	re_Prep
+inklusive	ADP	including_Prep
+innanför	ADP	inside_Prep	inside_of_Prep
+inom	ADP	within_Prep
+jämte	ADP	besides_Prep	in_addition_to_Prep
+kring	ADP	around_Prep	round_Prep
+likt	ADP	like_Prep
+längs	ADP	along_Prep
+långtifrån	ADP	far_from_Prep
+med	ADP	with_Prep
+medan	ADP	whereas_Prep
+mellan	ADP	between_Prep
+minus	ADP	minus_Prep
+mittemot	ADP	opposite_Prep
+modulo	ADP	modulo_Prep
+mot	ADP	toward_Prep	towards_Prep	vs_Prep
+nedanför	ADP	below_Prep	beneath_Prep	underneath_Prep
+ner	ADP	down_Prep
+nära	ADP	close_to_Prep	near_Prep	near_to_Prep
+närmare	ADP	nearer_Prep
+närmast	ADP	nearest_Prep
+nästintill	ADP	next_Prep
+olikt	ADP	unlike_Prep
+om	ADP	about_Prep
+ombord	ADP	aboard_Prep
+ovanför	ADP	above_Prep
+ovanpå	ADP	on_top_of_Prep
+pace	ADP	pace_Prep
+per	ADP	as_of_Prep	per_Prep
+plus	ADP	plus_Prep
+post	ADP	post_Prep
+pro	ADP	pro_Prep
+på	ADP	on_Prep	onto_Prep	upon_Prep
+qua	ADP	qua_Prep
+sedan	ADP	ago_Prep	since_Prep
+som	ADP	as_Prep
+såsom	ADP	such_as_Prep
+till	ADP	to_Prep	unto_Prep
+trots	ADP	despite_Prep	in_spite_of_Prep	notwithstanding_Prep
+under	ADP	during_Prep	under_Prep
+upp	ADP	up_Prep
+ut	ADP	out_Prep
+utan	ADP	but_Prep	sans_Prep	without_Prep
+utanför	ADP	outside_Prep
+utifrån	ADP	out_from_Prep	outside_of_Prep
+utmed	ADP	outwith_Prep
+utom	ADP	except_Prep
+varken	ADP	neither_Prep
+versus	ADP	versus_Prep
+via	ADP	via_Prep
+vice	ADP	vice_Prep
+värt	ADP	worth_Prep
+än	ADP	than_Prep
+över	ADP	across_Prep	over_Prep
+&	CONJ	amp_Conj
+eller	CONJ	or_Conj
+förutom	CONJ	except_Conj
+men	CONJ	but_Conj
+och	CONJ	and_Conj	plus_Conj
+samt	CONJ	as_well_as_Conj
+all	DET	all_Predet
+annan	DET	another_Det
+annan	DET	another_Quant
+bara	DET	just_Predet	only_Predet
+båda	DET	both_Det	either_Det
+flera	DET	several_Det
+färre	DET	fewer_Det
+få	DET	few_Det
+ganska	DET	quite_Predet
+halva	DET	half_Predet
+ingen	DET	no_Quant
+lite	DET	little_Det	some_Det
+mera	DET	more_Quant
+mindre	DET	less_Det
+mycket	DET	much_Det
+många	DET	many_Det
+någon	DET	anySg_Det
+någon	DET	some_Quant
+några	DET	anyPl_Det
+sådan	DET	such_Predet
+tillräckligt	DET	enough_Predet
+varenda	DET	every_Det
+varje	DET	each_Det
+vilken	DET	which_IQuant
+ack	INTJ	alas_Interj
+adjö	INTJ	bye_Interj
+ah	INTJ	ah_Interj
+aj	INTJ	aye_Interj
+amen	INTJ	amen_Interj
+eh	INTJ	uh_Interj
+fan	INTJ	dammit_Interj	damn_Interj
+förlåt	INTJ	sorry_Interj
+hallå	INTJ	hello_Interj
+hej	INTJ	hi_Interj
+hejsan	INTJ	hey_Interj
+helvete	INTJ	hell_Interj
+ja	INTJ	yes_Interj
+nej	INTJ	nae_Interj	no_Interj	nope_Interj
+nåväl	INTJ	well_Interj
+okej	INTJ	ok_Interj	okay_Interj
+skål	INTJ	cheers_Interj
+tack	INTJ	thanks_Interj
+ursäkta	INTJ	excuse_me_Interj
+wow	INTJ	wow_Interj
+yes	INTJ	yeah_Interj
+å	INTJ	oh_Interj
+öh	INTJ	er_Interj
+Europa	NOUN	europe.n.01
+Mars	NOUN	mars.n.01
+PIN-kod	NOUN	identification.n.02
+TV	NOUN	broadcasting.n.02	receiver.n.01	system.n.01
+Venus	NOUN	venus.n.01
+abbedissa	NOUN	person.n.01
+abc	NOUN	law.n.03
+abc-bok	NOUN	book.n.01
+aber	NOUN	quality.n.01
+abort	NOUN	termination.n.05
+absorberande	NOUN	cognitive_state.n.01
+absorption	NOUN	natural_process.n.01
+accent	NOUN	speech.n.02
+accepterande	NOUN	aid.n.02
+accis	NOUN	tax.n.01
+aceton	NOUN	organic_compound.n.01
+acklamation	NOUN	approval.n.04
+ackord	NOUN	writing.n.04
+action	NOUN	writing.n.02
+addition	NOUN	procedure.n.01
+adoption	NOUN	proceeding.n.01
+adrenalin	NOUN	organic_compound.n.01
+adress	NOUN	geographic_point.n.01
+adressat	NOUN	person.n.01
+advokat	NOUN	professional.n.01
+advokatsamfund	NOUN	body.n.02
+afasi	NOUN	physical_condition.n.01
+affekt	NOUN	feeling.n.01
+affär	NOUN	agreement.n.01	place_of_business.n.01	state.n.02
+affärsman	NOUN	businessperson.n.01
+aforism	NOUN	speech.n.02
+agent	NOUN	negotiator.n.01	skilled_worker.n.01
+aggression	NOUN	action.n.01
+agronom	NOUN	expert.n.01
+aids	NOUN	disease.n.01
+akademi	NOUN	establishment.n.04
+akne	NOUN	disease.n.01
+akrobat	NOUN	contestant.n.01
+akt	NOUN	writing.n.02
+aktie	NOUN	legal_document.n.01
+aktiekapital	NOUN	assets.n.01
+aktieägare	NOUN	capitalist.n.02
+aktion	NOUN	group_action.n.01
+aktivist	NOUN	person.n.01
+aktivitet	NOUN	trait.n.01
+aktning	NOUN	attitude.n.01
+aktris	NOUN	actor.n.01
+aktualitet	NOUN	quality.n.01
+akupunktur	NOUN	care.n.01
+akustik	NOUN	science.n.01
+akvarium	NOUN	container.n.01
+aladåb	NOUN	nutriment.n.01
+alarm	NOUN	instrument.n.01
+albino	NOUN	person.n.01
+album	NOUN	book.n.02	medium.n.01
+alg	NOUN	organism.n.01
+alkohol	NOUN	drug_of_abuse.n.01
+alkoholist	NOUN	consumer.n.01
+alkov	NOUN	area.n.05
+allergi	NOUN	condition.n.01
+allmosa	NOUN	act.n.02
+allmänhet	NOUN	body.n.02
+allt_i_allo	NOUN	factotum.n.01
+allvar	NOUN	trait.n.01
+altan	NOUN	area.n.05
+altare	NOUN	furniture.n.01	structure.n.01
+alternativ	NOUN	decision_making.n.01
+altruist	NOUN	person.n.01
+aluminium	NOUN	chemical_element.n.01
+alumn	NOUN	intellectual.n.01
+amatör	NOUN	contestant.n.01	person.n.01
+ambassad	NOUN	building.n.01
+ambulans	NOUN	car.n.01
+amfetamin	NOUN	drug_of_abuse.n.01
+amulett	NOUN	object.n.01
+analfabet	NOUN	person.n.01
+analogi	NOUN	thinking.n.01
+analöppning	NOUN	structure.n.04
+anarki	NOUN	state.n.02
+anarkist	NOUN	person.n.01
+anda	NOUN	meaning.n.01
+ande	NOUN	belief.n.01
+andel	NOUN	act.n.02	assets.n.01
+andnöd	NOUN	evidence.n.01
+anekdot	NOUN	speech_act.n.01
+anförande	NOUN	speech_act.n.01
+angelägenhet	NOUN	interest.n.01
+anhalt	NOUN	act.n.02
+aning	NOUN	idea.n.01
+anis	NOUN	foodstuff.n.02
+anka	NOUN	vertebrate.n.01
+anklagelse	NOUN	statement.n.01
+anknytning	NOUN	relationship.n.03	telephone.n.01
+anledning	NOUN	explanation.n.01	physical_entity.n.01
+anmärkning	NOUN	basic_cognitive_process.n.01
+anor	NOUN	relation.n.01
+anorak	NOUN	clothing.n.01
+anorexi	NOUN	physical_condition.n.01
+ansamling	NOUN	process.n.06
+anseende	NOUN	status.n.01
+ansikte	NOUN	external_body_part.n.01
+ansiktsdrag	NOUN	body_part.n.01
+anslag	NOUN	assets.n.01	gift.n.01	statement.n.01
+anspråk	NOUN	activity.n.01
+ansträngning	NOUN	activity.n.01
+anstånd	NOUN	act.n.02
+ansvar	NOUN	condition.n.01	social_control.n.01
+ansökan	NOUN	request.n.01
+antagande	NOUN	statement.n.01
+antal	NOUN	amount.n.02
+anteckning	NOUN	text.n.01
+antihjälte	NOUN	antihero.n.01
+antikropp	NOUN	macromolecule.n.01
+antologi	NOUN	publication.n.01
+antropologi	NOUN	science.n.01
+användare	NOUN	person.n.01
+användning	NOUN	utility.n.02
+aorta	NOUN	structure.n.04
+apa	NOUN	primate.n.02
+apartheid	NOUN	thinking.n.01
+apati	NOUN	feeling.n.01	trait.n.01
+apelsin	NOUN	plant_organ.n.01	property.n.02
+aperitif	NOUN	drug_of_abuse.n.01
+apostel	NOUN	advocate.n.01
+apparat	NOUN	equipment.n.01
+appell	NOUN	request.n.01
+appendicit	NOUN	evidence.n.01
+appendix	NOUN	matter.n.06
+applåd	NOUN	approval.n.04
+apport	NOUN	action.n.01
+aptit	NOUN	feeling.n.01
+arbetare	NOUN	person.n.01	worker.n.01
+arbetarklass	NOUN	people.n.01
+arbete	NOUN	end_product.n.01	state.n.02
+arbetsbänk	NOUN	furniture.n.01
+arbetsförmedling	NOUN	place_of_business.n.01
+arbetsgivare	NOUN	leader.n.01
+arbetskraft	NOUN	work.n.01
+arbetsläger	NOUN	establishment.n.04
+arbetslöshet	NOUN	state.n.02
+arbetsplats	NOUN	geographic_point.n.01	workplace.n.01
+arbetsrum	NOUN	room.n.01
+area	NOUN	extent.n.02
+arena	NOUN	area.n.01
+argumentation	NOUN	speech.n.02	thinking.n.01
+aria	NOUN	music.n.01
+aristokrat	NOUN	leader.n.01
+arkeolog	NOUN	person.n.01
+arkeologi	NOUN	science.n.01
+arketyp	NOUN	representation.n.01
+arkitekt	NOUN	creator.n.02
+arkitektur	NOUN	humanistic_discipline.n.01
+arkiv	NOUN	facility.n.01	furniture.n.01	publication.n.01
+arm	NOUN	external_body_part.n.01
+armatur	NOUN	electrical_device.n.01
+armbåge	NOUN	body_part.n.01
+armhåla	NOUN	structure.n.04
+armod	NOUN	condition.n.01
+armé	NOUN	force.n.04
+arrangemang	NOUN	position.n.07
+arrendator	NOUN	person.n.01
+arrende	NOUN	property.n.01
+arrest	NOUN	activity.n.01	relationship.n.03
+arsel	NOUN	structure.n.04
+art	NOUN	taxonomic_group.n.01
+artighet	NOUN	action.n.01
+artikel	NOUN	nonfiction.n.01
+artist	NOUN	entertainer.n.01	performer.n.01
+arvinge	NOUN	person.n.01
+asbest	NOUN	material.n.01
+aska	NOUN	matter.n.03
+asket	NOUN	person.n.01
+aspekt	NOUN	feature.n.01
+assimilation	NOUN	process.n.06
+association	NOUN	basic_cognitive_process.n.01
+asterisk	NOUN	character.n.08
+astma	NOUN	disease.n.01
+astrologi	NOUN	idea.n.01
+astronaut	NOUN	traveler.n.01
+astronomi	NOUN	science.n.01
+asyl	NOUN	building.n.01	structure.n.01
+ateist	NOUN	person.n.01
+atlet	NOUN	contestant.n.01
+atmosfär	NOUN	fluid.n.02
+atom	NOUN	material.n.01	substance.n.01
+attack	NOUN	activity.n.01
+attest	NOUN	document.n.01
+attraktion	NOUN	appearance.n.01	quality.n.01	show.n.03
+auktion	NOUN	game.n.01	sale.n.02
+auktoritet	NOUN	expert.n.01	person.n.01
+avantgarde	NOUN	social_group.n.01
+avbrott	NOUN	time_interval.n.01
+avbön	NOUN	acknowledgment.n.03
+avdelning	NOUN	administrative_unit.n.01
+aveny	NOUN	road.n.01
+avfall	NOUN	material.n.01
+avgift	NOUN	charge.n.03	fixed_charge.n.01	request.n.02
+avgrund	NOUN	shape.n.02
+avgång	NOUN	speech_act.n.01	termination.n.05
+avhandling	NOUN	writing.n.02
+avkastning	NOUN	food.n.02
+avkomma	NOUN	animal.n.01	relative.n.01
+avkoppling	NOUN	feeling.n.01
+avlopp	NOUN	way.n.06
+avlyssning	NOUN	investigation.n.02
+avnämare	NOUN	customer.n.01
+avresa	NOUN	act.n.02
+avrättning	NOUN	social_control.n.01
+avsikt	NOUN	choice.n.02	goal.n.01
+avsked	NOUN	act.n.02	speech_act.n.01
+avskedsansökan	NOUN	document.n.01
+avskräde	NOUN	material.n.01
+avslag	NOUN	act.n.02
+avslutning	NOUN	happening.n.01	section.n.01
+avsmak	NOUN	feeling.n.01
+avsnitt	NOUN	broadcast.n.02
+avstånd	NOUN	spacing.n.02
+avtal	NOUN	written_agreement.n.01
+avtalsförhandling	NOUN	speech.n.02
+avundsjuka	NOUN	emotion.n.01
+avvikelse	NOUN	change.n.03
+axel	NOUN	body_part.n.01	mechanism.n.05
+ayatolla	NOUN	leader.n.01
+azalea	NOUN	vascular_plant.n.01
+baby	NOUN	child.n.02
+back	NOUN	change.n.03
+bacon	NOUN	food.n.02
+baddräkt	NOUN	clothing.n.01
+badkar	NOUN	container.n.01
+badminton	NOUN	athletic_game.n.01
+badrum	NOUN	room.n.01
+bag	NOUN	container.n.01
+bageri	NOUN	shop.n.01
+bajonett	NOUN	weapon.n.01
+bakgrund	NOUN	attribute.n.02	environment.n.01	view.n.02
+baksida	NOUN	side.n.05
+bakterie	NOUN	organism.n.01
+bal	NOUN	gathering.n.01
+balans	NOUN	placement.n.01
+balett	NOUN	music.n.01	performing_arts.n.01
+balkong	NOUN	structure.n.01
+ballerina	NOUN	performer.n.01
+ballong	NOUN	artifact.n.01	craft.n.02
+bana	NOUN	facility.n.01	line.n.11
+banan	NOUN	plant_organ.n.01	vascular_plant.n.01
+band	NOUN	artifact.n.01	decoration.n.01	organization.n.01
+bandit	NOUN	person.n.01
+baneman	NOUN	person.n.01
+baner	NOUN	decoration.n.01
+bank	NOUN	geological_formation.n.01	institution.n.01
+bankett	NOUN	gathering.n.01
+bankrutt	NOUN	unfortunate.n.01
+bar	NOUN	room.n.01
+bark	NOUN	covering.n.01
+barn	NOUN	offspring.n.01
+barnbarn	NOUN	offspring.n.01
+barndom	NOUN	state.n.02	time_of_life.n.01
+barnflicka	NOUN	defender.n.01
+barnmorska	NOUN	health_professional.n.01
+barnvagn	NOUN	wheeled_vehicle.n.01
+barnvakt	NOUN	defender.n.01
+barock	NOUN	property.n.02
+barometer	NOUN	instrument.n.01
+bas	NOUN	figure.n.06
+baseboll	NOUN	outdoor_game.n.01
+basker	NOUN	clothing.n.01
+basketboll	NOUN	athletic_game.n.01
+bastu	NOUN	room.n.01
+batik	NOUN	fabric.n.01
+batong	NOUN	implement.n.01
+batteri	NOUN	electrical_device.n.01
+bautasten	NOUN	structure.n.01
+bazooka	NOUN	instrumentality.n.03
+beatnik	NOUN	person.n.01
+bebyggelse	NOUN	district.n.01
+bedragare	NOUN	person.n.01
+bedrägeri	NOUN	wrongdoing.n.02
+bedömning	NOUN	act.n.02	classification.n.03
+bedövning	NOUN	cognitive_state.n.01
+befallning	NOUN	speech_act.n.01
+befolkning	NOUN	people.n.01
+befordran	NOUN	change.n.03
+befruktning	NOUN	sexual_activity.n.01
+begonia	NOUN	vascular_plant.n.01
+begravning	NOUN	affair.n.03
+begrepp	NOUN	concept.n.01	idea.n.01
+begränsning	NOUN	concept.n.01	extremity.n.04	quality.n.01	relationship.n.03
+begär	NOUN	feeling.n.01
+begäran	NOUN	message.n.02
+behandling	NOUN	management.n.01
+behaviorism	NOUN	science.n.01
+behov	NOUN	condition.n.01
+behärskning	NOUN	concept.n.01	trait.n.01
+behållare	NOUN	container.n.01
+bekant	NOUN	relationship.n.03
+bekantskap	NOUN	information.n.02
+bekvämlighet	NOUN	condition.n.01	device.n.01
+bekymmer	NOUN	emotion.n.01
+belastning	NOUN	psychological_state.n.01
+belopp	NOUN	sum.n.01
+belägenhet	NOUN	activity.n.01	object.n.01
+belägg	NOUN	information.n.02
+belägring	NOUN	military_action.n.01
+belåning	NOUN	assets.n.01
+belåtenhet	NOUN	feeling.n.01
+belöning	NOUN	gift.n.01	message.n.02
+ben	NOUN	body_part.n.01	food.n.02	support.n.10
+bensin	NOUN	organic_compound.n.01
+benådning	NOUN	legal_document.n.01
+beredskap	NOUN	state.n.02
+berg	NOUN	geological_formation.n.01
+bergskedja	NOUN	geological_formation.n.01
+beroende	NOUN	physical_condition.n.01
+beräkning	NOUN	problem_solving.n.02	thinking.n.01
+berättelse	NOUN	message.n.02
+berättigande	NOUN	information.n.02
+beröm	NOUN	approval.n.04
+berömmelse	NOUN	status.n.01
+beröring	NOUN	faculty.n.01
+beskydd	NOUN	activity.n.01
+beslut	NOUN	decision.n.01
+bestickning	NOUN	transgression.n.01
+bestraffning	NOUN	social_control.n.01
+beställning	NOUN	request.n.02
+bestämmelse	NOUN	activity.n.01	direction.n.06
+beståndsdel	NOUN	part.n.02
+besvikelse	NOUN	act.n.02	feeling.n.01
+besvär	NOUN	work.n.01
+besättning	NOUN	unit.n.03
+besök	NOUN	assembly.n.06
+besökare	NOUN	traveler.n.01
+betalning	NOUN	commerce.n.01
+bete	NOUN	tract.n.01
+beteende	NOUN	activity.n.01
+betesmark	NOUN	tract.n.01
+betong	NOUN	artifact.n.01
+betraktelse	NOUN	statement.n.01
+bett	NOUN	ill_health.n.01
+bettleri	NOUN	request.n.02
+betydelse	NOUN	meaning.n.01
+betyg	NOUN	evaluation.n.02
+betäckning	NOUN	covering.n.02
+betänklighet	NOUN	trait.n.01
+beundran	NOUN	feeling.n.01
+bevakning	NOUN	news.n.02
+bevarande	NOUN	activity.n.01	condition.n.01
+bevis	NOUN	evidence.n.01	evidence.n.02
+bi	NOUN	animal.n.01	gathering.n.01
+bibel	NOUN	book.n.01	writing.n.02
+bibliofil	NOUN	intellectual.n.01
+bibliografi	NOUN	list.n.01
+bibliotek	NOUN	building.n.01
+bibliotekarie	NOUN	professional.n.01
+bidrag	NOUN	good.n.03	message.n.02
+bidé	NOUN	container.n.01
+biennal	NOUN	plant.n.02
+biff	NOUN	food.n.02
+bikarbonat	NOUN	compound.n.02
+bikini	NOUN	clothing.n.01
+bil	NOUN	motor_vehicle.n.01
+bilaga	NOUN	component.n.03
+bilbälte	NOUN	restraint.n.06
+bild	NOUN	representation.n.01	representation.n.02
+bildning	NOUN	content.n.05	state.n.02
+bildspråk	NOUN	basic_cognitive_process.n.01
+bilism	NOUN	travel.n.01
+bilist	NOUN	causal_agent.n.01
+biljett	NOUN	commercial_document.n.01
+bindestreck	NOUN	punctuation.n.02
+bingo	NOUN	game.n.01
+biograf	NOUN	building.n.01	show.n.03
+biografi	NOUN	history.n.02
+biolog	NOUN	person.n.01
+biologi	NOUN	collection.n.01
+bisittare	NOUN	skilled_worker.n.01
+biskop	NOUN	status.n.01
+bistro	NOUN	restaurant.n.01
+bistånd	NOUN	gift.n.01
+bit	NOUN	part.n.02
+bjälke	NOUN	support.n.10
+björn	NOUN	capitalist.n.02	carnivore.n.01
+björntjänst	NOUN	wrongdoing.n.02
+blad	NOUN	paper.n.01	plant_organ.n.01	tool.n.01
+blaj	NOUN	speech.n.02
+blandning	NOUN	happening.n.01
+blankett	NOUN	document.n.01
+blazer	NOUN	clothing.n.01
+bleck	NOUN	artifact.n.01
+blekansikte	NOUN	paleface.n.01
+blick	NOUN	activity.n.01
+blickfång	NOUN	content.n.05
+blindtarm	NOUN	body_part.n.01
+blixt	NOUN	atmospheric_phenomenon.n.01	device.n.01	equipment.n.01	signal.n.01
+block	NOUN	book.n.02	shape.n.02
+blockhus	NOUN	structure.n.01
+blod	NOUN	substance.n.01
+blodbad	NOUN	termination.n.05
+blodhund	NOUN	carnivore.n.01
+blodsugare	NOUN	animal.n.01
+blodsutgjutelse	NOUN	termination.n.05
+blomma	NOUN	vascular_plant.n.01
+blus	NOUN	clothing.n.01
+bly	NOUN	chemical_element.n.01
+blyerts	NOUN	chemical_element.n.01
+blåhet	NOUN	property.n.02
+blåmärke	NOUN	ill_health.n.01
+blåskatarr	NOUN	disease.n.01
+blödarsjuka	NOUN	ill_health.n.01
+blöja	NOUN	clothing.n.01
+bo	NOUN	natural_object.n.01
+boende	NOUN	structure.n.01
+bofink	NOUN	vertebrate.n.01
+bojkott	NOUN	group_action.n.01
+bok	NOUN	product.n.02	publication.n.01
+bokföring	NOUN	occupation.n.01
+bokhandel	NOUN	shop.n.01
+bokhylla	NOUN	furniture.n.01
+bokmärke	NOUN	artifact.n.01
+bokslut	NOUN	commercial_document.n.01
+bokstav	NOUN	character.n.08	written_symbol.n.01
+bokstöd	NOUN	support.n.10
+boll	NOUN	game_equipment.n.01
+bolmört	NOUN	henbane.n.01
+bom	NOUN	support.n.10
+bomb	NOUN	device.n.01
+bombare	NOUN	person.n.01
+bombplan	NOUN	craft.n.02
+bomull	NOUN	fabric.n.01
+bonde	NOUN	creator.n.02	worker.n.01
+boning	NOUN	environment.n.02
+boom	NOUN	condition.n.01
+bord	NOUN	furniture.n.01
+bordell	NOUN	building.n.01
+borgen	NOUN	plan_of_action.n.01	transferred_property.n.01
+borgenär	NOUN	person.n.01
+borgmästare	NOUN	leader.n.01
+borr	NOUN	tool.n.01
+borste	NOUN	implement.n.01
+bortgång	NOUN	change.n.01
+boskap	NOUN	placental.n.01
+bosättning	NOUN	body.n.02
+botemedel	NOUN	medicine.n.02
+botten	NOUN	side.n.04
+boulevard	NOUN	road.n.01
+box	NOUN	container.n.01
+bracka	NOUN	person.n.01
+brandfackla	NOUN	device.n.01
+brandman	NOUN	defender.n.01
+bredd	NOUN	magnitude.n.01
+brev	NOUN	text.n.01
+brevbärare	NOUN	worker.n.01
+bricka	NOUN	container.n.01
+brigad	NOUN	military_unit.n.01
+briljans	NOUN	ability.n.02
+brillor	NOUN	instrument.n.01
+bringa	NOUN	food.n.02
+bris	NOUN	weather.n.01
+brist	NOUN	amount.n.02	need.n.01
+bro	NOUN	structure.n.01
+broccoli	NOUN	food.n.02	vascular_plant.n.01
+broder	NOUN	person.n.01
+broms	NOUN	restraint.n.06
+bronkit	NOUN	disease.n.01
+brons	NOUN	figure.n.06
+bror	NOUN	relative.n.01
+brorson	NOUN	relative.n.01
+brosch	NOUN	decoration.n.01
+broschyr	NOUN	book.n.01	writing.n.02
+brosk	NOUN	body_part.n.01
+brott	NOUN	ill_health.n.01	transgression.n.01
+brottare	NOUN	person.n.01
+brottslighet	NOUN	condition.n.01
+brottsling	NOUN	person.n.01
+brud	NOUN	associate.n.01
+brunch	NOUN	meal.n.01
+brunn	NOUN	artifact.n.01
+brus	NOUN	quality.n.01
+bryderi	NOUN	feeling.n.01
+brygd	NOUN	drug_of_abuse.n.01
+bryggare	NOUN	implement.n.01
+bryggeri	NOUN	structure.n.01
+bryne	NOUN	artifact.n.01
+bräckjärn	NOUN	implement.n.01
+bräda	NOUN	artifact.n.01
+bräde	NOUN	surface.n.01
+brännskada	NOUN	ill_health.n.01
+brännvin	NOUN	drug_of_abuse.n.01
+bränsle	NOUN	substance.n.07
+bråck	NOUN	ill_health.n.01
+brådska	NOUN	condition.n.01
+bråkdel	NOUN	number.n.02
+bråkmakare	NOUN	person.n.01
+bröd	NOUN	foodstuff.n.02
+bröllop	NOUN	affair.n.03
+bröst	NOUN	body_part.n.01	organ.n.01
+bröstsim	NOUN	motion.n.06
+bubbla	NOUN	shape.n.02
+bud	NOUN	statement.n.01
+budget	NOUN	medium_of_exchange.n.01	plan.n.01
+buffé	NOUN	meal.n.01
+bukspottkörtel	NOUN	organ.n.01
+bukt	NOUN	body_of_water.n.01
+bulldogg	NOUN	carnivore.n.01
+bulle	NOUN	foodstuff.n.02
+bulletin	NOUN	news.n.02
+bult	NOUN	fastener.n.02
+bumling	NOUN	natural_object.n.01
+bundsförvant	NOUN	associate.n.01	state.n.04
+bungalow	NOUN	house.n.01
+bur	NOUN	area.n.05
+burk	NOUN	container.n.01
+buske	NOUN	vascular_plant.n.01
+buss	NOUN	conveyance.n.03
+butik	NOUN	mercantile_establishment.n.01
+by	NOUN	gathering.n.01
+bybo	NOUN	person.n.01
+byggnad	NOUN	structure.n.01
+bylte	NOUN	container.n.01
+byråkrati	NOUN	organization.n.01
+byrålåda	NOUN	container.n.01
+byte	NOUN	animal.n.01	group_action.n.01	transferred_property.n.01
+byxor	NOUN	clothing.n.01
+bäck	NOUN	body_of_water.n.01
+bädd	NOUN	tract.n.01
+bälg	NOUN	device.n.01
+bänk	NOUN	furniture.n.01
+bär	NOUN	plant_organ.n.01
+bärare	NOUN	user.n.01	worker.n.01
+bärsärkagång	NOUN	person.n.01
+bättring	NOUN	bodily_process.n.01
+båge	NOUN	weapon.n.01
+bågfil	NOUN	tool.n.01
+bål	NOUN	drug_of_abuse.n.01
+bås	NOUN	room.n.01
+båt	NOUN	vessel.n.02
+båtsman	NOUN	skilled_worker.n.01
+böjelse	NOUN	feeling.n.01
+böjning	NOUN	shape.n.02
+bölja	NOUN	movement.n.03
+bön	NOUN	activity.n.01
+böna	NOUN	food.n.02
+börd	NOUN	geological_formation.n.01	movement.n.03
+börda	NOUN	artifact.n.01
+början	NOUN	part.n.09	point.n.06
+böter	NOUN	legal_document.n.01
+camping	NOUN	act.n.02
+cancer	NOUN	disease.n.01
+cappuccino	NOUN	beverage.n.01
+cell	NOUN	living_thing.n.01	room.n.01
+cellgift	NOUN	substance.n.07
+cellist	NOUN	performer.n.01
+cellofan	NOUN	covering.n.02
+cellulosa	NOUN	macromolecule.n.01
+censur	NOUN	activity.n.01	change.n.03
+census	NOUN	investigation.n.02
+centiliter	NOUN	metric_unit.n.01
+centimeter	NOUN	metric_linear_unit.n.01
+centrifug	NOUN	equipment.n.01
+centrum	NOUN	building.n.01
+cerat	NOUN	cerate.n.01
+ceremoni	NOUN	affair.n.03
+champagne	NOUN	drug_of_abuse.n.01
+champinjon	NOUN	organism.n.01
+charkuteri	NOUN	shop.n.01
+charlatan	NOUN	person.n.01
+chauvinist	NOUN	advocate.n.01
+check	NOUN	legal_document.n.01
+chef	NOUN	head.n.04	leader.n.01
+chips	NOUN	device.n.01	nutriment.n.01
+chock	NOUN	feeling.n.01
+choklad	NOUN	food.n.02
+cider	NOUN	beverage.n.01
+cigarett	NOUN	drug_of_abuse.n.01
+cigarr	NOUN	drug_of_abuse.n.01
+cirkel	NOUN	figure.n.06
+cirkulation	NOUN	natural_phenomenon.n.01
+citat	NOUN	section.n.01
+citron	NOUN	artifact.n.01	plant_organ.n.01
+civilisation	NOUN	social_group.n.01
+civilist	NOUN	person.n.01
+college	NOUN	educational_institution.n.01
+collie	NOUN	carnivore.n.01
+consensus	NOUN	state.n.02
+copywriter	NOUN	worker.n.01
+credo	NOUN	belief.n.01
+croissant	NOUN	foodstuff.n.02
+curry	NOUN	nutriment.n.01
+cykel	NOUN	happening.n.01
+cyklist	NOUN	traveler.n.01
+cylinder	NOUN	shape.n.02
+cyniker	NOUN	person.n.01
+cynism	NOUN	feeling.n.01
+dadel	NOUN	plant_organ.n.01
+dag	NOUN	time_unit.n.01
+dagbrott	NOUN	artifact.n.01
+dagdrivare	NOUN	person.n.01
+daggmask	NOUN	animal.n.01
+dagordning	NOUN	list.n.01	plan.n.01
+dagsljus	NOUN	physical_phenomenon.n.01
+dagslända	NOUN	animal.n.01
+dagstidning	NOUN	medium.n.01
+dagtid	NOUN	time_period.n.01
+dal	NOUN	geological_formation.n.01
+dam	NOUN	woman.n.01
+damm	NOUN	material.n.01
+dart	NOUN	game.n.01
+datalogi	NOUN	discipline.n.01
+dator	NOUN	machine.n.01
+datum	NOUN	day.n.01
+deadline	NOUN	point.n.06
+debatt	NOUN	speech_act.n.01
+debet	NOUN	communication.n.02
+decennium	NOUN	time_period.n.01
+decibel	NOUN	unit_of_measurement.n.01
+deciliter	NOUN	metric_unit.n.01
+decimeter	NOUN	metric_linear_unit.n.01
+defensiv	NOUN	attitude.n.01
+definition	NOUN	explanation.n.01	quality.n.01
+deg	NOUN	foodstuff.n.02
+deklaration	NOUN	statement.n.01
+dekor	NOUN	decoration.n.01
+del	NOUN	part.n.02	relation.n.01
+delegat	NOUN	negotiator.n.01
+delfin	NOUN	placental.n.01	vertebrate.n.01
+deltagare	NOUN	associate.n.01
+demagog	NOUN	leader.n.01
+demokrat	NOUN	advocate.n.01
+demokrati	NOUN	social_group.n.01
+demonstrant	NOUN	person.n.01
+demonstration	NOUN	group_action.n.01	visual_communication.n.01
+densitet	NOUN	property.n.02
+deodorant	NOUN	instrumentality.n.03
+departement	NOUN	department.n.01
+depression	NOUN	condition.n.01	physical_condition.n.01
+design	NOUN	drawing.n.02
+designer	NOUN	expert.n.01
+desinformation	NOUN	information.n.01
+despot	NOUN	person.n.01
+destination	NOUN	extremity.n.04
+detalj	NOUN	part.n.01
+detaljhandel	NOUN	selling.n.01
+detektiv	NOUN	defender.n.01	expert.n.01
+diabetiker	NOUN	unfortunate.n.01
+diagnos	NOUN	act.n.02
+diagram	NOUN	drawing.n.02	visual_communication.n.01
+dialekt	NOUN	speech.n.02
+dialog	NOUN	speech.n.02	writing.n.02
+diamant	NOUN	decoration.n.01
+diameter	NOUN	physical_property.n.01	shape.n.02
+diarré	NOUN	evidence.n.01
+diesel	NOUN	machine.n.01
+diet	NOUN	activity.n.01
+differens	NOUN	number.n.02
+difteri	NOUN	disease.n.01
+dike	NOUN	artifact.n.01
+dikt	NOUN	writing.n.02
+dilemma	NOUN	cognitive_state.n.01
+dimension	NOUN	magnitude.n.01
+dimma	NOUN	physical_phenomenon.n.01
+diplomat	NOUN	negotiator.n.01	skilled_worker.n.01
+dirigent	NOUN	artist.n.01
+disk	NOUN	furniture.n.01
+diskett	NOUN	memory_device.n.01
+diskotek	NOUN	room.n.01
+diskriminering	NOUN	social_control.n.01
+diskussion	NOUN	communication.n.01
+dispyt	NOUN	speech_act.n.01
+distans	NOUN	feeling.n.01
+distributör	NOUN	institution.n.01
+distrikt	NOUN	administrative_district.n.01	region.n.03
+diva	NOUN	performer.n.01
+division	NOUN	military_unit.n.01	procedure.n.01
+djungel	NOUN	collection.n.01
+djur	NOUN	organism.n.01
+djurliv	NOUN	living_thing.n.01
+docka	NOUN	artifact.n.01
+doktor	NOUN	intellectual.n.01
+doktrin	NOUN	belief.n.01
+dokument	NOUN	writing.n.02
+dollar	NOUN	currency.n.01
+dom	NOUN	due_process.n.01
+domare	NOUN	person.n.01	skilled_worker.n.01
+domherre	NOUN	vertebrate.n.01
+domstol	NOUN	assembly.n.04
+donation	NOUN	act.n.02
+donator	NOUN	person.n.01
+dop	NOUN	activity.n.01
+dopping	NOUN	vertebrate.n.01
+dos	NOUN	medicine.n.02
+dossier	NOUN	record.n.01
+dotter	NOUN	female_offspring.n.01
+drag	NOUN	activity.n.01	attribute.n.02	weather.n.01
+dragning	NOUN	physical_phenomenon.n.01
+dragspel	NOUN	device.n.01
+drake	NOUN	ability.n.02	artifact.n.01
+drama	NOUN	happening.n.01
+dricks	NOUN	payment.n.01
+drift	NOUN	degree.n.01	feeling.n.01
+driva	NOUN	natural_object.n.01	natural_process.n.01
+drivhus	NOUN	building.n.01
+drivkraft	NOUN	trait.n.01
+drog	NOUN	agent.n.03
+dromedar	NOUN	placental.n.01
+droppe	NOUN	shape.n.02
+drottning	NOUN	leader.n.01
+drulle	NOUN	covering.n.02
+druvsocker	NOUN	macromolecule.n.01
+dryck	NOUN	liquid.n.01
+dräkt	NOUN	clothing.n.01
+dräng	NOUN	worker.n.01
+dråp	NOUN	termination.n.05
+dröm	NOUN	basic_cognitive_process.n.01	feeling.n.01
+dubbel	NOUN	quantity.n.03
+dubbelgångare	NOUN	peer.n.01	person.n.01
+duggregn	NOUN	weather.n.01
+dunge	NOUN	collection.n.01
+dunk	NOUN	container.n.01
+duns	NOUN	happening.n.01
+dusch	NOUN	artifact.n.01
+dussin	NOUN	large_integer.n.01
+dust	NOUN	conflict.n.01
+duva	NOUN	vertebrate.n.01
+dygd	NOUN	good.n.02
+dyna	NOUN	artifact.n.01
+dynamit	NOUN	chemical.n.01
+dynamo	NOUN	machine.n.01
+dynasti	NOUN	family.n.04
+dysenteri	NOUN	disease.n.01
+däck	NOUN	artifact.n.01	surface.n.01
+däggdjur	NOUN	vertebrate.n.01
+dåre	NOUN	person.n.01
+dåtiden	NOUN	time.n.05
+död	NOUN	change.n.01
+dödshjälp	NOUN	termination.n.05
+dödskalle	NOUN	body_part.n.01
+dödsruna	NOUN	statement.n.01
+dörr	NOUN	structure.n.01
+e-post	NOUN	communication.n.01
+efterforskning	NOUN	inquiry.n.01
+efterfrågan	NOUN	process.n.06
+eftergift	NOUN	speech_act.n.01
+efterlevande	NOUN	person.n.01
+eftermiddag	NOUN	acknowledgment.n.03	day.n.04
+efterrätt	NOUN	nutriment.n.01
+eftersmak	NOUN	representation.n.01
+eftervård	NOUN	care.n.01
+egendom	NOUN	property.n.01
+egenskap	NOUN	concept.n.01	property.n.04
+ego	NOUN	feeling.n.01
+ejder	NOUN	vertebrate.n.01
+ek	NOUN	material.n.01	vascular_plant.n.01
+eko	NOUN	physical_property.n.01
+ekonom	NOUN	person.n.01
+ekonomi	NOUN	science.n.01	system.n.02
+eksem	NOUN	disease.n.01
+ekvation	NOUN	statement.n.01
+elakhet	NOUN	emotion.n.01
+eld	NOUN	natural_process.n.01
+eldorado	NOUN	ability.n.02
+eldstad	NOUN	area.n.05
+elefant	NOUN	basic_cognitive_process.n.01	placental.n.01
+elektricitet	NOUN	physical_phenomenon.n.01
+elektriker	NOUN	skilled_worker.n.01
+elektron	NOUN	natural_object.n.01
+elektronik	NOUN	science.n.01
+elev	NOUN	person.n.01
+elevhem	NOUN	housing.n.01
+elfenben	NOUN	material.n.01	property.n.02
+elit	NOUN	people.n.01
+elände	NOUN	fortune.n.04
+emancipation	NOUN	accomplishment.n.01
+embryo	NOUN	animal.n.01
+emfas	NOUN	status.n.01
+emigration	NOUN	motion.n.06
+encyklopedi	NOUN	book.n.01
+energi	NOUN	degree.n.01
+enhet	NOUN	whole.n.01
+enkelhet	NOUN	quality.n.01
+enklav	NOUN	district.n.01
+enkät	NOUN	document.n.01	inquiry.n.01	investigation.n.02
+entusiasm	NOUN	interest.n.01
+envåldshärskare	NOUN	person.n.01
+enzym	NOUN	macromolecule.n.01
+epilepsi	NOUN	physical_condition.n.01
+epileptiker	NOUN	unfortunate.n.01
+era	NOUN	time_period.n.01
+erbjudande	NOUN	speech_act.n.01
+erfarenhet	NOUN	education.n.02
+ergonomi	NOUN	discipline.n.01
+erkännande	NOUN	acknowledgment.n.03	approval.n.04	situation.n.01
+erosion	NOUN	condition.n.01
+ersättare	NOUN	peer.n.01
+espresso	NOUN	beverage.n.01
+essä	NOUN	writing.n.02
+estrad	NOUN	surface.n.01
+etik	NOUN	humanistic_discipline.n.01
+etikett	NOUN	symbol.n.01
+evenemang	NOUN	social_event.n.01
+evergreen	NOUN	vascular_plant.n.01
+evolution	NOUN	organic_process.n.01	process.n.06
+examen	NOUN	award.n.02
+exempel	NOUN	information.n.02
+exercis	NOUN	activity.n.01
+expansion	NOUN	change.n.03
+expedition	NOUN	journey.n.01	unit.n.03
+experiment	NOUN	investigation.n.02
+expert	NOUN	person.n.01
+expertis	NOUN	skillfulness.n.01
+explosion	NOUN	happening.n.01
+expo	NOUN	gathering.n.01
+export	NOUN	commodity.n.01
+expropriation	NOUN	act.n.02
+extremist	NOUN	person.n.01
+eye-liner	NOUN	instrumentality.n.03
+fabrik	NOUN	structure.n.01
+fabrikant	NOUN	business.n.01
+facilitet	NOUN	artifact.n.01	skillfulness.n.01
+fack	NOUN	shape.n.02
+fackförening	NOUN	organization.n.01
+fackla	NOUN	device.n.01
+fackman	NOUN	adult.n.01	expert.n.01
+fadäs	NOUN	act.n.02
+faktor	NOUN	happening.n.01
+faktum	NOUN	information.n.01
+faktura	NOUN	statement.n.07
+falk	NOUN	vertebrate.n.01
+fall	NOUN	happening.n.01	movement.n.03
+fallgrop	NOUN	device.n.01
+falsett	NOUN	property.n.02
+familj	NOUN	lineage.n.01
+fan	NOUN	person.n.01
+fanatiker	NOUN	advocate.n.01
+fanatism	NOUN	attitude.n.01
+fantasi	NOUN	idea.n.01
+far	NOUN	genitor.n.01
+fara	NOUN	condition.n.01
+farmaceut	NOUN	health_professional.n.01
+farmor	NOUN	ancestor.n.01
+farsa	NOUN	genitor.n.01
+fartyg	NOUN	craft.n.02
+farvatten	NOUN	substance.n.01
+fasad	NOUN	side.n.05
+fascism	NOUN	attitude.n.01
+fascist	NOUN	adult.n.01
+faster	NOUN	relative.n.01
+fastland	NOUN	land.n.04
+fat	NOUN	container.n.01
+fattiglapp	NOUN	down-and-out.n.01
+favorit	NOUN	person.n.01
+fax	NOUN	equipment.n.01
+feber	NOUN	evidence.n.01
+federation	NOUN	political_unit.n.01
+feghet	NOUN	trait.n.01
+fejd	NOUN	conflict.n.01
+fel	NOUN	state.n.02	trait.n.01
+feminist	NOUN	person.n.01
+femkamp	NOUN	contest.n.01
+fenomen	NOUN	process.n.06
+feodalism	NOUN	system.n.02
+fest	NOUN	gathering.n.01
+festival	NOUN	diversion.n.01
+festmåltid	NOUN	meal.n.01
+fetma	NOUN	property.n.02
+fett	NOUN	macromolecule.n.01
+fia	NOUN	ludo.n.01
+fiber	NOUN	material.n.01
+ficka	NOUN	container.n.01
+ficktjuv	NOUN	person.n.01
+fiende	NOUN	people.n.01	person.n.01
+figur	NOUN	decoration.n.01
+fikon	NOUN	plant_organ.n.01
+fil	NOUN	record.n.01	tool.n.01	way.n.06
+film	NOUN	equipment.n.01	medium.n.01
+filosof	NOUN	intellectual.n.01	person.n.01
+filosofi	NOUN	belief.n.01	humanistic_discipline.n.01
+filter	NOUN	device.n.01
+final	NOUN	communication.n.01
+finanser	NOUN	management.n.01
+finansiär	NOUN	capitalist.n.02
+finger	NOUN	extremity.n.05
+fint	NOUN	decision.n.01
+fiol	NOUN	device.n.01
+firande	NOUN	diversion.n.01
+firma	NOUN	business.n.01
+fisk	NOUN	food.n.02	vertebrate.n.01
+fiskare	NOUN	skilled_worker.n.01
+fjant	NOUN	person.n.01
+fjord	NOUN	body_of_water.n.01
+fjäder	NOUN	covering.n.01	device.n.01
+fjäll	NOUN	covering.n.01
+fjärdedel	NOUN	number.n.02
+fjäril	NOUN	animal.n.01	motion.n.06
+fjärt	NOUN	bodily_process.n.01
+fladdermus	NOUN	placental.n.01
+flagga	NOUN	decoration.n.01
+flaska	NOUN	container.n.01
+flicka	NOUN	female.n.02
+flickvän	NOUN	woman.n.01
+flinta	NOUN	compound.n.02
+flisa	NOUN	part.n.03
+flit	NOUN	trait.n.01
+flock	NOUN	biological_group.n.01
+flod	NOUN	body_of_water.n.01
+flotta	NOUN	business.n.01
+fluga	NOUN	animal.n.01
+fluktuation	NOUN	quality.n.01
+fluor	NOUN	chemical_element.n.01
+flyg	NOUN	business.n.01	enterprise.n.02
+flygare	NOUN	skilled_worker.n.01
+flygning	NOUN	journey.n.01
+flygplan	NOUN	craft.n.02
+flygplats	NOUN	facility.n.01
+flygvapen	NOUN	force.n.04
+flykt	NOUN	act.n.02
+flykting	NOUN	traveler.n.01
+flyktingläger	NOUN	housing.n.01
+flytt	NOUN	change.n.03
+fläck	NOUN	appearance.n.01
+fläta	NOUN	covering.n.01
+foajé	NOUN	room.n.01
+fobi	NOUN	physical_condition.n.01
+fogde	NOUN	skilled_worker.n.01
+folk	NOUN	group.n.01	people.n.01
+folklore	NOUN	content.n.05
+folkmusik	NOUN	expressive_style.n.01
+folkomröstning	NOUN	group_action.n.01
+fond	NOUN	medium_of_exchange.n.01
+fontän	NOUN	artifact.n.01
+fordon	NOUN	conveyance.n.03
+form	NOUN	physical_condition.n.01	structure.n.03
+formalin	NOUN	substance.n.01
+format	NOUN	appearance.n.01	information.n.01
+formation	NOUN	placement.n.01
+formel	NOUN	procedure.n.01	statement.n.01
+formgivare	NOUN	creator.n.02
+formulering	NOUN	expressive_style.n.01
+forskare	NOUN	person.n.01
+forskning	NOUN	investigation.n.02	problem_solving.n.02
+forum	NOUN	facility.n.01	gathering.n.01
+fosfor	NOUN	compound.n.02
+fossil	NOUN	object.n.01
+foster	NOUN	vertebrate.n.01
+fot	NOUN	extremity.n.05	linear_unit.n.01
+fotboll	NOUN	outdoor_game.n.01
+fotgängare	NOUN	traveler.n.01
+fotnot	NOUN	comment.n.02
+foto	NOUN	photograph.n.01
+fotogen	NOUN	organic_compound.n.01
+fotograf	NOUN	artist.n.01
+fotografering	NOUN	activity.n.01
+fotografi	NOUN	representation.n.02
+fotokopia	NOUN	photograph.n.01
+frack	NOUN	clothing.n.01
+fragment	NOUN	part.n.03
+frakt	NOUN	commercial_enterprise.n.02
+framfart	NOUN	motion.n.03
+framgång	NOUN	happening.n.01
+framkallning	NOUN	process.n.06
+framsida	NOUN	side.n.05
+framsteg	NOUN	improvement.n.02
+framtid	NOUN	time.n.05
+fred	NOUN	state.n.02
+fredstid	NOUN	time_period.n.01
+frekvens	NOUN	rate.n.01
+frekvensband	NOUN	collection.n.01
+frestelse	NOUN	act.n.02
+friare	NOUN	person.n.01
+frid	NOUN	feeling.n.01
+frieri	NOUN	message.n.02
+frihet	NOUN	state.n.02
+frilans	NOUN	worker.n.01
+frimurare	NOUN	skilled_worker.n.01
+frimärke	NOUN	symbol.n.01
+fristad	NOUN	area.n.05
+frisyr	NOUN	covering.n.01
+fritid	NOUN	act.n.02
+front	NOUN	atmospheric_phenomenon.n.01	point.n.02
+frossa	NOUN	evidence.n.01
+frotté	NOUN	fabric.n.01
+fru	NOUN	spouse.n.01
+frukost	NOUN	meal.n.01
+frukt	NOUN	plant_organ.n.01
+fruktkött	NOUN	plant_part.n.01
+frustration	NOUN	emotion.n.01	feeling.n.01
+frys	NOUN	consumer_goods.n.01
+fräken	NOUN	decoration.n.01
+fråga	NOUN	content.n.05	questioning.n.01
+frågeställning	NOUN	subject.n.01
+frånvaro	NOUN	group_action.n.01
+fukt	NOUN	condition.n.01
+fullmakt	NOUN	legal_document.n.01
+fundamentalist	NOUN	person.n.01
+funkis	NOUN	functionalist.n.01
+funktion	NOUN	process.n.06	relation.n.01
+funktionär	NOUN	skilled_worker.n.01
+furste	NOUN	negotiator.n.01
+fusk	NOUN	material.n.01
+fylleri	NOUN	transgression.n.01
+fyndighet	NOUN	matter.n.03
+fyrkant	NOUN	figure.n.06
+fysik	NOUN	science.n.01
+fälla	NOUN	device.n.01
+fält	NOUN	tract.n.01
+fältassistent	NOUN	fieldworker.n.01
+fängelse	NOUN	establishment.n.04
+fängsel	NOUN	restraint.n.06
+färdighet	NOUN	ability.n.02
+färdtjänst	NOUN	people.n.01
+färdväg	NOUN	line.n.11
+färg	NOUN	appearance.n.01	covering.n.02
+färja	NOUN	commercial_enterprise.n.02	vessel.n.02
+fågel	NOUN	vertebrate.n.01
+fågelsång	NOUN	signal.n.01
+fånge	NOUN	unfortunate.n.01
+får	NOUN	placental.n.01
+fåtal	NOUN	number.n.01
+fåtölj	NOUN	furniture.n.01
+föda	NOUN	substance.n.07
+födelsedag	NOUN	calendar_day.n.01	date.n.01
+födelsemärke	NOUN	appearance.n.01
+föl	NOUN	animal.n.01
+följd	NOUN	series.n.01
+följetong	NOUN	publication.n.01
+fönster	NOUN	artifact.n.01
+förakt	NOUN	feeling.n.01
+förare	NOUN	causal_agent.n.01
+förband	NOUN	covering.n.02
+förbehåll	NOUN	statement.n.01
+förbindelse	NOUN	change.n.03	relation.n.01
+förbiseende	NOUN	act.n.02
+förbud	NOUN	act.n.01
+förbättring	NOUN	condition.n.01
+fördel	NOUN	asset.n.01	good.n.03
+fördom	NOUN	inclination.n.01
+fördrag	NOUN	written_agreement.n.01
+fördröjning	NOUN	act.n.02
+förebild	NOUN	idea.n.01	leader.n.01
+förebud	NOUN	happening.n.01
+föredrag	NOUN	profession.n.02	speech_act.n.01
+föredöme	NOUN	idea.n.01
+förehavande	NOUN	activity.n.01
+förening	NOUN	chemical.n.01	organization.n.01
+förespråkare	NOUN	advocate.n.01
+föreståndare	NOUN	head.n.04
+företag	NOUN	commerce.n.01
+företagare	NOUN	businessperson.n.01
+företal	NOUN	section.n.01
+företrädare	NOUN	indication.n.01	person.n.01
+förfader	NOUN	relative.n.01
+författare	NOUN	communicator.n.01
+förfrågan	NOUN	investigation.n.02
+förgasare	NOUN	mechanism.n.05
+förgätmigej	NOUN	vascular_plant.n.01
+förhandling	NOUN	speech.n.02
+förhistoria	NOUN	time_period.n.01
+förhoppning	NOUN	feeling.n.01
+förhållande	NOUN	environment.n.01	information.n.02	magnitude_relation.n.01
+förklaring	NOUN	speech_act.n.01
+förkylning	NOUN	disease.n.01
+förkämpe	NOUN	person.n.01
+förkärlek	NOUN	inclination.n.01
+förlamning	NOUN	ill_health.n.01
+förlikning	NOUN	decision_making.n.01
+förlossning	NOUN	act.n.02
+förlovning	NOUN	commitment.n.04
+förlust	NOUN	sum.n.01	transferred_property.n.01
+förläggning	NOUN	position.n.01
+förlängning	NOUN	property.n.02	time_interval.n.01
+förmedling	NOUN	business.n.01
+förmåga	NOUN	quality.n.01
+förmånstagare	NOUN	person.n.01
+förmögenhet	NOUN	assets.n.01	phenomenon.n.01
+förnekande	NOUN	statement.n.01
+förordnande	NOUN	occupation.n.01
+förorening	NOUN	change_of_state.n.01
+förort	NOUN	residential_district.n.01
+förpliktelse	NOUN	social_control.n.01
+förruttnelse	NOUN	natural_phenomenon.n.01
+förseelse	NOUN	transgression.n.01
+försiktighet	NOUN	know-how.n.01
+förskingring	NOUN	transgression.n.01
+förskola	NOUN	educational_institution.n.01
+förskoning	NOUN	management.n.01
+förskott	NOUN	sum.n.01
+förskräckelse	NOUN	emotion.n.01
+förslag	NOUN	proposal.n.01	speech_act.n.01
+försmak	NOUN	belief.n.01
+försprång	NOUN	asset.n.01
+förstaårsstudent	NOUN	student.n.01
+förstärkare	NOUN	electronic_equipment.n.01
+förståelse	NOUN	inclination.n.01
+förstånd	NOUN	know-how.n.01
+förstörelse	NOUN	ending.n.04
+försummelse	NOUN	practice.n.01	trait.n.01
+försurning	NOUN	natural_process.n.01
+försäkran	NOUN	statement.n.01
+försäkring	NOUN	condition.n.01
+försäkringspremie	NOUN	payment.n.01
+försäkringsskydd	NOUN	sum.n.01
+försäljare	NOUN	businessperson.n.01	worker.n.01
+försäljning	NOUN	commerce.n.01	selling.n.01
+försöksperson	NOUN	person.n.01
+försörjning	NOUN	assets.n.01
+förtegenhet	NOUN	trait.n.01
+förtjänst	NOUN	good.n.03
+förtröstan	NOUN	feeling.n.01
+förtvivlan	NOUN	condition.n.01	feeling.n.01
+förutsättning	NOUN	social_control.n.01
+förvaltare	NOUN	head.n.04	member.n.01	person.n.01
+förvaltning	NOUN	term.n.02
+förvar	NOUN	social_control.n.01
+förvrängning	NOUN	act.n.02	physical_phenomenon.n.01
+förväntan	NOUN	condition.n.01	feeling.n.01
+förvärv	NOUN	transferred_property.n.01
+förväxling	NOUN	act.n.02
+förälder	NOUN	genitor.n.01	organism.n.01
+gaffel	NOUN	artifact.n.01
+galax	NOUN	collection.n.01
+galleri	NOUN	room.n.01
+gallon	NOUN	unit_of_measurement.n.01
+gallsten	NOUN	natural_object.n.01
+gamling	NOUN	adult.n.01
+gaphals	NOUN	person.n.01
+garage	NOUN	building.n.01	shop.n.01
+garant	NOUN	person.n.01
+garanti	NOUN	commitment.n.04
+garderob	NOUN	collection.n.01
+gardin	NOUN	furnishing.n.02
+gas	NOUN	natural_phenomenon.n.01
+gaspedal	NOUN	implement.n.01
+gata	NOUN	road.n.01
+gatlykta	NOUN	device.n.01
+gavel	NOUN	structure.n.01
+gelike	NOUN	person.n.01
+gelé	NOUN	substance.n.07
+gen	NOUN	sequence.n.01
+general	NOUN	skilled_worker.n.01
+generation	NOUN	people.n.01
+genitiv	NOUN	class.n.01
+genomgång	NOUN	activity.n.01
+genomkörare	NOUN	work.n.01
+genomslag	NOUN	consequence.n.01
+gensvar	NOUN	acknowledgment.n.03
+gentleman	NOUN	man.n.01	worker.n.01
+geografi	NOUN	science.n.01
+geologi	NOUN	science.n.01
+geometri	NOUN	science.n.01
+gerilla	NOUN	person.n.01
+gest	NOUN	motion.n.03
+get	NOUN	person.n.01	placental.n.01
+geting	NOUN	animal.n.01
+gevär	NOUN	weapon.n.01
+gift	NOUN	quality.n.01	substance.n.07
+gikt	NOUN	disease.n.01
+gir	NOUN	movement.n.03
+giraff	NOUN	placental.n.01
+girigbuk	NOUN	person.n.01
+gisslan	NOUN	unfortunate.n.01
+gitarr	NOUN	device.n.01
+gitarrist	NOUN	performer.n.01
+giv	NOUN	act.n.02
+glaciär	NOUN	geological_formation.n.01
+glamour	NOUN	appearance.n.01
+glas	NOUN	container.n.01	solid.n.01
+glasbruk	NOUN	workplace.n.01
+glasmästare	NOUN	skilled_worker.n.01
+glass	NOUN	nutriment.n.01
+glasögon	NOUN	instrument.n.01
+glidning	NOUN	way.n.06
+glipa	NOUN	artifact.n.01
+glosa	NOUN	word.n.01
+glädje	NOUN	emotion.n.01	information.n.02
+glänta	NOUN	tract.n.01
+glåpord	NOUN	message.n.02
+glöd	NOUN	feeling.n.01	physical_phenomenon.n.01
+glödlampa	NOUN	device.n.01
+gnabb	NOUN	speech_act.n.01
+gnissel	NOUN	happening.n.01
+godbit	NOUN	nutriment.n.01
+godhet	NOUN	morality.n.01
+godkänd	NOUN	success.n.02
+gods	NOUN	property.n.01
+golf	NOUN	outdoor_game.n.01
+golv	NOUN	surface.n.01
+gom	NOUN	surface.n.02
+gonorré	NOUN	disease.n.01
+gorilla	NOUN	primate.n.02
+grace	NOUN	property.n.02
+grad	NOUN	magnitude.n.01	property.n.02	unit_of_measurement.n.01
+graf	NOUN	visual_communication.n.01
+graffiti	NOUN	decoration.n.01
+grafik	NOUN	creation.n.02
+gram	NOUN	metric_unit.n.01
+grammatik	NOUN	science.n.01
+grammofon	NOUN	machine.n.01
+granat	NOUN	instrumentality.n.03
+grann	NOUN	indefinite_quantity.n.01
+granne	NOUN	person.n.01
+grannlåt	NOUN	object.n.01
+granskare	NOUN	expert.n.01
+grav	NOUN	topographic_point.n.01
+gravitation	NOUN	physical_phenomenon.n.01
+gren	NOUN	plant_organ.n.01
+grepp	NOUN	quality.n.01
+grimas	NOUN	visual_communication.n.01
+grind	NOUN	structure.n.01
+gris	NOUN	person.n.01	placental.n.01
+groda	NOUN	vertebrate.n.01
+grodman	NOUN	person.n.01
+grotta	NOUN	geological_formation.n.01
+grovkök	NOUN	room.n.01
+grund	NOUN	relation.n.01	side.n.04
+grundlag	NOUN	legal_document.n.01
+grundval	NOUN	hypothesis.n.02
+grundämne	NOUN	substance.n.01
+grus	NOUN	material.n.01
+gruvarbetare	NOUN	worker.n.01
+grymhet	NOUN	feeling.n.01
+gryning	NOUN	hour.n.02
+grädde	NOUN	foodstuff.n.02
+gräl	NOUN	speech_act.n.01
+gräns	NOUN	boundary.n.01
+gränssnitt	NOUN	program.n.07
+gräs	NOUN	drug_of_abuse.n.01	vascular_plant.n.01
+gräslök	NOUN	vascular_plant.n.01
+gräsmatta	NOUN	tract.n.01
+grävling	NOUN	carnivore.n.01
+gråt	NOUN	bodily_process.n.01
+grön	NOUN	property.n.02
+grönsak	NOUN	food.n.02	vascular_plant.n.01
+gröt	NOUN	nutriment.n.01
+gud	NOUN	belief.n.01
+gudbarn	NOUN	child.n.02
+gudinna	NOUN	belief.n.01
+gudmoder	NOUN	person.n.01
+gudstjänst	NOUN	activity.n.01
+guide	NOUN	book.n.01	leader.n.01
+guld	NOUN	chemical_element.n.01
+gunga	NOUN	mechanism.n.05	motion.n.06
+gurka	NOUN	food.n.02	vascular_plant.n.01
+guvernör	NOUN	leader.n.01
+gymnast	NOUN	contestant.n.01
+gymnastik	NOUN	sport.n.01
+gymping	NOUN	work.n.01
+gynekolog	NOUN	health_professional.n.01
+gyttja	NOUN	material.n.01
+gäldenär	NOUN	person.n.01
+gärning	NOUN	event.n.01
+gärningsman	NOUN	person.n.01
+gäst	NOUN	visitor.n.01
+gästfrihet	NOUN	acknowledgment.n.03
+gång	NOUN	area.n.05
+gård	NOUN	tract.n.01
+gårdsplan	NOUN	area.n.05
+gåta	NOUN	cognitive_state.n.01
+gåva	NOUN	acquisition.n.02	gift.n.01
+hackspett	NOUN	vertebrate.n.01
+haj	NOUN	vertebrate.n.01
+hak	NOUN	place_of_business.n.01
+haka	NOUN	body_part.n.01
+hakkors	NOUN	decoration.n.01
+hall	NOUN	room.n.01	way.n.06
+halm	NOUN	material.n.01
+hals	NOUN	external_body_part.n.01
+halsband	NOUN	decoration.n.01
+halsfluss	NOUN	evidence.n.01
+halva	NOUN	number.n.02
+halvbror	NOUN	relative.n.01
+halvsyster	NOUN	relative.n.01
+halvtimme	NOUN	time_unit.n.01
+halvö	NOUN	land.n.04
+hamburgerkött	NOUN	food.n.02
+hammare	NOUN	tool.n.01
+hamn	NOUN	geographic_point.n.01
+hand	NOUN	collection.n.01	extremity.n.05
+handbok	NOUN	book.n.01
+handduk	NOUN	fabric.n.01
+handel	NOUN	transaction.n.01
+handelsfartyg	NOUN	ship.n.01
+handfat	NOUN	artifact.n.01
+handikapp	NOUN	ill_health.n.01
+handla	NOUN	commerce.n.01
+handlag	NOUN	skillfulness.n.01
+handled	NOUN	body_part.n.01
+handledare	NOUN	educator.n.01	leader.n.01
+handpenning	NOUN	payment.n.01
+handske	NOUN	clothing.n.01
+handtag	NOUN	aid.n.02
+handväska	NOUN	container.n.01
+hangar	NOUN	structure.n.01
+hantverk	NOUN	ability.n.02
+hantverkare	NOUN	skilled_worker.n.01
+harang	NOUN	speech_act.n.01
+harem	NOUN	housing.n.01
+harm	NOUN	emotion.n.01
+harmoni	NOUN	music.n.01	quality.n.01
+harv	NOUN	machine.n.01
+hasch	NOUN	drug_of_abuse.n.01
+hast	NOUN	motion.n.06
+hastighet	NOUN	rate.n.01
+hat	NOUN	emotion.n.01
+hatt	NOUN	clothing.n.01
+hav	NOUN	large_indefinite_quantity.n.01
+haveri	NOUN	happening.n.01
+hederlighet	NOUN	righteousness.n.01
+hedning	NOUN	person.n.01
+hektar	NOUN	unit_of_measurement.n.01
+hekto	NOUN	metric_unit.n.01
+helgdag	NOUN	calendar_day.n.01
+helgedom	NOUN	geographical_area.n.01
+helgerån	NOUN	transgression.n.01
+helikopter	NOUN	craft.n.02
+helvete	NOUN	ability.n.02
+hem	NOUN	establishment.n.04	housing.n.01
+hemgift	NOUN	gift.n.01
+hemisfär	NOUN	geographical_area.n.01
+hemkomst	NOUN	action.n.01
+hemlighet	NOUN	information.n.01
+hemmafru	NOUN	spouse.n.01
+herde	NOUN	worker.n.01
+heroin	NOUN	drug.n.01
+herravälde	NOUN	condition.n.01	dominance.n.02
+hertig	NOUN	leader.n.01
+hetta	NOUN	trait.n.01
+hibiskus	NOUN	vascular_plant.n.01
+hierarki	NOUN	organization.n.01	series.n.01
+himmel	NOUN	fluid.n.02	region.n.01
+hinder	NOUN	natural_object.n.01	structure.n.01
+hingst	NOUN	placental.n.01
+hink	NOUN	container.n.01
+hinna	NOUN	object.n.01
+hiss	NOUN	device.n.01
+historia	NOUN	humanistic_discipline.n.01	record.n.01	time.n.05
+historiker	NOUN	intellectual.n.01
+hjord	NOUN	biological_group.n.01
+hjort	NOUN	placental.n.01
+hjortron	NOUN	vascular_plant.n.01
+hjul	NOUN	mechanism.n.05	wheeled_vehicle.n.01
+hjälm	NOUN	clothing.n.01	covering.n.02
+hjälp	NOUN	activity.n.01
+hjälpreda	NOUN	worker.n.01
+hjälte	NOUN	leader.n.01
+hjärna	NOUN	intellectual.n.01	structure.n.04
+hjärnhalva	NOUN	structure.n.04
+hjärntvätt	NOUN	profession.n.02
+hjärta	NOUN	figure.n.06	idea.n.01	organ.n.01
+hjärter	NOUN	game.n.01	paper.n.01
+hobby	NOUN	diversion.n.01
+hologram	NOUN	photograph.n.01
+honung	NOUN	foodstuff.n.02
+hop	NOUN	gathering.n.01
+hopp	NOUN	change.n.01
+horisont	NOUN	line.n.11
+hormon	NOUN	substance.n.01
+horn	NOUN	body_part.n.01
+horoskop	NOUN	drawing.n.02	statement.n.01
+hosta	NOUN	evidence.n.01
+hot	NOUN	causal_agent.n.01
+hotell	NOUN	building.n.01	hotel.n.01
+hov	NOUN	government.n.01
+hud	NOUN	covering.n.01
+hugg	NOUN	motion.n.03
+humla	NOUN	animal.n.01
+humle	NOUN	vascular_plant.n.01
+humor	NOUN	trait.n.01
+humör	NOUN	emotion.n.01	feeling.n.01
+hund	NOUN	carnivore.n.01
+hus	NOUN	dwelling.n.01
+husdjur	NOUN	animal.n.01
+hushåll	NOUN	unit.n.03
+huvud	NOUN	external_body_part.n.01
+huvudstad	NOUN	center.n.01
+hydda	NOUN	structure.n.01
+hyena	NOUN	carnivore.n.01
+hylla	NOUN	support.n.10
+hypnos	NOUN	psychological_state.n.01
+hypotes	NOUN	opinion.n.02
+hyra	NOUN	payment.n.01
+hyresgäst	NOUN	person.n.01
+hyresvärd	NOUN	person.n.01
+häck	NOUN	structure.n.01
+häl	NOUN	structure.n.04
+häll	NOUN	artifact.n.01
+hällristning	NOUN	creation.n.01
+hälsa	NOUN	condition.n.01	fortune.n.04
+hälsning	NOUN	acknowledgment.n.03
+hämnd	NOUN	group_action.n.01
+hämning	NOUN	activity.n.01
+händelse	NOUN	happening.n.01
+hänryckning	NOUN	emotion.n.01
+hänsyn	NOUN	good.n.02
+härad	NOUN	large_integer.n.01
+härbärge	NOUN	housing.n.01
+härkomst	NOUN	property.n.02
+häst	NOUN	game_equipment.n.01	placental.n.01
+hästsko	NOUN	covering.n.02
+häxa	NOUN	person.n.01
+hågkomst	NOUN	representation.n.01
+hål	NOUN	shape.n.02
+håla	NOUN	geological_formation.n.01
+hållning	NOUN	attitude.n.01	property.n.02
+hår	NOUN	covering.n.01
+hårdvara	NOUN	component.n.03
+hårnål	NOUN	fastener.n.02
+hö	NOUN	food.n.01
+höft	NOUN	body_part.n.01
+hög	NOUN	collection.n.01
+höger	NOUN	position.n.01	social_group.n.01
+högkvarter	NOUN	place_of_business.n.01
+högtalare	NOUN	electrical_device.n.01
+höjd	NOUN	spacing.n.02
+höjdpunkt	NOUN	part.n.01
+höna	NOUN	vertebrate.n.01
+hörn	NOUN	point.n.02
+höst	NOUN	season.n.02
+hötorgskonst	NOUN	creation.n.02
+iakttagelse	NOUN	fact.n.01
+ideal	NOUN	idea.n.01	leader.n.01
+identitet	NOUN	attribute.n.02	quality.n.01
+ideologi	NOUN	attitude.n.01	thinking.n.01
+idé	NOUN	content.n.05
+ifrågasättande	NOUN	questioning.n.01
+illusion	NOUN	representation.n.01
+illustration	NOUN	representation.n.02
+ilska	NOUN	emotion.n.01
+immunitet	NOUN	termination.n.05
+imperialist	NOUN	advocate.n.01
+imperium	NOUN	social_group.n.01
+implikation	NOUN	relation.n.01
+import	NOUN	commodity.n.01
+inavel	NOUN	sexual_activity.n.01
+inbillning	NOUN	basic_cognitive_process.n.01
+inbjudan	NOUN	text.n.01
+inbyte	NOUN	property.n.01
+incest	NOUN	sexual_activity.n.01
+incitament	NOUN	payment.n.01	psychological_feature.n.01
+index	NOUN	list.n.01
+indexreglering	NOUN	activity.n.01
+indikation	NOUN	communication.n.02
+individ	NOUN	causal_agent.n.01	organism.n.01
+individualist	NOUN	person.n.01
+indoktrinering	NOUN	profession.n.02
+industri	NOUN	commercial_enterprise.n.02
+infanteri	NOUN	military_unit.n.01
+infarkt	NOUN	ill_health.n.01
+infinitiv	NOUN	class.n.01
+inflation	NOUN	process.n.06
+influensa	NOUN	disease.n.01
+inflytande	NOUN	quality.n.01
+information	NOUN	message.n.02
+infrastruktur	NOUN	income.n.01	property.n.02
+ingenjör	NOUN	person.n.01
+ingivelse	NOUN	feeling.n.01
+ingrediens	NOUN	component.n.03
+ingripande	NOUN	proceeding.n.01	thinking.n.01
+ingång	NOUN	way.n.06
+initial	NOUN	letter.n.02
+initiativ	NOUN	beginning.n.05
+injektion	NOUN	care.n.01	change.n.03
+inkast	NOUN	throw-in.n.01
+inkomst	NOUN	financial_gain.n.01	sum.n.01
+inkräktare	NOUN	traveler.n.01
+inkörsport	NOUN	way.n.06
+inledning	NOUN	section.n.01
+innebörd	NOUN	message.n.02
+innehav	NOUN	activity.n.01
+innovation	NOUN	ability.n.02	creation.n.02
+insamling	NOUN	performance.n.01
+insats	NOUN	assets.n.01
+insekt	NOUN	animal.n.01
+insida	NOUN	region.n.01
+insider	NOUN	head.n.04
+insikt	NOUN	feeling.n.01	higher_cognitive_process.n.01
+insisterande	NOUN	aid.n.02
+inskolning	NOUN	organic_process.n.01
+inskrivning	NOUN	action.n.01
+inspektör	NOUN	expert.n.01
+inspelning	NOUN	communication.n.02	memory_device.n.01
+inspiration	NOUN	basic_cognitive_process.n.01
+instinkt	NOUN	ability.n.02
+institution	NOUN	organization.n.01
+instrument	NOUN	device.n.01
+inställning	NOUN	cognition.n.01
+insulin	NOUN	agent.n.03
+insättning	NOUN	medium_of_exchange.n.01
+integration	NOUN	group_action.n.01
+integritet	NOUN	righteousness.n.01	state.n.02
+intellekt	NOUN	ability.n.02
+intelligens	NOUN	ability.n.02
+interaktion	NOUN	action.n.01
+intervju	NOUN	questioning.n.01
+intresse	NOUN	diversion.n.01
+intrig	NOUN	writing.n.02
+introduktion	NOUN	book.n.01	speech_act.n.01
+intryck	NOUN	appearance.n.01
+inträdesavgift	NOUN	fixed_charge.n.01
+intrång	NOUN	wrongdoing.n.02
+invaliditet	NOUN	ill_health.n.01
+invandrare	NOUN	traveler.n.01
+invandring	NOUN	motion.n.06
+invasion	NOUN	movement.n.03
+invektiv	NOUN	message.n.02
+inventarier	NOUN	artifact.n.01
+investering	NOUN	assets.n.01
+invändning	NOUN	speech_act.n.01
+invånare	NOUN	person.n.01
+inälvor	NOUN	bowels.n.01
+ironi	NOUN	message.n.02
+is	NOUN	solid.n.01
+ischias	NOUN	evidence.n.01
+isolering	NOUN	state.n.02
+iteration	NOUN	process.n.06
+jacka	NOUN	clothing.n.01
+jag	NOUN	cognitive_state.n.01
+jakt	NOUN	sport.n.01	vessel.n.02
+jasmin	NOUN	vascular_plant.n.01
+jazz	NOUN	expressive_style.n.01
+jeans	NOUN	clothing.n.01
+jeep	NOUN	car.n.01
+jobb	NOUN	activity.n.01	duty.n.02	occupation.n.01
+jobbarkompis	NOUN	worker.n.01
+jockey	NOUN	traveler.n.01
+jolle	NOUN	vessel.n.02
+joller	NOUN	message.n.02
+jord	NOUN	material.n.01
+jordbruk	NOUN	commercial_enterprise.n.02
+jordbävning	NOUN	natural_phenomenon.n.01
+jordgubbe	NOUN	plant_organ.n.01
+jordklot	NOUN	earth.n.01
+jordlott	NOUN	tract.n.01
+jordmån	NOUN	geographical_area.n.01
+jordnöt	NOUN	plant_organ.n.01
+joule	NOUN	unit_of_measurement.n.01
+journal	NOUN	publication.n.01	writing.n.02
+jubileum	NOUN	calendar_day.n.01
+juice	NOUN	foodstuff.n.02
+jukebox	NOUN	machine.n.01
+jumpa	NOUN	facility.n.01
+juridik	NOUN	collection.n.01
+jurisdiktion	NOUN	quality.n.01
+jury	NOUN	body.n.02	committee.n.01
+juvel	NOUN	decoration.n.01	person.n.01
+juver	NOUN	organ.n.01
+jägare	NOUN	skilled_worker.n.01
+jämförelse	NOUN	relation.n.01
+jämnmod	NOUN	trait.n.01
+jämvikt	NOUN	situation.n.01
+jänta	NOUN	woman.n.01
+järn	NOUN	chemical_element.n.01
+järnverk	NOUN	workplace.n.01
+järnväg	NOUN	artifact.n.01	business.n.01
+järnvägsknut	NOUN	topographic_point.n.01
+jätte	NOUN	person.n.01
+jävel	NOUN	person.n.01
+kabel	NOUN	artifact.n.01
+kabin	NOUN	room.n.01
+kabinett	NOUN	committee.n.01
+kackerlacka	NOUN	animal.n.01
+kadaver	NOUN	natural_object.n.01
+kaffe	NOUN	beverage.n.01
+kafé	NOUN	restaurant.n.01
+kaj	NOUN	surface.n.01
+kajak	NOUN	vessel.n.02
+kaka	NOUN	food.n.02
+kakel	NOUN	artifact.n.01
+kaktus	NOUN	vascular_plant.n.01
+kalaskula	NOUN	body_part.n.01
+kalender	NOUN	arrangement.n.03
+kalkon	NOUN	vertebrate.n.01
+kallskänka	NOUN	head.n.04
+kalori	NOUN	unit_of_measurement.n.01
+kalv	NOUN	animal.n.01
+kamel	NOUN	placental.n.01
+kamera	NOUN	electronic_equipment.n.01	equipment.n.01
+kammare	NOUN	legislature.n.01
+kamp	NOUN	work.n.01
+kampanj	NOUN	activity.n.01	contest.n.01
+kamratskap	NOUN	trait.n.01
+kamrer	NOUN	businessperson.n.01
+kanal	NOUN	body_of_water.n.01	facility.n.01
+kandelaber	NOUN	device.n.01
+kandidat	NOUN	leader.n.01
+kanin	NOUN	placental.n.01
+kannibal	NOUN	person.n.01
+kant	NOUN	side.n.05
+kantarell	NOUN	organism.n.01
+kanyl	NOUN	way.n.06
+kaos	NOUN	state.n.02
+kap	NOUN	adult.n.01
+kapacitet	NOUN	measure.n.02
+kapitalism	NOUN	system.n.02
+kapitel	NOUN	section.n.01
+kappa	NOUN	clothing.n.01
+kapplöpning	NOUN	contest.n.01
+kapsyl	NOUN	covering.n.02
+kapten	NOUN	skilled_worker.n.01
+kar	NOUN	container.n.01
+karaff	NOUN	container.n.01
+karaktär	NOUN	ability.n.02	status.n.01
+karate	NOUN	activity.n.01
+karies	NOUN	natural_process.n.01
+karikatyr	NOUN	message.n.02
+karneval	NOUN	diversion.n.01
+karriär	NOUN	motion.n.06
+karta	NOUN	representation.n.02
+kartell	NOUN	association.n.01
+kassaapparat	NOUN	container.n.01
+kassett	NOUN	container.n.01
+kassör	NOUN	person.n.01
+kastrull	NOUN	implement.n.01
+katalog	NOUN	book.n.01	list.n.01
+katarr	NOUN	evidence.n.01
+katastrof	NOUN	trouble.n.03
+katedral	NOUN	place_of_worship.n.01
+kategori	NOUN	concept.n.01
+katt	NOUN	carnivore.n.01
+katten	NOUN	quality.n.01
+kavalkad	NOUN	collection.n.01
+kaviar	NOUN	food.n.02
+kedja	NOUN	business.n.01	instrumentality.n.03
+kemi	NOUN	science.n.01
+kemikalier	NOUN	material.n.01
+kennel	NOUN	covering.n.02
+keramiker	NOUN	skilled_worker.n.01
+ketchup	NOUN	foodstuff.n.02
+kick	NOUN	information.n.02
+kikare	NOUN	instrument.n.01
+killing	NOUN	placental.n.01
+kilo	NOUN	metric_unit.n.01
+kilometer	NOUN	metric_linear_unit.n.01
+kilowatt	NOUN	unit_of_measurement.n.01
+kilskrift	NOUN	writing.n.04
+kind	NOUN	body_part.n.01	message.n.02	trait.n.01
+kindknota	NOUN	body_part.n.01
+kindtand	NOUN	body_part.n.01
+kiosk	NOUN	room.n.01
+kirurg	NOUN	health_professional.n.01
+kirurgi	NOUN	science.n.01
+kisel	NOUN	chemical_element.n.01
+kista	NOUN	container.n.01
+kittel	NOUN	implement.n.01
+kjol	NOUN	clothing.n.01
+klang	NOUN	property.n.02
+klarinett	NOUN	device.n.01
+klarsignal	NOUN	position.n.07
+klass	NOUN	collection.n.01	gathering.n.01	people.n.01
+klassrum	NOUN	room.n.01
+klave	NOUN	side.n.05
+klick	NOUN	social_group.n.01
+klientel	NOUN	people.n.01
+klimat	NOUN	condition.n.01
+klinik	NOUN	institution.n.01
+klippa	NOUN	geological_formation.n.01
+klister	NOUN	material.n.01
+klitoris	NOUN	organ.n.01
+klocka	NOUN	instrument.n.01
+klorofyll	NOUN	material.n.01
+kloster	NOUN	house.n.01
+klot	NOUN	shape.n.02
+klotter	NOUN	writing.n.04
+klubb	NOUN	association.n.01
+klubba	NOUN	implement.n.01
+klump	NOUN	collection.n.01
+kluster	NOUN	collection.n.01
+kläder	NOUN	clothing.n.01
+klädstreck	NOUN	artifact.n.01
+klåpare	NOUN	person.n.01
+klöver	NOUN	paper.n.01
+knall	NOUN	happening.n.01
+knapp	NOUN	fastener.n.02	mechanism.n.05
+knapphål	NOUN	artifact.n.01
+knippe	NOUN	container.n.01
+kniv	NOUN	tool.n.01
+knoge	NOUN	body_part.n.01
+know-how	NOUN	ability.n.02
+knuff	NOUN	act.n.02
+knut	NOUN	fastener.n.02
+knytnäve	NOUN	hand.n.01
+knä	NOUN	body_part.n.01	external_body_part.n.01
+knäskål	NOUN	body_part.n.01
+ko	NOUN	placental.n.01
+koalition	NOUN	change.n.03
+kock	NOUN	skilled_worker.n.01
+kod	NOUN	coding_system.n.01
+kodein	NOUN	medicine.n.02
+koffein	NOUN	organic_compound.n.01
+koffert	NOUN	room.n.01
+kofta	NOUN	clothing.n.01
+kok	NOUN	indefinite_quantity.n.01
+kokain	NOUN	drug.n.01
+kokbok	NOUN	book.n.01
+kokkärl	NOUN	implement.n.01
+kokong	NOUN	natural_object.n.01
+kol	NOUN	chemical_element.n.01	substance.n.07
+kolera	NOUN	disease.n.01
+kolhydrat	NOUN	macromolecule.n.01
+kolik	NOUN	evidence.n.01
+kollega	NOUN	associate.n.01
+kollision	NOUN	happening.n.01
+kolon	NOUN	organ.n.01	punctuation.n.02
+koloni	NOUN	geographical_area.n.01
+kolumn	NOUN	arrangement.n.02
+koma	NOUN	cognitive_state.n.01
+kombination	NOUN	collection.n.01
+komedi	NOUN	writing_style.n.01
+komet	NOUN	natural_object.n.01
+komfort	NOUN	condition.n.01
+kommentar	NOUN	statement.n.01
+kommissarie	NOUN	defender.n.01
+kommission	NOUN	organization.n.01
+kommitté	NOUN	administrative_unit.n.01
+kommunikation	NOUN	abstraction.n.06
+kommunist	NOUN	leader.n.01
+komp	NOUN	communication.n.01
+kompensation	NOUN	improvement.n.02
+kompetens	NOUN	quality.n.01
+kompis	NOUN	person.n.01
+komplikation	NOUN	situation.n.01
+komplimang	NOUN	praise.n.01
+komplott	NOUN	plan_of_action.n.01
+kompositör	NOUN	artist.n.01
+kompott	NOUN	nutriment.n.01
+kompress	NOUN	covering.n.02
+kompromiss	NOUN	agreement.n.01	group_action.n.01
+koncentration	NOUN	faculty.n.01	property.n.02
+koncession	NOUN	business.n.01
+konditori	NOUN	shop.n.01
+kondom	NOUN	device.n.01
+konduktör	NOUN	worker.n.01
+konferencier	NOUN	entertainer.n.01
+konferens	NOUN	gathering.n.01
+konfetti	NOUN	paper.n.01
+konflikt	NOUN	quality.n.01	state.n.02
+konformism	NOUN	attitude.n.01
+konfrontation	NOUN	speech_act.n.01
+konglomerat	NOUN	firm.n.01
+kongress	NOUN	legislature.n.01
+kongressman	NOUN	leader.n.01
+konkurrens	NOUN	group_action.n.01
+konkurs	NOUN	condition.n.01	proceeding.n.01
+konsert	NOUN	performance.n.01
+konservatism	NOUN	attitude.n.01
+konst	NOUN	creation.n.01
+konstellation	NOUN	natural_object.n.01
+konstitution	NOUN	property.n.02
+konstnär	NOUN	creator.n.02
+konsulat	NOUN	building.n.01
+konsult	NOUN	expert.n.01
+konsument	NOUN	user.n.01
+konsumtion	NOUN	bodily_process.n.01	process.n.06
+kontakt	NOUN	acquaintance.n.03	action.n.01	communication.n.01	component.n.03
+kontaktperson	NOUN	negotiator.n.01
+kontanter	NOUN	currency.n.01
+konto	NOUN	statement.n.07
+kontor	NOUN	place_of_business.n.01
+kontorist	NOUN	worker.n.01
+kontrabas	NOUN	device.n.01
+kontraktion	NOUN	change.n.03
+kontroll	NOUN	evidence.n.01	skillfulness.n.01
+konvention	NOUN	gathering.n.01	quality.n.01
+konvulsion	NOUN	trouble.n.03
+kopia	NOUN	representation.n.02
+kopp	NOUN	container.n.01	indefinite_quantity.n.01
+koppar	NOUN	chemical_element.n.01
+koppel	NOUN	restraint.n.06
+koppling	NOUN	state.n.02
+koranen	NOUN	koran.n.01
+korg	NOUN	container.n.01
+korkskruv	NOUN	tool.n.01
+korn	NOUN	material.n.01
+korpral	NOUN	skilled_worker.n.01
+korrelation	NOUN	relation.n.01
+korrespondens	NOUN	mail.n.01
+korridor	NOUN	way.n.06
+korrigering	NOUN	improvement.n.02
+korruption	NOUN	act.n.02
+kors	NOUN	structure.n.01
+korsett	NOUN	clothing.n.01
+korsförhör	NOUN	questioning.n.01
+korsning	NOUN	organism.n.01	topographic_point.n.01
+korsord	NOUN	game_equipment.n.01
+korståg	NOUN	venture.n.01
+kort	NOUN	mail.n.01	paper.n.01
+kortlek	NOUN	collection.n.01
+kortslutning	NOUN	instrumentality.n.03
+korv	NOUN	craft.n.02	food.n.02
+kosmonaut	NOUN	traveler.n.01
+kota	NOUN	body_part.n.01
+kotteri	NOUN	social_group.n.01
+kraft	NOUN	causal_agent.n.01	degree.n.01
+kraftmätning	NOUN	speech_act.n.01
+krage	NOUN	artifact.n.01
+kran	NOUN	mechanism.n.05
+krasch	NOUN	happening.n.01
+krav	NOUN	request.n.01	thing.n.12
+kredit	NOUN	assets.n.01	payment.n.01
+kreditkort	NOUN	identification.n.02
+kremering	NOUN	change.n.03
+krig	NOUN	conflict.n.01
+krigare	NOUN	person.n.01
+kriminalregister	NOUN	list.n.01
+kringla	NOUN	foodstuff.n.02
+kris	NOUN	condition.n.01
+kristall	NOUN	artifact.n.01	solid.n.01
+kristallkrona	NOUN	artifact.n.01
+krita	NOUN	implement.n.01
+kritik	NOUN	message.n.02
+kritiker	NOUN	professional.n.01
+krog	NOUN	building.n.01
+krok	NOUN	implement.n.01
+krokodil	NOUN	vertebrate.n.01
+krokus	NOUN	vascular_plant.n.01
+kromosom	NOUN	natural_object.n.01
+krona	NOUN	clothing.n.01	side.n.05
+kronofogde	NOUN	social_control.n.01
+kropp	NOUN	body.n.01	natural_object.n.01
+kroppsbyggare	NOUN	person.n.01
+kroppsvisitation	NOUN	activity.n.01
+kruka	NOUN	container.n.01
+krukväxt	NOUN	plant.n.02
+krut	NOUN	chemical.n.01
+krux	NOUN	meaning.n.01
+krycka	NOUN	implement.n.01
+krympling	NOUN	person.n.01
+kryss	NOUN	mark.n.10
+kryssning	NOUN	travel.n.01
+kräm	NOUN	instrumentality.n.03
+krämpa	NOUN	physical_condition.n.01
+kränkning	NOUN	activity.n.01
+krångel	NOUN	happening.n.01
+krök	NOUN	shape.n.02
+kudde	NOUN	artifact.n.01
+kula	NOUN	weapon.n.01
+kulle	NOUN	geological_formation.n.01
+kullersten	NOUN	artifact.n.01
+kultur	NOUN	attitude.n.01	growth.n.01
+kulvert	NOUN	way.n.06
+kumpan	NOUN	person.n.01
+kund	NOUN	consumer.n.01
+kung	NOUN	game_equipment.n.01	negotiator.n.01	paper.n.01
+kungarike	NOUN	social_group.n.01
+kunskap	NOUN	psychological_feature.n.01
+kupol	NOUN	covering.n.02
+kupong	NOUN	commercial_document.n.01
+kupp	NOUN	group_action.n.01
+kurir	NOUN	traveler.n.01
+kurragömma	NOUN	game.n.01
+kurs	NOUN	education.n.01
+kurva	NOUN	section.n.04	shape.n.02
+kusin	NOUN	relative.n.01
+kusk	NOUN	worker.n.01
+kuvert	NOUN	container.n.01
+kuvös	NOUN	equipment.n.01
+kvalitet	NOUN	degree.n.01
+kvantitet	NOUN	concept.n.01
+kvarn	NOUN	machine.n.01
+kvartal	NOUN	time_period.n.01
+kvarter	NOUN	area.n.01
+kvartsdollar	NOUN	currency.n.01
+kverulant	NOUN	person.n.01
+kvickhet	NOUN	statement.n.01
+kviga	NOUN	placental.n.01
+kvinna	NOUN	female.n.02
+kvitto	NOUN	acknowledgment.n.03	communication.n.02
+kvot	NOUN	assets.n.01
+kväll	NOUN	day.n.04
+kyckling	NOUN	vertebrate.n.01
+kyla	NOUN	physical_property.n.01
+kylskåp	NOUN	consumer_goods.n.01
+kyrka	NOUN	place_of_worship.n.01
+kyrkogård	NOUN	tract.n.01
+käke	NOUN	body_part.n.01
+källa	NOUN	geological_formation.n.01	publication.n.01
+källare	NOUN	structure.n.01
+känguru	NOUN	mammal.n.01
+känsel	NOUN	perception.n.03
+känsla	NOUN	basic_cognitive_process.n.01
+käpp	NOUN	implement.n.01
+kärande	NOUN	person.n.01
+kärlek	NOUN	content.n.05
+kärna	NOUN	covering.n.01	plant_organ.n.01	point.n.02
+kärnmjölk	NOUN	beverage.n.01
+kärra	NOUN	wheeled_vehicle.n.01
+kärve	NOUN	container.n.01
+kåda	NOUN	organic_compound.n.01
+kåseri	NOUN	speech.n.02
+kåsör	NOUN	writer.n.01
+kö	NOUN	formation.n.01
+kök	NOUN	change_of_state.n.01	room.n.01
+kön	NOUN	property.n.02
+köpman	NOUN	businessperson.n.01
+kör	NOUN	organization.n.01
+körbana	NOUN	road.n.01
+körsbär	NOUN	plant_organ.n.01
+körsnär	NOUN	creator.n.02
+körtel	NOUN	organ.n.01
+kött	NOUN	body_part.n.01	food.n.02
+laboratorium	NOUN	region.n.03	workplace.n.01
+labyrint	NOUN	system.n.01
+lacknafta	NOUN	organic_compound.n.01
+laddning	NOUN	physical_phenomenon.n.01
+lag	NOUN	concept.n.01	unit.n.03
+lager	NOUN	change.n.03	merchandise.n.01	region.n.01
+lagstiftning	NOUN	collection.n.01	social_control.n.01
+lakan	NOUN	commodity.n.01
+lamm	NOUN	animal.n.01
+lampa	NOUN	furniture.n.01
+land	NOUN	geographical_area.n.01	political_unit.n.01	sphere.n.01	tract.n.01
+landsbygd	NOUN	country.n.04
+landskap	NOUN	vicinity.n.01
+landsman	NOUN	person.n.01
+lantgård	NOUN	workplace.n.01
+lantmäteri	NOUN	activity.n.01
+lapp	NOUN	fabric.n.01
+laptop	NOUN	computer.n.01
+larm	NOUN	device.n.01
+laser	NOUN	device.n.01
+lasso	NOUN	artifact.n.01
+lava	NOUN	material.n.01
+lavemang	NOUN	care.n.01
+lax	NOUN	vertebrate.n.01
+laxermedel	NOUN	medicine.n.02
+layout	NOUN	activity.n.01	design.n.02
+leasing	NOUN	contract.n.01
+led	NOUN	body_part.n.01
+leda	NOUN	feeling.n.01
+ledare	NOUN	material.n.01	person.n.01
+ledarskap	NOUN	activity.n.01
+ledning	NOUN	instrumentality.n.03	social_control.n.01
+ledtråd	NOUN	evidence.n.02	indication.n.01
+leende	NOUN	visual_communication.n.01
+legend	NOUN	text.n.01	writing.n.02
+legislatur	NOUN	assembly.n.04
+legitimation	NOUN	evidence.n.02	identification.n.02
+legosoldat	NOUN	person.n.01
+lejon	NOUN	adult.n.01	carnivore.n.01
+lek	NOUN	diversion.n.01
+lekkamrat	NOUN	person.n.01
+lekman	NOUN	person.n.01
+leksak	NOUN	artifact.n.01
+lekskola	NOUN	educational_institution.n.01
+lektion	NOUN	profession.n.02
+lem	NOUN	external_body_part.n.01
+lera	NOUN	material.n.01
+lergods	NOUN	implement.n.01
+lever	NOUN	organ.n.01
+leverantör	NOUN	businessperson.n.01
+licens	NOUN	legal_document.n.01
+lidande	NOUN	feeling.n.01
+lie	NOUN	tool.n.01
+lift	NOUN	conveyance.n.03
+lik	NOUN	natural_object.n.01
+likhet	NOUN	quality.n.01
+liknelse	NOUN	expressive_style.n.01
+likvaka	NOUN	activity.n.01
+likör	NOUN	drug_of_abuse.n.01
+lilja	NOUN	vascular_plant.n.01
+linjal	NOUN	instrument.n.01
+linje	NOUN	discrimination.n.02
+linne	NOUN	commodity.n.01
+lipsill	NOUN	person.n.01
+lista	NOUN	database.n.01
+listig	NOUN	ability.n.02
+litteratur	NOUN	writing.n.02
+liv	NOUN	being.n.01
+livränta	NOUN	payment.n.01
+livsmedelsaffär	NOUN	mercantile_establishment.n.01
+livsstil	NOUN	property.n.02
+livstid	NOUN	time_period.n.01
+livvakt	NOUN	military_unit.n.01
+ljud	NOUN	perception.n.03
+ljus	NOUN	device.n.01
+ljusstyrka	NOUN	physical_property.n.01
+lobby	NOUN	political_unit.n.01	room.n.01
+lock	NOUN	covering.n.01	covering.n.02
+lockbete	NOUN	cognitive_factor.n.01
+lockout	NOUN	action.n.01
+logaritm	NOUN	writing.n.04
+logik	NOUN	law.n.03
+logotyp	NOUN	symbol.n.01
+lojalitet	NOUN	group_action.n.01	quality.n.01
+lok	NOUN	self-propelled_vehicle.n.01
+lokal	NOUN	tract.n.01
+loppa	NOUN	animal.n.01
+lossning	NOUN	work.n.01
+lotteri	NOUN	transgression.n.01
+lucka	NOUN	time_interval.n.01
+luft	NOUN	fluid.n.02
+luftbro	NOUN	change.n.03
+lukt	NOUN	faculty.n.01	property.n.02
+lunch	NOUN	meal.n.01
+lunga	NOUN	organ.n.01
+lunginflammation	NOUN	disease.n.01
+lungsäck	NOUN	body_part.n.01
+lutfisk	NOUN	food.n.02
+lutning	NOUN	position.n.07
+lyktstolpe	NOUN	support.n.10
+lymfa	NOUN	substance.n.01
+lysning	NOUN	statement.n.01
+lyxvilla	NOUN	house.n.01
+lä	NOUN	side.n.04
+läder	NOUN	material.n.01
+lägenhet	NOUN	housing.n.01
+läger	NOUN	tract.n.01
+läkare	NOUN	health_professional.n.01
+läkemedel	NOUN	drug.n.01
+längd	NOUN	extent.n.02	property.n.02
+längtan	NOUN	feeling.n.01
+länk	NOUN	fastener.n.02
+läpp	NOUN	organ.n.01
+lärare	NOUN	educator.n.01
+lärjunge	NOUN	person.n.01
+lärling	NOUN	person.n.01
+lärobok	NOUN	book.n.01
+läroplan	NOUN	information.n.01
+läsare	NOUN	customer.n.01
+läsekrets	NOUN	group.n.01
+läsk	NOUN	beverage.n.01
+läskunnighet	NOUN	ability.n.02
+lättnad	NOUN	condition.n.01
+lågtryck	NOUN	weather.n.01
+lån	NOUN	liabilities.n.01	word.n.01
+låntagare	NOUN	person.n.01
+lår	NOUN	external_body_part.n.01
+lås	NOUN	fastener.n.02
+låt	NOUN	music.n.01
+löfte	NOUN	commitment.n.04
+lögn	NOUN	statement.n.01
+lögnhals	NOUN	person.n.01
+lök	NOUN	plant_organ.n.01
+lön	NOUN	payment.n.01
+löpande_band	NOUN	system.n.01
+löpare	NOUN	contestant.n.01
+löpeld	NOUN	happening.n.01
+lösenord	NOUN	identification.n.02
+lösning	NOUN	substance.n.01	success.n.02
+löv	NOUN	plant_organ.n.01
+magasin	NOUN	product.n.02
+mage	NOUN	body_part.n.01	organ.n.01
+magkatarr	NOUN	evidence.n.01
+magnat	NOUN	businessperson.n.01
+mainstream	NOUN	belief.n.01
+majonnäs	NOUN	foodstuff.n.02
+majoritet	NOUN	measure.n.02
+majs	NOUN	foodstuff.n.02
+majstång	NOUN	support.n.10
+maka	NOUN	domestic_partner.n.01
+make	NOUN	spouse.n.01
+malört	NOUN	vascular_plant.n.01
+mammografi	NOUN	procedure.n.01
+man	NOUN	male.n.02
+mandolin	NOUN	device.n.01
+manfall	NOUN	people.n.01
+mangel	NOUN	consumer_goods.n.01
+mannagryn	NOUN	foodstuff.n.02
+manskap	NOUN	force.n.04
+manual	NOUN	book.n.01
+manus	NOUN	writing.n.02
+manuskript	NOUN	writing.n.02
+manér	NOUN	trait.n.01
+maraton	NOUN	contest.n.01	undertaking.n.01
+mardröm	NOUN	basic_cognitive_process.n.01	condition.n.01
+margarin	NOUN	foodstuff.n.02
+marginal	NOUN	extent.n.02
+marin	NOUN	force.n.04	property.n.02
+marionett	NOUN	representation.n.02
+mark	NOUN	object.n.01
+marknadsföring	NOUN	commerce.n.01	promotion.n.01
+markägare	NOUN	person.n.01
+marmelad	NOUN	nutriment.n.01
+marmor	NOUN	figure.n.06	game_equipment.n.01	material.n.01
+mars	NOUN	gregorian_calendar_month.n.01
+marsch	NOUN	collection.n.01	expressive_style.n.01
+marsipan	NOUN	nutriment.n.01
+maräng	NOUN	decoration.n.01
+mascara	NOUN	instrumentality.n.03
+mask	NOUN	animal.n.01	clothing.n.01	program.n.07
+maskin	NOUN	device.n.01
+maskineri	NOUN	machine.n.01
+maskinskrivning	NOUN	writing.n.04
+maskot	NOUN	organism.n.01
+maskros	NOUN	vascular_plant.n.01
+masochist	NOUN	person.n.01
+massa	NOUN	natural_object.n.01
+massage	NOUN	care.n.01
+massiv	NOUN	geological_formation.n.01
+match	NOUN	contest.n.01
+matematik	NOUN	science.n.01
+materia	NOUN	physical_entity.n.01
+matlagning	NOUN	change_of_state.n.01
+matris	NOUN	arrangement.n.02
+maträtt	NOUN	nutriment.n.01
+matsedel	NOUN	food.n.01	list.n.01
+matsilver	NOUN	artifact.n.01
+matta	NOUN	furnishing.n.02	natural_object.n.01
+maximum	NOUN	large_indefinite_quantity.n.01
+medalj	NOUN	award.n.02
+medarbetare	NOUN	associate.n.01
+medborgare	NOUN	person.n.01
+meddelande	NOUN	communication.n.02
+medel	NOUN	instrumentality.n.03
+medeltal	NOUN	datum.n.01
+medicin	NOUN	profession.n.02
+medium	NOUN	communication.n.01	person.n.01	state.n.02
+medlem	NOUN	associate.n.01
+medlemskap	NOUN	relationship.n.03
+medlidande	NOUN	quality.n.01
+medlöpare	NOUN	person.n.01
+medvetande	NOUN	cognitive_state.n.01
+megafon	NOUN	device.n.01
+mejeri	NOUN	workplace.n.01
+mekanism	NOUN	device.n.01
+mellanslag	NOUN	character.n.08
+mened	NOUN	transgression.n.01
+mening	NOUN	sequence.n.01
+meningit	NOUN	disease.n.01
+menstruation	NOUN	bodily_process.n.01
+mentalsjukhus	NOUN	building.n.01
+meny	NOUN	list.n.01
+metafor	NOUN	expressive_style.n.01
+metall	NOUN	chemical_element.n.01	substance.n.01
+metallarbetare	NOUN	skilled_worker.n.01
+meteorolog	NOUN	expert.n.01
+metod	NOUN	know-how.n.01
+metodologi	NOUN	method.n.01
+middag	NOUN	meal.n.01
+midja	NOUN	body_part.n.01
+midnatt	NOUN	hour.n.02
+migration	NOUN	motion.n.06
+migrän	NOUN	evidence.n.01
+mikrofon	NOUN	electrical_device.n.01
+mikroskop	NOUN	instrument.n.01
+mil	NOUN	large_indefinite_quantity.n.01
+militär	NOUN	skilled_worker.n.01
+militärtjänst	NOUN	force.n.04
+miljard	NOUN	large_integer.n.01
+miljö	NOUN	geographical_area.n.01	representation.n.02
+miljöpartist	NOUN	person.n.01
+milliliter	NOUN	metric_unit.n.01
+millimeter	NOUN	metric_linear_unit.n.01
+mina	NOUN	device.n.01
+mineral	NOUN	material.n.01
+minibil	NOUN	car.n.01
+minimum	NOUN	extremity.n.04	indefinite_quantity.n.01
+minister	NOUN	head.n.04
+minne	NOUN	component.n.03	faculty.n.01
+minnesmärke	NOUN	approval.n.04	message.n.02	structure.n.01
+minskning	NOUN	change.n.03
+minut	NOUN	time_unit.n.01
+mischmasch	NOUN	collection.n.01
+missbrukare	NOUN	person.n.01
+missfall	NOUN	happening.n.01	termination.n.05
+missförhållande	NOUN	quality.n.01
+misshandel	NOUN	practice.n.01	transgression.n.01
+missil	NOUN	weapon.n.01
+misslyckande	NOUN	fortune.n.04
+misstag	NOUN	act.n.02
+misstanke	NOUN	cognitive_state.n.01
+misstänkt	NOUN	person.n.01
+missuppfattning	NOUN	idea.n.01
+misär	NOUN	condition.n.01
+mitt	NOUN	area.n.01	part.n.09
+mittpunkt	NOUN	point.n.02
+mjöl	NOUN	foodstuff.n.02
+mjölk	NOUN	beverage.n.01
+mobiltelefon	NOUN	telephone.n.01
+mod	NOUN	trait.n.01
+mode	NOUN	discrimination.n.02
+modell	NOUN	assistant.n.01	hypothesis.n.02	representation.n.02
+modem	NOUN	electronic_equipment.n.01
+modul	NOUN	component.n.03
+molekyl	NOUN	material.n.01	unit.n.05
+moln	NOUN	atmospheric_phenomenon.n.01
+monark	NOUN	negotiator.n.01
+monarki	NOUN	social_group.n.01
+monogami	NOUN	status.n.01
+monogram	NOUN	symbol.n.01
+monopol	NOUN	dominance.n.02
+monster	NOUN	organism.n.01
+montage	NOUN	picture.n.01
+moped	NOUN	motor_vehicle.n.01
+mops	NOUN	carnivore.n.01
+mor	NOUN	genitor.n.01
+moral	NOUN	psychological_state.n.01	trait.n.01
+morbror	NOUN	relative.n.01
+mord	NOUN	termination.n.05
+morfar	NOUN	ancestor.n.01
+morfin	NOUN	medicine.n.02
+morgon	NOUN	time_period.n.01
+morot	NOUN	plant_organ.n.01
+mosaik	NOUN	creation.n.02
+moské	NOUN	place_of_worship.n.01
+mossa	NOUN	organism.n.01
+motbok	NOUN	communication.n.02
+motell	NOUN	hotel.n.01
+motgift	NOUN	medicine.n.02
+motgång	NOUN	happening.n.01
+motion	NOUN	work.n.01
+motiv	NOUN	decoration.n.01	thing.n.12
+motivation	NOUN	act.n.02	condition.n.01	psychological_feature.n.01
+motor	NOUN	machine.n.01
+motorcykel	NOUN	motor_vehicle.n.01
+motorväg	NOUN	road.n.01
+motsats	NOUN	relation.n.01
+motstånd	NOUN	action.n.01
+motståndare	NOUN	person.n.01
+motsvarighet	NOUN	quality.n.01
+motsägelse	NOUN	statement.n.01
+motsättning	NOUN	state.n.02
+mottagning	NOUN	acknowledgment.n.03	broadcasting.n.02	gathering.n.01
+motåtgärd	NOUN	decision.n.01
+mugg	NOUN	container.n.01
+mulatt	NOUN	person.n.01
+mull	NOUN	material.n.01
+mullvad	NOUN	negotiator.n.01	placental.n.01
+multimedia	NOUN	communication.n.01
+mummel	NOUN	auditory_communication.n.01
+mun	NOUN	structure.n.04
+mundering	NOUN	clothing.n.01
+munk	NOUN	person.n.01
+munsbit	NOUN	indefinite_quantity.n.01	morsel.n.01
+munspel	NOUN	device.n.01
+murare	NOUN	skilled_worker.n.01
+murgröna	NOUN	vascular_plant.n.01
+murkla	NOUN	organism.n.01
+mus	NOUN	device.n.01	placental.n.01
+museum	NOUN	facility.n.01
+musik	NOUN	auditory_communication.n.01
+musikal	NOUN	movie.n.01
+musiker	NOUN	artist.n.01
+muskel	NOUN	organ.n.01
+muskulatur	NOUN	body_part.n.01
+mustasch	NOUN	covering.n.01
+muta	NOUN	payment.n.01
+mutation	NOUN	change.n.01
+mygga	NOUN	animal.n.01
+myndighet	NOUN	time_of_life.n.01
+mynt	NOUN	currency.n.01
+myra	NOUN	animal.n.01
+myt	NOUN	writing.n.02
+myteri	NOUN	conflict.n.01
+mäklare	NOUN	businessperson.n.01
+mängd	NOUN	large_indefinite_quantity.n.01
+människa	NOUN	hominid.n.01
+mänsklighet	NOUN	quality.n.01
+märke	NOUN	kind.n.01
+mässling	NOUN	disease.n.01
+mästare	NOUN	artist.n.01	contestant.n.01
+mästerskap	NOUN	high_status.n.01
+mål	NOUN	content.n.05	game_equipment.n.01	goal.n.01	proceeding.n.01	signal.n.01	success.n.02
+målare	NOUN	artist.n.01
+måltid	NOUN	nutriment.n.01
+målvakt	NOUN	player.n.01
+månad	NOUN	time_period.n.01	time_unit.n.01
+måne	NOUN	moon.n.01
+mått	NOUN	instrument.n.01
+måtta	NOUN	boundary.n.01	indefinite_quantity.n.01
+måttband	NOUN	instrument.n.01
+möblemang	NOUN	furnishing.n.02
+möda	NOUN	attempt.n.01
+mögel	NOUN	organism.n.01
+möjlighet	NOUN	option.n.02	possibility.n.02
+mördare	NOUN	person.n.01
+mörker	NOUN	state.n.02
+mössa	NOUN	clothing.n.01
+möte	NOUN	happening.n.01
+nackdel	NOUN	quality.n.01
+nagel	NOUN	structure.n.04
+namn	NOUN	language_unit.n.01
+namne	NOUN	person.n.01
+namnlängd	NOUN	list.n.01
+napalm	NOUN	organic_compound.n.01
+narkos	NOUN	drug.n.01
+narr	NOUN	performer.n.01
+nationalism	NOUN	quality.n.01
+nationalist	NOUN	advocate.n.01	person.n.01
+nationalitet	NOUN	people.n.01	status.n.01
+natrium	NOUN	chemical_element.n.01
+natt	NOUN	time_period.n.01
+nattklubb	NOUN	place_of_business.n.01
+nattlinne	NOUN	clothing.n.01
+nattskjorta	NOUN	clothing.n.01
+natur	NOUN	causal_agent.n.01	natural_object.n.01	quality.n.01
+nedgång	NOUN	change.n.01
+nedrustning	NOUN	social_control.n.01
+nedräkning	NOUN	investigation.n.02
+nedtrappning	NOUN	de-escalation.n.01
+nerdragning	NOUN	change.n.03
+nerv	NOUN	body_part.n.01
+neuros	NOUN	physical_condition.n.01
+neutrum	NOUN	class.n.01
+nikotin	NOUN	organic_compound.n.01
+nivå	NOUN	cognition.n.01	status.n.01
+njure	NOUN	organ.n.01
+njutning	NOUN	happening.n.01
+nod	NOUN	shape.n.02
+nolla	NOUN	integer.n.01
+nomad	NOUN	traveler.n.01
+nomenklatur	NOUN	word.n.01
+nominering	NOUN	decision.n.01
+nonchalans	NOUN	trait.n.01
+nonchalering	NOUN	activity.n.01
+nonsens	NOUN	message.n.02
+norm	NOUN	datum.n.01	standard.n.01	system_of_measurement.n.01
+norr	NOUN	cardinal_compass_point.n.01
+noshörning	NOUN	placental.n.01
+nostalgi	NOUN	feeling.n.01
+not	NOUN	comment.n.02
+nota	NOUN	statement.n.07
+notering	NOUN	statement.n.01
+nougat	NOUN	nutriment.n.01
+nu	NOUN	time.n.05
+nudist	NOUN	person.n.01
+nunna	NOUN	person.n.01
+nutid	NOUN	time.n.05
+nyans	NOUN	meaning.n.01
+nyckel	NOUN	device.n.01
+nyckelpiga	NOUN	animal.n.01
+nyhet	NOUN	broadcast.n.02	information.n.01
+nykomling	NOUN	person.n.01	traveler.n.01
+nypon	NOUN	plant_organ.n.01
+nytta	NOUN	artifact.n.01
+näbb	NOUN	structure.n.04
+näktergal	NOUN	vertebrate.n.01
+nämnare	NOUN	number.n.02
+nämnd	NOUN	committee.n.01
+närvaro	NOUN	being.n.01	trait.n.01
+näsa	NOUN	organ.n.01
+näsborre	NOUN	structure.n.04
+näsduk	NOUN	fabric.n.01	paper.n.01
+nässla	NOUN	vascular_plant.n.01
+nät	NOUN	game_equipment.n.01
+nätet	NOUN	computer_network.n.01
+näthinna	NOUN	body_part.n.01
+nätverk	NOUN	facility.n.01	system.n.02
+nål	NOUN	device.n.01	implement.n.01
+nöd	NOUN	condition.n.01
+nödfall	NOUN	happening.n.01
+nöje	NOUN	feeling.n.01
+nöt	NOUN	plant_organ.n.01
+nötskal	NOUN	covering.n.01
+oavgjord	NOUN	happening.n.01
+observatör	NOUN	expert.n.01	person.n.01
+obygd	NOUN	geographical_area.n.01
+ocean	NOUN	body_of_water.n.01
+ockupant	NOUN	person.n.01
+ockupation	NOUN	social_control.n.01
+odugling	NOUN	unfortunate.n.01
+oenighet	NOUN	state.n.02
+offensiv	NOUN	activity.n.01
+offer	NOUN	termination.n.05	unfortunate.n.01
+ogräs	NOUN	vascular_plant.n.01	weeds.n.01
+ohm	NOUN	unit_of_measurement.n.01
+okunnighet	NOUN	content.n.05
+olja	NOUN	macromolecule.n.01
+oljud	NOUN	happening.n.01
+olycka	NOUN	trouble.n.03
+ombud	NOUN	negotiator.n.01
+ombudsman	NOUN	expert.n.01
+ombyggnad	NOUN	improvement.n.02
+omdöme	NOUN	decision_making.n.01
+omelett	NOUN	nutriment.n.01
+omfattning	NOUN	state.n.02
+omgivning	NOUN	section.n.03
+omloppsbana	NOUN	line.n.11
+omsorg	NOUN	feeling.n.01
+omväxling	NOUN	quality.n.01
+onani	NOUN	sexual_activity.n.01
+oordning	NOUN	condition.n.01
+opera	NOUN	building.n.01	expressive_style.n.01
+operation	NOUN	activity.n.01	procedure.n.01
+operett	NOUN	expressive_style.n.01
+opinion	NOUN	belief.n.01
+opium	NOUN	drug.n.01
+opportunist	NOUN	person.n.01
+opposition	NOUN	organization.n.01
+optiker	NOUN	skilled_worker.n.01
+optimism	NOUN	feeling.n.01	trait.n.01
+optimist	NOUN	person.n.01
+option	NOUN	legal_document.n.01
+ord	NOUN	commitment.n.04	language_unit.n.01
+ordalag	NOUN	statement.n.01
+ordbok	NOUN	book.n.01
+ordförande	NOUN	leader.n.01
+ordination	NOUN	written_communication.n.01
+ordning	NOUN	condition.n.01
+ordspråk	NOUN	speech.n.02
+organ	NOUN	body_part.n.01
+organisation	NOUN	social_group.n.01
+organist	NOUN	performer.n.01
+orgel	NOUN	device.n.01
+orgie	NOUN	diversion.n.01
+orkan	NOUN	atmospheric_phenomenon.n.01
+orkester	NOUN	organization.n.01
+orm	NOUN	vertebrate.n.01
+oro	NOUN	emotion.n.01
+orolighet	NOUN	feeling.n.01	state.n.02
+osanning	NOUN	statement.n.01
+oskuld	NOUN	person.n.01
+ost	NOUN	foodstuff.n.02
+otack	NOUN	feeling.n.01
+otalt	NOUN	emotion.n.01
+otrohet	NOUN	quality.n.01
+ovanlighet	NOUN	quality.n.01
+ovation	NOUN	approval.n.04
+overall	NOUN	clothing.n.01
+ovisshet	NOUN	cognitive_state.n.01	quality.n.01
+ozon	NOUN	fluid.n.02
+p-piller	NOUN	device.n.01
+pacifist	NOUN	adult.n.01
+padda	NOUN	vertebrate.n.01
+paj	NOUN	food.n.02
+paket	NOUN	collection.n.01	container.n.01
+pakt	NOUN	written_agreement.n.01
+palats	NOUN	house.n.01
+pall	NOUN	furniture.n.01
+palm	NOUN	vascular_plant.n.01
+pamflett	NOUN	message.n.02
+panel	NOUN	artifact.n.01
+panik	NOUN	emotion.n.01	psychological_state.n.01
+panna	NOUN	body_part.n.01	implement.n.01
+pannkaka	NOUN	food.n.02
+pantomim	NOUN	acting.n.01
+paper	NOUN	article.n.01
+papiljott	NOUN	mechanism.n.05
+papp	NOUN	paper.n.01
+papper	NOUN	material.n.01
+pappskalle	NOUN	person.n.01
+par	NOUN	gathering.n.01
+parabolantenn	NOUN	electrical_device.n.01
+parad	NOUN	collection.n.01
+paradox	NOUN	statement.n.01
+parafras	NOUN	writing.n.02
+paragraf	NOUN	writing.n.02
+parameter	NOUN	happening.n.01
+paranoia	NOUN	psychological_state.n.01
+paraply	NOUN	covering.n.02
+parasoll	NOUN	covering.n.02
+parentes	NOUN	punctuation.n.02
+parfym	NOUN	instrumentality.n.03
+park	NOUN	tract.n.01
+parkas	NOUN	clothing.n.01
+parkering	NOUN	position.n.07
+parlament	NOUN	legislature.n.01
+parti	NOUN	organization.n.01
+partikel	NOUN	natural_object.n.01
+partner	NOUN	person.n.01
+partnerskap	NOUN	contract.n.01
+pass	NOUN	legal_document.n.01
+passage	NOUN	structure.n.04
+passagerare	NOUN	traveler.n.01
+passersedel	NOUN	approval.n.04
+passion	NOUN	feeling.n.01
+passus	NOUN	section.n.01
+pastell	NOUN	property.n.02
+pastill	NOUN	nutriment.n.01
+pastor	NOUN	leader.n.01
+patent	NOUN	document.n.01	legal_document.n.01
+patient	NOUN	unfortunate.n.01
+patriot	NOUN	person.n.01
+patrull	NOUN	military_unit.n.01
+paus	NOUN	act.n.02
+pedagog	NOUN	expert.n.01
+pekfinger	NOUN	extremity.n.05
+pelare	NOUN	support.n.10
+pengar	NOUN	currency.n.01
+penicillin	NOUN	medicine.n.02
+penis	NOUN	organ.n.01
+penna	NOUN	area.n.05	implement.n.01
+pennalism	NOUN	activity.n.01
+pennkniv	NOUN	tool.n.01
+pension	NOUN	payment.n.01
+pensionär	NOUN	person.n.01
+peppar	NOUN	vascular_plant.n.01
+perception	NOUN	basic_cognitive_process.n.01
+perenn	NOUN	plant.n.02
+periferi	NOUN	shape.n.02
+period	NOUN	fundamental_quantity.n.01	time_interval.n.01
+permission	NOUN	time_period.n.01
+person	NOUN	causal_agent.n.01
+personal	NOUN	force.n.04
+persongalleri	NOUN	covering.n.02	gathering.n.01
+personlighet	NOUN	attribute.n.02
+personsökare	NOUN	device.n.01
+pessar	NOUN	device.n.01
+pessimist	NOUN	intellectual.n.01
+pianist	NOUN	performer.n.01
+piano	NOUN	device.n.01
+piga	NOUN	worker.n.01
+piket	NOUN	wheeled_vehicle.n.01
+pil	NOUN	mark.n.10	weapon.n.01
+pilot	NOUN	skilled_worker.n.01
+pina	NOUN	feeling.n.01
+pincett	NOUN	instrument.n.01
+pingstlilja	NOUN	vascular_plant.n.01
+pinne	NOUN	implement.n.01
+pion	NOUN	vascular_plant.n.01
+pionjär	NOUN	creator.n.02
+pipa	NOUN	way.n.06
+pir	NOUN	support.n.10
+piska	NOUN	instrument.n.01
+pissoar	NOUN	artifact.n.01
+pizza	NOUN	nutriment.n.01
+pizzeria	NOUN	shop.n.01
+pjäs	NOUN	writing.n.02
+plagg	NOUN	clothing.n.01
+plan	NOUN	arrangement.n.03	tract.n.01
+planet	NOUN	natural_object.n.01
+plankton	NOUN	organism.n.01
+planta	NOUN	vascular_plant.n.01
+plantskola	NOUN	building.n.01	room.n.01
+plast	NOUN	solid.n.01
+plats	NOUN	environment.n.02	point.n.02	space.n.03
+plattform	NOUN	surface.n.01
+plattityd	NOUN	statement.n.01
+platå	NOUN	geological_formation.n.01
+playboy	NOUN	person.n.01
+plikt	NOUN	work.n.01
+pling	NOUN	happening.n.01
+plog	NOUN	tool.n.01
+plugghäst	NOUN	person.n.01
+plundring	NOUN	action.n.01
+plutonium	NOUN	chemical_element.n.01
+plysch	NOUN	fabric.n.01
+pläd	NOUN	fabric.n.01
+plånbok	NOUN	container.n.01
+plåster	NOUN	artifact.n.01
+pocket	NOUN	book.n.02
+podium	NOUN	surface.n.01
+poesi	NOUN	writing_style.n.01
+pojke	NOUN	male.n.02
+pojkvän	NOUN	man.n.01
+pol	NOUN	geographic_point.n.01
+policy	NOUN	contract.n.01
+polis	NOUN	defender.n.01	law_enforcement_agency.n.01
+politik	NOUN	relation.n.01
+politiker	NOUN	leader.n.01
+pollen	NOUN	plant_organ.n.01
+polyglott	NOUN	person.n.01
+pommes_frites	NOUN	foodstuff.n.02
+ponny	NOUN	placental.n.01
+pop	NOUN	expressive_style.n.01
+popularitet	NOUN	quality.n.01
+populism	NOUN	belief.n.01
+pormask	NOUN	appearance.n.01
+pornografi	NOUN	creation.n.01
+portfölj	NOUN	container.n.01
+portier	NOUN	assistant.n.01
+portion	NOUN	indefinite_quantity.n.01
+porträtt	NOUN	picture.n.01	statement.n.01
+post	NOUN	message.n.01
+postverk	NOUN	communication.n.01
+potatis	NOUN	foodstuff.n.02	vascular_plant.n.01
+potential	NOUN	possibility.n.02
+poäng	NOUN	attainment.n.01	fact.n.01
+praxis	NOUN	activity.n.01
+precision	NOUN	quality.n.01
+predikan	NOUN	speech_act.n.01
+predikant	NOUN	leader.n.01
+predikstol	NOUN	surface.n.01
+prefekt	NOUN	head.n.04
+prefix	NOUN	language_unit.n.01
+prejudikat	NOUN	example.n.01
+premiss	NOUN	statement.n.01
+presenning	NOUN	fabric.n.01
+presentation	NOUN	communication.n.02
+president	NOUN	negotiator.n.01
+presidentskap	NOUN	position.n.06
+prestation	NOUN	action.n.01
+prestige	NOUN	status.n.01
+preventivmedel	NOUN	device.n.01
+primär	NOUN	group_action.n.01
+princip	NOUN	concept.n.01	law.n.03
+prins	NOUN	leader.n.01
+prinsessa	NOUN	leader.n.01
+prinskorv	NOUN	food.n.02
+prioritet	NOUN	high_status.n.01
+pris	NOUN	award.n.02	value.n.02
+privatliv	NOUN	trait.n.01
+privilegium	NOUN	asset.n.01
+problem	NOUN	difficulty.n.02	happening.n.01
+procent	NOUN	proportion.n.01
+process	NOUN	activity.n.01
+producent	NOUN	creator.n.02
+produkt	NOUN	commodity.n.01	consequence.n.01	quantity.n.03
+produktion	NOUN	indefinite_quantity.n.01
+professor	NOUN	educator.n.01
+professur	NOUN	position.n.06
+profil	NOUN	view.n.02
+profylax	NOUN	act.n.02
+prognos	NOUN	statement.n.01
+program	NOUN	code.n.03	idea.n.01	show.n.03	software.n.01	statement.n.01
+programmerare	NOUN	person.n.01
+projekt	NOUN	plan.n.01	work.n.01
+projektil	NOUN	weapon.n.01
+projektion	NOUN	thinking.n.01	visual_communication.n.01
+proletariat	NOUN	people.n.01
+proletär	NOUN	person.n.01
+prolog	NOUN	section.n.01
+promemoria	NOUN	record.n.01
+pronomen	NOUN	word.n.01
+propaganda	NOUN	information.n.01
+propeller	NOUN	mechanism.n.05
+proportion	NOUN	magnitude.n.01	quotient.n.01
+prostata	NOUN	organ.n.01
+prostitution	NOUN	transgression.n.01
+protein	NOUN	macromolecule.n.01
+protektionism	NOUN	thinking.n.01
+protest	NOUN	group_action.n.01
+prototyp	NOUN	representation.n.01
+prov	NOUN	communication.n.01	example.n.01	investigation.n.02
+provision	NOUN	fixed_charge.n.01
+prydnad	NOUN	artifact.n.01
+prygel	NOUN	social_control.n.01
+prärie	NOUN	tract.n.01
+pråm	NOUN	vessel.n.02
+prövning	NOUN	trouble.n.03
+psalm	NOUN	writing.n.02
+psoriasis	NOUN	disease.n.01
+psykiater	NOUN	health_professional.n.01
+psykiatri	NOUN	science.n.01
+psykoanalys	NOUN	care.n.01
+psykoanalytiker	NOUN	health_professional.n.01
+psykolog	NOUN	person.n.01
+psykologi	NOUN	science.n.01
+psykopat	NOUN	unfortunate.n.01
+psykos	NOUN	psychological_state.n.01
+pub	NOUN	building.n.01
+pubertet	NOUN	time_of_life.n.01
+publicist	NOUN	communicator.n.01
+publicitet	NOUN	quality.n.01
+publik	NOUN	gathering.n.01
+publikation	NOUN	commercial_enterprise.n.02	work.n.02
+puck	NOUN	mechanism.n.05
+pudding	NOUN	nutriment.n.01
+pullover	NOUN	clothing.n.01
+pulver	NOUN	solid.n.01
+pump	NOUN	mechanism.n.05
+pumpa	NOUN	food.n.02	vascular_plant.n.01
+pund	NOUN	area.n.05	unit_of_measurement.n.01
+punkt	NOUN	punctuation.n.02	shape.n.02
+punktering	NOUN	artifact.n.01
+pupill	NOUN	shape.n.02
+puppa	NOUN	animal.n.01
+pussel	NOUN	game_equipment.n.01
+pyramid	NOUN	assets.n.01	shape.n.02
+pyroman	NOUN	unfortunate.n.01
+päls	NOUN	material.n.01
+påbud	NOUN	act.n.01
+påfyllning	NOUN	natural_process.n.01
+påhopp	NOUN	message.n.02
+påhäng	NOUN	person.n.01
+pålle	NOUN	gee-gee.n.01
+pålägg	NOUN	foodstuff.n.02
+påsklilja	NOUN	vascular_plant.n.01
+påslag	NOUN	amount.n.02
+påssjuka	NOUN	disease.n.01
+påstående	NOUN	speech_act.n.01	statement.n.01
+påtryckning	NOUN	need.n.01
+påverkan	NOUN	consequence.n.01
+pöl	NOUN	body_of_water.n.01
+quisling	NOUN	person.n.01
+rabalder	NOUN	gathering.n.01
+rabatt	NOUN	change.n.03
+rabbin	NOUN	leader.n.01
+rabies	NOUN	disease.n.01
+rad	NOUN	formation.n.01
+radar	NOUN	instrument.n.01
+radband	NOUN	collection.n.01
+radikal	NOUN	person.n.01
+radio	NOUN	receiver.n.01	system.n.01
+radium	NOUN	chemical_element.n.01
+raffinaderi	NOUN	structure.n.01
+ragu	NOUN	nutriment.n.01
+raket	NOUN	vehicle.n.01
+rallare	NOUN	worker.n.01
+rally	NOUN	gathering.n.01
+ramaskri	NOUN	auditory_communication.n.01
+ranch	NOUN	workplace.n.01
+rapport	NOUN	document.n.01
+ras	NOUN	group.n.01
+rasism	NOUN	inclination.n.01	social_control.n.01
+rasist	NOUN	advocate.n.01
+ravin	NOUN	geological_formation.n.01
+rea	NOUN	opportunity.n.01
+reaktion	NOUN	consequence.n.01	natural_process.n.01	physical_phenomenon.n.01
+reaktionär	NOUN	adult.n.01
+reaktor	NOUN	electrical_device.n.01	equipment.n.01
+realism	NOUN	utility.n.02
+rebell	NOUN	person.n.01
+rebus	NOUN	subject.n.01
+recension	NOUN	criticism.n.03
+recept	NOUN	medicine.n.02
+recession	NOUN	condition.n.01
+redare	NOUN	person.n.01
+redogörelse	NOUN	news.n.02	statement.n.01
+redundans	NOUN	degree.n.01
+referat	NOUN	statement.n.01
+referens	NOUN	comment.n.02
+referenspunkt	NOUN	signal.n.01
+reform	NOUN	improvement.n.02
+regatta	NOUN	contest.n.01
+regel	NOUN	concept.n.01	direction.n.06	practice.n.05
+regering	NOUN	polity.n.02
+reggae	NOUN	expressive_style.n.01
+region	NOUN	location.n.01
+register	NOUN	book.n.01	record.n.01
+regn	NOUN	weather.n.01
+regnbåge	NOUN	belief.n.01	shape.n.02
+regnrock	NOUN	clothing.n.01
+rehabilitering	NOUN	care.n.01
+reklam	NOUN	commercial_enterprise.n.02	message.n.02	promotion.n.01
+rekommendation	NOUN	praise.n.01
+rekord	NOUN	attainment.n.01
+rekreation	NOUN	activity.n.01	improvement.n.02
+rektangel	NOUN	figure.n.06
+rekvisita	NOUN	action.n.01
+relation	NOUN	state.n.02
+relevans	NOUN	relation.n.01
+reling	NOUN	gunwale.n.01
+remiss	NOUN	proposal.n.01
+remsa	NOUN	part.n.03
+rep	NOUN	artifact.n.01
+repetition	NOUN	activity.n.01
+reporter	NOUN	communicator.n.01
+repressalie	NOUN	group_action.n.01
+reproduktion	NOUN	representation.n.02
+reptil	NOUN	vertebrate.n.01
+republik	NOUN	social_group.n.01
+resa	NOUN	journey.n.01
+reserv	NOUN	income.n.01
+reservation	NOUN	feeling.n.01
+reservoar	NOUN	body_of_water.n.01
+residens	NOUN	geographic_point.n.01
+respons	NOUN	statement.n.01
+rest	NOUN	food.n.02	part.n.01
+restaurang	NOUN	building.n.01
+restaurering	NOUN	condition.n.01
+resultat	NOUN	ending.n.04	number.n.02	product.n.02
+resurs	NOUN	asset.n.01
+retorik	NOUN	humanistic_discipline.n.01
+reumatiker	NOUN	rheumatic.n.01
+revben	NOUN	body_part.n.01
+revisor	NOUN	student.n.01
+revolution	NOUN	group_action.n.01
+revolutionär	NOUN	person.n.01
+rikedom	NOUN	assets.n.01	property.n.01
+rikoschett	NOUN	movement.n.03
+riktlinje	NOUN	concept.n.01
+riktning	NOUN	direction.n.02	inclination.n.01
+ring	NOUN	artifact.n.01	decoration.n.01	surface.n.01
+ringblomma	NOUN	vascular_plant.n.01
+ringklocka	NOUN	mechanism.n.05
+ris	NOUN	foodstuff.n.02
+risk	NOUN	venture.n.01
+ritare	NOUN	skilled_worker.n.01
+ritual	NOUN	custom.n.01
+rivalitet	NOUN	group_action.n.01
+robot	NOUN	mechanism.n.05
+rock	NOUN	expressive_style.n.01
+rodd	NOUN	sport.n.01
+rodnad	NOUN	property.n.02
+rojalism	NOUN	aid.n.02
+rokoko	NOUN	property.n.02
+roll	NOUN	acting.n.01	activity.n.01
+roman	NOUN	book.n.02	writing.n.02
+rop	NOUN	auditory_communication.n.01
+ros	NOUN	vascular_plant.n.01
+rosett	NOUN	decoration.n.01
+rot	NOUN	plant_organ.n.01
+rotation	NOUN	motion.n.03	movement.n.03
+rotvälska	NOUN	message.n.02
+rovdjur	NOUN	animal.n.01	person.n.01
+royalty	NOUN	family.n.04	payment.n.01
+rubrik	NOUN	text.n.01
+ruelse	NOUN	feeling.n.01
+rugby	NOUN	outdoor_game.n.01
+ruin	NOUN	building.n.01	happening.n.01
+rulle	NOUN	shape.n.02
+rullstol	NOUN	furniture.n.01
+rum	NOUN	area.n.05
+runa	NOUN	character.n.08
+russin	NOUN	plant_organ.n.01
+rutin	NOUN	procedure.n.01
+rutschbana	NOUN	artifact.n.01
+rutt	NOUN	line.n.11
+ryggrad	NOUN	structure.n.04
+ryggskott	NOUN	evidence.n.01
+rykte	NOUN	speech_act.n.01
+rytm	NOUN	time.n.05
+ryttare	NOUN	traveler.n.01
+räcke	NOUN	structure.n.01
+räckvidd	NOUN	extent.n.02
+räd	NOUN	activity.n.01
+räddning	NOUN	condition.n.01
+rädsla	NOUN	emotion.n.01
+räfst	NOUN	questioning.n.01
+räls	NOUN	implement.n.01
+rälsbuss	NOUN	wheeled_vehicle.n.01
+rännil	NOUN	body_of_water.n.01
+rännsten	NOUN	way.n.06
+ränta	NOUN	fixed_charge.n.01
+rättighet	NOUN	legal_right.n.01	righteousness.n.01
+rättstavning	NOUN	writing.n.04
+rättstvist	NOUN	proceeding.n.01
+rättvisa	NOUN	righteousness.n.01
+räv	NOUN	carnivore.n.01
+råd	NOUN	administrative_unit.n.01	proposal.n.01
+rådgivare	NOUN	expert.n.01
+rån	NOUN	transgression.n.01
+råskinn	NOUN	person.n.01
+råtta	NOUN	placental.n.01
+rök	NOUN	physical_phenomenon.n.01
+rön	NOUN	collection.n.01
+rönnbär	NOUN	rowanberry.n.01
+röntgen	NOUN	photograph.n.01
+rör	NOUN	shape.n.02	structure.n.04
+röra	NOUN	condition.n.01
+rörelse	NOUN	change.n.03	social_group.n.01
+rörelsemängd	NOUN	physical_property.n.01
+rörmokare	NOUN	skilled_worker.n.01
+röst	NOUN	choice.n.02	quality.n.01
+röstläge	NOUN	expressive_style.n.01
+rösträtt	NOUN	legal_right.n.01
+röstsedel	NOUN	document.n.01
+sabbatsår	NOUN	time_period.n.01
+sabotage	NOUN	termination.n.05
+sadism	NOUN	feeling.n.01
+sadist	NOUN	person.n.01
+safari	NOUN	journey.n.01
+saga	NOUN	writing.n.02
+sagesman	NOUN	communicator.n.01
+sajt	NOUN	computer.n.01
+sak	NOUN	physical_entity.n.01	symbol.n.01
+sakrament	NOUN	activity.n.01
+sal	NOUN	building.n.01
+saldo	NOUN	quality.n.01
+sallad	NOUN	nutriment.n.01
+salong	NOUN	room.n.01	shop.n.01
+salt	NOUN	foodstuff.n.02
+salvelse	NOUN	quality.n.01
+samarbete	NOUN	practice.n.01
+samfärdsel	NOUN	discipline.n.01
+samhälle	NOUN	district.n.01	social_group.n.01
+samhörighet	NOUN	quality.n.01
+samlevnad	NOUN	being.n.01
+samling	NOUN	group.n.01
+sammanbrott	NOUN	illness.n.01
+sammandrabbning	NOUN	state.n.02
+sammandrag	NOUN	statement.n.01
+sammanhang	NOUN	language_unit.n.01
+sammankomst	NOUN	group_action.n.01
+sammansvärjning	NOUN	plan_of_action.n.01
+sammanträde	NOUN	assembly.n.06
+sammet	NOUN	fabric.n.01
+samråd	NOUN	speech.n.02
+samspel	NOUN	group_action.n.01
+samtal	NOUN	speech.n.02
+samtid	NOUN	peer.n.01
+samvete	NOUN	psychological_feature.n.01
+sand	NOUN	cardinal_virtue.n.01	material.n.01
+sandal	NOUN	covering.n.02
+sandpapper	NOUN	material.n.01
+sandwich	NOUN	nutriment.n.01
+sanning	NOUN	being.n.01	statement.n.01
+sannolikhet	NOUN	measure.n.02	quality.n.01
+satellit	NOUN	equipment.n.01
+satin	NOUN	fabric.n.01
+satir	NOUN	message.n.02
+sats	NOUN	statement.n.01
+satsning	NOUN	commercial_enterprise.n.02
+saxofon	NOUN	device.n.01
+scen	NOUN	emotion.n.01	photograph.n.01	surface.n.01	writing.n.02
+scenario	NOUN	statement.n.01
+schack	NOUN	activity.n.01
+schakt	NOUN	geological_formation.n.01	way.n.06
+scharlakansfeber	NOUN	scarlet_fever.n.01
+schema	NOUN	list.n.01	representation.n.01
+schimpans	NOUN	taxonomic_group.n.01
+schism	NOUN	change.n.03	shape.n.02
+schizofreni	NOUN	psychological_state.n.01
+schnitzel	NOUN	nutriment.n.01
+seans	NOUN	gathering.n.01
+sedel	NOUN	currency.n.01
+sediment	NOUN	matter.n.03
+segel	NOUN	fabric.n.01
+segelflyg	NOUN	travel.n.01
+seger	NOUN	financial_gain.n.01	success.n.01
+segrare	NOUN	contestant.n.01
+sejdel	NOUN	container.n.01
+sejour	NOUN	act.n.02
+sekret	NOUN	organic_process.n.01	substance.n.01
+sekretariat	NOUN	administrative_unit.n.01
+sekreterare	NOUN	assistant.n.01
+sekretess	NOUN	trait.n.01
+sekretär	NOUN	furniture.n.01
+sektor	NOUN	feature.n.01
+sekund	NOUN	time_unit.n.01
+semester	NOUN	time_period.n.01
+semifinal	NOUN	contest.n.01
+semikolon	NOUN	punctuation.n.02
+seminarium	NOUN	course.n.01	gathering.n.01
+senat	NOUN	legislature.n.01
+senator	NOUN	leader.n.01
+sensation	NOUN	physical_condition.n.01
+sensitivitet	NOUN	feeling.n.01
+sensmoral	NOUN	meaning.n.01
+sensor	NOUN	device.n.01
+sentiment	NOUN	feeling.n.01
+separation	NOUN	group_action.n.01
+serie	NOUN	broadcast.n.02	message.n.02
+serum	NOUN	substance.n.01
+serve	NOUN	motion.n.06
+servett	NOUN	commodity.n.01
+service	NOUN	aid.n.02	improvement.n.02
+servicebox	NOUN	facility.n.01
+servitris	NOUN	worker.n.01
+servitör	NOUN	worker.n.01
+session	NOUN	assembly.n.06	term.n.02
+sexualitet	NOUN	property.n.02
+sfär	NOUN	geographical_area.n.01	shape.n.02
+sherry	NOUN	drug_of_abuse.n.01
+shopping	NOUN	act.n.02
+shorts	NOUN	clothing.n.01
+show	NOUN	social_event.n.01
+sida	NOUN	leaf.n.02	opinion.n.02	surface.n.02
+siden	NOUN	fabric.n.01
+siesta	NOUN	bodily_process.n.01
+sigill	NOUN	symbol.n.01
+silikon	NOUN	compound.n.02
+silver	NOUN	chemical_element.n.01	property.n.02
+simulator	NOUN	machine.n.01
+singular	NOUN	word.n.01
+sinne	NOUN	cognition.n.01	faculty.n.01
+sinnelag	NOUN	trait.n.01
+sistaårsstudent	NOUN	student.n.01
+sits	NOUN	furniture.n.01
+situation	NOUN	state.n.02
+sjal	NOUN	clothing.n.01
+sjukdom	NOUN	evidence.n.01	ill_health.n.01	illness.n.01
+sjukgymnast	NOUN	expert.n.01
+sjukgymnastik	NOUN	care.n.01
+sjukhus	NOUN	building.n.01
+sjukhusavdelning	NOUN	housing.n.01
+sjuksköterska	NOUN	health_professional.n.01
+sjukvård	NOUN	examination.n.01
+själ	NOUN	causal_agent.n.01
+själamässa	NOUN	music.n.01
+själsstyrka	NOUN	cardinal_virtue.n.01
+självaktning	NOUN	feeling.n.01
+självbiografi	NOUN	history.n.02
+självförverkligande	NOUN	self-fulfillment.n.01
+självmord	NOUN	person.n.01	termination.n.05
+självservering	NOUN	service.n.15
+självstyre	NOUN	state.n.02
+självständighet	NOUN	state.n.02
+självsvåld	NOUN	transgression.n.01
+sjö	NOUN	body_of_water.n.01
+sjökort	NOUN	map.n.01
+sjöman	NOUN	skilled_worker.n.01
+sjösjuka	NOUN	seasickness.n.01
+sjöstjärna	NOUN	animal.n.01
+skada	NOUN	change.n.01	ill_health.n.01
+skadestånd	NOUN	payment.n.01
+skaft	NOUN	implement.n.01
+skal	NOUN	covering.n.01	material.n.01
+skala	NOUN	standard.n.01
+skalp	NOUN	covering.n.01
+skalpell	NOUN	tool.n.01
+skalv	NOUN	natural_phenomenon.n.01
+skam	NOUN	feeling.n.01	trouble.n.03
+skampåle	NOUN	instrument.n.01
+skandal	NOUN	speech_act.n.01	trouble.n.03
+skapande	NOUN	activity.n.01
+skateboard	NOUN	wheeled_vehicle.n.01
+skatt	NOUN	collection.n.01	levy.n.01
+skattebetalare	NOUN	person.n.01
+skatteåterbäring	NOUN	legal_document.n.01
+sked	NOUN	container.n.01
+skelett	NOUN	body_part.n.01
+skenben	NOUN	body_part.n.01
+skepnad	NOUN	appearance.n.01
+skepsis	NOUN	content.n.05
+skida	NOUN	device.n.01
+skift	NOUN	time_period.n.01
+skiftnyckel	NOUN	movement.n.03
+skikt	NOUN	covering.n.02
+skiljeman	NOUN	expert.n.01
+skilsmässa	NOUN	group_action.n.01
+skimmer	NOUN	change.n.01
+skinka	NOUN	food.n.02
+skinn	NOUN	covering.n.01
+skiss	NOUN	boundary.n.01
+skiva	NOUN	mechanism.n.05	part.n.03
+skivstång	NOUN	equipment.n.01
+skjorta	NOUN	clothing.n.01
+skjuts	NOUN	act.n.02	journey.n.01
+sko	NOUN	covering.n.02
+skog	NOUN	land.n.04
+skogsbruk	NOUN	science.n.01
+skohorn	NOUN	device.n.01
+skoj	NOUN	diversion.n.01
+skola	NOUN	building.n.01	educational_institution.n.01
+skolbänk	NOUN	furniture.n.01
+skolk	NOUN	group_action.n.01
+skorsten	NOUN	way.n.06
+skott	NOUN	act.n.02
+skottkärra	NOUN	wheeled_vehicle.n.01
+skrammel	NOUN	happening.n.01
+skreva	NOUN	shape.n.02
+skriftsystem	NOUN	writing.n.04
+skrivare	NOUN	electronic_equipment.n.01
+skrivmaskin	NOUN	machine.n.01
+skruv	NOUN	fastener.n.02
+skräck	NOUN	feeling.n.01
+skrå	NOUN	association.n.01
+skröna	NOUN	statement.n.01
+skugga	NOUN	state.n.02
+skuld	NOUN	condition.n.01	liabilities.n.01
+skulderblad	NOUN	body_part.n.01
+skulptur	NOUN	figure.n.06	humanistic_discipline.n.01
+skulptör	NOUN	artist.n.01
+skumpa	NOUN	drug_of_abuse.n.01
+skur	NOUN	weather.n.01
+skvaller	NOUN	speech.n.02	speech_act.n.01
+skydd	NOUN	condition.n.01
+skyddsling	NOUN	person.n.01
+skyfall	NOUN	weather.n.01
+skylt	NOUN	structure.n.01
+skymning	NOUN	hour.n.02
+skymt	NOUN	view.n.02
+skyskrapa	NOUN	building.n.01
+skytt	NOUN	expert.n.01
+skägg	NOUN	covering.n.01
+skäl	NOUN	psychological_state.n.01
+skällsord	NOUN	message.n.02
+skämt	NOUN	message.n.02
+skämtteckning	NOUN	message.n.02
+skärm	NOUN	covering.n.02	surface.n.01
+skärp	NOUN	clothing.n.01
+skådespelare	NOUN	performer.n.01
+skål	NOUN	container.n.01
+skåp	NOUN	area.n.05	furniture.n.01
+skåpbil	NOUN	motor_vehicle.n.01
+sköka	NOUN	woman.n.01
+sköld	NOUN	covering.n.02
+skönlitteratur	NOUN	writing.n.02
+skörd	NOUN	commercial_enterprise.n.02	season.n.02
+skötsel	NOUN	improvement.n.02	work.n.01
+slag	NOUN	military_action.n.01	motion.n.03
+slagfält	NOUN	tract.n.01
+slagord	NOUN	speech.n.02
+slagsida	NOUN	position.n.07	property.n.02
+slagsmål	NOUN	conflict.n.01
+slalom	NOUN	contest.n.01
+slav	NOUN	person.n.01
+slem	NOUN	matter.n.03
+slinga	NOUN	shape.n.02
+slinka	NOUN	woman.n.01
+slipover	NOUN	clothing.n.01
+slips	NOUN	clothing.n.01
+slit	NOUN	work.n.01
+slott	NOUN	structure.n.01
+slum	NOUN	district.n.01
+slump	NOUN	phenomenon.n.01
+slusk	NOUN	person.n.01
+sluttning	NOUN	geological_formation.n.01
+slutvinjett	NOUN	part.n.02
+slyna	NOUN	person.n.01	woman.n.01
+slägga	NOUN	tool.n.01
+släkting	NOUN	person.n.01	social_group.n.01
+släktskap	NOUN	relation.n.01
+slöja	NOUN	clothing.n.01
+slöseri	NOUN	trait.n.01
+smak	NOUN	faculty.n.01	feeling.n.01	perception.n.03
+smide	NOUN	creation.n.01
+smil	NOUN	visual_communication.n.01
+smink	NOUN	instrumentality.n.03
+smitare	NOUN	person.n.01
+smitta	NOUN	happening.n.01
+smog	NOUN	condition.n.01
+smolk	NOUN	material.n.01
+smuts	NOUN	condition.n.01
+smärta	NOUN	perception.n.03	person.n.01
+smärting	NOUN	fabric.n.01
+småbruk	NOUN	smallholding.n.01
+smör	NOUN	foodstuff.n.02	person.n.01
+snabbköp	NOUN	mercantile_establishment.n.01
+snacks	NOUN	meal.n.01
+snaps	NOUN	drug_of_abuse.n.01
+snatteri	NOUN	transgression.n.01
+snigel	NOUN	animal.n.01
+snurra	NOUN	artifact.n.01
+snut	NOUN	defender.n.01
+snutt	NOUN	part.n.02
+snäcka	NOUN	covering.n.01
+snö	NOUN	weather.n.01
+snöre	NOUN	artifact.n.01	fabric.n.01
+snöskoter	NOUN	self-propelled_vehicle.n.01
+socialist	NOUN	leader.n.01
+socialvård	NOUN	gift.n.01
+sociolog	NOUN	person.n.01
+sociologi	NOUN	science.n.01
+socka	NOUN	clothing.n.01
+sockel	NOUN	structure.n.01	support.n.10
+socker	NOUN	foodstuff.n.02
+sockerdricka	NOUN	beverage.n.01
+soffa	NOUN	furniture.n.01
+sol	NOUN	sun.n.01
+solarium	NOUN	room.n.01
+solbränna	NOUN	physical_condition.n.01
+soldat	NOUN	skilled_worker.n.01
+solglasögon	NOUN	instrument.n.01
+solidaritet	NOUN	quality.n.01
+solist	NOUN	performer.n.01
+solo	NOUN	activity.n.01
+solsken	NOUN	physical_phenomenon.n.01	weather.n.01
+solsting	NOUN	illness.n.01
+soluppgång	NOUN	happening.n.01
+sommar	NOUN	season.n.02	time_of_life.n.01
+sommartid	NOUN	season.n.02
+son	NOUN	male_offspring.n.01
+sondotter	NOUN	offspring.n.01
+sonson	NOUN	offspring.n.01
+soppa	NOUN	nutriment.n.01
+sopran	NOUN	communication.n.02
+soptunna	NOUN	container.n.01
+sorg	NOUN	emotion.n.01	feeling.n.01
+sorl	NOUN	movement.n.03
+sortiment	NOUN	collection.n.01
+sovrum	NOUN	room.n.01
+spad	NOUN	fluid.n.02
+spak	NOUN	implement.n.01
+spaljé	NOUN	structure.n.01
+sparsamhet	NOUN	cardinal_virtue.n.01
+specimen	NOUN	natural_object.n.01
+spegel	NOUN	basic_cognitive_process.n.01	device.n.01
+spegelbild	NOUN	picture.n.01
+spektrum	NOUN	extent.n.02
+spel	NOUN	activity.n.01
+spelare	NOUN	contestant.n.01
+spenat	NOUN	food.n.02	vascular_plant.n.01
+spets	NOUN	fabric.n.01	shape.n.02
+spett	NOUN	fastener.n.02
+spetälska	NOUN	disease.n.01
+spik	NOUN	fastener.n.02
+spillra	NOUN	condition.n.01
+spindel	NOUN	animal.n.01
+spion	NOUN	negotiator.n.01
+spole	NOUN	mechanism.n.05
+spoling	NOUN	person.n.01
+sport	NOUN	diversion.n.01
+spott	NOUN	substance.n.01
+spratt	NOUN	decision.n.01
+sprej	NOUN	substance.n.01
+spricka	NOUN	shape.n.02
+springa	NOUN	artifact.n.01
+sprinkler	NOUN	mechanism.n.05
+sprinter	NOUN	contestant.n.01
+sprut	NOUN	movement.n.03
+språk	NOUN	communication.n.02
+spröjs	NOUN	artifact.n.01
+spurt	NOUN	movement.n.03
+sputnik	NOUN	sputnik.n.01
+spänning	NOUN	condition.n.01	physical_condition.n.01	state.n.02
+spång	NOUN	structure.n.01
+spånskiva	NOUN	artifact.n.01
+spår	NOUN	evidence.n.01	indication.n.01	line.n.11
+spårvagn	NOUN	self-propelled_vehicle.n.01
+spöke	NOUN	causal_agent.n.01
+spökskrivare	NOUN	writer.n.01
+stad	NOUN	municipality.n.01
+stadga	NOUN	document.n.01
+stadion	NOUN	structure.n.01
+stadium	NOUN	time_period.n.01
+stadsdel	NOUN	district.n.01
+staffli	NOUN	support.n.10
+stall	NOUN	building.n.01
+stam	NOUN	social_group.n.01	taxonomic_group.n.01
+standard	NOUN	option.n.02
+stank	NOUN	perception.n.03
+stat	NOUN	administrative_district.n.01
+statistik	NOUN	science.n.01
+statsman	NOUN	leader.n.01
+status	NOUN	status.n.01
+staty	NOUN	figure.n.06
+stav	NOUN	symbol.n.01
+stavelse	NOUN	language_unit.n.01
+stearin	NOUN	organic_compound.n.01
+steg	NOUN	decision.n.01	indefinite_quantity.n.01	status.n.01	support.n.10
+stege	NOUN	way.n.06
+stek	NOUN	food.n.02
+sten	NOUN	natural_object.n.01
+stengods	NOUN	implement.n.01
+stetoskop	NOUN	instrument.n.01
+steward	NOUN	assistant.n.01
+stiftelse	NOUN	institution.n.01
+stil	NOUN	direction.n.06	quality.n.01
+stilett	NOUN	weapon.n.01
+stillestånd	NOUN	state.n.02
+stimulans	NOUN	change_of_state.n.01
+stins	NOUN	leader.n.01
+stipendium	NOUN	education.n.02	gift.n.01
+stjälk	NOUN	plant_organ.n.01
+stjärna	NOUN	expert.n.01	figure.n.06	natural_object.n.01
+stjärntecken	NOUN	region.n.01
+stjärt	NOUN	body_part.n.01
+stock	NOUN	material.n.01
+stol	NOUN	furniture.n.01
+stolpe	NOUN	signal.n.01
+stolpiller	NOUN	medicine.n.02
+stolthet	NOUN	feeling.n.01
+stoppur	NOUN	instrument.n.01
+storhet	NOUN	property.n.02
+storhetsvansinne	NOUN	megalomania.n.01
+storlek	NOUN	magnitude.n.01
+storm	NOUN	atmospheric_phenomenon.n.01
+stormakt	NOUN	state.n.04
+stormarknad	NOUN	mercantile_establishment.n.01
+straff	NOUN	social_control.n.01
+strand	NOUN	geological_formation.n.01
+strejk	NOUN	activity.n.01	group_action.n.01	happening.n.01
+strejkbrytare	NOUN	worker.n.01
+strid	NOUN	conflict.n.01
+stridsspets	NOUN	chemical.n.01
+stridsvagn	NOUN	self-propelled_vehicle.n.01
+strimma	NOUN	physical_phenomenon.n.01
+strof	NOUN	text.n.01
+stroke	NOUN	trouble.n.03
+struktur	NOUN	artifact.n.01	property.n.02
+strumpbyxor	NOUN	clothing.n.01
+strupe	NOUN	structure.n.04
+strut	NOUN	device.n.01
+strävan	NOUN	activity.n.01	higher_cognitive_process.n.01	trait.n.01
+strålning	NOUN	evidence.n.01	natural_process.n.01
+ström	NOUN	physical_phenomenon.n.01
+strömbrytare	NOUN	mechanism.n.05
+strövtåg	NOUN	travel.n.01
+stuckatur	NOUN	substance.n.01
+student	NOUN	enrollee.n.01
+studerande	NOUN	person.n.01
+studie	NOUN	document.n.01
+studio	NOUN	workplace.n.01
+stuga	NOUN	house.n.01
+stup	NOUN	geological_formation.n.01
+stuprör	NOUN	way.n.06
+stycke	NOUN	music.n.01
+stygn	NOUN	creation.n.02
+styrbord	NOUN	side.n.05
+styre	NOUN	dominance.n.02	era.n.01	time_period.n.01
+styresman	NOUN	member.n.01
+styrka	NOUN	asset.n.01	property.n.02	unit.n.03
+styrman	NOUN	skilled_worker.n.01
+styrning	NOUN	mechanism.n.05
+styvbarn	NOUN	child.n.02
+styvfar	NOUN	genitor.n.01
+styvmor	NOUN	genitor.n.01
+ställ	NOUN	structure.n.01
+ställföreträdare	NOUN	negotiator.n.01
+ställning	NOUN	number.n.02	state.n.02
+stämning	NOUN	condition.n.01
+stängsel	NOUN	structure.n.01
+ståhej	NOUN	motion.n.03
+stål	NOUN	substance.n.01
+stålverk	NOUN	structure.n.01
+stånd	NOUN	shop.n.01
+ståndpunkt	NOUN	attitude.n.01
+stång	NOUN	implement.n.01
+stöd	NOUN	aid.n.02	device.n.01	support.n.10
+stöld	NOUN	transgression.n.01
+störning	NOUN	structure.n.01
+stöt	NOUN	bodily_process.n.01
+subkultur	NOUN	social_group.n.01
+substantiv	NOUN	word.n.01
+sugrör	NOUN	way.n.06
+summa	NOUN	collection.n.01
+sumpmark	NOUN	object.n.01
+sup	NOUN	container.n.01
+suput	NOUN	consumer.n.01
+surfingbräda	NOUN	artifact.n.01
+surpuppa	NOUN	sourpuss.n.01
+svada	NOUN	trait.n.01
+svaghet	NOUN	property.n.02	state.n.02
+svan	NOUN	vertebrate.n.01
+svans	NOUN	body_part.n.01
+svar	NOUN	reply.n.02
+svarande	NOUN	person.n.01
+svarv	NOUN	machine.n.01
+svavel	NOUN	chemical_element.n.01
+svett	NOUN	substance.n.01
+svin	NOUN	person.n.01
+svit	NOUN	housing.n.01
+svägerska	NOUN	relative.n.01
+svält	NOUN	need.n.01
+svärd	NOUN	weapon.n.01
+svärfar	NOUN	genitor.n.01
+svärmor	NOUN	genitor.n.01
+svävare	NOUN	craft.n.02
+svåger	NOUN	relative.n.01
+svågerpolitik	NOUN	social_control.n.01
+svårighet	NOUN	quality.n.01
+svårmod	NOUN	condition.n.01
+syfilis	NOUN	disease.n.01
+syl	NOUN	tool.n.01
+sylt	NOUN	nutriment.n.01
+symbios	NOUN	relation.n.01
+symbol	NOUN	basic_cognitive_process.n.01	signal.n.01
+symmetri	NOUN	property.n.02
+symposium	NOUN	gathering.n.01
+symtom	NOUN	evidence.n.01	indication.n.01
+syn	NOUN	faculty.n.01
+synagoga	NOUN	place_of_worship.n.01
+synd	NOUN	transgression.n.01
+syndabock	NOUN	unfortunate.n.01
+syndikalist	NOUN	person.n.01
+syndrom	NOUN	evidence.n.01	whole.n.01
+synonym	NOUN	word.n.01
+syra	NOUN	compound.n.02
+syre	NOUN	chemical_element.n.01
+syren	NOUN	vascular_plant.n.01
+syrsa	NOUN	animal.n.01	outdoor_game.n.01
+system	NOUN	group.n.01
+syster	NOUN	relative.n.01
+säd	NOUN	foodstuff.n.02
+sädesslag	NOUN	food.n.02
+säkerhet	NOUN	condition.n.01
+säkerhetssystem	NOUN	electrical_device.n.01
+säl	NOUN	placental.n.01
+sällskap	NOUN	friendship.n.01	organization.n.01
+sändning	NOUN	message.n.01
+säng	NOUN	furniture.n.01
+sängvätare	NOUN	bedwetter.n.01
+sänka	NOUN	geological_formation.n.01
+särdrag	NOUN	quality.n.01
+säte	NOUN	seat.n.01
+sågspån	NOUN	material.n.01
+såll	NOUN	device.n.01
+sångare	NOUN	performer.n.01
+sår	NOUN	ill_health.n.01
+sås	NOUN	foodstuff.n.02
+söder	NOUN	cardinal_compass_point.n.01	confederacy.n.01
+sökande	NOUN	person.n.01
+sömn	NOUN	physical_condition.n.01
+sömngångare	NOUN	person.n.01
+sömntuta	NOUN	person.n.01
+söndag	NOUN	day_of_the_week.n.01
+sönderfall	NOUN	natural_process.n.01
+t-shirt	NOUN	clothing.n.01
+tabell	NOUN	arrangement.n.02
+tablett	NOUN	medicine.n.02
+tablå	NOUN	visual_communication.n.01
+tack	NOUN	acknowledgment.n.03	aid.n.02
+tagg	NOUN	body_part.n.01
+tak	NOUN	covering.n.02	side.n.05	thinking.n.01
+takt	NOUN	happening.n.01	property.n.02
+taktik	NOUN	plan_of_action.n.01
+tal	NOUN	auditory_communication.n.01	expressive_style.n.01	symbol.n.01
+talare	NOUN	communicator.n.01
+talesman	NOUN	advocate.n.01
+talg	NOUN	macromolecule.n.01
+tallrik	NOUN	artifact.n.01
+talong	NOUN	record.n.01
+tamburin	NOUN	device.n.01
+tampong	NOUN	structure.n.01
+tand	NOUN	body_part.n.01	structure.n.01
+tandkräm	NOUN	compound.n.02
+tandlossning	NOUN	disease.n.01
+tandläkare	NOUN	health_professional.n.01
+tandpetare	NOUN	tool.n.01
+tandprotes	NOUN	device.n.01
+tandvärk	NOUN	evidence.n.01
+tanke	NOUN	higher_cognitive_process.n.01
+tapet	NOUN	paper.n.01
+tapetserare	NOUN	skilled_worker.n.01
+tariff	NOUN	tax.n.01
+tarm	NOUN	organ.n.01
+tarmvred	NOUN	intestinal_obstruction.n.01
+tassemark	NOUN	country.n.04
+tavla	NOUN	creation.n.02
+tax	NOUN	carnivore.n.01
+taxi	NOUN	car.n.01
+te	NOUN	beverage.n.01
+teater	NOUN	communication.n.01
+tecken	NOUN	communication.n.02	evidence.n.02	happening.n.01	visual_communication.n.01
+teckenförklaring	NOUN	list.n.01
+teckning	NOUN	representation.n.02
+tegel	NOUN	instrumentality.n.03	person.n.01
+tejp	NOUN	artifact.n.01	recording.n.03
+teknik	NOUN	skillfulness.n.01
+teknologi	NOUN	discipline.n.01
+telefon	NOUN	electronic_equipment.n.01
+telefonlinje	NOUN	instrumentality.n.03
+telefonnummer	NOUN	signal.n.01
+telefonsamtal	NOUN	telecommunication.n.01
+telefonväxel	NOUN	workplace.n.01
+telegraf	NOUN	equipment.n.01
+telegram	NOUN	message.n.01
+teleprinter	NOUN	teletypewriter.n.01
+teleskop	NOUN	instrument.n.01
+telning	NOUN	vascular_plant.n.01
+tema	NOUN	idea.n.01	music.n.01
+tempel	NOUN	place_of_worship.n.01
+temperatur	NOUN	physical_property.n.01
+tempo	NOUN	rate.n.01
+tempus	NOUN	class.n.01
+tendens	NOUN	attitude.n.01
+tenn	NOUN	chemical_element.n.01
+tennis	NOUN	athletic_game.n.01
+tenta	NOUN	communication.n.01
+teolog	NOUN	intellectual.n.01
+teologi	NOUN	discipline.n.01
+teoretiker	NOUN	intellectual.n.01
+teori	NOUN	concept.n.01
+terapeut	NOUN	expert.n.01
+terapi	NOUN	care.n.01
+term	NOUN	word.n.01
+terminal	NOUN	electronic_equipment.n.01
+terminologi	NOUN	word.n.01
+termometer	NOUN	instrument.n.01
+termos	NOUN	container.n.01
+termostat	NOUN	mechanism.n.05
+terrier	NOUN	carnivore.n.01
+terrorism	NOUN	social_control.n.01
+terrorist	NOUN	person.n.01
+tesaurus	NOUN	book.n.01
+test	NOUN	inquiry.n.01
+testamente	NOUN	legal_document.n.01
+testikel	NOUN	organ.n.01
+text	NOUN	matter.n.06
+textil	NOUN	artifact.n.01
+textrad	NOUN	text.n.01
+tic	NOUN	evidence.n.01
+tid	NOUN	reading.n.03
+tidning	NOUN	medium.n.01
+tidsfördriv	NOUN	diversion.n.01
+tidskrift	NOUN	publication.n.01
+tidsålder	NOUN	era.n.01
+tidtabell	NOUN	list.n.01
+tidvatten	NOUN	happening.n.01
+tiger	NOUN	carnivore.n.01	person.n.01
+tik	NOUN	carnivore.n.01
+tilldelning	NOUN	assets.n.01
+tillfredsställelse	NOUN	feeling.n.01
+tillfälle	NOUN	point.n.06
+tillfällighet	NOUN	happening.n.01
+tillgivenhet	NOUN	feeling.n.01
+tillgång	NOUN	indefinite_quantity.n.01	quality.n.01	right.n.01
+tillit	NOUN	friendship.n.01	state.n.02
+tillmötesgående	NOUN	group_action.n.01
+tillsats	NOUN	component.n.03
+tillstånd	NOUN	natural_phenomenon.n.01	state.n.02
+tillverkning	NOUN	act.n.02	creation.n.01
+tillvägagångssätt	NOUN	action.n.01	proceeding.n.01
+tillväxt	NOUN	process.n.06
+tillägg	NOUN	component.n.03	statement.n.01
+tillämpning	NOUN	use.n.01
+tillåtelse	NOUN	approval.n.04
+timme	NOUN	clock_time.n.01	time_unit.n.01
+timmer	NOUN	artifact.n.01
+tinning	NOUN	body_part.n.01
+tips	NOUN	guidance.n.01
+titel	NOUN	legal_right.n.01	name.n.01	text.n.01
+tjockis	NOUN	person.n.01
+tjuder	NOUN	restraint.n.06
+tjuv	NOUN	person.n.01
+tjäder	NOUN	vertebrate.n.01
+tjänare	NOUN	status.n.01	worker.n.01
+tjänst	NOUN	action.n.01
+tjänsteman	NOUN	worker.n.01
+toalettartikel	NOUN	instrumentality.n.03
+toast	NOUN	foodstuff.n.02
+tok	NOUN	person.n.01
+tomat	NOUN	food.n.02	vascular_plant.n.01
+tombola	NOUN	tombola.n.01
+tomgång	NOUN	act.n.02
+tomrum	NOUN	shape.n.02
+tomt	NOUN	tract.n.01
+ton	NOUN	unit_of_measurement.n.01	writing.n.04
+tonart	NOUN	writing.n.04
+tonhöjd	NOUN	property.n.02
+tonåring	NOUN	person.n.01
+topp	NOUN	clothing.n.01	extremity.n.04	side.n.04
+toppmöte	NOUN	gathering.n.01	topographic_point.n.01
+torg	NOUN	tract.n.01
+torgskräck	NOUN	physical_condition.n.01
+torn	NOUN	structure.n.01
+torp	NOUN	workplace.n.01
+torpare	NOUN	creator.n.02
+torso	NOUN	body_part.n.01
+tortyr	NOUN	practice.n.01
+torv	NOUN	material.n.01
+tradition	NOUN	practice.n.05
+trafik	NOUN	collection.n.01
+tragedi	NOUN	writing_style.n.01
+trans	NOUN	psychological_state.n.01
+transaktion	NOUN	group_action.n.01
+transfer	NOUN	change.n.03
+transformator	NOUN	electrical_device.n.01
+transistor	NOUN	device.n.01
+transport	NOUN	commercial_enterprise.n.02
+transvestit	NOUN	person.n.01
+trappa	NOUN	way.n.06
+tredska	NOUN	refractoriness.n.01
+trehjuling	NOUN	wheeled_vehicle.n.01
+trend	NOUN	line.n.11
+treudd	NOUN	weapon.n.01
+triangel	NOUN	figure.n.06
+tribut	NOUN	approval.n.04
+trick	NOUN	diversion.n.01
+trikå	NOUN	fabric.n.01
+trilogi	NOUN	collection.n.01
+tro	NOUN	belief.n.01	cardinal_virtue.n.01	content.n.05	idea.n.01
+trollformel	NOUN	speech.n.02
+tron	NOUN	furniture.n.01
+trosa	NOUN	clothing.n.01
+trottoar	NOUN	way.n.06
+trovärdighet	NOUN	quality.n.01
+trubadur	NOUN	performer.n.01
+truck	NOUN	motor_vehicle.n.01	wheeled_vehicle.n.01
+truism	NOUN	statement.n.01
+trumma	NOUN	device.n.01	shape.n.02
+trumpet	NOUN	device.n.01
+trumslagare	NOUN	performer.n.01
+trumvirvel	NOUN	happening.n.01
+trupp	NOUN	military_unit.n.01
+tryck	NOUN	creation.n.02	perception.n.03	physical_phenomenon.n.01
+tryckpress	NOUN	machine.n.01
+trä	NOUN	material.n.01
+träd	NOUN	figure.n.06	vascular_plant.n.01
+trädgård	NOUN	collection.n.01
+träff	NOUN	gathering.n.01	person.n.01
+tränare	NOUN	educator.n.01	leader.n.01	machine.n.01
+trängsel	NOUN	situation.n.01
+träning	NOUN	activity.n.01
+tråd	NOUN	artifact.n.01
+tröja	NOUN	clothing.n.01
+tröskel	NOUN	shape.n.02	support.n.10
+tröst	NOUN	aid.n.02
+tuba	NOUN	device.n.01
+tuberkulos	NOUN	disease.n.01
+tull	NOUN	fixed_charge.n.01	tax.n.01
+tulpan	NOUN	vascular_plant.n.01
+tum	NOUN	linear_unit.n.01	unit_of_measurement.n.01
+tumme	NOUN	extremity.n.05
+tumult	NOUN	motion.n.03
+tumör	NOUN	illness.n.01
+tunga	NOUN	organ.n.01
+tungomål	NOUN	language.n.01
+tunna	NOUN	container.n.01
+tunnbröd	NOUN	foodstuff.n.02
+tunnel	NOUN	geological_formation.n.01	way.n.06
+tunnelbana	NOUN	business.n.01
+tunnland	NOUN	unit_of_measurement.n.01
+turbin	NOUN	machine.n.01
+turism	NOUN	commercial_enterprise.n.02
+turist	NOUN	traveler.n.01
+turnering	NOUN	contest.n.01
+tuta	NOUN	device.n.01
+tuva	NOUN	collection.n.01
+tvekan	NOUN	cognitive_state.n.01
+tvetydighet	NOUN	quality.n.01
+tvilling	NOUN	relative.n.01	representation.n.02
+tving	NOUN	device.n.01
+tvivel	NOUN	quality.n.01
+tvärslå	NOUN	support.n.10
+tvätt	NOUN	clothing.n.01
+tvåa	NOUN	status.n.01
+tvål	NOUN	compound.n.02
+tyfus	NOUN	disease.n.01
+tyngd	NOUN	physical_property.n.01
+typsnitt	NOUN	character.n.08
+tystnad	NOUN	property.n.02
+täcke	NOUN	covering.n.02
+täljare	NOUN	number.n.02
+tält	NOUN	object.n.01	structure.n.01
+tändare	NOUN	device.n.01
+tändsticka	NOUN	device.n.01
+tänkare	NOUN	intellectual.n.01
+tätting	NOUN	vertebrate.n.01
+tävlan	NOUN	group_action.n.01
+tävling	NOUN	social_event.n.01
+tå	NOUN	extremity.n.05
+tåg	NOUN	conveyance.n.03
+tåglinje	NOUN	road.n.01
+tålamod	NOUN	trait.n.01
+tår	NOUN	indefinite_quantity.n.01
+töcken	NOUN	cognitive_state.n.01
+tönt	NOUN	person.n.01
+uggla	NOUN	vertebrate.n.01
+ugn	NOUN	consumer_goods.n.01
+ultimatum	NOUN	request.n.01
+undanflykt	NOUN	explanation.n.01
+undantag	NOUN	example.n.01
+under	NOUN	event.n.01
+underhåll	NOUN	payment.n.01
+underhållning	NOUN	diversion.n.01
+underkastelse	NOUN	feeling.n.01
+underkjol	NOUN	clothing.n.01
+underlag	NOUN	act.n.02
+underrättelsetjänst	NOUN	administrative_unit.n.01
+underskott	NOUN	amount.n.02
+underskrift	NOUN	name.n.01
+understatement	NOUN	statement.n.01
+undersökning	NOUN	investigation.n.02
+underverk	NOUN	happening.n.01
+undervisning	NOUN	profession.n.02
+undsättning	NOUN	act.n.02
+ungdom	NOUN	people.n.01	time_of_life.n.01
+ungdomsvårdsskola	NOUN	establishment.n.04
+uniform	NOUN	clothing.n.01
+universalmedel	NOUN	medicine.n.02
+universitet	NOUN	body.n.02
+universum	NOUN	natural_object.n.01
+uppassning	NOUN	act.n.02
+uppehåll	NOUN	act.n.02	person.n.01
+uppfart	NOUN	road.n.01
+uppfödare	NOUN	creator.n.02
+uppgift	NOUN	undertaking.n.01
+uppgång	NOUN	position.n.07
+upphovsrätt	NOUN	legal_right.n.01
+upplopp	NOUN	action.n.01
+uppmärksamhet	NOUN	faculty.n.01
+upprepning	NOUN	happening.n.01
+uppror	NOUN	conflict.n.01
+uppryckning	NOUN	management.n.01
+upprättelse	NOUN	accomplishment.n.01
+uppsats	NOUN	writing.n.02
+uppskattning	NOUN	problem_solving.n.02
+uppsättning	NOUN	collection.n.01
+upptagenhet	NOUN	idea.n.01
+uppträdande	NOUN	diversion.n.01
+upptäckt	NOUN	higher_cognitive_process.n.01
+uppvaknande	NOUN	change_of_state.n.01
+uppvaktning	NOUN	request.n.02
+uppvisning	NOUN	diversion.n.01
+urin	NOUN	material.n.01
+urklipp	NOUN	section.n.01
+urmakare	NOUN	creator.n.02
+ursprung	NOUN	point.n.02
+urval	NOUN	natural_process.n.01
+utbildning	NOUN	activity.n.01
+utbyggnad	NOUN	component.n.03
+utbyte	NOUN	speech.n.02
+utdelning	NOUN	payment.n.01
+utdrag	NOUN	section.n.01
+uteblivande	NOUN	transferred_property.n.01
+utfyllnad	NOUN	artifact.n.01
+utgivare	NOUN	firm.n.01
+utgrävning	NOUN	tract.n.01
+utgång	NOUN	artifact.n.01
+utgåva	NOUN	publication.n.01
+utkant	NOUN	section.n.03
+utkast	NOUN	text.n.01
+utkik	NOUN	defender.n.01
+utlägg	NOUN	transferred_property.n.01
+utlämning	NOUN	transaction.n.01
+utlänning	NOUN	traveler.n.01
+utlåning	NOUN	act.n.02
+utmaning	NOUN	situation.n.01
+utmätning	NOUN	act.n.02
+utomjording	NOUN	ability.n.02
+utpressning	NOUN	transgression.n.01
+utredare	NOUN	expert.n.01
+utrustning	NOUN	equipment.n.01	instrumentality.n.03
+utsatthet	NOUN	property.n.02
+utseende	NOUN	appearance.n.01	quality.n.01
+utsida	NOUN	region.n.01	surface.n.02
+utsikt	NOUN	belief.n.01	visual_percept.n.01
+utskick	NOUN	promotion.n.01
+utslagning	NOUN	process.n.06
+utstyrsel	NOUN	clothing.n.01
+utställning	NOUN	collection.n.01	diversion.n.01
+uttryck	NOUN	speech.n.02
+utveckling	NOUN	organic_process.n.01
+utvisning	NOUN	act.n.02
+utväxt	NOUN	illness.n.01
+vaccin	NOUN	substance.n.07
+vad	NOUN	transgression.n.01
+vadare	NOUN	vertebrate.n.01
+vadd	NOUN	material.n.01
+vakt	NOUN	defender.n.01
+vaktmästare	NOUN	defender.n.01
+vakuum	NOUN	consumer_goods.n.01	shape.n.02
+val	NOUN	decision_making.n.01	group_action.n.01	placental.n.01
+valkrets	NOUN	body.n.02
+vallmo	NOUN	vascular_plant.n.01
+valuta	NOUN	medium_of_exchange.n.01
+valv	NOUN	way.n.06
+vana	NOUN	custom.n.01	practice.n.05
+vandalism	NOUN	termination.n.05
+vandringsled	NOUN	way.n.06
+vanära	NOUN	status.n.01
+vapen	NOUN	instrument.n.01	weapon.n.01
+vapenvila	NOUN	state.n.02
+var	NOUN	substance.n.01
+varaktighet	NOUN	time_period.n.01
+vardag	NOUN	day_of_the_week.n.01
+varg	NOUN	carnivore.n.01
+variabel	NOUN	quantity.n.03
+variant	NOUN	kind.n.01
+variation	NOUN	change.n.01
+varm_korv	NOUN	food.n.02
+varning	NOUN	proposal.n.01
+varsel	NOUN	speech_act.n.01
+vas	NOUN	container.n.01
+vask	NOUN	artifact.n.01
+vatten	NOUN	binary_compound.n.01
+vattendrag	NOUN	body_of_water.n.01
+vattenfall	NOUN	body_of_water.n.01
+vax	NOUN	macromolecule.n.01
+veck	NOUN	shape.n.02
+vecka	NOUN	time_period.n.01
+veckoslut	NOUN	time_period.n.01
+vedbod	NOUN	building.n.01
+vedermöda	NOUN	fortune.n.04
+vegetarian	NOUN	consumer.n.01
+vektor	NOUN	quantity.n.03
+ven	NOUN	structure.n.04
+verkan	NOUN	phenomenon.n.01
+verklighet	NOUN	being.n.01
+verksamhet	NOUN	undertaking.n.01
+verkstad	NOUN	course.n.01	workplace.n.01
+verkställande	NOUN	body.n.02
+verktyg	NOUN	implement.n.01
+versal	NOUN	character.n.08
+version	NOUN	explanation.n.01	writing.n.02
+vete	NOUN	vascular_plant.n.01
+vetenskap	NOUN	discipline.n.01
+vetenskapsman	NOUN	intellectual.n.01
+veteran	NOUN	skilled_worker.n.01
+viadukt	NOUN	structure.n.01
+video	NOUN	recording.n.03
+vigsel	NOUN	custom.n.01
+vikt	NOUN	equipment.n.01	unit_of_measurement.n.01	value.n.02
+vila	NOUN	time_interval.n.01
+vilja	NOUN	faculty.n.01
+viljestyrka	NOUN	trait.n.01
+villkor	NOUN	statement.n.01
+vin	NOUN	drug_of_abuse.n.01
+vind	NOUN	structure.n.01	weather.n.01
+vindruta	NOUN	covering.n.02
+vinge	NOUN	device.n.01	organ.n.01
+vinkel	NOUN	attitude.n.01	shape.n.02
+vinsch	NOUN	device.n.01
+vinst	NOUN	asset.n.01
+vinter	NOUN	season.n.02
+vinthund	NOUN	carnivore.n.01
+virus	NOUN	causal_agent.n.01	program.n.07
+vision	NOUN	basic_cognitive_process.n.01
+visitkort	NOUN	acknowledgment.n.03
+visum	NOUN	approval.n.04
+vita	NOUN	foodstuff.n.02
+vitamin	NOUN	nutriment.n.01
+vitlök	NOUN	foodstuff.n.02	vascular_plant.n.01
+vitrinskåp	NOUN	container.n.01
+vittne	NOUN	person.n.01
+vokalist	NOUN	performer.n.01
+volontär	NOUN	skilled_worker.n.01	worker.n.01
+volym	NOUN	measure.n.02	property.n.02	publication.n.01
+vrist	NOUN	body_part.n.01
+vrå	NOUN	shape.n.02
+vulkan	NOUN	geological_formation.n.01	shape.n.02
+vuxen	NOUN	person.n.01
+vykort	NOUN	mail.n.01
+väckning	NOUN	change_of_state.n.01
+väder	NOUN	atmospheric_phenomenon.n.01
+väg	NOUN	action.n.01	implementation.n.02	way.n.06
+vägg	NOUN	structure.n.01
+väggrepp	NOUN	physical_phenomenon.n.01
+vägkant	NOUN	boundary.n.01
+vägledning	NOUN	message.n.02
+vägran	NOUN	speech_act.n.01
+väktare	NOUN	defender.n.01
+välbefinnande	NOUN	fortune.n.04
+välgörenhet	NOUN	act.n.02	institution.n.01
+väljare	NOUN	person.n.01
+väljarkår	NOUN	group.n.01
+välling	NOUN	nutriment.n.01
+välljud	NOUN	perception.n.03
+välsignelse	NOUN	aid.n.02
+välstånd	NOUN	condition.n.01	fortune.n.04
+välvilja	NOUN	trait.n.01
+vän	NOUN	person.n.01
+vänskap	NOUN	relationship.n.03
+vänster	NOUN	position.n.01
+värd	NOUN	adult.n.01
+värde	NOUN	measure.n.02	quality.n.01	quantity.n.03
+värdering	NOUN	commercial_document.n.01	idea.n.01	statement.n.01
+värdighet	NOUN	feeling.n.01
+värdshus	NOUN	hotel.n.01
+värja	NOUN	weapon.n.01
+värld	NOUN	experience.n.02
+värme	NOUN	facility.n.01
+värnplikt	NOUN	social_control.n.01
+väster	NOUN	cardinal_compass_point.n.01
+västerlandet	NOUN	west.n.01
+väta	NOUN	condition.n.01
+vätska	NOUN	matter.n.03	substance.n.01
+vävnad	NOUN	body_part.n.01
+vävstol	NOUN	machine.n.01
+växel	NOUN	mechanism.n.05
+växellåda	NOUN	covering.n.02
+växelmynt	NOUN	currency.n.01
+växelström	NOUN	physical_phenomenon.n.01
+växt	NOUN	organism.n.01
+växtlighet	NOUN	collection.n.01
+våffla	NOUN	food.n.02
+våg	NOUN	instrument.n.01	movement.n.03
+vågbrytare	NOUN	structure.n.01
+vågspel	NOUN	undertaking.n.01
+våld	NOUN	action.n.01
+våldtäkt	NOUN	transgression.n.01
+vånda	NOUN	evidence.n.01	feeling.n.01
+våning	NOUN	structure.n.01
+vår	NOUN	season.n.02
+vårdnadshavare	NOUN	defender.n.01
+walkie-talkie	NOUN	walkie-talkie.n.01
+watt	NOUN	unit_of_measurement.n.01
+whisky	NOUN	drug_of_abuse.n.01
+wienerkorv	NOUN	food.n.02
+xylofon	NOUN	device.n.01
+yard	NOUN	linear_unit.n.01
+ylle	NOUN	fabric.n.01
+ynkrygg	NOUN	person.n.01
+ynnest	NOUN	action.n.01
+yoghurt	NOUN	foodstuff.n.02
+yrke	NOUN	occupation.n.01
+yrväder	NOUN	atmospheric_phenomenon.n.01
+yta	NOUN	boundary.n.01
+ytter	NOUN	contestant.n.01
+ytterlighet	NOUN	degree.n.01
+yxa	NOUN	tool.n.01
+zebra	NOUN	placental.n.01
+zenit	NOUN	point.n.02
+zon	NOUN	topographic_point.n.01
+zoo	NOUN	facility.n.01
+ädelsten	NOUN	solid.n.01
+ägande	NOUN	relation.n.01
+ägare	NOUN	businessperson.n.01
+ägg	NOUN	foodstuff.n.02
+ägodel	NOUN	possession.n.02
+äktenskap	NOUN	kin.n.02	status.n.01
+älskare	NOUN	domestic_partner.n.01
+älskling	NOUN	person.n.01
+älva	NOUN	belief.n.01
+ämne	NOUN	knowledge_domain.n.01	message.n.02	substance.n.01
+ände	NOUN	boundary.n.01	extremity.n.04
+ändring	NOUN	change.n.03	happening.n.01
+ändtarm	NOUN	body_part.n.01
+äng	NOUN	tract.n.01
+ängel	NOUN	belief.n.01
+änka	NOUN	woman.n.01
+änkling	NOUN	man.n.01
+äpple	NOUN	plant_organ.n.01	vascular_plant.n.01
+ära	NOUN	status.n.01
+ärm	NOUN	covering.n.02
+ärr	NOUN	appearance.n.01
+åklagare	NOUN	skilled_worker.n.01
+åktur	NOUN	journey.n.01
+ålder	NOUN	property.n.02
+ålderdom	NOUN	time_of_life.n.01
+åldringsvård	NOUN	people.n.01
+ånga	NOUN	substance.n.01
+ånger	NOUN	feeling.n.01
+ångest	NOUN	psychological_state.n.01
+år	NOUN	time_period.n.01
+åra	NOUN	implement.n.01
+århundrade	NOUN	time_period.n.01
+årstid	NOUN	time_period.n.01
+årtionde	NOUN	time_period.n.01
+ås	NOUN	geological_formation.n.01
+åsikt	NOUN	legal_document.n.01	message.n.02
+åskådare	NOUN	person.n.01
+åskådning	NOUN	attitude.n.01
+åtal	NOUN	proceeding.n.01
+återblick	NOUN	thinking.n.01
+återfå	NOUN	act.n.02
+återförsäljare	NOUN	businessperson.n.01
+återhämtning	NOUN	act.n.02
+återkomst	NOUN	motion.n.06
+återkoppling	NOUN	statement.n.01
+återupplivande	NOUN	change.n.01
+ö	NOUN	land.n.04
+öde	NOUN	condition.n.03
+ödem	NOUN	evidence.n.01
+öga	NOUN	organ.n.01
+ögonblick	NOUN	time.n.03
+ögonbryn	NOUN	covering.n.01
+ögonfrans	NOUN	covering.n.01
+ögonkast	NOUN	activity.n.01
+ögonlock	NOUN	body_part.n.01
+ögonskugga	NOUN	instrumentality.n.03
+ögonvittne	NOUN	person.n.01
+öken	NOUN	tract.n.01
+ökning	NOUN	amount.n.02
+öl	NOUN	drug_of_abuse.n.01
+öra	NOUN	organ.n.01
+öre	NOUN	currency.n.01
+örn	NOUN	basic_cognitive_process.n.01	vertebrate.n.01
+örsprång	NOUN	earache.n.01
+ört	NOUN	foodstuff.n.02	vascular_plant.n.01
+öster	NOUN	cardinal_compass_point.n.01	east.n.02
+överblick	NOUN	statement.n.01
+överbyggnad	NOUN	structure.n.01
+överenskommelse	NOUN	state.n.02
+överfall	NOUN	transgression.n.01
+överflöd	NOUN	amount.n.02
+övergång	NOUN	change.n.01
+övergångsställe	NOUN	way.n.06
+överlevande	NOUN	unfortunate.n.01
+överlevnad	NOUN	being.n.01
+överlåtelse	NOUN	termination.n.05
+överman	NOUN	person.n.01
+överordnad	NOUN	leader.n.01
+överraskning	NOUN	change.n.01
+översikt	NOUN	statement.n.01
+överskott	NOUN	amount.n.02
+överste	NOUN	skilled_worker.n.01
+översvämning	NOUN	natural_phenomenon.n.01
+övertygelse	NOUN	belief.n.01	due_process.n.01
+övervikt	NOUN	property.n.02
+övervägande	NOUN	thinking.n.01
+överväldigande	NOUN	number.n.01
+övning	NOUN	activity.n.01
+alla	PRON	everybody_NP	everyone_NP
+allt	PRON	everything_NP
+de	PRON	theyFem_Pron	they_Pron
+den	PRON	it_Pron
+du	PRON	youSgFem_Pron	youSg_Pron
+han	PRON	he_Pron
+hon	PRON	she_Pron
+ingen	PRON	nobody_NP	none_NP
+ingenting	PRON	nothing_NP
+jag	PRON	iFem_Pron	i_Pron
+mycket	PRON	plenty_NP
+ni	PRON	youPlFem_Pron	youPl_Pron	youPolFem_Pron	youPol_Pron
+någon	PRON	anybody_NP	anyone_NP	somebody_NP	someone_NP
+någonting	PRON	something_NP
+något	PRON	anything_NP
+vad	PRON	whatSg_IP
+vem	PRON	whoSg_IP
+vi	PRON	weFem_Pron	we_Pron
+vilka	PRON	whatPl_IP	whoPl_IP
+absorbera	VERB	absorb.v.06
+acceptera	VERB	digest.v.03
+addera	VERB	count.v.01
+adoptera	VERB	adopt.v.05
+aktivera	VERB	change.v.01
+aktualisera	VERB	inform.v.01
+alfabetisera	VERB	arrange.v.01
+alstra	VERB	make.v.03
+ambulera	VERB	walk.v.01
+amortera	VERB	amortize.v.01
+amputera	VERB	remove.v.01
+andas	VERB	breathe.v.01
+anfalla	VERB	assail.v.01
+anhålla	VERB	seize.v.01
+anklaga	VERB	charge.v.07
+annonsera	VERB	praise.v.01
+anordna	VERB	make.v.03
+anpassa	VERB	change.v.02
+anrätta	VERB	create_from_raw_material.v.01
+anslå	VERB	announce.v.01
+anställa	VERB	hire.v.01
+anta	VERB	expect.v.01	get.v.01	permit.v.01
+antända	VERB	ignite.v.01
+använda	VERB	practice.v.04
+applådera	VERB	communicate.v.02
+arbeta	VERB	work.v.02
+arrangera	VERB	organize.v.02
+artikulera	VERB	state.v.01
+asfaltera	VERB	cover.v.01
+attrahera	VERB	attract.v.02	pull.v.01
+auktorisera	VERB	authorize.v.01
+avbryta	VERB	end.v.02
+avböja	VERB	refuse.v.02
+avdramatisera	VERB	remove.v.01
+avfyra	VERB	fire.v.02
+avfärda	VERB	evaluate.v.02
+avguda	VERB	adore.v.01
+avgå	VERB	change.v.02
+avgöra	VERB	determine.v.02	settle.v.13
+avhysa	VERB	move.v.02
+avla	VERB	make.v.03	produce.v.02
+avlägsna	VERB	extinguish.v.04
+avlämna	VERB	accept.v.01
+avrätta	VERB	kill.v.01
+avskaffa	VERB	abolish.v.01
+avskeda	VERB	displace.v.03
+avskräcka	VERB	evaluate.v.02	hash_out.v.01
+avsky	VERB	abhor.v.01
+avslagen	VERB	change.v.02
+avsluta	VERB	end.v.02
+avslöja	VERB	interact.v.01	tell.v.02
+avstå	VERB	foreswear.v.02
+avvara	VERB	give.v.03
+avvika	VERB	differ.v.01	move.v.03	tell.v.02
+avvisa	VERB	move.v.02
+backa	VERB	change.v.01
+baka	VERB	create_from_raw_material.v.01
+balansera	VERB	adjust.v.01
+balsamera	VERB	have.v.01
+banka	VERB	move.v.03
+bannlysa	VERB	move.v.02
+basa	VERB	change.v.02
+be	VERB	communicate.v.01	communicate.v.02	request.v.01
+be_om_ursäkt	VERB	apologize.v.01
+bedra	VERB	inform.v.01
+befalla	VERB	order.v.01
+befordra	VERB	appoint.v.02
+befrämja	VERB	stimulate.v.03
+begagna	VERB	gain.v.08	get.v.01
+bege_sig	VERB	leave.v.01
+begrava	VERB	lay.v.02	put.v.01
+begripa	VERB	understand.v.01
+begränsa	VERB	restrain.v.01
+behandla	VERB	broach.v.01	interact.v.01	treat.v.03
+behålla	VERB	have.v.01
+behöva	VERB	be.v.01
+bekosta	VERB	pay.v.01
+bekymra_sig	VERB	worry.v.01
+bekämpa	VERB	contend.v.06
+belysa	VERB	change.v.02
+belöna	VERB	act.v.01	pay.v.01
+bemyndiga	VERB	appoint.v.02
+bemästra	VERB	know.v.02
+benämna	VERB	name.v.01
+bero	VERB	be.v.01
+berätta	VERB	inform.v.01
+beröra	VERB	move.v.11
+beröva	VERB	keep.v.03
+besegra	VERB	be.v.01	get_the_better_of.v.01
+beskriva	VERB	set_forth.v.01
+bestraffa	VERB	punish.v.01
+bestrida	VERB	talk.v.01
+bestämma_sig	VERB	decide.v.01
+bestå	VERB	measure.v.03
+besvära	VERB	annoy.v.01	perturb.v.01
+besöka	VERB	travel.v.03
+beta	VERB	provide.v.02
+betala	VERB	give.v.03
+betjäna	VERB	help.v.01
+betona	VERB	express.v.01
+betyda	VERB	mean.v.03
+beundra	VERB	look.v.01	see.v.05
+bevara	VERB	cook.v.02
+bevisa	VERB	confirm.v.01
+bida	VERB	stay.v.04
+binda	VERB	attach.v.01	interact.v.01	join.v.04
+bistå	VERB	support.v.01
+bita	VERB	seize.v.01
+bjuda	VERB	offer.v.07
+bjuda_in	VERB	request.v.01
+bladdra	VERB	talk.v.02
+blanda	VERB	change_integrity.v.01	manipulate.v.02
+bli	VERB	transform.v.03
+blicka	VERB	touch.v.01
+blidka	VERB	reconcile.v.03
+blinka	VERB	cause_to_be_perceived.v.01
+blomma	VERB	develop.v.10
+blomstra	VERB	change_state.v.01
+blänga	VERB	communicate.v.02	look.v.01
+blåsa_upp	VERB	increase.v.02
+blöda	VERB	shed_blood.v.02
+blöta	VERB	soak.v.01
+bogsera	VERB	pull.v.01
+bojkotta	VERB	prevent.v.02
+boka	VERB	request.v.01
+bomba	VERB	contend.v.06	fail.v.07
+borda	VERB	board.v.01
+borsta	VERB	brush.v.01
+bosätta_sig	VERB	better.v.02
+bota	VERB	better.v.02
+bre	VERB	spread.v.10
+bredda	VERB	change.v.01
+brevväxla	VERB	correspond.v.03
+brinna	VERB	burn.v.05
+brista	VERB	change_integrity.v.01
+brottas	VERB	contend.v.06
+bruka	VERB	change.v.03
+brumma	VERB	grumble.v.03
+bry_sig_om	VERB	feel.v.01
+bryta_sig_in	VERB	interact.v.01
+brännas	VERB	cause_to_be_perceived.v.01
+bua	VERB	declare.v.01
+buga	VERB	change_posture.v.01
+buklanda	VERB	belly-land.v.01
+bukta	VERB	grow.v.02
+bygga	VERB	construct.v.01	make.v.15
+byta	VERB	switch.v.03
+byta_ut	VERB	exchange.v.01
+bära	VERB	transport.v.02
+böja	VERB	change.v.02	move.v.03
+börja	VERB	begin.v.03
+bötfälla	VERB	record.v.01
+catera	VERB	provide.v.02
+centralisera	VERB	change.v.01
+centrifugera	VERB	move.v.03
+chockera	VERB	shock.v.02
+cirkulera	VERB	publicize.v.01
+citera	VERB	tell.v.02
+dammsuga	VERB	change.v.01
+dansa	VERB	move.v.03
+debitera	VERB	charge.v.03	pay.v.01
+debut	VERB	debut.v.02
+decentralisera	VERB	change.v.01
+dedicera	VERB	communicate.v.02
+definiera	VERB	choose.v.01
+dela	VERB	change_integrity.v.01	use.v.01
+delta	VERB	act.v.01	enter.v.02
+demonstrera	VERB	evaluate.v.02
+desertera	VERB	leave.v.01
+designa	VERB	create_by_mental_act.v.01
+diagram	VERB	re-create.v.01
+dikta	VERB	caulk.v.01
+diktera	VERB	talk.v.02
+dinera	VERB	eat.v.02
+diskriminera	VERB	discriminate.v.02
+diskutera	VERB	hash_out.v.01	talk_of.v.01
+distribuera	VERB	give.v.08
+dokumentera	VERB	confirm.v.01	record.v.01
+dominera	VERB	affect.v.01	stimulate.v.03
+donera	VERB	give.v.08
+dra	VERB	move.v.02
+dra_sig_tillbaka	VERB	go_to_bed.v.01
+dricka	VERB	consume.v.02
+droga	VERB	drug.v.01
+droppa	VERB	move.v.02
+drunkna	VERB	change_state.v.01
+dräpa	VERB	kill.v.01
+duka_upp	VERB	create_by_mental_act.v.01
+dumpa	VERB	dump.v.01	dump.v.02
+dupera	VERB	inform.v.01
+dyka	VERB	travel.v.01
+dämma	VERB	prevent.v.02
+dåna	VERB	bellow.v.02
+dö	VERB	change_state.v.01	undergo.v.01
+döda	VERB	kill.v.01
+dölja	VERB	hide.v.01
+döpa	VERB	name.v.01
+efterfölja	VERB	succeed.v.02
+erbjuda	VERB	act.v.01
+erkänna	VERB	declare.v.04
+ersätta	VERB	change.v.01	re-create.v.01
+erövra	VERB	appropriate.v.02
+exemplifiera	VERB	elaborate.v.01
+expandera	VERB	grow.v.02
+experimentera	VERB	experiment.v.02	investigate.v.01
+exploatera	VERB	use.v.01
+explodera	VERB	detonate.v.02	react.v.01
+exportera	VERB	export.v.01
+falla	VERB	travel.v.01
+fasta	VERB	fast.v.01	fast.v.02
+fatta	VERB	seize.v.01	sympathize.v.02
+filma	VERB	record.v.01
+filosofera	VERB	think.v.03
+finansiera	VERB	give.v.03
+finslipa	VERB	better.v.02
+finta	VERB	feint.v.01
+fira	VERB	observe.v.06
+flacka	VERB	travel.v.01
+flina	VERB	communicate.v.02
+fly	VERB	leave.v.01
+flyga	VERB	travel.v.01
+flyta	VERB	travel.v.01
+flytta_sig	VERB	move.v.03
+fläcka	VERB	change.v.01
+fläkta	VERB	move.v.03
+flå	VERB	remove.v.01
+forma	VERB	change.v.01	create_from_raw_material.v.01	re-create.v.01
+formulera	VERB	express.v.01
+fortköra	VERB	travel.v.01
+fortskrida	VERB	travel.v.01
+frakta	VERB	move.v.02
+framhärda	VERB	keep.v.01
+framhäva	VERB	show.v.04
+framkalla	VERB	express.v.01
+framträda	VERB	re-create.v.01
+fresta	VERB	request.v.02
+frikänna	VERB	declare.v.04
+frisläppa	VERB	free.v.01
+frodas	VERB	change_state.v.01	grow.v.02
+frukta	VERB	fear.v.02
+frysa	VERB	be.v.01	change_state.v.01
+fråga	VERB	communicate.v.02
+fullborda	VERB	end.v.02
+fungera	VERB	function.v.01
+fylla	VERB	be.v.03	change.v.01
+fälla	VERB	declare.v.04
+fängsla	VERB	capture.v.02	refer.v.02
+fästa	VERB	attach.v.01
+fåna_sig	VERB	communicate.v.02
+fånga	VERB	get.v.01
+följa	VERB	travel.v.01
+förakta	VERB	contemn.v.01	resent.v.01
+förbanna	VERB	make.v.03
+förbigå	VERB	wipe.v.01
+förbinda	VERB	connect.v.01
+förbise	VERB	overlook.v.01
+förbjuda	VERB	order.v.01	prevent.v.01
+förbättra	VERB	change.v.01
+fördröja	VERB	act.v.01
+fördubbla	VERB	increase.v.02
+fördärva	VERB	change.v.01
+fördöma	VERB	note.v.01
+förebrå	VERB	reproach.v.01
+föredra	VERB	appoint.v.02
+förege	VERB	assert.v.01
+föregå	VERB	predate.v.01
+förena	VERB	change.v.01
+förenkla	VERB	change.v.01
+föreslå	VERB	declare.v.01
+föreställa_sig	VERB	create_by_mental_act.v.01
+företa	VERB	act.v.01
+företräda	VERB	work.v.02
+förfalska	VERB	re-create.v.01
+förflyta	VERB	travel.v.01
+förflytta	VERB	move.v.03
+förfölja	VERB	persecute.v.01
+förgifta	VERB	poison.v.05
+förgrena_sig	VERB	move.v.03
+förgylla	VERB	change.v.01
+förhandla	VERB	hash_out.v.01
+förhindra	VERB	prevent.v.01
+förhöja	VERB	better.v.02	increase.v.01
+förkasta	VERB	rule_out.v.03
+förklara	VERB	inform.v.01
+förkorta	VERB	decrease.v.02
+förkroma	VERB	cover.v.01
+förkunna	VERB	declare.v.01
+förlora	VERB	lose.v.02
+förlägga	VERB	put.v.01
+förlänga	VERB	keep.v.01
+förlöjliga	VERB	interact.v.01
+förmoda	VERB	expect.v.01
+förneka	VERB	deny.v.01
+förnimma	VERB	perceive.v.01
+förringa	VERB	inform.v.01
+förråda	VERB	interact.v.01
+förse	VERB	give.v.03
+försena	VERB	decrease.v.01
+förskona	VERB	spare.v.02
+förslå	VERB	satisfy.v.01
+försova_sig	VERB	oversleep.v.01
+förspilla	VERB	waste.v.01
+förstora	VERB	increase.v.02
+förstärka	VERB	teach.v.01
+förstå	VERB	understand.v.02
+förstöra	VERB	break.v.05	demolish.v.01
+försvara	VERB	defend.v.06	protect.v.01
+försvinna	VERB	disappear.v.01
+försäkra	VERB	protect.v.01
+försämra	VERB	change.v.02	change_state.v.01
+försöka	VERB	act.v.01
+förtala	VERB	backbite.v.01
+förtjäna	VERB	be.v.01
+förtvina	VERB	decrease.v.01
+förtydliga	VERB	change.v.01	explain.v.01
+förutsäga	VERB	reason.v.03
+förvalta	VERB	manage.v.02
+förvandla	VERB	change.v.02
+förvanska	VERB	express.v.02
+förvarna	VERB	inform.v.01
+förverka	VERB	forfeit.v.01
+förvirra	VERB	be.v.01
+förvissa	VERB	ascertain.v.04
+förvägra	VERB	keep.v.03
+förvälla	VERB	change_integrity.v.01
+förvänta	VERB	demand.v.01
+garantera	VERB	guarantee.v.02
+gastkrama	VERB	stimulate.v.03
+ge	VERB	produce.v.02
+ge_igen	VERB	pay.v.01
+ge_sig_av	VERB	move.v.03
+ge_upp	VERB	drop_out.v.01
+ge_vika	VERB	grow.v.02
+gestikulera	VERB	communicate.v.02
+gilla	VERB	like.v.03
+gissa	VERB	reason.v.03
+glida	VERB	travel.v.01
+gläfsa	VERB	yelp.v.01
+glöda	VERB	cause_to_be_perceived.v.01
+glömma	VERB	forget.v.02
+gnugga	VERB	rub.v.01
+gny	VERB	wail.v.02
+godkänna	VERB	authorize.v.01
+golva	VERB	shock.v.01
+graduera	VERB	receive.v.01
+granska	VERB	analyze.v.01
+gratulera	VERB	come.v.01
+grimasera	VERB	communicate.v.02
+gripa	VERB	take.v.04
+gro	VERB	develop.v.10
+grymta	VERB	grunt.v.01
+gränsa	VERB	border.v.05
+gräva	VERB	remove.v.01
+gråta	VERB	cry.v.02
+grönska	VERB	change.v.02
+gulna	VERB	change.v.02
+gäspa	VERB	be.v.01	yawn.v.01
+gå	VERB	travel.v.01
+gå_igenom	VERB	review.v.05
+gå_ner	VERB	travel.v.01
+göda	VERB	change.v.01
+gömma	VERB	hide.v.02
+ha	VERB	have.v.01
+ha_råd	VERB	afford.v.03
+hacka	VERB	cut.v.01
+halka	VERB	travel.v.01
+halshugga	VERB	kill.v.01
+halvera	VERB	calculate.v.01
+handikappa	VERB	handicap.v.03
+hantera	VERB	manipulate.v.02
+hata	VERB	hate.v.01
+hemligstämpla	VERB	restrain.v.01
+hicka	VERB	hiccup.v.01
+hindra	VERB	prevent.v.01
+hitta	VERB	get.v.01
+hoppa	VERB	move.v.03
+hoppa_av	VERB	leave.v.01
+hoppa_fallskärm	VERB	travel.v.01
+hosta	VERB	cough.v.01
+hota	VERB	inform.v.01
+huka_sig	VERB	sit.v.01
+huttra	VERB	move.v.03
+hypnotisera	VERB	change.v.01
+häcka	VERB	cuddle.v.01
+hälla	VERB	move.v.02
+hälsa	VERB	communicate.v.02
+hämma	VERB	restrain.v.01
+hända	VERB	happen.v.01
+hänga	VERB	attach.v.01
+hänge_sig	VERB	pay.v.01
+hänvisa	VERB	inform.v.01
+härma	VERB	produce.v.02
+häva	VERB	declare.v.04
+hävda	VERB	claim.v.01
+håna	VERB	interact.v.01
+hångla	VERB	touch.v.01
+hölja	VERB	cover.v.01
+höra	VERB	perceive.v.01
+identifiera	VERB	denote.v.02
+ifrågasätta	VERB	communicate.v.02	disagree.v.01	talk.v.01
+ignorera	VERB	neglect.v.04
+imponera	VERB	impress.v.02
+importera	VERB	import.v.01
+inbringa	VERB	fetch.v.02
+infoga	VERB	tuck.v.01
+införa	VERB	bring_in.v.01
+injicera	VERB	consume.v.02
+inkludera	VERB	permit.v.01
+inkvartera	VERB	populate.v.01
+innehålla	VERB	include.v.01
+inregistrera	VERB	register.v.01
+inrätta	VERB	install.v.03
+insamla	VERB	raise.v.04
+inse	VERB	recognize.v.02
+insistera	VERB	insist.v.01
+inspirera	VERB	cause.v.01
+installera	VERB	install.v.02	put.v.01
+instämma	VERB	accept.v.03
+introducera	VERB	begin.v.03
+inträda	VERB	enter.v.01
+invända	VERB	evaluate.v.02
+jaga	VERB	travel.v.01
+jama	VERB	meow.v.01
+justera	VERB	change.v.01
+jämföra	VERB	analyze.v.01
+kackla	VERB	cluck.v.01
+kalhugga	VERB	clear-cut.v.01
+kalla	VERB	label.v.01	order.v.01
+kandidera	VERB	compete.v.01
+kapitulera	VERB	capitulate.v.01
+kasta	VERB	propel.v.01
+kidnappa	VERB	take.v.04
+kika	VERB	look.v.01
+kippa	VERB	pant.v.01
+kisa	VERB	look.v.01
+kissa	VERB	make.v.49
+klaga	VERB	complain.v.01
+klampa	VERB	walk.v.01
+klandra	VERB	note.v.01
+klappa	VERB	touch.v.01
+klara	VERB	succeed.v.01
+klara_av	VERB	act.v.01
+klassa	VERB	reason.v.03
+klia	VERB	change.v.01
+kliva	VERB	walk.v.01
+klä	VERB	change_state.v.01	wear.v.01
+klämma	VERB	seize.v.01
+klättra	VERB	travel.v.01
+knacka	VERB	touch.v.01
+knivskära	VERB	change.v.01
+knuffa	VERB	move.v.02
+knulla	VERB	copulate.v.01
+knyta	VERB	change.v.01
+knäböja	VERB	rest.v.01
+knäcka	VERB	move.v.03
+knåda	VERB	manipulate.v.02
+koka	VERB	change.v.02
+kollapsa	VERB	change.v.02	change_integrity.v.01
+komplettera	VERB	adjust.v.01
+komponera	VERB	make.v.03
+kompromissa	VERB	compromise.v.01
+koncentrera_sig	VERB	think.v.03
+konfiskera	VERB	impound.v.01
+konfrontera	VERB	be.v.03	confront.v.01
+konsolidera	VERB	change_state.v.01
+konspirera	VERB	plan.v.02
+kontrollera	VERB	control.v.01	verify.v.01
+konvertera	VERB	change.v.02
+kopiera	VERB	make.v.03	produce.v.02
+koppla_av	VERB	change_state.v.01
+korsa	VERB	be.v.03
+krama	VERB	embrace.v.02
+krascha	VERB	change.v.02	propel.v.01
+kraxa	VERB	caw.v.01
+kriga	VERB	contend.v.06
+kriminalisera	VERB	order.v.01
+kroka	VERB	attach.v.01
+krossa	VERB	change_integrity.v.01	smash.v.02
+krympa	VERB	decrease.v.01
+krypa	VERB	travel.v.01
+kryssa_för	VERB	verify.v.01
+krysta	VERB	move.v.02
+kräva	VERB	request.v.01
+kunna	VERB	know.v.02
+kura	VERB	change.v.02
+kuva	VERB	restrain.v.01
+kvadda	VERB	change.v.01
+kvadrat	VERB	calculate.v.01
+kvarstå	VERB	persist.v.03
+känna	VERB	feel.v.01	know.v.04
+känna_igen	VERB	remember.v.01
+köa	VERB	stand.v.01
+köpa	VERB	get.v.01
+ladda	VERB	supply.v.01
+ladda_ner	VERB	transfer.v.02
+laga	VERB	better.v.02
+lagra	VERB	keep.v.03
+lagstifta	VERB	declare.v.01
+landa	VERB	arrive.v.01
+lansera	VERB	propel.v.01
+lasta	VERB	put.v.01
+le	VERB	communicate.v.02
+leasa	VERB	give.v.03
+leda	VERB	administer.v.01	direct.v.04	precede.v.04
+leka	VERB	play.v.05
+leta	VERB	examine.v.02
+leverera	VERB	bring.v.04
+lida	VERB	perceive.v.01
+lifta	VERB	travel.v.01
+ligga	VERB	change_posture.v.01
+likna	VERB	match.v.01
+lirka	VERB	persuade.v.02
+lista	VERB	register.v.01
+lita	VERB	believe.v.01
+ljuga	VERB	inform.v.01
+locka	VERB	interact.v.01
+lokalisera	VERB	determine.v.01
+lugna	VERB	calm.v.01
+lukta	VERB	cause_to_be_perceived.v.01	perceive.v.01
+lura	VERB	get_the_better_of.v.01
+luta	VERB	change.v.02
+lyckas	VERB	succeed.v.01
+lyda	VERB	adjust.v.03
+lyfta	VERB	move.v.02
+lyncha	VERB	kill.v.01
+lyssna	VERB	perceive.v.01
+läcka	VERB	leak.v.03
+lägga	VERB	put.v.01
+lämna	VERB	give.v.08	leave.v.12
+längta	VERB	desire.v.01
+läsa	VERB	interpret.v.01
+läspa	VERB	lisp.v.01
+låna	VERB	get.v.01	give.v.03
+låsa	VERB	attach.v.01
+löda	VERB	join.v.04
+lösa	VERB	understand.v.01
+lösesumma	VERB	exchange.v.01
+mala	VERB	change_integrity.v.01
+mana	VERB	stimulate.v.03
+marknadsföra	VERB	change.v.01
+marschera	VERB	walk.v.01
+maskera	VERB	disguise.v.01
+massakrera	VERB	kill.v.01
+mata	VERB	provide.v.02
+matcha	VERB	adjust.v.03	equal.v.01
+medföra	VERB	bring.v.06
+medge	VERB	concede.v.04
+memorera	VERB	study.v.05
+meritera	VERB	suffice.v.01
+minnas	VERB	commemorate.v.02	remember.v.01	retain.v.04
+minska	VERB	change.v.01	change_magnitude.v.01	decrease.v.02
+missa	VERB	miss.v.03	miss.v.05
+missgynna	VERB	disadvantage.v.01
+missköta	VERB	manage.v.02
+misslyckas	VERB	fail.v.02
+missräkna_sig	VERB	misjudge.v.01
+misstro	VERB	evaluate.v.02
+misstycka	VERB	evaluate.v.02
+modernisera	VERB	change.v.02
+modifiera	VERB	add.v.01
+mogna	VERB	develop.v.10
+morra	VERB	talk.v.02
+motsätta_sig	VERB	talk.v.01
+multiplicera	VERB	calculate.v.01
+mumla	VERB	talk.v.02
+mumsa	VERB	change_integrity.v.01
+munhuggas	VERB	talk.v.01
+muntra_upp	VERB	stimulate.v.03
+muta	VERB	pay.v.01
+muttra	VERB	murmur.v.02
+mygla	VERB	interact.v.01
+mäta	VERB	communicate.v.02
+måla	VERB	act.v.01	cover.v.01
+möta	VERB	interact.v.01
+neka	VERB	keep.v.03
+nicka	VERB	communicate.v.02
+niga	VERB	change_posture.v.01
+njuta	VERB	like.v.02
+nominera	VERB	choose.v.01
+nyansera	VERB	kill.v.01
+nysa	VERB	act.v.02
+nämna	VERB	state.v.01
+närma_sig	VERB	come.v.01
+nå	VERB	be.v.03
+nödlanda	VERB	arrive.v.01
+ogilla	VERB	dislike.v.01	order.v.01
+omsätta	VERB	move.v.02	move.v.03
+ordna	VERB	put.v.01
+organisera	VERB	arrange.v.01
+packa	VERB	pack.v.01
+panera	VERB	cover.v.01
+pantsätta	VERB	pass.v.05	promise.v.01
+parkera	VERB	control.v.01
+passa	VERB	be.v.01
+passera	VERB	travel.v.01
+patrullera	VERB	analyze.v.01
+pausa	VERB	end.v.02
+penetrera	VERB	travel.v.01
+pensionera	VERB	change.v.02
+perforera	VERB	penetrate.v.01	punch.v.03
+pika	VERB	interact.v.01
+pingla	VERB	sound.v.02
+pirra	VERB	cause_to_be_perceived.v.01
+piska	VERB	touch.v.01
+pissa	VERB	make.v.49
+placera	VERB	move.v.02
+plagiera	VERB	plagiarize.v.01
+planera	VERB	think.v.03
+planlägga	VERB	plan.v.02
+plantera	VERB	put.v.01
+platta_till	VERB	touch.v.01
+plocka	VERB	pick.v.02
+posta	VERB	transfer.v.02
+prata	VERB	communicate.v.02
+predika	VERB	teach.v.01
+presentera	VERB	inform.v.01
+pressa	VERB	change.v.02
+prioritera	VERB	evaluate.v.02
+privatisera	VERB	change.v.01
+producera	VERB	cultivate.v.01
+proppa	VERB	change.v.01
+proppa_i_sig	VERB	eat.v.02
+prova	VERB	consume.v.02
+provocera	VERB	make.v.03
+pruta	VERB	hash_out.v.01
+pröva	VERB	decide.v.01
+publicera	VERB	publicize.v.01
+pumpa	VERB	move.v.02
+pussa	VERB	touch.v.01
+putsa	VERB	better.v.02
+påminna	VERB	inform.v.01
+påverka	VERB	change.v.01
+radera	VERB	remove.v.01
+rafsa	VERB	change.v.01
+raka	VERB	better.v.02
+raljera	VERB	interact.v.01
+rama	VERB	include.v.01
+ramponera	VERB	bust_up.v.01
+rangordna	VERB	evaluate.v.02
+rapa	VERB	burp.v.01
+rasera	VERB	level.v.02
+ratificera	VERB	validate.v.01
+referera	VERB	think_of.v.04
+reflektera	VERB	reflect.v.04	think.v.03
+reformera	VERB	better.v.02
+regera	VERB	control.v.01
+regissera	VERB	make.v.03
+registrera	VERB	enroll.v.01	register.v.01
+regna	VERB	rain.v.01
+rekommendera	VERB	praise.v.01
+relatera	VERB	think.v.03
+rensa_ut	VERB	change.v.01
+rentvå	VERB	declare.v.04
+representera	VERB	equal.v.01
+reproducera	VERB	produce.v.02
+resa	VERB	change_posture.v.01
+respektera	VERB	accept.v.01	see.v.05
+reta	VERB	interact.v.01	tease.v.08
+retirera	VERB	travel.v.01
+revidera	VERB	write.v.02
+ringa	VERB	sound.v.02	telecommunicate.v.01
+ringla	VERB	move.v.02
+rinna	VERB	move.v.03
+riskera	VERB	try.v.01
+ro	VERB	travel.v.01
+roa	VERB	amuse.v.02	interact.v.01
+rodna	VERB	change.v.02
+rollbesätta	VERB	appoint.v.02
+ropa	VERB	shout.v.02	talk.v.02
+rossla	VERB	wheeze.v.01
+rubba	VERB	move.v.02
+ruttna	VERB	change.v.02
+rycka	VERB	move.v.03
+rycka_på_axlarna	VERB	communicate.v.02
+rymma	VERB	include.v.01	leave.v.01
+räcka	VERB	transfer.v.05
+rädda	VERB	refrain.v.01	rescue.v.01
+räkna	VERB	determine.v.01
+ränna	VERB	travel.v.01
+räta	VERB	change.v.01
+rättfärdiga	VERB	state.v.01
+råna	VERB	rob.v.01
+röka	VERB	consume.v.02
+röra	VERB	move.v.02	touch.v.01
+röra_sig	VERB	be_active.v.01	move.v.04
+rösta	VERB	choose.v.01
+sabotera	VERB	react.v.01
+sakna	VERB	desire.v.01	miss.v.06
+samarbeta	VERB	work.v.01
+samla	VERB	get.v.01
+sammanbo	VERB	populate.v.01
+sammanfalla	VERB	happen.v.01
+samtala	VERB	talk.v.01
+satsa	VERB	play.v.01
+schakta	VERB	remove.v.01
+se	VERB	perceive.v.01
+segla	VERB	travel.v.01
+senarelägga	VERB	act.v.01
+servera	VERB	provide.v.02
+simma	VERB	travel.v.01
+simulera	VERB	express.v.02
+sina	VERB	increase.v.02
+sitta	VERB	sit.v.01
+sjunga	VERB	talk.v.02
+sjunka	VERB	travel.v.01
+skada	VERB	cause_to_be_perceived.v.01	change.v.01
+skaffa	VERB	get.v.01
+skaka	VERB	move.v.03
+skalla	VERB	sound.v.02
+skapa	VERB	create.v.02
+skilja	VERB	move.v.03
+skilja_sig	VERB	divorce.v.02
+skina	VERB	look.v.02
+skinna	VERB	interact.v.01
+skippa	VERB	jump.v.13
+skjuta	VERB	blast.v.07
+sko	VERB	change_state.v.01
+skola	VERB	teach.v.01
+skolka	VERB	reason.v.03
+skrapa	VERB	cut.v.01	scrape.v.01
+skratta	VERB	laugh.v.01
+skrida	VERB	travel.v.01
+skrika	VERB	talk.v.02
+skrinna	VERB	travel.v.01
+skriva	VERB	communicate.v.02	create_verbally.v.01
+skruva	VERB	change.v.01
+skruva_upp	VERB	change.v.01
+skryta	VERB	inform.v.01
+skrämma	VERB	stimulate.v.03
+skumma	VERB	examine.v.02
+skydda	VERB	defend.v.02
+skylla	VERB	blame.v.01
+skylta	VERB	act.v.01	show.v.04
+skymfa	VERB	arouse.v.01	interact.v.01
+skymma	VERB	obscure.v.01
+skynda	VERB	travel.v.01
+skälla	VERB	bark.v.04	note.v.01
+skämma_bort	VERB	interact.v.01
+skämta	VERB	act.v.02
+skänka	VERB	give.v.08
+skära	VERB	cut.v.01
+skåda	VERB	see.v.01
+skönja	VERB	spy.v.03
+slava	VERB	work.v.02
+slicka	VERB	touch.v.01
+slingra	VERB	move.v.03
+slinka	VERB	walk.v.01
+slita_ut	VERB	change.v.02
+sloka	VERB	change_posture.v.01
+slumra	VERB	sleep.v.01
+slumra_till	VERB	nap.v.01
+slunga	VERB	move.v.03	propel.v.01
+sluta	VERB	discontinue.v.01
+slutta	VERB	change.v.02
+slänga	VERB	propel.v.01
+släpa	VERB	follow.v.01	pull.v.01	transport.v.02
+slå	VERB	touch.v.01
+slå_in	VERB	cover.v.01
+slå_på_stort	VERB	pay.v.01
+slå_runt	VERB	move.v.03
+slå_vad	VERB	reason.v.03
+slåss	VERB	contend.v.06
+slöa	VERB	be.v.01
+slösa	VERB	pay.v.01
+smaka	VERB	perceive.v.01
+smaksätta	VERB	season.v.01
+smeka	VERB	touch.v.01
+smickra	VERB	praise.v.01
+smila	VERB	communicate.v.02
+smiska	VERB	spank.v.01
+smitta	VERB	infect.v.01
+smutskasta	VERB	badmouth.v.01
+smutta	VERB	consume.v.02
+smälla	VERB	change_integrity.v.01	slam.v.01
+snagga	VERB	change.v.01
+snappa	VERB	seize.v.01
+snarka	VERB	snore.v.01
+snegla	VERB	look.v.01
+sniffa	VERB	perceive.v.01
+snubbla	VERB	move.v.03	stumble.v.04
+snurra	VERB	move.v.03
+snuva	VERB	interact.v.01
+snyfta	VERB	sob.v.01
+sockra	VERB	change.v.01
+sona	VERB	change.v.01
+sopa	VERB	sweep.v.03
+spackla	VERB	cover.v.01
+spara	VERB	save.v.05
+sparka	VERB	touch.v.01
+spekulera	VERB	pay.v.01
+spela	VERB	compete.v.01	perform.v.03
+spela_in	VERB	record.v.01
+spela_oavgjort	VERB	change.v.01
+spela_roll	VERB	be.v.01
+spendera	VERB	pay.v.01
+spetsa	VERB	stick.v.13
+spilla	VERB	move.v.03
+spinna	VERB	create_from_raw_material.v.01
+splittra	VERB	change_integrity.v.01
+spola	VERB	change.v.01
+spotta	VERB	spit.v.01
+spreja	VERB	spray.v.02
+sprida_ut	VERB	scatter.v.03
+springa	VERB	travel.v.01
+spräcka	VERB	change_integrity.v.01
+spä	VERB	change.v.01
+spänna	VERB	change.v.01
+spärra_in	VERB	confine.v.05	imprison.v.01
+spöka	VERB	travel.v.01
+stanna	VERB	stay_in_place.v.01	stop.v.01
+stansa	VERB	punch.v.03
+stapla	VERB	arrange.v.01
+stationera	VERB	move.v.02
+stava	VERB	spell.v.03
+stegra	VERB	change_posture.v.01
+stencilera	VERB	produce.v.02
+stereotypera	VERB	reason.v.03
+sticka	VERB	create_from_raw_material.v.01	sting.v.02
+stiga	VERB	grow.v.02	travel.v.01
+stiga_upp	VERB	get_up.v.02
+stirra	VERB	look.v.01
+storkna	VERB	be.v.01
+storma	VERB	storm.v.03
+stranda	VERB	arrive.v.01
+strejka	VERB	evaluate.v.02
+stretcha	VERB	move.v.03
+strimla	VERB	separate.v.02
+strippa	VERB	remove.v.01
+strosa	VERB	obtain.v.01	walk.v.01
+stryka	VERB	remove.v.01
+strypa	VERB	change.v.02
+ströva	VERB	travel.v.01
+studera	VERB	learn.v.01
+studsa	VERB	travel.v.01
+stulta	VERB	walk.v.01
+styrka	VERB	inform.v.01
+ställa_in	VERB	cancel.v.01
+ställa_ut	VERB	show.v.04
+stänga	VERB	close.v.01
+stå	VERB	rest.v.01
+stå_emot	VERB	contend.v.06
+stå_i_skuld	VERB	owe.v.01
+stå_värd	VERB	interact.v.01
+stödja	VERB	confirm.v.01	support.v.01
+stöna	VERB	groan.v.01
+störta	VERB	travel.v.01
+störta_samman	VERB	travel.v.01
+stöta	VERB	arouse.v.01
+sucka	VERB	sigh.v.01	sigh.v.02
+susa	VERB	sound.v.02
+svaja	VERB	move.v.03
+svara	VERB	state.v.01
+svepa	VERB	touch.v.01
+svika	VERB	prevent.v.01
+svimma	VERB	change_state.v.01
+svullna	VERB	grow.v.02
+svälja	VERB	believe.v.01	consume.v.02
+svära	VERB	declare.v.01	express.v.02
+svärma	VERB	meet.v.07
+sväva	VERB	levitate.v.02
+säga	VERB	express.v.02
+sälja	VERB	exchange.v.01
+sända	VERB	publicize.v.01
+sätta_dit	VERB	interact.v.01
+så	VERB	put.v.01
+sålla	VERB	choose.v.01
+söka	VERB	search.v.01
+ta_med	VERB	transport.v.02
+ta_tid	VERB	communicate.v.02
+ta_ut	VERB	remove.v.01
+tacka	VERB	convey.v.01
+tappa	VERB	move.v.02
+tatuera	VERB	change.v.02
+teckna	VERB	re-create.v.01
+telefonera	VERB	telecommunicate.v.01
+ticka	VERB	sound.v.02
+tigga	VERB	request.v.01
+tillhöra	VERB	be.v.01
+tillrättavisa	VERB	note.v.01
+tilltala	VERB	please.v.01
+tillverka	VERB	produce.v.02
+tillåta	VERB	accept.v.03
+tina	VERB	change_integrity.v.01
+tippa	VERB	move.v.02
+titta	VERB	watch.v.04
+tjuvlyssna	VERB	perceive.v.01
+tjäna	VERB	get.v.01
+tolerera	VERB	accept.v.01
+torrlägga	VERB	change.v.01
+trakassera	VERB	harass.v.01
+trampa	VERB	walk.v.01
+trappa_upp	VERB	increase.v.02
+trimma	VERB	adjust.v.01
+trippa	VERB	walk.v.01
+trycka	VERB	touch.v.01	trace.v.02
+träda	VERB	travel.v.01
+träffa	VERB	meet.v.08	touch.v.01
+träffas	VERB	meet.v.01
+träna	VERB	teach.v.01	use.v.01
+trösta	VERB	comfort.v.01
+tugga	VERB	change_integrity.v.01
+turista	VERB	travel_to.v.01
+tveka	VERB	hesitate.v.01
+tvinga	VERB	compel.v.01
+tvista	VERB	talk.v.01
+tvivla	VERB	evaluate.v.02
+tvätta	VERB	better.v.02	change.v.01
+tycka	VERB	evaluate.v.02
+tyna	VERB	disappear.v.01
+täcka	VERB	cover.v.01
+tänka	VERB	think.v.03
+täppa_till	VERB	better.v.02
+täta	VERB	seal.v.01
+tävla	VERB	compete.v.01
+undanta	VERB	exempt.v.01
+underhålla	VERB	record.v.01
+understryka	VERB	mark.v.05
+understödja	VERB	hold.v.10
+underteckna	VERB	write.v.02
+undervisa	VERB	inform.v.01
+undra	VERB	chew_over.v.01
+undsätta	VERB	relieve.v.08	rescue.v.01
+undvika	VERB	avoid.v.01
+uppbygga	VERB	teach.v.01
+uppfostra	VERB	rear.v.02
+uppfylla	VERB	obey.v.01
+uppkomma	VERB	become.v.03
+uppliva	VERB	change.v.01
+uppmana	VERB	hash_out.v.01
+uppmuntra	VERB	induce.v.02
+uppmärksamma	VERB	notice.v.02
+upprepa	VERB	produce.v.02
+uppröra	VERB	disturb.v.01
+uppträda	VERB	act.v.02
+upptäcka	VERB	find.v.03	gestate.v.01
+uppvakta	VERB	request.v.01
+ursäkta	VERB	excuse.v.01
+utesluta	VERB	exclude.v.01
+uthärda	VERB	act.v.01	contend.v.06	permit.v.01
+utjämna	VERB	adjust.v.01
+utklassa	VERB	evaluate.v.02
+utpressa	VERB	interact.v.01
+utrusta	VERB	supply.v.01
+uträtta	VERB	succeed.v.01
+utse	VERB	choose.v.01	establish.v.02
+utveckla	VERB	clarify.v.01	create.v.02
+utvinna	VERB	remove.v.01
+utvisa	VERB	move.v.02
+utöka	VERB	increase.v.02
+vaccinera	VERB	immunize.v.02
+vada	VERB	walk.v.01
+vagga	VERB	move.v.02	move.v.03
+vakna	VERB	change_state.v.01
+vakta	VERB	protect.v.01
+valpa	VERB	make.v.03
+vandra	VERB	walk.v.01
+varna	VERB	inform.v.01
+verka	VERB	be.v.01
+veta	VERB	know.v.03
+vika	VERB	change.v.02
+vila	VERB	end.v.02
+vilja	VERB	desire.v.01
+vilseleda	VERB	inform.v.01
+vinka	VERB	communicate.v.02
+vinna	VERB	get.v.01	win.v.01
+visa	VERB	have.v.02	inform.v.01
+visa_sig	VERB	appear.v.02
+viska	VERB	talk.v.02
+vispa	VERB	move.v.02
+vitna	VERB	change.v.02
+vitsorda	VERB	declare.v.01	inform.v.01
+vrida	VERB	change.v.02	state.v.01
+väga	VERB	communicate.v.02	measure.v.03
+vägra	VERB	react.v.01
+välja	VERB	choose.v.01	decide.v.01	evaluate.v.02
+välsigna	VERB	make.v.03
+vända	VERB	move.v.03
+vänja	VERB	change.v.01
+vänta	VERB	evaluate.v.02	wait.v.01
+värdera	VERB	evaluate.v.02
+värdesätta	VERB	thank.v.01
+värva	VERB	obtain.v.01
+väva	VERB	create_from_raw_material.v.01
+växa	VERB	change_magnitude.v.01
+våga	VERB	act.v.01
+våga_sig	VERB	act.v.01
+våldta	VERB	rape.v.01
+yrka	VERB	declare.v.01
+yttra	VERB	utter.v.02
+ägna	VERB	use.v.01
+älska	VERB	love.v.03
+ändra	VERB	change.v.03
+ärva	VERB	get.v.01
+äta	VERB	eat.v.02
+åka	VERB	travel.v.01
+åldras	VERB	develop.v.10
+ångra	VERB	feel.v.01
+åtala	VERB	indict.v.01	prosecute.v.02
+återanvända	VERB	use.v.01
+återföra	VERB	transport.v.02
+återhämta_sig	VERB	change_state.v.01
+återvinna	VERB	use.v.01
+återvända	VERB	travel.v.01
+åtfölja	VERB	travel.v.01
+ömsa	VERB	move.v.02
+öppna	VERB	open.v.01
+överanstränga	VERB	use.v.01
+överdriva	VERB	inform.v.01	make.v.01
+överföra	VERB	move.v.02
+överge	VERB	abandon.v.05
+överklaga	VERB	evaluate.v.02
+överlämna	VERB	give.v.03
+överskrida	VERB	exceed.v.02
+översvämma	VERB	change.v.01
+översätta	VERB	tell.v.02
+övertala	VERB	induce.v.02
+överträffa	VERB	get_the_better_of.v.01
+övertyga	VERB	persuade.v.02
+övervintra	VERB	spend.v.01
+överväga	VERB	hash_out.v.01
+överväldiga	VERB	get_the_better_of.v.01
+god afton	INTJ	good_evening_Interj
+ingen av	DET	neither_Det
+god dag	INTJ	good_afternoon_Interj
+den där	DET	that_Quant
+hej då	INTJ	bye_bye_Interj	goodbye_Interj
+antingen eller	CONJ	either7or_DConj
+varken eller	CONJ	neither7nor_DConj
+i enlighet med	ADP	in_accordance_with_Prep
+i fall av	ADP	in_case_of_Prep
+de flesta	DET	most_Det
+bortsett från	ADP	apart_from_Prep
+på grund av	ADP	because_of_Prep	due_to_Prep	for_the_sake_of_Prep	on_account_of_Prep
+vad gäller	ADP	as_for_Prep	as_regards_Prep
+en gång	ADP	once_Prep
+med hjälp av	ADP	by_means_of_Prep
+med hänsyn till	ADP	considering_Prep	regarding_Prep	with_a_view_to_Prep	with_regard_to_Prep	with_respect_to_Prep
+utan hänsyn till	ADP	regardless_of_Prep
+den här	DET	this_Quant
+till höger om	ADP	right_of_Prep
+in i	ADP	into_Prep
+och inte heller	CONJ	nor_Conj
+god jul	INTJ	merry_christmas_Interj
+milda makter	INTJ	egad_Interj
+god morgon	INTJ	good_morning_Interj
+i motsats till	ADP	as_opposed_to_Prep
+hur mycket	DET	how8much_IDet
+hur många	DET	how8many_IDet
+god natt	INTJ	good_night_Interj
+den nämnda	DET	said_Quant
+både och	CONJ	both7and_DConj
+även om	ADP	though_Prep
+vid sidan av	ADP	aside_from_Prep
+vilken som helst	DET	whatever_Quant	whichever_Quant
+i stället för	ADP	in_lieu_of_Prep	in_place_of_Prep	instead_of_Prep
+i syftet av att	ADP	in_order_to_Prep
+lycka till	INTJ	good_luck_Interj
+tillbaka till	ADP	back_to_Prep
+upp till	ADP	up_to_Prep
+ända till	ADP	until_Prep
+på toppen av	ADP	atop_Prep
+med undantag av	ADP	except_for_Prep
+ut ur	ADP	out_of_Prep
+tack vare	ADP	by_virtue_of_Prep	thanks_to_Prep
+till vänster om	ADP	left_of_Prep
+i väntan på	ADP	pending_Prep
+snarare än	ADP	rather_than_Prep
+snarare än	CONJ	rather_than_Conj
+i åldern	ADP	aged_Prep
