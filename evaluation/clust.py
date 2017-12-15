@@ -1,5 +1,6 @@
 from collections import defaultdict
 import models
+from nltk.corpus import wordnet as wn
 
 PATH = '../data/possibility_dictionaries/'
 def read_mapping(filepath):
@@ -34,6 +35,9 @@ class Cluster():
             return self.synset
 
         synsets = self.synsets(lemma)
+        if not synsets:
+            return self.synset
+
         top = sorted([(unigram.get(s), s) for s in synsets], 
                 key=lambda x: x[0], reverse=True)
         return top[0][1]
@@ -45,7 +49,7 @@ class Cluster():
         synsets = clust2wn[self.cluster]
         if not lemma:
             return synsets
-        ls = lambda s: [s.lower() for l in wn.synset(s).lemma_names()]
+        ls = lambda s: [l.lower() for l in wn.synset(s).lemma_names()]
         return [s for s in synsets if lemma in ls(s)]
 
 

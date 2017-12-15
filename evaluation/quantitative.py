@@ -130,6 +130,13 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
             data_error += 1
             continue
 
+        try:
+            lemma = next(w.lemma for w in tree if w.lemma in lemmas)
+        except:
+            # didnt find the lemma in the tree
+            lemma_error + 1
+            continue
+
         if not [w for w in tree if w.lemma in lemmas]:
             # didnt find the lemma in the tree
             lemma_error += 1
@@ -142,7 +149,8 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         
         if sum(len(possdict[l]) for l in linearize[fun]) == len(lemmas):
             # lemma not ambigiuous
-            unambig += 1
+            # unambig += 1
+            pass
 
         bigrams = get_bigrams_for_lemmas(lemmas, tree)
 
@@ -215,11 +223,11 @@ def init(args):
     logging.info('Loading Probabilities')
     tablename = splitext(basename(args.probs))[0]
     if args.deprel:
-        # probs = models.BigramDeprel(args.database, tablename)
-        probs = models.InterpolationDeprel(args.database, tablename)
+        probs = models.BigramDeprel(args.database, tablename)
+        # probs = models.InterpolationDeprel(args.database, tablename)
     else:
-        # probs = models.Bigram(args.database, tablename)
-        probs = models.Interpolation(args.database, tablename)
+        probs = models.Bigram(args.database, tablename)
+        # probs = models.Interpolation(args.database, tablename)
     possdict = read_poss_dict(path=args.possdict)
     linearize = reverse_poss_dict(args.possdict)
     if args.dict == 'gf':

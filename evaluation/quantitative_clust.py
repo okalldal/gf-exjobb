@@ -131,9 +131,11 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
             data_error += 1
             continue
 
-        if not [w for w in tree if w.lemma in lemmas]:
+        try:
+            lemma = next(w.lemma for w in tree if w.lemma in lemmas)
+        except:
             # didnt find the lemma in the tree
-            lemma_error += 1
+            lemma_error + 1
             continue
 
         if lemmas and all(w.upostag.lower() != 'noun' for w in tree if w.lemma in lemmas):
@@ -168,15 +170,10 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         rank = sorted(rank, key=lambda x: x[0])
        
         
-        """ FIRST 
-        p, first = rank[0]
-        in_top = any(w == fun or h == fun for (w, h) in first)
-        """
-        """ ORACLE """
         p_rand, b_rand = random.choice(rank)
         p, top  = next(groupby(rank, lambda x: x[0]))
         top = [el for el in top]
-        check = lambda w: w and clust.Cluster(w).top_synset() == wnfun
+        check = lambda w: w and clust.Cluster(w).top_synset(lemma) == wnfun
         in_oracle  = any(any(check(w[0]) or check(w[1]) for w in b) for p, b in top)
         in_top = any(check(w[0]) or check(w[1]) for w in random.choice(top)[1])
         in_rand = any(check(w[0]) or check(w[1]) for w in b_rand) 
