@@ -20,17 +20,11 @@ class EvaluationError():
         self.error_type = error_type
 
 class Evaluation():
-    def __init__(self, **args):
+    def __init__(self, args):
         logging.info('Inititialization')
 
         self.tablename = splitext(basename(args.probs))[0]
-        self.use_deprel = args.deprel
-        if not args.model and self.use_deprel:
-            self.model = models.InterpolationDeprel(args.database, self.tablename)
-        elif not model:
-            self.model = models.Interpolation(args.database, self.tablename)
-        else:
-            self.model = model(args.database, self.tablename)
+        self.model = args.model(args.database, self.tablename)
         self.possdict = read_poss_dict(path=args.possdict)
         self.linearize = reverse_poss_dict(args.possdict)
         logging.info('Initialization:Finished')
@@ -72,40 +66,43 @@ class Evaluation():
             node.deprel)
             for i, node in enumerate(tree)]
 
-    def rank(self, trees):
+    def rank(self, adts, tree):
         """take a ADT iterator and returns the top"""
-        for abstract_funs in trees:
+        best = None
+        for abstract_funs in adts:
             bigrams = self.to_bigrams(abstract_funs, tree)
             pos = self.to_pos(tree)
-            
-            try:
-                p = 0
-                for bs, pos in zip(bigrams, pos):
+            p = 0
+            total = 0
+            for bs, pos in zip(bigrams, pos):
+                try:
                     p += -log(self.model.get(bs, pos))
-            except ValueError:
-                # No probability found
-                logging.warn('No probability found for funs %s' % abstract_funs)
-                continue
-
+                    total += 1
+                except ValueError:
+                # No probability found for this bigram
+                    continue
+            p = p/total if total else p
             if not best or p < p_best:
                 p_best = p
                 best = abstract_funs
 
         return best
 
-    def annotate(self, tree, max_perm=10000, progress_bar=False):
+    def annotate(self, tree, max_perm=10000, skip_long=False, progress_bar=False):
         """take a UD tree and return the top ADT"""
         best = None 
         p_best = None
         n_combs = self.abstract_funs_size(tree)
-        funs = self.abstract_funs_gen(tree, max_perm=max_perm)
+        funs = self.abstract_funs_gen(tree, max_perm=max_perm,
+                skip_long=skip_long)
+
         if not funs:
             return None
 
         if progress_bar:
             funs = tqdm(funs, total=min(max_perm, n_combs))
 
-        return self.rank(funs)
+        return self.rank(funs, tree)
 
     def filter_for_node(self, node, tree):
         heads_for_node = [tree[n.head] for n in tree if n == node]

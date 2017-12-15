@@ -10,6 +10,7 @@ from nltk.corpus import wordnet as wn
 from argparse import ArgumentParser
 from os.path import basename, splitext
 import models
+import clust
 
 def read_poss_dict(path):
     with open(path, encoding='utf-8') as f:
@@ -104,7 +105,6 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
     prob_not_found = 0
     unambig = 0
 
-
     data_error = 0
     parse_error = 0
     lemma_error = 0
@@ -117,7 +117,8 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         if i % 5000 == 0:
             logging.info('i={}'.format(i))
 
-        fun = wn2fun[wnid] 
+        wnfun = wn2fun[wnid]
+        fun = clust.Cluster(wnfun).cluster
         if not fun:
             # wnid not found
             data_error += 1
@@ -175,9 +176,10 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
         p_rand, b_rand = random.choice(rank)
         p, top  = next(groupby(rank, lambda x: x[0]))
         top = [el for el in top]
-        in_oracle  = any(any(w[0] == fun or w[1] == fun for w in b) for p, b in top)
-        in_top = any(w[0] == fun or w[1] == fun for w in random.choice(top)[1])
-        in_rand = any(w[0] == fun or w[1] == fun for w in b_rand) 
+        check = lambda w: w and clust.Cluster(w).top_synset() == wnfun
+        in_oracle  = any(any(check(w[0]) or check(w[1]) for w in b) for p, b in top)
+        in_top = any(check(w[0]) or check(w[1]) for w in random.choice(top)[1])
+        in_rand = any(check(w[0]) or check(w[1]) for w in b_rand) 
 
         if p == 0:
             prob_not_found += 1
@@ -192,9 +194,8 @@ def run(trees, use_deprel, probs, possdict, linearize, wn2fun):
     print(('total: {}, no error: {}, success oracle: {}, success top: {}, success random: {}, ' 
         'prob_not_found: {}, unambig: {}, overflow error: {}, lemma error: {}, data error: {}, '
         'parse error: {}')
-        .format(total, no_error, success, top_success, random_success,
-            prob_not_found, unambig,
-            overflow_error, lemma_error, data_error, parse_error))
+        .format(total, no_error, success, top_success, random_success, prob_not_found, 
+            unambig, overflow_error, lemma_error, data_error, parse_error))
 
 # ProbDictionary with same interface as the ProbDatabase
 class ProbDict():
@@ -215,24 +216,15 @@ def init(args):
     logging.info('Loading Probabilities')
     tablename = splitext(basename(args.probs))[0]
     if args.deprel:
-        # probs = models.BigramDeprel(args.database, tablename)
-        probs = models.InterpolationDeprel(args.database, tablename)
+        probs = models.BigramDeprel(args.database, tablename)
+        #probs = models.InterpolationDeprel(args.database, tablename)
     else:
-        # probs = models.Bigram(args.database, tablename)
-        probs = models.Interpolation(args.database, tablename)
+        probs = models.Bigram(args.database, tablename)
+        # probs = models.Interpolation(args.database, tablename)
     possdict = read_poss_dict(path=args.possdict)
     linearize = reverse_poss_dict(args.possdict)
-    if args.dict == 'gf':
-        wn2fun = defaultdict(lambda: None, read_wnid2fun('../data/Dictionary.gf'))
-    elif args.dict == 'wn':
-        wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
-    elif args.dict == 'clust':
-        with open('../data/possibility_dictionaries/wn_clust.tsv') as f:
-                ls = (l.strip().split('\t') for l in f)
-                wn2clust = defaultdict(lambda: None, ls)
-        wn2fun = defaultdict(lambda: None, 
-            {s.offset(): wn2clust[s.name()] if wn2clust[s.name()] else None for
-            s in wn.all_synsets()})
+    wn2fun = defaultdict(lambda: None, {s.offset(): s.name() for s in wn.all_synsets()})
+    clust.init_dicts(args.dict)
     logging.info('Initialization finished')
 
     return probs, possdict, linearize, wn2fun
@@ -245,8 +237,8 @@ if __name__ == "__main__":
         default='../data/possibility_dictionaries/wn/eng.txt'
     )
     parser.add_argument('--dict', '-d',
-        choices=['wn', 'clust', 'gf'],
-        default='wn'
+        choices=['wn_clust', 'super_clust'],
+        default='wn_clust'
     )
     parser.add_argument('--deprel',
         action='store_true'

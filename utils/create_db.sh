@@ -23,9 +23,9 @@ for f in $FILES; do
   
   echo "DROP TABLE IF EXISTS $name;"
   echo "CREATE TABLE $name($cols);"
-  echo "CREATE UNIQUE INDEX lookup_$name ON $name($icols);"
   echo ".mode tabs"
   echo ".import $f $name"
+  echo "CREATE UNIQUE INDEX lookup_$name ON $name($icols);"
   echo "CREATE TABLE IF NOT EXISTS total_probs(name TEXT UNIQUE, total NUM);"
   echo "DELETE FROM total_probs WHERE name='$name';"
   echo "INSERT INTO total_probs(name, total) " \

@@ -17,7 +17,10 @@ class ProbTable():
     
     def get(self, params):
         """returns the count for the given params"""
+
+        # Make sure you use the right database for the model
         assert(len(params) == len(self.cols) - 1)
+
         self.cursor.execute(self.sql, params)
         res = self.cursor.fetchone()
         tot = self.total

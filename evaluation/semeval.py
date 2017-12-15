@@ -2,6 +2,7 @@ from utils import UDNode
 from xml.dom import minidom
 from nltk.corpus import wordnet as wn
 import evaluation
+import models
 import logging
 from tqdm import tqdm
 from argparse import ArgumentParser
@@ -73,6 +74,14 @@ def parse_args():
     parser.add_argument('--deprel',
         action='store_true'
     )
+    parser.add_argument('--skip-long',
+        action='store_true',
+        help='dont try to evaluate sentences with more possibilities than num'
+    )
+    parser.add_argument('--model',
+        choices=['unigram', 'interpolation', 'bigram'],
+        default='interpolation'
+    )
     parser.add_argument('--probs',
         nargs='?',
         default='../results/nodep_wn_autoparsed_th50.cnt'
@@ -94,8 +103,17 @@ LANG = {'en': 'eng', 'it': 'ita', 'es':'spa'}
 if __name__ == '__main__':
 
     args = parse_args()
-    # HACK choose possdict automatically since im to lazy to put it in argv
-    args.possdict='../data/possibility_dictionaries/wn/{}.txt'.format(LANG[args.lang])
+
+    if args.model == 'interpolation' and args.deprel:
+        args.model = models.InterpolationDeprel
+    elif args.model == 'interpolation':
+        args.model = models.Interpolation
+    elif args.model == 'bigram' and args.deprel:
+        args.model = models.BigramDeprel
+    elif args.model == 'bigram':
+        args.model = models.Bigram
+    elif args.model == 'unigram':
+        args.model = models.Unigram
 
     parsed_file = PARSED_DIR + \
         'semeval_sentences_{}_udpipe_v2.conllu'.format(args.lang)
@@ -108,10 +126,8 @@ if __name__ == '__main__':
         data = list(combine(semeval, udpipe))
 
 
-        ev = evaluation.Evaluation(**args)
-"""
-        for tree in data:
-            funs = ev.annotate(tree, progress_bar=True, max_perm=args.num)
+        ev = evaluation.Evaluation(args)
+        for tree in tqdm(data):
+            funs = ev.annotate(tree, skip_long=args.skip_long, max_perm=args.num)
             if funs:
                 semev_output(LANG[args.lang], tree, funs)
-"""

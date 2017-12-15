@@ -36,9 +36,12 @@ do
   sense_file='../../trainomatic/en_egs.tsv'
   data_file='../../trainomatic/en.conllu'
 
-  if [[ $name == *"clust"* ]]; then
-    sense_file='../../trainomatic/wnids_clust5'
-    dict='clust'
+  if [[ $name == *"super_clust"* ]]; then
+    dict='super_clust'
+    possdict='super_clust'
+  elif [[ $name == *"clust"* ]]; then
+    #sense_file='../../trainomatic/wnids_clust5'
+    dict='wn_clust'
     possdict='wn_clust'
   elif [[ $name == *"wn"* ]]; then
     dict='wn'
@@ -64,6 +67,8 @@ do
 
   if [[ $name == *"uni"* ]]; then
     command="python unigram.py $args"
+  elif [[ $name == *"clust"* ]]; then
+    command="python quantitative_clust.py $args"
   else
     command="python quantitative.py $args"
   fi
