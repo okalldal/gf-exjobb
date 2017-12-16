@@ -1,6 +1,7 @@
 from database import ProbDatabase, ProbTable
 import sqlite3
 from math import log
+from clust import Cluster
 
 
 class Unigram():
@@ -68,6 +69,36 @@ class BigramDeprel(Bigram):
             return self.backoff*Bigram.unigram(self, key[0:1]+key[2:])
         else:
             return val/marg
+
+class ClustBigram(Bigram):
+
+    def __init__(self, dbfile, basename, wnname, depclustname, headclustname):
+        self.db = ProbDatabase(dbfile)
+        self.basename = basename
+        self.backoff = backoff
+        self.bigram_table = ProbTable(self.db.cursor, self.basename)
+        self.unigram_table = ProbTable(self.db.cursor, self.basename + '_uni')
+        self.wn_uni_tables = ProbTable(self.db.cursor, self.wnname + '_uni')
+
+        self.depclust= Cluster(depclustname)
+        self.headclust= Cluster(headclustname)
+
+        # marginal distributions
+        self.marg_table = ProbTable(self.db.cursor, self.basename + '_headuni')
+
+    def get(self, key, pos=None):
+        # bigram
+        key = key[0:2]
+        clustkey = [self.depclust.cluster(key[0]),self.headclust.cluster(key[1])]
+        val = self.bigram_table.get(clustkey)
+        marg = self.marg_table.get(clustkey[1:])
+        clustuni = self.unigram_table.get(clustkey[:1])
+        wnuni = self.unigram_table.get(key[:1])
+        if not val or marg == 0 or clustuni == 0:
+            return 0#self.backoff*self.unigram(key[0:1])
+        else:
+            return wnuni*val/marg/clustuni
+
 
 class Interpolation():
     def __init__(self, dbfile, basename, constant=[0.4, 0.2, 0.2, 0.2]):
